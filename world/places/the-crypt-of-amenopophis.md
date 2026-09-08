@@ -12,7 +12,7 @@ holds:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-05T21:46:42Z'
+  at: '2026-09-08T20:39:14Z'
   method: read-and-extract
 evidence:
   holds: '''The Crypt is a kind of gigantic undead engine, used to restore Amenopophis...

@@ -7,18 +7,18 @@ status: draft
 
 # Review
 
-**562 concepts, 1456 relations**, derived by reading 288 source files in `~/praxia`. Source frontmatter was a hint, not an import; every field here came from the text.
+**562 concepts, 1458 relations**, derived by reading 288 source files in `~/praxia`. Source frontmatter was a hint, not an import; every field here came from the text.
 
 `confidence: stated` = asserted in the prose. `inferred` = deduced — check these first.
 
 ## Open items
 
-* **2 inferred** — deduced rather than stated: [Cult of Callistra](world/groups/cult-of-callistra.md), [The Absolvers](world/groups/the-absolvers.md)
+* **3 inferred** — deduced rather than stated: [Tiamat](world/people/tiamat.md), [Cult of Callistra](world/groups/cult-of-callistra.md), [The Absolvers](world/groups/the-absolvers.md)
 * **12 sessions with no recap and no transcript** — no description was written rather than guessing from prep notes: Session 003 · Obsidian Wing · 3 Mar 2025, Session 004 · Obsidian Wing · 17 Mar 2025, Session 006 · Obsidian Wing · 31 Mar 2025, Session 010 · Fivefold Brand · 21 Jul 2025, Session 011 · Thargorax · 30 Oct 2023, Session 013 · Thargorax · 27 Nov 2023, Session 014 · Thargorax · 11 Dec 2023, Session 019 · Thargorax · 19 Feb 2024, Session 022 · Thargorax · 15 Apr 2024, Session 026 · Thargorax · 22 Jul 2024, Session 028 · Thargorax · 19 Aug 2024, Session 030 · Thargorax · 2 Sep 2024
 
 ## Settled
 
-* **440 concepts** are `stated` — asserted in the source text, with the sentence recorded in `evidence` wherever a relation needed defending.
+* **439 concepts** are `stated` — asserted in the source text, with the sentence recorded in `evidence` wherever a relation needed defending.
 * **108 prep and reference files** are carried for coverage with no summary invented for them. Not a gap: the vault text is the content.
 * Duplicate candidates, contradictions and unwritten entities: see [reconciliation.md](reconciliation.md).
 
@@ -1608,7 +1608,7 @@ A Yuan-Ti pureblood cast out of his Salmuir temple for arguing against allying w
 * **Enemies:** Amenopophis
 * **Located in:** Salmuir
 
-#### [Tiamat](world/people/tiamat.md) · `deity` · stated
+#### [Tiamat](world/people/tiamat.md) · `deity` · inferred
 Queen of dragons, bound to Avernus by the Chains of Gleynir since the First War; she assumed the form of Thargorax to free herself, and failed.
 * **Aspects:** Thargorax
   > 'She most recently assumed the form of Thargorax and attempted to free herself, but failed.' — this REFINES the earlier reading: Thargorax is a form Tiamat took, not merely a related aspect.
@@ -1617,6 +1617,10 @@ Queen of dragons, bound to Avernus by the Chains of Gleynir since the First War;
   > 'She is bound to Avernus with the Chains Of Gleynir, but even they demand repair else she loose them and fly free.'
 * **Allies:** Agrona Sef, Zariel, Vaxith, the Hand In The Dark, Vyrassinth the Whispercoil
 * **Located in:** Tiamat's Lair
+* **Seeks:** The Chains Of Gleynir
+  > 'Her goals are now to: 1. Destroy RBG 2. If possible, break the Chains 3. Not get punished by Zariel'
+* **Serves:** Zariel
+  > 'Zariel is furious that RBG stopped her plans for Silgorin Below and demanded that Tiamat end RBG once and for all.' — INFERRED: a demand she fears punishment for refusing implies Zariel commands her; the text says ally elsewhere, so this may overstate it.
 
 #### [Traitor Crane](world/people/traitor-crane.md) · `npc` · stated
 Commander of the Blood Corsairs.

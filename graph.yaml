@@ -7068,3 +7068,16 @@ concepts:
     - Bel
     - Antipathy
     - Bitterness
+
+# ══════════ 2026-09-08 ingest: vault edits since the 2026-09-05 build ══════════
+# _sourcebooks/arcana/Tiamat.md gained a note that her goals have changed.
+# Append-only merge: relations below union with the entry above.
+
+- id: tiamat
+  relations:
+    seeks: [chains-of-gleynir]
+    serves: [zariel]
+  evidence:
+    seeks: "'Her goals are now to: 1. Destroy RBG 2. If possible, break the Chains 3. Not get punished by Zariel'"
+    serves: "'Zariel is furious that RBG stopped her plans for Silgorin Below and demanded that Tiamat end RBG once and for all.' — INFERRED: a demand she fears punishment for refusing implies Zariel commands her; the text says ally elsewhere, so this may overstate it."
+  confidence: inferred
