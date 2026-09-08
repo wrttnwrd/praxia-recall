@@ -6,7 +6,7 @@ description: Ship carries a captain, XO, gunner, 3 able hands and 3 regular crew
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:39:14Z'
+  at: '2026-09-08T20:50:58Z'
   method: read-and-extract
 sources:
 - id: source

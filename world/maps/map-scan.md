@@ -6,7 +6,7 @@ resource: file:///Users/i.lurie/praxia/_stories/the-leaning-leg/maps/Scan.jpeg
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:39:14Z'
+  at: '2026-09-08T20:50:59Z'
   method: read-and-extract
 confidence: stated
 ---

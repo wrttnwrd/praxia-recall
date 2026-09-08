@@ -7,7 +7,7 @@ status: draft
 
 # Reconciliation
 
-562 concepts. Run after every batch; it reports rather than merges.
+563 concepts. Run after every batch; it reports rather than merges.
 
 ## Same name, different concept
 

@@ -7,13 +7,13 @@ status: draft
 
 # Review
 
-**562 concepts, 1458 relations**, derived by reading 288 source files in `~/praxia`. Source frontmatter was a hint, not an import; every field here came from the text.
+**563 concepts, 1462 relations**, derived by reading 289 source files in `~/praxia`. Source frontmatter was a hint, not an import; every field here came from the text.
 
 `confidence: stated` = asserted in the prose. `inferred` = deduced — check these first.
 
 ## Open items
 
-* **3 inferred** — deduced rather than stated: [Tiamat](world/people/tiamat.md), [Cult of Callistra](world/groups/cult-of-callistra.md), [The Absolvers](world/groups/the-absolvers.md)
+* **4 inferred** — deduced rather than stated: [Tiamat](world/people/tiamat.md), [Ardmon Ignus Lacqui](world/people/ardmon-ignus-lacqui.md), [Cult of Callistra](world/groups/cult-of-callistra.md), [The Absolvers](world/groups/the-absolvers.md)
 * **12 sessions with no recap and no transcript** — no description was written rather than guessing from prep notes: Session 003 · Obsidian Wing · 3 Mar 2025, Session 004 · Obsidian Wing · 17 Mar 2025, Session 006 · Obsidian Wing · 31 Mar 2025, Session 010 · Fivefold Brand · 21 Jul 2025, Session 011 · Thargorax · 30 Oct 2023, Session 013 · Thargorax · 27 Nov 2023, Session 014 · Thargorax · 11 Dec 2023, Session 019 · Thargorax · 19 Feb 2024, Session 022 · Thargorax · 15 Apr 2024, Session 026 · Thargorax · 22 Jul 2024, Session 028 · Thargorax · 19 Aug 2024, Session 030 · Thargorax · 2 Sep 2024
 
 ## Settled
@@ -87,7 +87,7 @@ Each relation is stored once; these are the questions the other direction answer
 
 * **Atley** ← Hale's Ales, The Church Of Amoth (Atley)
 * **Aventine** ← Armak Rockfist, Axiat, Bataar Highfury, Erzohd Baendi, Faendal, House Umbra, Hull Ward, Kaelen Varrus, Keyleth, Merchant Ward, Osdryn Bluestrike, Parwairt, Raestrums Feather And Fountain, Sword's Cross, Taelian, The Docks, The High Ward, The Naphtha Caves, The Temple District, The Underground, The Zuppek Bazaar, Uppercuts, Xavis
-* **Avernus** ← Drakith, Grandma Valar, Morugal, The Dock Of Fallen Cities, Tiamat's Lair, Vaxith, the Hand In The Dark, Vyrassinth the Whispercoil
+* **Avernus** ← Ardmon Ignus Lacqui, Drakith, Grandma Valar, Morugal, The Dock Of Fallen Cities, The Wandering Emporium, Tiamat's Lair, Vaxith, the Hand In The Dark, Vyrassinth the Whispercoil
 * **Axiat** ← The Brimming Tankard, The Palace, The University Of Aventine
 * **Bedlam's Faire** ← Essie Darksinger
 * **Camadan** ← Aventine, Dirion, The Mining Camp, The Xorn Cave
@@ -878,10 +878,11 @@ A famous member of House Highfury and one of Marta's Marauders; bought The Brimm
 * **Owns:** The Brimming Tankard
   > 'Angus Bloodstone owns The Brimming Tankard' (Marta's Marauders).
 
-#### [Ardmon Ignus Lacqui](world/people/ardmon-ignus-lacqui.md) · `npc` · stated
+#### [Ardmon Ignus Lacqui](world/people/ardmon-ignus-lacqui.md) · `npc` · inferred
 A rakshasa of the Plane of Fire, nearly immune to magic; RBG destroyed his salamanders and drove him off, winning his quarters.
 * **Enemies:** Notorious RBG
-* **Located in:** The Elemental Plane Of Fire
+* **Located in:** The Elemental Plane Of Fire, Avernus
+  > INFERRED from 'A traveling emporium in Avernus, run by Ardmon Ignus Lacqui.' His earlier recorded location is the Elemental Plane of Fire; both are kept.
 
 #### [Arkhan The Cruel](world/people/arkhan-the-cruel.md) · `npc` · stated
 Guardian of Tiamat's Lair, bearer of the Hand of Vecna, working to break the Chains of Gleynir.
@@ -1401,6 +1402,8 @@ Vampires made from Shadar-Kai in the Shadowfell; the Obsidian Wing's assassins a
 #### [Obaris](world/people/obaris.md) · `npc` · stated
 A human wizard contaminated by long contact with the Gurges and the River Styx.
 * **Owns:** The Tower Of Obaris
+* **Killed by:** Notorious RBG
+  > 'Obaris was killed 15 Fading 07 by Notorious RBG.' (The Tower Of Obaris.md, Note)
 
 #### [Opius](world/people/opius.md) · `npc` · stated
 The Villain's Discontent's wizard, who works the ship's spell cannon.
@@ -1748,7 +1751,7 @@ Librarian of Ironstead, who showed RBG the -2000 FR woodcut of the five heroes.
 Commander of Urdun's 200-strong militia.
 * **Leads:** Urdun
 
-### places — 85
+### places — 86
 
 #### [Atley](world/places/atley.md) · `poi` · stated
 A dwindling town on Nova Zuros, steadily diminished by Morwenna's feedings; most of it now abandoned.
@@ -2168,7 +2171,7 @@ The main place of worship for Helm's followers, in Hull Ward; expects the Quinar
 * **Serves:** Helm
 
 #### [The Tower Of Obaris](world/places/tower-of-obaris.md) · `poi` · stated
-A half-collapsed necromantic tower leaning over the lip of the Gurges; its only living resident is the wizard Obaris.
+A half-collapsed necromantic tower leaning over the lip of the Gurges; its only living resident was the wizard Obaris, killed there by Notorious RBG on 15 Fading 07.
 * **Located in:** Silgorin
 * **Owned by:** Obaris
 
@@ -2197,6 +2200,13 @@ The Shadow Veil's massively trapped vault complex in the Undercity; RBG failed t
 * **Located in:** The Undercity
 * **Owned by:** Guthra G'hul
   > 'Players decided to go speak to G'ul, not realizing that the vaults they wanted to break into were actually his, and part of his business.' (session 002)
+
+#### [The Wandering Emporium](world/places/the-wandering-emporium.md) · `poi` · stated
+A travelling emporium in Avernus run by Ardmon Ignus Lacqui, who took it over after Notorious RBG destroyed him and shut down TEMU.
+* **Located in:** Avernus
+  > 'A traveling emporium in Avernus, run by Ardmon Ignus Lacqui.'
+* **Owned by:** Ardmon Ignus Lacqui
+  > 'run by Ardmon Ignus Lacqui' — read as ownership; led_by would also fit the wording.
 
 #### [The Whispering Abyss](world/places/whispering-abyss.md) · `region` · stated
 A deep, still, intensely salty lake west of Ironstead and Nigh Darûl, cut off from the Gap by The Fall.

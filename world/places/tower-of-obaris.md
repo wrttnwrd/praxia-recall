@@ -2,7 +2,8 @@
 type: poi
 title: The Tower Of Obaris
 description: A half-collapsed necromantic tower leaning over the lip of the Gurges;
-  its only living resident is the wizard Obaris.
+  its only living resident was the wizard Obaris, killed there by Notorious RBG on
+  15 Fading 07.
 praxian_date: 0 FR
 praxian_date_basis: founded
 located_in:
@@ -12,13 +13,13 @@ owned_by:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:39:14Z'
+  at: '2026-09-08T20:50:58Z'
   method: read-and-extract
 sources:
 - id: source
   resource: file:///Users/i.lurie/praxia/_sourcebooks/pois/The%20Tower%20Of%20Obaris.md
   title: 'Original: _sourcebooks/pois/The Tower Of Obaris.md'
-content_hash: 8bacb82f7da74dd0
+content_hash: 7f6e6dabc6a4d02a
 confidence: stated
 ---
 
@@ -65,6 +66,9 @@ Obaris keeps the following underlings:
 10 [Zombies](https://www.dndbeyond.com/monsters/17375-strahd-zombie) (as Strahd zombies)
 
 She will summon more if attacked.
+
+## Note
+Obaris was killed 15 Fading 07 by Notorious RBG.
 
 ## Related
 **Located in:** [Silgorin](../places/silgorin.md)

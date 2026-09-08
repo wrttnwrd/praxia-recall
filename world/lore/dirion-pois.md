@@ -6,7 +6,7 @@ description: 'The Wizard’s Pipe: If you want to enjoy a quiet wine and a game 
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:39:14Z'
+  at: '2026-09-08T20:50:58Z'
   method: read-and-extract
 sources:
 - id: source

@@ -69,12 +69,13 @@
 * [The Palace](the-palace.md) - Municipal complex holding the Prince's living spaces and the Conclave Extent where the houses meet.
 * [The Temple District](temple-district.md) - Most of Aventine's places of worship, excepting the Temple of Helm in Hull Ward and a small Pelor temple in the High Ward.
 * [The Temple of Helm](temple-of-helm.md) - The main place of worship for Helm's followers, in Hull Ward; expects the Quinary returned to it.
-* [The Tower Of Obaris](tower-of-obaris.md) - A half-collapsed necromantic tower leaning over the lip of the Gurges; its only living resident is the wizard Obaris.
+* [The Tower Of Obaris](tower-of-obaris.md) - A half-collapsed necromantic tower leaning over the lip of the Gurges; its only living resident was the wizard Obaris, killed there by Notorious RBG on 15 Fading 07.
 * [The Undercity](the-undercity.md) - The inhabited depths beneath Aventine, watched by the Shadow Veil.
 * [The Underdark](underdark.md) - Post-Fall, primarily the realm of the Duergar, plus a small community of strange Tabaxi and the svirfneblin artificers of Ironstead.
 * [The Underground](the-underground.md) - The tunnel network beneath Aventine, most of it controlled by Guthra G'hul.
 * [The University Of Aventine](university-of-aventine.md) - 800 students, no magical training, and one of the greatest surviving libraries in the world.
 * [The Vaults](the-vaults.md) - The Shadow Veil's massively trapped vault complex in the Undercity; RBG failed to rob it and Agrona Sef succeeded.
+* [The Wandering Emporium](the-wandering-emporium.md) - A travelling emporium in Avernus run by Ardmon Ignus Lacqui, who took it over after Notorious RBG destroyed him and shut down TEMU.
 * [The Whispering Abyss](whispering-abyss.md) - A deep, still, intensely salty lake west of Ironstead and Nigh Darûl, cut off from the Gap by The Fall.
 * [The Whitesand Steppes](whitesand-steppes.md) - Steppe country of the Silverscale Clan.
 * [The Wilted Urchin](the-wilted-urchin.md) - A largish hut on the biggest islet of H'Rare Nis, serving watery beer and every kind of cold fish imaginable.

@@ -9,12 +9,17 @@ enemy_of:
 - Notorious RBG
 located_in:
 - The Elemental Plane Of Fire
+- Avernus
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:39:14Z'
+  at: '2026-09-08T20:50:58Z'
   method: read-and-extract
-confidence: stated
+evidence:
+  located_in: INFERRED from 'A traveling emporium in Avernus, run by Ardmon Ignus
+    Lacqui.' His earlier recorded location is the Elemental Plane of Fire; both are
+    kept.
+confidence: inferred
 ---
 
 *No prose in the source; this concept was written from references elsewhere.*
@@ -22,4 +27,4 @@ confidence: stated
 
 ## Related
 **Enemies:** [Notorious RBG](../groups/notorious-rbg.md)
-**Located in:** [The Elemental Plane Of Fire](../places/elemental-plane-of-fire.md)
+**Located in:** [The Elemental Plane Of Fire](../places/elemental-plane-of-fire.md), [Avernus](../places/avernus.md)

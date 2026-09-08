@@ -7081,3 +7081,33 @@ concepts:
     seeks: "'Her goals are now to: 1. Destroy RBG 2. If possible, break the Chains 3. Not get punished by Zariel'"
     serves: "'Zariel is furious that RBG stopped her plans for Silgorin Below and demanded that Tiamat end RBG once and for all.' — INFERRED: a demand she fears punishment for refusing implies Zariel commands her; the text says ally elsewhere, so this may overstate it."
   confidence: inferred
+
+# ══════════ 2026-09-08 ingest (second run): vault edits since the 13:39 build ══════════
+# New source file _sourcebooks/pois/The Wandering Emporium.md; note added to The Tower Of Obaris.md.
+
+- id: the-wandering-emporium
+  kind: places
+  type: poi
+  title: The Wandering Emporium
+  description: A travelling emporium in Avernus run by Ardmon Ignus Lacqui, who took it over after Notorious RBG destroyed him and shut down TEMU.
+  source: _sourcebooks/pois/The Wandering Emporium.md
+  relations: {located_in: [avernus], owned_by: [ardmon-ignus-lacqui]}
+  evidence:
+    located_in: "'A traveling emporium in Avernus, run by Ardmon Ignus Lacqui.'"
+    owned_by: "'run by Ardmon Ignus Lacqui' — read as ownership; led_by would also fit the wording."
+  confidence: stated
+
+- id: ardmon-ignus-lacqui
+  relations: {located_in: [avernus]}
+  evidence:
+    located_in: "INFERRED from 'A traveling emporium in Avernus, run by Ardmon Ignus Lacqui.' His earlier recorded location is the Elemental Plane of Fire; both are kept."
+  confidence: inferred
+
+- id: obaris
+  relations: {killed_by: [notorious-rbg]}
+  evidence:
+    killed_by: "'Obaris was killed 15 Fading 07 by Notorious RBG.' (The Tower Of Obaris.md, Note)"
+  confidence: stated
+
+- id: tower-of-obaris
+  description: A half-collapsed necromantic tower leaning over the lip of the Gurges; its only living resident was the wizard Obaris, killed there by Notorious RBG on 15 Fading 07.

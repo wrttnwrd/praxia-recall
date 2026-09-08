@@ -17,7 +17,7 @@ okf_version: "0.2"
 * [lore](world/lore/) - 32 concept(s)
 * [maps](world/maps/) - 69 concept(s)
 * [people](world/people/) - 158 concept(s)
-* [places](world/places/) - 85 concept(s)
+* [places](world/places/) - 86 concept(s)
 * [prep](world/prep/) - 83 concept(s)
 * [rules](world/rules/) - 4 concept(s)
 * [sessions](world/sessions/) - 62 concept(s)
