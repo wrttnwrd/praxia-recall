@@ -80,7 +80,9 @@ Relations work in both directions — `ask.py` walks the inverse from
 ```
 
 Runs: `praxian_dates` → `build` → `review` → `timeline` → `reconcile` →
-`validate`. It clears and regenerates `world/` every time.
+`validate`. The build is incremental: a concept file is rewritten only when
+its content changes, so unchanged concepts keep their `generated.at` and a
+rebuild touches only what moved. Concepts dropped from the graph are removed.
 
 **`world/` is derived output. Never hand-edit it.** Corrections go to
 `graph.yaml`; facts about the world go to `~/praxia`, and are picked up on the

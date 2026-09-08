@@ -20,13 +20,13 @@ located_in:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-09-08T21:01:15Z'
   method: read-and-extract
 sources:
 - id: source
   resource: file:///Users/i.lurie/praxia/_sourcebooks/people/Ger%E2%80%99u%E2%80%99do%20Durtbourne.md
   title: 'Original: _sourcebooks/people/Ger’u’do Durtbourne.md'
-content_hash: 96b3a541d31e5ed2
+content_hash: 424f2fe35dc83fc9
 evidence:
   member_of: '''Ger''u''do is now a member of the Order Of Light tasked with investigating
     the new Domain Of Dread (Shadowmuir) alongside Nathan Dayspring.'''
@@ -46,6 +46,8 @@ Rikterr Shep’ard…
 Ger'u'do is now a member of [the Order Of Light](/world/groups/order-of-light.md) tasked with investigating the new Domain Of Dread ([Shadowmuir](/world/places/shadowmuir.md)) alongside [Nathan Dayspring](/world/people/nathan-dayspring.md). Because of that, he hasn't seen the letter.
 
 Ger'u'do and [Schala Zeal](/world/people/schala-zeal.md) were briefly lovers and are now good friends, but he hasn't seen her in years.
+
+Ger'u'do has only recently found out about the death of his friend, Rikterr. He had feared for his friend's sanity for some time. Sometime in FR 08 he may seek out RBG to learn more about what happened.
 
 [Ger'u'do Durtbourne Character sheet](https://www.dndbeyond.com/characters/88113664)
 

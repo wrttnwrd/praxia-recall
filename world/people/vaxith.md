@@ -13,13 +13,13 @@ located_in:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-09-08T21:01:15Z'
   method: read-and-extract
 sources:
 - id: source
   resource: file:///Users/i.lurie/praxia/_sourcebooks/people/Vaxith%2C%20the%20Hand%20In%20The%20Dark.md
   title: 'Original: _sourcebooks/people/Vaxith, the Hand In The Dark.md'
-content_hash: 5529ab20c4fcae59
+content_hash: d30efb0c5f7355bc
 evidence:
   serves: '''Infused with the essence of a Shadow Dragon by Tiamat.'''
 confidence: stated
@@ -88,16 +88,10 @@ Infused with the essence of a Shadow Dragon by [Tiamat](/world/people/tiamat.md)
 
 **Vanish into Soot:** When Vaxith takes damage, he can release a cloud of magical ash and move up to half his speed. This movement does not provoke opportunity attacks, and he can immediately take the **Hide** action as part of this reaction.
 
-## Tactical Notes for the DM
+## Update
+Vaxith is now with Tiamat, planning how he'll kill RBG.
 
-- **The "Shadow Anchor":** Vaxith is designed to work in tandem with Urush-Gǔl. While the dragon uses **Frightful Presence** to impose Disadvantage on the party's Ability Checks (including Perception), Vaxith moves in with his +17 Sleight of Hand.
-    
-- **The Escape Plan:** Once the **Astrolabe of Three Wishes** is secured, Vaxith will use **Shadow Jaunt** to move into the vertical shafts of the lair or hide within the dragon’s own shadow.
-    
-- **The Hook:** If the party detects him, Vaxith doesn't stand and fight. He leads them into traps or toward the dragon's claws, using his **Evasion** to ignore any area-of-effect spells the party tries to use to catch him.
-    
-
-**Would you like me to create a "Lair Action" specifically for Urush-Gǔl that helps Vaxith stay hidden during the encounter?**
+He will lead the next assault against them.
 
 ## Related
 **Serves:** [Tiamat](../people/tiamat.md)

@@ -83,10 +83,14 @@ def main():
         for n in [c["title"]] + (c.get("aka") or []):
             by_name.setdefault(n.lower(), c["id"])
 
-    if not dry:
-        shutil.rmtree(BUNDLE / "world", ignore_errors=True)
-
-    counts = {"from_source": 0, "authored": 0, "relations": 0}
+    # Incremental: a concept file is rewritten only when its content changes.
+    # Unchanged concepts keep their generated.at, so a rebuild touches only what
+    # moved and git/sync/Obsidian see real deltas instead of 560 timestamps.
+    NOW = now()
+    AT_RE = re.compile(r"^  at: '?([0-9T:Z-]+)'?$", re.M)
+    expected = set()
+    counts = {"from_source": 0, "authored": 0, "relations": 0,
+              "written": 0, "unchanged": 0, "removed": 0}
     for c in GRAPH["concepts"]:
         fm = {"type": c["type"], "title": c["title"],
               "description": c.get("description", "")}
@@ -131,7 +135,7 @@ def main():
             body = strip_wikilinks(body, idx, by_name)
 
         fm["status"] = "draft"
-        fm["generated"] = {"by": ACTOR, "at": now(), "method": "read-and-extract"}
+        fm["generated"] = {"by": ACTOR, "at": NOW, "method": "read-and-extract"}
         if c.get("source"):
             fm["sources"] = [{"id": "source",
                               "resource": f"file://{quote(str(SRC / c['source']))}",
@@ -161,10 +165,29 @@ def main():
         if related_lines:
             out += "\n\n## Related\n" + "\n".join(related_lines) + "\n"
 
+        dest = BUNDLE / "world" / path_of(c)
+        expected.add(dest)
+        if dest.exists():
+            old = dest.read_text(encoding="utf-8")
+            m = AT_RE.search(old)
+            if m and out.replace(NOW, m.group(1)) == old:
+                counts["unchanged"] += 1
+                continue
+        counts["written"] += 1
         if not dry:
-            dest = BUNDLE / "world" / path_of(c)
             dest.parent.mkdir(parents=True, exist_ok=True)
             dest.write_text(out, encoding="utf-8")
+
+    # Concepts no longer in the graph are removed (index.md files belong to review.py).
+    for stale in sorted((BUNDLE / "world").rglob("*.md")):
+        if stale.name != "index.md" and stale not in expected:
+            counts["removed"] += 1
+            if not dry:
+                stale.unlink()
+    if not dry:
+        for d in sorted((BUNDLE / "world").rglob("*"), key=lambda x: -len(x.parts)):
+            if d.is_dir() and not any(d.iterdir()):
+                d.rmdir()
 
     if not dry:
         # OKF v0.2 s9: flat list of date-grouped entries, newest first,
@@ -172,7 +195,8 @@ def main():
         log = BUNDLE / "log.md"
         today = dt.date.today().isoformat()
         entry = (f"- Rebuilt from graph.yaml: {len(GRAPH['concepts'])} concepts, "
-                 f"{counts['relations']} relations, {counts['from_source']} source files.")
+                 f"{counts['relations']} relations, {counts['from_source']} source files; "
+                 f"{counts['written']} concept file(s) written, {counts['unchanged']} unchanged, {counts['removed']} removed.")
         groups, cur = [], None
         if log.exists():
             for line in log.read_text(encoding="utf-8").splitlines():
@@ -180,9 +204,10 @@ def main():
                     cur = (line[3:].strip(), []); groups.append(cur)
                 elif line.startswith("- ") and cur:
                     cur[1].append(line)
-        groups = [g for g in groups if g[0] != today] 
         prior_today = next((g[1] for g in groups if g[0] == today), [])
-        groups.insert(0, (today, [entry] + [x for x in prior_today if x != entry]))
+        groups = [g for g in groups if g[0] != today]
+        # Newest first within the day: the rebuild line goes on top of earlier entries.
+        groups.insert(0, (today, [entry] + [x for x in prior_today if not x.startswith("- Rebuilt from graph.yaml")]))
         out = ["# Log", ""]
         for day, entries in groups:
             out += [f"## {day}", ""] + list(dict.fromkeys(entries)) + [""]
@@ -191,5 +216,6 @@ def main():
     print(f"concepts: {len(GRAPH['concepts'])}  "
           f"(from source: {counts['from_source']}, authored: {counts['authored']})")
     print(f"relations: {counts['relations']}")
+    print(f"files: {counts['written']} written, {counts['unchanged']} unchanged, {counts['removed']} removed")
 
 main()
