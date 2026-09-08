@@ -1,0 +1,520 @@
+# DND
+# Otter recording 2024/09/02 17:00:59 (1h 42m) id gWY3k3u8ljMUGy8R-mGAh6PW-sg
+# https://otter.ai/u/gWY3k3u8ljMUGy8R-mGAh6PW-sg
+# Speaker-attributed transcript, verbatim. Raw source for the card at /items/otter/2024-09/2024-09-02-rbg.md
+
+[0:01:52] Speaker 1: I can go there It is okay for tales fire.
+[0:02:11] Unknown Speaker(s): Hey, y'all,
+[0:02:12] Ian Lurie: hey. JP,
+[0:02:13] Unknown Speaker(s): how's it going? Good? James, your trip looked amazing. Yes, yes, it did.
+[0:02:26] Ian Lurie: Where did you go?
+[0:02:29] Speaker 2: So we still went to Seattle. On Wednesday. Went to a mariners game, we did some bar hopping, we went to the burlesque show. We went to dinner at Gaucho Aqua afterwards, the next morning was basically just Pike's place
+[0:02:52] Unknown Speaker(s): for a couple hours
+[0:02:58] Speaker 2: to Eastern Washington, to that place my wife found it. She's, she's one of those people that loves, like, searching, like
+[0:03:06] Ian Lurie: Airbnb, finding cool place, yeah,
+[0:03:07] Speaker 2: yes. She bookmarks, like, tons of these things. This place was, it's only been open for like couple years, and they primarily do weddings. It's on like 5000 acres. Holy crap. Wow. Yeah, yeah, it was. And like to say it's off the beaten path is not an exaggeration, like they had to build a road to get to get there, yeah, yeah, it was. So it's a, it's a neat place. There's really nothing out there like that. I mean, just looking at the hills and the there's a couple lakes back there, so that's pretty neat. And that game after you show up Friday night,
+[0:03:45] Ian Lurie: oh, that's why you're going in that direction. Okay, I was like, Why the hell would anyone ever drive unless you're going to Pullman, of course. Yeah. Addition to that, it is south east, more south than east, though. Okay, hey, Jamar.
+[0:04:11] Unknown Speaker(s): Hello, Jamar.
+[0:04:14] Ian Lurie: Cuz it's like an hour and a half southeast of of Spokane. Okay, yeah, we
+[0:04:19] Unknown Speaker(s): flew out back from Spokane, so got it.
+[0:04:27] Ian Lurie: Gotta love Spokane, bless their pointy little heads. I so if I send you guys a link to a tweet that I sent calling out the guys at Arvo can Would you mind retweeting it?
+[0:04:59] Unknown Speaker(s): Yeah, yeah. I yeah,
+[0:05:12] Ian Lurie: pretty diplomatic and patient and but this is just, this is just petty at this point, only putting my account back and not anybody else's. I mean, come on,
+[0:05:28] Unknown Speaker(s): yeah, and
+[0:05:29] Ian Lurie: no following the link. I mean, that doesn't
+[0:05:32] Speaker 3: is it? The one that starts K guys, come on, restoring my attribution, that'd be the Okay, I'm gonna retweet it right now.
+[0:05:40] Unknown Speaker(s): Thank you. Thank you. I It's
+[0:05:45] Ian Lurie: just so fucking small. It's like, Come on, guys. And I know what they're gonna say. They're gonna say, Oh, it's a security issue. It's like, you can actually go into you may not know this, but you can go into WordPress. You can change people's usernames and passwords, yeah. And then they can't actually log in anymore.
+[0:06:04] Speaker 4: I think that's a new feature from WordPress that they just implement, like two months ago. Well,
+[0:06:09] Ian Lurie: what I'm gonna really laugh at is if they left the old admin password in place. So let's just see. Shall we?
+[0:06:21] Unknown Speaker(s): That's funny.
+[0:06:24] Ian Lurie: Someone's going to share a brick when they see, you know what? I probably shouldn't do this. I'm not going to do this, because then they're going to be like, hey, wait a second. We were right. We shouldn't be letting in there. However, they unobfuscated the login page. You can just go straight there now we had it hidden.
+[0:06:54] Unknown Speaker(s): Okay? Checking. Hail Spire,
+[0:07:09] Ian Lurie: I realized last time I had the map set so dark you probably missed that there's actually a doorway here.
+[0:07:15] Unknown Speaker(s): Oh, wow, yep.
+[0:07:20] Ian Lurie: Not critical, but I thought I'd point it out.
+[0:07:23] Unknown Speaker(s): So I'm going to
+[0:07:25] Ian Lurie: pretend it's really dark and atmospheric. We're going to change it to that. No,
+[0:07:39] Unknown Speaker(s): I still I haven't
+[0:07:41] Ian Lurie: lighting settings in this and of course, I'm going to have learned all this stuff just in time for Google to or Google right Wizards of the Coast, who's basically the Google of our industry, to launch their tools that I so Yelp is suing Google for antitrust, and they cited, they cited the case I'm working On in their in their complaint, nice, Google's gonna someday, I am just going to disappear. Poof, okay,
+[0:08:32] Unknown Speaker(s): they're gonna bury you on the second page.
+[0:08:35] Ian Lurie: Oh, no, right now, right now. I'm on page 52 so I'm not really worried about it.
+[0:08:47] Unknown Speaker(s): Okay. Jordan, Nope,
+[0:08:56] Ian Lurie: it's so buggy that this is the one part. Nope. I I just stopped sharing screen for a second. Yeah, hey, it's actually showing a that I have selected, which isn't really, I mean, yeah, there's a trap, but I don't necessarily need it showing up on the screen. Why not? You know what? Apparently, it's just going to show it and there's not, well, Ian, yeah, not a thing I can do about it. All right, that's okay. That's all right.
+[0:09:47] Unknown Speaker(s): It's the open source version of check for traps,
+[0:09:56] Ian Lurie: still not letting you sign in or,
+[0:09:59] Speaker 4: well, jump. Okay, so I have a, e3, a, i, p, T, G, and that takes me back to the Ron.
+[0:10:17] Unknown Speaker(s): SF, right, okay,
+[0:10:18] Speaker 5: yeah, mine threw me back last time I tried to join too, like, I couldn't get the current map. Let me
+[0:10:24] Ian Lurie: see. If you guys don't mind, give me a second here. Yeah,
+[0:10:30] Unknown Speaker(s): hi, tank, yes, you can say hi to everyone.
+[0:10:34] Ian Lurie: Hi somewhere, there's like, a call everyone
+[0:10:40] Speaker 5: button, like summon them. Shouldn't it? Something
+[0:10:44] Ian Lurie: like that? Let's see,
+[0:10:49] Unknown Speaker(s): I just meant for flavor because I was getting a beat. I can publish the board,
+[0:10:57] Ian Lurie: but it doesn't really care about that. We know that because the grown asff Ambush didn't, let's see here summon players to this board. Holy shit. Look at that. Did any guys get messages? Hey?
+[0:11:19] Unknown Speaker(s): No, I had to do my two step over here. Okay, join have I been summoned?
+[0:11:37] Ian Lurie: I can do it again. I I want to make sure also that I've got you guys all set for the right users.
+[0:12:08] Unknown Speaker(s): Yeah, it looks right, right?
+[0:12:25] Ian Lurie: I don't know. I'll just share that. I'll just share the map.
+[0:12:29] Speaker 2: I can't use tailspire At the same time. It always crashes me.
+[0:12:36] Unknown Speaker(s): Everyone can see this. Okay, just fine. I owe you
+[0:12:39] Ian Lurie: guys like an extra bear or something in Portland to make up for the fact that I made you spend money on this program, which is a wonderful program for DMS, but not for anyone else. Okay,
+[0:12:51] Unknown Speaker(s): so here's where we're at
+[0:12:55] Ian Lurie: last time you came down into this sort of warrant of gives trying to find dura, a young orc girl who was kidnapped from, oh,
+[0:13:08] Unknown Speaker(s): who I got in this time.
+[0:13:10] Ian Lurie: I was just gonna say, I just saw a couple people show up. I'll just, I'll just keep summoning There we go. This won't get annoying at all. You came down here to try to find dura, a young Oracle who was abducted by someone named morwena, who apparently has been feeding on members of the town, theories about what she is at this point, you know, feeding on members of the town, all that kind of stuff. You came down here. You met a hermit slash Archmage named Sue returned her gem to her, for which she was very grateful. You met her, her, Oh, someone just
+[0:13:57] Unknown Speaker(s): jumped move things. But, oh, look
+[0:13:59] Ian Lurie: at that. We got, yeah, we got people. We got people. Okay, cool. Um, you made your way into fuck. I just said it. You made your way into the dungeon. You fought a ghost, uh, mossy, cheerfully sidled up to a mimic and got attacked by it, which was fine, because it was just a mimic, and you took care of it, and then you made your you headed down a hallway to this room, just my clever lighting tricks. You walked right past this doorway, which, if you would like, you can go back and look at, and I'll give you a reason in a moment, but you fought to Zorn that were in this room that you didn't really, you couldn't really tell what they were saying. They were saying something, and then they came and they attacked you and well, you know, that was kind of how it went. So that's where you're at at this point. You're trying to find your way through here to get to dura, who is being held by, apparently, a vampire. Oh, you also discovered that these crystals, when released from the stone around them and the dirt around them, float into the air and the entire castle. Okay, do the best I can here tonight. I don't know why my brain's not quite working, right. But, um, when you dug these out of the dirt, out of the walls of the cave and everywhere else, and you let go of them, they floated up into the air, and they are everywhere. You can see lines and traces of them in the walls. That's why it's lit down here. That's why you can see, all right, so just as this fight ends, you guys hear a voice back here, kind of echoing out, saying, hello, hello.
+[0:15:59] Speaker 5: You hear this where we came? Yeah, right about there Mossy Oak shove Drak towards it,
+[0:16:10] Unknown Speaker(s): yeah. Why does he
+[0:16:11] Ian Lurie: always get pushed towards the hole? You don't, by the way, you don't have to move your
+[0:16:15] Unknown Speaker(s): minis. Anyways,
+[0:16:19] Speaker 4: you know, I like to pick the holes that I go into.
+[0:16:24] Ian Lurie: It's very much about consent to
+[0:16:27] Unknown Speaker(s): holes. Yeah, I'll peek in. Okay,
+[0:16:39] Ian Lurie: you turn around and there's, and you approach the the doorway, and there's a little like it's, it's hard to pick them out, but it's like a three foot tall humanoid who looks like they're made of rocks. They're very skinny, long, skinny arms, very long. Skinny neck, really narrow, thin torso. If it was flesh, they would look wiry, like really skinny, but strong, you know, like cabling tendons and muscles up and down their arms and legs and their head looks like a piece of rock rounded on the bottom so it has a jaw. Normal jaw has eyes and sort of a nose, but the top of its head is all cracked in random directions, like it was just broken out of a piece of rock. And it says, wait, I heard a noise, and thought I would come check, are you? Are you all right,
+[0:17:45] Unknown Speaker(s): I have an arrow knocked, but not at the ready. We're fine. Are you okay?
+[0:18:00] Ian Lurie: Oh, yes, yes. Like,
+[0:18:01] Unknown Speaker(s): do you live here?
+[0:18:03] Ian Lurie: We're Yes. We live in the rock we work here. Another little head, another little head peeks around. Different shape, different like shape cracks on its head, but otherwise looks very similar.
+[0:18:19] Unknown Speaker(s): So are you friends with, like, the bigger dudes,
+[0:18:23] Ian Lurie: the WHO dudes? What's a dude?
+[0:18:25] Unknown Speaker(s): The bigger ones, the bigger Zorn does.
+[0:18:31] Ian Lurie: Oh, Zorn, no, they're, they're kind of their own,
+[0:18:35] Unknown Speaker(s): their own thing.
+[0:18:38] Ian Lurie: We were pecs and we work, we work with the stone. And we've been chiseling and chipping down here for quite some time, actually. But that's all right, you can go on your way. I just wanted to make sure everything was all right out here. Oh, hey, look
+[0:18:56] Unknown Speaker(s): at her well being. Is there more?
+[0:19:01] Speaker 4: I have a quick question. For you. Of course,
+[0:19:05] Ian Lurie: they step out into the they step out into the past. They are indeed, like three feet tall, tops.
+[0:19:12] Speaker 4: Yeah. So I've got a couple questions like, so one, quick, so you built this one?
+[0:19:18] Ian Lurie: No, no, no. We do some extra tunneling. We do some light maintenance, things like but most of our work here is chipping out the the small stones, the glowing crystals.
+[0:19:29] Speaker 4: Okay, and why do you do that? Because we noticed that they tend to float when they're
+[0:19:34] Ian Lurie: separated from this whole place floats. He kind of he. It looks like you're the dumbest kindergartner it has ever seen. It says, that's why this place floats. Yes, I'm used to that look. And then it looks past you, and it looks at cregyn ad R and it looks at mossy and says, oh my goodness, we've never seen everyone like you two down here before. So yes, anyway, we are. We're chipping out the rock, and then we bring it to the cave. We're working with the the foreperson, the foreman, and it's, it's a man, so we can call him a foreman, right? But we're working with the foreman, and he pays us in in some really choice gems and and then we come back and we just keep doing that
+[0:20:23] Speaker 4: I see. So there are other residents of this structure, oh
+[0:20:30] Unknown Speaker(s): yes, there's a lot.
+[0:20:33] Speaker 4: Oh yeah. And so I guess I'll just like specific one of these residents, who's taken a friend of ours, and we know that she is not terribly friendly, and we fear for the life of
+[0:20:51] Ian Lurie: a child you're talking about, Marwan. Yes, she's, she's pretty awful. You know, we don't she drinks blood. We don't have blood, so we try to stay out of her way. She stays out of ours. But the work that we're doing on the stones down here, we're pretty sure that is, it's sort of helping her, but I think it's helping everyone else too, because they're trying to figure out how to how to land the island, right?
+[0:21:16] Unknown Speaker(s): So if we were to
+[0:21:19] Speaker 4: remove her from the situation, like, would that make your work better?
+[0:21:25] Ian Lurie: The two of them look at each other, and then they look at you, and they kind of go, they shrug, right? Doesn't make a big difference. But like I said, we don't have blood. And there's other people here, and they're very nice, and she keeps eating them.
+[0:21:39] Speaker 1: That seems i Yes,
+[0:21:47] Speaker 5: mossy is hopping up and down behind Drak. Question, you you know this cave really well then,
+[0:21:52] Ian Lurie: right? Well, yes, it's our cave. I mean,
+[0:21:56] Unknown Speaker(s): could I could dribble you for a map? Oh, I, guess so,
+[0:22:06] Ian Lurie: what's a map?
+[0:22:08] Speaker 6: A picture that shows me where things are, the hallways in here the
+[0:22:18] Speaker 5: I'll take out some assorted maps I've drawn and I've stolen.
+[0:22:24] Speaker 4: Oh, are there other thin passages that?
+[0:22:30] Ian Lurie: Oh yes, yes, here. Do you mind coming with us? I promise you, we are very harmless. You could crush us with one thumb. That's
+[0:22:39] Speaker 5: true. And also good to hear that you're harmless.
+[0:22:42] Ian Lurie: Yeah, we, we're only harmful to stone, and then only on the live stone. We're not really worried about anything else. Okay, everybody look away from your screens for a minute, or look away from the Actually, wait a minute. I can just, I'll just do that.
+[0:22:55] Speaker 5: Oh, I was liking the high drama of averting our dainty eyes.
+[0:23:09] Ian Lurie: The other thing I'm still learning how to do here, Oh,
+[0:23:11] Speaker 3: damn it. I was just gonna do my name is power by and then I see JPR, did power Drak. And I'm like, fuck.
+[0:23:20] Ian Lurie: I actually laughed out loud at that one, by the way. All right, okay, so they lead you back down this little, narrow, little passageway. And in this passageway you see more of them. There's probably, you think, 10 or 15, and they're very small, so they're just kind of crawling all over the rock. They're just chipping away. They have these little tools that could be sort of hammers and chisels, but they're incredibly fast with them. It's almost like watching a machine, like some kind of digging machine, given how fast they're digging. And right now they're down here, and they seem to be digging out around a green crystal and pulling out some of the green crystal at a particularly high rate, they are pulling out blue, but also green. And you can see this is the direction they're going right now. And you get the sense that if you stood here for an hour, they would have gone another six feet. So they're very fast diggers, and they say, a few of them turn around and they just kind of look at you, and they greet you, but then they immediately go back to working their stone. It's pretty clear that that's their you know, that's their thing.
+[0:24:32] Speaker 4: Difference between the blue ones and the green ones
+[0:24:35] Ian Lurie: the so the green ones, they fly more steerable. They can, you can, you can make the stone go towards other stone that's somewhere else.
+[0:25:00] Unknown Speaker(s): So who are you selling this too? And what do they use it for?
+[0:25:03] Ian Lurie: We're not selling it. We're giving it to the foreman who works for Marana. But, and then they feed us gems. Because, I mean, we don't really need to eat, but gems are very tasty. We really enjoy them. So, you know, and we're not doing anything else, and this could potentially help us, you know, help everybody here. So this, it's just, it's a good chance for us to give something back. You might say, we try to be good members of the community. We've been here for a long time. Yeah, one of them goes, just kind of moves past you, says, Excuse me, and then you hear this behind you, and all of a sudden there's a little alcove, and they're just digging
+[0:25:50] Unknown Speaker(s): party line that wasn't stealing what
+[0:25:56] Speaker 4: guys. Like, I feel like this could be really, really useful for something, but, like, I can't quite wrap my head around it. Like, like, maybe, like, would Lysander want this?
+[0:26:10] Unknown Speaker(s): Would mossy want this? Yes, yes.
+[0:26:15] Speaker 4: Okay, so mossy, what would you use this for? Because, like, I can for science. Like, could you, like, tie it onto like, let's say I don't know.
+[0:26:27] Ian Lurie: So while you guys are talking to each other, they've sort of drifted off. They're going back to work, okay? And they're, you know, they're polite, they're kind of, they're moving around you. They're doing their thing. One of them, the one that you've been speaking to, takes cuts out a square piece of stone from the floor, and does a little extra work on it, and says, so give me a moment. And then gets to work on the piece of the flat piece of stone. You're not sure what he's
+[0:27:01] Unknown Speaker(s): doing. I try something up.
+[0:27:05] Ian Lurie: I looking at our Oh, here we go.
+[0:27:16] Speaker 4: So if any what would, what would your favorite gem bee to eat. Uh,
+[0:27:25] Ian Lurie: they're these ones that are sort of a white, yellow, I think you call them diamonds, and they're particularly tasty, I have to say. But you know the truth is, any any gems are, they're quite delectable. Um, acceptable, but the shinier, the better. Okay, you have not one of the other ones stops. You have not lived until you've had a diamond pancake. Diamond pancakes are the best. And then it goes back to work, I
+[0:28:01] Unknown Speaker(s): questions about
+[0:28:03] Speaker 6: the pancake part of that, right? I'm
+[0:28:10] Speaker 4: just imagining there, like the blueberries in regular pancakes. But I've got some emeralds, I've got some rubies, I've got some sapphires, I've got Some Topaz. I'm a little hesitant
+[0:28:23] Unknown Speaker(s): on in the midst Uh, hold on,
+[0:28:45] Speaker 4: I will, I will shoot, I will drop the link. I'm there. Here we go. Imagine if
+[0:28:55] Speaker 5: I could just rig is like a little if I could take one of the lifeboats from a normal boat and make that for the airship, and then it could
+[0:29:12] Ian Lurie: Crazy Talk, never
+[0:29:14] Unknown Speaker(s): if you put them in a bag that
+[0:29:16] Speaker 5: that you're not trying to destroy mossy joy, she Will if
+[0:29:21] Speaker 2: you put them in that magical baggie, or mossy, would the bag float?
+[0:29:26] Speaker 5: I've got a small one in here right now when it's not floating, but maybe that's just a matter of how much is in there.
+[0:29:34] Speaker 4: Well, I'm wondering if we could, like, trade enough what we have for one of our green floating gems.
+[0:29:40] Ian Lurie: And you're speaking party line, right? Yeah, yeah.
+[0:29:45] Unknown Speaker(s): The green one more floaty than the blue one.
+[0:29:47] Ian Lurie: They are. Well, yes, yes. Sorry, he's what he's what the the one said was, they're particularly floaty. And they can be, they can be pointed towards other rocks, and it seems like they're definitely not speaking common as their native tongue. And there's definitely some some concepts that they're not quite communicating the way you would. You know, they're having a hard time communicating
+[0:30:17] Speaker 5: them. Okay, yes, the pile of gems is in our our shared workbook. Yeah. We could also, you know, murder, stabby, stabby and shop stop at the gift shop on the way out. Um, yeah,
+[0:30:39] Speaker 4: okay, so let's think about that. Because I also, I also like, I feel like time is important, like we could definitely explore this for science, but we should probably, if we, if we can't think of anything that we need, should probably go as,
+[0:31:02] Speaker 6: Oh no, I need them as I need them because you don't know why.
+[0:31:22] Unknown Speaker(s): Island down,
+[0:31:24] Speaker 4: I need to pull out one of the rubies, because rubies are beautiful, actually. No, tell you what. I am going to get one of our Okay. In the dragon's cave, we picked up 21 rare blue gems.
+[0:31:48] Unknown Speaker(s): We don't know what they do,
+[0:31:52] Speaker 4: so I'm thinking one rare blue gem in exchange.
+[0:31:59] Unknown Speaker(s): Cool. We good.
+[0:32:05] Speaker 5: We have a new gem of Sue because I don't know what this murder spoon is, and I love it.
+[0:32:09] Ian Lurie: A murder spoon, yes, I have no idea what a murder spoon is, either definitely some mossy Oakland right there.
+[0:32:17] Speaker 4: Oh, no, that's a drag. Okay? The it was the in the blue dragon's cave, there was a spoon used to poison. Oh,
+[0:32:29] Ian Lurie: that's right, the spoon used, yes, yes, okay,
+[0:32:33] Speaker 4: and we took it to give the Guthrie ghoul as a general. This seems evil, and we don't want you to hate us, and
+[0:32:43] Speaker 2: we're sorry we blew ourselves in your caves, though, here freezing.
+[0:32:53] Speaker 4: Okay, so I'm thinking one of the rare blue gems as part of our dragon loot. We good,
+[0:33:02] Unknown Speaker(s): okay, excuse me. Excuse me.
+[0:33:04] Ian Lurie: Yes, you realize that their eyes don't have pupils. Yeah, they're just kind of these little black discs in their in their faces.
+[0:33:14] Speaker 4: So in our travels, we found this, and I show him this, the blue gem, which is described as weirdly Japanese, okay,
+[0:33:29] Ian Lurie: takes it, looks at it goes like this. It's a precious stone. I think you would call it valuable. No, no special properties, very tasty. It's, it's quite tasty.
+[0:33:48] Speaker 4: Would you agree to trade one of your green gems for one of these?
+[0:33:55] Ian Lurie: Oh, of course, of course. There's, there's plenty of this that this is everywhere here. He just takes out a chunk, like this big, and just hands it to you. He says, He doesn't toss it to you. They don't toss it to you. They kind of, they kind of steer it towards you like this, because it's floating in the Says, Now be careful with it. If you have a small pet of some kind, I think that's what you call them, it will float away. I Okay, my friend, actually, we haven't seen him since he he grabbed a particularly large piece. He's around here somewhere. But, yeah, no,
+[0:34:32] Speaker 4: my friend mossy loves it when you start, loves things that start with the phrase Be careful with this.
+[0:34:39] Unknown Speaker(s): You look back, I have a claw into the dirt. I'm popping ones
+[0:34:45] Speaker 4: out. Thank you so much. Please enjoy this gem. This is how we say thank you, Sheila go.
+[0:34:51] Ian Lurie: Also, do we need more? Also here, um, he the one who was carving something into a flat piece of so if you look in the chat right now, I made this. It's very rough, but this should give you an idea of what it looks like here. All right,
+[0:35:08] Unknown Speaker(s): I'm gonna take out my notebook and copy this down,
+[0:35:16] Speaker 5: assuming we don't want to carry the roll. Okay? Roll, a performance check. I
+[0:35:26] Unknown Speaker(s): uh, such,
+[0:35:33] Ian Lurie: 25 I had high hopes for just a random scribble on a page, but, okay, you get it. It's a you get an excellent representation. He looks if a rock could look disappointed, he looks vaguely disappointed back down on the ground, and he says, Well,
+[0:35:55] Unknown Speaker(s): just for ease of use, you did really beautiful work.
+[0:35:58] Ian Lurie: Oh, thank you,
+[0:35:59] Speaker 2: Mr. Mr. Rock, where, where on this map are we right now?
+[0:36:04] Ian Lurie: Oh, he, he points. And, my God, how the hell am I going to show you this? If you look at the actual maps that I just put into the chat, and you see along that at the top left, there's kind of the long section that goes into an L shape area that's where the ghost and the the the mimic work this close to that center central area, that smaller central area, that's where the Zorn were. And right now you're standing in the area where those two, the two little caves going up and down, are that long, that little short passageway. So
+[0:36:53] Unknown Speaker(s): we even go to the speech bubble. The shape of it looks like a comic speech bubble.
+[0:37:00] Ian Lurie: Yes, no, you have not gotten there yet. So a few other quick things this. You know what? I'm just going to share this stupid map for a second.
+[0:37:17] Unknown Speaker(s): It was really I
+[0:37:23] Ian Lurie: this right here. Can you see my cursor right now this? So be careful here. That's where chaucis and fossas live, and they don't like guests this here. Oh,
+[0:37:33] Speaker 7: before we move on, real quick, juvenile, one of them
+[0:37:44] Ian Lurie: looks like a I mean, they both look like four legged animals. I don't know much about York. I don't go up top very often outside. We don't like it there, but they do look like they're definitely four legged, quite large compared to us and you. They, well, they're they're very aggressive. Yes, they it, yes. My other friend was chewed into gravel just a few, a few years ago. It was very sad. So anyway, they don't appreciate visitors. And then this, this cave over here, the creatures there turn they we've had to occasionally visitors have come down here, and we've had to help them after they go in there, because the
+[0:38:42] Speaker 1: creatures are we've
+[0:38:49] Ian Lurie: you know, sometimes we have to go and fix them. If one of you does get turned to stone, just make sure that you don't that no pieces get broken off. If pieces get broken off, we can't help with that, but if you're still intact, we can usually make you back into you. But one of them had is, you know, had knocked his friends and accidentally broken his head off, and there's just not much we can do then, yeah, it was awkward. Watch your head. Gotcha. Let's see. What else can I tell you?
+[0:39:22] Unknown Speaker(s): Where does Moana live?
+[0:39:26] Ian Lurie: Marina. She, she lives down, well, I don't know, actually, but she, we see her all over. We're always taking the gems here to this place. That's where we spend most of our time. They had us do some digging here. These rooms have been here for a long, long time, much longer than this island has been flying the same with a lot of this marijuana. Had us dig out these up here. She keeps animals there now and then. This leads to the outside, but, but it leads to the if you just keep going and you don't stop, you're just going to fall and probably die. I don't not too long way down. You might
+[0:40:21] Unknown Speaker(s): need to bring something floaty with us.
+[0:40:25] Ian Lurie: Oh, don't do that. No. Oh, well, then you just you float up forever, and then you probably die too. I don't know what's up there, but it's probably not good. We had someone do that. They never came back,
+[0:40:40] Unknown Speaker(s): all right, all right. Thank you for inviting Molly's thoughts we should know about,
+[0:40:55] Ian Lurie: Well, be careful everywhere that there's there's bad things the the foreman is not a terribly kind person, and they have a pet. It's a very large version of some of the creatures we see in here. Sometimes they're not really a bother, but the large one can could really be a bother. I think I see one of
+[0:41:23] Unknown Speaker(s): the ones in there look like
+[0:41:27] Ian Lurie: he takes out a piece of stone and just kind of goes really quickly and gives you something that looks sort of like a mosquito. Oh,
+[0:41:42] Unknown Speaker(s): that's there.
+[0:41:43] Ian Lurie: They're about this big that's in
+[0:42:00] Unknown Speaker(s): this place, Marina.
+[0:42:03] Speaker 5: Does Marina have any other employees? You know, get a foreman. Typically, a Foreman's in charge of something.
+[0:42:09] Ian Lurie: No, he's in charge of us.
+[0:42:11] Unknown Speaker(s): Ah, anyone else,
+[0:42:15] Ian Lurie: not that we've ever met people do, I mean, she does bring people down here, but,
+[0:42:23] Speaker 1: yeah, okay, all right, thanks for everything. There were
+[0:42:35] Speaker 5: lots of caves already existing in here, and lots of chambers any of the new areas that you build happen to overlap with those?
+[0:42:45] Ian Lurie: No, I mean, most of this is the is the old caves. They we didn't. We haven't really dug many new caves. We dug a few rooms like this.
+[0:42:58] Unknown Speaker(s): These, much.
+[0:43:06] Ian Lurie: Oh, we did dig some passages here to some connecting passages. No one ever seems to use those. Okay, they're very small.
+[0:43:19] Unknown Speaker(s): How big is Marina?
+[0:43:23] Ian Lurie: She looks at they look at all of you, and
+[0:43:27] Unknown Speaker(s): see sort of
+[0:43:28] Ian Lurie: like all of you,
+[0:43:31] Unknown Speaker(s): all of us together, are all of us. No,
+[0:43:33] Ian Lurie: she would fit in with you. She's about the size of of the shiny one there and she, he, they point at Richter, not as shiny, though
+[0:43:54] Speaker 8: he is exceptionally shiny. Good.
+[0:44:08] Unknown Speaker(s): Well, thanks, friends. We really appreciated
+[0:44:11] Speaker 5: today, of course, like this might not be your thing, but have you ever tried
+[0:44:18] Unknown Speaker(s): a copper, a copper Hannum one is a snack. Try
+[0:44:25] Ian Lurie: looks at it. It's like, well, this, this is metal. Who eats metal?
+[0:44:36] Unknown Speaker(s): Very strange. I rumor has some automatons eat metal. I thought I'd find
+[0:44:49] Ian Lurie: that they hand it back to you and say, I mean, it's fine, but it's definitely not for us. No,
+[0:44:55] Unknown Speaker(s): fair. Yeah. Okay.
+[0:45:03] Ian Lurie: I have to get back to work. Okay, look,
+[0:45:09] Speaker 5: you know, harm is gonna hurt, even on some gems that gives my charcuterie, I
+[0:45:23] Unknown Speaker(s): so
+[0:45:25] Ian Lurie: are you turning the head out or Yes?
+[0:45:29] Speaker 5: So it sounds like we should in the next chamber, you know, just make sure to take that left and not go to anything else, because that's a whole lot of mauling and maiming.
+[0:45:40] Unknown Speaker(s): Yeah.
+[0:45:43] Speaker 5: Like, I wonder this party line. I wonder if you killed their friends. Those guys were also rock,
+[0:45:52] Speaker 4: yeah, but they said that they kind of took themselves, and they don't really work together to get much. So everybody's
+[0:45:59] Speaker 7: got a big, dumb cousin, yeah,
+[0:46:04] Unknown Speaker(s): now they have two fewer. So,
+[0:46:17] Speaker 4: okay, so I guess we could scooch ahead and I want to, if we're being stealthy, I really kind of want to listen to, what the what the creatures are like. Are they snuffling? Are they roaring?
+[0:46:35] Ian Lurie: Which? So you're going, Are you going to so you're heading towards here, you know, I'm going to reorient this so it looks like it does on the
+[0:46:52] Unknown Speaker(s): Yeah, on the map.
+[0:46:57] Ian Lurie: No, okay, that's right. Okay, I can do this, so you're here now,
+[0:47:02] Speaker 4: so that yes, so self and where the big, the big square is, yeah, that has Yeah, looks like
+[0:47:22] Speaker 1: the West.
+[0:47:29] Speaker 4: I just want to listen, but I don't actually want to trigger them, okay. I don't want to grow them okay.
+[0:47:37] Ian Lurie: And as you move this way, and I'm just going to let you guys see, since you
+[0:47:41] Unknown Speaker(s): now have,
+[0:47:50] Ian Lurie: so you now see this as you creep this way, and you hear kind of and just, you know, yes, some you're getting some player knowledge here, so, but you hear creatures over here. These aren't very accurate models because they don't actually have the right models in tail Spire. But you hear something. You hear things shuffling around, and you hear some kind of, some snarling sounds, maybe some chewing and
+[0:48:30] Speaker 1: anything more than that. Yeah, okay, well, 2020
+[0:48:48] Unknown Speaker(s): off crates. 27 Okay. Um,
+[0:49:01] Ian Lurie: so anyone rolled higher than a anyone enrolled a 20 or higher, which still is everyone except Drak. Ironically, you hear creatures moving, and you think it's two of them that they probably have claws on their feet, and they are. They almost sound like they're moving furtively, like they're moving kind of quietly. You can't quite tell how big they are. You can't quite tell exactly where they are. It's clearly whatever they are. They're They're either naturally or deliberately trying to be quiet. Mossy kind of reminds you, actually, of a cat. When a cat's walking on a surface that's so noisy that even when it's trying to move silently, you have you can, you can hear it.
+[0:50:01] Speaker 5: Okay? Um, I will, I will share that. And typically, when a cat is trying to do that, they're hunting something, all right.
+[0:50:22] Unknown Speaker(s): So maybe we should avoid this area.
+[0:50:25] Speaker 3: Yeah, if we don't know that more women childs here, we should keep moving
+[0:50:35] Unknown Speaker(s): towards Yeah, yeah. Okay. I here.
+[0:50:43] Speaker 5: I mean, alternatively, just hear me out. Could also be a great place to drop them in,
+[0:50:50] Unknown Speaker(s): maybe a little explodey. I love explosions. I with them.
+[0:51:05] Speaker 5: Mossy starts looking through the bag of sequel. Do I have to make explosions with do
+[0:51:09] Speaker 2: you think we ought to try to be quiet, or than we normally are to sneak up on some stealthy stuff? Maybe not, maybe not a big bang yet I stood still here, maybe we saved the big bangs for just a theory.
+[0:51:36] Speaker 5: My thought was, if Marina has made friends with the other people in the neighborhood, maybe she calls them for backups.
+[0:51:44] Unknown Speaker(s): They'll get us later. Yeah,
+[0:52:04] Speaker 4: you know, because if she can turn to mist, she could probably run off and list help.
+[0:52:17] Unknown Speaker(s): So
+[0:52:18] Speaker 4: do we just take care of them, or do we keep going?
+[0:52:24] Unknown Speaker(s): How big is the entryway?
+[0:52:27] Ian Lurie: It is like you see here,
+[0:52:30] Speaker 4: single person, double person,
+[0:52:33] Speaker 5: okay. Does it look to be made of solid stone, or is it made of like naturally occurring storm.
+[0:52:52] Ian Lurie: Everything in here is cave walls that are reasonably smooth, but not perfect. You know, someone definitely dug through here, which you can't really tell, you know, easily is, you know, you can give me a perception check. You're not, you know, but stone is not really your thing,
+[0:53:16] Unknown Speaker(s): yeah, 23
+[0:53:18] Ian Lurie: okay, you think this is probably pretty hard stone.
+[0:53:22] Unknown Speaker(s): Okay,
+[0:53:23] Ian Lurie: you saw how hard they were working, even how hard the packs were working to cut at it. So
+[0:53:31] Unknown Speaker(s): is it stronger than, say, 10 vials of blasting powder?
+[0:53:37] Ian Lurie: How much have you worked with blasting powder?
+[0:53:40] Unknown Speaker(s): I mean, I made some assorted explosives before.
+[0:53:45] Speaker 4: You don't know, you've never used them to do that kind of thing.
+[0:53:58] Unknown Speaker(s): Hey, mossy oaky, why? What, what if wait is, is your little fairy dragon still with us? No, Kiki's not watching the kids. That's right. Rat, you the world's first uncle guy. So Mossy
+[0:54:24] Speaker 2: Oak, can you? Can you call Carrie back on here, have her go fly down and check it out.
+[0:54:32] Unknown Speaker(s): We know what's in there. They already told us,
+[0:54:34] Speaker 2: but if you saw them, maybe we would know more about them.
+[0:54:41] Unknown Speaker(s): Okay, so I got idea,
+[0:54:43] Speaker 2: what if you sneaky? Sneaked down there and thought of them.
+[0:54:50] Unknown Speaker(s): Yeah, but if I'm not sneaky, and I'm not actually, I
+[0:55:03] Speaker 5: I actually know she does not think she would be sneaky enough. She doesn't have any more rogues blessings left.
+[0:55:07] Unknown Speaker(s): Okay,
+[0:55:10] Speaker 4: yes, I have an idea if we're gonna take these two out, which I am bro, I'm totally okay with that. I don't think we should blow up their cave, because I think that we do need some sort of explosive entry or exit. We should save that for that
+[0:55:34] Unknown Speaker(s): feeling. You know, why did the hallway the How tall is the feeling? You know?
+[0:55:44] Ian Lurie: Why this always, yeah, sorry, I'm pulling that five feet wide, about, I think probably about 10 feet high.
+[0:55:55] Speaker 4: Are there any spider threats or bats?
+[0:56:00] Unknown Speaker(s): Not.
+[0:56:05] Ian Lurie: I mean, you know what? Give me a nature check,
+[0:56:08] Unknown Speaker(s): all right,
+[0:56:09] Ian Lurie: or a survival check,
+[0:56:14] Unknown Speaker(s): all right, that's a 21
+[0:56:17] Ian Lurie: you have seen signs of that here and there some guano, but you have not heard or seen any actual vets.
+[0:56:25] Speaker 4: I'll tell the group. If you see any spiders or rats or bathroom animals like a beast, sense into their eyes, then I can be the scout.
+[0:56:36] Speaker 7: Well, seems like maybe we should keep walking till we see one. Yeah, yeah.
+[0:56:43] Speaker 2: But then, can you send the them down that way? Are you just looking through their
+[0:56:48] Speaker 4: I'm just, yeah, I can, I can use their eyes, and I can move around
+[0:56:53] Unknown Speaker(s): you, able to talk to them into going down this hallway. Then, I think sometimes,
+[0:57:02] Speaker 1: it's more
+[0:57:10] Speaker 4: about the information, like their intelligence. It's like, if they can only use their intelligence to tell me what they see. And sometimes it's and sometimes they can't count higher than, like, the number three. How you're there. They're like three. I'm like, that sounds great. And I walk in, it's like 12 of them. So it's unreliable. It's better than nothing. So
+[0:57:33] Speaker 5: keep in touch with those Cappy bears. You seem like you really vibe with those guys. They're not here right now. Everybody just thought about them.
+[0:57:43] Speaker 2: Yeah, again. Lastly, can you never mind so
+[0:57:50] Speaker 4: All right, are we going to commit? Are we going to are we going to sneak up and take them out? Or
+[0:57:54] Speaker 5: are we I'll go be sneaky. I just if it goes wrong, I might maybe need an extraction plan, and I don't think cregyn ad rhetorizes Those for me, I
+[0:58:03] Unknown Speaker(s): will make an exception.
+[0:58:11] Ian Lurie: All right, so you're gonna sneak down there, Mossy Oak.
+[0:58:18] Unknown Speaker(s): Imma sneak. All right.
+[0:58:20] Ian Lurie: Give me see here, what's your move speed, 3030, give me two stealth checks. I'll get you the way
+[0:58:39] Unknown Speaker(s): Mossy Oak. Me to be halfway back up
+[0:58:43] Speaker 5: low. One's the 19 the high one is so many. 31
+[0:58:51] Ian Lurie: okay, you get down there. The rest of RBG, you don't hear her at all. You're not sure where she went, but you blend in with the shadows. And, you know, this really, it's nice and shadowy, and it's, you know, the the floor is pretty solid, so you are incredibly stealthy as you move down the hallway, and you get to the end, and you look into the room, and the room is better lit than most, because it's filled with stone, and in the room you See a creature with three heads, some kind of Dragon, maybe, or a serpent, a lion and a goat, and it has wings, and then another creature with the head of a lion. And it this is, this is not the right monster, the head lion and this long tail, and at the end of the tail, all of these quills on it, and then a large pair of wings, and they just seem to be prowling back and forth in here.
+[1:00:15] Speaker 5: I'm gonna take my true sight goggle and drop it down as well.
+[1:00:19] Unknown Speaker(s): Okay,
+[1:00:22] Ian Lurie: looks exactly the same. Okay.
+[1:00:23] Unknown Speaker(s): Now,
+[1:00:28] Speaker 5: party line back. Yeah, no, I don't think I did the math right on that.
+[1:00:42] Unknown Speaker(s): I will describe what they look like as well.
+[1:00:44] Speaker 2: Do you see anything shiny and something valuable in there at all? DM,
+[1:00:54] Unknown Speaker(s): do I not at first glance? Just
+[1:00:59] Ian Lurie: maybe it's got gold healings. More of those, you know, more of those glowing, more of the crystals. But, yeah,
+[1:01:07] Unknown Speaker(s): they're everywhere. Okay, I'm in this way back then, darn it.
+[1:01:17] Ian Lurie: Okay, you sneak your way back. All right. Wayne, give me a give me a couple cell checks just to make sure.
+[1:01:26] Unknown Speaker(s): Oh so good. Yeah, 31 and 30.
+[1:01:29] Ian Lurie: No problem.
+[1:01:35] Speaker 5: I'm going to go to the other side of the rock thing and just wave them over to me,
+[1:01:40] Ian Lurie: over to so you can just the entranceway
+[1:01:43] Speaker 5: coming out. I would just be standing by that wall, pointing to screen my finger, but you still knew what I meant. So that's a win. I
+[1:02:03] Ian Lurie: I'll just stick to top down unless something hits fan. Okay,
+[1:02:11] Speaker 1: so, yeah, I
+[1:02:28] Unknown Speaker(s): you don't have a pet. You want one?
+[1:02:35] Ian Lurie: Nope, good. I'm good. Nothing like a pet. Magic or I mean, they're the best.
+[1:02:42] Speaker 4: Okay, so we should we go east? What?
+[1:02:52] Speaker 5: Oh, never mind. There's actually a compass down there. Yeah, I'm
+[1:02:55] Unknown Speaker(s): sure, whatever the what south we need to go. Okay,
+[1:03:04] Speaker 4: so I'm going off. I'm going off the picture, yeah,
+[1:03:08] Ian Lurie: well, the picture should match up now,
+[1:03:10] Unknown Speaker(s): yes,
+[1:03:13] Speaker 2: yep, did we do you want to explore down that left hallway?
+[1:03:18] Ian Lurie: Mossy. Well, that's where, Okay, which one, the other, the other left hallway, this
+[1:03:23] Unknown Speaker(s): one, yeah, about, well,
+[1:03:30] Speaker 2: they warned us about the one with the Beastie things in it. They
+[1:03:34] Ian Lurie: actually warned you about both of them. Be be nice to you guys. They warned you about both.
+[1:03:40] Speaker 5: There is a child in imminent danger that you were seemingly attached to, like, Oh no, 20 minutes ago.
+[1:03:48] Unknown Speaker(s): That's so true. All right, move on. Yes. Okay,
+[1:03:55] Ian Lurie: so which way are you going? East? Yeah. So the the two mapping programs use a completely different set of controls. So if it seems like the map is going in all directions, it's because I'm literally, like, trying to figure out, what the hell, how I move stuff around so mossy, that's south, my bad. If you want to go south, that's cool, but all right,
+[1:04:31] Unknown Speaker(s): yes,
+[1:04:39] Ian Lurie: all right, so this is what you see. You move down that hallway. Oh, and you got you don't have to move your minis if you don't want to, but it's kind of fun to watch
+[1:04:55] Speaker 5: Use the arrows to make it go. Boop, boop, boop, boop, I wait, what's our marching order? Do
+[1:05:04] Ian Lurie: you have any Yeah, do you have any particular
+[1:05:08] Unknown Speaker(s): marching order? I'll go first,
+[1:05:13] Ian Lurie: clanky in the back. Yeah, that makes sense. Which clanky Do you want all the way in the back, the shield human can be in front of, okay, so Richter And then cregyn.
+[1:05:40] Speaker 4: Ad R being stealthy up to this intersection
+[1:05:44] Ian Lurie: so mossy, when you move up to there, the smell of animal droppings just almost overwhelms you. Coming out of this passageway, it's it's gross, and you hear sounds almost like a farm. You hear like mooing, and you hear the sound of pigs. You hear all sorts of sounds that are just very, very strange.
+[1:06:16] Unknown Speaker(s): And this is the room they said was going to be, yeah, the livestock. So hey to folks here soon, too. Yeah, what?
+[1:06:26] Ian Lurie: I didn't actually draw those out. So
+[1:06:31] Speaker 2: what if you know how, like, you know the the myths are that vampires can strange, you know, shelled humans of their stuff, and turn them into their blood, their blood, and turn them into vampires. Can they do that with animals
+[1:06:56] Unknown Speaker(s): like Vampire sheep, vampire pigs?
+[1:06:58] Ian Lurie: Oh, my God. What reduced nightmare. Sorry, sorry. I'm allowed to say that.
+[1:07:10] Unknown Speaker(s): Just make sure that room's kosher before you go in. That's what I'm saying.
+[1:07:13] Speaker 5: I mean, if we really wanted to fuck with her, we would just open this pen right now, because that means it's going to be chaos and that means there isn't really any keeping a place of to hunker down an ambush
+[1:07:32] Unknown Speaker(s): like this is kind of drastic. If there are animals in danger, he's gonna want to plow.
+[1:07:46] Speaker 2: So the priority lit for you, Drak, uh, dura, the cute little girl.
+[1:07:53] Unknown Speaker(s): Oh, look. You remember her name, vampire pig. Where? What's the what's the priority number one? Well, vampire, big, way low. It's already a vampire, but we don't do if it's a vampire. Pig. You got about that? Let's go.
+[1:08:13] Ian Lurie: Hey, yeah, drag, give me a track. And who are two bet, who's who are best at nature, Drak and who else has
+[1:08:27] Unknown Speaker(s): four to nature? I think it might be higher than Drax. I've got a plus one to nature.
+[1:08:32] Ian Lurie: Okay. Cregyn ad, RM, okay, so cregyn ad, R this rise, if food is limited here for a vampire, she's probably not going to create competition. She's probably being very careful about that.
+[1:09:05] Speaker 2: So she does that thing where she sucks them in twice, but not the third time.
+[1:09:11] Ian Lurie: Well maybe, but she's certainly she's probably not creating vampires that that much.
+[1:09:18] Unknown Speaker(s): I read about that in a book, looking, yeah, yeah,
+[1:09:21] Ian Lurie: yeah, yeah.
+[1:09:23] Unknown Speaker(s): Got it all right,
+[1:09:33] Ian Lurie: you hear a couple of moves.
+[1:09:37] Speaker 5: I mean, we can't just liberate them, because the twins are out front and they don't know it's not snack time. Oh
+[1:09:43] Unknown Speaker(s): yeah, the twins would just be like, yeah,
+[1:09:48] Speaker 5: not seen a nice, nice hog in a minute.
+[1:09:52] Ian Lurie: Neither is the Chimera. Probably.
+[1:09:58] Unknown Speaker(s): Okay, okay,
+[1:10:00] Speaker 2: do you want to go in? And maybe the, maybe the, the handler guy, the overseer, Overlord, the manager, foreman, that's what I said. That's maybe they're
+[1:10:13] Speaker 4: in there. I'm sorry, pigs, they're pretty smart. Trek's gonna check out the animal pads. Okay,
+[1:10:19] Ian Lurie: so you go inside and it's three large rooms with no real separation between them. It's it's like a big barn, and the floor is covered with hay and actual soft earth that someone must have brought down here. There's feed troughs and water and everything set out. There's a pretty ingenious lighting system of some kind that's bringing light down into this place. It's quite bright, and it almost looks like a series of mirrors are doing that somehow. And looking in here, you do see maybe five or six cows, 10 or 11 pigs, some just very random chickens, just running around under your feet. And that's about you're not quite sure. I mean everything, they're all moving around quite a bit. There's no real order to it. They're not in specific pens or anything. It's just a big open area and the the the cows kind of look up at you from Sorry, do you just walk in, or are you stealing it? Yeah, okay, the cows kind of look up at you and they're chewing, then they just look back down. The the pigs look up and they're quite interested. They actually and so did the chickens? The chickens immediately come over towards you. All right,
+[1:11:44] Unknown Speaker(s): speak of animals? Okay, I'm gonna go to one of the pigs. Okay. Track Drak, yeah, hey, yo. Now you do.
+[1:12:09] Speaker 4: I'm gonna get you out of here, man, nice, like, because the one I understand, like, there's this lady and she's sucking you all's blood. I'm sure you'd rather be out in the open, open air, on the dirt, eating acorns and doing that stuff.
+[1:12:26] Ian Lurie: Yeah? She, she's kind of a bitch, if being totally honest with you, yeah, you like, she actually, like, hangs us upside down and drains all our blood out and drinks it and the fuck yeah. She, I'm telling you, she's, she's the worst. Okay,
+[1:12:42] Speaker 4: here's the here's the problem that I got. And honestly, like, I'm not talking to cows, I'm not talking to chickens, like I'm only, I only want you like to understand this, like, I Off, off the distance, like there are some pretty nasty things that will will want to eat you guys. So we're going to try to take care of this woman who's sucking your blood. And when I come back, I want the pigs to understand that I'm going to try to lead you all out. Oh yeah, sure, and take you back in town
+[1:13:26] Ian Lurie: and where everybody wants to eat us.
+[1:13:28] Unknown Speaker(s): Well,
+[1:13:30] Speaker 4: where do you want to go? I could let you, let you loose in the forest. Yeah.
+[1:13:34] Ian Lurie: I mean, they'll still find us eventually. But I mean, you know, we're pigs. I mean,
+[1:13:42] Unknown Speaker(s): you're no longer I don't
+[1:13:43] Ian Lurie: know where my anyways,
+[1:13:49] Unknown Speaker(s): pig the
+[1:13:52] Ian Lurie: forest, the forest is better than here. And honestly, everything tries to eat us all the time. So if we could leave it's
+[1:14:05] Speaker 4: or you got a chance out there? Yeah. All right. All right, okay, um,
+[1:14:14] Ian Lurie: can I do quick favor? Yeah, we got man. Can Can I tell that the cows too. The chickens, they they won't remember if I tell them now, they'll forget if I trust
+[1:14:25] Speaker 4: the cows. Oh, absolutely okay,
+[1:14:30] Ian Lurie: they're great, all right, man, no, let
+[1:14:33] Speaker 4: the cows know. And I've got, I've got a, I've got a I described mossy, oak. I described cregyn. Ad R described bricktar.
+[1:14:42] Speaker 5: I'm in the doorway, so if you point back, I'm just gonna wait, yeah, like they're
+[1:14:46] Speaker 4: with me, and if you see them wildly pointing at something, just follow them. I hope I get back. I might, I might not. Hey, drag, just say, Yeah, moss.
+[1:14:59] Unknown Speaker(s): So we found Marina snack drawer, the kitchen. Pig we are. We're kind of, we're kind of planning a prison riot, a prison break. You know, two things can be true. Just, is this where she eats as well?
+[1:15:21] Speaker 4: Yes, like, like, she actually hangs them down, drains their blood kind of thing. Yeah, it's bad. Oh, actually, he doesn't know what. Yeah, like, I
+[1:15:33] Speaker 5: know you're vibing with this pig, but like, back at the house, like, I made a little secret passage to get to the kitchen because, from my from my workshop, because snacks were too far away. Yes, like, nobody wants to go really far away for a snack. Oh, I know you asked the pigs how to how she get in here?
+[1:15:53] Speaker 4: Yeah, that's a great question. Hey, does she come through the store? Is like, like, Is there, like, a secret door that she comes in? She She walks, she
+[1:16:01] Ian Lurie: just goes by the cat lady. I mean cat lady. She's not there when she does it, but she
+[1:16:11] Unknown Speaker(s): was like through the door. Okay, you know, all right, man,
+[1:16:20] Speaker 4: I hope I see you again, but I'm gonna do everything I can to get you, get you all out of this week. Thanks, man. See letter pig. They'll do pig. He
+[1:16:36] Ian Lurie: just looks at all the other pigs like, Oh, boy. Never heard that one before.
+[1:16:47] Speaker 4: This is where she comes and kind of just snacks on them. She doesn't kill them, but they hate her, and they want to leave. They'd rather be outside. You
+[1:16:58] Ian Lurie: notice, actually, now that there is a large metal. It's it almost wasn't noticeable, but there's a, like an impression in the floor about 10 feet from you. It's sort of disc shaped or and there's a small um, there's like, a red ring around it, um, like almost rust color.
+[1:17:32] Speaker 4: Yeah, the pigs are going to sell the cows, like, the chickens are basically little gossips, but like, when we come back like, you know, don't worry, Echo And sir, be they'll they'll be they'll be hungry, but like, they'll settle. They'll be fine. So
+[1:17:51] Speaker 2: if I hear this right, you're going to lead the pigs and the cows that are involved and the chickens you hope are going to follow?
+[1:17:58] Unknown Speaker(s): Yes, talk about Yeah, no. Chickens
+[1:18:05] Ian Lurie: are followers. I mean,
+[1:18:06] Unknown Speaker(s): what did that cylinder look like? It did? It
+[1:18:11] Ian Lurie: looks like a big bowl. The red stuff looks like dried blood,
+[1:18:24] Speaker 4: so it's not it's not fresh. So it's been a while since the pig tell you later, or see you later, Smell you later.
+[1:18:41] Unknown Speaker(s): Did that pig just roll its eyes at you? He totally did. I'm gonna burn a speak of animals. Yeah, Google, all right. Did you ask them about dura? Yeah, they didn't see her.
+[1:19:12] Ian Lurie: All right, so you all head to the end of the passageway here, I'm assuming, and that is where there's kind of an elbow like this, God damn it. No one saw that.
+[1:19:27] Unknown Speaker(s): What? What the
+[1:19:37] Ian Lurie: Okey doke? So maybe I'll just show everything, and this is too powerful for me. What hope you all are enjoying this
+[1:19:56] Unknown Speaker(s): I'm looking away.
+[1:20:01] Ian Lurie: Okay, so what you see, and you're just going to have bear with me, is a hallway like this. So you're down at the other end here, and you're looking down this long, straight hallway. I
+[1:20:32] Unknown Speaker(s): like so can we listen at the doors? You
+[1:20:37] Ian Lurie: can who would like to go listen at the doors.
+[1:20:41] Speaker 2: I would like to listen at the doors. Okay, I'm going to use my horn. That is a 23
+[1:20:52] Speaker 4: Okay, nice. Uh, which door? Uh,
+[1:20:56] Speaker 2: first one on the right. Okay, um,
+[1:20:59] Ian Lurie: you, when you listen at that door, you hear a child's voice whispering. Can't quite make out what is but
+[1:21:16] Unknown Speaker(s): does it sound like? Dura can't quite make out what it is, Okay, gotcha.
+[1:21:21] Ian Lurie: Can't quite, yeah, you can't. It's pretty, pretty thick door. You think,
+[1:21:26] Speaker 2: okay, all right, then I'm going to move over to the one across the hall. Okay, that is a 20, all right,
+[1:21:40] Ian Lurie: probably an older child sobbing.
+[1:21:44] Speaker 2: Ah, okay, next two doors, then 26
+[1:21:55] Unknown Speaker(s): and 26 Okay, so
+[1:21:56] Ian Lurie: silence at the one on the right. The one on the left is the sound of a child's voice singing. And again, it does not sound like dura, not as near as you can tell. Okay,
+[1:22:13] Speaker 2: so that I tell them the rest of the party over the party line, style, correct. Crying, older child crying child,
+[1:22:33] Unknown Speaker(s): I beg your fucking pardon. I'm not sure what that meant. Do we get them?
+[1:22:42] Speaker 5: Are you saying there's living children in there?
+[1:22:47] Speaker 2: Probably maybe sounds like So sounds like a child in that room, an older child crying in that room, a child singing in that one, and then there's no sound out of this. All
+[1:23:02] Speaker 4: right, you just saw a bunch of modern ghosts. Do you know if they're living or if they're like ghosts
+[1:23:10] Unknown Speaker(s): or in their traps? What language was they're crying in? Um,
+[1:23:18] Ian Lurie: yeah, you're not sure. What about thinking? The singing was in common.
+[1:23:33] Speaker 5: Words, they're crying in the that's the GOP platform, right?
+[1:23:42] Unknown Speaker(s): All right,
+[1:23:43] Speaker 5: so can you do that weird thing you do where you find stuff that we lose all the time, you know, like when drakman kind of sandals, and you were, like, I cast find Drakes fucking shoes. Can you do that with the boat you made?
+[1:23:59] Unknown Speaker(s): Oh, I have, you mean, this boat right here, my bag that I found already. I can't see your bag. You're down the hall. What?
+[1:24:08] Speaker 2: Oh, sorry, it's right here. Let me hold it up already. Okay, we got that.
+[1:24:19] Unknown Speaker(s): So the we have a room we want to go on first?
+[1:24:29] Speaker 5: Which you asking which of the child pens we'd like to open? I'm gonna
+[1:24:34] Speaker 3: say that I was more freaked out about your description of the child singing. So I would say that one first.
+[1:24:42] Unknown Speaker(s): All right, yeah, okay, all right, open that one first. He's still down there by himself, right? Yeah, I'm just letting go for it. I got I believe in you.
+[1:24:56] Speaker 2: Hold up. I uh,
+[1:25:07] Unknown Speaker(s): okay, I am going to be throwing up on the door. Yep, you're gonna put on your fireproof pants.
+[1:25:16] Speaker 2: I am going to cast silence in the middle of the hallway. Okay?
+[1:25:22] Ian Lurie: He wore brown pants. He had the right idea.
+[1:25:27] Unknown Speaker(s): Love that movie.
+[1:25:32] Ian Lurie: Okay, so it is now silent. You open the door, there is in this room, there's a table that's set with all sorts of goodies that look pretty fresh. And there's a big four poster bed that looks extremely comfy. And sitting on the bed, there's a little boy playing with a couple of dolls just singing quietly to himself. And when you come in, he looks up and he says something, but you can't
+[1:26:07] Unknown Speaker(s): tell. Okay,
+[1:26:11] Ian Lurie: he says, you're muted.
+[1:26:15] Speaker 2: Victor, you look more like these kids than I do. Do you want to come down here and maybe be the face of the party for a minute
+[1:26:23] Unknown Speaker(s): on it.
+[1:26:26] Ian Lurie: So you have to, kind of Oops, that's not Richter.
+[1:26:31] Unknown Speaker(s): That's Richter. I'm
+[1:26:33] Ian Lurie: just going to move all of you up. So I'm gonna have to keep moving
+[1:26:36] Speaker 5: them in, yeah, for probably all coming along at this point.
+[1:26:45] Unknown Speaker(s): So Richter
+[1:26:49] Ian Lurie: you get to the door, and cregyn ad R you do that, and Richter than you do that. And the so you're in, you're outside the silence now I'm assuming cregyn, because it's filling the hall and not I don't have a little kid mini in here. Kid looks up, says, Oh, hello. You figured boy is probably maybe five or six years old. Very serious, very pale.
+[1:27:22] Speaker 3: I'm gonna go ahead and burn one of my divine senses so I can know the location of any celestial scene or undead within six feet that is not behind total cover.
+[1:27:38] Ian Lurie: He is not any of those things. Oh, God, bless
+[1:27:42] Unknown Speaker(s): America. I was just like, oh, man, this is going to be freaky. Hey, son, are you okay? A
+[1:27:56] Ian Lurie: little lonely.
+[1:28:00] Unknown Speaker(s): How did, how did you get down here?
+[1:28:03] Ian Lurie: The the lady took me down here that was a long time ago,
+[1:28:09] Unknown Speaker(s): a long time. How, how many sleeps ago? Oh,
+[1:28:16] Ian Lurie: I don't, I don't know. I it's, it was probably three or four weeks ago, and she brings me. She does bring treats. He points towards the table
+[1:28:40] Speaker 2: over the party line. Rick, are you here? Ask, ask him if he's from Atley.
+[1:28:47] Unknown Speaker(s): Are you from Atley? Oh, yes,
+[1:28:53] Speaker 2: tell him. Tell him his parents sent us to find him and rescue the kids. Stick
+[1:29:10] Unknown Speaker(s): the party.
+[1:29:12] Ian Lurie: You are standing right there too. So great.
+[1:29:18] Unknown Speaker(s): Are are you hurt at all?
+[1:29:22] Ian Lurie: No, I would like to go home now though,
+[1:29:25] Speaker 3: Ah, don't worry. So I want to introduce you this right here with my friend Craig, and he's the one who heard you singing and wanted to come in here and say hello. Hello, um, if you'll go out and down the hall, you'll see my friends, mossy and Drak.
+[1:29:50] Unknown Speaker(s): Okay, the option, um, do you know are did have you seen the other kids that are down here?
+[1:30:02] Ian Lurie: No, I, she brought me down here. She brought me straight in here. I, I haven't been out of this room.
+[1:30:10] Unknown Speaker(s): All right, don't worry. You're, you're safe now. Go, go check in with Drak and Mossy Oak. Ask Drak to tell you about his hair care products. It'll, it'll be a riveting story.
+[1:30:21] Ian Lurie: So the little boy, he moves to the door, and when he gets there, he kind of hesitates. He looks and says, That's really scary.
+[1:30:32] Unknown Speaker(s): Will I be safe? Greg grabs his hand and walks him down. Okay.
+[1:30:39] Ian Lurie: He grabs your hand, he looks up at you and just kind of walks along next to you, and He then turns into a jet. No, he you both walk down the hall, and you mossy and Drak. You see cregyn come around the corner with this small boy, probably about five years old, pretty, pretty unkempt. You know, hair is a little bit longer and kind of ratty, but otherwise appears to be in good health and very pale, as I said.
+[1:31:09] Unknown Speaker(s): Yeah, he introduced them to mossy and Drak and so then we're gonna check the other rooms and be right back. Well, hey, not to be a Debbie Downer, I love that you're adopting at your age. What the fuck are we supposed to do with them? We're about Kelly, V, A, m, p, i, R, E, I think we're going to walk them out. I i Maybe get them back to town while we take care of the MIP. Right? The parents are out there, but, all right, I'll back you up. This is a pretty big rescue. Let's, let's get the other kids out, and then we'll check the other rooms, and then we'll finalize the plan. I
+[1:32:25] Ian Lurie: Okay, so you go into this room next, I'll just say, and in this room there's a little little girl, and they're sitting on it. The room is very similar. There's more toys in here than in the other room, the same big bed,
+[1:32:48] Unknown Speaker(s): and they're kind of spring
+[1:32:53] Ian Lurie: sitting way back in a corner of the room like over here. And when the door opens, they both kind of jump and they press themselves back up against the wall a little bit more. Hey.
+[1:33:06] Unknown Speaker(s): I mean, don't worry. No need to fear, no need to fear. Are you guys? Are you guys hurt?
+[1:33:14] Ian Lurie: Why don't you give me a persuasion check? They're both human, by the way. Persuasion, I issue.
+[1:33:28] Unknown Speaker(s): That is 17,
+[1:33:30] Ian Lurie: okay, they the girl kind of cautiously comes forward a little bit, and they appear to be the same age. And she says, No, we're not hurt.
+[1:33:46] Unknown Speaker(s): Did a did a lady bring you down here? Okay, well, my name is Richter, and this tall, handsome man is my friend, Craig. And then we're, we're here to help you outside in the hall are my friends mossy and Drakken. We're going to make sure that you're safe. Now
+[1:34:16] Ian Lurie: they are very docile, is the way you would put it. At this point, they just, kind of, they just sort of shuffle out towards the door. You think they are probably maybe four years old at most, over the even Taylor
+[1:34:31] Unknown Speaker(s): over the party line, hey Richter, what was the name of that last photo? We just rescued.
+[1:34:40] Ian Lurie: It. Didn't ask
+[1:34:44] Unknown Speaker(s): Jack's like, Yeah, let's not get their nail. Like, I don't want to get too attached. Oh, damn, Hey kid, there's a little boy. We just let out dumb, and we're gonna get everybody together. We're gonna get you out of here, if that's okay. Just let them out, running up to grab our hands like, oh God, before I want to burn one more Divine Sense.
+[1:35:17] Ian Lurie: They both appear to be normal.
+[1:35:18] Unknown Speaker(s): Gonna be the last one. Richter. It's gonna be the last one the vampires is always in the last place you
+[1:35:24] Ian Lurie: last place you look That's right, not damn vampires. You go into this room and sitting on the bed is a half elf girl who looks to be maybe 12 years old in human years, and she looks like she's been crying for a long time. Her face is kind of drawn, and maybe she's been down here for a long time.
+[1:36:00] Unknown Speaker(s): Her hair is
+[1:36:02] Ian Lurie: very long. It's really tangled. There's a brush, a brush and a mirror and some other stuff on a nightstand next to the bed. There's, you know, a few dolls in the bed. In the corner, there's a wooden short sword and a shield, a small wooden shield, and also a small bow. All that look like they'd be about the right size for her. She's wearing slightly more adult clothing than the other ones, and this whole room just has the feel of more of an adult living in it. You know, there is food on the table, but it's, it's arranged a little differently. There's just the whole room has a different feel to it. But she looks, you know, she looks distraught, like, you know, little kids can, you know, they look upset, like they've been here for a while, but they sort of, with,
+[1:37:08] Unknown Speaker(s): you know, we she's, uh, what type of elf I
+[1:37:12] Ian Lurie: will half elf, so it's a little bit hard to tell, but Probably wealth. Okay,
+[1:37:18] Unknown Speaker(s): I'm gonna speak to her in Sylvan, yeah, party line. Drak, can you come here? Yeah, yeah, I walk in and I introduce myself in Sylvan.
+[1:37:33] Ian Lurie: Okay. She, she answers. Oh, my God, Drak, I just removed your planet.
+[1:37:44] Unknown Speaker(s): Oh, okay, that was a high stealth roll. I tell her, I tell her, Sylvan, my name is Drak. I am I'm a widow. I'm here with my friends, and we are here to start to rescue, get You out of the place. And she looks
+[1:38:21] Ian Lurie: almost distrustful. Actually, she looks distrustful. And she says, How do I know? She doesn't say that. She says, this is a trick.
+[1:38:39] Unknown Speaker(s): She sent you, didn't she? Are you even real? Do you want to if you want to ask me anything, do you want to cut? You want to give me a cut? I will bleed. But here's the thing, I'm here to find that woman. I'm here to find marwenna and put her in the ground forever.
+[1:39:05] Ian Lurie: Give me a persuasion check with advantage.
+[1:39:12] Unknown Speaker(s): That would be a
+[1:39:18] Ian Lurie: uh, she moves to the edge of the bed slowly, and she goes and picks up the the wooden sword and the shield and the bow, and puts them, puts the the sword in in her belt, takes the bow and strings it over her shoulder. She actually, she strings the bow and then puts it over her shoulder. And she says, she kind of tilts her head up, and she dries her face a little bit, and she's really dirty too. She says, I believe you
+[1:40:02] Unknown Speaker(s): actually, reached in my pack and she has a wooden sword. Yeah, okay, I'm going to give her a one of my shorts. I'm going to give her my short sword. I will. She just fall over. Yeah?
+[1:40:17] Ian Lurie: No, she can. She can handle it
+[1:40:23] Unknown Speaker(s): like I'm trying to be quiet. There's a lot to talk about later. Take this you. There's other children, and we're going to need you to be a leader. Do you hear me?
+[1:40:40] Ian Lurie: She kind of, she's she's sort of, you can see she's pulling herself together incredibly quickly. And you figure, if she looks like she's 12 or 13, she's probably 30 or 40, given the boy's age. So I mean, she is still a child, right in maturity and intelligence and everything else, but she's seen more than the typical human child. And she, she says, she kind of, she nods seriously, and you can see her kind of collect herself. And she says, Mona is very fast, I believe you, and very quiet. And she can she can turn to mist. I've seen her do it.
+[1:41:33] Unknown Speaker(s): Thank you for letting me know. Can I check her bow? Just make sure that it is it is ready. It
+[1:41:41] Ian Lurie: looks like it would work. It's but it is a child's bow. I mean, it's not going to
+[1:41:45] Unknown Speaker(s): do much. Hold on, I'm going to check my inventory
+[1:41:49] Ian Lurie: while you're while you're doing all this, she just starts talking like and you find out her name is kathel, and she says she was bringing us down here, but it's so much. Why do you think she's bringing us down here? She says, you know,
+[1:42:12] Unknown Speaker(s): it just the the answer made that. The answer is, is going to be terrible.
+[1:42:18] Ian Lurie: It's so much worse. It's so she's been bringing down Have you found any voice or any pairs of boys and girls, she's been bringing a stone here. She's trying to find breeding pairs. She hadn't eaten any of us adults she brings down here. She.

@@ -1,0 +1,1539 @@
+# D&D: Meeting Bell in Avernus
+# Otter recording 2026/09/07 16:57:10 (3h 4m) id 1sOdsR_HTfEq2c3xS-EHTdbBl7Y
+# https://otter.ai/u/1sOdsR_HTfEq2c3xS-EHTdbBl7Y
+# Speaker-attributed transcript, verbatim. Raw source for the card at /items/otter/2026-09/2026-09-07-rbg.md
+
+[0:04:03] Speaker 1: Hello.
+[0:04:05] Ian Lurie: Can you hear me? Okay. I can hear
+[0:04:07] Fancy Drak: you just fine.
+[0:04:07] Ian Lurie: Awesome.
+[0:04:12] Fancy Drak: Okay. Which of the? Oh my God! I'm so scruffy today.
+[0:04:20] Ian Lurie: Me too. Have something on my chin. Hold on a second.
+[0:04:27] Fancy Drak: I was, I was, I was just assuming it's like a soul patroness. No, I'll be right back. That's a look. I have
+[0:05:19] Ian Lurie: no idea what the hell that was
+[0:05:28] Speaker 2: last
+[0:05:29] Fancy Drak: week was terrible. IBM announced that they are completely absorbing the entire Red Hat sales team.
+[0:05:36] Ian Lurie: Oh no! I know you said something about the IBMification getting to you at that point, but I wasn't sure what that meant.
+[0:05:44] Fancy Drak: Oh yeah, they have decided to completely and totally scrap and part off the entire custom portal,
+[0:05:55] Ian Lurie: which is what you were.
+[0:05:57] Speaker 1: Well, not anymore. But For
+[0:06:00] Fancy Drak: example, like we'll just make a security search app. Like it'll only look for like the CVEs, and like you don't know how security works. You don't know how people look for security issues. Yeah. Sometimes they look for symptoms. Sometimes they don't know exactly what's going on, and are looking for what the problem is, and they don't know that there's a CVE about it.
+[0:06:30] Ian Lurie: Yeah,
+[0:06:31] Fancy Drak: and they are putting the entire K base in with documentation, but they're not opening it up. They're going to keep it behind the paywall,
+[0:06:43] Ian Lurie: which I fucking hate. But that's just my own.
+[0:06:47] Fancy Drak: Oh, I've been I've been up their asses for 14 years about it, and and they have decided that all the rest of content, like the the things that. not the K base, all the other stuff, is going into a thing called what's it called? Cloud something, some bullshit or something. Cloud, which is cloud bullshit. Yeah, which is basically it is a single-page application. It is it is a massive single-page application that Google can only see one page, and that is the login page. And when I was asked, "How do we make this rank? and I said, "You can't unless you earn a crap ton of links. And they're like, "But
+[0:07:51] Jamie Indigo: for a login page? What are we doing here? What's?
+[0:07:54] Fancy Drak: Oh, I was telling Ian that Red IBM has decided to one absorb the entire Red Hat sales team. Two, they are killing the entire customer portal. Ah, they are scrapping it for parts. The entire security content is going to be going. Is going to bit. They're going to build their own little secure this security app, which doesn't understand how people look for security issues, like sometimes they look for symptoms. They don't know that they have a problem. Sometimes it's symptom based. Half the content is going to go the documentation page. Documentation is open, but they're going to keep the portal content behind the paywall. They're going to put the rest of the content of the entire customer portal onto a brand new and onto a brand new site that is,
+[0:08:54] Speaker 3: sir, a
+[0:08:55] Fancy Drak: single page application.
+[0:08:57] Speaker 3: Did anybody do a wellness check on the people signing off on this because I think there's a gas leak.
+[0:09:03] Fancy Drak: Oh yeah, and and they are there are signs that IBM is instituting a pip percentage plan.
+[0:09:20] Ian Lurie: Okay, explain that one to me.
+[0:09:23] Fancy Drak: So basically, if you have 10 employees, they can't all be amazing, right?
+[0:09:28] Speaker 3: One of them has to go on a pip, and then one
+[0:09:30] Fancy Drak: of them has to go on a one of them has to go on a pip.
+[0:09:32] Ian Lurie: Okay.
+[0:09:33] Speaker 4: Yep.
+[0:09:36] Fancy Drak: And
+[0:09:37] Speaker 2: not
+[0:09:38] Speaker 1: it.
+[0:09:38] Ian Lurie: Yeah.
+[0:09:40] Speaker 2: Not it.
+[0:09:41] Fancy Drak: And so I'm just like, you know what? I have started looking for jobs, and
+[0:09:48] Ian Lurie: and to help Jamie find a new job.
+[0:09:52] Fancy Drak: One of them is the the director of search at Roku.
+[0:09:58] Ian Lurie: Ooh, that
+[0:10:00] Speaker 1: I'm like I love TV. You should
+[0:10:01] Jamie Indigo: put Jimothy down as your reference. I love
+[0:10:04] Fancy Drak: that. Yeah, but no, like I am actively looking at this point because it's taken about 10 years for IBM to completely scoop out the guts of Red Hat. And remember
+[0:10:19] Jamie Indigo: when they promised that everything was going to stay the same. That was funny. That's such funny, bunnies.
+[0:10:25] Fancy Drak: Yeah, I didn't. I didn't believe him for for shit. But literally, the first quarter redhead doesn't make its earnings expectations. Everyone's just like, oh my god. I'm like, well, and like even the like, I'm actually applying for the research position at OpenAI just for the interview practice. Yeah, like I'm not going to take the job because fuck them. But but I want to I want to see how interviews work. Just kind of get in that practice.
+[0:11:00] Ian Lurie: You're going to work with an AI company. I would say they're probably the one to go work for.
+[0:11:05] Jamie Indigo: Yeah, OpenAI is my favorite. They're they're the most grounded and transparent.
+[0:11:11] Speaker 1: Yeah,
+[0:11:13] Speaker 4: yeah,
+[0:11:14] Fancy Drak: and and again, like I, if I'm going to work at an AI company, I literally have a price.
+[0:11:22] Speaker 1: Like, so
+[0:11:25] Ian Lurie: well, they're but money printing machines at this point. So yeah,
+[0:11:29] Speaker 3: I don't know.
+[0:11:30] Jamie Indigo: They're totally worth $30 trillion. You just don't see it.
+[0:11:33] Fancy Drak: Yes,
+[0:11:34] Jamie Indigo: it's like their IP and a couple of Princess Beanie babies. Like, couldn't be huge, man. You don't even know.
+[0:11:41] Ian Lurie: Walking the terrifying line of when do I divest us of every single share of stock in any company that in any way touches the AI world?
+[0:11:50] Speaker 1: Yep.
+[0:11:52] Ian Lurie: We don't own any stock in like you know OpenAI or anyone like that, but of course anything we do own stock in in some way touches that universe, so you know when it improves. Can we talk
+[0:12:03] Jamie Indigo: about how Google has an insane amount in SpaceX now?
+[0:12:07] Speaker 4: Really, that's interesting.
+[0:12:09] Jamie Indigo: No, they're basically just SpaceX portfolio. That's it.
+[0:12:13] Speaker 4: Huh.
+[0:12:13] Fancy Drak: Oh, by the way. Yeah. No. My one of my best friends. He works at Google for their incidents response teams.
+[0:12:23] Jamie Indigo: Uh huh. Danger duty sucks for him. I bet.
+[0:12:30] Fancy Drak: Dude, spilling stories. Look, that's for another time because we got. I mean, you already saw
+[0:12:40] Jamie Indigo: my soft launch of looking for a new job under may as well tell us stories, Harlan. The
+[0:12:49] Fancy Drak: the short version is is that Google had a command decision like everything that Google does needs to go through AI. Everything it does needs to go through Gemini, and so then during a disaster response aspect. They went to they went to Gemini. They were like, we need to know the organizations, the revenue affected, the locations, the like basic basic information like how how does this affect our clients? Well, Gemini made that public. Oh, nice! And then Google management came down and says, "It's not Gemini's fault. It's your fault for doing this. Yes,
+[0:13:33] Speaker 3: they've been doing that a ton. They keep throwing people into the bus for AI mistakes. It's amazing to watch.
+[0:13:38] Fancy Drak: Yeah, and they're just like we literally did what you told us to do, and they're like, "Yeah, but you did it wrong.
+[0:13:46] Ian Lurie: We wanted you to do what we told you to do, not what we told you to do.
+[0:13:50] Fancy Drak: Right, right.
+[0:13:52] Jamie Indigo: This is like leadership telling us all we were AI transformed, but couldn't answer what that meant.
+[0:13:56] Ian Lurie: What that meant, or how
+[0:13:57] Jamie Indigo: it looked.
+[0:13:58] Speaker 4: Yes.
+[0:13:59] Speaker 5: Yeah.
+[0:13:59] Fancy Drak: And Yeah,
+[0:14:00] Speaker 1: yeah, and
+[0:14:04] Ian Lurie: I'm about to end big AI implementation consulting client because they don't actually do any. It's just like SEO all over again. They aren't actually doing any of the things that I'm suggesting, and they're like, we haven't been transformed. Like you haven't done any of the things that I recommended. You've literally done nothing. Yeah, Kelly Bluebox
+[0:14:23] Jamie Indigo: hired two other McKinsey and M7 consultancies instead of actually implementing anything in the audit that I gave them a year ago. Lightfall. Except when they redirected the homepage to a chatbot page that was no index. Yeah, that's
+[0:14:38] Fancy Drak: that's amazing. Yeah. No, I'm just.
+[0:14:42] Ian Lurie: But right now we get to kill demons and devils and stuff. So fuck all.
+[0:14:50] Fancy Drak: And sadly, that still reminds me too much of regular life at this point. So anyway, good to see y'all.
+[0:14:59] Ian Lurie: Yeah, you too. Um. So before we start, I want to check next game time because I'm heading to Australia for three weeks, starting mid October. So I'd be able to do our next game on September 21, and then the one after that on october 5. Is that possible for everybody?
+[0:15:30] Jamie Indigo: 21st being two weeks from today, right?
+[0:15:33] Ian Lurie: Today, and then the fifth is four weeks from today.
+[0:15:35] Jamie Indigo: Yeah, that works for me.
+[0:15:37] Fancy Drak: Okay. Yeah. Tina leaves for LA on Friday. Okay, so my time is a little bit a little bit opener. Okay,
+[0:15:46] Speaker 2: I was going to ask you about that because I knew that it was a fall situation. Okay, she's moving ahead with that, huh?
+[0:15:52] Speaker 1: Yeah.
+[0:15:53] Speaker 2: Okay, awesome. You're going to be like a single dad. Yep. Too bad you don't have like babies that you have to change diapers because that would make a great sitcom.
+[0:16:07] Fancy Drak: Nobody wants to see a competent fucking dad.
+[0:16:12] Ian Lurie: I did that a few times. No one's interested.
+[0:16:19] Speaker 3: So my lucky dice is back. If you want to give me more wisdom saving, there could be
+[0:16:24] Ian Lurie: coming up tonight. So you never know. Okay, so last time we finished with the big battle with the hydroloths. High level reminders, because yeah, my handy dandy AI that I tested, which I won't do again, missed one of the most important points of the entire game last time, which is that with the death of Richter and the impact to the chains, Tiamat's curse is no longer binding you, and in fact, you felt that burning pain on your chest has one of the five stars disappeared, and it you immediately instinctively understand that dragons and dragon folk are no longer subject to the curse. So that dragon folk being around you does not mean that they will randomly attack you for no apparent reason.
+[0:17:24] Fancy Drak: That's that's nice.
+[0:17:25] Ian Lurie: Yeah. Now another thing you realize though is that the quinary is no longer the quinary; it is now the quaternary, which may change the way those items work, since at least one of the powers required that all five items be in existence on the on oh no you got the ring though you got the ring so you're still good there okay so moving on you had the battle with the hydro lots go ahead I'm sorry
+[0:17:53] Fancy Drak: real quick question so we have all five items but we're not wearing it would you mind dropping either either describing what the ring does to see if one anyone else can use
+[0:18:11] Speaker 6: it?
+[0:18:13] Fancy Drak: Because yeah, because I may be able to switch some of my attunement slots.
+[0:18:21] Ian Lurie: Hold on, let me pull it up real quick. Okay, the light that sparks Veda. I'm actually just going to share a link to the brew right into the chat here.
+[0:18:42] Jamie Indigo: Why can't I spell elixir? My brain's broken.
+[0:18:46] Ian Lurie: I still can't spell license. So, oh, I have a hard
+[0:18:50] Speaker 2: time with that one. License, I do have a hard time with that one. Don't know why.
+[0:18:56] Ian Lurie: It's always funny in law school when the professor would use the word license, and you'd watch 70 sleep-deprived law students all try to figure out how to spell it.
+[0:19:08] Speaker 2: Okay, let me ask you. Getting back to the date changes again.
+[0:19:13] Ian Lurie: Yeah.
+[0:19:14] Speaker 2: Okay, 21st, right?
+[0:19:16] Ian Lurie: Yep.
+[0:19:17] Speaker 2: Okay, good. What's the one after that?
+[0:19:19] Ian Lurie: The Fifth.
+[0:19:25] Speaker 2: Okay, probably good for that one too. Okay,
+[0:19:27] Ian Lurie: and then after
+[0:19:28] Speaker 2: just need to update my calendar.
+[0:19:29] Ian Lurie: And after that, I'm we're gonna miss four games because I'm gonna be traveling.
+[0:19:35] Speaker 4: Oh
+[0:19:35] Jamie Indigo: look, mr. Fancy Pants going to go touch another volcano.
+[0:19:40] Ian Lurie: Honestly, I would see if I could run a game from there, but I think I'd be grounded if I did. So it's going to be me, Don, and two friends of ours, three weeks traveling around Australia. So I don't think I can just sort of disappear. The
+[0:19:58] Jamie Indigo: number of countries I've attended from.
+[0:20:01] Ian Lurie: I know, I know, and that-that's why I think about it, right? I do need my two giant monitors, though. It's kind of hard to run without it. Okay. So
+[0:20:11] Fancy Drak: real quick, I am willing to. So, I think. Is is this some? Does somebody want the ring?
+[0:20:21] Ian Lurie: Someone.
+[0:20:21] Jamie Indigo: Okay, sorry. When we say the ring,
+[0:20:24] Ian Lurie: the
+[0:20:24] Fancy Drak: not that not that ring.
+[0:20:26] Ian Lurie: I just shared a link to the entire quinary.
+[0:20:28] Fancy Drak: It's pretty cool. Like heal a couple times a day.
+[0:20:32] Jamie Indigo: Oh, okay. I didn't realize the light was a ring.
+[0:20:34] Ian Lurie: Yeah.
+[0:20:35] Speaker 3: Thank you.
+[0:20:35] Ian Lurie: Yes. You know, I don't think Crean has an item.
+[0:20:43] Fancy Drak: And he is the cleric,
+[0:20:44] Ian Lurie: and he is the cleric.
+[0:20:46] Speaker 3: Yeah, but he never heals us,
+[0:20:47] Fancy Drak: right? Well, that makes him.
+[0:20:49] Speaker 2: He might take offense. That's what
+[0:20:51] Fancy Drak: makes him a cleric.
+[0:20:54] Ian Lurie: He's a Gestarian cleric.
+[0:20:58] Jamie Indigo: Are you pooping?
+[0:21:00] Ian Lurie: Exactly.
+[0:21:02] Speaker 2: How does he end up with not he? How did he? No, he doesn't have one. How did he not end up with one?
+[0:21:10] Ian Lurie: I don't remember, if I'm honest.
+[0:21:15] Speaker 2: Everybody's got one, right?
+[0:21:17] Ian Lurie: Sango has the mouth that calls. Drac has the hand that strikes. Mossy has the eye that sees.
+[0:21:38] Speaker 2: Yeah, there was five, right? Yeah,
+[0:21:40] Fancy Drak: there's a door that
+[0:21:41] Ian Lurie: that opens, which is currently at the Temple of Helm, and works fine regardless. It doesn't matter.
+[0:21:49] Speaker 4: Yeah.
+[0:21:50] Speaker 2: Okay.
+[0:21:50] Ian Lurie: It's the outlier of the quinary. It's it's a very different kind of item.
+[0:21:55] Speaker 2: That's right. That's the one that we wanted Helm to the Temple of Helm to keep because Tima can use it to break through or something if they got hold of it.
+[0:22:05] Ian Lurie: Archdevil, any of the great old ones, you know, Cthulian deities, any of them could potentially use it to pop into the primordial plane. Yeah.
+[0:22:18] Speaker 2: Kurgan looks at this ring. He's not sure if he wants to put it on. What color is it? Does it match his health pick? It's where
+[0:22:25] Ian Lurie: plain platinum band.
+[0:22:29] Speaker 2: Ah, okay. Massie,
+[0:22:31] Jamie Indigo: it does a little precipitation to make it look extra sparkly.
+[0:22:34] Ian Lurie: It goes with everything, really.
+[0:22:37] Speaker 2: Okay.
+[0:22:39] Ian Lurie: There's a small diamond stud on the underside of it, and that's what you press to activate the ring. I guess you could turn the ring so the diamond is is on the outside, or on the top side. You know what I mean?
+[0:22:54] Jamie Indigo: Kragan would be great if he was like David and Shit's Creek, and actually just like rings in every finger already.
+[0:23:00] Speaker 2: He does have a couple, by the way. We
+[0:23:09] Speaker 3: could try and give you a nose ring with it. That could be cool.
+[0:23:12] Speaker 2: He's already got one of those too.
+[0:23:14] Jamie Indigo: Damn
+[0:23:15] Speaker 2: it! It's the it's the the party line ring.
+[0:23:19] Ian Lurie: I don't recommend cutting one of the quinary.
+[0:23:23] Jamie Indigo: Oh no, we were just going to cut his nose.
+[0:23:25] Ian Lurie: Yeah. Oh, okay. Well, all right. Then that's you know.
+[0:23:27] Jamie Indigo: And then like stitch it back up, and it would heal in. Yeah, yeah, that's fine. Okay.
+[0:23:32] Speaker 3: It's fun.
+[0:23:33] Ian Lurie: I love how that you didn't even hesitate. You were just like, no, no, no. We're going to cut his nose.
+[0:23:38] Fancy Drak: It's like we've got a knife. Mosley's going through
+[0:23:41] Jamie Indigo: some shit. Okay, she's like, "All right, let's get into science. Look, you're not revivifying people. If you don't take this, you're definitely not. So that means I've got to get in the necromancy. You're giving me two paths and a wooded view. You, you, you, you guys
+[0:23:57] Speaker 2: just need to ask nicely next time. That's
+[0:24:01] Fancy Drak: all. When we're when we're when we're how do I put this nicely?
+[0:24:07] Ian Lurie: Yes, my
+[0:24:08] Fancy Drak: dragon is literally crushing me into bone dust and goo. Yes, I am not the place to ask, and I see for a reification.
+[0:24:18] Speaker 2: Well, then you should. That's that's a drag point. You should think long and hard about how you want to approach this next time.
+[0:24:25] Fancy Drak: I think long and hard about lots of things.
+[0:24:28] Jamie Indigo: Mossy flips open her sketchbook to a really detailed JV version of it, where the dragon's just suplexing drag down and his little symbols for breaking bones.
+[0:24:38] Ian Lurie: Little exclamation points everywhere! Yeah, yeah,
+[0:24:41] Speaker 7: yeah.
+[0:24:44] Speaker 3: That's where you pooped. I made it smaller in the drawing because I didn't want to embarrass you. It was more like a toothpaste thing, you know, when you step on it.
+[0:24:54] Speaker 1: Yeah, no. Yeah.
+[0:24:59] Ian Lurie: So you did finish the battle with the Hydroloths and made it through that pretty much unscathed. Voleth is still there; he hasn't gone anywhere. You're still standing on the decks of of his barge, and he's moving you along. He looks back at you, says, "Do you need time to rest or recover, or are you all right?
+[0:25:25] Jamie Indigo: Hear me out. Do you think this ring goes with our turtle friend's complexion? I think it really does.
+[0:25:32] Ian Lurie: He looks for a moment. He says, "I only see in grays, but it does look quite fetching, if I may say.
+[0:25:45] Jamie Indigo: It works even in grayscale.
+[0:25:49] Fancy Drak: Track is sitting in the back of the boat, pulling his bow, and waiting, taxing it.
+[0:25:58] Ian Lurie: Okay, interesting. So you fire an arrow straight up. Roll a D 20 for me. What
+[0:26:06] Speaker 1: did you hit? Hopefully it's mossy. I'm still mad about the fattening. The fattening.
+[0:26:16] Jamie Indigo: That is fair. You were the sloppy one. You slipped and touched it. You knew. Okay.
+[0:26:22] Fancy Drak: Do I add anything?
+[0:26:24] Ian Lurie: Nope.
+[0:26:25] Speaker 1: Okay. 17.
+[0:26:28] Ian Lurie: You fire the arrow, and you know you can fire arrows really far. This one though disappears into this kind of gathering ash cloud over your head, and you've seen these occasionally down here. You know these these clouds just sort of form and then go away, and they tumble over each other like almost like demonic kittens in the sky above you. And this one goes into that cloud and doesn't come back down.
+[0:26:57] Speaker 2: Jack, you're the you're the kid from the peanuts. We
+[0:26:59] Fancy Drak: just Hold on,
+[0:27:01] Speaker 1: hold on. Wait, which kid? The
+[0:27:04] Speaker 2: one that the clouds always follow now.
+[0:27:06] Speaker 1: Pigpen.
+[0:27:07] Ian Lurie: No, that. Oh, is it Pigpen? I thought it was Charlie Brown. Charlie Brown has the clouds over him. Pigpen has the clouds behind him.
+[0:27:16] Fancy Drak: So when this happens, like my eyes get really big, and I totally try to cover it up, and like I didn't do anything.
+[0:27:25] Jamie Indigo: Okay, okay, perception check. 17. Did I catch that?
+[0:27:32] Ian Lurie: You definitely did.
+[0:27:36] Jamie Indigo: Turn around. Look, I'm really a drag. Look up into the sky. Pop down the goggle.
+[0:27:42] Ian Lurie: It's just gone.
+[0:27:46] Fancy Drak: What? What?
+[0:27:51] Speaker 1: What? Do it
+[0:27:51] Speaker 3: again. That was impressive. I want to see how far it goes.
+[0:27:56] Fancy Drak: What? I didn't do anything. Do what again?
+[0:27:59] Jamie Indigo: Your bow is still in your hand.
+[0:28:05] Speaker 1: I don't think I should. I think I
+[0:28:13] Fancy Drak: would probably catch some attention.
+[0:28:17] Jamie Indigo: If you just blew an arrow through hell, I want to know.
+[0:28:23] Ian Lurie: Well, primateur plane. Someone screams in pain as an arrow embeds itself in their foot from below. No, no, that's not what happens.
+[0:28:30] Speaker 2: It's probably fizzbang. Just saying.
+[0:28:32] Fancy Drak: I don't know what you're talking about, Monsieur. I'm just, I'm just a little bored and getting a little irritated, and I don't like boats. Did I mention that I'd rather be walking?
+[0:28:47] Jamie Indigo: I feel like Masty would be fascinated by this. Going through all of her notes and whatnot, has she ever heard of something that would allow that to happen?
+[0:28:56] Ian Lurie: Give me a history check.
+[0:29:01] Speaker 2: Oh Lord.
+[0:29:01] Speaker 3: Okay. Okay. So good at history.
+[0:29:05] Fancy Drak: Good at this.
+[0:29:07] Jamie Indigo: Ah, you are so lucky today, sir. 10.
+[0:29:11] Ian Lurie: The only thing you can think of is you know there is literally fire in the sky.
+[0:29:18] Speaker 4: The
+[0:29:19] Ian Lurie: arrows are made of wood.
+[0:29:23] Jamie Indigo: Oh yeah, I didn't see that fire right there. My bad.
+[0:29:26] Fancy Drak: That's fine. I'm just gonna almost on
+[0:29:30] Ian Lurie: cue. Sorry, go ahead.
+[0:29:32] Fancy Drak: I'm gonna stop playing with my bow and just pick out like a coin in my pocket and just like do that little coin over not coin up. Yeah,
+[0:29:41] Ian Lurie: the one I've always wanted to learn how to do, yeah. Yep.
+[0:29:45] Jamie Indigo: I know Bowie does it with a glass orb, but I always think of it as Bowie.
+[0:29:49] Speaker 1: Yeah.
+[0:29:52] Ian Lurie: Um. So you've just finished that little conversation and accidental experiment when you notice in the water out ahead of you as as Volleth steadily pulls you along, paddles with those huge webbed hands that he now has on those immensely long arms, and as he's Paddling, you look out across just the expanse of Avernus, and for the first time, you're away from the city in Avernus. You know of the Stygian Dock. You're you're away from some of the low lying hills, and you can just see the entire plain. And you look off into the distance and just see nothing but rock with interspersed with these pools of blood and other pools of ichor. You see a few places where there's hissing hissing steam vents of some kind, and you turn towards the front and you look ahead and you see this hissing starting in the water ahead of you, and sort of moving towards you with a bank of roiling clouds as they move towards you at the same time, and the sulfuris smell that sulfuris I think that's right, the sulfur smell that you've been getting whole time gets a little bit stronger, and you see this stuff sheeting down from the clouds. And as it gets closer, one of you can give me a perception check. Actually, you can all give me a perception check, I guess.
+[0:31:36] Fancy Drak: 12.
+[0:31:38] Jamie Indigo: Okay, my lucky dice is not lucky tonight. That's an 11.
+[0:31:42] Speaker 8: Okay,
+[0:31:44] Speaker 2: the 14 is this hearing based or
+[0:31:47] Ian Lurie: vision, and it's almost like watching a snowstorm move towards you while you're on a calm lake. You've you know if you've ever seen that, you see stuff falling from the sky. You see it on the water, but it hasn't reached you yet. And as it moves towards you and gets closer, you realize it's cinders falling from the clouds, not from an eruption. And before you can do anything, it actually passes over you, and each of the cinders is glowing red hot. And as they hit the water, the river sticks. They they all go, you know, with that little that little hissing sound, and as the cinders fall on you all, you know, for a moment you kind of flinch, expecting to be burned, but nothing happens. You guys, children, Children, do you guys do anything, or
+[0:32:54] Speaker 2: is it coming at us?
+[0:32:55] Ian Lurie: It's coming straight down out of the sky, and basically, you have moved underneath this cloud that is just-it's just raining cinders down on Avernus. Hey, did my
+[0:33:07] Jamie Indigo: friend accidentally shoot you? We're sorry.
+[0:33:10] Fancy Drak: I am convinced that this is my fault, and at the same time, I'm going to just kind of pull my cloak over my head.
+[0:33:16] Ian Lurie: I just want to say that this is the most awesome bit of timing that we've had in this game in a long time. You can see it's actually collecting in small piles too, like on the deck of the barge and along the shore on some of the rocks and things like that. And volatile, very
+[0:33:34] Jamie Indigo: localized.
+[0:33:36] Ian Lurie: It's it's like you're in a snowstorm. It's like you've just moved into a snow squall. Like if anybody is it a
+[0:33:43] Jamie Indigo: big squall or is it like it's we're only seeing that okay
+[0:33:47] Ian Lurie: you're in it you can't see you can barely see the shores of the River Styx on either side you can see Volleth but he's kind of shrouded a little bit in this falling snow you can see each other but you see the the cinders in between you and they're like big flakes almost, and they're kind of drifting downwards. But some of them are sheeting downwards more quickly. It seems like the hotter ones are falling faster. They're more solid, and then some of them are more ash-like, and they're gathering little piles on the on the deck of Voleth's ship, Voles' barge. And Voleth actually turns him and says, "If you could sweep those off, it would help. They can weigh down the the craft. If not,
+[0:34:30] Speaker 3: rest the dissertation.
+[0:34:32] Ian Lurie: Okay, he nods. But for some reason, when these red hot cinders touch you, they don't hurt you at all, or your clothing.
+[0:34:49] Jamie Indigo: Well, I have armor on, so Mossy thinks it's normal. Right.
+[0:34:55] Ian Lurie: Everyone can give me another history check if you want.
+[0:34:58] Speaker 2: We have that resistance to fire. Hey,
+[0:35:00] Ian Lurie: never mind. Ursh Gul gave you a boon. If you remember, he gave you a boon and a curse. The boon is that you are invulnerable to fire.
+[0:35:08] Jamie Indigo: Yeah. Okay.
+[0:35:09] Ian Lurie: You don't know the curse yet.
+[0:35:13] Speaker 2: Yep. Well, once Sango figures out that he can touch these things, he'll just go pick them up. He's going to start to juggle them too, just for the heck of it. You can make all them over the board.
+[0:35:22] Ian Lurie: Yeah, you can
+[0:35:22] Fancy Drak: cinder cinder balls, cinder balls. It sounds like a naughty name for a dragon's bits and pieces. A porn star's name, I gotta say, but dragon porn.
+[0:35:35] Jamie Indigo: Okay, questions. Yeah,
+[0:35:38] Fancy Drak: you hear giggling from underneath the cloak,
+[0:35:44] Speaker 3: here comes Cinderballs. Here comes Cinderballs. Right down Cinderball.
+[0:35:48] Ian Lurie: This music for five weeks because it is not my favorite time of year.
+[0:35:54] Jamie Indigo: Oh no, not at
+[0:35:56] Ian Lurie: all. Everyone loses 56 experience just because of the mere, as if that makes any difference at your level, he keeps
+[0:36:08] Fancy Drak: five six.
+[0:36:09] Ian Lurie: Yeah, keeps moving along, and the cinders eventually kind of go away, and you move along quietly for what has to be half a day. You know, you pass through incredible heat, incredible humidity. You you know more fire, random firestorms, and things like that. And you realize that without Ursul's boon, you would not be able to survive down here, like any one of these would have either incinerated you or done so much damage that you would have spent all your time healing and resting and recovering. You wouldn't be able to function down here, so you know one way or another, you were going to have to find some way to deal with the fire and the heat of Avernus. You do pass by some skirmishes between devils and demons. No huge battles like the one that you were in the middle of in Silgrim, but you do see units. Particularly, you see units of demons running across the landscape with units of devils cornering them or chasing them down and destroying them. But the the landscape and the weather pretty much doesn't change. It's it's unending, unrelenting, gray and red rock with just unbearable heat. And in fact, everyone needs to give me a con save, please. 1522,
+[0:37:49] Speaker 2: Dingo got a natural 20 for a 31, and Craigan got a natural one for a 10.
+[0:37:59] Ian Lurie: Oh, meet meets it, beats it. Okay, good. None of you pick up a up a level of exhaustion. It is a DC 10 con save.
+[0:38:08] Speaker 2: Kragan is sweating a hell of a lot though.
+[0:38:10] Ian Lurie: Because Kragan does not look happy. Technically, on a one, you should just fail, but it's it's okay. You you got a 10. This isn't a deliberate act. This is a saving throw. So, Volath gives you some information as he's paddling you along. You know, he explains that these are typical weather patterns. You know, this is kind of what you see in Avernus. You know, this is a very hostile place. Even he can't spend all of his time down here. It's too dangerous, so he kind of comes and goes as his as his fares allow. How
+[0:38:54] Jamie Indigo: are we matching to our map? As Massey is for the.
+[0:39:00] Ian Lurie: So here, let me let me pull it up for you. The map does match pretty well. You have rounded this bend in the river sticks, and you've progressed about to there. Remember last time you had just reached there, so you're about to hear at this point, and you seem to have traveled at a normal speed for the first time in a while. You made pretty good progress, and there was no weird stretching of distance or contraction of distance. So that's something.
+[0:39:44] Jamie Indigo: So that means we have a big puddle of icker coming up, and then possibly a dragon-like creature.
+[0:39:51] Ian Lurie: Assuming this map is accurate, so far things haven't really quite lined up. Like the dock of fallen cities, yeah, but there are these huge plains of fire. You didn't see those. You didn't see two big volcanoes. What you did see is the bend in the river, and you do actually see coming up along both sides of the river this row of columns that stretches. It looks like it stretches for miles. And as you get closer, you realize that each column has four skulls around the top of the column, and the skulls actually appear to be slowly moving, like they're slowly saying something, but you can't hear what they're saying. And at the same,
+[0:40:41] Jamie Indigo: oh, I have observant. If I can see their mouths and I speak the language,
+[0:40:46] Ian Lurie: sure. Give me a roll.
+[0:40:52] Jamie Indigo: 17. Do I add anything?
+[0:40:55] Ian Lurie: No. You well, your intelligence. If you didn't already, but do you skill the ability? I
+[0:41:03] Jamie Indigo: do. Yeah. So then,
+[0:41:06] Ian Lurie: yeah. So it's already been added then. So okay, you're not saying anything. They're just kind of moving their lips in random ways. Certainly not any language that you recognize. And then on one side of each pillar is what looks like the spine of a dragon, and then a really long, and then a dragon skull on the end that runs from the top of the the top of the column all the way down to the ground, with this horned dragon skull at the top of each spine, and then between each one are these shorter pillars that are broader at the base. They're glowing with some kind of fiery rune, and you realize as you look that there's a body pinned to each one of those, just kind of hanging there. And Vola says we are entering the fiery gates. This is a stretch of the river. I know not who built this or why, and no one I know can remember it.
+[0:42:17] Jamie Indigo: So that the cute little wind gem over there with the bodies and the yada yada that just showed up.
+[0:42:22] Ian Lurie: No, it's been here for some time, but nobody knows. But longer than I have been.
+[0:42:28] Jamie Indigo: Huh?
+[0:42:32] Fancy Drak: Are there other like new bodies attached to these remains or structures?
+[0:42:38] Ian Lurie: Asking Voleth, or you looking? Vola says, "I know not. I care not for such things. I'll take a
+[0:42:48] Jamie Indigo: glance. Does it look like fresh meat, or is I've been there a minute?
+[0:42:51] Ian Lurie: So you take a glance and give me a perception check.
+[0:43:03] Jamie Indigo: 15.
+[0:43:04] Ian Lurie: Okay, they're moving. They're writhing as if in pain. They each have a spear. They have two spears: one right through their sternum and one through one shoulder. Well, actually, they're all in slightly different places, but basically that's where they are, and they are all writhing in pain.
+[0:43:24] Speaker 3: How far away are they?
+[0:43:26] Ian Lurie: They're about 50 feet on. I would say 50 feet on one side, and about 100 feet on the other, because the river is quite wide here.
+[0:43:36] Jamie Indigo: Can I cast message?
+[0:43:40] Ian Lurie: Sure, you're sending a message to one of them.
+[0:43:45] Jamie Indigo: Well, I'm gonna say out loud, what like I'm not great with medicine. I've been considering dabbling necromancy, but they seem alive. I can send a message.
+[0:44:00] Ian Lurie: They are
+[0:44:01] Jamie Indigo: maybe
+[0:44:02] Ian Lurie: says they are damned souls that are here being tortured for their transgressions in their mortal lives. If you wish to speak with them, I'm sure you may try. I don't know what they will tell you.
+[0:44:22] Fancy Drak: Is that when is that one Lady Bornier?
+[0:44:25] Ian Lurie: No.
+[0:44:30] Jamie Indigo: Cast message IP on your topiaries.
+[0:44:36] Ian Lurie: That are hanging here. They all have green cloaks with the hoods pulled over, so you can't actually see who's in there.
+[0:44:43] Speaker 2: Jack should be able to tell just by the body shape, right?
+[0:44:49] Fancy Drak: All those humans look alike to me, man.
+[0:44:52] Jamie Indigo: Are they all human?
+[0:44:54] Ian Lurie: You can't tell. They're all humanoid. There are legs sticking out of each set of cloaks, and two arms and one head.
+[0:45:09] Speaker 1: No,
+[0:45:10] Ian Lurie: and there's kind of a a reddish mist that has started to gather along the along the surface of the water and around the base of these these pillars as you go past them.
+[0:45:25] Speaker 2: That sounds a little bit sleepy. Just
+[0:45:30] Fancy Drak: I maybe I feel like
+[0:45:33] Jamie Indigo: this might be opening the lid on someone else's cooking, and that's quite rude.
+[0:45:38] Fancy Drak: Yeah, Mossy, I think I think you know trying not to attract attention is probably a good strategy at this point.
+[0:45:45] Speaker 3: You shot the sky.
+[0:45:49] Fancy Drak: I've learned from my mistakes,
+[0:45:52] Ian Lurie: and very quiet now. There's this heavy hush that's fallen over everything. It's almost as if the mist just sort of drinks up sound around
+[0:46:05] Speaker 3: it. Goggles.
+[0:46:07] Ian Lurie: Okay.
+[0:46:07] Speaker 3: Just for fun.
+[0:46:09] Ian Lurie: Give me a perception check.
+[0:46:18] Jamie Indigo: 24.
+[0:46:19] Ian Lurie: Oh, jeez. Nothing unusual. As you look around, you know you don't see, and in fact, Vaxseth appears to be gone as well. But as you look into the distance, you see something that you know you wouldn't need the goggles to see, but because you're looking around so carefully, this is definitely something that you notice now. You see six dots in the sky that appear to be flying towards you.
+[0:46:58] Jamie Indigo: Ah, balls!
+[0:47:01] Ian Lurie: They're very small right now, but you can't tell if that's because of distance or something else,
+[0:47:09] Jamie Indigo: or if the fog is part of it.
+[0:47:15] Ian Lurie: If the fog is part of it, it's they're high up. I should have said they're, you know, they're sort of at at 6o'clock high as you're looking back behind you, and appear to be in pursuit or just flying in your direction. You're not quite sure which.
+[0:47:40] Speaker 2: Sandel is going to cast pass without trace.
+[0:47:44] Ian Lurie: Okay,
+[0:47:45] Speaker 2: just to give us a little less whatever.
+[0:47:51] Ian Lurie: So yeah, have an impact on the barge. Volath already operate the whole barge operates with pass without trace. That's that's him. But you can cast us that if you had to leap off the barge or something, you would have it available.
+[0:48:07] Speaker 2: I will totally do that.
+[0:48:09] Ian Lurie: Okay.
+[0:48:10] Jamie Indigo: I can't jump 50 feet.
+[0:48:14] Ian Lurie: Well, Voles says we're coming upon a narrower part of the river, if you could each take one of the poles along the side of the ship, just in case I get too close to shore, that would be of great assistance to me. And you do see that the river's starting to get narrower, and he says I can make the barge narrower, but I assume you would rather keep it wide for now.
+[0:48:44] Speaker 1: Yeah.
+[0:48:45] Jamie Indigo: Grab a stick.
+[0:48:46] Fancy Drak: Grab a stick.
+[0:48:47] Ian Lurie: Okay. And you see now that on each side of you, the land rises up a little bit as these. It's you still have all these columns, but behind them the land is starting to rise up, and on one side you have these immense cliffs in the distance. On the other side, you just have some low hills, with you know kind of. As you pass by, you see random glowing crystals embedded in the rock. You see small areas where lava is actually seeping out of the rock into the river Styx, and as it hits the river, this reddish fog comes up, and you realize that's where that mist is coming from, is from this this lava, this magma, as it actually flows into the river itself.
+[0:49:32] Fancy Drak: Rossi, Sandro, Kriegan, you're right. We shouldn't. This is this would have been a bad place to walk around in. So, I I was I was wrong.
+[0:49:43] Ian Lurie: I so sorry
+[0:49:44] Jamie Indigo: you couldn't get your steps in.
+[0:49:46] Ian Lurie: I apologize. I'm sorry.
+[0:49:49] Fancy Drak: This is terrible.
+[0:49:52] Ian Lurie: Um, Mossy, those those dots in the distance are getting bigger. Do you tell anyone else about them, or
+[0:50:02] Jamie Indigo: oh yeah, no, I'm I'm clearly
+[0:50:04] Ian Lurie: okay.
+[0:50:05] Jamie Indigo: I I have clearly stated, hey, everyone, turn around, say those.
+[0:50:10] Ian Lurie: Um, they are rapidly getting larger now, and you realize that they have wings. Um, and you can't see much else. That you would say they are still about a quarter mile away, but they are closing fast, and they're in kind of they're in kind of a loose V formation as they fly towards you.
+[0:50:32] Jamie Indigo: Good, mighty ducks of dragons. Do we want to maybe hop out and get in the beetle?
+[0:50:39] Speaker 2: What about Vola?
+[0:50:44] Jamie Indigo: can come hang.
+[0:50:48] Fancy Drak: I mean,
+[0:50:49] Speaker 2: dude, we don't know what they are yet, though.
+[0:50:51] Fancy Drak: In in the beetle. I mean, if he's young, he's welcome.
+[0:50:59] Ian Lurie: He he.
+[0:50:59] Jamie Indigo: I mean, unless there's six Postmate orders finally coming towards us, I don't feel like these are friendly.
+[0:51:05] Ian Lurie: He says, "I will remain on my
+[0:51:09] Speaker 4: on the
+[0:51:10] Fancy Drak: nope. Do you know what these are, Vola?
+[0:51:14] Ian Lurie: He looks at them. You see his eyes actually turn kind of gray green for a moment, as he does something. He says, "I cannot quite tell, but they are some kind of some kind of dragon folk.
+[0:51:33] Jamie Indigo: Do we have six friendly dragons we know? I know not all dragons are doomed to attack us now, but I can't help be a little hesitant.
+[0:51:45] Fancy Drak: I can only think of one dragon who doesn't like that. Who actually likes
+[0:51:49] Jamie Indigo: us? Keanu likes us.
+[0:51:51] Fancy Drak: Right, that's what I was thinking of. Keanu.
+[0:51:52] Jamie Indigo: Kiki likes us.
+[0:51:54] Ian Lurie: That's two. That's two.
+[0:51:56] Speaker 3: Uh, the wyvern that the Silverscope folk have is my bestie
+[0:52:03] Ian Lurie: strictly some dragons.
+[0:52:05] Fancy Drak: That's true. No. All right. Well,
+[0:52:13] Jamie Indigo: I feel like we should make more dragon friends.
+[0:52:15] Fancy Drak: We should probably should. Also, like, do we? Is this a good time to ditch, or she would like wipe this out because
+[0:52:23] Speaker 2: why do I feel like we're the we're the white people talking about that one dragon friend we got?
+[0:52:28] Jamie Indigo: Truly
+[0:52:29] Ian Lurie: anything,
+[0:52:30] Jamie Indigo: yeah.
+[0:52:32] Ian Lurie: They are at this point. You know, you've been talking for about 20 seconds, and they are not just catching up to you quickly. They are in a screaming diagonal dive, about 45 degrees, heading straight for you. And as you look now, it is very clear that these are abishai. You see five white abishai, and one that you've never of a type you've never seen before. This one is blue; its skin is this intense, glowing blue, and you can see as it gets closer, there's energy almost crackling around
+[0:53:06] Jamie Indigo: it. Okay. Okay.
+[0:53:07] Ian Lurie: And this would be a good time to roll initiative.
+[0:53:10] Fancy Drak: Well, yeah, because okay.
+[0:53:15] Ian Lurie: And let me get to my encounter tracker before you start initiatives.
+[0:53:24] Speaker 2: Ooh, this is pretty bad.
+[0:53:26] Ian Lurie: Okay, let's just start at the top. Mossy, what'd you get?
+[0:53:31] Jamie Indigo: 23.
+[0:53:33] Ian Lurie: Okay, Drac, 24. Okay, Sango, uh,
+[0:53:39] Speaker 2: plus five for a total of seven.
+[0:53:42] Ian Lurie: Okay, Craigan,
+[0:53:45] Speaker 2: negative three for a total of negative two.
+[0:53:47] Ian Lurie: Oh boy, we'll put you at one because that's all that's really possible.
+[0:53:54] Speaker 2: Oh, it's this. It's not. It's possible to be negative.
+[0:53:57] Ian Lurie: Let me just share this map with you.
+[0:54:08] Jamie Indigo: So come here.
+[0:54:16] Ian Lurie: This is how it looks right now. Lola, by the
+[0:54:20] Jamie Indigo: way. How big are the Shai?
+[0:54:22] Ian Lurie: They're medium size. They're the same size as you. So is
+[0:54:27] Speaker 2: is the deck of the barge filled with bones?
+[0:54:30] Ian Lurie: Yeah, the deck of the barge is bones. Oh, okay. It's pretty big. Voleth is huge when he's part of the barge because the barge is him. Gotcha. He has changed shape. The barge is no longer moving as fast as it was because he's. Whoops! Oh, that was a huge mistake on my part. He is now using his arms to kind of push off against the sides of the river sticks, and just
+[0:54:56] Speaker 4: to
+[0:54:56] Ian Lurie: outlook. Ignore the fact that it just abruptly ends here. I just couldn't keep drawing this stuff, but this is what you see. So there's this small, almost miniature island with a little bit of the river sticks on one side. There's the cliff faces over here, and then there's the lower hills with the random stuff there. These are the posts with the bodies and the taller posts with the skulls, and then these are the abishai coming in on you. The one that's lit up is the blue abishai, and then these are the white abishai, and they just come. Like I said, they are screaming fast right now. They are going full speed towards you. The let's see, Drac, I believe you go first.
+[0:55:53] Speaker 2: Okay, is the barb still moving, or did it stop? It
+[0:55:56] Ian Lurie: is moving slowly. We're gonna, for the purpose of this combat, we're gonna pretend it's standing still, but
+[0:56:01] Speaker 2: it is
+[0:56:02] Ian Lurie: still moving along. You're not sure what Voleth has done, but something has changed about the nature about the nature of him. There's something more defensive about the way he looks right now. His robes have gotten thicker, and he's sort of almost hunkered down at the the bow of the barge. And you guys don't have to be positioned like this. This is just where I set you all. I put Sura here, but obviously does not have to be present for the battle if you don't want.
+[0:56:32] Fancy Drak: Yeah, no, that's good. That's good. Okay, so I'm going to take the bow, and I am going to. Okay, just one
+[0:56:46] Speaker 2: second.
+[0:56:50] Fancy Drak: I'm upon a hit. I'm going to cast when the the bow hit when the arrow hits them. Entangle.
+[0:57:00] Ian Lurie: Okay,
+[0:57:01] Fancy Drak: which they are wrapped with with things they are considered to be restrained.
+[0:57:13] Ian Lurie: Okay,
+[0:57:13] Fancy Drak: and and it is a a DC 19 strength check or safe
+[0:57:19] Ian Lurie: to not be restrained. And how
+[0:57:20] Speaker 4: correct
+[0:57:21] Ian Lurie: is it hitting? Just the blue one. Just the blue one.
+[0:57:26] Fancy Drak: So to hit, that'd be a 27 to hit.
+[0:57:30] Ian Lurie: That definitely hits. But he gets a strength save. He gets a 21.
+[0:57:40] Fancy Drak: I'm going to use a what point
+[0:57:41] Speaker 4: to
+[0:57:42] Fancy Drak: make a re-roll of disadvantage.
+[0:57:44] Speaker 4: Right?
+[0:57:50] Ian Lurie: He's going to use a luck point to roll again. Ha ha! And he gets a 19.
+[0:57:58] Fancy Drak: Oh, that means I win.
+[0:58:00] Ian Lurie: No, no, meet it, beat it.
+[0:58:03] Fancy Drak: Someday this is going to work.
+[0:58:06] Ian Lurie: Well, it's not really meant for for high CR creatures. It's meant for lower CR stuff. But
+[0:58:13] Fancy Drak: I know. I want it to be cool. Bonus action. So bonus action hunters mark on the blue one.
+[0:58:19] Ian Lurie: Okay,
+[0:58:21] Fancy Drak: and that is, I'm going to position myself closer to Sura, and I'm done.
+[0:58:31] Ian Lurie: Okay, Mossy, to your turn.
+[0:58:34] Jamie Indigo: Okay, so how far away are they right now?
+[0:58:38] Ian Lurie: They are. My God, about 60 feet for the blue guy, and about 75 feet for everybody else.
+[0:59:06] Jamie Indigo: Sure, seeing seeing Drac go and I get pushed away, Mossy is going to slap her hands together, grab a little bit of spiderweb out of her pouch and fling Spider-Man web at theoretically. There's the couple that are within 20 feet of each other, right?
+[0:59:33] Ian Lurie: Ah, yeah.
+[0:59:34] Speaker 3: Like those three, those three bad boys right there. They're in a cube.
+[0:59:39] Ian Lurie: Yeah. Here, let's take a look. Oh, that's cool.
+[0:59:48] Jamie Indigo: So instead of using walls, I will be webbing them to each other.
+[0:59:51] Ian Lurie: Is it a cube or a sphere?
+[0:59:54] Jamie Indigo: Cube.
+[0:59:55] Ian Lurie: Damn. Okay, and you said it's 10 feet.
+[1:00:00] Jamie Indigo: 20 feet.
+[1:00:01] Ian Lurie: 20 feet. So 20 feet would be four tiles. 20 feet on a side, though, not 20 feet. I think the color of this map may be working against me here. Let's see. There we go. So four with four tiles, you could get, say, you could get them,
+[1:00:44] Speaker 3: okay.
+[1:00:46] Ian Lurie: Or you could get. Sorry, guys, my tremor just sucks today, and it's making it really hard. It's
+[1:00:57] Jamie Indigo: all good. I'm so sorry to break out the math on you.
+[1:01:00] Ian Lurie: No, no, no. Yeah, or you could potentially get like this guy and the blue guy, or you could get these two.
+[1:01:13] Jamie Indigo: No, I want to go for the blue guy and the one next to him. I try and get those two. It might be hilarious and like they just knock her into each other, which would be the dream. Absolutely, goals right there. It is a Dex 19.
+[1:01:27] Speaker 2: All right.
+[1:01:35] Ian Lurie: Holy shit! Did they just roll terrible? Yeah, no, they're both webbed.
+[1:01:48] Speaker 2: Does that reduce their speed to zero? I chance.
+[1:01:50] Ian Lurie: I believe it does. Jamie, you want to tell me
+[1:01:54] Jamie Indigo: the? They are restrained by webs.
+[1:01:56] Ian Lurie: Okay, if they're restrained, their speed is zero.
+[1:01:59] Jamie Indigo: Which means they now fall into the river sticks.
+[1:02:02] Speaker 2: Speed is zero.
+[1:02:03] Ian Lurie: Speed is zero.
+[1:02:05] Speaker 2: Attack rolls against them have advantage. Their attack rolls have disadvantage. Yeah. Dexterity saving throws have a disadvantage.
+[1:02:13] Ian Lurie: And
+[1:02:14] Jamie Indigo: yeah, I want to know what happens to this thing if it falls in the river sticks. Though, is it immediately forgetting everything, including why it's after us?
+[1:02:20] Ian Lurie: Makes saves, but yeah, that could definitely be an issue. How do they break free of the web?
+[1:02:28] Jamie Indigo: So, because it wasn't attached to anything, they have until the end of my next turn to
+[1:02:33] Ian Lurie: to do what?
+[1:02:36] Jamie Indigo: That's that's when it will release them. It'll dissipate.
+[1:02:41] Ian Lurie: Okay, okay, but they and they can't try to break out of it in the meantime. I'm asking because they're next.
+[1:02:48] Jamie Indigo: Okay, hold on. Yes, they can make a strength against my spell save DC.
+[1:02:57] Ian Lurie: Okay,
+[1:02:58] Jamie Indigo: so they make a strength against the 19.
+[1:03:00] Ian Lurie: Okay,
+[1:03:01] Speaker 2: but would they fall into the river before they get to their turn?
+[1:03:05] Ian Lurie: I would say yes. Yeah, they almost certainly
+[1:03:12] Speaker 9: do. Nope.
+[1:03:13] Ian Lurie: We'll just have to count that. So they both have to make their saves. They both do, but they both have very good wisdom and intelligence saves, so that was not a problem. So now, yeah, he's pissed. He is pissed. They both struggle with the webbing a bunch, and the white one just tears out of it. It looks almost effortless and rises back up. He Does not, and he lets out sort of draconic shriek of rage at you all. And is
+[1:04:10] Jamie Indigo: it in draconic?
+[1:04:12] Ian Lurie: Yeah, why not? What
+[1:04:14] Jamie Indigo: does he say?
+[1:04:16] Ian Lurie: He says "fuck, as
+[1:04:20] Speaker 1: one
+[1:04:21] Ian Lurie: might say in that situation, and then Mossy. Oh my God! You got to be kidding me. Okay, Mossy, you do you do anything after casting Web?
+[1:04:36] Jamie Indigo: Okay, so I cast Web. This is
+[1:04:42] Ian Lurie: where you are.
+[1:04:46] Jamie Indigo: Yeah, I'm gonna just tuck behind a pile of skulls, I guess. Try and hide.
+[1:04:52] Ian Lurie: Self check. Because in theory, those are high enough for you to hide behind.
+[1:05:00] Jamie Indigo: I mean, yeah, 34.
+[1:05:02] Ian Lurie: Okay, that's good. That's good for you. So then, unfortunately, Cregan, you're the one who takes three three lightning bolts in the face. So let's just see how this goes for you.
+[1:05:23] Speaker 2: I'm guessing these are gonna be deck saves.
+[1:05:26] Ian Lurie: There's no save actually, because he has to roll to hit.
+[1:05:30] Speaker 2: Okay.
+[1:05:31] Ian Lurie: So you take 30 from the first one. Oh boy. 917, I'm rolling either great or awful.
+[1:05:51] Speaker 2: What's his Craigens AC is 22.
+[1:05:55] Ian Lurie: I rolled a 25 and a 27, and then I rolled a
+[1:06:00] Speaker 2: one. Okay.
+[1:06:00] Ian Lurie: So the the second one, the first one hit you. I can't remember what I just said.
+[1:06:05] Speaker 2: And are these coming from the blue guy or?
+[1:06:07] Ian Lurie: Um, I cannot remember what I just said for damage. Can he
+[1:06:12] Jamie Indigo: do that even though he's restrained?
+[1:06:14] Ian Lurie: Yes, restrained means first one
+[1:06:16] Jamie Indigo: was 30. Okay. Yeah,
+[1:06:18] Speaker 2: that's 30. I believe
+[1:06:19] Ian Lurie: restrained means you can't move and can't cast spells, things like that. But this oh, your
+[1:06:24] Speaker 2: attacks are at disadvantage.
+[1:06:26] Ian Lurie: Oh, all right then. Let's see how we do. Pretty much the same result. I got a 24, a 30, and a 12.
+[1:06:40] Speaker 2: Okay,
+[1:06:40] Ian Lurie: that means two out of three hit you.
+[1:06:49] Speaker 2: Okay.
+[1:06:49] Ian Lurie: Am I?
+[1:06:50] Speaker 2: Yeah. Yeah. Okay. I'm gonna cast absorb elements.
+[1:06:55] Ian Lurie: Ah, there you go. Okay. Does that reduce damage you take? I believe
+[1:06:59] Speaker 2: lightning. Yeah.
+[1:07:02] Ian Lurie: Okay, so the first one was 30 points.
+[1:07:05] Speaker 2: Wow.
+[1:07:05] Ian Lurie: I still haven't rolled for
+[1:07:08] Jamie Indigo: the. It's got its advantage on decks if you want to attack it.
+[1:07:13] Ian Lurie: I'm trying to. Yeah, I don't have enough d8. There's one good enough.
+[1:07:21] Jamie Indigo: I don't like it when the dice gobble instead of dumb enough d eights. Don't like.
+[1:07:25] Ian Lurie: Well, it's eight
+[1:07:26] Fancy Drak: per
+[1:07:26] Ian Lurie: lightning bolt. So 1220, Okay, 29 plus 16. The second one is 45 points of lightning damage, but you only take half of that because you got absorb elements up. The other Abishai. I don't think they can get to you guys yet. Let's see. No, not quite. How fast are they? They're fast. They're not that fast, and that is actually all they can do, because they are strictly hand-to-hand fighters. And you can see that with the heat all around them, they are literally steaming because they are, you've fought them before. All of their attacks and everything are cold based, and they continue to close with you. And it is now Sango. It's your turn.
+[1:09:19] Speaker 2: Okay. Okay. Oh. We've we've fought. Have we fought Abishai before?
+[1:09:51] Ian Lurie: Fought white Abishai, and you fought green Abishai. You never fought blue.
+[1:09:58] Speaker 2: Okay. Would from those past experiences would Sango know whether they could see in darkness or not?
+[1:10:11] Ian Lurie: Give me a nature check.
+[1:10:20] Speaker 2: 16.
+[1:10:21] Ian Lurie: Okay. These are a form of devil, and as far as you know, most devils have devil sight. Okay, they can see in magical darkness.
+[1:10:32] Speaker 2: Okay, gotcha. Well, that's not going to help then. All right, and Sango is going to cast protection from good and evil on himself. Okay. And let me see. Once did I look at the red shit. How close is the closest one to single?
+[1:11:30] Ian Lurie: There's two that are about equidistant, and they are. They're about 10. They're about 55 feet away because they are about 45 feet, but they are also up in the air.
+[1:11:53] Speaker 2: Gotcha. You said they're 55 feet away.
+[1:11:59] Ian Lurie: Yeah, I believe so. Let me.
+[1:12:09] Speaker 2: All right, he's just going to. And is the blue one still in the water?
+[1:12:14] Ian Lurie: Yes.
+[1:12:15] Jamie Indigo: You have advantage.
+[1:12:18] Ian Lurie: If you can see the blue one, you have advantage, and I believe that you can. Yes, you can just barely see the blue one.
+[1:12:26] Speaker 2: Okay, if I could just barely see the blue one, I am going to guide and bolt it.
+[1:12:31] Ian Lurie: Okay,
+[1:12:32] Jamie Indigo: obviously, doggy battle.
+[1:12:35] Speaker 2: Negative advantage. Advantage.
+[1:12:38] Ian Lurie: Okay, all of this water fountaining as he's struggling to get out of the out of the webs.
+[1:12:45] Speaker 2: Okay, that's a 19 guiding bolt hit.
+[1:12:48] Ian Lurie: Okay, that hits.
+[1:12:56] Speaker 2: That's 15 radian.
+[1:12:58] Ian Lurie: 15. Yep. Howie, all right.
+[1:13:08] Jamie Indigo: Did they get extra crispy with Radiant?
+[1:13:11] Ian Lurie: They did not appear to get extra crispy with Radiant.
+[1:13:22] Speaker 2: Oh. Oh, you know what? I can't do that. Sorry.
+[1:13:25] Speaker 4: Oh,
+[1:13:25] Speaker 2: I can't because I I cast protection from good and evil on myself.
+[1:13:29] Ian Lurie: Yeah, yeah, that's right.
+[1:13:31] Speaker 2: I can't do that.
+[1:13:32] Ian Lurie: Sorry, I've forgotten how to D and D.
+[1:13:34] Speaker 2: I know. Me too. So then I'll do. I'll do my starry form.
+[1:13:42] Ian Lurie: Okay.
+[1:13:45] Speaker 2: And then that'll be. Wait, hold on. Yep.
+[1:13:52] Ian Lurie: All right, Craigan,
+[1:13:53] Speaker 2: and I will I will get up in front of Craig and to provide him some support.
+[1:14:01] Ian Lurie: All right, Craigan, what are you gonna do?
+[1:14:09] Speaker 2: He's gonna do his Twilight Sanctuary and his Steps of the Night.
+[1:14:15] Ian Lurie: And describe to me what Twilight Sanctuary does.
+[1:14:18] Speaker 2: That's the one that temporary hit points.
+[1:14:21] Ian Lurie: Right.
+[1:14:21] Speaker 2: Steps of the night. His little wings come out. He could fly.
+[1:14:25] Ian Lurie: Okay. So you can now fly, and we are back around to the top track. Okay.
+[1:14:41] Fancy Drak: Sura is going to give Mossy just a little, little, little nuzzle, little snuggle as the help action.
+[1:14:56] Ian Lurie: Okay. So Mossy,
+[1:14:57] Fancy Drak: the next thing you do will automatically a bit the advantage.
+[1:15:03] Ian Lurie: Can Sura do the help action?
+[1:15:09] Jamie Indigo: I'm hidden. I don't know if that affects it.
+[1:15:12] Ian Lurie: But given how you hid and where you're hidden, I would say that she definitely knows where you are. Okay.
+[1:15:18] Fancy Drak: So one of the one of the things that a beast of a beast master can do is to help action
+[1:15:25] Ian Lurie: through their beast. Okay.
+[1:15:26] Fancy Drak: Yes. Yes.
+[1:15:27] Speaker 2: Everybody gets 15 temporary hit points. By the way. Oh, nice.
+[1:15:33] Fancy Drak: All right. Thank you, Sango. Krieger. Krigo.
+[1:15:41] Jamie Indigo: Sangen.
+[1:15:43] Fancy Drak: So, Jack thought hilars Mark on the blue guy. Yep, and he is going to just pop, pop him. Okay,
+[1:15:58] Ian Lurie: put two into the blue guy. Got it.
+[1:16:00] Fancy Drak: All right, that was a 27 and a 30.
+[1:16:04] Ian Lurie: Those those probably hit. Yeah.
+[1:16:07] Fancy Drak: All right. Eight six. Okay, that's 19 points of damage for
+[1:16:14] Ian Lurie: one. Okay.
+[1:16:18] Fancy Drak: And that is a natural 20 for the second one. Okay, 10 plus 16 is 26 plus 632, points of damage for the second for the second one.
+[1:16:33] Speaker 4: All right, and
+[1:16:38] Fancy Drak: I'm going to stay next to Sarah, and yeah, I'm not gonna. I'm not gonna burn my bonus.
+[1:16:53] Ian Lurie: Okay. Sorry, doing some quick housekeeping here. There we go. Okay. Okay, Mossy.
+[1:17:17] Jamie Indigo: All right. So we are back again to ask about sizes.
+[1:17:25] Ian Lurie: Okay.
+[1:17:27] Jamie Indigo: If I want to have Blue Dude in my 20-foot cube, can I get anyone else?
+[1:17:35] Ian Lurie: Um. No.
+[1:17:43] Speaker 3: Okay.
+[1:17:44] Ian Lurie: He is versus everybody else.
+[1:17:46] Jamie Indigo: Yep. I'm still gonna do this right now because I feel like it's gonna be useful since he's got disadvantage on dexterity saving throws. I'm going to fairy fire him.
+[1:17:56] Ian Lurie: Okay. He definitely fails with a two and a four, and those dice both go into the fuck you pile. We move to a new pair of dice. There we go. All
+[1:18:10] Jamie Indigo: right. So now we have a persistent advantage on this fucker, and with that, I'm just gonna click and roll back underneath a a different pile of skulls.
+[1:18:21] Ian Lurie: Okay, let's see. Where can you go here? Can
+[1:18:24] Jamie Indigo: I see? Can I see poor Singe? Singe, where's our heart, Craigen?
+[1:18:29] Ian Lurie: Yeah, right there. You don't really have any nearby piles of skulls. You can move up, because the closest pile you've got is right there, but hiding there would be almost impossible because they'll see you move up there.
+[1:18:53] Jamie Indigo: Yeah,
+[1:18:54] Ian Lurie: jump on shore. You're pretty speedy, and hide like behind one of these pillars or something, if you wanted to. And no, that is not the DM trying to screw you.
+[1:19:06] Jamie Indigo: No, that sounds like fun. Yeah, let's do that.
+[1:19:09] Ian Lurie: Okay. Yeah. It's basically stepping from one deck to the other. So.
+[1:19:17] Jamie Indigo: And that was a 42 in stealth.
+[1:19:21] Ian Lurie: Okay. Even I have forgotten where you are, so you'll have to remind me later. Okay. So let's see. He is now free of the webbing, right? You said it went away at the end of your. Yes, it went
+[1:19:38] Jamie Indigo: away at the end of my turn.
+[1:19:39] Speaker 4: Okay. But
+[1:19:40] Jamie Indigo: he is glowing with a lovely purple ridge.
+[1:19:46] Ian Lurie: He is also very angry.
+[1:19:51] Fancy Drak: I also feel that it's like this was a condition he had before he showed up. So feels
+[1:19:55] Ian Lurie: he's pretty.
+[1:19:56] Jamie Indigo: He came into the room like that. That's not even on us.
+[1:20:00] Ian Lurie: Always pissed off. Yeah, being honest, he you see him move and cast a spell, and this invisible wall appears. Not quite invisible, obviously. It goes here.
+[1:20:34] Jamie Indigo: Oh God! Does it bifurcate our dinosaur? Is this like 13 ghosts?
+[1:20:39] Ian Lurie: Bifurcate the dinosaur. That would be a dick move. Even for a DM, that would be a dick move. Oh my god! There's no good wall of force thing, but basically, a wall of force springs into being. It's 100 feet long.
+[1:21:06] Speaker 4: Oh,
+[1:21:08] Ian Lurie: and it goes across there. It is also 10 feet high. Is that true?
+[1:21:23] Jamie Indigo: Are you lying to
+[1:21:25] Ian Lurie: us? I
+[1:21:25] Speaker 3: stop lying.
+[1:21:26] Ian Lurie: Not lie to you. I would not. So it's 10 feet by it's it's 100 feet long by 10 feet high. Nothing can get through it, including magic. The only way to get rid of it would be a disintegration spell.
+[1:21:45] Speaker 2: What about dispel magic? No.
+[1:21:47] Ian Lurie: Nope.
+[1:21:49] Speaker 2: And it's 10 foot high.
+[1:21:50] Ian Lurie: It's 10 feet high. Okay. Then these guys.
+[1:21:56] Speaker 2: How tall is an Allosard, by the way?
+[1:21:59] Ian Lurie: He's about 10 feet. Just curious. Yeah, yeah. You know, I'm not saying it's a master stroke or anything. All right, now can I lock you in place? Yes. There we go. These guys all gang up.
+[1:22:22] Jamie Indigo: Can you tell I was gone for three days?
+[1:22:26] Ian Lurie: Is the cat stuck to you?
+[1:22:28] Jamie Indigo: Yeah, my little Velcro ham.
+[1:22:37] Ian Lurie: Oh shit! What the hell did I do?
+[1:22:39] Jamie Indigo: Whoa!
+[1:22:40] Speaker 4: You
+[1:22:40] Jamie Indigo: literally nuked us off the planet.
+[1:22:42] Ian Lurie: What that was?
+[1:22:46] Jamie Indigo: I love the heat effects, though they are really they
+[1:22:48] Ian Lurie: they are pretty cool. Yeah, I'm not sure I'd use them again because they make it harder to see the map. But in this case, okay, so they basically swarm you guys like so.
+[1:23:00] Speaker 2: Okay.
+[1:23:04] Ian Lurie: So three of them are on Sango, and they all attack you three times. They each one of them comes up to you, swipes at you with its claws first.
+[1:23:27] Fancy Drak: Jesus,
+[1:23:29] Ian Lurie: getting a 21, a 23, and a 24 to hit.
+[1:23:37] Speaker 2: The 21 does not hit, but they all also have disadvantage.
+[1:23:42] Ian Lurie: Good point. Aha, that's good for you. Only one hits then with a 24.
+[1:23:50] Speaker 10: Okay,
+[1:23:52] Ian Lurie: and you take. Sorry, I'm really not totally programmed right now. You take 10 points of bite bite damage, then they all clot you, but they're also at disadvantage, and one of those is well would have been a natural 20, but it's a 23 instead.
+[1:24:31] Speaker 2: Okay,
+[1:24:32] Ian Lurie: and that one does eight eight points of damage.
+[1:24:41] Speaker 2: Okay,
+[1:24:42] Ian Lurie: and then the long swords, all three of them. One of them gets a 22. Does that hit? Yep.
+[1:24:59] Speaker 4: Okay.
+[1:25:11] Ian Lurie: Doing 10 points of force damage to you.
+[1:25:15] Fancy Drak: Okay.
+[1:25:16] Ian Lurie: And then Craigan, there's two on you. Are they at disadvantage to hit you?
+[1:25:23] Speaker 2: Nope.
+[1:25:24] Ian Lurie: Okay.
+[1:25:25] Speaker 2: Number has 22 though. One
+[1:25:27] Ian Lurie: of them gets a natural 20 on his bite.
+[1:25:31] Jamie Indigo: Uh, silvery guards.
+[1:25:33] Ian Lurie: Okay. So do I roll again, or do I just subtract from it?
+[1:25:36] Speaker 3: You roll again.
+[1:25:37] Ian Lurie: Okay. Well, that's not a natural 20 anymore, so I got a 25 and a 20, a 25 and a 20 to hit.
+[1:25:47] Speaker 2: 25 hits.
+[1:25:48] Ian Lurie: Okay, you take 13 points of slashing damage.
+[1:25:53] Speaker 2: Okay,
+[1:25:54] Ian Lurie: and then the last two attacks. These are the swords. One misses in dramatic fashion. The other one gets a 25 to hit.
+[1:26:03] Speaker 2: Okay,
+[1:26:05] Ian Lurie: and you take 9.0. wait, I
+[1:26:09] Jamie Indigo: get to give someone advantage from that, right?
+[1:26:13] Ian Lurie: Advantage from silvery
+[1:26:15] Jamie Indigo: barbs. Yeah. Okay, I'm going to give you advantage.
+[1:26:19] Ian Lurie: Oh, okay. On his on his attack. Okay.
+[1:26:22] Speaker 3: Yeah.
+[1:26:23] Ian Lurie: Did you get the last bit of damage there?
+[1:26:25] Speaker 2: Yeah, nine damage.
+[1:26:26] Ian Lurie: Yep. Yep.
+[1:26:27] Speaker 2: Yep.
+[1:26:28] Speaker 4: Okay. Okay. All
+[1:26:30] Ian Lurie: right. So that's all the Abishai. Oh wait, no. Yes, that is all the Abishai. Except our blue friend.
+[1:26:41] Fancy Drak: He did the roll of force, right?
+[1:26:43] Ian Lurie: Yeah, but he can move. Damn it! Mean, mean Tabaxi. I'm going to stay low now. I don't want someone sniping me. Okay, that's it. So, Sango, it's your turn now. You are you guys see Sango just disappear in this mound of white abishai. Um. Uh. Okay.
+[1:28:03] Speaker 2: What is the what is the what is the what is the light situation like?
+[1:28:13] Ian Lurie: It's pretty much as you see.
+[1:28:15] Speaker 2: Okay, so it's is it like daylight or dim light?
+[1:28:19] Ian Lurie: It's daylight.
+[1:28:20] Speaker 2: Okay,
+[1:28:21] Ian Lurie: with the
+[1:28:21] Speaker 2: time
+[1:28:22] Ian Lurie: to get down lower, you could potentially disappear into the mist, but you'd have to get into the river to do that.
+[1:28:30] Speaker 2: Yeah, that didn't sound that fun.
+[1:28:32] Ian Lurie: No, probably not.
+[1:28:32] Speaker 2: Okay, I'm gonna spend two key points for darkness.
+[1:28:42] Ian Lurie: Okay.
+[1:28:45] Speaker 2: Wait, hold on. Nope. Nope. No, that ain't gonna work.
+[1:28:50] Ian Lurie: Remember that.
+[1:28:50] Speaker 2: Yep. Yep. I just. I don't know what the fuck I'm gonna do. I guess I gotta do some pop pop stuff because I ain't got a whole lot at this month.
+[1:29:11] Jamie Indigo: You have advantage on your popping. And if you hit blue, there's already advantage because he's just glowing.
+[1:29:21] Speaker 2: Is he fairy fired?
+[1:29:23] Speaker 3: Yep.
+[1:29:23] Ian Lurie: Ferry fired. He's way over.
+[1:29:24] Speaker 2: Okay. Uh, then why don't I guiding bolt him?
+[1:29:30] Ian Lurie: Okay. Now, if you're in melee and you're doing a ranged attack, I believe that's a disadvantage, which would mean it would even out. Okay. I think that's right.
+[1:29:42] Speaker 2: Okay. Okay. I'm still gonna do it. That is a 16 to hit.
+[1:29:49] Ian Lurie: Ah, that misses.
+[1:29:51] Speaker 2: Can I? Can I use Jamie's thing?
+[1:30:01] Ian Lurie: Jamie's thing. I gave him
+[1:30:04] Jamie Indigo: advantage.
+[1:30:05] Speaker 4: Oh,
+[1:30:05] Speaker 2: or did you get it? No, Krigan.
+[1:30:07] Ian Lurie: Kriegin, I thought.
+[1:30:08] Speaker 2: Oh yeah. Oh, I did. Okay. Yeah, yeah. Then with the bonus action, Seringa is going to do some sort of oh for fuck's sake! Oh, he's going to take the oh that doesn't fucking work! God damn!
+[1:30:41] Ian Lurie: Getting surrounded by draconic barbarians is not fun. I understand.
+[1:30:44] Speaker 2: Let me ask you something. How far can I jump? Can I jump over 10 feet?
+[1:30:58] Ian Lurie: I think you can. You're a monk. What's what's your
+[1:31:02] Speaker 2: I got a I got a speed of 55.
+[1:31:09] Ian Lurie: Hold on, I'm pretty sure you can jump 25 feet. Do you have step of the wind?
+[1:31:19] Speaker 4: Uh huh.
+[1:31:20] Ian Lurie: Okay, so then you could use step of the wind to double your normal jump distance. Are you jumping up? Which way are you jumping? Where are you trying to go?
+[1:31:39] Speaker 2: On the other side of that wall.
+[1:31:42] Ian Lurie: That's a really long way.
+[1:31:43] Speaker 4: Okay,
+[1:31:44] Ian Lurie: and you'd have to you'd have to jump away from all of these guys. So that's you'd have to go 10 feet up. You'd have to go. Let's see here.
+[1:31:56] Speaker 2: Okay, well then, why don't I do this? I'm going to use a key point to. To
+[1:32:07] Ian Lurie: all those are reactions.
+[1:32:14] Speaker 2: To disengage.
+[1:32:16] Ian Lurie: Okay.
+[1:32:18] Speaker 2: And to back up against the wall.
+[1:32:22] Ian Lurie: Okay.
+[1:32:23] Speaker 2: Yep. I still want to face them, of course. Yeah.
+[1:32:27] Ian Lurie: Well, yeah. Just ignore that. That's
+[1:32:29] Speaker 2: okay. And and that's that's what he's got.
+[1:32:34] Ian Lurie: Okay.
+[1:32:35] Speaker 4: Okay.
+[1:32:39] Ian Lurie: All right, Craigan.
+[1:32:42] Speaker 2: Looks like. Reagan, how how far away is the is the wall from Reagan? It is.
+[1:33:23] Ian Lurie: Shortest distance, it is 14 feet.
+[1:33:29] Speaker 2: Oh, okay.
+[1:33:31] Fancy Drak: Do you have like spirit spirit guardians?
+[1:33:34] Speaker 2: Uh, no, I do not have.
+[1:33:36] Speaker 11: Okay.
+[1:34:18] Speaker 2: They probably have. Wait. Uh. Hold on.
+[1:34:22] Ian Lurie: I got to say, I feel a teeny bit of pride that I've got you guys a little vapor locked here. I know
+[1:34:28] Speaker 2: I'm.
+[1:34:28] Ian Lurie: I am slightly proud of myself. Not not too not like overweening pride, but
+[1:34:35] Fancy Drak: you should feel. You should feel this.
+[1:34:44] Speaker 2: You said these guys are like cold-based, water-based.
+[1:34:48] Ian Lurie: They're really not. It's just for effect because they're based on white dragons, right? White Abishai. Their attacks are all force and piercing. They're pretty normal creatures. They're not vulnerable to anything.
+[1:35:01] Speaker 2: Okay. Would I think that they are resistant to fire?
+[1:35:07] Ian Lurie: Give me another nature check.
+[1:35:15] Speaker 2: That is a 24.
+[1:35:16] Ian Lurie: Okay. You remember that they are immune, at least to fire and cold.
+[1:35:24] Speaker 2: Okay. Well, fuck. You really have me. Oh shit! Oh my god,
+[1:35:32] Ian Lurie: Abishai are serious assholes.
+[1:35:34] Speaker 2: Uh huh. Uh huh. Okay. Why don't I am going to. Jesus, fuck! It's like a death trap. What the hell? Do
+[1:36:22] Ian Lurie: you want to talk him or
+[1:36:24] Speaker 2: nope? I can figure this out.
+[1:36:27] Ian Lurie: I mean,
+[1:36:27] Speaker 2: almost sure.
+[1:36:28] Ian Lurie: Tricky way out of it, but I know what I would do. Here, you think about it for a second. I'm gonna actually grab myself some caffeine. I will be right back.
+[1:37:02] Speaker 2: Divine intervention should.
+[1:37:09] Speaker 3: When was the last time we fought Adishai
+[1:37:13] Fancy Drak: at the the farmhouse where they were keeping the kid, the orc children?
+[1:37:20] Speaker 9: Yeah.
+[1:37:26] Fancy Drak: So,
+[1:37:26] Speaker 3: how do we defeat that?
+[1:37:38] Fancy Drak: So, can you like bane Them, like if you can't if you can't do something like like do damage like maybe debuffing them would be helpful.
+[1:37:53] Speaker 2: Fairy fire.
+[1:37:56] Ian Lurie: That that's.
+[1:37:57] Jamie Indigo: I already go.
+[1:38:00] Speaker 4: Huh?
+[1:38:00] Ian Lurie: And I was say it's not a debuff, but yeah, you could fairy fire a bunch of them,
+[1:38:06] Fancy Drak: like if you bane them or bless us, like because you've got the ring, so you can bless us.
+[1:38:22] Speaker 2: Okay.
+[1:38:28] Ian Lurie: And the blast does not require concentration when it's cast by an item. So,
+[1:38:33] Speaker 1: yep.
+[1:38:40] Speaker 2: That's a good idea. Let's do that. Let's do that. Bless three people, right? Craigan, Sango, and
+[1:38:54] Ian Lurie: you can't see Mossy right now, so I think it would have to be Drac.
+[1:38:57] Speaker 2: Then Drag.
+[1:38:58] Fancy Drak: Okay, but and Sura.
+[1:39:00] Ian Lurie: I can only do three. Okay, gotcha. I think that's right. Yeah.
+[1:39:09] Speaker 2: Yeah, I think it's just level, whatever. Okay. Bless and then, Jesus.
+[1:39:23] Jamie Indigo: Bless this mess.
+[1:39:24] Speaker 2: I really want to do some bonus action shit, but that's all. That's all Sango stuff. Fuck.
+[1:39:31] Speaker 1: Yeah.
+[1:39:32] Ian Lurie: What bonus action disengage, right?
+[1:39:38] Speaker 2: Not Craigan. No, that's a
+[1:39:42] Ian Lurie: okay.
+[1:39:43] Jamie Indigo: Yeah,
+[1:39:43] Ian Lurie: I play
+[1:39:44] Speaker 2: that's a
+[1:39:44] Ian Lurie: in the game I play in, and that's and I play a monk. So that's I always assume. Of course, I can bonus action disengage.
+[1:39:51] Fancy Drak: You could pop a heal on yourself as a bonus action.
+[1:39:57] Speaker 2: That's okay. 15 temporary hit points. Let's just do that. Can't still.
+[1:40:01] Speaker 1: Okay.
+[1:40:04] Speaker 2: Mossy might be out of range to get that, but
+[1:40:09] Jamie Indigo: I still have the ones from before. Are they gone now?
+[1:40:14] Speaker 2: Nope. You keep those until they're gone.
+[1:40:16] Speaker 3: Okay.
+[1:40:17] Speaker 2: Okay. So then Craigan will take. Can Craigan step back at all without getting an opportunity attack, like five feet?
+[1:40:31] Ian Lurie: Yeah, you could step to there. You're still
+[1:40:33] Speaker 2: okay of
+[1:40:34] Ian Lurie: both of them.
+[1:40:35] Speaker 2: Okay, that's all I got. Okay,
+[1:40:39] Ian Lurie: Drac, your turn.
+[1:40:43] Fancy Drak: Okay, Drac is going to run over the direction where Mossy is.
+[1:40:49] Ian Lurie: Okay. We.
+[1:40:54] Fancy Drak: Okay. Bonus action. Misty stepped to the top of the pillar. That is across from the 10 foot wall of force, or this barrier,
+[1:41:08] Ian Lurie: or there.
+[1:41:09] Fancy Drak: No, closer to the like,
+[1:41:15] Ian Lurie: like there.
+[1:41:16] Fancy Drak: Nope.
+[1:41:17] Ian Lurie: You can move. I mean, where you this one?
+[1:41:22] Fancy Drak: Yes.
+[1:41:23] Ian Lurie: Okay, you won't be able to get there this turn.
+[1:41:26] Fancy Drak: Okay. How far? How? Okay. This
+[1:41:28] Ian Lurie: because you had how far you had to move. Let's see here. I'm just eyeballing this, but yeah, I'm pretty sure you had to move. You had to move 25 feet to get to the pillar, and then.
+[1:41:50] Fancy Drak: Okay, actually, actually, how about this? I will use all my movement,
+[1:41:54] Ian Lurie: okay,
+[1:41:55] Fancy Drak: to hop over, climb the first pillar, because I've got a climbing speed as a ranger, and then bonus action misty step to the next pillar. Okay.
+[1:42:10] Ian Lurie: Okay.
+[1:42:11] Speaker 1: And
+[1:42:11] Ian Lurie: your total speed?
+[1:42:13] Fancy Drak: My total speed is like 55.
+[1:42:18] Ian Lurie: Okay. So yes. Then you you you actually just make it, so okay. Then you miscecept to here. Okay.
+[1:42:23] Fancy Drak: Yes, that's my the last section. My for my full action, I have conjure barrage, which it's a cone at 60 feet, which should hit every single abishai on the ground.
+[1:42:36] Ian Lurie: Okay. So all the
+[1:42:39] Fancy Drak: it is a all the white app is shy.
+[1:42:41] Ian Lurie: Okay, it is
+[1:42:42] Fancy Drak: a Dex save, so they all. You hit the
+[1:42:46] Jamie Indigo: blue one. Wait, no, he just doesn't just manage anymore. I don't
+[1:42:49] Fancy Drak: think he's. I don't think he's within 60 feet of me.
+[1:42:53] Ian Lurie: Well, and even if he were, if you do that, you're going to miss a bunch.
+[1:42:56] Jamie Indigo: Yeah, not going to hit
+[1:42:57] Ian Lurie: many of them. Yes,
+[1:43:00] Fancy Drak: yes,
+[1:43:00] Ian Lurie: he's not within. He is he is within 60. But if you do that, it's not going to hit any of these guys.
+[1:43:07] Fancy Drak: Yeah, not going to. I want to hit. I want to hit the the big old mess of shot.
+[1:43:12] Ian Lurie: Yeah. So you'll that will hit all of them. All right.
+[1:43:15] Fancy Drak: So they all need to take Dex 19 saves.
+[1:43:19] Ian Lurie: All Right. Ooh, Dex is not my strong suit.
+[1:43:28] Fancy Drak: 1919. the target.
+[1:43:35] Ian Lurie: Fail, fail, fail, fail, fail, fail. They all fail.
+[1:43:38] Speaker 4: Ah.
+[1:43:39] Fancy Drak: Okay.
+[1:43:40] Ian Lurie: All of my dice are betraying me tonight in horrible, messy fashion. One
+[1:43:44] Fancy Drak: of them takes 50 points of force damage.
+[1:43:48] Ian Lurie: Oh my god! Another
+[1:43:51] Fancy Drak: one takes 42 points of force damage.
+[1:43:54] Ian Lurie: Okay, hold on.
+[1:43:54] Fancy Drak: How many are there?
+[1:43:56] Ian Lurie: Five. Okay.
+[1:44:01] Fancy Drak: 48 points of force damage.
+[1:44:05] Ian Lurie: Okay.
+[1:44:07] Fancy Drak: 31 points of force damage.
+[1:44:10] Ian Lurie: Okay. Got one left,
+[1:44:13] Fancy Drak: and 49 points of force damage.
+[1:44:17] Ian Lurie: My God. Okay.
+[1:44:21] Fancy Drak: And that ends my turn.
+[1:44:23] Ian Lurie: Well, that stank, as in the past tense of stink or stunk, stinkiness. It was the essence of stinking. Anyway, Mossy, it's your turn.
+[1:44:34] Fancy Drak: Jack feels pretty good about himself.
+[1:44:35] Ian Lurie: Yeah, yeah, he should.
+[1:44:36] Jamie Indigo: Yeah, but
+[1:44:38] Ian Lurie: feels good about himself. I just, I just want to point out,
+[1:44:41] Fancy Drak: except when he does dumb shit like shoot his arrow into clouds or things, the neighbor's wife.
+[1:44:47] Ian Lurie: Which, by the way, had no impact on had no impact on anything. The Cinderfall was actually something I had written as just one scene, but the the timing was just exquisite. It was just exquisite. He still
+[1:45:00] Fancy Drak: feels guilty about you know, like he knows he caused something. He he, it's in he doesn't. Yeah, it's like when he made us soup and gave us all mushroom poisoning. Okay. Okay.
+[1:45:12] Jamie Indigo: Um. Okay. So I I look like I'm on the backside of the wall. Yeah. Yep. About how far away am I from Blue Guy?
+[1:45:23] Ian Lurie: You are.
+[1:45:37] Jamie Indigo: Oh, like 600 feet.
+[1:45:38] Ian Lurie: No, no, no, no. Uh, 13 times five, so that's 60 something. 60 something plus about five more because he's up in the air. So you're but he's you're about 70 feet away.
+[1:45:50] Jamie Indigo: Okay.
+[1:46:00] Ian Lurie: And there is this wall of force here.
+[1:46:02] Jamie Indigo: So if I were to climb up on top of that tower right there, would I be within 60 feet of him?
+[1:46:10] Ian Lurie: No, I don't. I don't think so. Here, let me. Oh God, that's coming.
+[1:46:16] Jamie Indigo: We went into the hidden dimension again.
+[1:46:18] Ian Lurie: It's any time I use the the quick move feature. Let's see here. That does get you above the wall. Not quite. It gets you to 65 feet.
+[1:46:38] Speaker 12: Okay.
+[1:46:42] Speaker 2: What if you climbed that other pillar closer to the wall of force?
+[1:46:45] Ian Lurie: If you climbed the the corpse pillar,
+[1:46:49] Jamie Indigo: yeah.
+[1:46:51] Ian Lurie: See here. That would get you just within 60 feet.
+[1:46:56] Jamie Indigo: Can I do that one, please? Yeah. Excellent. Cool. Scampering on up, and we are going to dagger dagger with some sneak attack action.
+[1:47:10] Speaker 4: Okay,
+[1:47:11] Jamie Indigo: and I have advantage on him because fuck that guy.
+[1:47:14] Ian Lurie: Why is it? Oh, because you have advantage, right?
+[1:47:17] Jamie Indigo: Yeah, that's a 22 to hit.
+[1:47:22] Ian Lurie: That hits.
+[1:47:24] Jamie Indigo: Fantastic. Okay.
+[1:47:33] Speaker 3: Base and then.
+[1:47:44] Jamie Indigo: Yes, excellent. Figure
+[1:47:47] Speaker 3: out one more defile.
+[1:48:08] Jamie Indigo: 22 points of stabby damage on the first one.
+[1:48:14] Ian Lurie: Damn! So the first dagger just hits him right in the wing, like you can see it just rips a little shred out of his wing.
+[1:48:22] Jamie Indigo: Poof, back returns to me. Well, does that? Oh, I have to do the other one. Second dagger, natural 20. Oh God.
+[1:48:30] Ian Lurie: Okay, be one of those knights I can see. Hey,
+[1:48:34] Jamie Indigo: be glad there is a second dagger. All right, so that is 14 points.
+[1:48:42] Ian Lurie: Okay. All right. And then what do you want to do? And
+[1:48:46] Jamie Indigo: then I'm going to do a little maniacal giggle, backflip kick off, and tuck down and hide. Oh God!
+[1:48:59] Ian Lurie: Why did you do that?
+[1:49:11] Speaker 3: Yes, we do love you.
+[1:49:12] Ian Lurie: There we go. I believe that is as far as you can get. It's right about there.
+[1:49:21] Speaker 4: Yeah,
+[1:49:22] Ian Lurie: and you could be just behind that pillar. Just give me a. Yeah. What's your movement?
+[1:49:27] Speaker 3: My movement
+[1:49:30] Jamie Indigo: is 30.
+[1:49:32] Ian Lurie: Oh no! Then you. Yeah, no, because it took you everything just to get up to the top of that pillar. You could bonus action dash to get down, but then you can't hide.
+[1:49:48] Speaker 2: What if she just jumped off and took the fall damage, and then bonus action hit him?
+[1:49:53] Ian Lurie: It no, no, it doesn't work.
+[1:49:56] Jamie Indigo: What if I use my feline agility?
+[1:50:00] Ian Lurie: No, you used your feline agility to get up the post, right? Because that lets you climb.
+[1:50:05] Jamie Indigo: I the feline agility is the feature trait that gives me an extra 30. It lets me double my speed that turn, and I can reuse it again once I have made no movement for another turn.
+[1:50:15] Ian Lurie: It's a bonus action to do that.
+[1:50:18] Speaker 3: Oh, hold on. Yes, I know depression. It's been so long.
+[1:50:33] Jamie Indigo: Ah, no, it's a treat, and it's not a bonus action. It's just thing I can do.
+[1:50:36] Ian Lurie: Okay. Oh, I see. You can okay, got it. Ooh, that's that's slick. Okay, well then yeah, then you can run right down, um, and you can hide. So just fantastic. Give me a well, just roll your stealth.
+[1:50:58] Speaker 3: 31.
+[1:50:59] Ian Lurie: I was gonna say your usual 30-plus stealth, excellent. Now we have a very angry Abishai, very angry Abishai. He's really, really unhappy.
+[1:51:15] Jamie Indigo: Yeah, I made sure there was a theater kid laughter at him as I flipped off. Bang, we're just really honing it in.
+[1:51:23] Ian Lurie: Well, actually, he doesn't move yet. Drac, you're going to take three lightning bolts.
+[1:51:34] Speaker 2: You have absorbed
+[1:51:35] Fancy Drak: AC of 25. AC of 25. Yes, sir. What the hell? Well, luckily I got a 26, a 29, and one that misses on a 22. All right,
+[1:51:51] Speaker 2: that's still a lot. You don't have absorb elements, do you?
+[1:51:57] Fancy Drak: Ah, do I? I feel that's just a
+[1:51:59] Jamie Indigo: space.
+[1:52:04] Fancy Drak: You know what? I did not pick absorb elements this way, so no, I do not. Okay. Sometimes I do. Sometimes I don't.
+[1:52:17] Ian Lurie: So the first one is 41 points of lightning.
+[1:52:20] Fancy Drak: That blows through Kriegens protection.
+[1:52:24] Ian Lurie: I'm sorry.
+[1:52:26] Fancy Drak: That blows through Kriegens. Oh, his extra hit points.
+[1:52:30] Ian Lurie: Yeah. Yep.
+[1:52:34] Speaker 1: Okay. Okay.
+[1:52:49] Ian Lurie: On another 37 electric lightning damage, and then he lets out his own theater kid laugh, and he crashes horribly because I can't.
+[1:53:04] Jamie Indigo: Still got some spiderweb on him.
+[1:53:07] Ian Lurie: Oh god, oh god, what did I do? Oh god.
+[1:53:13] Jamie Indigo: He's in the magma.
+[1:53:16] Ian Lurie: He's gone.
+[1:53:19] Jamie Indigo: I think I see some legs.
+[1:53:22] Ian Lurie: Do you? Because I don't.
+[1:53:23] Jamie Indigo: Oh no, no, that's his little love. He's just
+[1:53:25] Ian Lurie: gone. He's just gone.
+[1:53:27] Fancy Drak: We hardly knew ye.
+[1:53:32] Ian Lurie: Come on, you're in here somewhere. All right. Well, I can fix that easily enough. I'll just get another blue Abishai mini. And he actually wants to go over to there because Abishai are really fucking fast. Well, blue Abishai are really fast. White Abishai, it turns out, are really slow, which I miscalculated. And he flies over there and lets out a little maniacal theater kid laugh. But you know, one of the annoying bullying theater kids, the white Abishai. I forgot last time to give them all advantage for flanking.
+[1:54:22] Jamie Indigo: Oh, goody!
+[1:54:25] Ian Lurie: Which was, of course, part of the reason I had them all swarm around you like this. Okay, so they all swarm Krigan.
+[1:54:40] Speaker 2: Mm-hmm.
+[1:54:49] Ian Lurie: Got one natural 20, a 25, and a 21.
+[1:54:54] Jamie Indigo: Delivery barbs.
+[1:54:55] Ian Lurie: Okay. Okay. So that's now a 22. So I got a 25, a 22, and a 23.
+[1:55:05] Speaker 2: They all hit.
+[1:55:06] Ian Lurie: Okay, those are bite attacks. I'm just gonna take the average of their normal attack damage, if that's okay, guys. So I don't have to do all these, so that's 16 points total.
+[1:55:25] Fancy Drak: Okay,
+[1:55:26] Ian Lurie: and then all three of them also do their claw attacks with advantage because I forgot again. So let's see. I broached. I got a 19. I rebroached, so I got two hits. So that's on the claw. So that's another 16 points slashing, and then the long sword attacks. 19. What's your AC? 22. They all start swinging wildly at you, and somehow every single one of them misses. I don't know how that happened, but on 10 d 20, I could not once roll above a 15. I got two ones on my second roll. I got two ones, a four, a nine, and a seven.
+[1:56:31] Speaker 1: On Craigen, right? So
+[1:56:32] Ian Lurie: that's on Craig.
+[1:56:34] Fancy Drak: Hell of a show, man.
+[1:56:35] Ian Lurie: And that's it for me. Sango, basically, all of these white abishai now are considering just immolating themselves in the River Styx, immersing themselves that they can forget what just happened. But anyway, Sango, your turn.
+[1:56:52] Speaker 2: Do any of them look more hurt than the others?
+[1:56:56] Ian Lurie: Yeah. See this guy right here looks pretty.
+[1:57:04] Speaker 2: That guy,
+[1:57:05] Ian Lurie: the one that's up in the air.
+[1:57:07] Speaker 2: How far up in the air is he?
+[1:57:08] Ian Lurie: Ah, he's not not high enough for to make a difference.
+[1:57:11] Speaker 2: Okay, the close enough for Thornhit.
+[1:57:14] Ian Lurie: Oh yeah, he's right next to you because there's you and there's him.
+[1:57:19] Speaker 2: Okay, I'll do that. There's a 17 to hit.
+[1:57:29] Ian Lurie: That hits. These guys don't have much of an AC.
+[1:57:36] Speaker 2: That's nine damage.
+[1:57:38] Ian Lurie: Okay. So when you hit him, you see the whip bite into his arm, and and hit him pretty hard. And when you do that, though, he spins and his eyes glow almost red, like he's raging, and he tries to bite at you, and he's at disadvantage, right?
+[1:58:06] Speaker 4: Uh huh.
+[1:58:06] Ian Lurie: Yeah, so he misses.
+[1:58:08] Speaker 2: Okay.
+[1:58:12] Ian Lurie: Oh, actually, it's random. Okay, 123, You. Oh no, so that actually hits you, Kriegan, and I got a 23 to hit.
+[1:58:23] Speaker 2: Yeah, that is
+[1:58:24] Ian Lurie: okay. So you take eight points.
+[1:58:29] Speaker 4: Okay.
+[1:58:33] Speaker 2: Okay, and then Sanga will bonus action pop pop the guy.
+[1:58:42] Ian Lurie: Okay. Little flurry blows.
+[1:58:48] Speaker 2: Yep. Oh shit. That is a 13 and a 14.
+[1:58:59] Ian Lurie: Those both miss. Oh
+[1:59:02] Speaker 2: shit!
+[1:59:03] Ian Lurie: Hey, you didn't just miss with 10 consecutive longsword attacks, so I don't want to hear about any complaining about die rolls for the rest of the night.
+[1:59:12] Speaker 2: I rolled a two and a three. I was like, oh, that's fucking bad, right and wrong. Yep. Okay. All right. All right. All right. All right. Sango's turn or Craig's turn.
+[1:59:26] Ian Lurie: Craigan's turn.
+[1:59:27] Speaker 2: 15 temporary hit points, or probably him more than anybody else. What he is not happy with these people.
+[1:59:53] Ian Lurie: I don't blame him.
+[1:59:55] Speaker 1: Um,
+[1:59:58] Speaker 2: he he is going to use his divine intervention, maybe.
+[2:00:05] Ian Lurie: Okay,
+[2:00:06] Speaker 2: I don't know if it'll. And he is going to pray that that they go swimming.
+[2:00:20] Ian Lurie: Okay, now how does Devon? How does that work?
+[2:00:23] Speaker 2: I got a d1 100 roll, and I got a roll 14 or less.
+[2:00:27] Ian Lurie: Okay.
+[2:00:30] Speaker 2: Nope, 44.
+[2:00:33] Ian Lurie: It's a good idea, though. That would have been awesome.
+[2:00:36] Speaker 2: Uh huh. And then he's going to Misty Step because he didn't use a spell. Okay, to the other side of the wall.
+[2:00:44] Fancy Drak: Poof.
+[2:00:49] Speaker 4: Oh, okay.
+[2:00:58] Speaker 2: Oh, that's that's that's it. Sorry, Sango. Good luck, bud.
+[2:01:06] Ian Lurie: Okay. Back around to Drac.
+[2:01:13] Fancy Drak: Okay. Drac is going to leap into the air and land where Crigan just left. I mean, we're talking doing that fucking hero hose. But before he does that, he's going to cast conjure woodland animals. So he is going to be surrounded with a 10 foot radius of swirling, Flying reptiles
+[2:01:42] Ian Lurie: start doing slashing damage. Got it.
+[2:01:44] Fancy Drak: And they all do force damage.
+[2:01:46] Ian Lurie: Force damage. Sorry. There's only one issue, which is that I believe Sango is in the middle of that. Although Sango can probably he
+[2:01:53] Fancy Drak: is not targeted. Is
+[2:01:55] Ian Lurie: who you target? That's right.
+[2:01:56] Fancy Drak: Yes, only the bad guys.
+[2:01:58] Ian Lurie: All right.
+[2:02:00] Fancy Drak: So is that like an acrobatics roll, or ah,
+[2:02:03] Ian Lurie: yeah, give me an acrobatics roll? All
+[2:02:07] Fancy Drak: right, that's a 22.
+[2:02:08] Ian Lurie: Yeah, that's no problem. You you you do the perfect three point landing, or you can do the the Black Widow pose. Either one.
+[2:02:16] Fancy Drak: Yes, it's definitely Black Widow because, like, oh my God! Rabbid cut store. I love that. So each of them needs a hold on. It is a DC 19 wisdom saving throw.
+[2:02:32] Ian Lurie: Also, not my strong suit. Aha! Three of them save. Two of them fail. Okay. Except for their shitty long sword attacks.
+[2:02:42] Fancy Drak: Ah, this. is this is good. This is fine. And for the one who fails,
+[2:02:49] Ian Lurie: two of them fail.
+[2:02:50] Fancy Drak: Okay, for the two who fail. Okay, one is a 34 points of damage.
+[2:03:00] Ian Lurie: Good God! Do me a favor. Roll a d6, and just drop it. If it's a six, just roll again.
+[2:03:09] Fancy Drak: The two,
+[2:03:10] Ian Lurie: two. Okay. And how much damage?
+[2:03:14] Fancy Drak: Ah, for what? For the next one?
+[2:03:18] Ian Lurie: For the first
+[2:03:20] Fancy Drak: one. Oh, I think 36.
+[2:03:21] Ian Lurie: Yeah, that sounds right. Okay. All right, and then same thing again.
+[2:03:27] Fancy Drak: Okay, for the other one who failed. That was 28 points of damage.
+[2:03:32] Ian Lurie: Okay, and then roll me that d6 again.
+[2:03:37] Fancy Drak: Four.
+[2:03:42] Ian Lurie: Okay. Okay. some of them are looking messed up at this point,
+[2:03:46] Fancy Drak: and the one, the ones who save. Okay, that's 16 points of damage, horse.
+[2:03:52] Ian Lurie: Okay,
+[2:03:55] Fancy Drak: the next one would be 12 points of force damage. All
+[2:04:00] Ian Lurie: right, hold on. Got it. it,
+[2:04:06] Fancy Drak: and that would be 12 points of damage.
+[2:04:09] Ian Lurie: Okay. Okay, so when you hit them, every one of them gets a bite attack against you. It's part of their vicious reprisal reaction.
+[2:04:22] Fancy Drak: AC 25.
+[2:04:23] Ian Lurie: Yeah, none of them hit you. I wow. AC 25. I I got to be stingier with the magic items. What the hell? Anyway, that's okay.
+[2:04:36] Jamie Indigo: That's what you have me for.
+[2:04:38] Ian Lurie: I'm
+[2:04:38] Jamie Indigo: squishy and relatable.
+[2:04:40] Fancy Drak: It's mostly feats, but yes,
+[2:04:41] Ian Lurie: yes, no, you're right. Yes, okay, Mossy, your turn,
+[2:04:48] Speaker 1: real quick.
+[2:04:48] Speaker 5: Oh yeah,
+[2:04:49] Fancy Drak: for Sarah.
+[2:04:51] Ian Lurie: Yep,
+[2:04:51] Fancy Drak: I'm gonna have her go up to Kriegen and like let him know that if he needs a healing potion, she's got one in her bag.
+[2:05:06] Ian Lurie: Sarah runs up next to you, Craigen, and just kind of rubs up against you. And for a minute, you think she's just being affectionate, and then you realize she's rubbing the actual potion bag up against you.
+[2:05:18] Speaker 2: Craigan just rubs around the back and says, "Thanks, Bossasaur.
+[2:05:26] Ian Lurie: Now next turn, if you want to use it, it would take an action because you'll have to reach into the bag, get it, and drink it. Okay, Mossy.
+[2:05:36] Jamie Indigo: How rough is Sango looking?
+[2:05:40] Speaker 2: Not very rough. He's not bloodied. He's not bloodied yet. Those temporary hit points help. All
+[2:06:01] Jamie Indigo: right. I think I'm going to use DM question. Is it possible for me to get over to the other side of the barge, or is that too far away?
+[2:06:12] Ian Lurie: You mean just jump straight? Just go straight across.
+[2:06:16] Jamie Indigo: Yep, on the other side of the wall. But yeah.
+[2:06:20] Ian Lurie: Oh no, because you'd have to jump over the wall. You have to somehow get over the wall, right? So you're gonna have you'd have to go up first. Um, if you want to just go to like, well, you already use feline agility, so no, you you can't cross to the other side of the wall.
+[2:06:40] Jamie Indigo: I don't want to be the same side as them. I just want to see. Could I get over to figure out where the blue guy's hiding?
+[2:06:46] Ian Lurie: You can just run over to here. Yeah. You can't. You'd have to jump then to get from here to here, and you don't have enough movement to do that now. That's the only, the only problem. Yeah, yeah.
+[2:07:01] Speaker 3: So I won't do that.
+[2:07:07] Jamie Indigo: And instead, I'm going to let's Control Z meet back to hiding on the other side there, please.
+[2:07:19] Ian Lurie: Okay.
+[2:07:26] Jamie Indigo: So in theory, I could roll around. It's not that far to sneak over to the other side of where the wall ends, right? The
+[2:07:34] Ian Lurie: wall is 100 feet long, so it actually.
+[2:07:36] Jamie Indigo: Oh, it's 100 feet long. Oh, okay, okay.
+[2:07:40] Ian Lurie: You're you're kind of stuck unless you go up a up a a pillar. There's no good way for you to get across.
+[2:07:48] Speaker 3: Yep.
+[2:07:50] Speaker 12: Okay.
+[2:08:12] Jamie Indigo: Okay, Drac, you have the Icker eras. I do not.
+[2:08:24] Fancy Drak: I think you've got a couple of vials of the icker, right?
+[2:08:30] Speaker 3: Ian, mind me, does that does that work on these guys?
+[2:08:35] Ian Lurie: Uh, you don't see why not. Oh, give me a nature check.
+[2:08:50] Jamie Indigo: Uh, 15.
+[2:08:52] Ian Lurie: Um, you're not sure.
+[2:08:55] Speaker 13: Okay.
+[2:08:57] Ian Lurie: You know that some dragons are immune to poison.
+[2:09:01] Jamie Indigo: Okay.
+[2:09:02] Ian Lurie: And that stuff is a poison. So.
+[2:09:25] Jamie Indigo: Okay. Can I hold an action? All right. So if I see blue dude poke his head out, I'm gonna stay in my little in the hunker down spot. But I have a a magical acid arrow, notched and ready.
+[2:09:45] Ian Lurie: Okay,
+[2:09:45] Jamie Indigo: with a showy little face.
+[2:09:49] Fancy Drak: Cool, cool, cool. All right.
+[2:09:56] Ian Lurie: The the wall of force disappears. You're not sure what that means.
+[2:10:03] Speaker 2: That's not good.
+[2:10:10] Ian Lurie: And the Abishai say, "Well, clearly we can't hit you, Mister Crazy Ranger. Oh, you still have those things, don't you?
+[2:10:23] Fancy Drak: Yes, I do. If they leave, that they take damage.
+[2:10:29] Ian Lurie: Yeah, but you've got a 25 AC, and we're fanatics, so we're just gonna leave.
+[2:10:34] Fancy Drak: All right, they used to get the DC 19 wisdom saving throws. Okay. One
+[2:10:44] Ian Lurie: of them saves. The other four do not.
+[2:10:47] Fancy Drak: Oh, the one who does not save, 10 points of damage. Okay.
+[2:10:52] Speaker 4: The
+[2:10:53] Fancy Drak: ones who do do not save. Okay, 22.
+[2:10:59] Speaker 4: Okay,
+[2:11:00] Fancy Drak: 2228,
+[2:11:09] Ian Lurie: 24. Okay, so they. Sorry.
+[2:11:14] Speaker 2: Go ahead. Nope, no, no, no.
+[2:11:15] Ian Lurie: They all look bloodied, and one of them.
+[2:11:23] Speaker 2: Did they even pass Sango for an opportunity attack?
+[2:11:28] Ian Lurie: No, they're they're trying to get around Sango right now, actually. So one of them's dead. Yes, sorry, I I didn't I didn't do that quite right. There's too many things, so they all would have ended up like that. Okay, and then really
+[2:11:52] Jamie Indigo: love how the light hits all the bones. It's very cool.
+[2:11:56] Ian Lurie: Yeah, it's pretty good at that.
+[2:11:59] Speaker 2: It's like there's embers underneath the bones. Not that I've ever seen that. What that looks like in real life or anything.
+[2:12:06] Ian Lurie: Sango, there's one natural 20, and then 220 threes on the bites.
+[2:12:17] Speaker 2: Craigan, well, silver barbs the natural 20.
+[2:12:22] Ian Lurie: Okay,
+[2:12:23] Speaker 2: they all have disadvantage, right? Okay, you did roll that all.
+[2:12:26] Ian Lurie: They're natural 20. I just, I just have to say.
+[2:12:29] Speaker 2: Okay, but did you roll all of them with disadvantage originally?
+[2:12:33] Ian Lurie: No, because they are all flanking you. Or sorry, I guess they're not all flanking you. Two.
+[2:12:39] Speaker 2: Okay, flanking
+[2:12:39] Ian Lurie: you. Gotcha. So wait, why are they rolling with disadvantage on Sango?
+[2:12:47] Speaker 2: As he has protection, good and evil. Okay,
+[2:12:49] Ian Lurie: I'm just going to do all these rolls again.
+[2:12:51] Speaker 2: Okay.
+[2:12:58] Ian Lurie: Okay, so only two of them hit. You take 16 total. Okay, and then all four of them hit you again, with two of them that are canceled that are not at disadvantage. Two disadvantage miss. One of those hits for another eight points slashing damage with the claws. And then long swords. Can you guys buy a fucking hit? Oh no, a 24. All right, one of them hits.
+[2:13:36] Speaker 14: That hits,
+[2:13:37] Ian Lurie: and the others all miss. Um, what? What? Sorry. What's your AC?
+[2:13:42] Speaker 2: 22.
+[2:13:43] Ian Lurie: Yeah. Okay. So only one of them hits. So you take another seven points of force damage.
+[2:13:51] Speaker 4: Okay.
+[2:13:52] Ian Lurie: Okay. So you're down. One white Abishai is gone. Sango, your turn.
+[2:14:05] Speaker 2: All right, these guys, these guys, these guys. I guess I'm just gonna do some punching. The speed's
+[2:14:17] Fancy Drak: good.
+[2:14:18] Speaker 2: Hitting's
+[2:14:19] Fancy Drak: good.
+[2:14:20] Speaker 2: Hitting's good. Let's try to do some hitting.
+[2:14:24] Jamie Indigo: Hank believes in you. You can do this.
+[2:14:27] Speaker 2: Okay, first one's a 27.
+[2:14:30] Ian Lurie: That hits.
+[2:14:30] Speaker 15: Yeah.
+[2:14:33] Speaker 2: And I'm trying to go for one that's more injured.
+[2:14:36] Ian Lurie: They're all pretty messed up at this point.
+[2:14:38] Speaker 2: Okay. Okay. So that is 10 damage.
+[2:14:44] Ian Lurie: Okay,
+[2:14:49] Speaker 2: and I will spend a key point or that thing where he gets stunned. Stunning strike, nailed it. It's a 19 saving throw constitutional.
+[2:15:07] Ian Lurie: Makes it
+[2:15:09] Speaker 2: okay, and then I will. You know, I'm just going to hit him again. Try to hit him again.
+[2:15:15] Ian Lurie: The
+[2:15:17] Speaker 2: same. That is a yeah 26. All
+[2:15:20] Ian Lurie: right, that that hits
+[2:15:21] Speaker 2: or or 13 damage.
+[2:15:24] Ian Lurie: Okay, so you hit him again. He, you hit him right across the jaw, and you hear this cracking, splitting sound, and he falls to the ground dead. As he does, his jaws fix onto you as if they're as if it's some kind of involuntary death throw or something, and you take
+[2:15:51] Speaker 2: it lashes at me with its jaw
+[2:15:53] Ian Lurie: lashes out with its jaws and does eight points of damage to you.
+[2:15:57] Speaker 2: You know it hit. I know it hit a save? Okay.
+[2:16:02] Ian Lurie: There's
+[2:16:02] Speaker 2: eight points in it.
+[2:16:03] Ian Lurie: It's just it's just vicious reprisal. I rolled a disadvantage. I got a 23 and a 24.
+[2:16:10] Speaker 2: Okay. Okay. All right. So then. Okay, so then because I use the key point, I get another fist attack thingy. That's a 16 to hit.
+[2:16:35] Ian Lurie: That misses.
+[2:16:37] Fancy Drak: Okay.
+[2:16:38] Ian Lurie: Oh wait, no, it doesn't. That hits.
+[2:16:40] Speaker 2: Sweet. That is nine damage.
+[2:16:46] Ian Lurie: Okay. You uh you hit this one right in the chest, and you hear a whole bunch of ribs crack, but it's still up.
+[2:16:55] Speaker 2: Okay. Uh, let's just do a stunning strike on that as well. 19 con.
+[2:17:06] Ian Lurie: Saves got a 20.
+[2:17:08] Speaker 2: Okay. These guys are pretty good.
+[2:17:11] Ian Lurie: Oh yeah, these guys are not. You know, these guys are pretty tough.
+[2:17:18] Speaker 2: Okay. Let's see. Sango's done then.
+[2:17:22] Ian Lurie: Okay, so Craigan.
+[2:17:29] Speaker 2: You know, Craigan's gonna. He's gonna starry whisk one of them.
+[2:17:37] Ian Lurie: Okay,
+[2:17:37] Speaker 2: whichever whichever one looks the what the one that Sango just hit.
+[2:17:41] Ian Lurie: All right,
+[2:17:42] Speaker 2: that's a 26 to hit.
+[2:17:45] Ian Lurie: And what are you hitting them with?
+[2:17:47] Speaker 2: Starry Wisp.
+[2:17:49] Ian Lurie: Okay,
+[2:17:49] Speaker 2: it's a it's a cantrip. All
+[2:17:51] Ian Lurie: right, that hits.
+[2:17:55] Speaker 2: Okay, and that's that's five d8 radiant.
+[2:18:02] Fancy Drak: Ooh, nice!
+[2:18:06] Speaker 2: 24 radiant damage.
+[2:18:08] Ian Lurie: Don't roll a negative one, and you're fine. So that one, right where Sango had kicked it in the ribs, you cast your spell, and this little gout of radiant fire literally comes out of its chest. It lets out a shriek. It also bites at Sango.
+[2:18:32] Speaker 2: Disadvantage
+[2:18:33] Ian Lurie: because I rolled like shit on the other die, and he
+[2:18:37] Fancy Drak: dies. Nice.
+[2:18:43] Speaker 2: Sango, Drac, and Mossy each get 15 temporary hit points if they need it.
+[2:18:49] Fancy Drak: Nice.
+[2:18:54] Speaker 2: I think that's gonna be it for Craigan.
+[2:18:58] Ian Lurie: All right, Drac, it's your turn.
+[2:19:01] Fancy Drak: All right, bonus action: move the hunter's mark from the blue one to the one that's right in front of me,
+[2:19:08] Speaker 1: and hit him.
+[2:19:11] Ian Lurie: So one of these two.
+[2:19:13] Fancy Drak: Yes.
+[2:19:13] Ian Lurie: All right.
+[2:19:15] Fancy Drak: Okay, that'd be a 22 to hit.
+[2:19:16] Ian Lurie: All right, that hits. All right, and then
+[2:19:22] Fancy Drak: 1117 points of damage.
+[2:19:25] Ian Lurie: Okay, so it's winding up to hit Sango and letting out this hissing, angry sound when you put an arrow right in its eye, and it completely misses on its on its vicious reprisal attack.
+[2:19:40] Speaker 1: All right, and then I'm going to hit the other one.
+[2:19:47] Ian Lurie: Okay,
+[2:19:48] Fancy Drak: does not have how much mark two on him? Maybe a 24 to hit
+[2:19:52] Ian Lurie: hits.
+[2:19:54] Fancy Drak: It's a seven plus 616, points of damage.
+[2:20:02] Ian Lurie: So that one is spinning around to look at you after being totally focused on Sango, and you catch it, and an arrow just goes right up through the roof of its mouth, and it also falls over dead. It also does its vicious reprisal and misses with all of it.
+[2:20:20] Fancy Drak: All right.
+[2:20:25] Ian Lurie: Okay, Mossy, your turn.
+[2:20:32] Jamie Indigo: Okay, that is gone now. I want to know where this little fucker is.
+[2:20:41] Speaker 2: Do you have some goggles?
+[2:20:43] Jamie Indigo: Yeah, but that's just true. So,
+[2:20:45] Ian Lurie: well, that lets you see invisible.
+[2:20:47] Speaker 3: Oh yeah, okay, I'll go with that.
+[2:20:49] Ian Lurie: Assuming he's invisible. You put the goggles down, and you don't you don't see anything. Okay,
+[2:21:02] Jamie Indigo: I'm gonna
+[2:21:03] Ian Lurie: check just to make sure you're looking in the right direction and all that kind of stuff.
+[2:21:07] Jamie Indigo: And
+[2:21:10] Ian Lurie: okay, um, yeah, you don't you don't see anything.
+[2:21:14] Fancy Drak: Jackson, go over to the hop over to the the stones over there and like see if it can track them.
+[2:21:20] Ian Lurie: Over to where? I'm sorry.
+[2:21:22] Fancy Drak: Over the the stones. Over to kind of hop off the boat. Yep. And see if he can use his survival skills to track him.
+[2:21:29] Speaker 1: Okay.
+[2:21:30] Ian Lurie: Um. He was flying when he disappeared, so probably not right now. But I'll maybe
+[2:21:39] Speaker 3: he pooped.
+[2:21:40] Ian Lurie: Depending on what he does next, I will definitely let you do that, though.
+[2:21:45] Fancy Drak: Okay. That would be a 24 survival. Okay.
+[2:21:50] Ian Lurie: Okay. You don't see any sign that he's around here anywhere.
+[2:21:58] Fancy Drak: All right. And I gracefully jump back on the boat and like to find him. He's ditched.
+[2:22:05] Ian Lurie: Okay. Just when you say that,
+[2:22:09] Fancy Drak: oh shit!
+[2:22:13] Ian Lurie: You take three lightning bolts.
+[2:22:16] Fancy Drak: Oh what?
+[2:22:19] Ian Lurie: Now he has to hit you, let's not forget that.
+[2:22:22] Speaker 1: Right.
+[2:22:26] Ian Lurie: So a 30, a 26, and a 24. So two, I believe.
+[2:22:33] Fancy Drak: Two hit.
+[2:22:34] Ian Lurie: You take.
+[2:22:42] Fancy Drak: Thanks for that extra 15, Craigan.
+[2:22:55] Ian Lurie: Take 37 from the first one.
+[2:22:58] Fancy Drak: Okay.
+[2:23:02] Ian Lurie: Oh. Oh, okay. You take 58 from the second one. What
+[2:23:09] Jamie Indigo: was that a crit?
+[2:23:10] Ian Lurie: I no, it was not a crit. It's 88 damage, and I rolled six eights on one roll.
+[2:23:18] Speaker 3: Jesus.
+[2:23:19] Ian Lurie: Yeah, that doesn't happen. But I remember five dudes did miss with long sword attacks in a single round.
+[2:23:26] Speaker 1: I mean,
+[2:23:28] Fancy Drak: Drag has a frolic
+[2:23:32] Ian Lurie: toasty at this point.
+[2:23:34] Fancy Drak: Oh yeah, he's he's looking a little lightening.
+[2:23:40] Ian Lurie: Okay.
+[2:23:44] Speaker 2: Can we tell which direction, or did he
+[2:23:48] Ian Lurie: check?
+[2:23:49] Fancy Drak: Is he still fairy faired?
+[2:23:52] Speaker 3: Yeah.
+[2:23:52] Speaker 2: Oh, then he shouldn't be invisible.
+[2:23:54] Ian Lurie: Oh, actually, then you can see him now.
+[2:23:56] Jamie Indigo: Oh shit! Never mind.
+[2:23:58] Ian Lurie: Here, hold on.
+[2:24:00] Speaker 4: Well, he stole a turn.
+[2:24:02] Ian Lurie: So he stopped just when Drax said, "I can't see him. He popped up
+[2:24:13] Speaker 2: here. His sparkly, glittery ass,
+[2:24:16] Ian Lurie: and he is sparkling, glittering right there. And he wouldn't been that stupid though, so we're gonna say he popped up briefly, cast his lightning.
+[2:24:28] Speaker 3: Oh, my held attack!
+[2:24:29] Ian Lurie: No, that was two. That was multiple rounds ago. And then he.
+[2:24:37] Jamie Indigo: Well, he was rude and invisible for mine, despite being very fired.
+[2:24:39] Ian Lurie: Yes. So back back here, and now it is Sango's turn.
+[2:24:50] Speaker 4: Uh huh.
+[2:24:51] Ian Lurie: If he knew he was invisible, I mean, if he knew he was fairy fired, he probably wouldn't have cast invisibility on himself. But I'm gonna just let that one go for now.
+[2:25:02] Speaker 2: Yep, he's outlined in light. Shed the dim light for 10 feet radius.
+[2:25:07] Ian Lurie: Yeah.
+[2:25:10] Speaker 2: Tack rolls against it have advantage, and the affected creature or object can't benefit from being invisible.
+[2:25:19] Ian Lurie: Correct.
+[2:25:21] Speaker 2: Okay. Well, in that case, I think Sango is gonna do one of those things-the bolts, guiding bolts.
+[2:25:34] Ian Lurie: You can't see him right now.
+[2:25:38] Speaker 2: Did he hide?
+[2:25:39] Ian Lurie: Yes. Well, he didn't.
+[2:25:40] Speaker 2: Oh, okay.
+[2:25:41] Ian Lurie: You don't have lines. He went back
+[2:25:42] Speaker 2: down.
+[2:25:42] Ian Lurie: Yeah.
+[2:25:43] Speaker 2: Okay, gotcha. Well, then Sango is going to run over to the cliffs where he saw the guy at. He's got a 55 speed.
+[2:25:56] Ian Lurie: Okay, so actually, you probably can go quite that far. Oh yeah, actually, yeah, no problem. So with the fact he had to go up, he'd probably get to right about there, and you're now looking down at him, and he's looking up at you, and he's like, "Shit, how'd you get there that fast?
+[2:26:17] Speaker 2: Hey bud, let's see, how far down is he?
+[2:26:29] Ian Lurie: He is 15 feet down.
+[2:26:33] Speaker 2: Thorn with him. Stray him a little closer if I can.
+[2:26:37] Ian Lurie: Okay. I'm
+[2:26:41] Speaker 2: going to use the advantage demo that Lassie gave me? The 21 to hit
+[2:26:47] Ian Lurie: at hits, just hits.
+[2:26:49] Speaker 2: Okay, that's 13 piercing.
+[2:26:58] Ian Lurie: Okay,
+[2:27:00] Speaker 2: and he's pulled 10 feet closer to me.
+[2:27:10] Speaker 4: Oops!
+[2:27:14] Ian Lurie: He doesn't want to go closer. So since his wings are still flapping, I'll say you just drag him midair, and he ends up right about there.
+[2:27:29] Speaker 2: Is he within range to do a flared blows?
+[2:27:34] Ian Lurie: No, he's not quite base to base with you.
+[2:27:38] Speaker 2: Okay,
+[2:27:38] Ian Lurie: he's actually like right. Sorry, this thing doesn't. You can see what the problem is, right?
+[2:27:43] Speaker 2: Oh, you know what? I had my Starry Form Archer up, so I'm gonna take a shot with that.
+[2:27:47] Ian Lurie: Okay,
+[2:27:48] Speaker 2: that's a bonus action. That is 12 eight to hit.
+[2:27:53] Fancy Drak: That that hits. Nice hit.
+[2:27:55] Speaker 2: And that is 12 damage gradient. Seg was done.
+[2:28:40] Ian Lurie: Okay, Craigan.
+[2:28:49] Speaker 2: Yep. So Craigan's going to fly up and towards Sango. He's going to try to get the line of sight on that guy. How
+[2:29:01] Ian Lurie: much movement do you have?
+[2:29:03] Speaker 2: 3030, speed flying.
+[2:29:07] Ian Lurie: Okay. So with 30, you could go to like 25 feet up, Which would give you line of sight, although you'd be at minus two. So you probably want to do then is move a little bit to one side.
+[2:29:32] Speaker 2: Okay, perfect.
+[2:29:35] Ian Lurie: You have a pretty clean shot.
+[2:29:37] Speaker 2: Yep, and then he's going to start a wisp and
+[2:29:42] Ian Lurie: okay. what does that do?
+[2:29:44] Speaker 2: That's the oh, it's a ranged attack.
+[2:29:47] Speaker 8: Got it.
+[2:29:49] Speaker 2: Ooh, that's a natural 20.
+[2:29:52] Ian Lurie: Oh boy. Oh yeah.
+[2:29:55] Speaker 2: That is five d8 radiant. Doubled. That is 36 doubled to 72. I rolled really good on that.
+[2:30:16] Speaker 1: Oh wow!
+[2:30:17] Ian Lurie: But okay, he goes from looking sort of beat up to looking like he's on death's door in one shot. That just destroys him. When you cast that spell, basically his head lights on fire. I don't know how else to describe it. Sango, you're actually shocked for a second as you start seeing little spots in front of your eyes from the bright light as it suddenly Flares, and it's around to Drac.
+[2:30:46] Fancy Drak: All right, bonus action: grasping vine.
+[2:31:00] Ian Lurie: You, from where you are, cannot see him.
+[2:31:04] Fancy Drak: Okay, I'm gonna move to a position where I can and see him. Okay, 55 feet. All
+[2:31:10] Ian Lurie: right, I'm just gonna have you move like to right there. I should let you see him.
+[2:31:19] Fancy Drak: All right.
+[2:31:20] Ian Lurie: Let's see. So if you get him from here, you'll be at minus. Oh no, I'd say it's a pretty clean shot.
+[2:31:26] Fancy Drak: All right. So for the for the bonus action, a melee spell attack.
+[2:31:32] Ian Lurie: Okay.
+[2:31:33] Fancy Drak: Which is advantage because of a
+[2:31:35] Ian Lurie: fairy fire.
+[2:31:36] Jamie Indigo: Fairy fire.
+[2:31:38] Fancy Drak: Yep. All right. That would be a 24 to hit.
+[2:31:43] Speaker 1: Hit.
+[2:31:44] Fancy Drak: All right. So the vine grows out of the ground immediately. No save grapples him.
+[2:31:52] Ian Lurie: Okay.
+[2:31:53] Fancy Drak: Smashes him to the ground with 44 d8 damage.
+[2:31:59] Ian Lurie: Okay. Tell me what you roll.
+[2:32:02] Speaker 1: Okay.
+[2:32:04] Fancy Drak: 13 points of damage.
+[2:32:07] Ian Lurie: Okay. He turns to fly away, and this
+[2:32:10] Fancy Drak: clips
+[2:32:10] Ian Lurie: up out of the ground and just basically goes bam,
+[2:32:12] Speaker 5: bam, bam, bam,
+[2:32:13] Ian Lurie: and slams him on the ground a few times, and he looks really bad now. He looks like he's there's blood coming out of various orifices on his body. All right.
+[2:32:22] Fancy Drak: So. that was my bonus action, my regular action, unplugging him twice. Okay. Okay, that would be a 24 to hit.
+[2:32:32] Ian Lurie: Yeah, that we can pretty much call it right there.
+[2:32:35] Fancy Drak: And 29 to hit.
+[2:32:36] Ian Lurie: Yeah. Okay. So he's he's dead. You just stick two arrows into him, and he just keels over dead on the spot.
+[2:32:45] Jamie Indigo: Ooh, save me some scales for Keith. Collecting them all.
+[2:32:50] Fancy Drak: Oh, we should totally just get some raw materials.
+[2:32:54] Ian Lurie: Aren't dragon teeth? These are.
+[2:32:57] Jamie Indigo: I know, but I'm still making a sculpture to give Tima. That's a middle finger made of all of pieces of her. This is
+[2:33:05] Ian Lurie: this is about this is art for art's sake. Got it. Yes,
+[2:33:08] Jamie Indigo: this this goes with crochet, Matt. Mossy's entered her crafty phase.
+[2:33:14] Ian Lurie: Got
+[2:33:15] Fancy Drak: it. Crochet mat, love it. That was tough.
+[2:33:21] Ian Lurie: So, you guys are just sort of winding down from the battle when you see some shapes approaching from the shore. One is this probably nine foot tall devil with these two big like fly type eyes. It's carrying a huge long icy spear, and it walks up to the just right up to the shore and looks down at the boat. And with it, it is flanked by these two devils that look like they they're made of bone, and you've seen these before. They're really sharp, spiky bone devils. And then coming up out of the river Styx are these four more devils, and you've never seen these type before? They have really long fingers with extra knuckles in each finger. They have these long, stretched out faces, like the skin is pulled tight across their face. And when they come up,
+[2:34:37] Jamie Indigo: Beetlejuice.
+[2:34:38] Ian Lurie: I'm sorry.
+[2:34:39] Jamie Indigo: Picturing Beetlejuice.
+[2:34:40] Ian Lurie: Yeah. Well, and when they come up out of the water, they do this creep, the creepy horror movie kid thing, where they flip over backwards and put their hands like they're crab walking and look at you, and then go up onto the boat, but then they stop. What do you guys want to do?
+[2:34:57] Fancy Drak: We pull out the the symbol of
+[2:35:02] Speaker 2: bad. is
+[2:35:03] Fancy Drak: a real.
+[2:35:05] Ian Lurie: So you all hear a voice in your heads, and you know instinctively it's coming from the ice devil. It says that badge no longer works here, but my lord Bell would speak with you. He holds no love for your enemies, and he has a proposition. Come with me. It is but a short distance.
+[2:35:33] Speaker 2: Do we know who Bell is?
+[2:35:36] Ian Lurie: Give me an arcana or a history check.
+[2:35:40] Speaker 3: Can I incite this dude?
+[2:35:42] Ian Lurie: Of course.
+[2:35:46] Speaker 3: Ooh, I'm so fucking insightful. That's 26 insights. Let me
+[2:35:51] Ian Lurie: do a
+[2:35:54] Speaker 2: 17 hit.
+[2:35:55] Ian Lurie: But he's not that deceptive. But as far as you can tell, he's telling the truth.
+[2:36:00] Speaker 2: 17 history,
+[2:36:02] Ian Lurie: okay. Bell used to be the Archduke of Avernus, and lost his job to Zariel and Tiamat.
+[2:36:16] Jamie Indigo: Yes, so I would have all of this written down from the library research.
+[2:36:22] Ian Lurie: Yes, Belle hates. I mean, hates Tiamat and Zariel. As far as you know, they are they are direct enemies because Bell lost the Archduktum.
+[2:36:40] Jamie Indigo: Cool. Plus, he's gonna be like I trust the cousin Jim and him pocket bacon. I'm
+[2:36:45] Fancy Drak: I'm I'm looking at Lassie. I'm looking at like Sango. I'm like, out of my league, y'all.
+[2:36:54] Speaker 3: No, no, I feel good about this
+[2:36:56] Speaker 4: one.
+[2:36:56] Speaker 2: Okay, okay. Hey, hey, hey, Vogela. what do you make of this preposition? You kind of know these these ways.
+[2:37:10] Ian Lurie: I know very little of the ways of dukes and archdukes. I know that Belle has no love for Zariel or Tiamat.
+[2:37:22] Jamie Indigo: Hey, before we go, if we go with you and we decide it's not for us, can we come back to worship? Like easy peasy, or you gonna try?
+[2:37:30] Ian Lurie: That is up to my lord. I cannot speak for him.
+[2:37:33] Jamie Indigo: Okay, fair enough.
+[2:37:35] Ian Lurie: That duke, I cannot speak for him.
+[2:37:40] Speaker 2: So he's still a duke, not an archduke.
+[2:37:43] Ian Lurie: Well, yeah, he's no longer an arch. Ian's telling you he's no longer an archduke.
+[2:37:47] Jamie Indigo: He got demoted when they staged their coup. So I think he really does not like
+[2:37:53] Ian Lurie: it. Was
+[2:37:54] Jamie Indigo: our enemies
+[2:37:55] Ian Lurie: wasn't a coup? Asmodeus just said, "You are no longer the archduke. Zariel is now the Archduke. You're fucked. So it was particularly unpleasant for Bell. Yeah,
+[2:38:14] Speaker 2: Volat. You going to be here when we get back?
+[2:38:18] Ian Lurie: I can wait here for a short time, but we'll have to return after perhaps half a day.
+[2:38:28] Speaker 2: Okay, I guess we'll try to make a quick sense.
+[2:38:32] Speaker 1: Yeah,
+[2:38:33] Ian Lurie: he not.
+[2:38:38] Speaker 2: You can keep their their swords. They're they they're mostly unused.
+[2:38:45] Ian Lurie: I find that if one picks up a sword, one has to wield it, and I am not a fighter.
+[2:38:53] Speaker 2: Maybe you could sell them for scrap or something. I mean, they're they're literally like new.
+[2:38:58] Ian Lurie: You notice, by the way, that during the combat, he basically wrapped his cloak around himself and got as small as possible. It was weird. I mean, he he he really shrank down noticeably, like he was almost enveloped in all these wrinkles and and layers of robes. Some kind of defensive thing, you think, the ice devil says, "I am antipathy. Follow me, and I will take you to Bell's Forge.
+[2:39:36] Speaker 2: Antipathy.
+[2:39:37] Speaker 1: Yeah, very well.
+[2:39:43] Speaker 3: First name Anne, last name Timothy.
+[2:39:45] Ian Lurie: Yeah, no, actually, middle name T and last name Pathy. Yeah.
+[2:39:50] Jamie Indigo: See, I thought it was Anne Marie Timothy. My bad. I
+[2:39:53] Fancy Drak: used to have an aunt Tipathy.
+[2:39:56] Ian Lurie: See, I should just not bother with any names at all.
+[2:40:00] Fancy Drak: No, but you should because it brings joy. There's just brings
+[2:40:03] Speaker 3: joy.
+[2:40:04] Ian Lurie: Yeah. Anyway, you guys follow them. They lead you away from the shore across the those kind of low hills that you saw in the distance towards, and it takes you it takes you you know several hours to get there, but you trek across this just searing landscape, you know just steam vents everywhere, pools of magma, pools of ichor, until finally you start to approach this volcano, and you come all the way up to the volcano, and there's two massive iron gates in front of it. And antipathy bangs its ice spear on the ground twice, and the gates slowly groan and creak their way open. You move inside with antipathy. The other demons, the other devils leave. They go off on patrol or something. You're not sure what, and he leads you inside. Inside, it's at least 120 degrees. It is so hot in here that you know if you spend any measurable amount of time, you will be making rolls against exhaustion. It is it is much too hot. You pass through one large chamber that's where just there's those rippling waves of heat coming up from radiating up from the floor, even though there's no sign of any heat sources. You go down this long iron staircase, and as you're going down, you you look at the walls, and you notice, you know, as you move closer and closer to the walls, first you see that they just look like there's some kind of molten rock that has frozen, you know, that has that has cooled. Then, as you get closer to them, you notice that there's some vaguely humanoid forms in that rock, and then as you walk by a couple of them, you see hands actually reaching out of the rock at you, not moving, just frozen like that, as if someone had the stone poured right over them. You head down the stairs until you get to what is a furnace. It's even hotter in here. There's there are pools of lava all around you, and at each pool of lava, there's a fire giant who wears a chain around one ankle, a massive chain around one ankle that then attaches to a large bolt set in the floor, and they're working over these forges, and they're just making weapons, weapon after weapon. Most of these weapons are for large or larger creatures, and you know that this is the place where Hell's weapons are made. Bell's Forge is the place where Hell's weapons are made, and these fire giants are just laboring unceasingly at producing all of these weapons and armor and everything else, and across the room, as you move through the the first, as you get to the bottom of the stairs, and the ceiling kind of comes up above your vision. You see at the other end of the room, sitting on a throne, is this creature, probably 14 to 15 feet tall, long, razor sharp claws on each hand with two arms and two feet, a long tail that's lazily curled around the base of the throne, this bestial face covered with red scales and huge, distorted, like overemphasized muscles on on its arms and its legs, it's wearing this gleaming breastplate. Actually, yeah, gleaming breastplate of what has to be solid mithril, and has an enormous sword right next to it. Next to it, and this you know instinctively is Bell, Duke of Avernus.
+[2:44:09] Jamie Indigo: Didn't we previously get some lore about him as a weapon maker?
+[2:44:15] Ian Lurie: I don't think so.
+[2:44:18] Speaker 3: Okay, I
+[2:44:19] Ian Lurie: don't think so. You did get the lore that you know, but that I just told you. But, and he sits there, and he's got his huge sword in one hand on the on the arm of the throne, and you hear this voice in your head say, "So this is the notorious RBG. Missing one of your number, I see.
+[2:44:45] Speaker 2: Yeah, that happens. That happens with us from time to time.
+[2:44:47] Ian Lurie: And how do you come to be in this place in Avernus? Tell me, why are you here?
+[2:44:55] Jamie Indigo: Ah, well, this asshole branded us. us and then turned our friends against us.
+[2:45:06] Speaker 4: But before that, the
+[2:45:07] Jamie Indigo: people we care about.
+[2:45:09] Fancy Drak: But before that, so Tiamat tried to get into our world, and we and so
+[2:45:22] Ian Lurie: as she does, yes,
+[2:45:24] Fancy Drak: right. And we stopped her. We defeated her aspect and drove her back into this, what I assume is this area. And so apparently, she's kind of a petty Petty goddess, and so then she marked us and started messing with our friends and our families, and generally making threats and sending people to murder us and the people that we we generally enjoy. And we're like, you know what? We need to have a chat with her and make her stop.
+[2:46:09] Ian Lurie: Belle
+[2:46:09] Jamie Indigo: doesn't seem like a lot of her own friends like her either.
+[2:46:12] Speaker 1: No,
+[2:46:13] Ian Lurie: when you say make her stop, Belle leans back and you hear this sound well up from their their gut, just this kind of, and he says, "You know very little of the Queen of Dragons if you think you're going to make her do anything, but I'm here
+[2:46:33] Speaker 4: if
+[2:46:35] Ian Lurie: you want it.
+[2:46:40] Speaker 2: What kind of help? Kind of help can you offer?
+[2:46:43] Jamie Indigo: And what kind of cost?
+[2:46:45] Fancy Drak: I'm familiar with strange bedfellows.
+[2:46:47] Ian Lurie: I'll start with information, and this is free. But your friend's sacrifice-it broke the curse upon you. But Zariel had plans for the 10,000 souls of Silgrim, and she is enraged, and she told Tiamat she would bear her screaming her scheming no longer. She has ordered the dragon queen to kill you immediately. That attack you faced, that was the first of many, and probably just a probing attack. She will send all her forces against you now.
+[2:47:23] Jamie Indigo: Right, so who is telling Tiamat what to do now? Because that doesn't sound like the Tiamat I know.
+[2:47:28] Ian Lurie: Ariel is the Zariel is the Archduchess of Avernus, and everyone here must listen to her, including Tiamat. Tiamat will come for you. She is coming for you now with any all resources she has. You will not survive to her mountain,
+[2:47:52] Speaker 4: huh?
+[2:47:53] Speaker 16: Yeah,
+[2:47:55] Speaker 3: yeah, that seems to be on brand.
+[2:47:56] Fancy Drak: Yeah, it's kind of what we expected, but it'll give us pleasure to watch her bleed.
+[2:48:04] Ian Lurie: You will not reach her without help. Imagine hundreds of the creatures you just fought flowing over you like a wave. That or those are the forces she can bring to bear if given enough time. You have two
+[2:48:22] Speaker 4: things on your
+[2:48:22] Ian Lurie: side right now:
+[2:48:25] Jamie Indigo: charming personality and
+[2:48:28] Speaker 2: ignorance and arrogance.
+[2:48:32] Ian Lurie: Her arrogance, also her, and the fact that she doesn't know you're here with me right now.
+[2:48:40] Speaker 2: Yeah, that's good too.
+[2:48:43] Jamie Indigo: I can work with that. What's your beef with her?
+[2:48:48] Ian Lurie: What'd you say?
+[2:48:49] Jamie Indigo: What's your beef?
+[2:48:52] Ian Lurie: I want my my throne back. It was taken from me. She is the with her gone. I can strive against Zerial for the rule at this place, but Tiamat is allied with Zariel, and as long as she is on the board, I can do nothing. He motions. He says, "My greatest works can help me if Tiamat is gone. And he points, and you realize that hanging above the central magma pool is this hideous machine. You don't know what it does, but it looks truly awful, and you're not sure exactly what it is. You can give me an Arcana check if you want.
+[2:49:31] Jamie Indigo: Yes, I do. Okay. Ooh, I have so many Arcana. It's 34 Arcanas.
+[2:49:39] Ian Lurie: This is an incredibly potent version of a Hellfire engine, and you don't totally-you've never seen a Hellfire engine in use, but you know what they are. They're machines that are used on the fields of Avernus, but also they're used to project force directly onto the prime material plane. They are machines built by devils and used just to wreak absolute havoc among mortals, and this one looks to be five or six times the size of the ones that you've heard about.
+[2:50:13] Jamie Indigo: Oh, oh, oh! Maziel already lying that.
+[2:50:24] Fancy Drak: So we hear that you want to help. What what do you expect from us?
+[2:50:35] Ian Lurie: Do what you are here to do: imprison her, kill her, do whatever it is that you think you are able to do. Just understand, she is orders of magnitude more powerful than anyone you have ever fought, and I would advise you to spend some time learning, which is something that I can help you with. Then I can provide you with a guide, and I can help you get to Archon's Tower. Archon's Tower is has its own entryway into Tiamat's monument. Arkin's
+[2:51:09] Jamie Indigo: Tower is on our current map, and we have quite a bit of research done on it. Yeah, Mazie Milla. Yeah, I'd love to learn.
+[2:51:26] Ian Lurie: This imp bitterness. You can just call me bitter. It says, will lead you on your safest path while telling you, teaching you about Tiamat, and explaining what it is that Tiamat can do, it is not a safe road, but it is safer than floating down the River Styx, where Tiamat expects you, and Tiamat will spend all of her resources and bend her will towards stopping you.
+[2:51:52] Speaker 3: But is
+[2:51:53] Ian Lurie: a big place, and all devils don't work together. If you are walking across the surface of Avernus with a good guide, you have a chance of reaching Archon's tower, and once you're in there, you are dealing with complexities that will prevent her from bringing all of her forces to bear.
+[2:52:16] Jamie Indigo: I like this.
+[2:52:23] Fancy Drak: So there are many. There are many ways
+[2:52:29] Ian Lurie: to to
+[2:52:30] Fancy Drak: deal with her. There are. We know that there are chains and bindings that she is subjected to. That she has attempted to break before, we have no idea what it takes to actually kill a god or the power vacuum that would exist. I don't. If that were to happen,
+[2:52:55] Ian Lurie: I don't recommend killing her. Well, actually, that's not what he says. He says you could not kill her. Even if you do, she immediately would return to life at least once. Destroy her once, and she returns fully. She had like a
+[2:53:19] Jamie Indigo: cockroach skill.
+[2:53:20] Ian Lurie: Basically, it's a cockroach skill. Yes, but the first time she dies, basically she comes back with everything and attacks again. He says, "You cannot defeat her. You can. You might be able to. You might be able to strengthen her prison.
+[2:53:48] Speaker 3: Love this idea. I've been yes
+[2:53:51] Jamie Indigo: working on a section of my schemes and plans notebook,
+[2:54:01] Ian Lurie: but
+[2:54:01] Speaker 2: her chains have been weakening, I believe.
+[2:54:04] Ian Lurie: Chains of milliner have weakened. Someone must strengthen them. There are not many ways to do that, but that I leave to you.
+[2:54:17] Fancy Drak: Okay.
+[2:54:18] Speaker 2: Do you know of any ways to strengthen them, or who we might be able to talk to.
+[2:54:30] Ian Lurie: Sorry, give me one second. I'm looking up my own lore here.
+[2:54:49] Jamie Indigo: When is Sango going to be able to transform into a short spined raccoon? I need this imminently, sir. Um,
+[2:55:01] Ian Lurie: sorry, guys. Chains of glain error. I have a great quote somewhere. I'm sorry, guys. I am just. I am really not myself. But goddamn it, I'm gonna find
+[2:55:45] Speaker 3: it. We believe it.
+[2:55:49] Ian Lurie: There we go. How do I open you? There we go. You have actually heard this, and when he intones it in your minds, you remember it. To strengthen the chains of glaner, braid the roots of mountains, the breath of fish, the sound of a cat's footfall, the kiss of the unloved, or ask the gods themselves.
+[2:56:26] Speaker 2: That's right.
+[2:56:28] Jamie Indigo: You guys are tight with some gods.
+[2:56:32] Speaker 1: Hi, Ish.
+[2:56:37] Jamie Indigo: Oh, I'm sorry. Is your is your brothel cult singdom not up and running right now. We
+[2:56:44] Fancy Drak: are totally on speaking terms, which is not more than I can say for many deities.
+[2:56:49] Ian Lurie: I'll let you so between games. I'll let you guys think about this. When I say ask the gods themselves, you have to assume this is more than a prayer. Like this is some very potent magic, you know, something that actually changes the way that the the multiverse is functioning around you, and and you can think about that. The other thing that Bell tells you, because you when you talk to each other over the party line, he says, "Oh, also all the dukes and archdukes can hear you when you speak to each other this way.
+[2:57:29] Jamie Indigo: I mean, mostly we've been shit talking them, so I kind of feel okay with that. But if you have another option,
+[2:57:36] Ian Lurie: just speak.
+[2:57:38] Jamie Indigo: They can hear that too.
+[2:57:40] Ian Lurie: Only if they are close enough to hear you. But when you speak telepathically, every duke and archduke on Avernus immediately hears it as if you are standing next to them.
+[2:57:50] Jamie Indigo: Well, shit! I'm gonna cast message to Drag. Can you hear me saying this?
+[2:58:00] Ian Lurie: Yes, I can. I can hear you. He says, "Stop embarrassing yourself,
+[2:58:11] Jamie Indigo: sir. We just met. You'll come to find that's actually the most charming part of my personality.
+[2:58:18] Ian Lurie: Someone told me you are Tabaxi. He,
+[2:58:20] Fancy Drak: we are we are professionals at that.
+[2:58:22] Ian Lurie: He he has a goblet in his hand and he holds it out, and another one of those creepy spiny devils comes skittering up and pours something that looks like magma into it, and he takes a deep drink, and then his tongue comes out and kind of licks around these long pointy teeth, and he says, "Do we have a deal? All I ask of you is that you carry out your stated intentions here. Bitterness will lead you. Bitter, just call me bitter. Bitterness will lead you and guide you to the entrance. And when you strike, my forces will be ready to to. When you strike, Tiamat will attempt to bring her forces to bear, and I will bring mine to bear to prevent her from stopping you using her Abishai, you will be facing her
+[2:59:27] Jamie Indigo: like the cut of your jig and your crazy mouth. Yeah,
+[2:59:33] Fancy Drak: this sounds acceptable to me.
+[2:59:40] Speaker 1: Are you in agreement,
+[2:59:43] Jamie Indigo: Craigen? Buddy,
+[2:59:48] Fancy Drak: Sango.
+[2:59:52] Speaker 2: Craigan says over the party line. I think we ought to just go home. But you see it nodding.
+[3:00:06] Fancy Drak: Wish we could. We kind of started some shit.
+[3:00:11] Jamie Indigo: No, he's using the party line for disinformation. Bubby, come on! You're so pretty.
+[3:00:21] Ian Lurie: Um. Bell will share with you, and bitterness shares with you some of the intel about Tiamat, which I'll give you next session as lore. Or actually, I will post it to Discord. What they know of Tiamat, and then the next step of this will be your your overland journey to Tiamat. We're
+[3:00:53] Speaker 3: off the boat.
+[3:00:54] Ian Lurie: You're off the boat. You also all gain a level.
+[3:00:59] Speaker 17: Oh.
+[3:01:03] Fancy Drak: Holy crap!
+[3:01:05] Ian Lurie: That Abishai ambush was no joke.
+[3:01:08] Jamie Indigo: Yeah, that was. Yeah, I really thought Kraken was going to get turtles stewed.
+[3:01:15] Speaker 2: Those temporary hit points, man, they're a buffer.
+[3:01:17] Ian Lurie: Yeah, and the thing about Abishai is they're very easy to hit, and they're nowhere close to as powerful as all the other Abishai. They're kind of they're they're the cannon fodder. So once you started doing damage to them, they went down pretty quick, and they couldn't hit you guys. The blue Abishai is something else entirely, obviously.
+[3:01:37] Fancy Drak: Right,
+[3:01:38] Speaker 4: that guy. Yeah, but he got
+[3:01:39] Jamie Indigo: webbed immediately.
+[3:01:41] Ian Lurie: Yeah,
+[3:01:42] Speaker 2: that helped.
+[3:01:44] Speaker 1: Yeah, holy crap!
+[3:01:46] Speaker 2: Oh yeah.
+[3:01:48] Jamie Indigo: Only there been like a pole in between them, so they could have would have been perfect.
+[3:01:55] Ian Lurie: Like all, yeah, like just on one pole. Yeah, I like it. I like it.
+[3:02:01] Fancy Drak: Okay.
+[3:02:02] Jamie Indigo: Follow me for more creative web tricks. Spooky season is upon us.
+[3:02:06] Fancy Drak: That's right. All right. Track level one bard. Here we go.
+[3:02:14] Speaker 2: Really good at trick. Of all the
+[3:02:15] Jamie Indigo: things to take,
+[3:02:18] Ian Lurie: that would be
+[3:02:19] Fancy Drak: that would be hilarious.
+[3:02:22] Jamie Indigo: Midlife crisis. Drac has entered the room.
+[3:02:25] Fancy Drak: Do you want to come
+[3:02:26] Jamie Indigo: to my improv show?
+[3:02:30] Fancy Drak: Oh my god! Oh my god!
+[3:02:33] Jamie Indigo: No, Drac would absolutely take a boy last skip. He would be incredible at it.
+[3:02:41] Fancy Drak: What was um uh what was it um oh shit there's a there's a drag show there's a local drag show it's um oh shit it's a I'm losing it it's a what are those what are those places where like campers all like people like the single wides and the trailers
+[3:03:11] Speaker 2: RV park
+[3:03:13] Fancy Drak: trailer park drag show
+[3:03:15] Jamie Indigo: okay it is it
+[3:03:16] Fancy Drak: is a local drag show is southern as fuck and I love it so much. Awesome.
+[3:03:22] Jamie Indigo: Honestly, I would go watch that. Yeah.
+[3:03:25] Fancy Drak: Oh yeah, it's it's a lot of fun.
+[3:03:28] Jamie Indigo: I stumbled across a hidden Britney drag show in Park City, Utah, once. So I fully believe in my ability. Utah. In Park City, Utah, I found a dark-looking building on the Strip. It was like kind of scoping out, and this guy came. I was like, "You want to come in? I was like, "Yeah, I do, because I saw a little. It looked like a jackalope, but it was a moose antlers and a porcupine.
+[3:03:53] Speaker 2: Okay.
+[3:03:55] Jamie Indigo: Yes, there is absolutely a hidden gay bar in Park City.
+[3:04:00] Speaker 4: That's nice. There is nothing
+[3:04:01] Jamie Indigo: marking from the outside. You would not be able to tell.
+[3:04:06] Speaker 1: Okay,
+[3:04:06] Ian Lurie: all right, guys.
+[3:04:08] Fancy Drak: Y'all, ooh, level five spells.
+[3:04:11] Ian Lurie: Yes, you got level five spells. Yeah,
+[3:04:15] Fancy Drak: I gotta go through and redo my my spells. Steel win strike.
+[3:04:21] Ian Lurie: That's a good one.
+[3:04:22] Jamie Indigo: That is a crazy one. That's just a sound when Drac farts.
+[3:04:30] Speaker 2: All right, y'all. All
+[3:04:30] Ian Lurie: right.
+[3:04:30] Fancy Drak: Always a pleasure. Take care.
+[3:04:32] Ian Lurie: All right. Thanks. Bye.
+[3:04:34] Speaker 11: Good night, everybody.

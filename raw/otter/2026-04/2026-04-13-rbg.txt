@@ -1,0 +1,955 @@
+# Time to rob a necromancer
+# Otter recording 2026/04/13 17:00:03 (3h 2m) id BdHCV9uYRi6PexyW5yX_ojBWfmc
+# https://otter.ai/u/BdHCV9uYRi6PexyW5yX_ojBWfmc
+# Speaker-attributed transcript, verbatim. Raw source for the card at /items/otter/2026-04/2026-04-13-rbg.md
+
+[0:00:00] Ian Lurie: Otter even signed in. All
+[0:00:08] Sango / Cregyn: right, I got to finish setting up. I'll be on mute for a little bit sure I'm
+[0:01:35] Ian Lurie: Ian Hey, Ian, to know C.
+[0:01:48] JP Sherman: I know. How are you D and D, but otherwise I'm good.
+[0:01:54] Rikterr: I don't even think a TBI would stop you from being able to do that, my
+[0:01:57] Ian Lurie: friend, that's probably true.
+[0:02:01] Rikterr: You will forget your name, your phone number, faces and friends, but assume someone puts those sweet, sweet murder dies in front of your hand. Roll initiative bitches.
+[0:02:10] Ian Lurie: It's all it's all muscle memory at this point.
+[0:02:14] Rikterr: You know, just like they say, like people have Alzheimer's, but if there's something that they did, like you put a musical instrument in their hand and all of a sudden they can play the same and it's just like, it's, there's just some things that are just so deep in there that nothing could drill them out, minus maybe death.
+[0:02:33] Ian Lurie: Yeah, yeah. So how are you doing? When do you start school? August. Cool. That's really exciting.
+[0:02:45] Rikterr: That's awesome. Yeah, I just, it's, I can't keep blaming AI for not getting a marketing job and sitting here waiting. And it's just, it's just time for me to move on to the next thing. Plus, I just, I don't like how it seemed that marketing has circled back around to just aura farming, where it's like people are so busy pumping themselves and what they're doing up that they forget that there's a community and there's other people doing this stuff. And there's more than just, here's my new Geo, AEO thing. I am so just like, I'm tired of me, I am
+[0:03:30] Ian Lurie: not kidding you when I say I have questioned my career more. And partly it's because I'm obviously, you know, getting to a certain age. But part of it also is just, I don't know if I can go through another whole cycle of people throwing bullshit acronyms around. I really thought I could. I saw it as a fun challenge for a little while, but I'm like, Jesus fucking Christ people, no one became an aeogeo expert in a two month period. Okay, there's they can say they're experts, because there's no fucking such thing. But anyway, that's part of what my talk is going to be at SEO week. So we'll see. We'll see how that goes. Jamie just said she's covered in dirt. So did. JP, wait a minute.
+[0:04:29] Unknown Speaker(s): Oh, there's. JP, how? Hey, hey, everyone good.
+[0:04:46] Ian Lurie: So, yeah, you too. What was it like watching the launch dude?
+[0:04:51] JP Sherman: It was so cool, like, so when the twins were like, Baby babies, we went and saw the shuttle 131 and it was just like, it's like, the impact from the chest and the noise, it's just like, oh, it's like, it's kind of how I felt like, well, like God would feel like, but not really and then, but it's amazing. We had, uh, we saw some of the pictures of people in airplanes taking recordings of
+[0:05:29] Ian Lurie: the launch. Oh, my God, the people who just happened to be flying by those light bastards,
+[0:05:34] JP Sherman: I know, so when Grayson gets his pilot's license, I want to rent a Cessna or something like that, and schedule like a something like that. But for the next launch, yeah, what could go wrong? What a way to go.
+[0:06:00] Ian Lurie: So we're just talking about AEO Geo, and I don't know how long we how long I think I'm going to stay in this career. And Jamar is like, Yeah, I'm out. I'm moving on, I'm going to school.
+[0:06:18] JP Sherman: Feels like a good life choice.
+[0:06:20] Ian Lurie: Yeah, I love the AI shit, but I just, I don't know if I can handle much more of the bullshit
+[0:06:28] Rikterr: well, and also the fact that it was always hard having clients who would know about marketing blogs and read it, and it would bring something to you, and have a half assed idea, and you'd have to explain. But if you were, you know, you had a good mouth game, you could talk them down. Now, there's no telling people, because, well, chat, JP, T or Claude told me this, and it's just like, I can't fight the intelligence of the masses, even though it's not an actual mass intelligence, it's filtering all the bullshit to people who want to be fed the bullshit
+[0:07:04] Ian Lurie: the twice in the last two weeks, I've had clients come to me and say, Well, I asked Claude about this SEO thing, and I was like, do me a favor. Go to Claude and say, Are you an S? Should I go to you for SEO advice and see what it says? Because it says, Fuck no, there's a reason it does. Yeah, it's okay. It's all right. It's okay. No matter what happens, I'm at the talent in my career. No one's gonna sue me for anything. It's like,
+[0:07:40] Unknown Speaker(s): yeah,
+[0:07:49] Ian Lurie: I've looked at actually going back to school to get some kind of degree in AI implementation, but they're all such bullshit degrees at this point. They're all like, you know, AI leadership in the executive suite and things like that. There's no real or you learn to be like an AI scientist, which I could never do. So, yeah, I don't hate myself enough to go through that.
+[0:08:19] JP Sherman: Yeah, I'm digging myself deeper into the search engineering part of it.
+[0:08:26] Ian Lurie: You're working on some really cool stuff, internal, internal search, like in house search, is just so interesting
+[0:08:39] JP Sherman: to me. I totally lucked into it, and I would, I love it. All
+[0:08:58] Speaker 1: right, man, look at that. You're not covering dirt, hello.
+[0:09:03] Jamie Indigo: I mean, I just use the hose to get it. That's fair.
+[0:09:15] JP Sherman: It's dark here. Otherwise I have, I have a brand new garden filled with basil, jalapenos, chives, green onions, tomatoes
+[0:09:27] Unknown Speaker(s): and cucumbers, beautiful, nice.
+[0:09:31] Jamie Indigo: Yeah, no, my veg bed is just full of literal buckets of compost and blocks of mulch. So we'll get something in there eventually. I have a, yeah,
+[0:09:41] Ian Lurie: I have a bumper crop of buckwheat and sweet peas because that was my cover crop. And I don't even know if I'm gonna have time to pull it out this year, so I'm just gonna let it grow, and it looks really nice. There you go. Plus, our gardener needed a place to put something that was in a pot. So she just stuck this one huge spiky plant thing in one of my planters and one of my vegetable planters. So there's this huge, weird spiky thing. I came out one day and I was like, I did not plant that there. When did what that was the fastest, fastest volunteer I've ever seen.
+[0:10:21] Jamie Indigo: Oh, I mean that half of them like, is that a weed? Did I plant that exactly?
+[0:10:27] Ian Lurie: Because it's already three feet tall, so if it's a weed, I'm really concerned. All right? James said he's here. He's just listening. That's fair. So I have not gotten any hate for my comment about the person who said that naming a crater on the moon after an astronaut's dead wife is colonizer behavior, which I just I struggle with that that's when I struggled with a little bit. So I was, like,
+[0:11:03] Sango / Cregyn: too white to get into any colonizer conversation with.
+[0:11:06] Ian Lurie: You know, I couldn't help myself. I couldn't help myself. So I just, I just
+[0:11:10] Sango / Cregyn: asked, you're you're not as white as I am, so you get a little bit of a pass, I guess.
+[0:11:14] Ian Lurie: Oh, am I slightly less white because I'm Jewish? Is that some kind of weird thing? Because, I mean, we're, like, the original white people, but
+[0:11:21] Sango / Cregyn: I didn't say that you did,
+[0:11:22] Ian Lurie: yeah, but I just felt like I had to say. I was like, so we should have consulted the indigenous lunar peoples, because otherwise, I'm not sure where you're going with this. Sailors on
+[0:11:33] Unknown Speaker(s): the moon carry a harpoon.
+[0:11:35] Ian Lurie: But anyway, I just, I'm sure that's going to come back to haunt me at some point, but,
+[0:11:44] Jamie Indigo: wow, we're cringing about stuff I've done years ago that's not even actually, that's just how our brains work. Well, the other
+[0:11:50] Ian Lurie: thing I says there's so many things to be angry about right now. Could, could we maybe focus on those?
+[0:11:58] Jamie Indigo: Dare you make a black man cry? You bastards? Well, it
+[0:12:00] Ian Lurie: was also the cutest that was like the sweetest, nicest, cutest gesture I've ever seen happen, certainly in space that crew will forever live on in my mind. Because of that, also is
+[0:12:15] Rikterr: this person upset because there are, there's a star registry where you can get a star that is a name named after you. And I'm just like, like, Wait, like, Where does, where does the outrage end?
+[0:12:27] Ian Lurie: I bought, I bought a piece of real estate on the moon, not, not 10 years ago. So, you know, I
+[0:12:35] Rikterr: plan to call it as a behavior, right, right?
+[0:12:39] Ian Lurie: And it was only, like, 10 bucks. So someday, when they built the moon, the moon base there, I'm gonna come back and I'm saying, you know,
+[0:12:46] Jamie Indigo: that's the person who sold it to you. Has a couple of bridges too. Yeah, yeah.
+[0:12:53] JP Sherman: I'm a Scottish Lord.
+[0:12:55] Ian Lurie: It was one of the funny it was one of the funniest gifts I've ever gotten. My wife. Think it, yeah, it was a nice view of the Sea of Tranquility, if I remember, right. But it's beachfront, you know. So I feel like I should rewind, literally, some of
+[0:13:13] Sango / Cregyn: the most Ian shit I've ever
+[0:13:15] Ian Lurie: heard it right, right? I feel like we have to go way back here. So you guys ended up getting on the bad side of an ancient red dragon who, after a few few separate encounters, yeah, took, first of all, carried your ranger away and then destroyed the villains discontent, or at least so badly damaged it that it is stuck on the ground being repaired, potentially killed the captain. But the captain, as it turned out, has survived. But then offered you a gift, a trade. And you don't know what he traded for just yet, but he offered you a trade and granted you either resistance or immunity to fire, you're not sure, which, in exchange for something. And then after doing that, carried you to the outskirts of the town of silgoron, which is this strange town where devils and elves live together. So the elves were the original colonizers of a cedria of this continent. Actually, they were kind of there first. So I guess they're not really colonizers. They were the reverse Uno. Sorry, reverse uno, yeah, right. They lived on. They were the original denizens of esria. And then after the fall, these devils came up from Avernus and started entered into this uneasy truce with the elves, and they all now live in this town of silgoron, where they're trying you're not sure exactly what they're doing, but the town is perched running the edge of this enormous falls, this place where all the water of the Hell Girl this giant river that comes now from The Sea and flows towards the mountains of essedria, where that river flows down through literally a hole in praxia, to Avernus and to the River Styx. And you've come here looking for transportation along the River Styx into Avernus, that you can go and find thargoras, aka Tiamat, and deal with her. Dealing with her could mean a lot of different things, if you remember, right? She's bound by these chains. You could deal with those. You could just try to end her. You know, it's whatever you decide to do. In the meantime, there's some
+[0:15:58] Jamie Indigo: pretty earth shattering consequences
+[0:16:01] Ian Lurie: to ending her, to almost anything you do, but yes, definitely to ending her. I mean literally, since you know what happened when the last time a God died, right? That's when all of this happened, the gorges, which has literally opened a hole in the earth, and the helgore river flows backwards, and millions upon millions of elves died. You know, that's not good.
+[0:16:24] Jamie Indigo: We rested since we got Drac back.
+[0:16:28] Ian Lurie: Oh, yeah, yeah, because you you came into silver Ian, and you actually got a room in an inn and spent the night, remember? And then the next day is when you went downstairs in the inn and went to find someone who could transport a driver, basically a boat driver, a miranaloth, who could take you down the river sticks. You ended up choosing a miranaleth named voleth of the fog. And voleth is one of the most skilled boat drivers on the river sticks. He is known for being for basically having passed up and down the sticks countless times undetected. He has never been caught, never been attacked, never dealt with any any serious issues as a boat driver. So he seemed like the best possible choice, but the most expensive one, and he asked, when you asked him what you could do, he said, I would have you steal from a necromancer. And he told you that there is a necromancer named she lives in a tower outside the town, and you've seen the tower there's on her belt a purse, and he would like you to steal that purse and bring it to him. He hasn't really said anything else about it. You did enter into a deal which was signed by basically the the town's top lawyer, valthus the quill, who's an elven lawyer, and it is a binding deal. It's a very simple one. You go commit the theft, bring back the purse, and then vole drives you down the sticks with no fool, no messing around, no funny business, just getting you where you need to go. You can go and seek out obarus whenever you like. He gave you a map, which, by the way, I do not have. So I'm hoping I still have what was pasted into into discord. Actually, I do have what was pasted into discord, so we're okay there. And with that, you know you can set out whenever you want. I will tell you that it is about a two hour walk out of town, along the gorges, along the waterfall to get to the Tower of obaris. So RBG, what would you like to do? I mean, I feel like
+[0:19:20] Jamie Indigo: we should maybe snoop around the tower and see if we can see if anyone comes in and out. The deal is we can walk and
+[0:19:29] Ian Lurie: plot, and the mass
+[0:19:31] Jamie Indigo: he cracks or Knuckles is like, I'm ready for thievery.
+[0:19:34] Ian Lurie: And he did. The map does include a secret entrance to the tower, by the way,
+[0:19:42] Jamie Indigo: is the tower, like in an open area, there woods around it. How stealth do we need to be walking
+[0:19:47] Ian Lurie: on up there's almost no growing anything but the the trail along the gorges, you would basically come up from from down low, and then the door that you'd go to enters the cellar. So if you approach along the gorges, along the waterfall and go straight up to that door, no one in the tower would be able to see you.
+[0:20:12] Jamie Indigo: And that's for floor zero, the secret entrance.
+[0:20:14] Ian Lurie: Yes, that's the secret entrance. There is a main entrance that, yes, if you walk up to that, there's a road. It's very obvious, if anyone's looking at any time as you approach, they will see you, and it's wide open as you walk up.
+[0:20:26] Jamie Indigo: So Greg and couldn't you just go invisible and like, Snoop in the windows and see what's going on.
+[0:20:37] Sango / Cregyn: Does the place have windows?
+[0:20:40] Ian Lurie: It does have some like Arrow slit style windows on it. You believe that's what you were told?
+[0:20:47] Sango / Cregyn: I can let me look it's been a while since I've been me.
+[0:20:55] Ian Lurie: Yes, that could be a book. It's been a while since I've been me one
+[0:21:07] Jamie Indigo: man's journey to live laugh last year. Thank you, Jamar,
+[0:21:13] Sango / Cregyn: that can do invisibility for about a minute. That's it.
+[0:21:19] Ian Lurie: And creyn, give me a Arcana check.
+[0:21:25] Sango / Cregyn: Pretty sure I'm pretty spectacular at that. That's a that's a 14.
+[0:21:31] Ian Lurie: Okay, you're pretty sure there are, there are things at your guys power level that can detect invisible creatures.
+[0:21:43] Sango / Cregyn: Oh yeah, I have one of those.
+[0:21:44] Ian Lurie: Yeah, just the DMS giving, you know, I can't remember how to DM so I'm just giving you all this
+[0:21:53] Jamie Indigo: look we have you fly up, act like you're being a creeper. Then we sneak in when you know she's trying to yell
+[0:22:02] JP Sherman: at you. Mind if I look for tracks, like, is there any traffic going in or out?
+[0:22:07] Ian Lurie: Well, are you walking over to the tower? Because you're still in town right now?
+[0:22:11] Jamie Indigo: Yeah, I think we're walking and talking.
+[0:22:13] Ian Lurie: Okay, so you're walking and talking. So you're on this, this trail that's really more of a ledge than a trail, and you're walking right along the gorges, and across from from you, about 100 feet across, there's the water just thundering down, so it is deafening here, and everything is very wet and extremely hazardous to move along. So you know, ideally, you're going to move at a lower speed. If you want to move at a slower speed, you won't be at a minus. You know, if you move cautiously, you won't be at a minus. To you won't have to make Dex rolls. You don't have to do anything like that to avoid falling to your death or falling to something because you would fall into this waterfall that's part of the river sticks. You don't know what would happen.
+[0:23:03] JP Sherman: Sure it'll be fine. So
+[0:23:05] Ian Lurie: would you guys like to move at your normal, normal speed, which is about 300 feet every 10 minutes? Do you want to move sort of Dungeon pace, which is more like 200 feet? So it's slower, but safer,
+[0:23:19] JP Sherman: cautious and on purpose. I'm like, okay, you know, okay,
+[0:23:28] Ian Lurie: so you guys move along cautiously. You can be chatting while you while you go, I will tell you that, you know, there are places, because of the way these falls work, the water is falling. Most of the falls are across from you, but there is a little bit of a cataract over your head, so you're kind of behind the waterfall, which is one reason why the cover, it's such good cover, like there's no way that anyone's going to see you. So if there's any talking you'd like to do now is probably the best time
+[0:24:06] Unknown Speaker(s): just party lunch DM,
+[0:24:10] Rikterr: because I didn't know we took that long rest. I'm going to propose something you can again, always say no, if you think I'm overplaying the hand, I would have liked, before the long rest, to have cast my sanctum of the shepherd, where long rest, it gives everyone in the party a plus one bonus to their AC for 24 hours. Is that okay? Yes, ma'am, thank you,
+[0:24:37] Ian Lurie: high level man, I'm telling you.
+[0:24:39] Rikterr: Well again, I didn't stipulate it before the long rest meta gaming from Eric Cartman, my powers to have all the powers.
+[0:24:50] Jamie Indigo: So that's for 24 hours.
+[0:24:53] JP Sherman: Very cool. It's
+[0:24:58] Rikterr: called sanctum of the shepherd.
+[0:25:03] JP Sherman: So as we were coming up, I made a note of the flora and fauna. And you sit with sparse moon like various gear, yeah.
+[0:25:13] Ian Lurie: I mean, under here, there's some lichen, there's some give me a
+[0:25:21] JP Sherman: kind of note the changes, yeah, give me an
+[0:25:22] Ian Lurie: investigation or nature check, sorry, nature check
+[0:25:27] JP Sherman: nature. Okay,
+[0:25:29] Ian Lurie: I would hope you're good at that.
+[0:25:30] JP Sherman: That would be an 18, okay,
+[0:25:34] Ian Lurie: yeah, you know, there's some lichen. There's some really stunted trees and bushes kind of clinging to the sides of the cliff that are kind of getting pummeled incessantly by the water as it cascades past. There's the rock itself. Is a lot of basalt and other kinds of igneous rock, like something, something happened here that, you know, super heated the the rock around you and then cooled it very quickly. But there's not a ton of other life you do register, you know, occasionally, maybe some small rodents or something that go running by in front or behind you, but that's it.
+[0:26:19] JP Sherman: So I think what I'm looking for is I like, the is there, like a Chernobyl wild wildlife, like, if I see a rat, is like a short, shaven rat, like, in the sense of like,
+[0:26:32] Jamie Indigo: are you gonna rat shape, like that, man, are you
+[0:26:35] Ian Lurie: going to attempt so you want to actually try and get a close look at one of these rodents that goes running the skitters by. Yes, okay,
+[0:26:44] JP Sherman: because, like, like in Drax mind, like necromancy is like the opposite of drag.
+[0:26:53] Ian Lurie: It fucks everything.
+[0:26:55] JP Sherman: It fucks nature up.
+[0:26:56] Ian Lurie: You're pretty far from the tower. But of course the river sticks. I mean, these falls are basically part of the river sticks. So, yeah, you know, you do catch a look at one of them, and it kind of runs by you, and you're pretty sure, like the left eye is a little bigger than the right eye. Its tail kind of cans off in the wrong direction. Its fur is a little bit tuftier than you would expect. But it seems to behave like a rat. It's not, not showing signs of extra intelligence or anything like that.
+[0:27:28] JP Sherman: It doesn't speak Latin to me.
+[0:27:30] Ian Lurie: No, no, it does not. It is not trilingual. Not read Latin to the rat. No, don't teach them. Sorry. But it is rat, so no boy, okay. 10 experience.
+[0:27:43] JP Sherman: 20 minutes into this, I'm already making it double.
+[0:27:53] Ian Lurie: Okay, so you are about halfway along, and neither get decent Wisdom.
+[0:28:03] Jamie Indigo: Save, oh, come on, sir. Target attack,
+[0:28:17] Unknown Speaker(s): 18, okay. Because the wisdom checker is saved. Save,
+[0:28:30] Rikterr: I'm sorry. Then 29 Okay, oh, everyone, add plus five to this, since it's a save,
+[0:28:39] Jamie Indigo: okay, wait a minute. So with your plus 513 I'm gonna use a floss genius then and make it an 18.
+[0:28:52] Sango / Cregyn: Sango got 25
+[0:29:06] Unknown Speaker(s): Cregyn, yeah,
+[0:29:11] Jamie Indigo: it's not good. Or did Cregyn get well? No one
+[0:29:18] Sango / Cregyn: three is four plus five is nine, okay, plus begging and pleading
+[0:29:26] Ian Lurie: and drag. How did you do a 21 Okay, so you're all moving along and Mossy. You briefly,
+[0:29:37] Sango / Cregyn: Oh, hold on, hold on, hold on, Yeah, fuck. It's 13.
+[0:29:42] Ian Lurie: Okay, you briefly, just for a second, you kind of look over the edge where the ledge is particularly narrow, and you almost have this feeling of being drawn towards the falls, like you could almost just step into them. Um, it's almost like a physical pull for a moment, and you shake it off, and then you turn to Cregyn to say something like, wow, did you know that was weird. It almost felt like it was pulling me towards it. And you see Cregyn Looking over the edge, and he's literally on one foot with his other foot, out over the basically out in space at this point. Can I dive to grab a cregn? You can dive to grab the Cregyn to just basically knock him backwards. So give me quick athletics or acrobatics check you don't have to tackle him. You just have to knock him backwards.
+[0:30:39] Jamie Indigo: 27 in acrobatics. I like to think that I bat him like he's a catnip mouse.
+[0:30:45] Ian Lurie: So Cregyn, you just briefly look down the gorges, and you look just down into the throat of this enormous waterfall, this thing that's just unnatural and does not look like it should be here at all. And as you look, it beckons to you, and not in the normal way that you know a lot of us have, where, if we're on a ship and you look over the railing or something like that, you always had a little bit of a pull towards the edge. Like every, every, you know, sapient creature, does you feel like an active pull? Like in the back of your mind, you're thinking, this is not a good idea, but front of mind, you're actually taking a step out into space, when all of a sudden this furry paw comes, just bats you across the face, just and you kind of shake out of it, and you pull your foot back, and you stumble back from the edge. You're not sure what just happened there, but you guys all saw that happen, and you saw mossy just kind of slap him silly. And he is now. He is now okay,
+[0:31:46] Jamie Indigo: because I care
+[0:31:49] Sango / Cregyn: your your the smile on your lips betray your true intentions.
+[0:31:55] Jamie Indigo: Two things can be true.
+[0:32:00] JP Sherman: It's good to have cregn back.
+[0:32:04] Ian Lurie: You continue on your way. The path winds its way down and actually into the rock briefly. So there's actually rock wall between you and the falls, and any sense of being kind of pulled or tugged towards the edge goes away. You do see some places where some of the shrut, the undergrowth, the brush, that's the word I was looking for, the brush that's growing along the edges. It looks like something grabbed it and then, and then let go of it. So it's partly torn out of the wall, but still there. So you have to wonder if maybe that that effect that Cregyn Just felt has claimed others who have passed this way.
+[0:32:53] Sango / Cregyn: And does this seem like it's only as you get closer to the tower?
+[0:33:00] Ian Lurie: No, it just seems like proximity to the gorges themselves is what does it
+[0:33:07] Jamie Indigo: for sugars? Can I have a pop down Ian that sees for a minute?
+[0:33:10] Ian Lurie: Yeah, when you do, you look at the falls again and in the mist you see. You're not sure if you see it or not. It's almost it's hard to tell for sure, but you think you see Misty figures beckoning to you or reaching their hands out in supplication, or grabbing each other like you know, one will reach out towards you, and then two others come back into the water, and that seems to be happening and just here and there, just in weird little patches up and down the falls all around you.
+[0:33:53] Speaker 2: Reagan, you're not clumsy, it's needy ghosts.
+[0:33:56] Rikterr: Look at that. That's amazing.
+[0:34:01] Jamie Indigo: Do I know anything in my, my world of Arcana, and all my nerdering about this,
+[0:34:07] Ian Lurie: you can give me an Arcana check.
+[0:34:10] Jamie Indigo: I mean, my, my flavor of Alchemist is actually pretty proficient with necromancer in the lake. So, Oh, that's good.
+[0:34:22] Ian Lurie: Is a is a 72 okay, this is not necromancy. You know that for certain, this is something in the very nature of the River Styx itself. You're not entirely sure what it is. But this is not necromancy. This is somehow deeper than that. You know, necromancy is a twisting of life and death into other forms. This is a primordial. This is primordial. This, you know, your gut tells you we are near Avernus. We are near the River Styx. This is just how things work here. Someone didn't, someone didn't twist this place to make this happen. This is how this place works.
+[0:35:09] Jamie Indigo: Anything else looking around?
+[0:35:15] Ian Lurie: No, you just see more of that up and down. The falls,
+[0:35:19] Rikterr: okay, yeah, I'm
+[0:35:20] JP Sherman: doing kind of an interim, an intermittent view for like treks or footprints or things like that every 100 or so feet.
+[0:35:29] Jamie Indigo: Okay, just looking at our necromancer. Is undead rikter.
+[0:35:42] Rikterr: That is a 14 Arcana.
+[0:35:45] Ian Lurie: Some are, some aren't. Many necromancers aspire to become undead. They want to become Liches, but for the most part, they are flesh and blood.
+[0:35:57] Jamie Indigo: So what do we put a mirror on one side the Necromancer, and then you on the other side, and you cast and turn undead, and it just doesn't know where to run. And then when I straight up and grab the
+[0:36:14] Rikterr: bag, I mean, unfortunately, they stole that from me in the new update I have now what's called absurd folds. I oops, track,
+[0:36:30] Ian Lurie: give me a give me a nature, check. 17. Okay, you see another. You see some kind of creature, not a rat, kind of peering out of a crack in the stone near you. Just as you're leaving that area that's more of a cave, and you're going back out to the back out towards the falls, and you just get a glimpse of it as you're looking past you're not sure what it is, but it's still there. It's still looking
+[0:37:16] JP Sherman: all right. I'm I don't know if we need to be worried about this, but like, there are little eyes in the in this area that are noticing us. Don't know why yet, but we are being noticed.
+[0:37:34] Jamie Indigo: They just eyes. Are they attached?
+[0:37:37] JP Sherman: They're they're attached to, like, something rodenty
+[0:37:40] Ian Lurie: might be more lizard, like, actually,
+[0:37:43] JP Sherman: Liz or reptilian, yeah.
+[0:37:45] Ian Lurie: Like a small lizard, very small.
+[0:37:47] Jamie Indigo: Well, get out there and shake your butt and do like a lizard. Hello, dance and see if they
+[0:37:51] JP Sherman: come out. They're pretty quick, like, but right now, well,
+[0:37:55] Jamie Indigo: then shake your butt faster. I've seen you.
+[0:38:00] JP Sherman: I'll see if I can find another one there.
+[0:38:03] Ian Lurie: They keep peeking out from the cracks and then disappearing, you know, like if, if you spend any time in Florida, there's annoying little lizards, not the iguanas, but the little ones,
+[0:38:12] Unknown Speaker(s): the ones that do the push ups, right?
+[0:38:13] Ian Lurie: Yes, yes,
+[0:38:14] Jamie Indigo: yes, yeah. Get out there. Do some twerking push ups. See if you can. Just want to get it to tell us what's going on.
+[0:38:20] JP Sherman: I'll burn a speak of animals.
+[0:38:23] Sango / Cregyn: Oh, okay, and
+[0:38:30] JP Sherman: get a little bit of a I'm going to take off a small bit of the dry pig jerky that I generally carry with me, you know, for the for the twins, and I'm going to kind of coax them over and say, Come here, come here. I have some food for you. Hey, what? Hey, I saw you. I saw you. And your your buddy's kind of looking at us like, are we the only ones who've been walking by recently?
+[0:39:04] Ian Lurie: Only once in a while.
+[0:39:06] JP Sherman: Only once while. Who did, do you know what? What will last? Further
+[0:39:12] Ian Lurie: that more, more rocks,
+[0:39:14] JP Sherman: some water rocks. Is there anything that we need to is there anything out here that scares you we should avoid.
+[0:39:20] Ian Lurie: The edge is pretty bad. Couple of us went over there last week. Haven't seen him since.
+[0:39:27] JP Sherman: Oh yeah, we almost lost. Lost our
+[0:39:31] Ian Lurie: our own reptile, also a falcon, real dick.
+[0:39:34] JP Sherman: Falcons are known to be dicks. They are just huge dicks. I uh, do like trying to
+[0:39:49] Unknown Speaker(s): think of a good question for them? I'm a joke.
+[0:39:55] Jamie Indigo: I can't hear you. I'm just,
+[0:39:58] JP Sherman: um, do you have any questions for the lizard?
+[0:40:10] Jamie Indigo: Do they ever see people who look like us on this road?
+[0:40:14] JP Sherman: Yeah, they said occasionally.
+[0:40:17] Jamie Indigo: Okay. Do they know when the last time they saw one?
+[0:40:20] JP Sherman: So when was the last time you saw somebody on this trail? It was a while. It was a while. I don't know, week, month.
+[0:40:33] Ian Lurie: What's a week? What's a month?
+[0:40:37] JP Sherman: Fair point it.
+[0:40:39] Ian Lurie: It got dark. It's been dark, like, 10 times since the last time we saw someone here.
+[0:40:45] Jamie Indigo: Okay, okay, where were they going?
+[0:40:50] JP Sherman: And they were going the way we're going. Yeah, not, not the other way. Nope. Did you see them return? Nope. How many one? Um, do we have any kind of description of the Necromancer that we are trailing an old woman?
+[0:41:10] Ian Lurie: Okay, miranalos kind of don't. They're not good at specifics.
+[0:41:18] Jamie Indigo: All us meat sacks look the same.
+[0:41:20] JP Sherman: Yeah, yeah, I would assume it's pretty nervous. Listen for lizards, too. Oh, okay, well, I pull off a few more bits of jerky. Thanks. Do you have a difference?
+[0:41:31] Ian Lurie: No, be safe. Okay, see ya turns disappears into the rocks. All right.
+[0:41:39] Jamie Indigo: Would you find out the blizzard? Tell us how to break in.
+[0:41:43] JP Sherman: No, there's they notice things that happen here, but they don't have any specifics. They don't have any context, really, to give us any direct help. But we do know that there's the only things that they're really afraid of are their natural enemies, like felt the edges and they had it every once in a while, like a list, like you, well, obviously, like we had our own reps where we had an edge nearly jumped off. So maybe it only affects reptiles.
+[0:42:13] Jamie Indigo: So let's talk about our approach. Here. We got this lovely map over the current entrance. I think we should, rikter, I know you're kind of not great at stealth, but you also can get rid of undead. Yeah, really need you up in the castle, up in the tower, we probably should expect some undead to attack us.
+[0:42:40] JP Sherman: It's been a while, but yeah, what do you think Rick, sir,
+[0:42:49] Rikterr: I'm worried about and he just plank plank when it comes to stealth. But this doesn't seem like the best time for us to be split up, even for a second.
+[0:43:04] Jamie Indigo: So, but what maybe? What if we went for a crazy missionary idea? Okay, you go knock on the door, like have you in the Raven Queen. I sneak up through the secret entrance behind her, steal the bag. We're good.
+[0:43:30] Ian Lurie: Jamar, I couldn't I couldn't stop myself. I'm sorry. I'm sorry. So it's interesting, because as you're talking about undead and things like that. Everybody, give me a perception check you're walking along.
+[0:43:55] Unknown Speaker(s): One to 422, 32
+[0:44:02] Sango / Cregyn: natural, 20 and an 11, plus some things.
+[0:44:05] Ian Lurie: Okay, you guys actually all feel the floor rumble for a minute, and you all need to give me DC 18 deck saves. Let's five, y'all would be a 2434
+[0:44:28] Rikterr: natural one.
+[0:44:31] Jamie Indigo: Oh, silver birds. That work action, yeah, you can
+[0:44:42] Ian Lurie: use it for a one or a 20, right?
+[0:44:45] Jamie Indigo: Yeah, I can undo a 20. I can undo a one, and I'm choosing to undo your one right?
+[0:44:49] JP Sherman: Now, I've legitimately
+[0:44:50] Rikterr: only ever seen bossy use it to, like, stop a creature from killing me with a crit. So I was just like, he does that too. That's awesome. Fork. 15. Okay, let's get,
+[0:45:04] Ian Lurie: say, four shit, Sango and Cregyn. Oh, you guys rolled. Well, that's right. Oh, wait no, but the deck saves. How'd you do for your deck saves?
+[0:45:18] Sango / Cregyn: That's just working on that. Let's see, there's a plus five for Craig, for everybody, right?
+[0:45:23] Rikterr: Rikter,
+[0:45:25] Sango / Cregyn: okay, so Cregyn got a total of 20. That's fucking awesome. That's the best deck save he's ever had. Sango
+[0:45:37] Unknown Speaker(s): 21 Okay,
+[0:45:40] Ian Lurie: so basically, you're, you're walking along and you're talking about all this stuff, and just just as rikter is kind of like, excuse me, the floor just erupts and all of these bone, bones and and half decayed bits and pieces of dead things just spring up out of the floor and try to wrap themselves around your legs. So anyone who got lower than an 18 you are restrained and just can't move. The rest of you are fine. It's difficult terrain, but you can, you can sort of struggle your way out of it, and after six seconds, it all just goes away, and you're able to walk again.
+[0:46:41] Jamie Indigo: Oh, okay, there, buddy, you still got some
+[0:46:48] Rikterr: I don't like things touching me.
+[0:46:51] Jamie Indigo: There's maybe just close your eyes for a second and I'm gonna, like, heal part of a hand that's still stuck
+[0:47:01] Ian Lurie: on him. And what's weird is when it's when it goes away, it just all of the arms and everything retract back into the floor, and it looks as if nothing happened.
+[0:47:13] Unknown Speaker(s): I wonder if
+[0:47:15] Ian Lurie: an alarm Jamie just, you know, your mic is cutting in and out a lot like half of each word.
+[0:47:30] Unknown Speaker(s): Squish it on over. How's that? That's much better.
+[0:47:37] Ian Lurie: And with that, you get to the end of the trail the path turns sharply to the right away from the falls, very steeply uphill, and you kind of clamber up the rocks and you get to where you believe the entrance is supposed to be.
+[0:47:54] Jamie Indigo: The main floor, floor zero. Floor zero. Okay. I would like to do some snooping for traps, please. Okay, I'm also gonna throw up Pass Without a Trace on us, using the thing. Okay.
+[0:48:10] JP Sherman: Is this a semi vertical climb?
+[0:48:15] Ian Lurie: Semi vertical? Yeah, 45 degrees.
+[0:48:19] JP Sherman: All right. I toss, uh, if muscles going through, checking traps and things like that, I'm going to hand her my grappling hook so that she can drop the rope down, just to give it needs a little bit of resistance. Climbing up. Got it? Yeah, because
+[0:48:31] Jamie Indigo: this is not going to be a challenge for me to climb, I got claws. Okay, so chim up, looking for traps. Find a nice little dead stick or someone to hook the rope around
+[0:48:45] Ian Lurie: the grappling hook on give me a perception check for traps.
+[0:48:50] Jamie Indigo: Actually, yeah. Investigation. For traps, yeah? Actually, yes, you're investigation, yeah, yeah.
+[0:48:57] Speaker 2: Always remember that because I have advantage, because I rose blessing up.
+[0:49:03] Jamie Indigo: Natural 20 okay,
+[0:49:06] Ian Lurie: you don't see any traps the grounds. 37 Yeah, yeah, no, the ground's a little loose. You know, there's loose rocks here and there. But for you guys, it's not a problem.
+[0:49:19] Jamie Indigo: Okay? So now gonna talk over party line. So are we all gonna sneak in and ambush her, or I still like my Avon calling strategy?
+[0:49:29] Ian Lurie: Well, you check for trash, but you don't see a door yet.
+[0:49:35] JP Sherman: We can check for door. We do need to assume that she knows that we're coming, like, if that was an alarm system, then we need to assume that. So
+[0:49:51] Sango / Cregyn: I had this feeling like we are in the Wizard of Oz right now, angry monkeys.
+[0:50:03] Unknown Speaker(s): Very small people
+[0:50:08] Ian Lurie: do pretty time. Okay, so moving this along mossy you start looking at as you're looking for traps, you do notice that there's one place in the rubble where there's sort of a larger a larger crack, and you can see a bit of iron that must be some kind of flat iron constructed thing. And you think that if you moved some of the boulders out of the way, you could see whatever's behind there.
+[0:50:40] Jamie Indigo: I'm gonna pop down the goggles again and just scope all this out. Do this little walk about see what's lighten up.
+[0:50:48] Unknown Speaker(s): Okay, um, why
+[0:50:54] Ian Lurie: don't you give me a perception check? Okay? 14. You don't notice anything, okay, all looks good.
+[0:51:10] Jamie Indigo: Party limb back down. I think I found the door. We got to move some boulders to get to it. Are we just gonna sneak in an ambush attack, or we figured out how I want to do this?
+[0:51:30] Rikterr: Figure sneaking is the best way so as little fighting as possible. Maybe we can get in and out without a fight. I doubt it. But if we can push off the fight, I think it'll be better for all of us.
+[0:51:48] Unknown Speaker(s): All right, honey, I
+[0:51:51] Jamie Indigo: want to come up here and help me move some boulders, mostly arms.
+[0:51:59] JP Sherman: Oh yeah, that's that's not a drag thing.
+[0:52:05] Jamie Indigo: X things, no, no, they look pretty. You twerk to find out that the lizards have a problem with gravity. Bravo.
+[0:52:16] Ian Lurie: So anyone who wants to try and help move the boulders, you can give me straight up strength checks. Or if you have athletics, you can do an athletics check.
+[0:52:26] Jamie Indigo: I'd like to give Cregyn advantage by helping him, okay, which just means singing Eye of the Tiger really loud in the party line.
+[0:52:39] Ian Lurie: It's not quite that helpful. Ian, but Cregyn, go ahead. You can make your role. Rikter, I'm assuming you want to take a shot at this too.
+[0:52:49] Rikterr: I'm just enjoying the fact that you came back so saucy.
+[0:52:54] Sango / Cregyn: 14 for cregn, okay, with
+[0:52:57] Unknown Speaker(s): advantage. Oh, nope.
+[0:52:58] Sango / Cregyn: Sorry, no, that's a then. That's a 23
+[0:53:03] Ian Lurie: okay, there you go.
+[0:53:04] Rikterr: Yeah. Rikter is not of much help, okay.
+[0:53:08] Ian Lurie: Cregyn, you kind of move. You wobble a couple of boulders out of the way, and you find one that, when you roll it, a whole bunch of other rocks just kind of go and come loose. You guys have to jump back a little bit, but it's fine, and as everything as the dust kind of settles, you find yourself looking at an old iron door. Looks like it hasn't been opened in a long time.
+[0:53:38] Jamie Indigo: Does it have a lock? It does
+[0:53:41] Ian Lurie: not appear to have a lock. There's a large latch on it, and that's it. Latch like, you know, a door handle.
+[0:53:49] Jamie Indigo: Okay, everybody back up a little bit. I'm going to use mage hand and open it.
+[0:53:54] Ian Lurie: Okay, you try and use me. How much weight can can mage hand move?
+[0:54:02] Unknown Speaker(s): Not a ton,
+[0:54:12] Jamie Indigo: 10 pounds, 10 pounds.
+[0:54:17] Ian Lurie: It the door starts. The handle moves a little bit, and there's kind of a grinding sound, but you can sort of tell it's not locked. It's just it's really old, and it has not been moved in a long time, and the metal is just fighting you on it. You know, it's been exposed to moisture for so long, there's probably a fair amount of rust.
+[0:54:38] Jamie Indigo: Hey, before we open this, can you detect undead. This does really seem like a good storage spot for a bunch of undead.
+[0:54:49] Rikterr: All right, so rikter is going to use one of his channel divinity for, yeah, Divine Sense, so it's, it only works for up to 60 feet, though. DM, okay,
+[0:55:05] Ian Lurie: looks clear. Nothing, nothing showing up. I just, I couldn't quite mute you fast enough,
+[0:55:24] Rikterr: from what I can detect, we're good from the entrance for a little bit, so nothing in our immediate vicinity. Sparks is undead.
+[0:55:32] Jamie Indigo: I wonder if she keeps it as like a wine cellar.
+[0:55:36] Ian Lurie: From what voles said, she doesn't even know it's here. Oh, what's that up? Yeah, the whole idea is coming in this way means there's nothing to you can literally sneak into this place by taking this route.
+[0:55:57] JP Sherman: I'm going to toss mossy, a thing I just pulled out of my pack, and it is a small bottle of oil, baby oil.
+[0:56:08] Unknown Speaker(s): WD, 40. Did you just throw me a lube? Why do I need
+[0:56:14] Jamie Indigo: this for the door handle? Oh, okay, boredom.
+[0:56:23] JP Sherman: If it was an invitation, I'd be sending it to rikter, okay.
+[0:56:34] Speaker 2: But why is it flavor? If it's a door, Oh, God.
+[0:56:41] JP Sherman: Hold on, what flavor it's
+[0:56:44] Jamie Indigo: gonna be, something just like one of those rejected Lacroix flavors, where it's like coconut cucumber, it's like
+[0:56:51] JP Sherman: apricot and lime. No, you
+[0:56:56] Ian Lurie: guys, let me know when you want to open the door blackberry and regret. I'm just taking all this in here.
+[0:57:01] Sango / Cregyn: We're not done yet. Just you'll be quiet again.
+[0:57:06] JP Sherman: It's like, let me know when you're ready to play DND again.
+[0:57:17] Ian Lurie: Okay. Are
+[0:57:18] Rikterr: rikter is going to reach out and start to turn the handle and pull
+[0:57:25] Ian Lurie: all right, give me a strength check.
+[0:57:28] Jamie Indigo: It's not particularly difficult, but vaccination check once you're less tetanus shot, natural, 2422
+[0:57:42] Ian Lurie: okay, no problem. You twist the handle, there's this kind of grinding, shrieking noise of, you know, really old metal, and the door slowly, you kind of put your shoulder to it, and the door slowly swings open inwards, and you can see that there's a tunnel in front of you. Maybe passed away, is a better way to say it. But it's it's not terribly, not terribly finished. It looks more almost like a mining tunnel, as much as anything else awesome.
+[0:58:24] Rikterr: Guys, since we are going into a home of the undead, would you like me to take point?
+[0:58:37] JP Sherman: What's the light situation?
+[0:58:40] Ian Lurie: Like you don't see any light sources in there.
+[0:58:43] Jamie Indigo: Gonna say your casting range is pretty good, though, and you're kind of clunky. So maybe
+[0:58:51] JP Sherman: I've got career, I've got dark vision, I can I'm sneaky, and I have dark vision. I think mossy also does, but she's a little little squishier than I am. Rikter also has dark vision. Oh, fantastic.
+[0:59:09] Ian Lurie: Mossy is the sneakiest among you, I believe.
+[0:59:13] Rikterr: But she is. Yeah, you know what? No it is. It probably should either be mossy or Sango, both people who are sneaky or can turn invisible.
+[0:59:32] Jamie Indigo: Well, I can't turn invisible, but I can be
+[0:59:34] Rikterr: sneaky, all right, so maybe mossy Drax. Sango, Craig and rikter, marching order, yeah,
+[0:59:49] JP Sherman: sounds good. You got a bus
+[0:59:51] Jamie Indigo: man, gonna activate maximum stealth mode.
+[0:59:55] Ian Lurie: Okay. So then, do you want to be? You know? Sort of 2020, to 50 feet out ahead of everybody. So you can kind of scout for things. Okay, yeah, I'm scouting you to engage. Yeah, no, you found a pretty easy rhythm with this. This is, this is what you do. And this passageway is really small. Rikter, you in particular. And Cregyn, you find this uncomfortable. It's only about five to six feet high in places, and it sorry. I just had a message coming from XFINITY. I want to make sure it's not saying, Oh, your internet's about to turn off. It's not okay. You Cregyn, you're really having to squeeze your wood through here. And rikter, I think you're slightly smaller than Cregyn, but as you kind of wind your way through this tunnel, it just quite a bit turns, and then there's one bend where it gets really pretty tight. And I need everyone to give me what would this be? Give me athletic or acrobatics, whichever one you want to use. So you have to kind of worm your way through 30, in fact, yeah, I should say Mossy. You don't even have to do it. You're a cat. You can wedge your way through anything. Oh, yeah, no, I'm
+[1:01:30] Jamie Indigo: showing off liquid cat maneuver.
+[1:01:34] Unknown Speaker(s): Dirty. 20, okay. 19, okay. Do
+[1:01:43] Sango / Cregyn: I Sango got an 18. Cregyn got a nine. Okay, so you're Cregyn got an 11.
+[1:01:51] Ian Lurie: Sorry. Okay, so Cregyn, you're trying to you're trying to NaVi negotiate this one area where it gets really narrow,
+[1:02:01] Sango / Cregyn: and you get any more of that baby oil, and you
+[1:02:05] Ian Lurie: actually check with cregy actually stuck. So you're trying to, you're trying to get through, and your shell gets hung up on one corner, and then your your right arm gets hung up on another one. And you're actually kind of stuck in this awkward position where you can't get enough leverage to pull yourself forward, and you can't get enough leverage to push yourself back, you are literally stuck. Richter, you're right behind him. Sango, you're right in front and you see tortle limbs kind of not flailing, but definitely struggling a little bit. What would you like to do? Does Richter
+[1:02:43] Rikterr: have enough room to get his arms in front of him and give Cregyn a push to help him? Or is this a place in the tunnel where rikter is too big and his armor wouldn't allow him to do that?
+[1:02:55] Ian Lurie: Do you think you could put a shoulder into him?
+[1:02:58] Rikterr: Okay, then I would like to put a shoulder into him.
+[1:03:00] Ian Lurie: Okay, so, yeah, the tunnel is only about five feet high here, but you can kind of crouch down and push upwards with your shoulder. Strength check. Strength check,
+[1:03:10] JP Sherman: yes, you know if we, if we, if, like, you push to put your shoulder in one side and I hit the other. That might be a way to get some like advantage.
+[1:03:20] Rikterr: I got a 17, okay,
+[1:03:24] Ian Lurie: Cregyn, you you feel this sort of grinding sensation. You know your your shell is going to need some buffing out after this, but you do kind of pop loose and you're able to move again.
+[1:03:41] Sango / Cregyn: I'm having a hell of a day.
+[1:03:44] Rikterr: Thanks, guys. Sorry about the show, buddy. I promise a little uh waxing later on. Take that however you want.
+[1:03:55] Sango / Cregyn: Thanks, rikter, but I'm married.
+[1:04:01] Ian Lurie: All right, you continue on. The rest of the twisting tunnel is actually not terrible. It's it is mostly rock. There's not much soil here, but there are places where you can see roots and things that have grown down through the dirt and stone and are dangling down into this you are pretty sure nothing has come this way in a long
+[1:04:25] Jamie Indigo: time, like party line, hey, track, what if we just plant one of the tree seeds?
+[1:04:32] JP Sherman: Exactly what I was thinking. Because if the tree does anything like it has done, this would be unique. But it also might like mess with that. Mess up with what we're trying to do. Also isn't this tower like on a like a precariously positioned over the river.
+[1:04:58] Rikterr: I that's what I was. Can rikter role in Arcana check to see if he would know whether that sort of life could grow here, because it is so close to a entrance to hell, and also a necromancer has been living in this particular area for X amount of time.
+[1:05:18] Ian Lurie: So that would, I would say that will actually be a nature check or nature check.
+[1:05:23] Rikterr: Then, no, never mind. Okay,
+[1:05:30] Ian Lurie: you do. These seeds are like nothing else you've seen. I mean, they grow in some pretty weird places.
+[1:05:41] JP Sherman: I would, I would argue that if we're going to do this, I think, I think it's a cool idea, we should do it once we remove the evil from the area.
+[1:05:53] Jamie Indigo: Were we killing her? Just taking the purse? I thought I was just taking the purse. I was planning on
+[1:05:56] JP Sherman: killing her then taking a purse. All right. I mean, if there's an easy way to do this, but we generally don't find the easy way. I mean,
+[1:06:05] Jamie Indigo: if I can just get a view of earned a mage hand, I'm try that first.
+[1:06:09] JP Sherman: Yeah, I know, like, let's do that. But,
+[1:06:15] Rikterr: but if the Marina left wants something that's bigger than 10 pounds, the mage hand probably won't be able to grab her bag or it.
+[1:06:25] Unknown Speaker(s): If you were trekking around 10 pumpers, you get it's bad for your posture. Okay,
+[1:06:34] Rikterr: all right, let's, let's keep going.
+[1:06:36] Ian Lurie: Yeah, yeah, the tunnel widens out and into a small chamber. And in the chamber there's some small boulders and rocks strewn about the floor, and up above there's, well, just a ceiling. I mean, you don't get any but you know from the map there's a secret hatch or trap door or something in here somewhere, you just can't see one, just by looking. It's, it's, there's nothing obvious.
+[1:07:11] Unknown Speaker(s): Oh, good thing. I'm great at investigating,
+[1:07:15] Ian Lurie: all right, give me an investigation check. That's many, 31 Okay, there's one. So there's a couple of. It's not really a stalactite. It's more of a it's just bumps in the ceiling. You know, it's just, it hasn't gotten to that point yet. But you see one that doesn't look quite right. There's almost like a an edge around the base of it, the base, meaning the ceiling, where it joins the ceiling, and you reach up to it, and you kind of shake a little bit, and you notice it is actually not connected to the stone itself. It's attached, but it's not connected. If you know what I mean, it's like it's hanging there as as a as a way to hide something.
+[1:08:10] Jamie Indigo: Can I move it? Yes, definitely. I don't want to move it, if it's going to open up just yet. So is it like I'm going to expose the door by moving it, or does this seem to be the door? It feels like that tells the ceiling.
+[1:08:27] Ian Lurie: The ceiling is about five and a half feet.
+[1:08:31] Unknown Speaker(s): Oh, it's pretty low. Though
+[1:08:33] Ian Lurie: it's very low. You think when you wiggle it, that it's going to actually swing downwards or detach downwards, not
+[1:08:40] Jamie Indigo: up, okay, yeah, just want to push something up, yeah, into the room. Okay, is this big enough for Cregyn to get through?
+[1:08:50] Ian Lurie: You don't know. It's hard to tell you. I mean, the the loose chunk that you're looking at is quite large. It, you know, if it's, if it is covering the entire hole, you know, assuming there's a hole above it, that hole could be six feet wide.
+[1:09:10] Jamie Indigo: Okay, okay, I think I found the door. I'm gonna try and scooch it open a little bit and get an idea of how big the door is and see if I can hear, see anything.
+[1:09:22] Sango / Cregyn: Okay, do you want to do you want to be really quiet right now? Is that? Is that a concern?
+[1:09:30] Jamie Indigo: Yes, I am trying to be quiet right now. Do you have to fart?
+[1:09:34] Sango / Cregyn: No, I could get us, provide us some silence.
+[1:09:41] Jamie Indigo: Yeah, that's a great idea. So I will wait until the rest of the crew is in the assuming we can all fit in the small chamber. It's a
+[1:09:53] Unknown Speaker(s): little little cozy, but yeah, you can fit. I Okay, cast silence. All right.
+[1:10:10] Ian Lurie: Now completely silent. Try and open the door. Okay, so the the stalactite actually does. It just swings downwards and then up above where the Select height was a minute ago, there is what appears to be a wooden hatch, and It looks like it will swing upwards.
+[1:10:41] Jamie Indigo: Do well, I would ask if we hear anything, but we're an area
+[1:10:45] Ian Lurie: of silence, right? It is silenced. Yeah. So the answer is, No, you don't hear anything.
+[1:10:52] Sango / Cregyn: Mercy, you want me to go up there and take a look? This is Sango. Yeah, get up. Nope. I'm on the other side of you. Over here, over here? Yep, okay, I will shadow step up and see how. How far up does it go?
+[1:11:16] Ian Lurie: Um, so you're shadow stepping to the other side of it. Yep, okay, so you are now standing in a vertical passage that's maybe 10 feet high, and then there's another hatch at the top of the vertical passage, and there's a ladder set into the passage itself.
+[1:11:40] Sango / Cregyn: Okay? And does the silence cover both hatches?
+[1:11:46] Ian Lurie: What's the radius? I think it does, but 20 foot radius, yeah, so no problem.
+[1:11:58] Sango / Cregyn: Okay, all right, so then Sango will open the next hatch.
+[1:12:03] Ian Lurie: Okay, so you clamber up the ladder, or, I guess you're a monk, you don't clamber you, you glide up the ladder, get to the other hatch, open it, take a look out. And you are looking into at least from where you're, you're, you know, you're currently just sort of sticking your head up through where the hatch is, and you're looking around you looks like you're looking across the floor of a of some kind of larger room, and it looks to be a tiled floor like, you know, somebody more intentionally built than just hacked out of stone, terracotta or other, nah, it's more, you know, kind of high end slate, maybe marble. Okay, nicely cut
+[1:12:53] Sango / Cregyn: anybody in this room that I can tell,
+[1:12:56] Ian Lurie: not that you can tell immediately, no, okay, you do see like the legs of some chairs or something, maybe some furniture. And if you look across, you know what? Instead of me doing this, give me a perception check.
+[1:13:19] Speaker 1: Okay? Is a run? 14, okay,
+[1:13:37] Ian Lurie: yeah, you see, you think at the other end of the room, you see the in this room is dimly lit because there are some, some, you know, tall, narrow windows cut into it that you can see. You think you see the base of an iron, maybe iron, maybe stone spiral staircase. And then you do see the legs of some kind of furniture, you're not sure from where you are, and maybe a couple of bones on the ground, you're not sure, but some kind of trash.
+[1:14:09] Sango / Cregyn: Okay, I'm going to party line that information to the rest of the party. And then, do you guys want to come on up? It's silent, so rikter might be helpful, because there's some bones up here, in case they turned into something like those hands before. Oh, mossy is
+[1:14:35] Jamie Indigo: bounding up with you. Yep, coming up.
+[1:14:39] JP Sherman: Let's get cregn before me. They need, might need some push, pull, little bit of boost. My bottom boost. It little
+[1:14:51] Sango / Cregyn: bit of baby oil drops on your forehead.
+[1:14:53] Ian Lurie: Yeah, there's, there's plenty of room. It's not an issue. And please God no, with the baby oil, you navigate your way up the the passageway. You're all kind of at the top. But now, do you Sango? Do you throw the trap door open?
+[1:15:13] Sango / Cregyn: You know, I feel like the prudent thing would be to have mossy inspects some stuff.
+[1:15:24] Unknown Speaker(s): Okay, I can check what drops. Jamar roll.
+[1:15:36] Jamie Indigo: That is a 29
+[1:15:41] Ian Lurie: with the 29 you explode. No, with a 29 you probe Indigo. You probe carefully around the edges of the trap door. You're kind of reaching around Sango while you're doing this. But it works okay. And you don't find any indications of of, you know, wires, or any of the typical stuff that would be used to trap a hat, trap door like this. And of course, you're totally silent as you're doing it.
+[1:16:12] Jamie Indigo: Is it locked? Or is it just we open it? No.
+[1:16:14] Ian Lurie: Sango has got it part way open already,
+[1:16:18] Sango / Cregyn: so I will or party line. Massey, wait, I'm going to go first. I'm going to shadow step up, and if a big fireball or anything goes off, then you'll know. But let me go first and see what happens. Sound good.
+[1:16:40] Unknown Speaker(s): Sounds good.
+[1:16:41] Sango / Cregyn: Boss, okay, then I will shadow step up into, basically into the corner of this room near the s thing. Okay, right next, right next to it.
+[1:16:52] Ian Lurie: Yep, okay, you shadow step up and you are standing in the middle of this dimly lit room. At one end of the room is a spiral. Opposite you there's a spiral iron staircase that goes up into the ceiling, starting at the floor. Here it doesn't go down. There are, you know, some old mildew chairs that look like they were once covered with fabric, but now they're mostly covered with mold. There's a few work benches, some old random tools, you know, tongs and knives and things like that. There are some broken bones and other random trash strewn about the floor. And there is a there's also a doorway with the doors, where the door is a jar leading out of the room to your right,
+[1:17:46] Sango / Cregyn: and you said the door is a jar. Yes. Okay, maybe one at a time come up. So pull the head open to let mossy
+[1:18:04] Ian Lurie: up, and you're still silenced as you come up through the door. Is the silence centered on you? Sango, or is it a fixed position?
+[1:18:12] Unknown Speaker(s): It's a fixed position, okay,
+[1:18:15] Ian Lurie: so as you all come up through the trap door, you are no longer within that sphere of silence, just FYI. Oh, it would
+[1:18:23] Sango / Cregyn: be then, then I'm going to cast it again, okay? And I'm going to cast it, I'll tell us the ceiling in this room.
+[1:18:33] Ian Lurie: Ceiling is about 10 feet,
+[1:18:35] Sango / Cregyn: okay, I'm going to cast it on the ceiling, right, so that it hopefully goes up a little bit, and I'm going to cast it because it's 20 foot diameter, I'm going to cast it so it will cover the door, the trap pit or the Secret hatch and into the rest of the room.
+[1:19:02] Ian Lurie: Okay, okay, so it's you've got a fair chunk of the room covered. Then, yep, um, so you're all standing up in the room. Now it's as I described. The floor is clean cut stone, so someone took the time to finish this and polish it. There is an old, mildewed rug on the ground as well. The door, that's a jar. It looks like just a standard wooden door, nothing fancy about it. There are bits of trash all over the floor. And again, this room, there's science. Things have moved through this room recently, but there's no signs that this room has been used for anything recently. The work benches are covered in dust and dirt. The chairs don't look like they've been sat in in some time. There is evidence, though, that some someone has moved from that door that's open to the iron bounds, the iron stairs or back or both over the you know, recently enough that you can see tracks in the dirt and the garbage on the floor.
+[1:20:11] Sango / Cregyn: Hey, Jack, you know what kind of tracks these are?
+[1:20:16] JP Sherman: Yeah, I'm happy to take a look. Okay. Would that be nature or survival? That would
+[1:20:23] Ian Lurie: be survival,
+[1:20:28] Unknown Speaker(s): 12. Okay,
+[1:20:31] Ian Lurie: some are just humanoid, booted feet, things like that. There's a there's some tracks there. It all kind of mushes together, because there's lots of things going back and forth. I mean, you don't see anything really suspicious, but what you do see just looks like, you know, booted feet and the iron bounce, the iron spiral staircase looks like it just goes straight up into the ceiling. There's no hatch. There's nothing.
+[1:21:08] Jamie Indigo: Okay, Sango, since you're invisible, you want to
+[1:21:13] Sango / Cregyn: do you want to do the pass without trace thing? Or did you already
+[1:21:16] Jamie Indigo: do that? Already did that? We got that first.
+[1:21:20] Sango / Cregyn: Okay, then I will go first,
+[1:21:27] Jamie Indigo: okay, then I am right behind Sango.
+[1:21:35] Ian Lurie: All right, like stealthy and
+[1:21:36] Sango / Cregyn: quietly as possible,
+[1:21:38] Ian Lurie: you can money Give me? Why doesn't everybody give me stealth checks as you make your way onto that don't do it onto the steps 1014,
+[1:22:00] Jamie Indigo: okay, Greg and with a plus 10,
+[1:22:05] Rikterr: yes, I have to roll for disadvantage.
+[1:22:09] Ian Lurie: I thought the armor you have now, doesn't you have?
+[1:22:11] Unknown Speaker(s): Mithril, no more disadvantage.
+[1:22:12] Rikterr: No, no, it's not myth roll.
+[1:22:15] Ian Lurie: Oh, that's right, you're wearing the super armor. I forgot.
+[1:22:18] Jamie Indigo: Yeah, well, damn Okay. Well, I got a 31 no, sorry, 41 stealth, yeah,
+[1:22:24] Sango / Cregyn: 13 for Cregyn, and 32 for Sango,
+[1:22:32] JP Sherman: 38 for track.
+[1:22:35] Ian Lurie: Okay, I think you're okay. On the average, I don't think we have too much to worry about here. All right. So as you move to the stairs, you see that this spiral staircase goes straight up through the tower, like it's just the center of the tower. All the way up the tower is not very wide. It is very tall, and it looks like you could just go up these stairs all the way to the very top. The stairs are perforated. They have holes in them. So, I mean, you can't see all the way to the top, but you can sort of get the sense that there is, you know, there's space up above as you make your way up. I you as you step to the base of the stairs, are you still in the same marching order?
+[1:23:30] Jamie Indigo: I think sang goes in front of me because he's invisible.
+[1:23:34] JP Sherman: Okay? I believe I'm taking up the rear.
+[1:23:38] Ian Lurie: Okay. So then drag, you need to give me an 18 deck save, DC, 18 deck
+[1:23:49] Unknown Speaker(s): save, okay,
+[1:23:55] JP Sherman: that would be a 27 okay.
+[1:23:58] Ian Lurie: It's another one of those weird rumbling in the floor, and then all of a sudden, all of those, just like last time, all these arms and limbs of bone and flesh, kind of shoot out of the floor and grab at you, and then they just sort of retreat back into the floor.
+[1:24:14] JP Sherman: All right, let's let them know that the hand the hands are grab it again. Keep an eye out.
+[1:24:22] Sango / Cregyn: Was it loud?
+[1:24:27] Ian Lurie: Not really a little bit of a rumbling and shaking. But one thing I should point out, the sound of the gorges is quite loud even here in the tower, so like the sound of all those bones coming out of the floor wouldn't, would probably not be audible to someone who's, you know, one flight up or two flights up, it was audible to drag, but you know Sango, you didn't hear anything. Okay? And it's about 20, it's about two stories between where you are now and up to the next level.
+[1:25:04] Jamie Indigo: Okay, party line. Hear me out. What if the stealthy ones go up and the not stealthy ones? Well, you can run up there real quick if something goes wrong. But just given the the new jumpy, bony hands, you
+[1:25:24] Ian Lurie: yes, sure now, so I just want to make sure everyone's aware. So if it's 20 feet between floor, between floors, and it's 1234, so that's 80 feet, it would take rikter About at least four rounds to catch up if the stealthy folks are at the top and something happens.
+[1:25:59] Sango / Cregyn: Yeah, I don't like that idea, because this, there's a necromancer hiding around here somewhere.
+[1:26:05] Unknown Speaker(s): Okay, okay, that's a good point.
+[1:26:07] Sango / Cregyn: But what we can do is we can cast silence again. So I will do that to where the bottom is, covering the base of the stairs, where drag is, and then what a it would be basically 40 feet,
+[1:26:27] Ian Lurie: 40 feet. So get you it would get you two stories, assuming that the height is the same between floors.
+[1:26:34] Speaker 2: Are these all one room, like each floor?
+[1:26:38] Ian Lurie: Well, you haven't gotten to the second floor yet, but that's how the first floor was, right? Well,
+[1:26:48] Unknown Speaker(s): we'll just take it one floor at a time. How about that?
+[1:26:51] Ian Lurie: Yeah. Okay, so Sango and Mossy, you two are taking the lead here. Yeah. And who's first Sango
+[1:27:03] Sango / Cregyn: or mossy Sango? Okay, tell me if the light changes from dim to bright at all.
+[1:27:09] Ian Lurie: Okay, the light gets a little bit brighter as you're going up the spiral stairs. You think that could just be because you're, you know, you're moving higher in the tower, and you cautiously get to the top, you know, to the basically to the floor of the floor above. And I'm assuming you carefully, kind of peek over the edge, yep, okay, you see more bases of furniture. Um, hard to tell exactly what you're looking at, but it looks like maybe some chairs and a table and a single round room. There's no, you know, there's no doors in or out. There are those tall narrow windows, the room looks to be maybe, maybe 50 feet in diameter, and it is roughly round, and you're not all the way in the room yet, so you can't see much beyond that. A
+[1:28:30] Sango / Cregyn: little bit farther into the room.
+[1:28:32] Ian Lurie: Okay, this looks like it might be some kind of kitchen. Give me a perception check. Do?
+[1:28:45] Sango / Cregyn: 15, okay,
+[1:28:48] Ian Lurie: yeah, there's a very simple setup in here. There's a stove, there's a table, some chairs, what looks like it might be a larder. There's what the larder, a larder like a like,
+[1:29:06] Sango / Cregyn: a pantry or something. It's like a refrigerator
+[1:29:08] Ian Lurie: before you have refrigerators. Yeah, it's kind of a pantry, but it can have fresh foods in it as well. On the table, there's, you know, a few dishes, some dirty dishes, and it looks like maybe some food that was prepared a while ago and eaten and then brought back into this room. The stove itself doesn't look like it's lit right now.
+[1:29:37] Jamie Indigo: Party line. Hear me out. I could just put a bomb in the fridge and we wait for her to come down.
+[1:29:48] Sango / Cregyn: How good? Thought just a second. How old does that food look like? It's been sitting there.
+[1:29:57] Ian Lurie: Give me a perception. What's What do you have? A cooking skill. Give me a nature check. 18. All right, I'm not really old. You know, it hasn't gone moldy or mildewed. It looks like certainly in the last day.
+[1:30:21] Sango / Cregyn: Okay, it will relay that information over the party line. Okay, what about that bomb we get how are we going to get her to come down the stairs, past us, to open the fridge, the larder, stove, whatever, we just
+[1:30:53] Jamie Indigo: hide behind something and then just pop out and shoot her a bench.
+[1:30:58] Sango / Cregyn: Okay, what in this room do we hide behind?
+[1:31:06] Unknown Speaker(s): It gives a round room, right?
+[1:31:07] Jamie Indigo: Yeah, where does the stairs come down facing
+[1:31:11] Ian Lurie: in the center? They're spiral stairs. Remember, it's open spiral stairs. So just think of iron stairs with a railing.
+[1:31:20] Sango / Cregyn: Which corner of this round room do you want us to
+[1:31:26] Ian Lurie: hide it this one? So, yeah, let me make sure I've described this well enough. This room is rounded in the center of it is this open spiral staircase that runs back down to where you just came from, and then back up through the ceiling again, probably to the next floor.
+[1:31:53] Sango / Cregyn: And there's not really a lot of furniture in here, other than the stove, right?
+[1:31:57] Ian Lurie: Well, the stove table and a few chairs, but, I mean, they're just kitchen chairs right there. They're not very substantial,
+[1:32:02] Sango / Cregyn: okay, so it's not like a closet we can hide in or anything the larder.
+[1:32:07] Ian Lurie: But if you put a bomb in there, I wouldn't hide there. Door open, surprise.
+[1:32:12] Jamie Indigo: Well, then we put the bomb on the other side of the room, away from the larder.
+[1:32:17] Ian Lurie: You're not all gonna fit in the larder. Are we
+[1:32:18] JP Sherman: gonna fit the larder? No?
+[1:32:25] Sango / Cregyn: Okay, should we? Should we keep going up? I just
+[1:32:28] Unknown Speaker(s): want to blow something up. I'm looking for
+[1:32:33] Sango / Cregyn: something for you to blow up. We'll get there. Is there anything on the table before we go up, like paper or
+[1:32:40] Ian Lurie: anything, just the just the food,
+[1:32:43] Sango / Cregyn: Okay, gotcha. Then we'll keep creeping up until we get to the end of the silence. And then we will all like slinky together, and then I will cast
+[1:32:58] Ian Lurie: it again. Okay, everyone give me stealth checks with advantage,
+[1:33:06] Jamie Indigo: and you get a plus 1029,
+[1:33:18] Unknown Speaker(s): 4134 3441
+[1:33:24] Sango / Cregyn: for cregn, natural, 20 for Sango for 41
+[1:33:37] Unknown Speaker(s): okie dokie, nice, high five.
+[1:33:43] JP Sherman: That's the quietest High Five ever I've ever seen.
+[1:33:45] Sango / Cregyn: But hey, we didn't miss that.
+[1:33:50] Jamie Indigo: Been really funny. We missed one of us falls off the stairwells.
+[1:33:57] Ian Lurie: You peer into this room and this appears to be, well, Sango. As you peek up through the the floor on the staircase, you see bookcases coming in inwards, so that this it's as if these bookcases were all spokes on a wheel, and they all, you know, there's at least six or eight of them coming from the walls towards the staircase with just enough room around the staircase so that you can someone can walk around and go between the various shelves, And the shelves are crammed with random scrolls and notebooks. There's some small statues.
+[1:34:46] Jamie Indigo: There's watch Massey's eyes dilate in slow motion. Actually pop goggles down. Gonna use another minute please. All right, I'm
+[1:35:09] Unknown Speaker(s): you don't notice anything
+[1:35:16] Jamie Indigo: for a minute, so it's just the third
+[1:35:19] Rikterr: floor or the fourth floor we're on right now. This is
+[1:35:23] Ian Lurie: the third floor.
+[1:35:29] Rikterr: Rikter is going to look at mossy and say, Hold on a second and you see him grab at his chest near where his heart is, and it looks like he's pulling a string off of his armor. But you know, that's impossible, because there's no string on his armor, and he takes it and he just drops it over your head and cast Death Ward. So God damn it, you ruined a nice romantic moment.
+[1:35:56] Ian Lurie: That was a beautiful I love
+[1:35:58] Unknown Speaker(s): your silky smooth chest hair. Makes me very happy.
+[1:36:01] Rikterr: Thank you. And so for the next eight hours, the first time you drop to zero hit points, you drop to one instead. And if you are the target of an insta kill spell, it's negated, but the death wardens So,
+[1:36:17] Jamie Indigo: okay, so plus these giant TV eyes, and now it's just all Fang smile.
+[1:36:25] Sango / Cregyn: Reagan looks down at his hairless chest.
+[1:36:36] Jamie Indigo: I'm actually gonna then take the lead from you, Sango, because I have death word. Okay, I did.
+[1:36:47] Sango / Cregyn: So let me, let me get this straight. Massey, you did with your goggles. You use the minute. What did you use that for? Was that like detect magic?
+[1:36:56] Jamie Indigo: Yeah, it's a it's true sight. It's true So something was spying on us. I could see it, okay? And you get
+[1:37:02] Ian Lurie: to use that. How often
+[1:37:05] Jamie Indigo: I get eight uses a day. I've used three,
+[1:37:09] Sango / Cregyn: okay, and it was detect magic part of that. No, okay,
+[1:37:19] Ian Lurie: mossy, give me a person. Perception check as you come up the stairs and you look at all of these shelves, and you can't contain yourself, it's just so exciting to see all this stuff here.
+[1:37:34] Jamie Indigo: That's going to be a 17 All right.
+[1:37:40] Ian Lurie: What would you like to do? You see all the books
+[1:37:47] Jamie Indigo: I'm gonna wait until after we do the thing to be a thief. Okay? I'm gonna get my professional thieving out of the way before I get my pleasure thieving.
+[1:37:58] Ian Lurie: Yep, that's fair. That's fair. Give me a DC 15 wisdom.
+[1:38:04] Sango / Cregyn: Save Can I roll an insight check on mossy to see if she's bewitched. All of a sudden,
+[1:38:16] Jamie Indigo: rikter is a good influence on Mossy.
+[1:38:20] Rikterr: Oh, no, remember plus five. Oh, okay, okay,
+[1:38:25] Sango / Cregyn: the 13 inside,
+[1:38:28] Jamie Indigo: it's a wisdom check 15. Okay, I'm gonna burn one of these. Thank you. Flash of genius, so that's going to be a 17.
+[1:38:46] Ian Lurie: Okay, you just step past the threshold of the stairs that you're now fully on this story, and you feel all the muscles in your body start to lock up like you're not going to be able to move in a minute. And then it passes and you can move. And you turn, and between two of the shelves to your right, there's basically a jar on four spindly, wiry metal legs, and in the jar is floating what you assume to be some kind of humanoid brain. And then coming out of the jar are two, again, kind of wiry, spindly arms that are in emotion, as if they were just casting a spell on you, and it kind of freezes and goes and it has no face, so you can't see its facial expression. But you know a, oh shit, I've been caught when you see one, and everybody can roll initiative.
+[1:39:57] Sango / Cregyn: DIA, did the caster need the verbal portion of a spell for that.
+[1:40:06] Ian Lurie: Let's see here. No, not this particular caster. Okay,
+[1:40:16] Jamie Indigo: okay, you're going to dice jail for a little bit. Come back when you love for me.
+[1:40:22] JP Sherman: Initiative is 22 but I'm in the back of the pack. Yeah.
+[1:40:34] Jamie Indigo: Richter, you're my initiative is seven.
+[1:40:38] Rikterr: Mossy is a seven, but you'd go definitely before me.
+[1:40:44] Jamie Indigo: I like to think I just have attack eyes that are fully locked in this little creature right now, and it's gonna take me a second to get over the joy.
+[1:40:51] Ian Lurie: Yeah, yep, that sounds right. Cregyn
+[1:40:58] Sango / Cregyn: Reagan has a 17. You got a natural 20, but you know numbers, and Sango has an eight.
+[1:41:12] Ian Lurie: Well, I'll tell you that my guy has a minus five to initiative, so he'll go last drag. You're at the back. You don't actually even know anything's happening just yet. So mossy, we're going to jump right to you, Sango, we're going to assume you're just down the stairs from mossy so you see mossy turn and you know something's going on. But mossy goes before you, because she has, she has a seven, you have an eight. You just, you're not quite in a place where you can, you can move just yet. So mossy, what would you like to do? The brain in a jar is that is literally what this creature is called, by the way, a brain in a jar, the brain in a jar is about 15 feet from you.
+[1:41:59] Jamie Indigo: Yeah, no, no. Mossy is fully going into attack guys and is about to make a pouncing jump. Okay, holding the bag of holding, and we're just gonna, I want, it's a
+[1:42:09] Ian Lurie: little little too big for the bag of holding, because it's a huge jar. The jar is, like, the jar is as big it's this. This is a medium sized creature.
+[1:42:17] Jamie Indigo: Oh, okay, yeah, okay. Well, brains are not that big, man, you gotta be.
+[1:42:21] Ian Lurie: Yeah. No, you're right. You're right. But no, it is a medium sized creature.
+[1:42:25] Unknown Speaker(s): Okay, darn it. You know, I still
+[1:42:34] Jamie Indigo: think it's cool. So this is gonna try and do it. I'm assuming this thing, if it's not requiring verbal, it has to be able to see what it's casting on. So I'm going to do my jumping pounds and use my cloak to Blind him. We're gonna, we're gonna buffalo, or we're gonna, we're gonna pull a drag. We're gonna try and jump onto the thing.
+[1:42:54] Ian Lurie: Okay, um, let's see. To do that, I will need you to make an athletics check first of all, to land on its head. Acrobatics, no, this would definitely be athletics, okay. And then, depending on how well you do that, that will impact your attack. Okay.
+[1:43:22] Unknown Speaker(s): Fuck. I'm guessing it wasn't great. It was not okay.
+[1:43:32] Ian Lurie: But yes, five, it was a five, okay, so now give me an attack at minus five.
+[1:43:39] Jamie Indigo: Okay, we're gonna try a different dice, and that's an intra one.
+[1:43:47] Ian Lurie: Okay, so mossy you go, you you make this incredible leap towards the brain in a jar. And you can actually see the jar kind of tilt upwards as you jump towards it. What you miscalculate is this jar is extremely smooth glass, so as you go to throw your cloak over the jar, you just slip over it and land on all fours, just like you should. You know it looks intentional, but you did not gain any purchase. So nothing bad happened to you, but you didn't manage to throw the cloak over it. Sango, you can go now
+[1:44:25] Sango / Cregyn: I will walk up until I get a view of the thing, okay, and then it will shadow step next to it, okay? And pop, pop, okay.
+[1:44:41] Jamie Indigo: Punch him in the glass. Yes, here's my inspiration for the leaping attack.
+[1:44:55] Sango / Cregyn: That's a 24 and 22
+[1:44:59] Ian Lurie: that hits the shit out of it. Yeah, it can't. It's not really that good at, you know, dodging things.
+[1:45:08] Sango / Cregyn: Okay, so that is nine damage the first one and seven damage the second one. Okay, and then I'm gonna try to stun it, okay? And that's a con save it's got to make 19. 18,
+[1:45:44] Ian Lurie: okay, it makes it.
+[1:45:47] Sango / Cregyn: Does it look like it? The study strike tried to make purchase.
+[1:45:55] Ian Lurie: Oh, yeah, yeah, no, you dumped it really hard. It and it kind of it reeled back and shook itself and didn't end up stunned. Okay, gotcha, it doesn't look like it just had no impact at all. Gotcha.
+[1:46:15] Jamie Indigo: Tank is really hamming it up for y'all. I hope you're appreciating this.
+[1:46:20] Ian Lurie: That's quite the leg pose.
+[1:46:24] Jamie Indigo: He's going for a full Renaissance bag.
+[1:46:29] Sango / Cregyn: I think that's all I got then.
+[1:46:30] Ian Lurie: Okay, so after you let's see given the marching order, the next person who'd be able to move would be Cregyn. Cregyn, and then rikter.
+[1:46:43] Sango / Cregyn: Okay, well, cregn had a 17 on his initiative. So he will, he will go up the stairs, and
+[1:46:50] Ian Lurie: then just let me know if you get off the stairs, because if you do that, clears room for rikter to come up as well.
+[1:46:56] Sango / Cregyn: What's the I have a 30 movement. I think,
+[1:47:01] Ian Lurie: yeah, you don't have that far to go, so you could get just to the top and then step to the side.
+[1:47:06] Sango / Cregyn: Okay, that's what I'll do.
+[1:47:08] Ian Lurie: Thanks. We're doing theater of the mind here, so benefit of the doubt
+[1:47:13] Sango / Cregyn: that I'm going to attack it with my ax. Am I close enough to attack
+[1:47:16] Ian Lurie: with Max? No, you're not quite far away. Is it? Is about 15 feet away.
+[1:47:23] Sango / Cregyn: Do I have enough movement to
+[1:47:24] Ian Lurie: get there? No, no, you got to the top of the stairs. You step to the side. That was as far as you could get.
+[1:47:30] Sango / Cregyn: Okay, oh, that's as far as like, Okay, gotcha well, then what else can I do? Ah, you know, I'm going to use one of my I'm going to use one of my steps of the night. That's a bonus action, okay? And you see him just hover a little bit, all right? I'm
+[1:48:04] Ian Lurie: and that's it. You're all set, yep, and you can do steps in the night without verbal, yeah,
+[1:48:10] Sango / Cregyn: it's a it's not a spell, it's up, yeah,
+[1:48:12] Ian Lurie: okay, all right. Rikter, your turn.
+[1:48:18] Rikterr: All right. He How far does he have to go to get up the stairs? Now that Cregyn is out of the way,
+[1:48:25] Ian Lurie: 30 feet will get you to the top, but you won't be able to get off the stairs. Okay, so and you can see all 360 degrees once you're once you're there, because they're open stairs.
+[1:48:39] Rikterr: Okay, then I'm going to use the dash action to get all the way up.
+[1:48:44] Ian Lurie: Then, okay, all right, so you're up off the stairs, and you can actually end up wherever you want. You can be right by the right by the brain if you want to be,
+[1:48:56] Rikterr: oh yes, I'm going to get up in the brain's face,
+[1:49:00] Ian Lurie: face in the brain space, question mark. So drag. Now it's your turn. You can move your 550,000 feet, if you'd like.
+[1:49:12] JP Sherman: I've got a 55 foot climbing speed, okay, but I'm not gonna, I'm not gonna go into range. Okay. I'm gonna take first thing I've ever seen anything like this. First thing I'm gonna do is, I'm gonna just do a what is it called sacred flame?
+[1:49:34] Ian Lurie: Does that have a verbal component? I believe it does.
+[1:49:40] JP Sherman: Let me Delta check it is verbal,
+[1:49:43] Ian Lurie: yeah, so you can't use it. Oh, shit.
+[1:49:45] JP Sherman: Is it because of Cregyn?
+[1:49:48] Ian Lurie: It's because you're silenced, yeah.
+[1:49:51] JP Sherman: Oh, for fuck sake. Well, burns that.
+[1:49:54] Ian Lurie: Okay. Okay, so you get to the top of the stairs, you go to cast a spell, and nothing happens. And then you realize, oh shit, I'm silenced. The brain turns towards you guys. And let's see. I think everyone is upstairs at this point, actually, so you all need to
+[1:50:21] Sango / Cregyn: Reagan would be on, or excuse me, Sango would be on the other side of it,
+[1:50:24] Ian Lurie: if that matters at all. Oh yes, it does. It matters a lot. So everyone accepts Sango. Give me a DC 15 intelligence saving throw.
+[1:50:34] Rikterr: Remember, everyone plus my mustache.
+[1:50:40] JP Sherman: No
+[1:50:41] Ian Lurie: shit. Okay,
+[1:50:46] Jamie Indigo: I cancel rebarbs, shit.
+[1:50:51] Ian Lurie: Everybody else earlier saves,
+[1:50:54] Jamie Indigo: yeah, sorry, 15,
+[1:50:59] Sango / Cregyn: okay, 17 for Cregyn, okay,
+[1:51:06] Ian Lurie: mossy, what'd you get?
+[1:51:08] Jamie Indigo: 30. Okay,
+[1:51:10] Ian Lurie: so drag you take 20 points of psychic, and you are stunned for one minute at the end of each of your turns. After this though, you can save again and try to and end the end the stunned effect. Okay, so we're back around to the top, and now we're at normal initiative. So drag, if you want, you can now make, make your save. It's at the end of your turn. So if you save this time, you're no longer stunned, but you can't do anything.
+[1:51:46] JP Sherman: Intelligence, 11,
+[1:51:51] Ian Lurie: okay, still not, still not back. So let's see. So with the was that
+[1:51:59] Sango / Cregyn: address or rikters, plus four or five. Cregyn Hill uses mass maker x. That's 11.
+[1:52:23] Ian Lurie: Okay, that hits, oops, not much armor class when your brain in a jar.
+[1:52:32] Sango / Cregyn: Well, if you remember that, that is five, whatever blood slashing and eight radiant. All right,
+[1:52:55] Ian Lurie: you actually, so when you bring the AX down on it, there's that little flash of radiant and a crack appears in the glass, and some fluid starts to leak out. If a brain could look concerned, it would look concerned right now. But since it can't, you can't actually tell.
+[1:53:17] Sango / Cregyn: And by the way, I did that from hovering over him.
+[1:53:21] Ian Lurie: Okay, okay, Sango pop up all right.
+[1:53:36] Sango / Cregyn: Is a a 18 and 18 and a 16, okay, those both hit that is eight damage and 12 damage.
+[1:54:01] Ian Lurie: Okay, there's a whole bunch of cracks now, starring out as Sango fists kind of pummel this thing from the other side. The whole figure, this whole bizarre figure, its limbs are kind of flailing around. It has four because it has four legs. It's very solid, like it's not going to fall over, but you can see that it's definitely, it's getting pummeled pretty badly. Mossy and rikter, I pretty sure mossy has the higher deck, so you go first.
+[1:54:33] Unknown Speaker(s): Yes, okay,
+[1:54:36] Jamie Indigo: so because I have allies within five feet, I get sneak attack. Kiss, correct, brilliant. All right, I'm going to take a nice little dagger, my Rogue's blessing one. So that is a dirty 20 to hit, all right, and my sneak attack is now 5d, six, yeah, I think that's beautiful,
+[1:55:03] Ian Lurie: yeah, high level rogue,
+[1:55:06] Jamie Indigo: 1521, 2427 All right, and then, because I can stab it again, I Will though that's making it a natural one, though, was one of the cheap daggers that I bought from the gift shop. It just
+[1:55:27] Ian Lurie: snapped it just so you you managed to jab a dagger right into one of the cracks that Sango just made in it, and you pull that out, and then you have a dagger in the other hand, and you go to hit it, and the Dagger just kind of goes ping off the glass because you didn't get the right angle on it. Rikter, what would you like to do?
+[1:55:53] Rikterr: All right, I'm gonna pop it twice with Bastion. All right. See first hit is 26 to hit, and the second is a 28 to hit.
+[1:56:09] Ian Lurie: Those definitely both hit. Ian
+[1:56:46] Rikterr: it 36 points of damage, radiant damage,
+[1:56:51] Ian Lurie: okay, you bring down Bastion on the jar, just in a huge overhead swing, and you hit it the first time, and this huge crack appears all the way down the glass. You bring the AX up, you bring it down again, and the glass just shatters. The brain slips out and kind of falls onto the floor with this weird, wet, squishy sound. And your AX, the blow with your AX that just shattered the glass just continues, and you end up splitting the brain in half on the floor, and it kind of flops around. It twitches briefly, and then it stops moving, and the entire apparatus just kind of collapses to the ground like it was a puppet with all the strains that just got cut
+[1:57:33] Jamie Indigo: shove into bag. Are they gonna smell enough parts now?
+[1:57:38] Ian Lurie: Yes, if you want to you could fit all
+[1:57:41] Jamie Indigo: those, of course, I want to steal the walking brains legs, okay,
+[1:57:48] Ian Lurie: yes, the brain in the jar is, well, it's no longer a jar, I don't Know. And just as you finish combat mossy, you see, do you have the goggles down or up?
+[1:58:08] Jamie Indigo: I've had them down for a minute, so if that took longer than a minute,
+[1:58:11] Ian Lurie: no, it did not okay, then they're still down. Stepping from behind one of the shelves, invisible is a robed figure, and as it steps around the shelves, you first see these gray scaly hands with these claws on the end, and then these two piercing red alien eyes that you just know don't have any like no connection to this reality.
+[1:58:46] Unknown Speaker(s): Can I verify that? Now, sure,
+[1:58:49] Jamie Indigo: but before actually, don't think I can, because
+[1:58:52] JP Sherman: silence, yeah, yeah, no, that's right.
+[1:58:57] Ian Lurie: And then, to your absolute horror, you also see four large tentacles extending from its face as it turns and looks at you, and you immediately recognize that this is a mind flare that has just stopped. Oh, shit, the shelves and, well, okay, give me a
+[1:59:27] Jamie Indigo: party line. It just
+[1:59:36] Ian Lurie: steps around. It doesn't do anything. It's it's looking at all of you.
+[1:59:43] Rikterr: The master is the only one who can see it, right,
+[1:59:46] Ian Lurie: correct? Okay.
+[1:59:50] Jamie Indigo: There is a mind player at the end of the book shell right now, and you hear a straw hole is tingling.
+[2:00:02] Ian Lurie: You all hear a voice in your head. It says, Do not be alarmed in that low, growly kind of voice that you've heard before, I am not going to attack you. And then the invisibility drops, and you see standing there a single mind flayer in a in a tattered red robe. And it doesn't look quite right for a mind flayer like you know, mind Flayers usually have sort of this greenish bluish tinge to them. This one is just gray. Its flesh is just gray, and its eyes are, as I said, They're glowing red. They're not you know that what you've seen before in a mind flayer, something's off about this
+[2:00:56] Unknown Speaker(s): mind flayer, undead mind flayer, you don't know
+[2:01:04] Jamie Indigo: party line. Richard mind flayer,
+[2:01:12] Rikterr: sorry for being startled. Our last experience with the mind flayer was was not a, not a good one. And wait, hold on, we're all silenced. I can't I'm talking in my head. Never mind. I just realized
+[2:01:28] Ian Lurie: that well, and it's, it's, yeah, it was talking in your head as well.
+[2:01:31] Rikterr: Yeah. So can we know your name, please.
+[2:01:38] Ian Lurie: I am a Shinto Shindo.
+[2:01:43] Rikterr: Pleasure to meet you. I am Richter shepherd, and these are my friends. And just ticks off everyone's names, ticks off everyone's names, and then says, I Why don't you have any hostilities towards us?
+[2:02:08] Ian Lurie: You are not my concern now, unless you serve the owner of this place, the DWELLER here, but I do not get the sense that you do or you would not have destroyed the construct.
+[2:02:29] Rikterr: No, we are definitely not working for her, not friends with her. If you're not friends with her, what are you? What are you doing here?
+[2:02:43] Ian Lurie: I am here to take her knowledge, knowledge she should not have.
+[2:02:57] Jamie Indigo: Did you need to rely for that?
+[2:03:01] Ian Lurie: What did you say?
+[2:03:02] Jamie Indigo: Did you need to arrive for that? No, okay, cool.
+[2:03:07] Ian Lurie: There's somewhere in this library, there is a book, if it is in the library and not in her possession, and I must remove that book.
+[2:03:18] Jamie Indigo: I'll keep an eye out what book you're looking for. I
+[2:03:27] Ian Lurie: It is a book that teaches the making of a monster, and that is what she is currently about, huh?
+[2:03:37] Jamie Indigo: Ian Ritter will fuck that up, making him a monster. Gonna guess there's diagrams and stuff. Oh, is this? Is this a recipe from the book I take like a leg out of the bag of holding this?
+[2:03:50] Ian Lurie: She has been experimenting for some time, and I suspect many of her experiments move about this place. I'm surprised you've come this far without being, without interrupting or happening upon any of them, unless they are all upstairs.
+[2:04:11] Rikterr: While this creature is talking, rikter is going to burn one more Divine Sense to see if mossy is right about this being an undead creature.
+[2:04:23] Ian Lurie: This thing is undead as fuck.
+[2:04:27] Jamie Indigo: This insight check on this guy,
+[2:04:30] Ian Lurie: sure you can do a disadvantage because it's a tentacled undead alien creature with no facial features,
+[2:04:38] Jamie Indigo: a natural 20. Oh, all right, fine. No, I got a natural 20 the first one. I got a 15 the second so with my modifier, that is a 22 okay, fucking insightful
+[2:04:52] Ian Lurie: does not appear to be lying. I mean, it's very hard to tell, because, like I said, this thing has no no facial features that you can read, but it had the drop on you and didn't choose to use it, although it may just be smart enough to know that it would have gotten its ass kicked, but it does not appear to be lying to you.
+[2:05:21] Jamie Indigo: Hey, if you want to go back into the stealth mode and like, get a couple of cheap shots off while we're on this you're welcome to join.
+[2:05:30] Ian Lurie: I cannot cast further spells within this area that you have created.
+[2:05:38] Unknown Speaker(s): How are you with the crossbow? I I'm
+[2:05:44] Jamie Indigo: I'm inclusive. We made a new friend.
+[2:05:47] Ian Lurie: His tentacles kind of raised, and he says, This is my primary mode of attack, fair enough. You actually briefly can almost remember the sensation of the tentacles wrapping around your head as the thing tried to try to extract your brain.
+[2:06:07] Jamie Indigo: And the new friend's so creepy. New certain
+[2:06:09] Ian Lurie: so creepy. Yeah, and make room for a tadpole.
+[2:06:14] Rikterr: You'll forgive my line of questioning that's coming up. I'm someone who serves life, and it's easy to tell that you are an undead creature. If we were to make sure that you get this Book of Monsters, how do we know that you won't use it for nefarious means? What I mean to say is, wouldn't it be best if we just destroyed
+[2:06:44] Ian Lurie: it. This book is a book of a monster. It is the process to create a single body into which one can transfer one's consciousness, one soul, as it were, and by doing so, attain immortality. I have already obtained. I've already attained immortality. I do not need the contents of this book. We simply wish to ensure that she and others like her do not gain possession of it again.
+[2:07:19] Jamie Indigo: I feel like it all mutually agree that one's beneficial.
+[2:07:30] Rikterr: Where will you take the book once you get it
+[2:07:34] Ian Lurie: to my own stronghold, to my library. It is not on this dimension, not on this plane.
+[2:07:46] JP Sherman: All right, I think that's
+[2:07:51] Rikterr: that's okay. Is there anything you can tell us about what's coming up so that we're not caught off guard by another one of those types of creatures.
+[2:08:06] Ian Lurie: I have not been above this floor. This is where I have done all of my searching. I know that she keeps numerous undead creatures with her as guards and servants, and if you have not seen them yet. That means there are more of them above. I also know that these stairs are trapped in places with varying glyphs and mechanical traps. Again, you've been very fortunate to come this far without triggering any
+[2:08:40] Rikterr: Well, we've gotten grappled by some bones. Do you know what those are?
+[2:08:48] Ian Lurie: That is the bone wake surge. That is not a trap. That is that just happens close to the gorges.
+[2:08:55] Rikterr: If you're outside, it's just creepy as shit.
+[2:08:57] Ian Lurie: Yes, in a manner of speaking, if you are outside silgoren, there are certain things that the gorges ways the gorges influences the land around it, the the bone wake surge, the an almost irresistible desire to leap into the river sticks itself, haunting spirits there. There are several different things that can happen. That's just the nature of this place. Fucking Falcons. I'm sorry, what?
+[2:09:30] Unknown Speaker(s): Oh, did you not talk to the lizards on the way here?
+[2:09:32] Ian Lurie: I did not speak with any lizards. No, they like jerky. Doesn't appear to be any sense of humor on this guy. Creatures you might see here. I know that she keeps whites and zombies with her. Outside of that, as I said, some of her experiments must be about here somewhere. I
+[2:10:03] Rikterr: Oh, all right, well, we're gonna keep moving. You can search for your book. I hope you find it. And yeah, they've there's some books for Master. She really loves to learn.
+[2:10:19] Ian Lurie: Of course, the head kind of dips slowly, says, I will, I will remain here. I have no intention of engaging this creature in battle if I can avoid it.
+[2:10:39] Rikterr: Well, it was, it was wonderful to meet you. I have to say, this is the most wonderful interaction I've ever had with an undead creature.
+[2:10:47] Sango / Cregyn: Go says, or excuse me, Cregyn says, Is there any help you can give us? I'm going up above.
+[2:10:54] Ian Lurie: No, I cannot cast any spells. And I suspect that you are more capable than I.
+[2:11:05] Jamie Indigo: I could check for trap, least the mechanical ones, and I'm pretty much and I got the death words. So I'll take point
+[2:11:15] Sango / Cregyn: this whole time, as soon as was possible, Sango turned invisible, jumped to the other side of a book stack and started rummaging through stuff while he was listening,
+[2:11:28] Ian Lurie: okay, give me an investigation check.
+[2:11:38] Sango / Cregyn: That is an eight.
+[2:11:41] Ian Lurie: Okay, you find some random notes and drawings, a couple of little statues that you think she's just using as sort of as bookends to hold stuff up. The notes, you know at a glance don't make a ton of sense, and the drawings are the same. They appear to be drawings of Anatomy of different creatures, humanoids and other otherwise, there may have been maybe some kind of shorthand or something that you don't totally recognize. That
+[2:12:30] Rikterr: All right, let's get moving book
+[2:12:33] Jamie Indigo: shopping without me, by the way, when
+[2:12:34] Ian Lurie: you make that jump the the Al hoons eyes do track you. I The undead, the undead mind flayer,
+[2:12:48] Sango / Cregyn: great, okay, well, that's disappointing, but okay, they have true sight, right?
+[2:12:55] Rikterr: Let's keep it going. All right, so what
+[2:13:01] Ian Lurie: is your marching order now
+[2:13:03] Jamie Indigo: I'm at the front.
+[2:13:04] Ian Lurie: So mossy, Sango cregn. Rikter Drake, mossy, Sango Richter Cregyn, or what?
+[2:13:14] Rikterr: Yes. Rikter cregn, track, okay.
+[2:13:17] JP Sherman: Track eventually comes to the fuck just happened?
+[2:13:22] Ian Lurie: I You were stunned. So you actually knew what was going on. You know, you could have been rolling. Saves this whole time.
+[2:13:30] JP Sherman: Yeah, more fun.
+[2:13:32] Sango / Cregyn: The rest of us just forgot about it. Somebody should bring drag. He's been just,
+[2:13:40] Jamie Indigo: just pick him up from over your shoulder.
+[2:13:45] Ian Lurie: Okay, you climb up into another room. Are you just you're just walking in. What are you doing?
+[2:13:56] Sango / Cregyn: Same thing, silence and creeping along.
+[2:14:01] JP Sherman: Okay. Can we drop the silence once we if we start a fight,
+[2:14:07] Sango / Cregyn: maybe, why would you want to alert somebody way up at
+[2:14:11] JP Sherman: the top that we're here, though, when we, when we start a fight, drop the silence, right?
+[2:14:17] Sango / Cregyn: What if, while I'm invisible, I just boop you and your nose will start by, should I drop it dead?
+[2:14:26] JP Sherman: That's even slightly more confusing. Dudes think is right.
+[2:14:32] Sango / Cregyn: Always good.
+[2:14:34] Ian Lurie: Mossy while, while this is going on you as you go up the spiral stairs, notice you just a faint, the faintest, weird kind of glow on one of the stairs, and you Stop and give me a perception check.
+[2:14:55] Unknown Speaker(s): Come on, perception
+[2:15:03] Jamie Indigo: Oh, I'm gonna burn it 15.
+[2:15:11] Ian Lurie: Okay, so you're looking at this, and you look at it, and you kind of cock your head at it, and then you think, No, there's nothing there. And you step and as you do, Ian
+[2:15:23] Jamie Indigo: checking for traps on the way up.
+[2:15:24] Ian Lurie: I said that earlier. That's fine. That's fine. Okay. This is arcane, and you did, you know, your passive perception let you see that there was something wrong, but it wasn't quite enough. So you step on, you step on the stair, and there's this brief kind of thudding sensation in your chest, and you get sprayed with acid for 24 points of acid damage. It was a Glyph of warding
+[2:16:00] Jamie Indigo: party line that was rude,
+[2:16:02] Ian Lurie: and let's see who's right behind you, Sango. Sango, you also take,
+[2:16:08] Sango / Cregyn: do I get a
+[2:16:10] Ian Lurie: save or anything? No, no, not from this.
+[2:16:13] Sango / Cregyn: What if I have evasion
+[2:16:15] Ian Lurie: still just hits. Evasion is for Dex based saves. There's no There's no save. There's no deck save for this. What if I'm invisible? You are. You are nicely, you guys brief, briefly see this sizzling visible form that then quickly disappears.
+[2:16:35] Sango / Cregyn: And how much damage was that? 24 okay.
+[2:16:42] Ian Lurie: Yeah. That was pretty rude. Off to explain this, this method for random encounters that I'm using now that's actually working pretty well. All right, you okay?
+[2:17:08] Jamie Indigo: I have five minutes left on the goggles, and at this point, we're just gonna keep it down. Five long it takes. We have five minutes left. Eight a day. We've used three. Oh yeah, yeah.
+[2:17:19] Ian Lurie: Five uses. Okay, cool. Well, that's good, actually, because as you move up, you see another glyph, and you just step right over it, and you get everyone else stepping over it, and it's no problem. You get to the next floor, and you cautiously peek up over the edge of the floor, you see the legs of at least one desk, a bunch of chairs, maybe a larger table, and that's all you can see from your current vantage point. Well, if you look straight up, you see the stairs continuing to go.
+[2:17:56] Jamie Indigo: I have a mirror in my bag. Can I take that out and use that to get a purview?
+[2:18:00] Sango / Cregyn: Sure and What? What? What floor are we on?
+[2:18:08] Ian Lurie: You are on the 123, 4/4, floor.
+[2:18:14] Sango / Cregyn: Okay, we're on the fourth floor. Okay, it still goes up from here.
+[2:18:19] Unknown Speaker(s): One more,
+[2:18:22] Ian Lurie: actually, shouldn't, yeah, I misspoke. You're at the top of the stairs here. Okay, you're correct. There is an attic, but you're at the top of the stair the spiral.
+[2:18:32] Jamie Indigo: Yeah. So do I see if I use the mirror to look around, yeah. So you
+[2:18:36] Ian Lurie: pivot the mirror around, and you see a desk with a few pieces of paper and some ink on it. You see some chairs. You see a very large table, and on that very large table rests a humanoid figure, unmoving. You can't see much more with the mirror because of the angle, and you also see a cot at the other end of the room. Oh, who wants to
+[2:19:04] Jamie Indigo: take bets on if there's a monster in the cot and that body has transferred, all right, I'm gonna, I'm gonna share this. I'm like, I'm gonna, I'm gonna try and move in and stay low and get behind something like behind the desk so I can take more of a look.
+[2:19:24] Ian Lurie: Okay, give me a stealth check.
+[2:19:28] Jamie Indigo: It'd be delighted, sir. Yeah, I figured you would be 35 How?
+[2:19:36] Rikterr: How long does Pass Without a Trace?
+[2:19:38] Jamie Indigo: Last? No. 4545 that last, and
+[2:19:45] Ian Lurie: according to mine, you have another 10 minutes
+[2:19:48] Rikterr: on it. Sweet. Thank you.
+[2:19:50] Ian Lurie: Yep, you are so stealthy that you you kind of flow up from the stairs and behind the desk. And as you do that and you turn, you notice there are three figures in the room. All of them are tall, extremely thin, like almost emaciated, wearing armor. Long, lank black hair, you know, almost greasy, unwashed hair, a faint blue glow from all around them and from inside of these eye sockets where there's skin that's stretched over these cadaverous looking faces. And they all have wear swords in their belts, and they all have some kind of armor. They're all wearing some kind of spiked armor on them, and they're just standing without moving.
+[2:20:50] Jamie Indigo: Okay, so party line back down. We got three undead. I think we have the Necromancer on a cot.
+[2:20:57] Ian Lurie: What makes you think they're undead?
+[2:20:59] Jamie Indigo: Oh, maybe I'm judging people too quickly. This is what they look like.
+[2:21:10] Ian Lurie: And I'm sorry one of the figures is not wearing armor. Actually, one of the figures is wearing a robe. Same is
+[2:21:21] Jamie Indigo: the mute spell still an effect here?
+[2:21:23] Ian Lurie: The silent spell is still in effect, perfect.
+[2:21:26] Jamie Indigo: So I'm party lining this all back. Definitely appears to be one that is a spell caster, so we probably should take that one
+[2:21:35] Ian Lurie: down first. I'm assuming that you're you've been moving the silent spell up with you. Yep. Okay,
+[2:21:45] Jamie Indigo: I don't have any spells I can do with the silence on
+[2:21:53] Ian Lurie: Rick rikter, I believe actually they're called vitality impaired at this point,
+[2:22:01] Rikterr: but fuck you for being smarter
+[2:22:03] Ian Lurie: than me. You know, I spent a great deal of time counseling the vitality impaired, so I had to learn the right anyway.
+[2:22:15] Jamie Indigo: What else can I see? I see the three people. Can I see
+[2:22:19] Ian Lurie: what's in the cot? The cot is empty, but it looks like someone was sleeping there recently, the blankets are thrown back, and then on the table is what must be it's actually the Al Hoon called it a monster, but doesn't look like a monster. It's a very exquisitely formed and constructed humanoid figure of no apparent species or gender, but not monstrous looking.
+[2:22:53] Jamie Indigo: Y'all, if I was a betting cat, this bitch just put herself in a new goddamn body. You
+[2:23:06] Ian Lurie: you go to school, when you come back,
+[2:23:12] Unknown Speaker(s): you're a monster. So
+[2:23:16] Jamie Indigo: what do you want to do? Soon as you come up, they're going to see you, unless you're invisible. So I think Sango, you can get up in here too. Do I see anything glowing around with the eye down?
+[2:23:27] Ian Lurie: Anything blowing around?
+[2:23:29] Jamie Indigo: No, you do not. Glowing.
+[2:23:30] Ian Lurie: Oh, glowing, glowing. You don't. However, as you're staying hidden, a shape comes in from so there's two doorways here, one to your right, one to your left diagonally and coming in from the one to your left diagonally is this bizarre looking creature. It's maybe nine feet tall. It has to stoop down to come through the doorway, and it appears to be a figure formed of bits and pieces of living creatures or dead creatures, as the case may be. So instead of an arm, it has several arms that wrap around each other into the shape of an arm for a head. It doesn't actually have a head. It's a whole bunch of of hands and arms and other random bits that are kind of stuck together. Its legs are these three thick limbs, built of many legs that have been stitched and formed together. Its other arm is just this large, shapeless mass. Think of Akira, but at smaller scale, made of lots and lots of little bits. It just kind of thumps through the door and the whites look over at it, and then just look back directly in front of them, and it thumps through the door, turns left and then thumps through the other door.
+[2:25:13] Jamie Indigo: Yeah, y'all just got the play by play of all of that.
+[2:25:21] Sango / Cregyn: That that that brain down below was there a name on the jar?
+[2:25:28] Ian Lurie: No, it was not labeled.
+[2:25:31] Jamie Indigo: That's rude. If you love them, you put a color.
+[2:25:34] Ian Lurie: Actually, it said Mac raining.
+[2:25:38] JP Sherman: I was thinking Giuliani, yeah, didn't
+[2:25:42] Sango / Cregyn: I was going with Abby, normal.
+[2:25:53] Ian Lurie: Okay, what are you doing?
+[2:25:57] Jamie Indigo: I am waiting eagerly to hear what we're doing.
+[2:26:00] Sango / Cregyn: Okay, so, the which door did it come out of, and which door did it go into? It came
+[2:26:07] Ian Lurie: out of the well, I mean, it's hard to describe, but it came out of the door that's diagonally to the left, and went left and it went out the door that's diagonally to the right.
+[2:26:19] Sango / Cregyn: Okay, so in the map that we have, if it's accurate, it went into the attic room, the room that goes
+[2:26:29] Ian Lurie: up to the attic, actually, no, it came out of the room that goes up to the attic. Okay with the
+[2:26:33] Sango / Cregyn: other one? Okay, just try to get that
+[2:26:35] Ian Lurie: clear here I can.
+[2:26:40] Sango / Cregyn: Okay, Sango is gonna creep up.
+[2:26:43] Ian Lurie: Came out of here and went into here. I forgot you have all this stuff. So, yeah,
+[2:26:54] Sango / Cregyn: that is completely opposite of what's on our map.
+[2:26:57] Ian Lurie: Yeah, well, that's I this map's just this map is isometric. It's just drawn a
+[2:27:02] JP Sherman: different way, so Mossy. Did you? Did you see the pouch that we're that we're trying to snatch? Oh, did I see the pouch?
+[2:27:10] Ian Lurie: No, but you also have, don't think you've seen Obaris yet.
+[2:27:15] Jamie Indigo: The body on the cot or the other body is not her, the
+[2:27:18] Ian Lurie: body on the table, it's just lying. They're not moving. If it is her, she's either playing dead or she's not.
+[2:27:25] Speaker 2: Oh, she's in the monster I'm clever to Maxie.
+[2:27:30] Ian Lurie: Could be I am going to it's not wearing any clothes or anything.
+[2:27:36] Sango / Cregyn: Sango is gonna sneak up next to Mossy.
+[2:27:42] Ian Lurie: And Sango, are you invisible?
+[2:27:44] Sango / Cregyn: Yes, and that would be a 39 stealth, okay,
+[2:27:58] Ian Lurie: this is basically sandblasting suit crackers. These creatures are not even close to your power level. Okay, so Pass Without a Trace is now down, unless you want to put it back up, which you can't, because you're silenced, so Pass Without a Trace is now down. So you got that 138 and from now on, no plus 10 to your stealths. Oh, actually, no, it's on your it's on your weapons. So if you want to Jamie, you can reactivate it.
+[2:28:35] Unknown Speaker(s): Okay, then I will
+[2:28:36] Ian Lurie: okay, because there's no verbal component required. So as you are all as you're sitting there, a figure comes in from the room that the zombie clot just walked into. It's an older looking woman, slight twist to her her spine that you can see she's carrying a staff that she leans on as she moves across the room. In one hand, she's carrying a small glass bottle with some kind of substance in it, and Massey you're hiding behind the desk. Okay, so I'm going to assume you're crouched all the way down. You're making yourself small as possible. And she with this almost kind of shuffling gait, and she's wearing that these really drab robes. She's disheveled. She just she does not look like she's done much of anything to and you look around this room too, and it also looks, it looks like a room of someone who's so, so maniacally focused on their task that they're just not dealing with anything else. Do you know what I mean? She's not taking care of herself. She's not taking care of this place she, you know, eats because she dies without it, and that's it. She's just doing, you know, other than that, she's going about her business, trying to complete what must be her project. And she moves over towards the table and begins applying this potion to very various parts of the head and the shoulders of this body, and she's not appear to notice you.
+[2:30:29] Jamie Indigo: We are not silenced, correct?
+[2:30:31] Ian Lurie: You are silenced. We are as far as I know, you are currently silenced. Am I right? Yep.
+[2:30:40] Unknown Speaker(s): Okay. So guys about that fucking plan,
+[2:30:48] Ian Lurie: also give me a perception check mossy and Sango both.
+[2:30:58] Sango / Cregyn: 11. Okay? 12, okay,
+[2:31:05] Ian Lurie: she does have a belt
+[2:31:11] JP Sherman: drags like, what's stopping you guys? We're just gonna unload. What are we doing?
+[2:31:19] Unknown Speaker(s): I'm gonna try and Mage hand the shit.
+[2:31:22] Ian Lurie: Okay, well, you don't you see the belt you and you looked, but you can't quite see if there's a purse attached to it, not from this angle.
+[2:31:32] Sango / Cregyn: That was your life on perception,
+[2:31:35] Rikterr: correct did it
+[2:31:40] Sango / Cregyn: would be easier to take the guards out if she wasn't here,
+[2:31:45] Jamie Indigo: and then deal with her afterwards. If we take out her, they're gonna stop
+[2:31:56] Rikterr: party. Uh, party line. Rikter says, mossy Sango, I'm your distraction. Whatever you do, get the bag and run. And as he says that, He comes from out of the stairs, okay, Drop the fucking silence and he starts to No, do not drop the silence. If she can't cast that's fine. Bastard needs no
+[2:32:30] Jamie Indigo: verbal Okay, okay,
+[2:32:35] Ian Lurie: you charge up the stairs. This will be a surprise round so we don't need to worry about any any initiative yet, because she has no fucking idea you're coming. The brain in the jar, which would have been her warning system, of course, was silenced during that entire fight and could not call all the death lock whites that were directly upstairs. So basically, she's up there with all of her guards around her, utterly unaware of what's about to happen to her, she is leaning over the the monster and rikter. You come charging up the stairs with Bastion over your shoulder. How do you want to what describe what you do as you come running up her back is too.
+[2:33:29] Sango / Cregyn: Craig is right behind you.
+[2:33:30] Ian Lurie: Oh, yeah.
+[2:33:32] Rikterr: So, because rikter knows that the silence is up, he is just booking it and as he's got his ax right here, and he just wants to take a swing at her fucking neck and see if he Can't take it right off. Okay? 29 to hit.
+[2:34:00] Speaker 1: Yeah. And
+[2:34:10] Rikterr: that's going to be a total of 10 radiant damage. Okay, do I get my second attack? Since it's surprised too. Yeah, okay, I just want to make sure all you fucking bitch, thank God that is a new fucking crit. Nice. Okie dokie into that. All right.
+[2:34:47] Jamie Indigo: How many necromancer neck that's going to be another
+[2:34:51] Rikterr: 33 points of radiant damage. Good god.
+[2:34:55] Ian Lurie: Okay, so you charge up behind her, and before she even knows you're there, you just cleave into her neck. I mean, just you know you can. If this were a normal person, you would have taken her head off. As it is, it cleaves into her neck, and it clearly staggers her. She kind of sprawls forward over her monster and lets out what may have been a scream, you're not sure, because it's silenced of pain and rage, and starts to turn and now we should roll initiative. It's still surprise round. We need to roll initiative. Just see who so everybody give me an initiative roll and tell me what you got.
+[2:35:45] Jamie Indigo: Oh, natural 2026, 11, damn it. I got a natural 20. You still beat me. 25 okay.
+[2:35:57] JP Sherman: I want to honor the crit Cregyn.
+[2:36:01] Sango / Cregyn: The Cregyn as a 16, okay, yeah, Sango has a seven.
+[2:36:20] Ian Lurie: Obaris rolled like shit.
+[2:36:25] Jamie Indigo: She couldn't even see the number. She was bleeding too much. I don't think she's
+[2:36:29] Ian Lurie: gonna make it through this round. Okay, so let's see rikter. So now we got Drac. Drac. You come. I'm assuming you guys come running up the stairs at this point. But you tell me, what do you want to do? Oh, yeah,
+[2:36:46] JP Sherman: I've got, I've got the crossbow out, the heavy crossbow out. Okay, and what I am going to try pumping the true strike into it.
+[2:37:06] Ian Lurie: Okay, which true strike is a spell?
+[2:37:13] JP Sherman: No, oh, it's can't. It's a cantrip.
+[2:37:16] Ian Lurie: Does it require verb? Does it have a verbal?
+[2:37:18] JP Sherman: Actually, no, I don't have, I don't have, it. Okay, the bow has it. I don't. Okay, yep, no, I'm just gonna
+[2:37:27] Ian Lurie: pop or full of well, if it's, if it's in the magic item, you can do it. It doesn't
+[2:37:30] JP Sherman: require verbal, but not my crossbow. Oh, okay, okay, got it. Okay. So, Richard, this might be fun, okay, so for the crossbow that would be a 21 to hit, okay, that hits and 14 points of damage, all right, and she is knocked 10 feet back.
+[2:38:03] Ian Lurie: Okay, she goes flying across
+[2:38:05] JP Sherman: the room. Does that trigger an attack of opportunity for rikter?
+[2:38:08] Ian Lurie: No, you have to move voluntarily. Okay, nice thought. That would be hilarious.
+[2:38:15] JP Sherman: Just All right, the second crossbow attack, that is a natural 20,
+[2:38:23] Ian Lurie: okay, that's that sucks. That sucks
+[2:38:27] JP Sherman: and, okay, okay, that is 14 plus six points of damage, 20 points damage. And that's all I got. Oh, is that it? I'm double checking Hunter's Mark. I'm just assuming that that I didn't check before I did it. But like I'm assuming how has a vocal
+[2:39:02] Ian Lurie: almost every spell does,
+[2:39:04] Jamie Indigo: yeah, I am spellless.
+[2:39:09] Ian Lurie: So while you're doing that mossy sneak
+[2:39:12] Unknown Speaker(s): attack, natural 20,
+[2:39:16] Ian Lurie: so you cannot, you cannot get a sneak attack because she is no longer within five feet of any
+[2:39:25] Jamie Indigo: enemy. I was hidden,
+[2:39:29] Ian Lurie: yeah, okay, all right,
+[2:39:31] Jamie Indigo: all right. I was behind the desk. I'm popping out and saying, Hello, yep, you're right, you're right. So do I get to double all the d6
+[2:39:41] Ian Lurie: Well, if you get a natural 20, yes, did you get a natural 20?
+[2:39:46] Jamie Indigo: I got, I really had a natural
+[2:39:48] Ian Lurie: WHAT THE FUCK three natural 20s? What the hell. Why did he
+[2:39:52] Sango / Cregyn: so put
+[2:39:53] Ian Lurie: together this encounter? Why I should have just had the person sitting on the ground? Oh, my God. What is this?
+[2:40:03] Rikterr: Okay, so, sir, you never get to say you're on our side again with how upset
+[2:40:06] Ian Lurie: you are. Okay, well, come on, this isn't this is like, if my students all come in and they already have the answers to all the questions, that's like, it's, why am I here?
+[2:40:17] JP Sherman: That just means you're a great teacher.
+[2:40:18] Ian Lurie: I'm on their side.
+[2:40:21] Sango / Cregyn: Let's go with what the drag
+[2:40:23] Ian Lurie: said, Yeah, okay, let's just get all that damage. I learned
+[2:40:27] Jamie Indigo: 24 points, okay, okay. And then dagger, you only did 24 with a crit. Yes. We rolled 11 on my D sixes, and then
+[2:40:43] Ian Lurie: you double everything bonus, yeah, okay,
+[2:40:46] Jamie Indigo: oh, wait, not Oh, then I did it wrong.
+[2:40:49] Sango / Cregyn: Just dice. Oh, just dice.
+[2:40:51] Ian Lurie: No, you're right, all the dice, but all the dice, not just your sneak attack, so, oh, you're 5d. Six. You now roll 10, d6,
+[2:41:09] Jamie Indigo: okay, yes, this changes things.
+[2:41:15] Unknown Speaker(s): Three, 530, 3234
+[2:41:22] Speaker 2: point. Points of damage. Okay, that sounds more like it
+[2:41:29] Ian Lurie: Mossy. How do you want to do this?
+[2:41:39] Jamie Indigo: I like to picture this is just like a full spring loaded cat arcing across the room, pew, pew with daggers. So like Drax already got the pow, pow, and it's just dagger, dagger right in the eyes and slump over.
+[2:41:53] Ian Lurie: Okay, so she is pinned up against the wall by Drax shots after being just cloven by rikter, she's up against the wall. She's screaming. She's you can see her hands are turned, curled into claws, her jaw. I mean, she is a normal humanoid human, but it almost looks like her jaw is unnaturally long. As she lets out a screen that you can't hear, and just as she is starting to motion to her guards to get them to do something, mossy's daggers catch her in the eye, and she just slumps to the ground, dead
+[2:42:33] Jamie Indigo: at the table, doing a dance.
+[2:42:35] Ian Lurie: And yes, at her waist is a is a small pouch,
+[2:42:42] Jamie Indigo: sweet the aren't trying to
+[2:42:44] Unknown Speaker(s): attack, um, you know what
+[2:42:46] Ian Lurie: they do. But I don't really see much point in continuing, because this, this was not meant to be a deadly, a deadly adventure for you guys. They're just white. Literally, a white is challenge a CR three. So actually, if you want to just do a turn undead, yeah,
+[2:43:07] Sango / Cregyn: Cregyn will do that for sure. Okay, why
+[2:43:08] Ian Lurie: don't you both do turn on deads, and then we can
+[2:43:10] Sango / Cregyn: watch them go. Actually, he destroys anything of CR three or lower.
+[2:43:15] Ian Lurie: Okay, so Cregyn motions and all the undead in the room just collapse. And in fact, the the zombie clot comes running back into the room. Actually, it's a CR four, so it continues on towards you guys. No, it's a CR six. So is anyone gonna do a turn?
+[2:43:43] Rikterr: Oh, yeah, of course. Okay, let's see. I'm gonna pop it twice with Bastion. It's going to be a 28 and an 18,
+[2:44:03] Ian Lurie: okay, those both hit, all right. Ian
+[2:44:30] Rikterr: it's going to be 29 points of radiant damage.
+[2:44:33] Ian Lurie: Okay, you just it comes charging into the room, and you just bring your AX through its torso, and it just collapses into a million twitching arms and legs and feet and hands. There's even a few heads in there, and they're just all scattered around the place. They all basically the momentum of the creature as it comes running towards you causes all those bits to sort of Cascade around you and roll across the floor in this room. And with that, I would say silence falls, but it's pretty quiet in here as
+[2:45:11] Sango / Cregyn: it is. Hey, drag, go grab the bag. Direct you up. You want me to drop silence? That was now. Now's a good time. Can I do it now? Should I drop it now?
+[2:45:20] JP Sherman: Dude, think is right, man, I'm just gonna keep it up.
+[2:45:23] Jamie Indigo: No, no, no. Bravo. Round of applause. Bravo, sir. You look at the DM right now you broke him feel proud I have when I broke him from catching the giant troll thing framed, and you need this moment framed.
+[2:45:42] Rikterr: Yeah, Ramos, hell yeah,
+[2:45:45] Ian Lurie: yes, that's right, when you caught him red handed, just standing
+[2:45:48] Jamie Indigo: Yes, camp, yeah, no, I really have that frame still. It's great, yeah.
+[2:45:53] Ian Lurie: So, just so you know, I did this as a one, as a one page dungeon, and this is basically what it looked like. I'll send it to you guys. So you are now here, having utterly destroyed everything,
+[2:46:09] Jamie Indigo: go through a weird, janky estate sale, and I'm here for it. Yes you are. Yes you are.
+[2:46:14] Ian Lurie: So you are in this main room. If you want to, you can check out this room, this room, and you can go into the attic,
+[2:46:29] Jamie Indigo: all those things.
+[2:46:31] Rikterr: Yes, we are definitely see what she got in her attic. Okay,
+[2:46:42] Ian Lurie: all right, so you head over to the room with the attic, with the secret door to the attic, there's really nothing. There's nothing stopping you from detecting that door, by the way, the whites just wander out unless you destroy them, but they're completely unfocused at this point in the attic. Once you find your way up there, there is, it looks like a panic room. There's several days' food. There's a trapdoor out to the roof, and there's a teleportation circle that, of course, you have no idea where it goes. I
+[2:47:21] Jamie Indigo: mean, it's only we can take that so
+[2:47:23] Ian Lurie: no, you have to have a set. And, yeah, you'd have to have, well, you'd have to have the Sigil, otherwise you can't go anywhere with it. So do anyone talk with dead?
+[2:47:35] JP Sherman: She probably, she probably wouldn't want to talk to us anyway.
+[2:47:39] Ian Lurie: She might not feel that incline.
+[2:47:41] Unknown Speaker(s): No. Now you want to talk
+[2:47:48] Ian Lurie: in the room, by the way that you went into to get to the attic, there was a bunch of empty glassware, some wood like, you know, to burn in a stove.
+[2:47:57] Jamie Indigo: Ritual cast and detect magic while we do all this. Okay, there's no
+[2:48:00] Ian Lurie: magic in this room.
+[2:48:02] Speaker 2: Okay, got 10 minutes of it. So you just let
+[2:48:07] Ian Lurie: me know. The monster radiates an incredible amount of magic.
+[2:48:11] Jamie Indigo: The one that's goopy parts.
+[2:48:12] Ian Lurie: Now it is not goopy parts. It's the one that was, the one on the table, the one that she was constructing.
+[2:48:18] Rikterr: Rikter is going to take Bastion, and it's just going to start chopping the monster, yep.
+[2:48:24] Ian Lurie: And every time you hit it, Bastion lets out this flash of radiant energy and it it burns and Crisps as you hit it. She's gonna look over a track, must. He's like, seriously, feel
+[2:48:42] JP Sherman: like it's tartar. At this point.
+[2:48:46] Ian Lurie: No, because it's kind of cooked because of the radiance, yeah. All right, my god, that was just um, if you guys check the other room, yeah, it is a brewing room. It contains everything Obaris used to create the chemical compounds she needed for her experiments
+[2:49:18] Unknown Speaker(s): alchemy. You say yes.
+[2:49:19] Ian Lurie: So if you think of the mad scientist's lab with the glassware and everything everywhere, and the tubes carrying fluids and all that stuff, that is what's in that is this room. And if you want to start searching around for things, you can give me three roles. There's all sorts of stuff in here, but to actually find things of value, you need to give me three roles, and I will tell you what you find. They are investigation checks, okay, actually, I'm sorry they are alchemy checks, or
+[2:49:55] Jamie Indigo: your dad too. Yeah, Alchemy is different than Arcana.
+[2:50:01] Ian Lurie: Well, it's, it's your, yeah, it's, we go through this all the time. It's your alchemy skill. So you should have, like, alchemist tools, right? I do, yeah. So that's, that's your role. It's twice your, it's twice your proficiency bonus, plus your intelligence bonus plus a d 20,
+[2:50:29] Jamie Indigo: okay, okay, sorry, thank you should
+[2:50:31] Ian Lurie: mark that down somewhere.
+[2:50:35] Jamie Indigo: Okay, so that is a 26 All right.
+[2:50:40] Ian Lurie: 26 26 you find firebane. It's a grease that grants resistance to fire when applied, you hit it. Just write all this down. You have a jar that contains three applications of fire Bane, which grants fire resistance.
+[2:51:15] Unknown Speaker(s): Okay, okay, give me another roll.
+[2:51:26] Jamie Indigo: 34
+[2:51:36] Ian Lurie: Wow, funny, interesting stuff. You find a another jar that's three applications of polar skin. This is another grease, like substance that gives you resistance to cold.
+[2:52:02] Jamie Indigo: Okay, oh, natural, 20 okay, how high is that? 3737
+[2:52:22] Ian Lurie: okay, this is a stone. And as you look at
+[2:52:27] Unknown Speaker(s): it, oh, God, is it a gem of soup?
+[2:52:29] Ian Lurie: No, no. As you look at it, you kind of sniff it briefly, and then you lick it, and you realize this is what's called a soup stone. And I am not shitting you. This is actually, this is a stone that can be used to make soup. It is soup stored in solid form. It can make enough soup. It can make enough soup for 50 people. Damn. Yeah. And if you didn't have a device, an item that makes infinite soup, well, although the item that makes infinite soup doesn't make, you know, tons of it at one time. So the soup stones kind of useful.
+[2:53:03] Unknown Speaker(s): Okay, I'm just gonna toss this to Sango.
+[2:53:08] Sango / Cregyn: Sorry I was missing what I get a soup stone, a soup
+[2:53:12] Jamie Indigo: it'll make batches of super up to 50 people. So now, when the soup flask is not enough,
+[2:53:19] Ian Lurie: and then there's, there's tons of ingredients, but none of these are things that you can't get very easily on your own, if you want them, you know, there's birds feathers, there's there's ash, you know, there's things like that in here.
+[2:53:36] Jamie Indigo: Okay, weird. That is general Alchemist supplies. We are
+[2:53:44] Sango / Cregyn: going to ransack the library down below, yeah,
+[2:53:46] Jamie Indigo: oh yeah, yeah.
+[2:53:55] Ian Lurie: And I think we'll do the library ransacking next. Well, actually, no, that's okay. So in the library, why doesn't everyone give me, everyone who wants to search, give me an investigation check.
+[2:54:08] Jamie Indigo: Oh, are we leaving the book up there? Are we gonna break it down to do the book's not up there? Oh, I thought it was in the desk.
+[2:54:16] Ian Lurie: No, just some papers.
+[2:54:19] JP Sherman: Oh, okay. 19,
+[2:54:22] Rikterr: okay, 18, okay.
+[2:54:29] Sango / Cregyn: What are we doing? Sorry, I'm in and out.
+[2:54:31] Ian Lurie: You're searching the searching the library. So, investigation, check, investigation, check.
+[2:54:38] Sango / Cregyn: Sango got a natural 20. Cregyn got a 17.
+[2:54:45] Ian Lurie: Okay, you guys can stop with the natural 20s anytime now. Sango, what's the total roll?
+[2:54:52] Sango / Cregyn: Got 21 I think.
+[2:54:55] Jamie Indigo: Okay, I got a 23 but I'm gonna hold back and let these guys have some candy store time to Okay?
+[2:55:03] Ian Lurie: Well, most of what you find is is just research. It's findings into, you know, how human anatomy works. It's, it's things like, you know, stitching corpses together, and what the best way is to do it. It's diagrams that she's made of circulatory systems. It's, you know, it's, it's a lot of research that if you're building a medical library, it would be astonishingly great stuff. Yeah, there's a couple centerfold, sure, but nothing anyone would actually want to look at. But nothing these
+[2:55:47] Unknown Speaker(s): to the university. In evidence, certainly
+[2:55:48] Ian Lurie: take them to the university. Yes, let's do that. Do you remember that you don't have unlimited storage in your bags of holding at some point they're just going to fill up. But we also have two of them. You do have two of them, but I think they can each carry, like 250 pounds of stuff. So you might want to double check that. But Sango and Mossy with your roles, and just write down these titles, and I will figure them out later. 500 pounds so you can carry 1000 pounds of stuff. All right, we're not there yet. If you start dumping giants in there, you know, we'll talk.
+[2:56:36] Jamie Indigo: I have no corpses in there, sir.
+[2:56:38] Ian Lurie: I know, I know. I'm just saying, if you do, it's interesting that you had to make that,
+[2:56:47] JP Sherman: because it hasn't always been true. That's true.
+[2:56:51] Ian Lurie: That's That's very true.
+[2:56:52] Jamie Indigo: I currently have no corpses in here.
+[2:57:02] Ian Lurie: Sango, you find a book exquisitely printed, bound in gold, and on the front it says the Necromancer, Gazetteer. Oh my. And you leaf through it, and there's just tons of writing in varying shorthands and codes, and you're not exactly sure what it's about yet. You know, if you take some time, though, you can definitely figure it out. Okay, mossy, you find a book that is, it has a bunch of alchemical symbols on it. And it, you think it's titled because the language is little. It's like written in very old English. You know that the letters are all weird. It says the Tome of alchemical knowledge. And you know that if you take 24 hours to study this consecutively, you will add one point to your alchemy skill checks. So you need to write that down somewhere but, but you need to take 24 consecutive hours. You have to sit somewhere for 24 hours without interruption,
+[2:58:37] Unknown Speaker(s): and study and go on a nerd bender.
+[2:58:39] Ian Lurie: You have to go on a nerd bender.
+[2:58:44] Sango / Cregyn: Did Cregyn get anything? Sorry, I've been in
+[2:58:46] Ian Lurie: and out for the last little bit. What did Cregyn roll? What did Cregyn roll? I guess,
+[2:58:53] Sango / Cregyn: 15 plus 17 total.
+[2:58:58] Ian Lurie: Okay, you found more of the notes and diagrams and things like that. Anyone who rolled under a 20 just found lots of really valuable information, but none of it's magic or, you know, it can't be used to none of it's stuff that you can use to directly impact you or your powers.
+[2:59:18] Jamie Indigo: Okay, I it, but you got a sweet stone. What do you feel like making tonight?
+[2:59:29] Ian Lurie: It's only chicken soup. Oh, really, well, it's a soup stone. I mean, it's Yeah,
+[2:59:35] Jamie Indigo: but, like, the soup flask has options, but
+[2:59:39] Ian Lurie: this is a stone. Literally, someone made, made enough soup for 50 people and then turned it into stone. Oh, and you can knock chips off it and make, since we gave you a
+[2:59:50] Jamie Indigo: ramen stone, I'm sorry
+[2:59:52] Ian Lurie: that's Hey, it's really good. That ramen kicks ass, and so does this stone.
+[2:59:58] Sango / Cregyn: But so it's like, I'll do is you can add all kinds of ingredients to it. I'm going to get thistlebeard to help me work up a list of menu items.
+[3:00:08] Ian Lurie: Yeah, you could use this for all sorts of different things. That is true.
+[3:00:15] Jamie Indigo: Well, giant and kill him with sodium.
+[3:00:18] Ian Lurie: I would say that I really enjoyed this, but that last that, no, I did. This was awesome. This was awesome.
+[3:00:26] Rikterr: MVP, Sango for the silence. Way to not let drag bully you into dropping it. That shit was clutch.
+[3:00:35] Ian Lurie: It was, this was meant to be a stealth mission. It was, it was not built to be, you know, super, super dangerous, but there were ways it could go wrong, right? If she had heard you coming, a necromancer is not all that terrifying, unless they hear you coming. If they know you're coming, then they can prepare. And all those different creatures you saw could have been powered up, and she had all sorts of spells she could cast. But no, she was dead in six seconds. He literally had six seconds to try to figure out what the fuck was happening. And then she was gone.
+[3:01:09] Sango / Cregyn: Sango slightly disappointed that he didn't get to stunning strike her and add his little bit to it.
+[3:01:17] Ian Lurie: You actually run up to her as she's dying and just
+[3:01:22] Sango / Cregyn: you cregnin didn't have anything. He was gonna go up and like, bear hug her to just to try to hold her, because that's all he had. I'm sorry.
+[3:01:31] JP Sherman: All right, that's the last thing before she dies, like the Sarah McLaughlin song with the dot with the puppies
+[3:01:38] Rikterr: in the arms of an angel. The song that only plays it free in the morning when you're coming home from the club.
+[3:01:48] Jamie Indigo: Yep, are you drunk and about to cry? Anyways, here you go.
+[3:01:53] Rikterr: Holy. I know this didn't go the way that you want it. But no,
+[3:01:56] Ian Lurie: no, you know this one. This was awesome. This one exactly the way I wanted it to go. That was great. That was great.
+[3:02:05] Rikterr: All right, everyone,
+[3:02:07] Sango / Cregyn: let's do this again a little bit more often. Yes, yes.
+[3:02:11] Ian Lurie: So I'll be in New York in two weeks, and I would seriously run the game from there, except that, literally, the next day is when I'm speaking. So we should figure out, you know, I'll just put something on the calendar for a month. You put it on
+[3:02:24] Rikterr: for you put it on for May 11, already. Okay, cool. You sent it out when you sent
+[3:02:29] Ian Lurie: out the invite. That's right, that's right, I did. So, okay, so that's what we're gonna be next. Will be another month. I'll forget how to do it again so you can murder someone.
+[3:02:36] Rikterr: Take care. All right. Bye. Bye.

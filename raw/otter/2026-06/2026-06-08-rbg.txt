@@ -1,0 +1,1078 @@
+# Ian's Meeting Notes
+# Otter recording 2026/06/08 16:54:30 (2h 54m) id 71QlvmFdcE5mDwSjAt72QG5IrFk
+# https://otter.ai/u/71QlvmFdcE5mDwSjAt72QG5IrFk
+# Speaker-attributed transcript, verbatim. Raw source for the card at /items/otter/2026-06/2026-06-08-rbg.md
+
+[0:03:40] Fancy Drak: I think Hey, hey. Holy crap. Sorry, just like downloading all, like, like trying to process all this amazing information. This looks so cool. This is what you missed. Well, it's not what you missed, it's what you're about to walk to do. Damn it, my children, I love them, but damn
+[0:06:33] Ian Lurie: it, of course. Yes, we love them, and they don't fit in microwaves, and those are the two reasons that they survive past teenage hood. Yeah,
+[0:06:43] Fancy Drak: yeah,
+[0:06:44] Ian Lurie: ash,
+[0:06:46] Speaker 1: yeah.
+[0:06:50] Ian Lurie: Everything has worked out, or is working out. I hope
+[0:06:54] Fancy Drak: I'll just say it is. It's a process. Everything has a process, yeah, and I'm in a better place because healthy boundaries are set, expectations are there, not, you know, is it is a they, they know what they need to do, and also today was their last day at school, so they are officially seniors.
+[0:07:33] Ian Lurie: It's, yeah, yeah, you can make it clear expectations are a little higher now.
+[0:07:38] Fancy Drak: Yes, yeah,
+[0:07:40] Ian Lurie: I may have just accidentally kicked your back out. Oops,
+[0:07:45] Fancy Drak: no. 16 and 17 is just peak asshole.
+[0:07:49] Ian Lurie: Yeah, yeah, there we go. I turn down my mouse's twitchiness setting, since I'm pretty sure I just accidentally booted Jamar the first time he tried to get in. Okay, there we go. Hey guys, hey Jamie, hey James, hey y'all.
+[0:08:30] Fancy Drak: Super good to see y'all.
+[0:08:38] Mossy Oak: Yeah, you skip a session and we go straight to hell,
+[0:08:41] Ian Lurie: literally. I,
+[0:08:43] Fancy Drak: I always knew that I was the glue of this group
+[0:08:50] Ian Lurie: having some screen issues. Oh, well, just have to work as is. It's okay, so yeah, last time some shit kind of hit the fan. You guys traveled down to what you found out was actually Silgerin below, which is the city of Silgerin, but now in Avernus, being slowly and inexorably, inexorably dragged into the River Styx. You get the sense that this is because Zariel, the arch devil who is in charge of Avernus needs more souls, so as Modius has dragged Silgerin into Avernus in an effort to convert as many of to corrupt as many of the citizens of Silverin as possible, thereby getting more souls and more soldiers for the blood war, the war against the demons. Asmodeus also did this because Asmodeus is a dick, and he hated Amoth with all of his withered, blackened soul. So, when he killed Amoth, the last thing he said to him was, "Oh yeah, and I'm going to take the seat of your worship on Praxia and drag it into hell, so he felt like he was obliged to make good on that promise. At the end of the game, last game, you were moving through the city of Silver and Below, and you came upon this central square, and I don't have the whole city here. No, okay. I'm not going to do that, but this is sort of this central plaza in the middle of the city, where you remember from the adventure with your first level characters, there used to be a tree, this beautiful tree that sort of symbolized Silver and Silverins, the fact that Silver thrived, and in its place was this dead, twisted thing with skulls and these weird vines that have sprung up everywhere. It's in the middle of what looks like a pool of what could almost be magma of some kind, but you're not sure. It doesn't feel hot, it just appears orange and red, and is glowing. It's got all these brambles growing up around it. There's skeletons scattered everywhere. There's also, also these piles of purple something, some kind of liquid that's sort of writhing and oozing as you walk by it. You're not sure what that is yet. Either, you get a sense that there are other devils and demons around. You can see some in the distance fighting, but there are none here in this plaza. You can even see a few imps up here on the edge of things, but they're not coming into the plaza, they seem to be staying back, and just as you walk in, this tree starts to tear open, like right down the middle, and as it does, this other tree steps out of it, and the other tree looks like this, and it is covered with eyes. It has eyeballs all up and down it. It's surrounded by skulls that seem to kind of.. it almost seems like it's not so much walking as it's flowing, and the ground moves with it, and as the ground moves, you see these skulls that just kind of travel along with it as the ground undulates underneath it, and it lets out this guttural damp roaring sound, and charges towards you. All by the way, How's everybody doing? I should sit now.
+[0:13:05] Fancy Drak: Great. Now,
+[0:13:07] Ian Lurie: so everyone should roll initiative
+[0:13:20] Rikterr: 12,
+[0:13:21] Ian Lurie: okay. okay,
+[0:13:24] Fancy Drak: 17,
+[0:13:25] Ian Lurie: okay,
+[0:13:28] Mossy Oak: nine,
+[0:13:31] Speaker 1: okay, Daniel has a 17, Cregan's got a
+[0:13:37] Ian Lurie: one, oh no. Well, it's good, Claire goes last. Okay,
+[0:13:47] Mossy Oak: do we have the others with us now?
+[0:13:51] Ian Lurie: No. Well, yes, but they, yes, okay. So, for you can assume that for stuff like this they are like Hornsby and, and, TBT, they have everybody kind of hidden in a building, and they're, they're fending off whatever you know might come over, so you guys are on your own against this creature, and this creature won't mess with them either. So, basically, I've taken them out of the combat. This is about where you're all standing. Uh,
+[0:14:40] Fancy Drak: go for it, Zengo.
+[0:14:43] Mossy Oak: Sure,
+[0:14:45] Speaker 1: great.
+[0:14:53] Ian Lurie: And this thing, I mean, all of these purplish branches are aiming towards you at this point. It's clearly going to. it is not acting in a friendly manner.
+[0:15:03] Speaker 1: Cool. What's the, what's the light situation? Is this.. would this be considered dim light?
+[0:15:11] Ian Lurie: Yeah, this would be considered dim light. I
+[0:15:25] Speaker 1: Okay, wait, was Sango invisible?
+[0:15:32] Rikterr: I thought was it Craig, probably because
+[0:15:35] Ian Lurie: you're always invisible.
+[0:15:38] Speaker 1: Didn't Craig and cast visibility on himself, and then saying it was invisible, and they were scouting or something. They
+[0:15:48] Ian Lurie: were, but I know you guys have gotten back together as you came in here, but you may be invisible. Yes,
+[0:15:57] Speaker 1: let's go with that. For they'll do that for Sango. I don't know about Creg, and
+[0:16:09] Speaker 2: that's cool. Yeah, so
+[0:16:13] Speaker 1: I Oh, sorry, that's a reaction, uh I'm going to, how close am I to it?
+[0:17:21] Ian Lurie: You are about 40 feet,
+[0:17:42] Speaker 1: okay. I've got 55 I got a 55 walking speed. I'm going to run up to it.
+[0:18:00] Ian Lurie: Okay, this is difficult terrain, but I suspect you ignore difficult terrain.
+[0:18:04] Rikterr: No, but I just think I've got enough movement.
+[0:18:08] Ian Lurie: Yeah, you do. You
+[0:18:09] Speaker 1: do. Okay. Oh
+[0:18:11] Fancy Drak: God,
+[0:18:15] Ian Lurie: okay. There you go.
+[0:18:16] Speaker 1: I'm just gonna punch, punch.
+[0:18:18] Ian Lurie: Okay?
+[0:18:20] Speaker 1: Do I get advantage because I'm invisible?
+[0:18:26] Ian Lurie: No.
+[0:18:27] Speaker 1: Okay, I figured he might have some tremor sounds or something.
+[0:18:32] Ian Lurie: Yeah, he.. he actually.. you can tell that it sees you coming.
+[0:18:36] Speaker 1: Yep, I figured. All right, pop, pop.
+[0:18:39] Ian Lurie: Okay.
+[0:18:40] Speaker 1: Oh, that's a.. oh, that's a 31 on the first one, and a 27 on the second one. I
+[0:18:47] Ian Lurie: forgot why I don't.. I don't run combats for you guys. Okay, continue.
+[0:18:51] Rikterr: Okay, let's see. that's a first one is
+[0:18:59] Speaker 1: a 13. damage
+[0:19:04] Ian Lurie: all right,
+[0:19:05] Speaker 1: and the second one would be a 12 damage,
+[0:19:09] Ian Lurie: okay?
+[0:19:10] Speaker 1: And then a key point for stunning strike on the first one, least that is a is a con save 19, he
+[0:19:30] Ian Lurie: saves.
+[0:19:31] Speaker 1: Okay, and then another one on the next one.
+[0:19:35] Ian Lurie: Okay, saves again,
+[0:19:42] Speaker 1: can kind of figured, and then I'm going to.. so I'm visible now.
+[0:19:52] Ian Lurie: Yep,
+[0:19:52] Speaker 1: I'm going to shadow step the heck out of there.
+[0:19:57] Ian Lurie: Okay? Where do you want to go?
+[0:19:59] Speaker 1: Just back 30
+[0:20:03] Ian Lurie: about there all right?
+[0:20:18] Speaker 1: Yep, that's it. Shadow steps of bonus action, so, yep,
+[0:20:21] Ian Lurie: okay, all right, Drac, your go, the creature turns, and all of its branches sort of turn to envelop Sango, but Sango disappears and reappears 30 feet away, as it almost would have grabbed him, but it just kind of misses,
+[0:20:40] Fancy Drak: all right. right, so okay, I'm going to scooch around, so it looks like there's Mossy in between Richter and myself,
+[0:21:01] Ian Lurie: correct.
+[0:21:02] Fancy Drak: Okay, so I'm going to scooch behind Mossy and go kind of in a triangle formation between Mars in the rear between Mossy and Richter. Perfect. And then for my bonus action is, is Sura already out?
+[0:21:18] Ian Lurie: No. And shit, I don't have sir. Hold on.
+[0:21:24] Speaker 2: Nope, sorry.
+[0:21:27] Ian Lurie: Bad DM, bad
+[0:21:30] Speaker 3: sir. Sir,
+[0:21:38] Speaker 1: Jamie only pulls out the sir when somebody's acting a fool,
+[0:21:55] Ian Lurie: that'll do. Holy,
+[0:22:01] Fancy Drak: that's about the right size. Okay,
+[0:22:07] Ian Lurie: so
+[0:22:10] Fancy Drak: what I'm going to do is I'm going to cast guiding bolt onto the tree.
+[0:22:18] Ian Lurie: Okay, so give me your attack
+[0:22:22] Fancy Drak: would be a 24 hit
+[0:22:26] Ian Lurie: that hits
+[0:22:27] Fancy Drak: all right 27 points of radiant damage, and that gives Richter advantage, and Sura is going to do the help action on Moff for Mossy,
+[0:22:56] Ian Lurie: okay,
+[0:22:58] Fancy Drak: which gives her advantage on her next attack,
+[0:23:02] Ian Lurie: and how does Sura do that? Why don't you describe that to me.
+[0:23:05] Fancy Drak: Sarah has kind of like this little, like, roar of like, like this, the unique noise that Sura makes for Mossy, like, she does that, like, ah so
+[0:23:24] Ian Lurie: sir comes over here and says, in dinosaur, you got this,
+[0:23:28] Fancy Drak: you got this.
+[0:23:30] Ian Lurie: Normally, the help action in combat would be, you know, flanking or something like that, but I'll let it, I'll let you do it this way this time.
+[0:23:38] Fancy Drak: Okay. No, that's probably my understanding, because, like, one of the actions is like attack, help, disengage.
+[0:23:46] Ian Lurie: Yeah, I think help.. I don't.. does help? Does it say in the book that that confers advantage? Yes.
+[0:23:51] Speaker 4: Any consolation? I wasn't planning on attack. Okay.
+[0:23:54] Ian Lurie: All right. Well, no, that's fine. If that's what it says, that's yeah,
+[0:23:58] Fancy Drak: you like, there's a million ways to get advantage now. Yeah,
+[0:24:01] Ian Lurie: but that's true. That is true.
+[0:24:03] Fancy Drak: Whatever you do, Mossy, it's an advantage.
+[0:24:08] Ian Lurie: Okay. All right. So, up next is the blight itself. It takes one enormous shaking step forward, and it takes all of its branches, lean back for a minute, and then they just point forward, and this hail of spikes comes flying out, and I'm just going to do this randomly, so Richter, you are it. So, let's see. Hits first of all, getting a 24 think that hits
+[0:25:03] Rikterr: you, would think that would hit, but writers is about to Richter puts his shield up and cast shield, so the 24 no longer hits him.
+[0:25:12] Ian Lurie: Okay, this this hail of splinters, each splinter being about a foot long, just goes flying towards you. You raise up your shield, and it just, it, you can feel it impact on your shield. You guys all watch as they shatter against his shield, and at the same time, this root comes up out of the ground and tries to wrap itself around you. So, give me a DC 20 con save, and yes, I know con saves are your, your best possible thing. So,
+[0:25:40] Mossy Oak: oh, him, you get the thing he's good at. Go fail wisdom saving throw
+[0:25:50] Rikterr: 15.
+[0:25:52] Ian Lurie: You fail, so this root wraps itself.
+[0:25:57] Rikterr: Nope, I'm going to use my heroic inspiration as they roll that bitch
+[0:26:01] Ian Lurie: to DC 20 con save,
+[0:26:05] Rikterr: all right, Papa needs an 11 at least. Oh, got a 16. Okay,
+[0:26:13] Ian Lurie: all right. So this root comes up out of the ground, and for a minute it looks like it's gonna wrap itself around you, and you kind of hack at it with your ax and split it and the tree lets out a roar of rage and charges you making a slam attack for a 23
+[0:26:39] Rikterr: misses
+[0:26:41] Ian Lurie: damn okay Okay,
+[0:26:43] Rikterr: you still, you still have your shield up, right? Yes, sir. That's why it misses. Okay,
+[0:26:47] Ian Lurie: got it. So it comes running up. I won't do any of this random roll shit next time, and just you sidestep it cleanly, and it ends up like right here as it comes running,
+[0:27:00] Mossy Oak: your cape out exactly
+[0:27:03] Ian Lurie: as it comes running up to you, it ejects these two seeds, and the seeds hit the ground, and when they spring up, they are these little vine blights that are incredibly fast and and they come running up, and they flank Sango, getting a 23 to hit, one of them does, and the other 23 to hit would say
+[0:27:44] Speaker 1: just barely,
+[0:27:45] Ian Lurie: just barely. So they have these little claws, and they go and just swipe at you. You take eight points of damage, and you need to give me this is funny, a DC 12 two DC 12 deck saves, don't blow it.
+[0:28:07] Speaker 1: Uh, my decks is save is plus 12,
+[0:28:10] Ian Lurie: yeah, just don't roll one
+[0:28:13] Speaker 1: four to 13 plus. Okay, there you
+[0:28:15] Ian Lurie: go. So they, they try to grab onto you, but you're just, you're far too dextrous for them. All right, that's it for my blights. Richter, your enemy has conveniently placed itself adjacent to you.
+[0:28:31] Rikterr: That's awesome. So, first, for his bonus action, you see Richter reach into his pouch and he pulls out the book, you guys know that he used to study to be a warlock. He tears one of the pages out, and you see him quickly folded into what looks like an origami shield. He turns, he tosses it towards Mossy, and as it gets closer, it gets bigger and bigger and bigger, and you see Mossy starts to fall over you, but it doesn't feel like anything, and he cast a faith on you, so you get a plus two to your DC, and now he's going to turn towards the tree, and before he does, he shouts Drac of virtual eyes, and he's going to hit it with bastion.
+[0:29:30] Ian Lurie: Well, I can't get you facing the right way. Oh, well, okay.
+[0:29:39] Rikterr: First one is going to be a 29 and the second one is going to be a 19.
+[0:29:50] Ian Lurie: All right, one of those hits, the other one does not.
+[0:29:53] Rikterr: All right, so as he hits with one, I'm going to use one of my channel divinity uses to cast imbue weapon on Bastion,
+[0:30:06] Ian Lurie: and you remember you have advantage, right? On the first of those two attacks.
+[0:30:09] Rikterr: Oh no, I did not. So, haha,
+[0:30:15] Ian Lurie: watch crit.
+[0:30:16] Rikterr: No, it's going to be another 29
+[0:30:20] Ian Lurie: okay, do So,
+[0:30:23] Rikterr: all right, the sacred weapon. All right, so tack rolls I Oh, 43 points of radiant damage. Hey. okay?
+[0:31:06] Ian Lurie: Someone ate his Wheaties this morning. That hurts a lot. Anything else?
+[0:31:16] Rikterr: Nope, that is it.
+[0:31:18] Ian Lurie: All right, Mossy, you're up
+[0:31:22] Mossy Oak: all right.
+[0:31:26] Ian Lurie: You see Richter take Bastion and just hack a huge chunk out of the base of the trunk of this tree, and
+[0:31:34] Rikterr: wait. How close am I to Mossy right now? Sorry,
+[0:31:37] Ian Lurie: you are 510, 15 feet away, well, 10 feet away.
+[0:31:46] Rikterr: You know what, it's worth it. I'm going to take the attack of opportunity, so that I can move next to Mossy.
+[0:31:54] Ian Lurie: Okay,
+[0:31:54] Rikterr: get my aura is close to her.
+[0:31:59] Ian Lurie: I got a 21 to hit,
+[0:32:02] Rikterr: that's perfecto.
+[0:32:04] Ian Lurie: Okay, so that is a slam attack.
+[0:32:10] Mossy Oak: Wait, now I'm going to use my reaction and add a plus five to that with my Mossy telepathy.
+[0:32:20] Rikterr: Oh, then you miss,
+[0:32:23] Ian Lurie: okay?
+[0:32:26] Mossy Oak: And for my reaction, I will high five Richter.
+[0:32:30] Ian Lurie: Um, so the tree again, you see Richter just hack a huge chunk out of it, and where he does, for a moment, there's a million eyes looking at him from the gap that he made in the trunk, and then the moment he withdraws his ax, those eyes are covered over with some kind of icker that comes flooding out of the tree, and then he, and then Richter leaps back next to you, Mossy. So, Mossy, what do you do?
+[0:32:57] Mossy Oak: All right, I'm gonna, I'm look at the little tree friend right there, and go ahead and cast some fairy fire on it.
+[0:33:10] Ian Lurie: Okay, this one has
+[0:33:12] Mossy Oak: to make a.. oh no, sorry, the big bat, the big guy
+[0:33:16] Ian Lurie: got it.
+[0:33:17] Mossy Oak: Yeah, the big guy has to make a deck save of 19,
+[0:33:21] Ian Lurie: mm. not a strong suit. He fails.
+[0:33:25] Mossy Oak: I figured, yeah. All right, so now creepy tree is also lit up in some purple light. Probably looks like a tool album. It's cool. We got this going. Bonus action. It seems like these guys are just doing stabby attacks, right? They're just doing physical force rather than magic.
+[0:33:51] Ian Lurie: The, yeah, the blights. Yes.
+[0:33:54] Speaker 3: Okay, so
+[0:34:08] Mossy Oak: and Sura is 10 feet behind us, right?
+[0:34:15] Ian Lurie: Correct,
+[0:34:17] Speaker 3: cool, so
+[0:34:22] Mossy Oak: and yeah, that's just gonna be my turn. Call it good. All
+[0:34:24] Ian Lurie: right, Craig, and
+[0:34:30] Speaker 1: all right, Creg, and we'll move up to be a little bit about to the left of Mossy, that puts him sort of near everybody, and he's going to do his Twilight Sanctuary.
+[0:34:47] Ian Lurie: Okay.
+[0:34:54] Speaker 1: Oh, that's a six. Everybody gets 20 temporary hit points.
+[0:35:00] Mossy Oak: Whoo, I love it when you give us more than just abandonment issues.
+[0:35:14] Speaker 1: This is Craig,
+[0:35:16] Mossy Oak: and
+[0:35:20] Rikterr: I mean, to be fair, Creg and did jump off the ship into the ocean when we were fighting to leave
+[0:35:26] Ian Lurie: us. Yes, yes, that's and just swim away. Do I have a thing now? Was that my thing?
+[0:35:32] Rikterr: I mean, you tell us, sir,
+[0:35:34] Mossy Oak: discover and explore a little bit more, sir.
+[0:35:37] Speaker 1: Between that and blowing myself up, I kept it up. I gotta
+[0:35:42] Ian Lurie: create anything else.
+[0:35:43] Speaker 1: Yeah, yeah. What else was I gonna use? Okay, steps of the night. I'll activate that. Okay, so I can fly, and then yeah, maybe I'll go like 10 feet up, so like, yeah, so that these little guys on the ground can't hit me.
+[0:36:08] Ian Lurie: Yeah,
+[0:36:09] Speaker 1: he's not as dexterous as, uh, saying, like,
+[0:36:12] Mossy Oak: if Ward Ward Davis was a bush, that's what I'm picturing these little bastards as. Please tell me you've seen the Leprechaun movies.
+[0:36:22] Ian Lurie: I have not seen the Leprechaun movies. Yep,
+[0:36:28] Speaker 1: you're not really missing much, but yeah.
+[0:36:33] Ian Lurie: Drac, your turn.
+[0:36:38] Fancy Drak: Does the Sango go ahead of me?
+[0:36:40] Ian Lurie: I'm actually gonna have you go first, because based on decks you should be going first, and it makes it easier in this little tracker I have.
+[0:36:46] Fancy Drak: Got it. That's cool. Okay, so I'm going to start with Sarah. Okay, the little sprout offspring is that approximately 30 feet away. Yep, fantastic. She is going to do a, a, it's called what's called the pounce.
+[0:37:08] Ian Lurie: Okay,
+[0:37:09] Fancy Drak: she moves 30 feet towards this, and then leaps and does a claw attack.
+[0:37:14] Ian Lurie: All right,
+[0:37:15] Fancy Drak: the if it's not a large creature, they need to do a DC 15 strength save or becomes prone, so
+[0:37:25] Ian Lurie: Ashley made their save,
+[0:37:28] Fancy Drak: so okay, so that would be a 19 to hit,
+[0:37:33] Ian Lurie: okay, that
+[0:37:36] Fancy Drak: hits okay, and I should have done this first, but oh well, that would be 14 damage,
+[0:37:49] Ian Lurie: okay,
+[0:37:51] Fancy Drak: 14 force damage.
+[0:37:53] Ian Lurie: All right,
+[0:37:55] Fancy Drak: her second attack, okay, is also is a 24 to hit
+[0:38:00] Ian Lurie: that also hits
+[0:38:03] Fancy Drak: and is a eight damage. It looks
+[0:38:06] Ian Lurie: pretty messed up. Whole bunch of branches are gone. It looks more like a twig this point than a small tree.
+[0:38:13] Mossy Oak: Did you use your advantage?
+[0:38:18] Fancy Drak: I did not.
+[0:38:18] Mossy Oak: It's got very fire. Just no, no, no, you
+[0:38:21] Ian Lurie: put, you put fairy fire on the sorry, my
+[0:38:24] Mossy Oak: bad,
+[0:38:24] Ian Lurie: yeah,
+[0:38:26] Fancy Drak: all right, track is going to put Hunter's Mark on the blight,
+[0:38:38] Ian Lurie: okay,
+[0:38:39] Fancy Drak: and then you using advantage hit them twice,
+[0:38:45] Ian Lurie: all right.
+[0:38:47] Fancy Drak: Okay, that would be a 26 to hit,
+[0:38:51] Ian Lurie: that hits,
+[0:38:52] Fancy Drak: and a 28 to hit.
+[0:38:54] Ian Lurie: Also hits,
+[0:38:56] Fancy Drak: all right, 17 damage, you 22 damage
+[0:39:07] Ian Lurie: your arrows just thud straight into the trunk. It feels kind of weird, actually, to be shooting arrows into the trunk of a tree as a ranger, but you know
+[0:39:15] Fancy Drak: it works. The set, it's a set, it's a dick tree, not a tree of dicks, but,
+[0:39:21] Ian Lurie: but it, but it is a tree that is kind of a dick. Yes,
+[0:39:23] Fancy Drak: yes.
+[0:39:23] Speaker 1: Well,
+[0:39:24] Fancy Drak: and then shut up.
+[0:39:26] Speaker 1: It sort of did throw some stuff at Richter there, but
+[0:39:29] Ian Lurie: it kind of did. Yeah, this
+[0:39:32] Mossy Oak: is the eyeball tree. You've got to go quite a bit further down to get to the dick tree.
+[0:39:36] Fancy Drak: Okay. And then Jack's gonna move and scooch a little bit closer to to Surah and kind of create that triangle pattern, yep, right there.
+[0:39:47] Ian Lurie: Okay,
+[0:39:50] Fancy Drak: and that's the end of track. And Sarah,
+[0:39:52] Ian Lurie: okay, Sango.
+[0:39:55] Speaker 1: Oh, sir, I got 20 temporary hit points too, by the way, just to clarify. Oh, oh my god, she is thick. Okay, so Sango is going to flame punch the one in front of him.
+[0:40:08] Ian Lurie: Okay,
+[0:40:11] Speaker 1: that is a 16 plus 11.
+[0:40:14] Ian Lurie: All right, that hits
+[0:40:19] Speaker 1: and he's 48 fire damage 17 points of fire damage
+[0:40:32] Ian Lurie: interesting? Because you hit it with the fire damage, and it doesn't appear to do as much damage to it as you expected. Oh, really? It goes and hits it. It definitely hurts it. It's blackened a little bit, but it.. yeah.
+[0:40:46] Speaker 1: Okay, I was hoping that it was gonna catch on fire. Yeah. Nope. Damn, okay. All right. Welcome
+[0:40:53] Ian Lurie: to hell. Literally, oh
+[0:40:55] Speaker 1: God, that's true, right? Oh, shit. No, I'm going to, I'm going to click my heels together and a heels together, and a starry form of a bow appears on his forehead.
+[0:41:32] Ian Lurie: Okay,
+[0:41:33] Speaker 1: and that's my story form archer, which I can use next turn.
+[0:41:38] Ian Lurie: Okay, all right, Goldius Blight has a pretty good sense of who can do what now I gonna put a thorn volley, another thorn volley, two of them actually into Richter, getting a natural 20 for one of them and a 23 for the other one,
+[0:42:21] Mossy Oak: silvery barbs on the crit,
+[0:42:23] Ian Lurie: okay. So, a 32 and a 23
+[0:42:31] Rikterr: Well, fuck you. I'm gonna use your shield to at least block one of them. Now I know how you feel when we be rolling 30s and shit,
+[0:42:45] Ian Lurie: all right, I rolled like shit, you take 19 points of piercing from the this volley of thorns, it goes again, just they all slam into your armor, and they don't really do a ton of damage to you, but you definitely feel it, and then Drak, you need to give me a DC 20 cone save, I That good, I see the look on your face. Oh, you're muted. You're muted.
+[0:43:37] Fancy Drak: Yeah, that's a one. I'm going to burn a luck spell. I'm gonna burn a lock point.
+[0:43:41] Ian Lurie: Okay, all right. So, roll again.
+[0:43:45] Fancy Drak: That's a filthy 20.
+[0:43:46] Ian Lurie: Okay, you say if one of those roots comes up out of the ground, tries to wrap itself around you, and just sort of slithers off it, then goes and does a slam attack on you, track getting a natural 20.
+[0:44:10] Fancy Drak: I'm going to use my hold on, it's the stone, it's a stone that can negate one crit for long rest. Do tell. Hold on,
+[0:44:24] Speaker 1: the stone of Sioux.
+[0:44:27] Ian Lurie: Yeah, no, there's no stone or so.
+[0:44:30] Fancy Drak: It's called the Iraq.
+[0:44:32] Mossy Oak: It might be beach,
+[0:44:34] Rikterr: the stone of the
+[0:44:37] Fancy Drak: sapling stone.
+[0:44:40] Ian Lurie: Okay,
+[0:44:42] Fancy Drak: indicates it negates a critical hit.
+[0:44:45] Ian Lurie: Okay, alas, for you, I rolled incredibly wealth. You take 32 points as it runs up to you and takes its two biggest branches and just goes on you. you, oh yeah, yeah, that, that was that was that was a shot, that was a shot, and it just stands over you and lets out this again, that kind of bubbling, wet, gross roaring sound, the two vine blights again attack you, Sango. One of them, one of them misses, the other one gets a crit. Okay, which means you take just see 10 points of damage, and you need to give me two DC 12 deck saves. Actually, no, sir, needs to give me two DC 12 deck saves.
+[0:45:52] Speaker 1: Why not me?
+[0:45:54] Ian Lurie: Actually, you do too. Now that I see it, it's within 10 feet. Every creature within two, that was
+[0:45:58] Speaker 1: close. I got a two on one of them
+[0:46:03] Fancy Drak: two
+[0:46:05] Ian Lurie: two DC 12,
+[0:46:06] Speaker 2: okay?
+[0:46:09] Fancy Drak: She makes one and gets a critical fail on the other,
+[0:46:13] Ian Lurie: okay? So she is, she takes 16 points of slashing damage as all of these roots come up out of the ground and just sort of slash at our underside at our underbelly.
+[0:46:31] Speaker 2: All right, poor girl. All
+[0:46:40] Ian Lurie: right, Richter, your turn.
+[0:46:47] Rikterr: All right. Oh, it's right there. So I'm going to hack at it twice with Bastion.
+[0:46:54] Ian Lurie: Okay.
+[0:47:00] Rikterr: Jeez, I'm and crackers, those are both seventeens, which miss, right?
+[0:47:08] Ian Lurie: Correct, those both.
+[0:47:11] Rikterr: Yeah. Okay. Well, yeah, that's all Richter's turn.
+[0:47:25] Ian Lurie: Okay, all right. It doesn't push his luck by laughing at you or mocking you, because after last round that seems like a terrible idea. Mossy, your turn.
+[0:47:39] Mossy Oak: Hey, so party equipment, where did it go?
+[0:47:46] Speaker 1: It's on the inventory, and you got to get a toggle to the one on the right. You got to be part of a campaign to access that. Kick
+[0:47:58] Mossy Oak: me out. I feel like it's pretty rude if you kicked me out.
+[0:48:02] Speaker 1: Did you, did last time you leveled up to.. I don't know. Anyway,
+[0:48:10] Mossy Oak: okay. So, could somebody look there, look at that thing, and let me know how many bombs I have, what kind of bombs I have would appreciate it. Thank you.
+[0:48:29] Speaker 1: Oh my god, you got a lot of stuff in here.
+[0:48:33] Mossy Oak: Clip, do
+[0:48:34] Speaker 1: four gourd grenades, one flash bang, one smoke grenade, four holy water, holy water, wrist got with only water dagger. Okay, Jamie
+[0:48:52] Mossy Oak: cannot remember when we fought the blight. Did holy water work against them?
+[0:48:57] Speaker 1: Yeah, I don't remember. Okay,
+[0:49:00] Ian Lurie: the DM doesn't remember either. We're in hell.
+[0:49:03] Rikterr: Let it go.
+[0:49:04] Ian Lurie: Give me a nature check.
+[0:49:08] Mossy Oak: Oh, natural 20.
+[0:49:10] Ian Lurie: Okay.
+[0:49:10] Mossy Oak: Blights one with the tree
+[0:49:12] Ian Lurie: blights are typically twisted creatures of nature, and they're not necessarily hit or hurt by holy weapons, because they are not undead.
+[0:49:27] Speaker 1: Okay,
+[0:49:29] Ian Lurie: on the other hand, you've never seen a blight that had a million eyes on it and had a bunch of skulls that followed it around, so you know,
+[0:49:40] Mossy Oak: fair enough. All right, I'm gonna go ahead. Then I'm mad because I just attacked my syrup, so I'm going to cast Spell Fire Blair at it, okay. double checking this is me, right? Yes. Okay. Tank, what are you doing? Gonna get a Dyson vase. Oh, and I juice boxed after bouncing on cat's face. Wow. all right. Well, that's a bummer. And tree is right in front of us right now, so can't I could disengage. Honestly, I'm gonna use my, my bonus action to disengage, and then I'm gonna get up on here and square up the one that's by Sarah.
+[0:50:51] Ian Lurie: Okay,
+[0:50:53] Mossy Oak: so that way, yeah.
+[0:50:57] Ian Lurie: So I would suggest you, you do have the movement, I suggest you go to there.
+[0:51:01] Mossy Oak: Okay,
+[0:51:02] Ian Lurie: now you're flanking so
+[0:51:05] Mossy Oak: sweet
+[0:51:06] Ian Lurie: that this particular blight now has a look on. If it had a face, it would have a look on its face like it understands that things are about to come to a horrible, messy end. Okay, Cregyn.
+[0:51:29] Speaker 1: Okay, Cregyn, everybody gets 20 tips for hit points. If you've used any, you get up up to 20.
+[0:51:38] Ian Lurie: I was gonna say, because temps don't stack, but yes, you get your hit points back if you lost them, you
+[0:52:06] Speaker 1: I am going to cast Moon Beam on the big guy,
+[0:52:19] Ian Lurie: okay,
+[0:52:21] Speaker 1: at third level, so that's 3d 10. Oh, it's got to make a con, say it's probably sucks. Con 17,
+[0:52:48] Ian Lurie: it says,
+[0:52:49] Speaker 1: yeah, it's all right. So, 27 is 13,
+[0:53:02] Ian Lurie: all right
+[0:53:03] Speaker 1: 13 radiant
+[0:53:10] Ian Lurie: okay?
+[0:53:16] Speaker 1: Nobody's really hurt yet, are they? No, I'm going to back away a little bit, yep, that's that's good.
+[0:53:30] Ian Lurie: Okay.
+[0:53:31] Speaker 1: Oh, wait, I'll be.. what's the.. what's with what's with the wolf is, that a wolf on the other side,
+[0:53:43] Ian Lurie: that yeah, that's um, that's Fenris. It's he's.. I just have it there as a to need it to have to use it if we need it. That's, uh, that's Richter's wolf.
+[0:53:54] Speaker 1: Okay. Where'd Mossy go? Then
+[0:53:57] Ian Lurie: Mossy's right there. Oh, okay. Good. I
+[0:53:58] Speaker 1: just want to make sure I'm still within 30 feet of everybody, that's it. I'm done.
+[0:54:03] Ian Lurie: Okay. All right.
+[0:54:07] Rikterr: Jamie, I'm looking in our campaign, and it looks like the only one of your characters I see is Mossy Oak, parenthetical 2024 So you might have took your other character out character,
+[0:54:21] Ian Lurie: watch, no, but I may have, but I may have, because I've been trying to do some housekeeping, and I thought 2024 was the one you're using. I'm sorry,
+[0:54:28] Mossy Oak: no figured out what still shows me in it. Okay, it still shows me is in the campaign.
+[0:54:34] Ian Lurie: Yeah, but okay, I'll look at it after. I think I may have deactivated that character. It's because the encounter builder looks at all characters that are active, so I had to deactivate a bunch, so I could get accurate calculations in the encounter builder,
+[0:54:51] Mossy Oak: because sorry about that,
+[0:54:53] Ian Lurie: I was worried about making this too difficult for some reason, but anyway, okay, after this game, remind me, and I'll put you back. Cool. Okay. So, Drac, this thing is right up on you now.
+[0:55:12] Fancy Drak: Okay, Sarah is going to make her two claw attacks,
+[0:55:18] Ian Lurie: okay,
+[0:55:19] Fancy Drak: on the little baby blight,
+[0:55:22] Ian Lurie: yep,
+[0:55:24] Fancy Drak: with a 19 and a natural 20.
+[0:55:27] Ian Lurie: Those both hit
+[0:55:29] Fancy Drak: all right. So
+[0:55:30] Mossy Oak: you have advantage, though, because I'm playing thing with you. Oh,
+[0:55:33] Fancy Drak: so I have a critical hit and a 24
+[0:55:39] Ian Lurie: Okay,
+[0:55:40] Fancy Drak: okay. So for the critical hit, that's going to be eight plus 24 points of damage.
+[0:55:47] Ian Lurie: Hey,
+[0:55:50] Fancy Drak: and for the second hit, seven points of damage.
+[0:55:54] Ian Lurie: All right, so Sura takes her claw, the first claw, and just swipes through it, and you just hear this sound as it just disappears, like there's there's a pile of sawdust, that's all that's left.
+[0:56:11] Rikterr: Awesome,
+[0:56:12] Ian Lurie: it had four hit points left at the beginning of that round. Oh, so if it was a PC, it would have been Insta killed, so it is most definitely gone, so Drac, now it's you,
+[0:56:25] Fancy Drak: Sarah is also gonna assume that she's not in direct melee with the blight, no, okay, she's gonna loop around Mossy and engage the other, the other baby blight, and that's the end of her,
+[0:56:38] Ian Lurie: okay,
+[0:56:39] Fancy Drak: okay, I've got Hunter's Mark on this. I've also got Fairy Fire. Put away the bow, bring out the dual daggers.
+[0:56:52] Ian Lurie: Okay,
+[0:56:56] Fancy Drak: that's a 28 to hit
+[0:56:59] Ian Lurie: that hits as it is an AC 2020 AC, so okay,
+[0:57:03] Fancy Drak: and a 27 to hit, okay, and then plus Hunter's mark, okay, that would be 17 damage,
+[0:57:17] Ian Lurie: okay,
+[0:57:18] Fancy Drak: and 20 damage,
+[0:57:22] Ian Lurie: okay. looks like it felt that you slash at it, and into the roots where you hit it, you see this icker immediately start pouring out. There's no eyes or anything. It lets out this kind of, again, that kind of weird bubbling sound, but this time it sounds more like a scream than a roar. All right. right,
+[0:57:45] Fancy Drak: finish it off, Richter.
+[0:57:50] Rikterr: All right, how close am I to it's
+[0:57:54] Ian Lurie: actually not Richter's turn, it's sort of
+[0:57:57] Rikterr: a bitch.
+[0:57:57] Ian Lurie: Sorry,
+[0:58:00] Fancy Drak: finish them off, saying, go
+[0:58:03] Speaker 1: steal a kill
+[0:58:15] Ian Lurie: Ian punch that fuck away this vessel. I'll
+[0:58:29] Speaker 1: just punch the guy in, little guy in front of me. Are there any more of those guys?
+[0:58:34] Ian Lurie: Nope,
+[0:58:35] Speaker 1: that's
+[0:58:36] Ian Lurie: it. Not that you can see. Yep.
+[0:58:37] Speaker 1: Okay. Well, then sir is in a pretty good shape. Then why don't I just shadow step over to the tree?
+[0:58:43] Ian Lurie: Okay,
+[0:58:44] Speaker 1: wait, no, I don't want to shadow step over there. I want to run over there. I'll take a tack of opportunity from the guy
+[0:58:52] Ian Lurie: he swipes at you, getting a natural 20
+[0:58:55] Speaker 1: sweet
+[0:58:56] Ian Lurie: that is the toughest vine blight I have ever played. You take another eight points of damage, take that and bad bastard.
+[0:59:11] Speaker 1: Okay, then I'm going to pop, pop this guy.
+[0:59:15] Ian Lurie: I just want to point out that my CR one vine blight has done almost as much damage as my CR 16 gothias blight in this particular combat. Okay, do you pop up?
+[0:59:26] Speaker 1: Not the size of the wood, it's how it gets used. All right, that's a 16 plus 12. Oh no, shit, that's a natural 20. Oops, sorry, it's a natural 20 on the first hit and a 22 on the second hit.
+[0:59:48] Ian Lurie: Okay, do
+[0:59:50] Speaker 1: they both hit?
+[0:59:51] Ian Lurie: They both hit.
+[0:59:52] Speaker 1: Okay,
+[0:59:53] Ian Lurie: AC 20.
+[0:59:54] Speaker 1: Okay, so natural 20, that is a That's 32 points of damage.
+[1:00:07] Ian Lurie: Okay,
+[1:00:13] Speaker 1: and the second fit is 11 points of damage.
+[1:00:20] Ian Lurie: Is it? Is it
+[1:00:21] Speaker 1: looking rough?
+[1:00:23] Ian Lurie: It looks pretty rough.
+[1:00:24] Speaker 1: Okay. Oh, you know what. And then I'm, then I'm going to use my bonus action to do my, my Archer Starry Archer out of a shoot back at the little little guy, see if I damn
+[1:00:44] Ian Lurie: it. He says,
+[1:00:46] Speaker 1: oh, that's a two plus 11 is 13,
+[1:00:50] Ian Lurie: that hits it's only got a 12 AC, it's a CR one
+[1:01:00] Speaker 1: that is 11 points of radiant damage
+[1:01:05] Ian Lurie: still up. I'm making this thing into an this thing's becoming an NPC,
+[1:01:11] Speaker 1: and as a
+[1:01:13] Mossy Oak: we adopt pretty friends
+[1:01:14] Speaker 1: as a free action. I turn around and I give a little bow to it, I
+[1:01:25] Ian Lurie: Okay, but Gothias Blight and Jack, give me a, it's time for a desperation move. Give me two DC 20 con saves, I Oh,
+[1:02:05] Rikterr: if Jack's within 10, don't forget your plus five from me.
+[1:02:10] Fancy Drak: Oh, okay, that's hold on.
+[1:02:13] Ian Lurie: Are you within 10, 510, 15? You're not within 10, okay? Then
+[1:02:17] Rikterr: forget the plus five.
+[1:02:18] Ian Lurie: Let me make sure that I'm measuring that right, yeah, yeah, not quite.
+[1:02:26] Fancy Drak: I've got a 20 and a 20. Sorry, I've got a 20 and a 19.
+[1:02:30] Ian Lurie: Okay, so you fail on one, this root comes out of the ground, it wraps itself around you, you immediately take 19 points of necrotic, and you are grappled. Oh, Jesus, and he heals 19 points. Whoops, no, heals Ian. Hey. then turns and slams Richter, getting a 25 probably misses,
+[1:03:21] Rikterr: because I'm going to cast shield, it does
+[1:03:24] Ian Lurie: okay, so it brings all its branches down on you again and again. You managed to put up your shield. There's this flare of almost electric light as the branches try to hit you, and it just rears back in frustration. Richter, it's your turn. Oh no, wait, it's the Razor Vine Blight. What does he do? I.. I run away, little guy, run away.
+[1:03:54] Mossy Oak: He's just running
+[1:03:58] Ian Lurie: away. I'm too stupid. He takes a swipe, missing, and then Mossy and Sura both need to make DC 12 deck saves,
+[1:04:17] Mossy Oak: easy, easy.
+[1:04:19] Fancy Drak: Sura makes it
+[1:04:21] Ian Lurie: okay, so all those roots come up out of the ground and sort of swipe at you, but they all miss the blight. Says, "Damn it, Richter, it's your turn.
+[1:04:33] Rikterr: You sure?
+[1:04:35] Ian Lurie: Yeah, yeah, yes, I'm sure.
+[1:04:37] Rikterr: All right, I am going to attack the big blight with Bastion, so 21 on the first hit and a 30 on the second,
+[1:04:56] Fancy Drak: yeah.
+[1:05:00] Speaker 1: Oh,
+[1:05:16] Rikterr: that's going to be 20 nope. I'm going to go ahead, and I'm going to bonus section use divine on top of this. That's going to be 34 points of radiant damage.
+[1:05:44] Ian Lurie: Okay, there's an explosion of light as you just bring the ax right down into the heart of the tree. It's still standing, but it looks really, really bad.
+[1:06:00] Rikterr: All right, and I'm going to, who's that to Richter's right, is that Sango?
+[1:06:05] Ian Lurie: That's Sango. Yeah,
+[1:06:07] Rikterr: um, can I can Richter move in between Sango and Drac without triggering an attack of opportunity?
+[1:06:19] Ian Lurie: No, you would have to move back out of out of the creature's threat radius to do that, because you can't move in between. Here,
+[1:06:29] Rikterr: you know what it's worth it. Richter wants to get his aura for both of them, so be your worst creature.
+[1:06:39] Ian Lurie: I rolled a two, so not gonna hit Mossy. Your turn.
+[1:06:48] Mossy Oak: All right, you know, we're gonna kick it back old school rogue with some dagger dagger fun time. The returning shot, my little magic friend, onto the big battery tree over there, that is 30 to hit. Oh, wait, it has very fire at 30 bump wall that's going to be I 27 the 28 points of damage by a dagger to the big tree.
+[1:07:52] Ian Lurie: Your dagger spikes the tree. How do you want to do this?
+[1:08:00] Mossy Oak: So I imagine Richard over there, like putting his K-pop, like I've got you guys, and then just over their head gets it right in an eye, eye switches the whole thing, goes and
+[1:08:13] Ian Lurie: is dead
+[1:08:15] Mossy Oak: now. I'm gonna look at the other guy and be like, "You should have run, eek, and that's a natural 20 on my dagger for the little guy.
+[1:08:26] Ian Lurie: Oh dear,
+[1:08:30] Mossy Oak: sorry, Barry. Attack, so
+[1:08:32] Ian Lurie: the best you could.
+[1:08:34] Mossy Oak: Did tell you to run, I really did.
+[1:08:38] Ian Lurie: Yeah, too intelligence didn't even know what yours all had heard was blah blah blah. Okay, the tree sort of shutters and then it collapses into this puddle of goo, and I need Drac Richter and Sango to all give me roles again. DC, hold on. Got to look here, DC 20 will saves as this demonic Iker just flows around your ankles, and before you can do anything, seeps into your armor, you know, past your sandals and your boots.
+[1:09:31] Fancy Drak: 23
+[1:09:32] Ian Lurie: Okay,
+[1:09:37] Rikterr: the hell is a will save, uh,
+[1:09:39] Ian Lurie: wisdom save. Sorry.
+[1:09:40] Rikterr: Okay, I was like
+[1:09:44] Fancy Drak: the secret stats y'all gave us.
+[1:09:46] Ian Lurie: I dated myself there big time.
+[1:09:49] Fancy Drak: Totally,
+[1:09:51] Rikterr: that is going to be a dirty 20.
+[1:09:54] Ian Lurie: Oh boy, okay. You guys all save you. All feel for a minute as if your flesh is literally going to warp because of the touch of this stuff, and you all just kind of grit your teeth and and step back out of it, and not getting warped by the demon Iker
+[1:10:16] Mossy Oak: for me.
+[1:10:18] Fancy Drak: I touched in it.
+[1:10:21] Mossy Oak: Can I may change them into a jar,
+[1:10:24] Ian Lurie: you can try. Sure,
+[1:10:26] Fancy Drak: this is the kind of stuff that's that's going to escape the jar, run around, and cause havoc.
+[1:10:31] Mossy Oak: You don't want to know about all the stuff of Mossy's inventory. I really
+[1:10:35] Fancy Drak: don't. I really
+[1:10:37] Mossy Oak: don't. Here's a couple of Doom buttons in there.
+[1:10:41] Ian Lurie: It's interesting when you cast mage hand, usually for you it appears as sort of a ghostly gloved hand. Here it manifests as this gray fleshless claw, and you still have the same control over it. It just looks very different as you
+[1:11:00] Mossy Oak: love the makeover, boo yell into that hand,
+[1:11:03] Ian Lurie: and you easily scoop some of the demonic Iker into a glass jar
+[1:11:20] Mossy Oak: spice jar from Ember Claus
+[1:11:25] Rikterr: marked Skimmelman.
+[1:11:28] Mossy Oak: No, I left that one with thistle beard. He made those really good pancakes,
+[1:11:35] Fancy Drak: cocaine cakes,
+[1:11:37] Ian Lurie: cocaine cakes. Yeah, oh my god, no battery acid,
+[1:11:42] Mossy Oak: sir. Why? Why? Definitely not on
+[1:11:45] Ian Lurie: that. Okay,
+[1:11:50] Mossy Oak: I'm gonna put it in a human
+[1:11:56] Ian Lurie: relative silence falls the sounds of the Golthias blight and your weapons, the sounds of your spells going off, all subside, and you can again hear all the combats going on around you, all around the city, as that sound kind of descends on you, and you also hear Hornsby say, I was coming out to hit it next, and Cornsby, and TPT, and Cravel all come out with their, their four charges. Sorry, there are five charges. What would you guys like to do, they
+[1:12:41] Mossy Oak: rescued.
+[1:12:43] Ian Lurie: I'm sorry.
+[1:12:44] Mossy Oak: By charges, do you mean
+[1:12:47] Ian Lurie: five people that they're protecting? Yes.
+[1:12:48] Mossy Oak: Okay. Fantastic.
+[1:12:50] Ian Lurie: Yeah. No, not actually. No,
+[1:12:51] Mossy Oak: it's actual physical chains that are pulling down, right,
+[1:12:56] Ian Lurie: that are pulling the city down. Yes.
+[1:12:57] Mossy Oak: Yeah. Okay. As an artificer who tinkers a lot, when I stand a chance, and going to check out how these chains are set up,
+[1:13:07] Ian Lurie: you could go take a look. Yes, absolutely.
+[1:13:13] Speaker 1: So, there were there four of them.
+[1:13:16] Ian Lurie: There are eight,
+[1:13:18] Speaker 1: eight of them.
+[1:13:19] Ian Lurie: Yeah, I
+[1:13:23] Speaker 1: Maybe we should get the charges to their, to the armory. Is that where we're supposed to? That's
+[1:13:28] Ian Lurie: where you're supposed to take them. Yeah.
+[1:13:30] Speaker 1: How far away is that from where we're at now?
+[1:13:31] Ian Lurie: So you are now here. Let me pull up the map. Hold on, so I can give you the lay the land, I
+[1:13:44] Mossy Oak: Now that battlefield was very cool about you took that always so forth. I was appreciating it all
+[1:13:53] Speaker 2: right.
+[1:13:56] Ian Lurie: You have just dealt with one of the big threats in the city. So you are here, you are in the center of the city, right here. There's combat all around you. This is a temple, and then this is the armory, so you're one straight shot away from the armory. It's in the
+[1:14:18] Mossy Oak: back of the armory,
+[1:14:20] Ian Lurie: so yeah, you can see the big chains, 1234567, So I counted wrong. There are.. oh, no, there's the eighth. I don't know. This is.. see, this is why you don't use AI to generate your images. There is not one right here in the back of the armory. There are.. I don't know why that's there. It's the same reason that there's actual lemurs down here. Did you notice that I said to do lemures, which are a kind of demon, and it did lemurs instead, and I just kept it because I just thought that was the most adorable thing ever. That there's.. it really is.
+[1:14:55] Mossy Oak: Yeah,
+[1:14:56] Ian Lurie: hordes of lemurs turning these enormous cranks that are slowly dragging the city to its doom, anyway. There are eight of them. I will tell you that, aside from this one that's stuck into the back of the armory, they are all placed about where they should be. And then this is where you're trying to get the eight folks that you are currently escorting.
+[1:15:19] Mossy Oak: Remind me of who were as for I'm sorry. Who are the five charges?
+[1:15:25] Ian Lurie: They're three elves, three elf adults, and two children. Okay, none of them look equipped for this. They are absolutely terrified.
+[1:15:42] Fancy Drak: If the children want to ride Sura, she can handle that.
+[1:15:46] Ian Lurie: They actually don't want to move away from their parents.
+[1:15:49] Speaker 2: Okay.
+[1:15:53] Fancy Drak: All right. In that case, Sarah and I will take up the rear,
+[1:15:58] Ian Lurie: okay? all right, so you guys are trying to lead them down to the armory without getting intercepted by anything, correct.
+[1:16:28] Mossy Oak: Yeah, I think maybe we're all doing like a perimeter thing around them.
+[1:16:31] Ian Lurie: Okay,
+[1:16:32] Mossy Oak: if that street it looks wide enough, just based on are those people in that path,
+[1:16:37] Ian Lurie: you can ignore the, ignore those, those are just. could we
+[1:16:42] Mossy Oak: essentially encircle them?
+[1:16:44] Ian Lurie: Yeah, their flavor, they could actually be huge creatures. If you look, these are the sizes of the buildings, right? So these are, if these are real things, they are pretty huge. So just ignore them, they're just there for flavor. Okay,
+[1:17:02] Fancy Drak: Mossy, do you or I want to like run up ahead using our, our,
+[1:17:09] Mossy Oak: yeah, I'll scout,
+[1:17:11] Fancy Drak: yeah, let us know that we were gonna get anything crazy, weird, or ambushed.
+[1:17:16] Mossy Oak: Yep, popping up, blessing, and about to go spat scout and message,
+[1:17:25] Ian Lurie: okay,
+[1:17:26] Speaker 1: before, before the minute's up, everybody will get pull up on 20 temporary hit points again, and that would even include the charges that are coming with us, so
+[1:17:39] Ian Lurie: wow, they also feel really good, nice. My hit points just quadrupled.
+[1:17:47] Fancy Drak: Now they have 21
+[1:17:48] Ian Lurie: that's right. Now they're not. If they were, if they were that weak, they'd be completely fucked. They wouldn't even survive the fall of the city.
+[1:17:57] Rikterr: There's the level up you were asking for, JP.
+[1:18:00] Fancy Drak: Thank you. Thank you. That's
+[1:18:01] Ian Lurie: right. There you go, there you go. All right, so Mossy, why don't you give me a stealth check,
+[1:18:15] Mossy Oak: natural 20 or a 47 for Okay,
+[1:18:24] Speaker 2: Jesus Christ.
+[1:18:25] Ian Lurie: Chances are nothing, chances are nothing sees you. Okay, you see, you actually see a group of eight individuals, they look like civilians being led by three soldiers that look like human soldiers, and they come out of the armory, which is still about 100 yards away, so you're just seeing this in the distance. They come out of the armory, they turn right, and they kind of walk, they very stealthily, you know, they're being very careful. They kind of sneak down an alleyway, but other than that, you don't see anything.
+[1:19:19] Mossy Oak: What do these guys look like
+[1:19:21] Ian Lurie: three human soldiers and eight civilians?
+[1:19:30] Mossy Oak: Okay, I can see them.
+[1:19:31] Ian Lurie: Yeah, I mean they are 100 yards away, so you're not getting like a perfect look at them, but
+[1:19:38] Mossy Oak: they're 100 yards. Okay, but
+[1:19:40] Ian Lurie: we go all
+[1:19:42] Mossy Oak: right. I will pass that information along on the party line. Otherwise, looks pretty clear. Oh, wait, I'm going to drop down I that sees just to confirm that it is actually clear.
+[1:19:53] Fancy Drak: Do they have shackles, chains, manacles? Are they being like led to some sort of slaughterhouse? I
+[1:20:04] Ian Lurie: Uh, Mossy, it did not look like.. why don't you give me a give me a perception check.
+[1:20:14] Speaker 3: 25
+[1:20:15] Ian Lurie: okay? It looked like they were all sneaking.
+[1:20:18] Mossy Oak: Yeah, they were just being sneaky. Then I respect
+[1:20:22] Fancy Drak: that. That's cool, that's cool.
+[1:20:23] Ian Lurie: And the soldiers were like motioning them on, so like a soldier came out, leaned back into the armory, waved his arm, his hand, then the eight people came out with the two other soldiers with them, and then they all just headed down the alley.
+[1:20:38] Mossy Oak: Oh yeah, they, they got their own guard duty,
+[1:20:41] Speaker 1: so you say this to the party line, right?
+[1:20:47] Mossy Oak: Yes,
+[1:20:48] Speaker 1: Sango looks over at the people we're escorting and lets them know this and asks if that looks odd, if that seems odd to them, like why would they leave the armory,
+[1:21:02] Ian Lurie: TPT says that is actually a good sign, because Brunner was working on a rescue mission for everybody. It sounds to me like they are leading people to safety. Oh, okay. The
+[1:21:24] Speaker 1: party line that back to them.
+[1:21:30] Speaker 3: Wait, do you want me to go into the temple? Do you mean following
+[1:21:35] Ian Lurie: them, the temple or the armory?
+[1:21:37] Mossy Oak: Sorry, armory, but I do. Do we see anything putting my, my goggles on for a minute?
+[1:21:43] Ian Lurie: No. Actually, yes. You see very thin, like gossamer illusions of people all around you behaving as if you're not there. There are people holding their hands up to the sky, screaming as if in supplication. There are people falling to the ground. I'm
+[1:22:17] Mossy Oak: watching ghost to the fall right now,
+[1:22:19] Ian Lurie: and then there are there are people, some of those, some of them, after they fall to the ground, all of these clawed hands reach up out of the ground and drag them underground, and all that's happening, you know, it's not, you can tell these are not ghosts, right, that that's you're familiar with what a ghost looks like. This is something else playing out in front of you.
+[1:22:49] Mossy Oak: And all of my arcanery, have I seen anything or read anything like this?
+[1:22:54] Ian Lurie: No. Huh?
+[1:22:58] Mossy Oak: Okay. It is. It is clear for you to move forward, but once we're secure in the temple, I don't want to talk to you about something, Richter. This might be your jam.
+[1:23:14] Ian Lurie: Okay,
+[1:23:15] Mossy Oak: so I will perch up somewhere and try and keep an eye for where they're coming. I have my bow out. If anything attacks them, I'm there.
+[1:23:23] Ian Lurie: Okay.
+[1:23:25] Rikterr: All right, let's do it.
+[1:23:27] Ian Lurie: All right. So you guys, why don't you all give me stealth rolls as a group? I'm going for the average Hornsby natural 20 on the stealth
+[1:23:44] Fancy Drak: track gets a natural 20, which leads to a 37
+[1:23:48] Ian Lurie: Okay, I am the wind, he says rather loudly, I
+[1:24:08] Speaker 1: Cregy got a 15, actually not bad.
+[1:24:11] Ian Lurie: Okay,
+[1:24:13] Speaker 1: Sango got a 28
+[1:24:15] Ian Lurie: Okay, Richter, how'd you do?
+[1:24:19] Rikterr: So, what had happened was,
+[1:24:22] Mossy Oak: oh no, this is what happens when I leave you alone.
+[1:24:27] Rikterr: Yep,
+[1:24:32] Ian Lurie: okay.
+[1:24:34] Fancy Drak: Just the crackling in his pocket was just like too tempted, like when you got deep fried pork skins, and he's like, you just gotta
+[1:24:40] Ian Lurie: start crunching on stuff, and it's true. The pocket bacon just hard
+[1:24:45] Mossy Oak: to, hard to resist. Stubs his toe trying to pick a hair off pocket bacon.
+[1:24:49] Ian Lurie: Stubs is actually stubs his toe on on Hornsby, and then Hornsby actually, this, so this is what happens. Richter, you're walking along, you accidentally kick a rock that hits Hornsby, and Hornsby says, "Oh, very loudly, and spins angrily on you, and he reaches about to your kneecap, but looks absolutely enraged, and you hear the flapping of wings as this creature that has an enormous beak, this big almost fin of bone on the back of its head, huge long claws, and these leathery giant wings just swoops down on you guys. And
+[1:25:52] Mossy Oak: how far away are they from me?
+[1:25:54] Ian Lurie: They are still about 200 feet away, so not, you know, not really far, and it comes down, and you guys see it coming, so you can roll initiative. It doesn't just get the jump on you, you He said
+[1:26:26] Rikterr: I am rolling like Duky
+[1:26:29] Speaker 1: Santos got an 18, Craig's got a 16.
+[1:26:38] Mossy Oak: Hey Ian, do I get my attack that I was holding, and can I switch it if I realize that I don't have a bow,
+[1:26:46] Ian Lurie: you still need to roll initiative,
+[1:26:48] Speaker 3: okay?
+[1:26:49] Fancy Drak: 26 okay,
+[1:26:54] Mossy Oak: 22
+[1:26:55] Ian Lurie: All right, just keep your, keep your initiatives in your heads, please. All right, so I believe Drac, you go first.
+[1:27:13] Speaker 2: Okay, give me one second. It's
+[1:27:24] Fancy Drak: okay. How high up is it? It
+[1:27:28] Ian Lurie: is in a full dive towards you guys, so you can assume it's 50 feet up at this point.
+[1:27:36] Fancy Drak: Okay, I'm gonna cast in snaring strike,
+[1:27:42] Ian Lurie: okay. and
+[1:27:44] Fancy Drak: I'm going to impose disadvantage on it.
+[1:27:50] Ian Lurie: Okay, how does that work mechanically? Do I have to make a roll or something? Or
+[1:27:54] Fancy Drak: yes, it is a do it is a is a hold on save DC 19 strength roll, and if it fails, it is is wrapped by vines and things, and it is restrained.
+[1:28:20] Ian Lurie: Okay, it it saves,
+[1:28:24] Fancy Drak: okay?
+[1:28:27] Ian Lurie: It almost looks like you have it for a second, and it does this banking looping thing, and you miss someday. That's gonna work. Who's after in that case? Bonus action, Hunter Spark. Okay? Who's after Drac?
+[1:28:44] Speaker 1: So go ahead and 18.
+[1:28:46] Ian Lurie: Someone else had a 22 I think it was Mossy.
+[1:28:48] Speaker 3: I did
+[1:28:48] Ian Lurie: okay.
+[1:28:49] Mossy Oak: I am 200 feet away.
+[1:28:52] Ian Lurie: You are now only 100 feet away, because it's diving full speed.
+[1:28:58] Mossy Oak: It's diving full speed.
+[1:29:00] Ian Lurie: Yeah, this thing is really fast.
+[1:29:04] Speaker 3: Okay,
+[1:29:07] Mossy Oak: hold on. I have to see if I, if I'm to be able to see. So I want to do this,
+[1:29:22] Ian Lurie: you're You're realizing now, by the way, that this thing is about the size of a Volkswagen bus.
+[1:29:31] Mossy Oak: Okay, so I need it to make a con save of 19. Is
+[1:29:39] Ian Lurie: this a spell, or
+[1:29:42] Mossy Oak: is it? Yes,
+[1:29:44] Ian Lurie: it saves.
+[1:29:47] Mossy Oak: Dang it,
+[1:29:48] Ian Lurie: as it's getting closer now. You see, it has these.. it's all kind of greenish gray. Its eyes are the same color as its skin. It has these spines and spikes growing out of it at all sorts of weird angles, and this long spiny tail with these two enormous spikes on the on the end, and these long vicious-looking claws. It looks like if it gets into it, gets in a melee with you, it can do a lot of damage.
+[1:30:18] Mossy Oak: Okay, so I'm going to use my movement and my bonus action to dash, so I'm within about 40 feet of that.
+[1:30:27] Ian Lurie: Okay. All right. Does anyone else have higher than a 20? No. Okay. The rock takes its turn now. It lets out, it opens its beak and lets out this horrendous screeching, just as it comes right into the middle of all of you, and everybody needs to make a DC 15 con save, except for Mossy, I a
+[1:31:04] Fancy Drak: concept, okay? Okay, 11 plus four, that's 15,
+[1:31:13] Ian Lurie: okay?
+[1:31:14] Rikterr: Is everyone within 10 feet of Richter?
+[1:31:16] Ian Lurie: Yes,
+[1:31:17] Rikterr: then plus five,
+[1:31:19] Speaker 1: okay? Sango got a 15 plus five is 20. Craig and got a 14 plus five is 19. Okay,
+[1:31:28] Rikterr: Richter got a 21
+[1:31:30] Ian Lurie: Okay, um, everyone in the group that you're leading falls to the ground just completely stunned. They don't appear to be hurt in any way, they're just stunned, they just can't move, they can't do anything. Then let's see, it loops around, grabbing for, say, Cregyn getting a natural 20 on one attack and a 16 on the other,
+[1:32:15] Speaker 1: that 20 obviously hits, unless you know that silver barbs, that
+[1:32:26] Ian Lurie: it stayed on the boat, that would have been totally fine. All of this stuff can be reused, nothing goes to waste. Okay, so you on it's not a crit, so you take 10 points,
+[1:32:40] Speaker 1: he's got to reroll it, and
+[1:32:43] Ian Lurie: I thought silvery barbs means it's just not a no,
+[1:32:46] Speaker 1: it's got to reroll. I'm hoping it's not a crit again.
+[1:32:50] Ian Lurie: It was not, it was a 22
+[1:32:54] Speaker 1: that's my armor class. So,
+[1:32:55] Ian Lurie: okay, so you take 10 points piercing and 10 points poison damage, and then as it touches down, everybody needs to make everyone except Mossy needs to make a DC 15 con save, so touches down, all these spores explode off of it everywhere, just like the impact of it touching down on the ground just makes this cloud emerge from its skin,
+[1:33:36] Speaker 1: Sago saves Creg and saves with Richter Zelma.
+[1:33:43] Ian Lurie: Okay, Mossy didn't have to save track.
+[1:33:47] Fancy Drak: Sarah gets 16,
+[1:33:48] Ian Lurie: okay,
+[1:33:49] Fancy Drak: and track gets a dirty 20.
+[1:33:52] Ian Lurie: All right, the rest of the group that's on the ground starts coughing and hacking, and you can see there's like they have blood coming out of their noses and their ears. This is definitely hurting them. And that's it for the rock. So that was 20, I think. Someone had an 18.
+[1:34:13] Speaker 1: Yeah, same goes
+[1:34:14] Ian Lurie: nice.
+[1:34:16] Speaker 1: How big is this creature?
+[1:34:17] Ian Lurie: It's about the size of a Volkswagen bus. It's large,
+[1:34:21] Speaker 1: large. Okay, okay. I'm going to
+[1:34:42] Mossy Oak: fuck that thing, it's a Skeksis who found meth,
+[1:34:46] Ian Lurie: yeah,
+[1:34:46] Speaker 1: yeah, no shit. Okay, I am going to fuck, I'm gonna, I this thing could fly right. Fuck, I'm gonna shadow step next to it and pop, pop.
+[1:35:10] Ian Lurie: Okay,
+[1:35:14] Speaker 1: that is a 19 plus 1231 to hit on the first
+[1:35:19] Ian Lurie: one.
+[1:35:21] Speaker 1: That is a six, that's 12 damage punching, and then that's a key strike key point for stunning strike.
+[1:35:33] Ian Lurie: What's the DC 19? Yeah, he makes it wasn't sure.
+[1:35:49] Speaker 1: Okay, and then I'm going to hit again. That's a nine plus 12 is 21
+[1:35:58] Ian Lurie: Okay, that also hits.
+[1:36:00] Speaker 1: Okay, well, that is 11 damage, and another stunning strike. It
+[1:36:10] Ian Lurie: fails.
+[1:36:11] Speaker 1: Sweet stunned doesn't have immunity to stun.
+[1:36:18] Ian Lurie: No, it does not have immunity to stun. I'm just checking here. Nope. Okay, it freezes in place, and for the sake of having mercy on all of us, and this not becoming a slog, while it is stunned. If you hit something that's stunned, does it come out of the stun? No,
+[1:36:40] Speaker 1: no,
+[1:36:41] Ian Lurie: no. We'll just say that you guys gang up on it and beat the living crap out of it while it's done, because it would definitely not survive a round of attacks from you guys. You hack it to pieces, we
+[1:36:52] Speaker 1: get advantage on attacks against it.
+[1:36:54] Ian Lurie: Yeah, yes, no, it's it's it's brutal and horrible.
+[1:37:01] Mossy Oak: Any chance faster full of little feathers.
+[1:37:04] Ian Lurie: Actually, it also collapses into that Icker, but this time you, you kind of jump back and nobody gets covered in Iker.
+[1:37:19] Fancy Drak: Check the check the wards, make sure, like, bandage them up, or make sure that they are taken care of.
+[1:37:27] Ian Lurie: Yeah, they do need to be bandaged. They need to be.. you realize that basically they have inhaled these spores, and the spores kind of affected them. They're all going to be sick for a while, but you don't think it's going to kill them. It's just they're just miserable right now.
+[1:37:44] Speaker 1: Give them all a good berry, just a little little vitamin.
+[1:37:49] Ian Lurie: Okay, that helps. It does help
+[1:37:54] Mossy Oak: shake it off. Yeah, yeah, I'm gonna go rescow it again.
+[1:37:58] Ian Lurie: Okay, restalify. James.
+[1:38:08] Mossy Oak: Three.
+[1:38:09] Ian Lurie: Okay.
+[1:38:10] Rikterr: How long does the temporary hit points last, James,
+[1:38:14] Speaker 1: until you finish a long rest?
+[1:38:16] Rikterr: Okay. Thanks.
+[1:38:22] Ian Lurie: Hey, Mossy, give me a perception check.
+[1:38:30] Mossy Oak: 13,
+[1:38:33] Ian Lurie: a piece of paper drifts by you, and for some reason you look at it and you're like, I need to grab that, you're not sure why I Okay, you're not being compelled. There's just something about it.
+[1:38:47] Mossy Oak: Yeah. Well, keeping my little salt, these bottle use may hand to snatch it.
+[1:38:51] Ian Lurie: Okay,
+[1:38:51] Mossy Oak: bring it over to me.
+[1:38:53] Ian Lurie: Okay?
+[1:38:54] Mossy Oak: What does it say?
+[1:38:55] Ian Lurie: Can you read Abyssal? I know someone in this group can do. No, the
+[1:39:03] Mossy Oak: 2024 version of Mossy Cam.
+[1:39:06] Ian Lurie: Okay, you cannot. I
+[1:39:09] Rikterr: think doesn't Sango have that read or speak any language? Yeah, or whatever.
+[1:39:15] Speaker 1: It can understand spoken languages, but I don't think I can read it,
+[1:39:20] Ian Lurie: okay.
+[1:39:22] Speaker 1: Let me, let me check for sure development.
+[1:39:28] Mossy Oak: Sure, it's not draconic.
+[1:39:31] Ian Lurie: Yeah, I'm sure it's not draconic, I Um, okay, but for now, for now, you have that piece of paper. Nothing else appears to be a miss.
+[1:39:58] Mossy Oak: They're gonna see porn speed reads it. Wait, do I not have horns anymore?
+[1:40:03] Ian Lurie: No, you don't. I removed all of them because it was completely screwing everything up. No, none of those characters can read Abyssal.
+[1:40:10] Speaker 3: Okay.
+[1:40:11] Ian Lurie: Oh, except Cravel. Cravel can read Abyssal. All right. Well, once we, once we get there, you guys have a straight shot, as near as you can tell, to the armory from here. So, when y'all give me another group stealth check, Richter, I'm, I'm watching you.
+[1:40:33] Mossy Oak: Party life, you can do it, babe.
+[1:40:35] Ian Lurie: My God, well, I hope so, because the, the people that are following you, just, they're coughing and sneezing because of the spores and just they're making a lot of noise,
+[1:40:48] Fancy Drak: 29
+[1:40:49] Ian Lurie: okay, 12, all right,
+[1:40:53] Speaker 1: Craig, I did good, he got a 16, saying you got a natural 20 for 31
+[1:41:00] Ian Lurie: all right, you guys get up there, okay? And you get into the armory itself. Once you're inside, you actually walk up to these huge doors that are closed, and Hornsby walks up to the doors and pounds on them with his fist. The door opens just a little bit, and you see an armored person standing behind, and when it looks and sees them, they pull the doors wide open, and you guys are ushered into this space that is you doesn't look like what was in that picture. Basically, it's almost like a huge stone block house. It reminds you of the Temple of Helm. Actually, in a lot of ways, very functional, very utilitarian, not a lot of decoration, really heavy granite. You figure the walls here are probably seven or eight feet thick. The doors are iron, and then iron bound over the iron, so they're incredibly strong doors, and as they slam shut, it's plunged into this kind of dim, barely lit darkness, and around you you see pallets and sleeping bags and food that's been hoarded here and you figure maybe 180 to 100 people are in here plus some guards and they're all huddled here, and these are people that are terrified, and they look not emaciated, but like they haven't eaten much in days.
+[1:42:51] Mossy Oak: Ian, sorry, I can cast comprehend languages. Can you rewind to pretend that I cast that?
+[1:42:57] Ian Lurie: Oh, yeah, sure. Actually, why don't we just do that in one second? Cool, if you don't mind, and as you're standing there, the armored figure who opened the door takes her helm off, and it's an Elvish woman, a half Elvish woman, and she and Hornsby gives her this flawless salute, TPT salutes, and Cravel kind of gives this half-hearted, you know, wave of a hand, and Bronagh says, "Welcome to the armory, I am Brona, Commander of the Black Helms. I assume this group has you to thank for their safe return.
+[1:43:47] Fancy Drak: We helped, but they, they, they were managed. They managed to get here on their own, really. We assisted.
+[1:43:54] Ian Lurie: Barnsby says we, they needed our help, and we, we helped them get here. It's very important.
+[1:44:00] Speaker 1: What would Cravel say? Cravel
+[1:44:03] Ian Lurie: wouldn't say anything. Cravel would cock an eyebrow, be kind of like, yeah, whatever, guys. That's the way I picture it, anyway.
+[1:44:12] Speaker 1: Oh no, he would say we helped.
+[1:44:14] Rikterr: Oh,
+[1:44:15] Speaker 1: he would, he would want the credit.
+[1:44:17] Ian Lurie: Oh, okay, got it. Um, he nods, he says, I didn't want to say. Bruno says, I don't know how much they've told you about what's going on here, but forgive me if I ask who you are and how it is that you've ended up in our fallen city, oh,
+[1:44:45] Mossy Oak: we were on our way to hell to take care of it, but at a drag in that Brandon, us encouraged our families and destroyed a couple of cities, just stopped by a nice gift shop, I'm Mossy, I
+[1:45:04] Ian Lurie: She looks at each of you in turn. She wants someone to introduce you all.
+[1:45:10] Fancy Drak: Like most of our adventures, we ended up here by almost purely by accident. I'm track, and this is Sarah. She's totally fine. She's with me,
+[1:45:25] Ian Lurie: you notice. You figure for this group, sir, is not the weirdest thing they've seen lately. It doesn't even register. They're like, oh yeah, that's right, there's a dinosaur.
+[1:45:37] Rikterr: Richter steps forward, Richter steps forward to introduce himself, but as he does, he pulls out a canteen of water, and he reaches into Mossy's pocket and steals a little bit of pocket bacon. He drops the pocket bacon on the ground, pours a little bit of water out, waves his hands over, and he cast create food and water to feed the group
+[1:46:07] Ian Lurie: nice,
+[1:46:07] Rikterr: so it's 45 pounds of food and 30 gallons of fresh water, so try and nourish these malnourished people.
+[1:46:19] Fancy Drak: Jesus,
+[1:46:20] Rikterr: and my name is Richard Shepherd.
+[1:46:32] Ian Lurie: Bronagh nods at you all, and you can see she is tired, like this is someone who you know she is exhausted, and she says, I am, I appreciate, I appreciate this, and she waves her hand at all the food we've been on thin rations for weeks here as we've awaited rescue.
+[1:47:00] Rikterr: Well, save your rations and eat this. It's not the most flavorful of food, but it will nourish the part of you that needs to keep on fighting for yourselves.
+[1:47:11] Ian Lurie: As you will find, all food here becomes foul within moments. It is still, it's still satisfying, it is still nourishing, but it tastes horrifically bad. The same goes for water. We don't know why
+[1:47:31] Speaker 1: Sango dropped his invisibility
+[1:47:35] Ian Lurie: bath,
+[1:47:36] Speaker 1: Sango, and he just goes around and he starts looking for the most malnourished dozen or so people and gives them each a good berry.
+[1:47:49] Ian Lurie: Okay, no one, no one here is quite malnourished. It just looks like they've been eating the bare minimum to stay alive for at least a few weeks, but you do find some people who look like they could really use it, and they take the berries appreciatively. Verona says, "If, if you don't mind, I need a moment to speak to these three, so this would be a good time, Mossy, for you to look at that piece of paper, and on it it says binding contract one mortal soul assigned to assigned to Malacath the arch fiend, and then you keep reading, and you see the name, and your fingers just go numb with shock. Says Soul Bound Vanity Luck.
+[1:49:12] Mossy Oak: Oh shit,
+[1:49:15] Ian Lurie: this is a contract with the devil for her soul.
+[1:49:21] Speaker 1: What's what's Vanity Luck?
+[1:49:22] Mossy Oak: Is it her signature Vanity? They own the Clever Luck, the bar
+[1:49:28] Ian Lurie: Vanity Luck is her adoptive aunt. Basically, you matter.
+[1:49:33] Mossy Oak: Yeah, yeah. Backs the bar down in Saumur, where Jack had the orgy,
+[1:49:39] Ian Lurie: where Drac had the luck,
+[1:49:41] Speaker 1: ah, that was way back when.
+[1:49:43] Ian Lurie: Yeah.
+[1:49:43] Mossy Oak: Yes. Vanity Luck is Mossy's not onto backstage. It's the whole thing. Okay? Is it vanity's signature out here? Or,
+[1:49:55] Ian Lurie: um, there's no signature, it's just written into the contract, so you're not sure what that means exactly,
+[1:50:02] Speaker 1: so for clarity, she made a bargain for her soul.
+[1:50:12] Ian Lurie: Someone made a bargain for her soul with a devil named Maliketh,
+[1:50:19] Rikterr: Malika. Podcast,
+[1:50:29] Mossy Oak: I think Mossy is in so much shock, she's not going to say anything out loud at this point, but you were super perceptive, all of the hair on the back of her neck just stood up,
+[1:50:41] Ian Lurie: her tail went,
+[1:50:45] Speaker 1: oh, do you? Sorry, did you tell us this?
+[1:50:53] Mossy Oak: No, no, Mossy doctor saying it. Just the tail is poofed out, so you know you're off feeding people and whatnot.
+[1:51:02] Fancy Drak: Yeah. Yeah, Jack's not the only one, he's not feeding anyone, so I would love to do some sort of perception.
+[1:51:13] Mossy Oak: Yeah, make a perception on it.
+[1:51:15] Fancy Drak: That's a 21
+[1:51:18] Speaker 3: Yeah, you spotted
+[1:51:20] Ian Lurie: it, would probably be insight, not perception, but whichever,
+[1:51:23] Fancy Drak: Tony. One, I'll just keep the same roll.
+[1:51:26] Ian Lurie: Okay,
+[1:51:28] Fancy Drak: I'll kind of scooch up the Mossy and go. I see, I see, I see what's happening. You okay? I
+[1:51:43] Mossy Oak: Should do this. She's gonna cast him party. She's gonna do this, not with party line with message, so it's just to drag and tell him about our contract she just found for Vanity, she signed Malthus, so don't know what this is about. Don't have enough information to panic, but I have enough daggers to stab Malthus.
+[1:52:16] Ian Lurie: It's not Malthus, that's he's that's a 16th century economist, I think it's Malika.
+[1:52:22] Mossy Oak: Malika,
+[1:52:23] Ian Lurie: do I have that right? I think so, but anyway, Malika. Yes, I put.. I typed the name into the into the chat.
+[1:52:30] Mossy Oak: Thank you.
+[1:52:33] Fancy Drak: Look, if there's any way for us to protect vanity any way possible, we'll do it.
+[1:52:44] Mossy Oak: Don't have enough information to panic yet,
+[1:52:46] Ian Lurie: right? It's
+[1:52:47] Mossy Oak: part of a contract. I don't know if she made this deal.
+[1:52:56] Fancy Drak: At the very least, we should figure this out. Thanks, Richter.
+[1:53:07] Mossy Oak: Wikipedia, Wikipedia, funniest learning in community every damn time. Okay, so contract people here.
+[1:53:22] Ian Lurie: when
+[1:53:31] Fancy Drak: the, when the leaders come down talking to the, the other three, I'm kind of looking for that opportunity to start talking to her, because I got, I got some questions.
+[1:53:42] Ian Lurie: Well, she, so she comes back, and she says, 'You've, I've gotten there, debrief you clearly. We owe you a great deal. What I don't have much to offer here, but if we can help at all. We will
+[1:54:03] Mossy Oak: damn question. The fiends are part of the ones the humans are fighting off right now, correct? The
+[1:54:08] Ian Lurie: humans are fighting against both the devils and the demons, as far as you can tell. They were being attacked by devils when you got off the boat, and then you were all attacked by a demon on your way here,
+[1:54:25] Mossy Oak: so Mossy is going to find Richter now and tell him about what she saw with the goggles down,
+[1:54:30] Ian Lurie: okay?
+[1:54:35] Rikterr: Would that be an Arcana check to see if I recognize that or religion?
+[1:54:40] Ian Lurie: That'd be a religion check,
+[1:54:41] Rikterr: all right. That was a 26
+[1:54:47] Ian Lurie: Okay, what is happening here is something you believe is called a harrowing. Basically, this ground is being de-sanctified, and all the souls of anyone who died recently, so including in the fall of the city, are being either, if they were evil, dragged down and made part of Zerials' infernal legions, the devils, or they're ascending or moving to whatever other plane of existence they might go to, depending on who they are and what they believe, but the figures that she described as being dragged down into the ground, those were corrupted souls, those were people who had turned to evil or entered into contracts or something with devils, and they are being turned into soldiers in the Infernal Legions, this, this is what they wanted to do, right, this is what As Modi sender wanted to do,
+[1:55:51] Rikterr: right, I tell Mossy all that,
+[1:55:59] Speaker 4: okay, do
+[1:56:03] Speaker 1: Well, those
+[1:56:04] Ian Lurie: are people who are already dead, you know, who died recently, but they are already dead. You don't know what's happening with people who are running around the city, so..
+[1:56:13] Mossy Oak: and there's just questions. Um, there's no way Vanity would have been down here, right? I don't need to go rescue my aunt, right. Well, the
+[1:56:21] Ian Lurie: timing's off, right, because this, this happened seven or eight years ago, or seven, yeah, seven and three quarter years ago, and you saw Vanity just a couple of years ago,
+[1:56:34] Speaker 3: yeah,
+[1:56:34] Ian Lurie: in Sao Muir. So, no, she wasn't here when this happened,
+[1:56:39] Mossy Oak: is for them in this plane, it's not been that long, though. It doesn't feel like several years. How long does it feel like?
+[1:56:48] Ian Lurie: You can ask Bruna. Hey,
+[1:56:52] Mossy Oak: Bruna, how long has it been since the city was pulled down?
+[1:56:56] Ian Lurie: We've been down here for about four weeks, I
+[1:57:03] Mossy Oak: Cool, cool, cool, cool, cool, cool. And how long have the chains been in place pulling
+[1:57:10] Ian Lurie: since then? It all happened at once.
+[1:57:14] Mossy Oak: Okay, have you sent anybody out to inspect the chains?
+[1:57:18] Ian Lurie: We have been doing everything we can to get survivors here and keep them away from the temple, and those are really the two things we've been doing.
+[1:57:27] Fancy Drak: So we saw a group of soldiers guiding a group of survivors outside of the the armory. Is there a place for, is there a safe place for them to go? Is there some sort of way to exit
+[1:57:41] Ian Lurie: and throw Anthraxis. He was the leader of the Hell Riders, which were they were the elite city guard for, for this city, for Sogor, and he has been leading them to somewhere where he, he's trying to organize transport and and may have already done so, and he's trying to get people out, out of here eight at a time. Any larger than that, and, and we're all afraid that they'll get caught any smaller than that, and it'll take too long. It's very risky. We've lost some people, but it's better than nothing,
+[1:58:24] Fancy Drak: so have you has this particular location been attacked by the demons or the devils? My, like, is this place well fortified? Is this a good defensive position?
+[1:58:37] Ian Lurie: It's, it's been attacked several times. times, but when the demons attack, the demons attack, and they attempt to slaughter everyone here, and then devils attack the demons and drive them off, and then the devils attack, but when the devils attack, they are, they are simply trying to fright frighten people here into making bargains, so they'll do things like when we still had the doors open because we needed to be able to see what was happening, a devil swooped in and grabbed a child, and then try to force the parents to enter into a contract for their souls to return the child, but with the doors closed, it's, it's harder for them to get in, and we've been able to hold them off.
+[1:59:39] Mossy Oak: Did the asshole have a name, one that tried to steal a child for a contract.
+[1:59:44] Ian Lurie: Oh, it did steal a child, and no, we don't know the name.
+[1:59:50] Fancy Drak: So, at this rate, how, how long do you have? How long do you have to defend this position to get people out?
+[1:59:57] Ian Lurie: It would be another week at least, and Thraxis says we should be able to lead more people out soon, though he's getting, he's recruiting more, more surviving troops from around the city, and when he has enough, we should be able to lead more people.
+[2:00:22] Fancy Drak: Okay. Okay, kind of go into the party line. Like, I know that we've got our boat docked. Like, do we risk losing our boat if we stay and help these people?
+[2:00:34] Mossy Oak: Yeah. Do we know if Lori's gonna wait for us?
+[2:00:39] Ian Lurie: Voleth, Volat said he would wait. He's under contract. He said the boat would be ready in about two hours, and it's been about okay, but he will. Okay,
+[2:00:52] Rikterr: how long is it going to take to help move people? A
+[2:01:01] Ian Lurie: lot of open questions there. If you're going to try and move them all at once, you have to know where you're moving them first of all, and then you have to know what the transportation looks like. If you can move them all at once, you know it took you about 45 minutes to get from where you saved everybody over to here, and that's with the fight, the battle with the Gulfiest Blight at the same time, so you figure you can move a pretty, you can move a few people fairly far across the city, you know, across a third of the city, in about 45 minutes, it's not a huge city.
+[2:01:50] Speaker 1: How far away are they taking the people to be rescued?
+[2:01:55] Ian Lurie: So, just as you say that, the doors swing open and these three soldiers come in and and one of them has his helm off, and it's this really scarred, scarred, wiry, tall human male with long, really kind of greasy hair. He's clearly been fighting a lot. His armor is pitted and dented. You can see places where there's bits of demonic or that must have gotten on him and been wiped off. And he walks a little bit of a limp, and comes up to Brona and says, "Who are they? Bronah says, "Anthraxis. She raises an eyebrow. This is Notorious RBG. They helped escort Hornsby and his team back here. They apparently stopped in the city briefly, and have been drawn into things, and Thraxis says, of course, he waves in Thraxis hero. There you go. Um, he waves hand, says I apologize. We got another eight to the boats. We should prepare to move everybody as soon as possible, though we're running out of time.
+[2:03:36] Fancy Drak: Are you lying? Like two things: one, are we all okay with assisting and two, does anyone have a copy of the contract that we signed saying something like for any kind of language that says if we are late or delay or cause fall off to let the wait, are there any complicatuiis?
+[2:04:06] Mossy Oak: Is Mosy has atynctivitive.
+[2:04:12] Ian Lurie: This is acy. This is a huriver. Because, like, yeah, there's a contract, whatever. Let's say, for the sake of argument, that the contract says there's only three conditions under which the contract is ended. One is successful delivery of you down the river sticks. Two, you all end up dead. Three, what Volleth is placed in immediate and extreme danger of himself being killed. Those are the three conditions, and there's a ton of details to it, but basically, you know, either Volleth has to be reduced and hit points to the point where he's going to die the next time some time someone hits him, you all have to be wiped from the face of the planet, or he delivers you as far as possible on the river sticks.
+[2:05:15] Fancy Drak: Okay, good to know. Thank you. Should we offer our help.
+[2:05:22] Mossy Oak: Yeah, absolutely.
+[2:05:25] Rikterr: Yep, let's do it
+[2:05:27] Ian Lurie: all right on this go
+[2:05:31] Mossy Oak: around, though. I think you should run point, so I can use the rogues' blessing on all these folks to get them through quiet.
+[2:05:39] Fancy Drak: I'll take pointed in
+[2:05:42] Speaker 1: your, in your robes blessing cover,
+[2:05:44] Ian Lurie: and thraxes says, I'm sorry, we don't know you, I can't have you escorting these people through the city.
+[2:05:54] Speaker 1: Sure, we just helped some other people get here while you were gone. Bro, I can verify that I,
+[2:06:06] Ian Lurie: we're literally in the land of deceit. How do we know you didn't do that, so that you can get access to more of these people, and then do whatever it is you're going
+[2:06:17] Rikterr: to do to them? Richter's going, Richter's going to step forward, he's going to hold out his hand to anthrax, this, and he's going to say, "Give me your hand, sir.
+[2:06:32] Fancy Drak: He,
+[2:06:40] Ian Lurie: are you holding out your hand? Like, give me your damn hand. Are you holding out your hand? Oh, no, no,
+[2:06:45] Rikterr: no, no. Polite, as in just,
+[2:06:47] Ian Lurie: yeah,
+[2:06:48] Rikterr: just, just showing, showing vulnerability first, so that he can lower the walls and be a little bit more vulnerable with me personally.
+[2:06:56] Ian Lurie: Give me a persuasion check.
+[2:06:58] Rikterr: Yes, sir. I
+[2:07:04] Mossy Oak: I'm gonna use prestigious station to make him smell like warm cookies, so he has advantage
+[2:07:08] Rikterr: rolled a 14.
+[2:07:15] Ian Lurie: Okay, he reaches out his hand and takes yours.
+[2:07:23] Rikterr: I'm going to do something I don't normally do, as I use this different way, and Richter is going to cast Zone of Truth on himself, and he's going to tell anthraxis what he's done to say. While I'm within this, I cannot lie to you, or else you will know. So, if you'd like to know if you can trust us, ask me a question, and I will answer truthfully.
+[2:07:54] Ian Lurie: Does zone of truth have a verbal or somatic component?
+[2:08:00] Rikterr: Yes.
+[2:08:01] Ian Lurie: Okay. okay, let me see. You go to do that and anthraxis. weighs his other hand quickly, and your spell doesn't go off.
+[2:08:29] Mossy Oak: Okay, we could have a pissing contest all day, friends, but we'll get out of here.
+[2:08:35] Rikterr: Hold, no, no, no, no, no. He's, he's right to not trust us, and he's right to not know what I was about to do, sir.
+[2:08:43] Speaker 1: Well,
+[2:08:43] Rikterr: I'm sorry. I apologize.
+[2:08:45] Ian Lurie: Give me a perception check, Rick.
+[2:08:49] Rikterr: Yes, sir. Perception.
+[2:08:54] Speaker 1: Dagger comes walking up. Hey, did you tell him about the tree? You should tell him about the tree. Totally, tell him about the tree.
+[2:09:00] Rikterr: Uh, 14 perception,
+[2:09:03] Ian Lurie: okay. When he does that, and he takes your hand, the hand that you're holding doesn't feel like the hand that you see, I It only has the hand that you're holding, it feels like it has fewer fingers than the one that you can see, and as, okay, sorry, go ahead,
+[2:09:40] Rikterr: no, no, you go ahead, you go ahead.
+[2:09:42] Ian Lurie: Okay, just checking something here. and as soon as you think that, you're like, wait a minute, he suddenly changes from this relatively normal looking person. The only reason you put this together is because you got hit with a counter spell that he clearly did, and you started to think, wait a minute, he's a guardsman. How's he casting this really high-level spell? I mean, that's something that you know that's beyond the abilities of a lot of members of this party, and then you, you, the hand you're the hand you, you shake doesn't have the same number of fingers, and you suddenly rise, wait a minute, his hand only has three fingers and a thumb, and there's this shimmering effect as he changes and abruptly looks like this. Oh, get the fuck out of here, and as he does that, the three guards that were with him and a bunch of other guards also all change shapes into two other types of devils, they change shape into I gotta look at the right one, sorry, I They change shape, two of them change shape into these one to bone devils, which have these long spikes of bone coming off of their bodies in all directions, and they are quite large, and you hear people start screaming, and then a few of the others turn into these devils that have these tentacled beards coming off of them, and these long whips in their hands, and long tails, and and for axis says these souls are mine, and you will not have them, you Hmm, that, and you guys are all getting ready to draw weapons when there is, well, you can draw weapons now, obviously, if you would like, and roll initiative, and do all that good stuff,
+[2:12:52] Speaker 1: that was that was good
+[2:12:54] Fancy Drak: 2023
+[2:12:56] Rikterr: five I wrote great session, and now paying for it.
+[2:13:09] Ian Lurie: Mossy 1317
+[2:13:15] Speaker 1: goes a 15 Creg and got a natural 20 or a 17
+[2:13:46] Ian Lurie: Okay, um, so first thing you need to know about this is this is a horrible mess. There are civilians running around everywhere in here, and in the midst of them all are these two bone devils, which tower over the civilians around them, and then these 10 bearded devils, which are about humanoid size, and then Richter, this creature that's facing you, which it's very strange looking, as you saw, has a whip. It's clearly some kind of caster, you know that, because it just casts an incredibly powerful spell on you. And the first thing that had that happens here is, Richter, you need to give me a DC 25 wisdom, save
+[2:14:47] Rikterr: all 22 motherfucker.
+[2:14:58] Mossy Oak: Oh wait, I'm an East Flash Genius. I'm Adam Five.
+[2:15:03] Rikterr: Did you add your own aura? Oh, believe me, that aura was added.
+[2:15:08] Mossy Oak: Adding five.
+[2:15:10] Rikterr: Oh, did I make it
+[2:15:11] Ian Lurie: okay?
+[2:15:19] Mossy Oak: Hush, genius is the best part of being so weak and squishy,
+[2:15:23] Ian Lurie: so the ultra off, that's what anthrax is. Briefly looks at you and its eyes flash, and you almost get sucked in, and then you kind of, you know, Mossy throws something in the back of your head, and you basically end up no longer you no longer hypnotized it. Then let's see, are you still holding it?
+[2:15:55] Rikterr: Yes.
+[2:15:56] Ian Lurie: Okay, it It actually just, it just holds up a hand, and there's a small bead of fire in it, says if you attack us, everyone in here dies, except me, of course, I
+[2:16:24] Speaker 1: Do we know what that bead thing has hand looks like?
+[2:16:29] Ian Lurie: You can give me a, an Arcana check,
+[2:16:40] Mossy Oak: 29
+[2:16:42] Rikterr: natural 2427 20 and 17.
+[2:16:46] Ian Lurie: Okay, three drag. You are it's good thing he's pretty shiny. It's a marble. He's actually about to just throw a marble at someone. It's just gonna go and fall to the floor. The
+[2:16:59] Speaker 1: pebble from my hand,
+[2:17:01] Ian Lurie: it is a fireball, and if it went off in here, it would indeed kill, just it would kill every single civilian in here.
+[2:17:08] Speaker 1: Okay, okay,
+[2:17:14] Ian Lurie: it kind of, and the, the ultra off kind of rolls it around between his fingers like this, your choice. I'll come back. They won't.
+[2:17:30] Speaker 1: Wow, that's a
+[2:17:33] Fancy Drak: hardy line. I have the ability to one shot him, maybe I yeah,
+[2:17:43] Mossy Oak: but there's a lot of death.
+[2:17:47] Fancy Drak: Yes, but we need to make a decision, like we can do this. There's a chance that we can do this.
+[2:17:54] Ian Lurie: So you're saying there's a chance,
+[2:17:56] Fancy Drak: there's a chance
+[2:18:00] Speaker 1: I Craig and puts hands up and backs up. Don't know what you guys are gonna do, boss man, but this doesn't seem like my kind of thing, and he activates his I Be helpful if I looked at the right character sheet. His Twilight Sachs way just just keeps back it up.
+[2:18:39] Speaker 4: We could try. Oh, okay. And this isn't kind of real time, right? We're
+[2:18:46] Ian Lurie: gonna, we're gonna suspend,
+[2:18:48] Mossy Oak: okay? Okay, spend
+[2:18:49] Ian Lurie: game time for a minute here.
+[2:18:51] Mossy Oak: We could try in Buffalo, because I guarantee this asshole is afraid of the dragons, but we now bear marks of, and could play a really fun game of. you sure about that? It'd be worth a shot, we have,
+[2:19:05] Rikterr: we have one shot at this, and if this gentleman's not bluff, and there's going to be a lot of right now this creature wins if we try and kill it, and he gets this thing off, it gets all these souls, if it's not bluffing, and we stop, and it throws that thing, it gets all these souls, like we're in a bad, bad spot, where it's basically in a win-win situation. Yeah,
+[2:19:36] Mossy Oak: but if they die now, they're not going to be tortured as a soul, so honestly, would you rather live if it meant that way?
+[2:19:47] Speaker 1: Is Bronwyn here?
+[2:19:50] Ian Lurie: Bronagh is right next to him, and she looks absolutely frozen in shock.
+[2:19:58] Speaker 1: Okay, so you can make an insight
+[2:19:59] Ian Lurie: check if you want,
+[2:20:00] Speaker 1: yes,
+[2:20:10] Mossy Oak: sir. Wait, we have the band 17.
+[2:20:13] Ian Lurie: Okay, she is absolutely frozen in shock. She is horrified. She has no idea what the hell just happened,
+[2:20:25] Mossy Oak: Dan, the banner, give us some kind of status.
+[2:20:32] Ian Lurie: Give me an arcana check, religion check. Sorry.
+[2:20:39] Mossy Oak: Oh, come on, it's my third Arcana. Don't take away my 30 fine jerk 18.
+[2:20:45] Ian Lurie: Okay, good enough. Good enough. That banner applies to you, but also it only applies to devils that are directly under the command of Zariel. Ultra lots are mercenaries, they are actually from the plane of Gehana, the plane of chaos. They are not, they are not devils, strictly speaking. They frequently work with, with devils, like Volath is a Miranneloth, he is also not a devil.
+[2:21:20] Mossy Oak: Okay, so could we reasonably ask the mercenary we work for?
+[2:21:26] Ian Lurie: Sure.
+[2:21:29] Mossy Oak: Where do you work for mercenary?
+[2:21:30] Ian Lurie: Okay, so kicking back into regular time, he says I serve Zariel, the highest authority on this plane, directly accountable to his as Modi's himself,
+[2:21:45] Mossy Oak: is that a different shame than our banner?
+[2:21:48] Ian Lurie: No.
+[2:21:50] Mossy Oak: Okay, so party line, he does report to the guys we have the banner for, so he could play a very charismatic game here, he Here
+[2:22:04] Ian Lurie: he gestures at the banner, and he says that entitles you to leave. These souls are mine.
+[2:22:13] Mossy Oak: I don't want to leave.
+[2:22:15] Ian Lurie: Well, then you can stay. These souls remain mine. And just as he says that, this pounding starts on the door, like the pounding of it sounds like fists made of granite the size of dumpsters are pounding on the door right now.
+[2:22:45] Speaker 1: Creg and says somebody's gonna get that.
+[2:22:52] Ian Lurie: Then
+[2:22:55] Fancy Drak: we tell if they are demons, devils, or what faction they belong
+[2:22:59] Ian Lurie: to. Well, you can't see through the door, so you're not sure, and everyone in the room is like frozen.
+[2:23:06] Rikterr: Can I, can I insight check as to whether the demon creatures are looking in excitement at this noise or frightened at these possible new interlopers?
+[2:23:18] Ian Lurie: Sure.
+[2:23:25] Rikterr: 1818,
+[2:23:33] Ian Lurie: They're not scared, they're not panicked, but they're definitely not happy. This was not part of their plan, and you hear a voice cry out in a Bissell roar, and Abyssal from the other side of the doors, and I don't know, I still
+[2:23:46] Mossy Oak: have my spell up, I can understand
+[2:23:48] Speaker 1: it. The Sango wouldn't yell, but I understand that.
+[2:23:50] Ian Lurie: Okay, you hear a voice yell, Anthraxis, open these doors now,
+[2:24:01] Mossy Oak: somebody's in trouble,
+[2:24:05] Ian Lurie: and Interaxis says, or girls, that bitch,
+[2:24:14] Mossy Oak: what was the name, or
+[2:24:15] Ian Lurie: girls? I'll type it when it, when it's relevant. The hammering on the doors continue, and the doors, you can see that they're starting to actually, they're starting to actually come down. And Anthrax says, well, now you have a decision to make, that's a demon horde out there coming to stop us, and they're going to stop us by killing all these people. There's more screaming from all the people around you.
+[2:24:44] Speaker 3: Is there a
+[2:24:45] Fancy Drak: can I do? Like, I don't, I don't believe it. Damn, where he's saying, can I do an inside check?
+[2:24:50] Ian Lurie: Sure,
+[2:24:51] Fancy Drak: because, like, this sound, this feels like a bluff. 12,
+[2:25:00] Ian Lurie: I seems pretty, pretty difficult to read, being, you know, a neutral evil servant of the Lord of
+[2:25:11] Fancy Drak: Lies. He's trying, he's trying, he's
+[2:25:14] Ian Lurie: trying. You know, Drac, you are doing your best, man.
+[2:25:17] Speaker 1: Sango is gonna say in Abyssal, then let them in.
+[2:25:24] Ian Lurie: What I'm sorry, you said let them in.
+[2:25:26] Speaker 1: Then let her in. It's a her, right?
+[2:25:31] Ian Lurie: I don't know what they are.
+[2:25:33] Speaker 1: Let them in. In a Bissell, I
+[2:25:43] Ian Lurie: Are you trying to persuade him to do that?
+[2:25:46] Speaker 1: I had tried to let him know that I understood what.
+[2:25:52] Ian Lurie: Oh, okay.
+[2:25:53] Speaker 1: So that the chance of bluffing is reduced, and got it.
+[2:26:00] Ian Lurie: He says, "No, these souls are mine.
+[2:26:12] Speaker 1: Sounds like they have something to say about it in Abyssal.
+[2:26:15] Ian Lurie: He says, "He bars to the rest of his troops, set up on either side of the door, be ready for battle, and they set up around the door. What do you guys want to do? This is clearly going to come to a head in a second. Richter, you can tell you've, you've been in enough battles to know that door is not going to hold for much longer.
+[2:26:36] Rikterr: Are we still in within initiative? Are we out of initiative? Right, you're
+[2:26:42] Ian Lurie: out of initiative at this point. This is this is the tense standoff, where everyone's looking at everyone else, trying to figure out who's going to do what.
+[2:26:50] Rikterr: Oh man, I. oh, okay, while I While his attention is on what's going on outside, a Richter is going to look at him and cast banishment.
+[2:27:13] Mossy Oak: Oh,
+[2:27:17] Rikterr: so I need a Charisma 19 safe, I 23 sorry about that.
+[2:27:31] Ian Lurie: He's charisma, he's got a really high charisma. Ultra lost are really tough
+[2:27:36] Speaker 1: silvery barbs.
+[2:27:39] Ian Lurie: What does that do? It makes me roll again.
+[2:27:41] Speaker 1: Yep,
+[2:27:45] Ian Lurie: 23 again. God, I shit you not. I just rolled 219
+[2:27:49] Mossy Oak: Oh, trust you, even if you fudged it, it's.. it's worth it. Okay, so where are they all up against the front of the door now?
+[2:27:57] Ian Lurie: Everyone except for Anthraxis. Anthraxis is standing basically next, next to Richter, turns to Richter as Richter cast that spell, and says, actually, doesn't say anything, he just turns you and glares at you, and then heads for the door,
+[2:28:17] Speaker 1: Reagan is, as he's, he's still sort of moving back a little bit, he's he's pushing, he's kind of getting everybody else to move back.
+[2:28:26] Ian Lurie: Okay,
+[2:28:28] Rikterr: all the common folk, all the people. All
+[2:28:30] Ian Lurie: right,
+[2:28:31] Mossy Oak: How far across is the room we're in?
+[2:28:35] Ian Lurie: How far across is the room you're in?
+[2:28:37] Mossy Oak: Yeah,
+[2:28:37] Ian Lurie: it's about 200 feet across, it's crowded in here, but there's still 100 people in, but it's, you know, it fits all those people.
+[2:28:47] Speaker 1: Okay, so Sango is going to say to Anthraxis in Abyssal, they'll make you a deal,
+[2:29:03] Speaker 5: we'll help you defeat these people,
+[2:29:08] Speaker 1: but we get half, half the people, you get the other half.
+[2:29:17] Ian Lurie: Give me a persuasion check, I
+[2:29:31] Speaker 1: That's a 10.
+[2:29:32] Ian Lurie: Okay, I rolled a 24 I am rolling incredibly well in the last few minutes, guys, and I apologize because I haven't rolled under an.. I haven't rolled under a 19 for the last 15 minutes.
+[2:29:47] Mossy Oak: Yeah, if you could knock it off, that'd be swell. Yeah, that's gonna turn against
+[2:29:50] Ian Lurie: the
+[2:29:50] Mossy Oak: door.
+[2:29:51] Ian Lurie: I'm sorry.
+[2:29:52] Mossy Oak: Are they all up against the door now?
+[2:29:55] Ian Lurie: Everyone except for Anthraxis are lined up to either side of the door.
+[2:30:00] Rikterr: And what about Brona? Are they within like
+[2:30:04] Mossy Oak: 20 feet of each other?
+[2:30:06] Ian Lurie: Rona is moving back to protect the rest of Bronagh and all the remaining troops. The people who haven't morphed are back with all the civilians.
+[2:30:15] Speaker 1: Okay, so what is his response to my offer?
+[2:30:19] Ian Lurie: He says I'll have them all soon enough. Thank you.
+[2:30:24] Speaker 1: What about 6040 Well, haggle it.
+[2:30:31] Ian Lurie: You can keep two.
+[2:30:34] Speaker 1: That's not, that's not, it's not enough.
+[2:30:38] Ian Lurie: You're actually tempted, but you don't do it, but you are tempted for a minute, you're like two is better than nothing, and just
+[2:30:50] Mossy Oak: then are they well within like 20 feet of each other?
+[2:30:52] Ian Lurie: Yes, they are all within 20 feet of each other.
+[2:30:56] Mossy Oak: Okay, so hypothetic Hypothetically, could one just cast web and stick them to the door?
+[2:31:06] Ian Lurie: Well, they're not up against the door, that's the problem. They're in, they're in two clusters on either side of the door, which puts them about 30 feet apart, because these are huge iron doors. And then they're kind of spread out. You could, you could web one side completely, by the way, the one roll I just rolled low on was the saving throw for the door, so the door is about to crash inward.
+[2:31:33] Mossy Oak: Yeah, you know what that sounds like. It buys us some time. I get one side of the door and across the front of it.
+[2:31:38] Ian Lurie: Okay, so cast web,
+[2:31:42] Mossy Oak: it's a Dex 19
+[2:31:52] Ian Lurie: one second, I'm Dex 19, so one bone devil saves, two both bone devils save.
+[2:32:11] Mossy Oak: God damn it.
+[2:32:12] Ian Lurie: Well, they're they're pretty serious. Well, actually, only one of them have the same. Basically, the bone devils are each leading small groups of bearded devils. However, the bearded devils are all immediately completely wet. They start screaming and swearing and and just then, just as you do that, the doors just crash inwards, and standing outside, actually pouring in, but we'll just have that moment of still of freeze frame, standing outside is what looks like an enormous boar with huge tusks, kind of huge, this huge flabby body with long patchy patchy pig's hair growing out of it, holding a masony either hand, and around it pours, I mean, pours this hoard of the small, just small demons of all different types. There's some of them are like furry, that they look like actually like larger furry apes. Some of them look like really small rodents, some of them look like almost like imps, but more twisted and weird looking. Some of them look like melted lumps of flesh that are just sort of pouring into the room. There are, you figure, there has to be 70 or 80 of them coming in, and the bearded devils that aren't webbed, and the two bone devils immediately dive into the pile, and it's it turns into a free for all almost immediately. There a back
+[2:34:13] Mossy Oak: door to this place,
+[2:34:15] Ian Lurie: there is actually, and Brona says we need to get everyone out of here. There's someplace safer I can take them, but we need to get them out of here. And you guys are basically now surrounded by combat, but the devils and the demons are busy with each other. They're not paying any attention to you or the civilians that are in here yet.
+[2:34:40] Mossy Oak: Cool. Time to fucking go.
+[2:34:46] Ian Lurie: She says there's a door back here. So now I've developed a whole system for this. We're going to try this. We'll see if it works. If it's totally fucking hopeless, we can abandon it, and we'll just switch to something else.
+[2:35:02] Mossy Oak: Can I say, just while this is all going on, that I'm going to do bonus action and cash up Elminster's illusion.
+[2:35:11] Ian Lurie: Sure, what does that do? It
+[2:35:13] Mossy Oak: words me against magic for 10 minutes.
+[2:35:16] Ian Lurie: Yeah, that's probably
+[2:35:19] Mossy Oak: useful right now.
+[2:35:20] Ian Lurie: Yeah, absolutely. Okay. So, here's what's going to happen. I need each of you to pick a role. There are four possible roles, and it can be any number of you. You can leave one role completely empty, you can, you know, all stack up into one job, whatever. But I'm just going to tell you what these are. You're going to be escorting these 10 groups, 10 basically mobs of civilians, and those civilians include, so this is what this is, basically the scorecard, this is how we're going to track what happens here, each group includes a mixture of civilians, and then the much lower level black helms that are still around. You're going to have to escort them through the city, through the battle, without them all getting killed, panicked, without breaking their morale, or anything else. The hit points represent the number of people alive in that group, morale is just what it sounds like. The lower it goes, the more panic the group gets, the more susceptible it is to bad things that could happen. Progress is the number of steps taken towards not literal steps, but you know what I mean. If this were a board game, like if we were playing in person, I would have a board game that looks like shoots and ladders, and we'd be playing chutes and ladders. Basically, progress is how far forwards are back you have taken these groups. For the most part, they'll all move together. I have them broken out separately, just in case something happens, because it probably will. Now you have different jobs you can take. There are four possible jobs. One job is scout, so the scout literally scouts ahead. The scout successes make it easier for other people to do things that move the column forward. So, if you're a scout and you succeed, you might give an advantage to the person who's responsible for leading the way, or maybe you would negate something bad that was going to happen, like you spot an ambush before it happens. So that's one example of what is that's an example of what a scout can do. The vanguard is the one who's leading everybody; every success by the vanguard adds one to progress, so it moves you forward. One, the shepherd is responsible for keeping group together, keeping morale up, so successes will add to morale, failures lower morale, and dealing with threats that come up and then the rear guard protects against attacks that are made in the course of movement across the city, so the rear guard and the shepherds are going to be the rear guard has the biggest chance of being in combat at any given time if there's a big attack, if something goes really wrong, then everybody can get involved, so there's not going to be situations where, like, if you're the scout, you're unable to intervene and try and save people. It's just sometimes there's going to be one or two demons or devils that's attacking the group, and you know that's when the rear guard jumps in, whereas sometimes there could be a massive incident, in which case everybody would get involved. So Scout literally does the scouting. Vanguard leads the group, you know, basically says forward, back, whatever. The Shepherds are responsible for keeping the group together, and the rear guard is responsible for killing the basically handling the ongoing assault, the continuous, you know, flow of demons and maybe even devils that come in and try to attack.
+[2:39:11] Speaker 1: I think Sango should be a scout, somebody who can turn invisible and cast pass without trace on himself could be very valuable in that role.
+[2:39:26] Ian Lurie: Okay,
+[2:39:28] Mossy Oak: in that case, I think I should shepherd because I can do cast village cast without trace on
+[2:39:37] Rikterr: I'll join Drac on rear guard.
+[2:39:40] Ian Lurie: Okay,
+[2:39:41] Speaker 1: don't you want to be like the morale guy? Vanguard isn't that a good, yeah, is it Vanguard, is what it's called.
+[2:39:52] Ian Lurie: The Vanguard is the one who leads the group forward. You do need, you do need a Vanguard, but it could be anybody, could be Cregyn, could be Ricky. Do you want to
+[2:40:01] Mossy Oak: switch Shepherd and Shepherd? I'll Vanguard.
+[2:40:05] Rikterr: No, I'll do the Vanguard.
+[2:40:07] Mossy Oak: Okay,
+[2:40:08] Ian Lurie: okay. Yeah, speaking as the DM, I think Richter is good as a Vanguard or a rear guard. Um, everything else is kind of open, I would say, but you need a, you need some kind of battle leader leading the group forward, because you're the one, you're one of the ones who's going to give instructions to the column, like move forward, stop, go back, but most importantly, if something, if an opportunity presents itself, you're going to be the one who says, okay, go.
+[2:40:44] Mossy Oak: Oh, you call it the Blood War Crossing scoreboard.
+[2:40:48] Ian Lurie: Yeah, because you're crossing the Blood War, literally
+[2:40:54] Mossy Oak: the cute cat.
+[2:40:57] Rikterr: Brona is the leader of this whole group, right.
+[2:41:01] Ian Lurie: Yes, she's Black Elms.
+[2:41:04] Rikterr: Okay, so as we're getting ready to leave, Richter is going to use his fine steed, and he's going to have Finn Rear stay with Bronag and let Brona ride him, and if at any point hits the fan, Richter is told Fin Rear to use his face step, which takes Finn Rear and the rider to an unoccupied space 60 feet away. So it's basically like, get the fuck out of here.
+[2:41:33] Ian Lurie: Okay,
+[2:41:34] Rikterr: this person has to has to survive.
+[2:41:36] Ian Lurie: Okay, okay.
+[2:41:40] Fancy Drak: Jack will volunteer Surah, as anyone who's injured, missing a leg or something like that, can provide that support.
+[2:41:50] Ian Lurie: Okay. Excellent. All right, let me pull up some stuff here. So, guys, I hate
+[2:41:58] Speaker 2: to
+[2:41:58] Ian Lurie: do this, but this is a really awkward time to start running this really complex, because it's going to take us at least an hour and a half. What I would suggest is we start, and the first part of this is getting everyone out of here, so your job for the next few minutes is to get this entire group out of this room, in this, in this ongoing battle that's going on, it'll be a good chance to try out these rules and test it all, see how it works, and then we can, and then we can figure out, you know, whether this is something we want to keep going with next time, so you get everyone organized, and there's there are literally demon parts flying everywhere, there's actually demon Icker flying everywhere, and it's so far everyone has managed to avoid it, because you know bad things can happen if it hits you, and Bronha says we have to get them all out of here now, and you all step into your roles and decide to do what you know, decide to do what you're going to do. So, the first thing you have to do is there's four possible orders that you can give in any round, and you can all decide these together, and your options are press on, which means go hunker down, which means everybody just hits the ground, and what that'll do is it'll actually, it'll reduce the number of hit points lost if there's an attack, volley means everyone stops and the black helms turn and fight, potentially the group can take, well, the group can still be hurt because they're exposing themselves, but it could push back demons or devils that are attacking. And then the last one is bear the wounded. Bearing the wounded means you are basically cutting your losses. Anyone who dies that round doesn't die, they're just wounded. So it's basically non-lethal damage, but you can't move anywhere, and you lose one morale. So four possible orders, and they all kind of make sense, right? Press on, hunker down, volley bear the wounded. So, what would you like to do first here?
+[2:44:28] Mossy Oak: Press the fuck on,
+[2:44:30] Fancy Drak: press the fuck all
+[2:44:31] Ian Lurie: right. So Vanguard,
+[2:44:34] Speaker 1: just a note, when Cregyn did his Twilight Sanctuary, and he walked back through the crowd, he gave 15 temporary hit points to everybody that was with, yes, for a minute.
+[2:44:53] Ian Lurie: Nice. Okay,
+[2:44:55] Fancy Drak: that's awesome.
+[2:44:56] Ian Lurie: Okay,
+[2:45:02] Speaker 1: so So that's basically 10 rounds of walking by everybody, right?
+[2:45:07] Ian Lurie: Right. So Richter, and let me just let me make sure I get this right. You need to roll, you get a DC 15, you're making a DC 15 roll against athletics. Think you're good athletics, right? Oh, shit, I
+[2:45:35] Rikterr: got a plus to stop the best of my pluses,
+[2:45:38] Ian Lurie: I
+[2:45:44] Speaker 1: 12.
+[2:45:45] Ian Lurie: Okay, so you don't manage to move everybody forward. You're about to bring everyone forward through the room. I'm going to tweak this in a second, but that's stupid. Use Chris. charisma instead, or persuasion, whichever one you're better at. Sorry, guys. Like I said, I'm kind of figuring this out as I go here.
+[2:46:13] Rikterr: 19.
+[2:46:14] Ian Lurie: Okay, so in this instance, so there might be a time when it's athletics because you're like pushing through a bunch of barriers, in this instance, you're just trying to get everyone moving, so you make that wisdom roll, you get a 19, everyone kind of, you know, they're all kind of stunned and freaking out, and everybody's frozen, but you just, you yell something at them, and they all get, they all spring into action, and you manage to lead everybody forward out of the room, now while you do that, I roll to see what happens. You guys are all coming forward, and a rock, one of those huge flying demons that you fought outside falls into the middle of all the civilians dead, but when it falls, all those spores explode out of it, and everyone immediately is having to make saves, and most of them cannot save, they're all collapsing on the ground, coughing and hacking. So, Shepherd, you can attempt to basically get everybody up and under control as quickly as possible. I'm sorry, guys, I'm not doing this very well, because it's been too long a night already for me to do this. Let me back up a little bit. Scout, give me a perception check, I 1313 is hearing involved. Yes,
+[2:48:15] Speaker 1: 15.
+[2:48:16] Ian Lurie: Okay, you hear this screaming shriek as a rock starts gets gutted by a Balguerra, which is another, another devil, and its body comes flying over towards the towards the group. Here you can now make a performance check to get everybody to understand something bad's about to happen, and get them basically to hunker down.
+[2:48:50] Speaker 5: All right,
+[2:48:53] Speaker 1: that is a four for performance. Alas,
+[2:49:00] Ian Lurie: the rock does fall into the middle of everybody, everybody is on the ground, choking and coughing as this battle is going on around them.
+[2:49:10] Speaker 1: It would have been higher if I could use my fiddle. The
+[2:49:13] Ian Lurie: only good news is you're at zero progress, so you can't lose any progress because you can't go backwards because you're starting at zero, so now we come around again. Vanguard, I'm assuming you would still like to press on. Yes, okay. And you can do the same thing this time. I am giving you disadvantage because everybody is freaked the fuck out, do
+[2:49:46] Rikterr: That is going to be a 27
+[2:49:50] Ian Lurie: okay. Yes, that will make a difference, JP. In one second, so now Scout, give me a perception check, I
+[2:50:08] Speaker 4: Bango,
+[2:50:11] Speaker 1: nope. Sorry, what did you say? A perception check,
+[2:50:17] Ian Lurie: perception,
+[2:50:20] Speaker 1: that's 15,
+[2:50:23] Ian Lurie: okay. And Shepherd, you need that's enough. You look ahead and you see that there's nothing, there's nothing preventing the group from moving down this narrow winding stair that leads out of this room. Shepherd, you need to give me a charisma check or a performance check, whichever one is better for you, or if you want to give me a make a case for something else, that's cool too, to just kind of get everybody up. Okay, so everyone's choking and panicking and freaking out, but the Shepherd does a pretty good job of getting everybody. I do
+[2:50:59] Mossy Oak: a full Q Puss in Boots thing, guys,
+[2:51:02] Ian Lurie: exactly, they're all like, well, if this cute furry little thing can survive here, then clearly we can, because she's never seen any shit either. And then rear guard, you want to put up spike growth in front of the exit, which will prevent them from chasing you right down those stairs, so well done. As you head down the stairs, you hear this scream of rage from Athraxis behind you, saying, "No, you fools, don't let them get away. And just then, Drac puts up the spike growth, and you guys are heading down the stairs. Okay. All right, I do think this will work. I think I need to be in a clearer head space to make it really work, because there's a lot of storytelling involved here. But you guys kind of get the idea, right? This is going to be an escort mission through the city as this huge battle rages around you, and as you head down those stairs, you can hear that a full battle has broken out in the city between demons and devils.
+[2:52:08] Speaker 1: DM, you said for Sango to try to get their attention, Sango would, would be invisible,
+[2:52:17] Ian Lurie: yeah, which is why I switched it, and you're, you're the scout, and that's why that failed, anyway, right? Because the rock landed in the middle of everybody. So, what's Cregyn doing?
+[2:52:27] Speaker 1: Uh, he'd be in, probably in the rear guard,
+[2:52:29] Ian Lurie: your rear guard. Okay,
+[2:52:31] Speaker 1: yeah, probably with Jack helping out.
+[2:52:33] Ian Lurie: Okay, makes sense. So, next game will be leading these 100 people through this battle to whatever Heidi Hole Berna has picked out. Cool. All right.
+[2:52:51] Fancy Drak: This is cool. Assuming I survived,
+[2:52:55] Ian Lurie: assuming I survived Haleakala, I will be here to run again. I'm next week I am riding a bike up this humongous volcano in Maui.
+[2:53:05] Mossy Oak: Of course, you are,
+[2:53:06] Ian Lurie: and I may or may not get to the top. We'll see. It's going to be.. it's going to be by the same
+[2:53:10] Speaker 3: with you
+[2:53:11] Speaker 1: that was just erupting recently.
+[2:53:13] Ian Lurie: No, no,
+[2:53:14] Fancy Drak: no.
+[2:53:16] Ian Lurie: Haleakala is on Maui. It's.. it's 10,000 feet high, but it hasn't erupted in I don't know 1000 years or something, which probably means this will be when this would be when,
+[2:53:27] Mossy Oak: sir, you just kind of jinxed yourself.
+[2:53:29] Ian Lurie: Yeah, no, it's actually extinct. Are
+[2:53:32] Mossy Oak: you three days from retirement too?
+[2:53:34] Ian Lurie: Yeah, that's right. I'm getting married.
+[2:53:38] Fancy Drak: It's amazing. I loved it. I loved it. It was, and dude, is a hell of a ride. So, oh,
+[2:53:44] Ian Lurie: cool. I'm glad. I, yeah, you know, this particular one, this particular idea is something I've had for a long time. I will tell you, I obviously used AI to build that cool little scoreboard, because otherwise this would be completely unmanageable. But hopefully the rest of this,
+[2:54:04] Mossy Oak: as long as you're not selling it as a SaaS product,
+[2:54:08] Ian Lurie: no, no, I'm not selling it as a SaaS product. This will never, yeah,
+[2:54:15] Unknown Speaker(s): that's all here

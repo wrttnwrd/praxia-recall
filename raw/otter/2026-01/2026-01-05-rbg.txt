@@ -1,0 +1,888 @@
+# Ian's Meeting Notes
+# Otter recording 2026/01/05 16:58:43 (3h 2m) id iKlQ1Tn9odTI66_OLYQcwHA6_r8
+# https://otter.ai/u/iKlQ1Tn9odTI66_OLYQcwHA6_r8
+# Speaker-attributed transcript, verbatim. Raw source for the card at /items/otter/2026-01/2026-01-05-rbg.md
+
+[0:02:56] Sango: Hey, Jamar, hello, good sir.
+[0:03:00] Rikterr: Good JP, how were your holidays?
+[0:03:05] Ian Lurie: They're over.
+[0:03:08] Rikterr: I feel you, my man. Sorry.
+[0:03:09] Ian Lurie: I just, I don't want to be the Grinch, but no,
+[0:03:13] Rikterr: brother, I had a mental breakdown Christmas Day. So you know,
+[0:03:18] Ian Lurie: it's, I seriously woke up at well like two in the morning on Christmas morning, so freaked out that my legs were like twitching uncontrollably. So hopefully you recovered as well as I did, but
+[0:03:39] Rikterr: a good cry will will usually help with that, because it gets out and just talking like, Hey, this is why I'm feeling this way. It's like, okay, you know what? It's not crazy when you say it out loud, but when you keep it up here, it feels crazy, and then you say it, you're like, No, this is the way I should be feeling, because this is how I'm feeling.
+[0:03:57] Ian Lurie: Yeah, I sat on the couch with the dog, with my legs just kind of going, just Kicking.
+[0:04:19] JP Sherman: Yeah, I'm one week into Tina being in Texas. She is helped. She has already helped four babies be born. Nice. She's living in that pink camp camper that I that I shared. She is about a stone's throw away from Ciudad de Juarez and right out, right outside El Paso. So she's, she's going into Mexico, getting tortillas and seeing firsthand, like women who coming in pregnant, they're not ready to deliver, and they can't go home because they don't know if they're going to be able to get back right. So it's like the policies are right in her face, but she'll be gone for another three and a half weeks.
+[0:05:12] Ian Lurie: So speaking of mental breakdowns, you're running the entire household,
+[0:05:18] JP Sherman: yes, but the one thing that saves me is I am going to the gym every fucking day. I I literally had, I was it today? I did, what was it? Inverted push ups like you, you walk your feet up the wall, and you go upside down. And then I did 15, like, 10 sets of five thrusters. It's like, do a front squat and then explode up to the top. It's just a really, really, really good day. So I am doing that every day, because that's the shit that's given me the physical energy to manage all of this. And I'm literally just like, if I don't take care of myself, none of these little motherfuckers are going to be okay. And they are little teenage motherfuckers.
+[0:06:19] Ian Lurie: Oh Yeah, nopetbrts, I get uplifters, so I sawiiiiiiiiuuuuuiu. Is not running again.
+[0:06:43] Sango: Yeah, I think that's a good thing. Yeah, he's been taking so much heat for the fraud that's happened by various people being blamed on the Somalis. But yeah, the lady who headed it all up was a white lady, so, you know, not gonna blame her. Certain people to conveniently forget that part.
+[0:07:12] Ian Lurie: Yeah, so well, and there's someone good in the wings. There's a few good candidates in the wings, I think, right? So it's,
+[0:07:20] Sango: yeah, yeah, yeah. I think it's, I think it's good. He's just basically gives the other side less ammunition to throw at whoever else who is going to run.
+[0:07:39] Unknown Speaker(s): Yeah, hey, Jamie,
+[0:07:46] Ian Lurie: so I got a bunch of housekeeping slash random questions. Please don't read anything into any of these questions. These really are just random housekeeping.
+[0:07:54] JP Sherman: But what if I do well,
+[0:07:56] Ian Lurie: then you know what? Feel free, because sometimes it's fun to just ask questions like this and watch everybody's you don't
+[0:08:01] JP Sherman: get to tell me how I feel.
+[0:08:03] Ian Lurie: All the wheels start turning. Drag the badge of zariel. Do you carry that in a backpack? And it's pretty big.
+[0:08:16] JP Sherman: I took a note of it in my inventory, but my assumption is that it is in the bag of holding,
+[0:08:22] Ian Lurie: okay, which is carried by,
+[0:08:26] Mossy Oak: I have the bag of holding Mossy.
+[0:08:27] Ian Lurie: Okay, yeah, so it is Mossy, okay, what?
+[0:08:30] Mossy Oak: How do I stop this? Sorry, there's a new edge light feature in zoom, and it's terrible edge light, yeah, so it's like you got low lighting, and then it made a white ring around my screen to use that light. And I hated it. Sorry for the distraction.
+[0:08:50] Ian Lurie: Okay, now I need someone to roll. Give me 5d 100 rolls, because we have not been rolling Bastion events. No. Well, it makes sense.
+[0:09:02] JP Sherman: Well, okay, just one sec. I totally forgot to get my dice. I'll be right there.
+[0:09:09] Ian Lurie: Tonight will be the maiden voyage of the amazing D 20 that James got, that James made, ordered, you know what I mean, conceptualized. That's it. I
+[0:09:28] Rikterr: Holy shit. JP, I did not realize you had the Bill Parcells shorts on.
+[0:09:33] Ian Lurie: Bill Parcells,
+[0:09:36] Rikterr: Oh, you did see shorts. Them were no, oh, the shorts. Yeah, I was saying you had the Bill Parcells on.
+[0:09:44] Mossy Oak: He's got good games leaving me
+[0:09:46] JP Sherman: no hold on. So they, I got hooked on them in the army. They're called Ranger panties. They are sheer, and they are amazing. And I run like I do, everything athletic in these things, they're so fucking comfortable.
+[0:10:05] Sango: Ranger panties. Ranger panties are drag, Mm hmm.
+[0:10:12] Mossy Oak: One of these things is literally the other one.
+[0:10:14] JP Sherman: I've got nothing. You're God damn it. You're right. No, if you go to Amazon and search for Ranger panties. You'll find, you'll find what I wear.
+[0:10:24] Ian Lurie: I am not going to Amazon is searching for that under any
+[0:10:28] Mossy Oak: search offer. Okay, okay, hold on,
+[0:10:37] JP Sherman: okay. I have my d1 hundreds. Y'all ready,
+[0:10:42] Unknown Speaker(s): yep, 63 okay. 84
+[0:10:53] JP Sherman: Okay. One, all right. 55 55, okay, 20, okay,
+[0:11:10] Ian Lurie: keeping it interesting. I like that. We'll come back to that at some random juncture. Who knows? Maybe today, maybe another time.
+[0:11:30] Unknown Speaker(s): Just put that in my notes. Ian
+[0:11:45] Speaker 1: Okay, gotta have this one, and I have changes guys, yeah, okay, I'm ready.
+[0:11:57] Ian Lurie: Just so you know, rolling over 50 is when things start to get interesting. Anything below 50 is all as well. So anyway. So okay, where we were last time you all were dealing with the aftermath of the Battle of her dune. You had spoken to rigor him again. He had given you some additional information about the his travels in Avernus Voda. The mayor of irdoon had decided that she would give you the astrolabe of three wishes. She's not comfortable having it, especially after what happened to her wife. She feels it would be better entrusted to you, given the things that you are called upon to do. She feels that you know that last charge could probably be better used by you as well. So Drak, you planted one of the seeds, which immediately formed a barrier at the mouth of the bay, protecting or dune. And you gave and it came with a power word that can be used to raise and lower it. And you gave that to voter, so when we left off, you had boarded the villains discontent, and we're getting ready to travel, we're not sure where. And that was the that was the question, that was the thing that we had to figure out this game, among other things, some of the big questions, you know, some of the big questions. And these don't have to be things that you resolve now, but at some point you have to figure out if and how you're getting into Avernus, right? That's the big one. Then you have to decide what resources you're going to call upon to do that. So I would say that's the main focus. There may be other things that you all want to do that I don't, that I just have forgotten or don't know about, and it's totally okay to go and do those as well. So RBG, what are your what's your next step? You are on board the weather's not bad, actually. It's the Hold on. It's the 12th day of leaf fall, seventh year fall reckoning. So it's kind of it's sunny and cold, where you are right now.
+[0:14:48] Sango: Should we head back to Aventine? Think we need to maybe some comprehend languages we might need some help with, and then check out a few things. Was that kind of I mean, do we have anything any other destination we need to go to right now? Not that we need to want to put stuff off. But I
+[0:15:23] JP Sherman: so I think, I think the we need to figure out, actually, this is, this is something we probably should have asked for Goran, what would be a good packing list to take to
+[0:15:43] Unknown Speaker(s): to Avernus.
+[0:15:45] Ian Lurie: We can retcon that, if you want. Okay, any questions you have for a Garm, we can definitely retcon that's fine.
+[0:15:50] JP Sherman: Okay, yeah, I like I would ask him, when you went, what were the things that you brought that were useful, and what were the things that you wished that you brought, okay,
+[0:16:04] Ian Lurie: he says, a strong armor and a sharp blade. Those are the things that that did us, that served us best while we were there, and our faith, things that we wish we had brought more healing. You cannot have too much healing. Some also some manner of and I think you're probably better prepared for this than we were, but some manner of removal of curses, things that can help you rest and that can help you find rest in an environment that's not conducive to rest, extremely short shorts that are really sheer. Sorry, I just saw that come through in the in the chat. I just, I, I gotta stop doing that. I can't let the chat distract me.
+[0:17:04] Mossy Oak: Um, drag both tear their pants off and have Ranger.
+[0:17:09] Ian Lurie: It's just Velcro pants, right? It's like the Lakers. You get up by the bench he's got, and you're ready to go, yeah. Um, he says, you know something that can help you rest any kind of magical shelter, anything that can help you get a rest and potentially be safe in a place where safety and rest are very hard to come by. In the end, it was probably fatigue that did us the most harm. We were progressively more exhausted as time went by,
+[0:17:46] Sango: our our airship. Not sure if we need to take that, because it might stick out like a sore thumb and a track, I don't know, say dragons. Any feedback on that approach.
+[0:18:02] Ian Lurie: I don't know how you would get it there.
+[0:18:06] JP Sherman: Yeah, and it, it's been described as a as all war everywhere, and that's the kind of thing that was, like, you said, stick out. I There's there's there's, there's no there's no stealth. If we, if we could take it, there's no way we would have any element of surprise
+[0:18:36] Ian Lurie: or, sorry, go ahead. Yeah, good regarms sits up a bit and gives a little bit of a wince, because he's still a little stiff, and the the woman that's been taking care of him just hustles over immediately and starts fussing over him and trying to get him to lie back down. He's like, I'm okay. I'm okay. And he says, when we went to Avernus, the path we took was very small. It would have been very difficult for us to get anything larger than ourselves down the falls. What I understand is because of what has happened in the world in the last seven years or seven years ago. Me, means that that passage is larger now, and he's talking about the falls. He says, I don't know what would happen if you show there, there are ships that sail up and down the river sticks and you have a badge of zariel. So in theory, if you had that on the on the ship, no one would attack you, but it would certainly stand out. I never saw any flying, flying vessels in avarice.
+[0:20:01] Sango: And you mostly just walked everywhere.
+[0:20:05] Ian Lurie: We walked.
+[0:20:06] Sango: Okay, there's no like horses, wild horses, like that, horses you can buy or
+[0:20:14] Ian Lurie: there were, there are steeds that we saw. I would not call them horses by any stretch of the imagination. There also, we did hire a muranoloth kind of devil to transport us partway on the river sticks.
+[0:20:33] Sango: And what sort of payment does the would that required? I assume, gold, platinum,
+[0:20:40] Ian Lurie: gold, platinum, or favors. In our case, it was a large amount of platinum, but it depends on them. They are. They are pure mercenaries.
+[0:20:49] Sango: How much? How much platinum did it take?
+[0:20:52] Ian Lurie: We paid them 500 platinum. We got that. He looks impressed.
+[0:21:10] JP Sherman: Okay, so if i So, if I'm taking notes here, I think,
+[0:21:21] Unknown Speaker(s): I think, okay, yeah, here we go.
+[0:21:27] JP Sherman: Okay, I'm checking the party inventory, the things that I don't think that we have that would be useful. And this is kind of inside the party. I can make holy water, but we don't have any right now,
+[0:21:44] Mossy Oak: two vials, a dagger and something else, holy water based, okay,
+[0:21:50] JP Sherman: I believe Mossy can make what's called an ever smoking bottle that's to create some sort of cover. I can also do, like fog cloud centered on me for covered concealment. Potions are rings of fire resistance, and potions are rings of necrotic resistance, I would say, a scroll of Hero's Feast before the final showdown, and some sort of portable magical hut, like a hut wand or wand of magic, huts,
+[0:22:26] Ian Lurie: layman's, tiny hut, something like that. Yeah,
+[0:22:30] JP Sherman: right. So the way, the way, I think these are things that we can all either. I think that the potions are the necrotic risk resistance is probably gonna be the hardest thing to get the witch. I'm sorry, the potions or rings of necrotic resistance, those are probably the hardest things to get.
+[0:22:59] Ian Lurie: Devils don't necessarily do a great deal of necrotic damage. Just, okay, just want to, I just want to point that out. You, you all know that. I mean that the undead is not there are almost no undead in Avernus that you know of devils don't like the undead anymore than you
+[0:23:23] Unknown Speaker(s): do. Oh, that's good.
+[0:23:24] Ian Lurie: Yeah, there are demons who you know, like orcas is the demon Prince of the undead, which is why the undead are not really tolerated in Aramis, because demons may sometimes use them in an attempt to attack, so they're pretty much eliminated the moment they appear, okay. So
+[0:23:49] JP Sherman: also, JP, doesn't know Mossy is new kit, like, I don't know all the cool things that you could do now,
+[0:24:01] Mossy Oak: I've not switched over to, okay, the new edition, because there's a lot, okay, but basically, I become glorified crafting studio, which is like shot my bomb shop and I'd see All Right. So for now, I still can do quite a bit of crafting. Yeah, you know what you're referring to.
+[0:24:29] JP Sherman: Well, because the things that, for example, like the things that I'm looking at, we like the ever smoking bottle, that's like a common magic item
+[0:24:41] Mossy Oak: that I can make I think
+[0:24:53] JP Sherman: I'm gonna Check my
+[0:24:57] Mossy Oak: Rangers, flash bangs.
+[0:25:00] Unknown Speaker(s): I have two flashbacks
+[0:25:03] Ian Lurie: and rikter, just for your benefit, because I want to make sure I'm clear about this. Undead are no more undead, and creatures that do necrotic damage are no more or less common in Avernus than they are here. So if you do want to build unusual resistance to chronic damage. That's fine, but there's, you know, there's fire, there's lots of other ways that things and Avernus try to kill you. They're not picky.
+[0:25:32] Mossy Oak: I think it's going to take me five days to craft that bottle, though. I don't know what our timetable is. Okay. Actually, no, I have a thing. I have a thing. It would be two and a half days.
+[0:25:47] JP Sherman: I think that worth it.
+[0:25:52] Mossy Oak: Where are we going to be in this time? Because I think, I don't think I can craft on the airship as well. Ian's Ian,
+[0:26:04] Ian Lurie: that's correct, because you need your, oh, wait, are you doing this as part of your artificer skills? Yeah? Oh, then, yeah, no, you can do it anywhere you have your tools cool. So, yeah. So you can
+[0:26:15] Mossy Oak: do it anywhere.
+[0:26:16] Ian Lurie: Yeah, it's a three and a half day. If you're you're going average pace. It's a three and a half day flight back to Aventine from here.
+[0:26:25] Mossy Oak: Okay. Well, are we on the ship yet?
+[0:26:31] Ian Lurie: You're still talking to rigorm right now. Okay. He says one other caution, and you've heard this before, these creatures are the devils are law incarnate. They follow the rules and they make the rules, but they attempt to twist the rules in their favor. When you enter a bargain with a mirandoloth, for example, be careful. We paid our moranloth 500 platinum to transport us to a location, which it did, but when we got there, it sounded an alarm that brought a vast number of guards upon us, and that was our, those that was our. Those were our first casualties. That is also when we got the Badgers aerial. But it delivered on its on the word of the bargain. So it then did what it chose, what it felt was in its its best interest.
+[0:27:43] Mossy Oak: Was it a magical alarm?
+[0:27:46] Unknown Speaker(s): I cannot remember.
+[0:27:50] Ian Lurie: I only remember it betraying us.
+[0:28:00] Sango: Okay, okay, so make a deal that we don't get betrayed on. Okay, sounds easy.
+[0:28:16] Unknown Speaker(s): Okay, move.
+[0:28:23] JP Sherman: A bank, banker going for his time if we're done, because I think that Mossy and I can craft because I can craft some holy water. I've got, I've got the silver to craft holy water
+[0:28:47] Unknown Speaker(s): on the, on the on the ship.
+[0:28:54] Mossy Oak: I mean, I've got two vials ready to go. If you have a delivery method, you want to associate those two but, yeah, it'll take me two and a half days. I think I want to try out a new thing when we get up there. Yeah, rikter, do you have
+[0:29:12] JP Sherman: anything to add?
+[0:29:18] Rikterr: No, I think we've got all the answers. We know otherwise. We know where we've got to go, to the hell gorilla, to the river sticks to the end, so tying up loose ends and buying some shit to protect us.
+[0:29:33] Sango: Yeah, Sango had the monastery researching the Hell Girl, the astral sea, Avernus and the river sticks and then mirror, noloth, morale.
+[0:29:50] Ian Lurie: And who did? Sorry, who did you have doing that?
+[0:29:53] Sango: The monastery, that's right. Long, long shot that they would have anything on this stuff. Okay,
+[0:30:02] Ian Lurie: so they, well, you have to get back to Aventine, unless they get a message to you in the interim. But yep, back to back to the to race rooms, feather and
+[0:30:22] Unknown Speaker(s): fountain, yes, I was
+[0:30:32] JP Sherman: thinking of holy water. I'm like moss can make some sort of grenade. Why does a holy water hand grenade sounds so familiar? And then I just went down that rabbit hole on
+[0:30:43] Ian Lurie: counteth to Yeah, and
+[0:30:46] JP Sherman: I realized it was a rabbit hole, and it just, it all ended there,
+[0:30:49] Ian Lurie: yeah, let's not start quoting. We'll be here all night.
+[0:30:56] Mossy Oak: I mean, there's two flasks, so those can be thrown as hand
+[0:30:59] Unknown Speaker(s): grenades. Yes, yes. So I
+[0:31:01] Mossy Oak: think if we throw them with an explosive then it becomes holy mist, which is more of a vapor. And I don't know the rules on that.
+[0:31:10] Ian Lurie: I don't know how holy mist would work. I if I have to, I'll come up with that.
+[0:31:23] JP Sherman: Okay, all right, So Ian, I've got I put together a quick thing of like a shopping list.
+[0:31:46] Ian Lurie: You can, if you just want to keep it, okay, okay, you should just tell me where you're going to go to get to try to get these things, or just tell me I'm gonna, we're gonna go to Aventine and try to get these things, and then we can walk through that process. Is there anything you want to do on the villains discontent? On your way?
+[0:32:15] Mossy Oak: I would like to craft a smoke bomb bottle, please. So it normally takes five days. I don't know what you would like to do for material components. It is a wondrous item. Uncommon. This here.
+[0:32:41] Ian Lurie: Well, you're this is just one of your standard artificer recipes, right?
+[0:32:51] Mossy Oak: I don't know if it is in the new one, okay, but is it? Is it
+[0:32:58] Ian Lurie: in the current one? Does your current character have a way to create that bottle as an artificer, or is it something that you're going to have to craft?
+[0:33:12] Mossy Oak: No, I have empty bottles, um, and I have Alchemist supplies, some provision in it.
+[0:33:18] Ian Lurie: But is but, yeah, but artificers have recipes. There's things that you can make is that one of the recipes you have
+[0:33:31] Mossy Oak: in the old rules, we only had recipes when it came to certain things we could still improvise and stuff. I'm asking you if I can improvise this.
+[0:33:43] Ian Lurie: Okay, sorry. Then you do need your workshop, and you do have to be back at the Yeah. Sorry about that. I thought it was one of your standard recipes, which you could pretty much create
+[0:33:57] Mossy Oak: any No. So that's like replicating item and infusion. The artificial infusions are the big focus in the old version of artificer. The recipes are the focus in the new one. Okay, but I still manage to vent an x ray and a sandwich. So yeah,
+[0:34:14] Ian Lurie: I'm just looking here real quick at the rules to see what possibilities there are in the in the in the original 5e rules, not 2024 Yeah,
+[0:34:25] Mossy Oak: you want to play it
+[0:34:27] Ian Lurie: as an alchemist. Um, yeah. Man, I wish they were clearer about this.
+[0:34:47] Mossy Oak: Yeah, this is why I'm asking. Yeah,
+[0:34:50] Ian Lurie: all right, so we're going to assume that you can go ahead, that you can do this, but you are going to need, need a place to it, because really, you know, as an alchemist, you can create elixirs. That's really your that's really what you do. You don't necessarily create magic items, per se, but we could say, you know, you could use as the DM, I can say you're going to use your expertise as an alchemist to infuse a bottle with the ability to produce, I think you just want to be able to be able to produce smoke from the bottle. Yeah, yeah. Okay. So once we're there, this will not be a difficult thing. The only hard part is making it that it will do this. I think
+[0:35:31] Mossy Oak: I've made smoke bombs before,
+[0:35:33] Ian Lurie: yeah, yeah, you have. It's usually,
+[0:35:35] Mossy Oak: I'll make it that fancy. I want to make smoke bombs.
+[0:35:37] Ian Lurie: Oh, you just want smoke okay, sorry, we're going to, I'm taking us in circles. Yeah, you won't need to make a roll. You just need your workshop, and then you can make some smoke bombs.
+[0:35:47] Mossy Oak: Okay, thank you. Yep,
+[0:35:55] JP Sherman: on the ship I can burn I can make four bottles. How much silver do I have? Okay, I can make over two days. I can make six bottles of holy water. Okay, that's burning my first level slots, my first level spell slots, and that'll that'll use the rest of the silver that I have. I'll bring the soup.
+[0:36:38] Ian Lurie: Fantastic. You make holy soup.
+[0:36:47] Sango: Hey, Mossy, yeah, if you get a chance, can you make Sango another disco ball bomb?
+[0:36:55] Mossy Oak: Yeah, I got those on hand. Here you go. It. These things are great. I bought 1000 pack of ball bearings forever ago, and we're still going through
+[0:37:16] Ian Lurie: rikter, anything you're working on on the flight home,
+[0:37:21] Rikterr: not on the flight home. I would need to get back to my little Bastion portion to do anything of any important
+[0:37:31] Ian Lurie: okay, you get you all. Get back. Nobody messes with the villains discontent on the flight home, you get back to Aventine and you are back at your Bastion.
+[0:37:47] Unknown Speaker(s): Gonna do that? The
+[0:37:48] Ian Lurie: DMS hand, wave, poof, you're there,
+[0:37:52] Rikterr: like Game of Thrones, exactly. Gingery running,
+[0:37:59] Unknown Speaker(s): all right. Do we want to So,
+[0:38:06] Rikterr: okay, drag on some of the things you popped in here that you want to buy. My Bastion facility can make, like, the ever smoking bottle we can make. So I'm trying to see, like, how much time do we want to spend? Because I think everything that we make it will take seven days. So do we want to do that? Do we want to try and shop for things? I just want to know, like, how do you want to do that? So we can maximize our money and time but minimize how many different places we have to go for stuff.
+[0:38:42] JP Sherman: Okay, so good question we, because I know that we have help. We have helpers, like, like, if you, if you're making the ever smoking bottle, like, there are people who work in those facilities with you, but I don't know if they cut down the time
+[0:39:01] Ian Lurie: well, so you can here, hold on. Let me take a look. I've been looking through. I have lots of little little tabs in my Bastion facilities info. Now you can, for example, in the sacristy, which I'm assuming is what you're going to use. Rikter, yes, sir, yeah, you can have so there's one hireling per facility. You can have one hireling take seven days and produce one flask of holy,
+[0:39:32] Rikterr: oh, wait, no, no, I'm sorry, no, it's arcane study. Is what I have at Level Nine, can craft a common or uncommon magic item. Okay,
+[0:39:42] Ian Lurie: so again, there's one hireling.
+[0:39:51] Unknown Speaker(s): It takes
+[0:39:59] Ian Lurie: seven days to create that one item. So it's basically three basically per all of these are per order. So it's a seven day thing to do it. You can commission the facilities hireling to craft a common or uncommon magic item chosen for you by you from the Arcana table. Already has the tool. Hireling knows what to do. To do it. Oh, and actually, no, the time is based on the the level of magic item. So if you're getting, if you're doing a an uncommon item, I think, Well, I think so it is seven days.
+[0:40:42] Sango: I believe I'm coming. We could have sent the order in for them to start prepping that before we
+[0:40:47] JP Sherman: left. Yes,
+[0:40:48] Rikterr: okay, then maybe it might be best if we do the ever smoking bottle in the Bastion facility and then do the potions or rings or fire resistance try and buy them, because if it's going to take seven days to make one is probably not a good ROI on that versus one ever smoking bottle. What do you think?
+[0:41:08] JP Sherman: Yes, because if it's going to take three days to us to get to Aventine, that'll be three days of crafting, and then it'll be four days once we get there, because we've got our hireling crafting the bottle, right?
+[0:41:22] Rikterr: Yep. Or, okay, I'm sorry. DM,
+[0:41:24] Unknown Speaker(s): yeah, correct, perfect.
+[0:41:27] JP Sherman: So then, so Mossy is crafting. I'm done with my crafting. Once I get once we get to Aventine, then we can either split up and look for, like, some sort of fire resistance, some sort of potions or and then some so like portable tent, or portable magical tent, because I was looking to see because Rangers, I can clear exhaustion with a through the short rest, I cannot clear y'all exhaustion. I was just
+[0:42:06] Ian Lurie: gonna say you can clear your own exhaustion.
+[0:42:08] Unknown Speaker(s): Yes, so,
+[0:42:10] JP Sherman: so having some sort of rest and respite is going to be really important for
+[0:42:19] Sango: us. Rikter, do you have a hut? A shepherd hut thing?
+[0:42:32] Rikterr: No, unfortunately, there's nothing in my tool set that allows me to build a home like that.
+[0:42:40] Ian Lurie: Okay, yeah, Lehman's tiny hut is a it's a wizard spell.
+[0:42:46] Rikterr: This is when we're missing Craig in the most in his little, tiny hut. Oh, and he knows it
+[0:42:56] JP Sherman: just nothing. It's a third it's a third level spell.
+[0:43:04] Ian Lurie: Lehman, tiny hut, yeah, yeah.
+[0:43:07] Mossy Oak: So kidnap a wizard. Have
+[0:43:17] Sango: we done that before? Seems like something we would have done
+[0:43:22] Mossy Oak: it feels wrong that we haven't done it
+[0:43:30] Sango: like I should insight, check Mossy on that see,
+[0:43:34] Mossy Oak: should be like a tray, like a leave a wizard, take a wizard.
+[0:43:39] JP Sherman: So we can't hire a wizard, because we have the bastard. We can hire a friendly wizard to do this for us, but then we
+[0:43:46] Mossy Oak: have to take them the Nine Hells and keep them alive, right?
+[0:43:51] Ian Lurie: Well, you can hire a friendly wizard to come cast one spell for you, and at your level, they can cast, I think, up to like a seventh or eighth level wizard spell, which is pretty powerful. I mean, that include, you know, they, but they're not going to come with you anywhere. If the Bastion comes under attack, they're just going to leave
+[0:44:12] Sango: the way of a wizard on the ship.
+[0:44:15] Ian Lurie: He's not capable of casting seventh level spells. He can cast third level spells, but he's pretty much a blow things up wizard. He's not necessarily that good at things, but
+[0:44:29] Sango: also name anyway. Did we ever ask him his name? No, like, that's something we would never have done, shut up.
+[0:44:34] Ian Lurie: The other issue, though, is that he there's if he even hears mention of going to Avernus, he probably just flings himself over the side of the ship. He wants nothing to do with that.
+[0:44:47] JP Sherman: For what? Okay, so I think it's more efficient to actually see if we can find and purchase one.
+[0:44:59] Sango: You all, you guys have some money. I'm kind of light. We got a little tapped.
+[0:45:07] JP Sherman: I put shit in savings. I put shit in savings. Oh, yeah,
+[0:45:16] Ian Lurie: you do have a teleportation circle, right? Yeah,
+[0:45:19] Sango: on the ship. Do we?
+[0:45:20] Ian Lurie: No, at the Bastion, you have a teleportation
+[0:45:23] Rikterr: circle, oh, from the ship to the Bastion, yeah,
+[0:45:27] Ian Lurie: gotcha, but the one on the Bastion teleportation circle can do all the things that that facility can do.
+[0:45:35] Unknown Speaker(s): So, all right, all right,
+[0:45:44] JP Sherman: how do we how do we want to do this? Y'all because we can, we can go have, like, individual shopping trips, or we can go as a group. How
+[0:45:55] Mossy Oak: many days are we planning to be here?
+[0:45:57] JP Sherman: I think four or
+[0:46:01] Mossy Oak: Okay, I gotta spend at least two and a half of those crafting this ever smoking bottle so y'all can handle you can do some shopping, right? Yeah, kidnap a nice wizard boy.
+[0:46:13] Ian Lurie: You also still have to figure out how you're getting to Avernus. I know you're still discussing that.
+[0:46:18] Sango: So as a drag ass. If anybody wants to go shop. And you notice that Sango is already gone,
+[0:46:24] JP Sherman: I just assume you're invisible. I follow the smell of cream and mushrooms.
+[0:46:32] Sango: Well, you don't smell anything right now. So he went to race trips.
+[0:46:37] JP Sherman: Fucking left us again.
+[0:46:42] Sango: This he tells this and build everything. Got nothing.
+[0:46:50] JP Sherman: Okay, so we're down one Sango
+[0:46:54] Ian Lurie: and one Mossy, because Mossy is making the grenades or the bottle the
+[0:47:00] Mossy Oak: since we had to be here, I'm going to focus on making the ever smoking bottle. I'm also going to for this breakout a new friend whose name is, goodness gracious, yeah.
+[0:47:15] Ian Lurie: But I thought that rikter had someone in his facility that was going to make the ever smoking bottle. Okay. Was I wrong about that?
+[0:47:23] Rikterr: No, Mossy can make it quick.
+[0:47:25] Unknown Speaker(s): Okay, okay, cool, yeah, cool,
+[0:47:29] Mossy Oak: yeah, I can make it in two and a half days.
+[0:47:31] Ian Lurie: Oh, that's right, because you're speedy, okay, yes,
+[0:47:34] Mossy Oak: well, I got a new spell of Darren's helpful homunculi, who helps me have the time it takes for crafting?
+[0:47:44] JP Sherman: Okay, what does it look like?
+[0:47:51] Mossy Oak: Hmm, oh, it has the appearance of my choice. This is fun, right?
+[0:47:57] JP Sherman: Because, like, tracks, eyebrows, just goes up. Is he hot?
+[0:48:06] Mossy Oak: Yeah, I'd like to think that canonically, he's actually made of, like the bones from the kitchen, and then, like, bits of cloth and everything else. And it comes together and actually makes a bit of a snack. If you look at it from the one side, if you look at it from the other you very much realize the head is a rotting pumpkin.
+[0:48:24] JP Sherman: The eyebrow goes down. All right, ooh, Mossy, I can hand you. I can hand you all six bottles, no, all eight bottles that I have of the holy water, and maybe we could have the other person who was going to work on the ever smoking bottle turn that into holy holy water grenades.
+[0:48:53] Ian Lurie: That is not something the hireling can do. Okay, fine, read the Bastion rules and understand what your hirelings can do. That is not something they can do.
+[0:49:02] JP Sherman: Okay, that's cool. So rikter And I do you go you and I go shopping.
+[0:49:08] Unknown Speaker(s): Okay, all right,
+[0:49:15] JP Sherman: do we know? I
+[0:49:24] Ian Lurie: Ian, if you wanted to pick out, like, one item from the list of arcane, of magic items, and have them craft it over the course of seven days, or however long it takes to craft that item, they can do that. But you can't just give them something to say, create a bunch of holy water hand grenades, because they don't necessarily, they're going to be like, Huh, what
+[0:49:47] JP Sherman: got it? Okay, the holy water's in the in the group, in the group
+[0:49:56] Speaker 1: inventory. Okay, all right,
+[0:50:01] JP Sherman: so rikter, should we go look for a magical hut? Hold on. We're going to order sandwiches. Have it delivered. We're going to order I'm going to stop by. I'm going to stop by the lady in the room and get a good old bug, get a big old mug of coffee, and then what do you think about getting them some sort of portable magical hut and the scroll of Heroes beast? Because if we're going to get against her, then I think that we should have some sort of protection against some
+[0:50:50] Unknown Speaker(s): sort of protection.
+[0:50:54] Rikterr: What does the scroll of Hero's Feast do? Oh, hold on.
+[0:51:08] Ian Lurie: So it's Hero's Feast, I'm assuming is what we're talking about here. Yes, the spells here, the spell heroes feast, lets you create and you need a, I think you need, like, a gem encrusted ball worth like 1000 gold to cast it. It's a six level spell, and this is the legacy version of it, so I could be wrong, but it takes an hour for you to eat it, and then at the end of that, you get you're immune to some things. You're immune to poison. You're immune to frightened the frightened condition all wisdom saves are with advantage. Here we go, and your hit point maximum is increased by 2d 10, and it lasts for 24 hours. But you do need a gem encrusted bowl worth at least 1000 gold pieces. Yes, so you have to go find those. Yeah, let me just make sure that the new version of it, sorry, guys, I know I'm spending a lot of time learning rules here, but let's see. Okay, the new rules, it gives you resistance to poison immunity to frightened and poisoned conditions, so you're resistant to poison damage, immune to frightened and poisoned conditions, and Your hit point maximum increases by 2d 10.
+[0:52:42] Rikterr: All right, that sounds pretty damn cool.
+[0:52:51] JP Sherman: Mossy, if you have the DND beyond app with the content sharing, you have access to all of the DMG, the all the big books.
+[0:53:07] Ian Lurie: Yeah, I just, I can't walk through the process right now. But yes, that's correct.
+[0:53:14] Mossy Oak: Okay, I followed the link you sent me. I'm logged into my account. I thought we had the sharing on, but it's not letting me see it.
+[0:53:23] JP Sherman: I think it's only through the app. It's
+[0:53:26] Sango: website as well. It should be. It's been like that for me. Ian, it's your campaign. You might have to enable sharing of specific
+[0:53:38] Unknown Speaker(s): books one second.
+[0:53:40] Ian Lurie: I can one way or another. I can hook you up. Don't worry about that. But I just, I can't do it while we're while I'm running. Totally fair,
+[0:53:49] Unknown Speaker(s): yep, a little too,
+[0:53:52] Ian Lurie: too much multitasking. All right, let me see here, I've got content sharing on, yeah, content sharing is on. Let me see content management. I am sharing. Yeah, dungeon masters guide is shared, so we'll have to, we'll just have to figure out why it's not showing up. Okay, all right, so let's start with Sango. You head up to feather and fountain, and when you get there, you do have messages waiting for you. And why don't we just go down the list of things that you were going to that you were going to ask about, and I'll give you answers to them.
+[0:54:56] Sango: The Hell Girl, okay,
+[0:54:59] Ian Lurie: that is well documented, and the hell gorilla is actually the longest river on the planet, and the longest river obviously, then on the continent of essedria. After the fall, the hell gorilla has reversed direction. It flows from the gap from the ocean into the mountains, and at the end of the Hell Girl, at the headwaters, which are in the mountains, there's this gigantic Maelstrom called the gurge. If you travel down that Maelstrom, you end up at in Avernus, at the head of the River Styx in a city called the city of the dock of fallen cities. The mouth of the Hell Girl, which is now where the ocean is pouring in, is called the fasces. F, A, S, S, U, S,
+[0:56:07] Sango: as, that's the river that goes.
+[0:56:09] Ian Lurie: That's the opening here. Actually, I'll just show you a map. Hold on a second. I'm mmm, and they send this to you, and I can give it to you after the game as well. So this is what they tell you. This is the Hell Girl. This river here, the gorges, is the Maelstrom at this end that you can travel down. The fastest is this cataract. It's not a waterfall, per se. It's like huge rapids, where the gap the ocean is pouring into the hell grill now, because it's all reverse direction. And then at that, at the fastest, there's a city called salt reach. And at the other end, at the gorges, there's a city called silguron. And they don't know too much about those cities. They haven't traveled to them very much. They know that silguron is unique because there are elves and devils living there together, because it is basically the other end of a path into Avernus.
+[0:57:23] Sango: Okay, let me clarify something. Is the map that you're showing us now in Avernus or
+[0:57:28] Ian Lurie: No, no, this is a Cedric,
+[0:57:31] Sango: Okay, gotcha. That makes so more sense.
+[0:57:33] Ian Lurie: Yeah, there you go. So here's, here's the world, right? Aventines over here. This is a cedria. Here's the Hell Girl the river. And then this is the head. This is the mouth of the Hell Girl. And I know this is weird because it flows in the wrong direction now, but this is what used to be the mouth and is now the headwaters. This is what used to be the headwaters, and is now the mouth of the Hell Girl. And the gorges. Think of the gorges as almost like a wormhole. It's water, so it's not actually wormhole, but it's basically a hole in praxia through which you can access Avernus, but all of the water that flows into the Hell Girl from the ocean is pouring through that all the time.
+[0:58:28] Sango: Okay, so goes to the gorges, which is right by that other town. Then goes to the River Styx, that goes to the city, the dock of the Fallen cities,
+[0:58:41] Ian Lurie: you will end up in the dock of the Fallen cities. Yes, okay,
+[0:58:47] Sango: and the dock of the Fallen cities is a town, correct?
+[0:58:51] Ian Lurie: Well, as as far as they know. I mean, at that point you are in Avernus, and not many people have traveled there, okay, but if you're in silver, and you might be able to learn more, they say, because there are devils there
+[0:59:06] Sango: that's on apraxia, huh? Is that has silver and been there for very long? No, just since the fall.
+[0:59:15] Ian Lurie: Well, nobody's quite sure, because of the way time gets screwed up and Avernus silver and appears, you know what, they can't give you all this information just off the top of their heads, because you're getting this in messages. But the message does say there is a city there. It appears to be much older than it actually is. And then what were the other things you were going to
+[0:59:44] Sango: ask about the astral sea? But that's only important if we're going to go that way, which it doesn't sound like
+[0:59:54] Ian Lurie: we are. The Astros, see, they, they can tell you a little bit about it. The main things to understand about the astral sea are that most of the physical laws of the prime material plane do not apply there. For example, your wisdom is what determines your strength, sorry, your wisdom is what determines your dexterity, your intelligence is what determines your strength. Resting has no effect. So if you're wounded, simply resting doesn't do you any good, because the astral sea exists outside of time you can spend. And rikter, you would know this too. You can spend 1000 years on the astral sea and not age a day. But as soon as you leave the astral sea, you will immediately age 1000 years.
+[1:00:46] Mossy Oak: Oh, what are we going to try and see if we could find a fairy to help with some magic on that?
+[1:00:58] Ian Lurie: On the astral sea,
+[1:01:00] Mossy Oak: we had talked the party had about the possible negative effects of various ways of travel, and one of the things we thought of was, well, very magic. We know that can interfere with time. So would there be a way to get some Fay help? And not come back to our timeline, much, much older one.
+[1:01:28] Ian Lurie: That's not an issue if you go to the astral sea, as long as you don't I mean, if you spend 1000 years in the astral sea, you'll come back and immediately age 1000 years. But if you spend a year there, you'll come back and be a year older Avernus. Time travels. Time passes strangely in Avernus, and that might be what you're talking about.
+[1:01:48] Mossy Oak: Yes, sorry, you are correct. That's what I meant. Cool, already. Ian, can one of y'all find a find a ferry while you're out?
+[1:01:58] Sango: Drax right here? Boy, Jesus,
+[1:02:04] Mossy Oak: sorry. I feel like I'm
+[1:02:09] Sango: low on my drag quota for jokes.
+[1:02:12] JP Sherman: I think you just filled your draft
+[1:02:16] Ian Lurie: quote on here. So astral c, what you know is that the physical laws don't apply. You move by thinking about where you want to go, there's no fixed map. The only creatures that live there that you would recognize are the gift, the gift Yankee, right? Because they say they are the ones who travel and live there, but also travel and live on the prime material plane. Everything else there is native to the plane, and it is a very strange place that that's that's as much as anyone knows. You can get to the astral plane a couple of different ways. You can project yourself there using astral projection, which is great, but won't help you, because then when you get to Avernus, you don't have your body. You can also travel there using plane shift. And there are places on praxia where the membrane separating the astral plane from everything else are particularly thin. You can also get there by putting a bag of holding inside a portable hole. If you do that, it immediately tears a hole in reality, and sucks everything within 10 feet into onto the astral plane, and sprays all the items that were in the bag of holding or the hole into the same place.
+[1:03:55] Unknown Speaker(s): So there is that.
+[1:04:00] Sango: Did we meet a gift Yankee before?
+[1:04:03] Mossy Oak: Yes, you did. Yeah, got juice boxed by one. That's right.
+[1:04:20] Sango: So that's not really much an option we're considering right now. No, okay, and then, do they have anything on Avernus?
+[1:04:36] Ian Lurie: Hold on a second. They have pretty much the same information you've already learned, because no one from your order has gone to Avernus and returned.
+[1:04:52] Sango: Okay, and then the last item is the River Styx and the merriloth.
+[1:04:58] Ian Lurie: The River sticks is a similar problem, because it is in Avernus, the moral law. They are known to be lawful evil mercenaries. They are extremely rules driven, like all devils and denizens of the Nine Hells. But they are more mercenary, you know they you can buy them, right? You can buy their services, and they're often used to run errands. They're often hired by devils and demons alike to run errands for them.
+[1:05:40] JP Sherman: Probably shouldn't drink the water with the sticks.
+[1:05:44] Ian Lurie: Drinking the water with sticks will cause you to begin to forget things. Regarum actually told you that two of his party fell into the river sticks, and when they emerged, remember nothing of who they were or any of their skills, and they never recovered.
+[1:06:07] Unknown Speaker(s): That's right, you did tell us that. All right, okay,
+[1:06:26] Ian Lurie: all right, so rikter and Drac, you're going to do a little shopping. What are the items you're looking for? You're looking for a portable magic hut, portable portico, portable magic hut. Scroll of heroes, feast. Ring of resist, necrotic rings of fire, resistance. Ever smoking bottle which you've got and holy water, you figure you know that there's a couple places to go. You can go to the Mechanicum, which is Artemis hasps, place you can go to, free range mercantile, which is The big box. And then you can go to, sorry, I'm still here. Don't worry. That's right, you can go to the Diabolus diadem, which is another magic shop, but the Mechanicum is probably the one that you know the best, yeah, and
+[1:07:57] JP Sherman: that's the one with Artemis hasp, right?
+[1:07:59] Ian Lurie: Yeah, yeah. And if he doesn't have something, he can probably send you in the right direction.
+[1:08:04] Rikterr: So my old friend Artemis,
+[1:08:12] JP Sherman: Oh, that's right, y'all have history, not
+[1:08:16] Rikterr: what you might call beef it's very Kendrick Lamar Drake situation,
+[1:08:27] Ian Lurie: isn't it more of a 50 Cent Diddy situation? You know what?
+[1:08:30] Rikterr: Actually, yeah, you're totally Yeah. You told it got me. You're right. Yeah, we're gonna
+[1:08:37] Sango: wait for the district to drop. Yeah.
+[1:08:39] Ian Lurie: Artemis doesn't really have a whole lot of high ground on this one. Okay, so where would you guys like to go? Do you want? Which place you want to go first?
+[1:08:48] JP Sherman: Richard, you want you want to go Artemis first? Or do you want to go to the
+[1:08:55] Rikterr: let's go to Artemis. It's, it's always fun seeing his reaction, and maybe we'll get a good discount.
+[1:09:03] Unknown Speaker(s): All right, sounds good,
+[1:09:06] Ian Lurie: Mossy, there are no dragon marks, okay, on praxia, that's just an Eberron thing. It's a different a different setting,
+[1:09:14] Mossy Oak: okay, I was just looking at the items we could have the hirelings make in the five days that we're there, it does seem as though the feather token, which is like feather fall, you could be at least 20 feet from the ground. We could have them make that and have one of those on hand, because I think only two of us have feather fall.
+[1:09:38] Sango: Okay, Sango, has slow fall.
+[1:09:44] Ian Lurie: Okay, you have to be near a wall though, don't you? Sango?
+[1:09:48] Sango: Yeah, no, I'm
+[1:09:53] Ian Lurie: probably thinking all the way back to the second edition, or something.
+[1:09:58] JP Sherman: Crouching Tiger. Sango is hidden.
+[1:10:01] Unknown Speaker(s): I so
+[1:10:04] Ian Lurie: you guys walk into the Mechanicum and Artemis without looking up, says, Be right with you. And looks up and let's add, well, let's see what is. Oh yeah. Let's add a small gasp, a small but audible gasp. Says, oh, gentlemen, it's, it's so good to see you both. How can how? How? How can I help you
+[1:10:37] JP Sherman: see my friend here has some questions for you, sort of fill in the blank. Kind of questions we're looking for something pretty specific. He has all the details.
+[1:10:52] Rikterr: But first off, Artemis for your old pal, rikter, what kind of discount Can you give me and my friend direct today, we're looking to do some shopping. And hey, if we buy in bulk, it's good for you too, right?
+[1:11:09] Ian Lurie: Why don't you give me either a persuasion or intimidation check? Oh, Bubba, you know what I'm going I'm guessing I know.
+[1:11:17] JP Sherman: Can I can I assist or guidance him?
+[1:11:20] Ian Lurie: You can assist. You can sort of stand menacingly.
+[1:11:23] Rikterr: Does that advantage?
+[1:11:26] Ian Lurie: You should Yes, yes.
+[1:11:31] Rikterr: Oh, that's a 25 sir, okay.
+[1:11:34] Ian Lurie: Says, Oh, of course. I mean, I'll give you the best possible price on on any wares I can provide, awesome.
+[1:11:41] Rikterr: And at this point, rikter pulls out a list that Drak has written so beautifully, and calligraphy handwriting, it just looks like all of his other plans and everything. Just even though it was done in five seconds, it looks like he took five years just making it beautifully. It's like, okay, do you have a portable magical hut anywhere in your shop,
+[1:12:06] Ian Lurie: a part of portable, if I had a portable magical hut, I be in it right now. I mean, that is, that's probably beyond me, but let me, let me do some research. What else is on your list?
+[1:12:22] Rikterr: Uh, scroll of heroes. Piece, okay.
+[1:12:29] Sango: And, oh, sorry,
+[1:12:30] Ian Lurie: I'll just, I'll just, actually, can I just? Can I just take that for a moment,
+[1:12:36] Rikterr: rikter gives it over to him, and as he does when Artemis pulls out of his hand, rikter just kind of like holds it for a second
+[1:12:43] Ian Lurie: moment of he says, Okay, let's see here. Scroll. So scrolls are not really my thing. You might want to talk. I would say, Talk to ezelbeth as much as I don't like her. I You could go to, oh, I know. I will, you know what for you, I have, I got a deal. You can go over to Bartholomew's, and he can make scrolls. And I'll bet that with some of these, well, scroll of heroes feast. Obviously, that is a scroll, so he could probably help you with that one, because he probably has it the magic hut. You're probably talking about a spell like, layman's tiny hut. And he actually gets sort of professional for a minute, like he's nerding out so he's no longer pooping himself, at least for a minute. He says, that's really a scroll. What you really want there is a scroll, and you want multiple scrolls so you can cast it multiple times. I'm assuming. So again, I would talk to Bartholomew about that, or ezelbeth. Don't mention one to the other, because they do not like each other. A ring of fire resistance. Let me see. I'll go check in the back for that in a minute. Ever, ever smoking bottle you've already taken care of, Holy Water,
+[1:14:13] JP Sherman: Jack's already figured all right,
+[1:14:14] Ian Lurie: okay, okay, so it's just those first four things. All right. So he takes a quick look. He says, he pulls out a little box. It's like a little velvet thing that has a list that has a bunch of rings in it, and he starts going through it. Says, let's see here, fire and necrotic. Can I ask? What are what you're planning on doing? Maybe Ian offer some better advice, or
+[1:14:47] JP Sherman: Sure thing, we are going to one of the most inhospitable places we can possibly imagine, fire, sulfur, lava. And here's what I'm really hoping for, for the for the for the hut thing is this some sort of object that I toss on the ground, and the only thing it does is expand and create some sort of protection field, because if I get scrolls, if I run a scrolls, we Are royally fucked. I don't want to be fucked. So I'm like, I'll even show them, like my miniature, like folding boat, like this fits nicely, and when I pop it out, it's a boat, something like this.
+[1:15:38] Ian Lurie: Okay, I um. He thinks I might be able to craft something, but it would take me several weeks. I don't think anyone's ever made anything quite like this before?
+[1:16:05] JP Sherman: Is this a is this one of those situations where you have too many things on your plate and you can move it up? Or is the is actually like the crafting of it will take such a long time?
+[1:16:18] Ian Lurie: Oh no, no, of course you would. You're immediately at the very big the top of the priority list, I would start work immediately. It's just that there's no, I don't, there's no plans to work off of this would be, I'd be inventing something completely new, which I am thoroughly capable of, I must say. But it, it does take a certain amount of time understood.
+[1:16:43] Rikterr: You know, Artemis, hold off on that. If we can't find it anywhere else, we'll come back to that. And rikter goes into his pocket, pulls out five gold and just lays down. This is deposit. Why don't you start drafting up some ideas, and if we need to come back to you, you'll always already be a couple of steps ahead from what we need.
+[1:17:04] Ian Lurie: He looks he says, You don't have to give me any payment for me to start drafting plans. I will tell you that this item would be very expensive.
+[1:17:18] Rikterr: Literally, I just just want to make sure you understand that you know we're good for it, and want to make sure that you know our commerce is always good here,
+[1:17:28] Ian Lurie: of course, of course, you're good for I know you're good for it. No No worries, my friend, I mean, and then he realizes that's probably too far. He says, no concerns at all. And plus, I must admit, if I can invent something like this, it would be worth a great deal to myself as well. So let's see. Looking at these rings, it's pulling up Ian's pulling up the store list here I'm
+[1:18:03] JP Sherman: you also probably need to consider the attunement, because I'm in the I'm in the middle of the critical role season two, where they're making a very big deal about the ring of fire resistance, and typing that deal the chat,
+[1:18:22] Ian Lurie: which is hilarious, yes. So he says, I do have a ring of fire resistance, actually. And he pulls out this small gold band with a red gem on the top of it. And he says, This is a standard ring. It will give you resistance to fire. It costs 7500 gold, but for you gentlemen, 3000 gold.
+[1:19:08] JP Sherman: So real quick, would anyone be able to use that or swap some sort of attunement slot for this?
+[1:19:17] Mossy Oak: I might be able to replicate that. Hold on, if you get me one, I think I can make another.
+[1:19:24] Ian Lurie: But does anyone have an attunement slot?
+[1:19:27] Rikterr: Not one that I'd be willing to give up for that
+[1:19:36] Unknown Speaker(s): silly question.
+[1:19:41] JP Sherman: Does Surah have any attunement spots?
+[1:19:44] Ian Lurie: No, no, damn. That's a really cool idea. Actually. I'll have to think about a mechanic for that someday. But no,
+[1:19:52] Mossy Oak: oh, checking my attunements.
+[1:19:58] Ian Lurie: Mossy, you already get fire resistance from your armor, and resistances don't stack, so you don't actually need the ring, okay, not that particular ring, but if you do have an attunement slot, slot available, yeah, you could certainly you, yeah, You can attune something else
+[1:20:19] Mossy Oak: I do not. Okay,
+[1:20:22] Ian Lurie: Sango, any attunement thoughts?
+[1:20:31] Sango: He could remove his Ion stone of awareness. I
+[1:20:46] Ian Lurie: Okay, just something to think about. So he says, Should I wrap that up for You? Ian,
+[1:21:15] JP Sherman: I think it's good to have like I think it would be really good to have like, no matter if we agree, especially at that price.
+[1:21:35] Rikterr: Yeah, that's pretty damn good. Yeah,
+[1:21:38] Unknown Speaker(s): yeah, we'll buy that. Excellent.
+[1:21:44] Ian Lurie: Would you like a complimentary gift box? Are you going to wear it out? Oh, the box please. Okay. Ezelbeth is the one with the imp. Yes. Mossy, they're really annoying.
+[1:22:03] Mossy Oak: Okay, I don't know Mossy liked him. He liked bacon. They had a fine relationship, no, sorry, it's just the ring of water walking for some reason.
+[1:22:21] Rikterr: So all right, all right. So should we get on to either Elsbeth or who was the other one?
+[1:22:30] Ian Lurie: The other one is Bartholomew at the Tomes and knowledge. And if you want to get scrolls, Bartholomew is the guy to go to.
+[1:22:38] Rikterr: Then let's go to Bartholomew. Okay,
+[1:22:47] Ian Lurie: so you head over there. As always it is. The store is impeccable and perfectly organized. It's absolutely gorgeous. There's Bartholomew's there. He's sort of this very anonymous looking, but very pale looking, younger human. He has a huge magnifying glass that he's currently using as he's writing something onto a scroll, and he looks up when you enter and says, how I help you, gentlemen,
+[1:23:29] Rikterr: did we get the list back from
+[1:23:33] Ian Lurie: okay, there's no way in hell. He's He's letting you leave anything with him. He's like, please take this
+[1:23:43] Rikterr: all right, so Rikka just walks up to the guy and says, Hey, we're just looking for a couple items on this list, and anything we've already gotten just crossed out.
+[1:23:52] Ian Lurie: Yeah. He says, Well, squirrel of heroes, feast. Let me see that's a fairly potent enchantment. I may not have that immediately available,
+[1:24:10] JP Sherman: and the multiple scrolls of Leo Ian's tiny hut, all right. Unless, unless you are aware of some sort of item that can transform into a portable way of protection of a, of a hut, of a, some sort of tent.
+[1:24:44] Ian Lurie: That is a very interesting idea. I don't know of any you might talk to Artemis hasp. That's the kind of thing he he would be very good at.
+[1:24:54] Unknown Speaker(s): I see,
+[1:24:55] Ian Lurie: as far as scrolls, let's see scroll, a scroll of layman's tiny hut. I don't have it, but I can make it, and I can make several. It takes me a few days to make one, and they cost about 500 gold pieces each. I see and then the scroll of heroes feast. He's looking through this big sort of journal. He says, it so happens I do have one, and I did not expect that. And it is 15,000 gold pieces.
+[1:25:35] Unknown Speaker(s): Oh, let me check the bank.
+[1:25:37] Ian Lurie: That's a seventh level spell. You know that's, that's, yeah, no, it's a six level spell, sorry, six level spell. Those are not cheap.
+[1:25:49] JP Sherman: That will completely wipe out the bank.
+[1:25:57] Speaker 2: But I
+[1:26:09] JP Sherman: kind of party line director. We got to knock him down a little bit. We got we got it. We got to negotiate this.
+[1:26:20] Rikterr: All right. Rikter takes us, brother. Browser leans in and just says, you know, I don't know if you you've ever heard of notorious RBG before? Kind of a big deal. And it would be really awesome, if you could help us, because, and he leans in as if he's telling them something he shouldn't really be telling anyone. See, we we've gotta go to hell, and we've gotta deal with something really, really tough, and we'd really like to be able to come back now, having that scroll keep us safe, and for aventine's Heroes, isn't keeping us safe something you'd want To be a part of.
+[1:27:14] Ian Lurie: Give me a persuasion check.
+[1:27:23] Rikterr: Yeah, that's going to be a dirty 20. Okay?
+[1:27:30] Ian Lurie: He says, Well, of course, I know you, you gentlemen, and I know about your organization, and you've done great, great things. I was already offering you a better price, but things being what they are, and if you are truly going to hell, then here's what I would request. I can give this to you for 7500 gold if you secure any books or other knowledge that you decide to sell, I would like to have right of first refusal.
+[1:28:10] Rikterr: Party line track. What do you think? Because I know Mossy might want to have a look at some of those books too. Well.
+[1:28:17] Ian Lurie: He did say, if you're looking to sell, yeah,
+[1:28:22] Unknown Speaker(s): I think that
+[1:28:25] JP Sherman: Mossy is pretty fucking clever. She could rip through a book in just a couple of days, and then we could sell the leftovers.
+[1:28:33] Rikterr: What if we also, yeah, what if we also offer Mossy the right to first refusal, the first refusal where she wants to keep the book. We don't worry about it, but if she reads it, likes it, copies it and says, we can sell it.
+[1:28:48] Unknown Speaker(s): I think that works,
+[1:28:50] Rikterr: all right, yeah.
+[1:28:57] JP Sherman: And I would say, let's, no matter what we do, we'll keep an eye out for anything that he might find interesting.
+[1:29:06] Rikterr: Yeah, what are there any specific topics that you'd really like us to focus on? So that way we know if we're bringing you something back, it's something that's really worth your while.
+[1:29:17] Ian Lurie: I am interested in all forms of knowledge that don't curse me. So you know, if it's a book that says danger, do not open under any circumstances, no, fuck that. I want nothing to do with it, but knowledge of all kinds, that is what I deal in here.
+[1:29:33] Rikterr: So, okay, awesome, so it's a deal,
+[1:29:42] Unknown Speaker(s): fine. Awesome. Some chick tracks or something?
+[1:29:48] JP Sherman: Nope, okay, so I'm going to knock off real quick question. The material component
+[1:29:57] Unknown Speaker(s): for this is a
+[1:30:00] JP Sherman: jewel encrusted thing bowl.
+[1:30:04] Ian Lurie: Jewel encrusted bowl worth at least 1000 gold pieces.
+[1:30:08] JP Sherman: Okay, is that something he has? Or
+[1:30:11] Ian Lurie: he says the best place to get that? Actually, he starts rooting around. I mean, I deal mostly in books and scrolls and such. I'll, if you don't mind, I'll order one for you and have it delivered perfect. That is another. It is another 1000 gold. That's just at cost, but I can get that sent over to your Okay.
+[1:30:44] JP Sherman: All right. Rikter, do you want to hold on to the Hero's Feast? I feel like the most, most appropriate thing for you to do, sure.
+[1:30:54] Rikterr: All right, because, Lord knows, we don't want you our Sango cooking for us,
+[1:30:59] Unknown Speaker(s): it's magical food. Also, fuck off.
+[1:31:03] Rikterr: You still find a way to magically mess it up.
+[1:31:05] Ian Lurie: If anyone could break a Hero's Feast.
+[1:31:12] Mossy Oak: Shouter, don't let drag read the scroll.
+[1:31:16] JP Sherman: Sorry. It's all Arby's.
+[1:31:18] Ian Lurie: It's no it's French onion soup with extra cheese and you're all lactose intolerant, all right.
+[1:31:31] JP Sherman: Okay, so I if I drop, if I drop the is it the, what is it called the sapling stone. I can, I can wear the ring of fire protection, but it's kind of a like, I love that thing. It prevents critical hits. Well, it prevents one critical hit
+[1:32:03] Ian Lurie: per day, right per day? Yeah.
+[1:32:08] JP Sherman: So if anyone wants to claim it, I'm happy to claim it, but if anyone else wants it, it's yours.
+[1:32:29] Rikterr: Yeah, unfortunately, again, I don't there's nothing I'd want to unattune with there so that Sango, you, you
+[1:32:44] Sango: Sango, maybe, does it do anything else?
+[1:32:52] JP Sherman: Looks cool, protects you from fire. I know you have a history of fire.
+[1:32:58] Sango: Oh, my God, that's true. I forgot about that shit, that's probably a good idea, that
+[1:33:09] Ian Lurie: he's gonna give up some legendary artifact to get this ring of fire resistance.
+[1:33:14] Mossy Oak: To be fair, every time he walks out of the shower with a towel, we just see is a floating towel that too I was burning scars on him.
+[1:33:29] Sango: Yeah, I can give up my Ian's Ian stone of awareness. That's just prevents me from being surprised. But that doesn't come up very often.
+[1:33:40] Unknown Speaker(s): All right, it's yours, man. I'm
+[1:33:45] Mossy Oak: so looking forward to sneaking up on you all the time now, yep,
+[1:33:51] Ian Lurie: guys, I'll be right back. Just give me quick break. Think about any other stuff you want to try and get I know you're still talking about the ring of necrotic resistance. I think that was it, but I'll be, I'll be back on a Second, yeah. I
+[1:34:38] Rikterr: Ian Who are we looking for potions? Then, to resist the credit, because we probably could only get one ring, although Mossy could maybe duplicate it, so getting one ring would even be enough.
+[1:35:14] Mossy Oak: No, I checked. I can duplicate some rings. That's not on the list,
+[1:35:19] Rikterr: poop and Stein. Okay, so then do we want to try and do potions?
+[1:35:27] JP Sherman: We stock
+[1:35:28] Mossy Oak: up on all the potions you can grab. We have some, like, super fancy ones in the bag of holding. Because I
+[1:35:36] Rikterr: think maybe if we focus on potions of healing, as regard was saying, like, because I have aura of life, it would cost the 1/4 level spell slot I have, and would make us crowd in, but it does give us resistance to necrotic damage if we really come up against anything that does it. So maybe whatever money we have spending it on healing potions that can actually go throughout the party might be better than maybe getting one necrotic resistance ring, especially if everyone already has all their attunements locked up with something
+[1:36:14] Mossy Oak: necrotic damage. Is it a form of magical damage? Uh, no,
+[1:36:22] Ian Lurie: it is its own unique kind of damage.
+[1:36:28] JP Sherman: And he did say that devils generally don't deliver that kind Yep.
+[1:36:37] Mossy Oak: I mean, my spare the dying is now 30 feet, so that's handy.
+[1:36:46] Sango: This ring of fire resistance that I just added doesn't require attunement.
+[1:36:54] Mossy Oak: Oh yes, it does.
+[1:36:57] Sango: It's not giving me that option, because every other, every other item that requires attunement, you have to click the attune down below,
+[1:37:14] Ian Lurie: maybe in the new rules, it's it doesn't require attunement,
+[1:37:18] Sango: yeah? Maybe,
+[1:37:19] Rikterr: no, yeah, does not have a tune, man. Well, there you go.
+[1:37:25] Ian Lurie: Now, drag is like, god damn it,
+[1:37:27] JP Sherman: right, right. No back seats. All
+[1:37:34] Speaker 2: right, cool. I just
+[1:37:39] JP Sherman: updated all of our money and savings. Kid Jack puts the little visor down again. Okay, so I think necrotic damage may may be a little overkill, especially because we just spent a crap ton of money on the scroll of heroes feast. I think it's going to pay off. I think it's going to be really, really good for us. And, yeah, I think it's going to be good, awesome. And we have, we could have one scroll of leoman's. I think maybe, if, maybe, if there are any other scrolls free range mercantile, I'd love to get a couple more scrolls of leomos, and I'm going to take a look and see what the rules are for, because I know that we have a it is called a scriptorium crafts a cleric or wizard skull level three or below
+[1:39:05] Ian Lurie: that's at, that's in your Bastion? Yes, so you could get it working on Lehman's tiny hut.
+[1:39:13] Sango: Yes. How many? How many days does it take?
+[1:39:17] Ian Lurie: To seven, I believe,
+[1:39:20] Sango: for a scroll for, I think
+[1:39:22] Ian Lurie: almost everything is seven days in the bastion.
+[1:39:27] Mossy Oak: It's gonna take five for the feather thingy.
+[1:39:32] Ian Lurie: Okay, so maybe double check that. Sorry,
+[1:39:36] Mossy Oak: yeah, the ones in the arcane study are between five and 10. Well, no, they go up to like 250 we want Something legendary.
+[1:39:47] JP Sherman: Okay, I'm looking at the scriptorium rules.
+[1:39:56] Unknown Speaker(s): Okay?
+[1:40:03] JP Sherman: The crafting equipment the players handbook specifies, yeah, probably seven. So I think so. Okay, so if, if the free range mercantile doesn't have any extra scrolls, I think it may be wasting too much time, burning seven days to craft one extra skull.
+[1:40:34] Sango: We good, we good. Okay, it takes five days to scribe a third level spell.
+[1:40:46] Unknown Speaker(s): Okay, okay,
+[1:40:51] Sango: so that week we could have put that order in, you know, before we left, yeah, it was a three day journey.
+[1:41:02] Ian Lurie: Yes, I'll allow it.
+[1:41:08] JP Sherman: Okay, so we get two scrolls,
+[1:41:11] Unknown Speaker(s): and someone make sure you
+[1:41:13] Ian Lurie: mark you mark all this down.
+[1:41:15] Unknown Speaker(s): Okay, I got this. If it's
+[1:41:17] Ian Lurie: not in your inventory, I'm going to assume you don't have it,
+[1:41:24] Mossy Oak: sir, me and my demonically possessed character sheet would like a word.
+[1:41:29] Rikterr: Who's holding on to the scrolls?
+[1:41:36] Mossy Oak: One of you two, you're one's walking with it. Okay,
+[1:41:39] Rikterr: no, we're having it crafted at the Bastion, okay.
+[1:41:45] Sango: Are there any rules against who can use spell scrolls? No.
+[1:41:51] Ian Lurie: Generally, anyone who can read them can use them.
+[1:41:55] Mossy Oak: Okay, okay. What is the literacy threshold like if you, if you made intelligence your dumb stat, could you still read a scroll
+[1:42:09] JP Sherman: tracks like, Hey, you talk, Oh, you,
+[1:42:16] Ian Lurie: oh, actually, so Okay, non spell casters, or those using spells off list must make an intelligence or Arcana check, but generally spell crash casters can, oh, no wait, fuck i You know what? Okay, busted. I was just using AI, and I should know that AI is just fucking stupid. Why would I have asked that question?
+[1:42:46] Mossy Oak: Because you enjoy being lied to.
+[1:42:48] Ian Lurie: Yeah, any creature that can read can attempt to activate the spell. So if you can, if you can read it, let's see here, if it's a scroll, anyone can read it and use it unless it's part of a specific category of spell scrolls. Um, yeah. So you all are smart enough to use spell scrolls. You're all casters of some kind.
+[1:43:29] Mossy Oak: Come on, drag sound it out.
+[1:43:30] Ian Lurie: Yeah, if you give me someone with a five intelligence, no, they're not gonna be able to use a barbarian with an eight intelligence, probably can't use it,
+[1:43:42] JP Sherman: all right, I just dropped the tiny hut scroll in the shared Yeah.
+[1:43:47] Unknown Speaker(s): And, and the
+[1:43:50] Ian Lurie: main reason I'm being this fussy is because once you're in Avernus, the chances of you being able to find stuff like this is going to be pretty much non existent.
+[1:43:58] JP Sherman: Yeah. The, I guess the last thing that I want to do is go to free range mercantile to see if they have any scrolls. And before we leave, do you mind if I do just kind of a quick look around to see if anything piques my interest, something rangery And or useful
+[1:44:20] Ian Lurie: in at Bartholomew's, yes, so his is mostly books and stuff
+[1:44:28] JP Sherman: on board already, which is
+[1:44:30] Ian Lurie: not really your thing. Yeah, no, there's, he is. This is an exceptionally nerdy bookstore, like it's not even a regular bookstore. This is not Barnes and Noble, right? This is like the bookstore for engineers.
+[1:44:50] JP Sherman: Got it directs, the one who calls it the library.
+[1:44:53] Mossy Oak: Yes, he's been reading the same Dan Brown novel for four years.
+[1:45:02] JP Sherman: I just don't get it. Mossy, sound it out.
+[1:45:10] Sango: He's reading Nancy Drew Hardy Boys.
+[1:45:17] Ian Lurie: This amazing rogue, she can solve all sorts of crimes and Okay, free range mercantile.
+[1:45:23] JP Sherman: It's like encyclopedia brown too clever. Nancy Drew too clever. Party boys, just right.
+[1:45:35] Mossy Oak: Sorry, Yankees, all of a sudden, what's happening? Are you
+[1:45:40] Ian Lurie: shopping for anything in particular for your inch mercantile,
+[1:45:43] JP Sherman: I want to see if they have any extra scrolls of Leah Ian's tiny hut, okay? Or or an equivalent device. And again, like,
+[1:45:58] Mossy Oak: if there's a dollhouse, I'll shrink us all we can go in that?
+[1:46:01] JP Sherman: No, yeah, exactly, something like that. I would love something like that, you know, like drachmas dream house. I would totally do that.
+[1:46:12] Mossy Oak: Why is there a stripper pool in every room?
+[1:46:16] JP Sherman: That's how you get down from level to level.
+[1:46:20] Sango: This one only goes from floor to ceiling, though.
+[1:46:27] JP Sherman: No, I want to. I just want to kind of search the aisles. If I see anything that any of my party can use and or be helpful, I want to see if I can find something like that.
+[1:46:40] Mossy Oak: Yeah, it was gunpowder. There you go.
+[1:46:45] Ian Lurie: They don't generally store much gunpowder at free range. Yeah, there was an accident, and ever since then, it's, it's against store policy. You know,
+[1:46:56] Mossy Oak: Is that us? Are we?
+[1:46:59] Unknown Speaker(s): No, it was not you.
+[1:47:04] Ian Lurie: So you're walking around the store, and you're looking and you're in the an aisle of sort of outdoors equipment, and a familiar voice, you hear a familiar deep voice call out to you. Drak rikter, it's so good to see you. And these, these hooves clopping on the floor. And it's greka, you know, she's the manager of the store. She says, looking for anything in particular.
+[1:47:31] Unknown Speaker(s): Yes, we are.
+[1:47:35] JP Sherman: First of all, great to see you. Greca.
+[1:47:37] Ian Lurie: You too. You too. She slaps you on, well, she claps you on the back, and you actually give me a Dex roll.
+[1:47:43] JP Sherman: Oh, a Dex roll. Okay, I'm good at that, but not today. That was a mustache.
+[1:47:48] Ian Lurie: Oh, shit, you actually get knocked forward a few feet. You don't fall, but you do take a few steps forward.
+[1:47:54] JP Sherman: Didn't expect that, but I'm okay. I'm okay. Just my pride. Yes, we are going to be doing an expedition to some of the most unforgivable places you can possibly imagine, fire, hellfire, lava, rivers of blood, obsidian, spiky things on the ground. And we're looking, I'm looking for some sort of shelter that will provide rest, a level of a higher level of rest and protection than just sleeping out
+[1:48:33] Ian Lurie: in the open, any better. I'd say you were talking about someplace like Avernus, but that would be ridiculous.
+[1:48:38] JP Sherman: Only idiots go there.
+[1:48:40] Ian Lurie: Okay, just, just so we're clear.
+[1:48:42] JP Sherman: Just so, you know, like, I'm no idiot. Would rikter go with somebody like me to Avernus? Fuck that?
+[1:48:53] Ian Lurie: She says, Oh, that's a relief. She looks at the shelves you're looking at, and she says, You know, I don't have anything like that, but I do have this. And on one of the shelves, there's a small it almost looks like a bracelet or a belt. It's a length of rope with a little clasp on it. And she says, this can be a bracelet or a belt, depending on how big you are, and for you, it would be a bracelet. She says, This will let you cast rope trick once a day. It's not quite as good as a shelter, but it would give you a place to go hide if you needed to.
+[1:49:39] JP Sherman: So how much
+[1:49:46] Ian Lurie: she just flips it over. There's a price tag on it. Tuna, excuse me. Turner, 50 gold.
+[1:49:52] JP Sherman: Yoink. And would you happen to have, like, extra scrolls of leland's Hide? Like, I don't think you're really a scroll place, but I've seen some pretty interesting items here,
+[1:50:06] Ian Lurie: and our customers aren't usually that into reading. We don't have much of that kind of stuff here.
+[1:50:10] JP Sherman: Fair point. Fair point. I had to be taught how to use a hammer. So, yeah, no, okay, I'm gonna I'm it. No, this is this is incredible. I love this. Thank you,
+[1:50:30] Speaker 1: Ian's add that to my Does anyone want this
+[1:50:37] Sango: party like I feel like you're the the rope master.
+[1:50:42] Mossy Oak: All right, Ian just looked up so disappointed at you, like he's not mad. He's just disappointed.
+[1:50:51] Sango: He's the Ranger.
+[1:50:56] Mossy Oak: Yeah, definitely they have healing potions, potions that get the fuck out. We've got, I think, one of those.
+[1:51:06] JP Sherman: And once per long rest, right,
+[1:51:10] Unknown Speaker(s): correct, okay, and that is okay. Got it
+[1:51:17] Ian Lurie: and it, it's duration is one hour. I should say it is a standard rope trick spell sweet.
+[1:51:26] Sango: So this, this little, uh, rope putt only lasts for an hour.
+[1:51:32] Ian Lurie: Rope trick lasts for one hour. Yes, so you can't, you couldn't use it to take shot, you know, to, like, take a long rest. But if you really just needed to go someplace and hide. It is one possible option.
+[1:51:45] Sango: We can get a short rest out of that.
+[1:51:48] Ian Lurie: Yes, you can get a short
+[1:51:49] Unknown Speaker(s): rest. Yes, yes.
+[1:51:53] Sango: Just to sidetrack a second. Sango is going to spend some time using his herbalism kit that he's never used to craft some anti toxins over the few days that we're here, Okay, nice. How many days are we here? I think five, okay, or
+[1:52:22] Unknown Speaker(s): four or
+[1:52:24] JP Sherman: which is which will allow all of our things to get crafted same time, using our different Bastion places,
+[1:52:33] Unknown Speaker(s): right? So,
+[1:52:38] JP Sherman: I think rikter, you said, potions, right? Healing potions, right?
+[1:52:44] Rikterr: Healing potions. Okay,
+[1:52:50] Unknown Speaker(s): ask if they have any healing potions after
+[1:52:55] JP Sherman: your range of mercantile, yeah, yes,
+[1:53:00] Ian Lurie: no, we don't I'm sorry. Okay,
+[1:53:03] Unknown Speaker(s): that's fine. That's fine. Yeah,
+[1:53:06] Ian Lurie: you might talk to she's trying to remember his name. There's someone in Hall Ward who specializes in potions, the guy who
+[1:53:19] Mossy Oak: turns people into pigs if they still shit. We should also find out how he does that.
+[1:53:22] Ian Lurie: No, that was Bartholomew. He turns people into chickens if they steal shit, if you try to steal something from Bartholomew, that is indeed what he does. No, it's a, she's, like, she's, I don't it's, it's a place in Hall Ward, I can't remember someone's remedies or something like that. You guys can all give me, uh, intelligence, intelligence checks if you want
+[1:53:58] Unknown Speaker(s): mustache. Geez,
+[1:54:01] Sango: recognize. Five, okay,
+[1:54:04] Unknown Speaker(s): in character tonight.
+[1:54:11] Ian Lurie: All right, she she waves to a clerk. She says, hey, whatever your name is, what's the place down in Hall Ward sells potions and things, and the clerk, who just looks dead inside and is in the middle of pricing, like 10 million of the same thing, looks up says, Oh, you mean remedies, and then just goes back to pricing things. That's it. Randy's remedies. That's the place. And you guys immediately remember that, because that was actually the first place you ever did anything, in Aventine, the very first night we gamed you went there and fixed a little accident that Renny had had.
+[1:54:51] Unknown Speaker(s): That's right.
+[1:54:55] Mossy Oak: Wait now remind me, what did he do?
+[1:54:58] Ian Lurie: He had spilled a whole bunch of potions that polymorphed and changed. Yeah, so there was the dog had turned into a monkey, and there were some gigantic rats flying around, and that's right, rikter wasn't there for that. Yeah, it turned out someone had broken in and accidentally spilled all these potions. But it was, it was pure chaos.
+[1:55:29] JP Sherman: Okay, I don't, I don't want to take up too much time just for potions, because I'm sure we got other stuff
+[1:55:44] Unknown Speaker(s): to do, yep,
+[1:55:48] JP Sherman: so we'll go down there. And
+[1:55:49] Ian Lurie: do you guys go down to Hall ward or Yeah? Okay, so Rene's remedies is actually just down the street from the green slot, and as soon as you're there, you immediately recognize the store and all that. And it's just the two of you. Okay? You walk in, and there's Renny, and you remember now he's this really tall, skinny guy who perpetually sounds like he has a cold. And when you walk in the place, has this kind of Tang, ammonia smell to it. He says, Hello. How could I help you get a bit
+[1:56:31] JP Sherman: I motion over to rikter. You got this one?
+[1:56:35] Rikterr: We're looking for any potions of healing you may have in your inventory today.
+[1:56:43] Ian Lurie: Of course, of course. Just a moment, let me see what I've got here. He kind of rifles around underneath the the counter. Says, Let's see I have Ian's Oh, wow. The internet just completely betrayed me. This is why I should not keep my shit on Google Docs, because I'm just sitting here watching my browser just spin while I try to come up with ways to There we go. Damn. He says, I have, let's see here. I have four potions of healing, which is d4, plus two. I have two potions of greater healing, which is 44, plus four. I have one potion of superior healing which is 8d, four plus eight. And these are in successively larger bottles. And then he says, I just finished brewing this. Actually, this is really something special. He takes out this really small bottle. It's, it's a tiny little vial. It's like this big filled with some kind of really viscous, dark red fluid. He says, this is a potion of supreme healing. It is, as far as I know, there is only, there are only one or two on the planet, and I now have one of them. I could certainly sell this to you. Total for all of these would be, let's see here you can see him doing some math. He's like, this would end up costing about, hmm, this is total. This would be about 7000 gold pieces. The the potion of supreme healing is 5000 gold I should say.
+[1:58:59] Rikterr: What are we working with direct we can do it to
+[1:59:08] JP Sherman: find some jobs.
+[1:59:14] Mossy Oak: Wait, we should be collecting on a batch of stuff from the bastion. We phone back to give them instructions. You have to do it once a week to tell them to do it.
+[1:59:25] Ian Lurie: Yes, yeah, pretty sure. JP has got that on the sheet.
+[1:59:29] Rikterr: Okay, yeah, it's we need it, yep.
+[1:59:33] Unknown Speaker(s): All right,
+[1:59:35] Ian Lurie: so supreme healing is 10 d4 plus 20. Just want to make sure you
+[1:59:39] Mossy Oak: damn Yeah. Wait, we're not gonna discount for saving him from his own alchemical snafus.
+[1:59:47] Ian Lurie: He doesn't, I'm not sure he even remembers you guys when you're not there. Mossy, so you Yeah, one of the most recognizable members of the party,
+[1:59:59] Rikterr: party line, direct, didn't you tell me you helped this guy you want to see about? You know, bulk discount, yeah, where she can say is no,
+[2:00:12] JP Sherman: the worst he can say is increase the price. Okay. Hey, look, I know it's been a while. This is, first of all, this is amazing. Second of all,
+[2:00:30] Unknown Speaker(s): if we do, if we get all of these
+[2:00:35] JP Sherman: two things, one, do you mind? Like, what kind of a bulk discount can we get with us? And two, we're going to be going some pretty, pretty dangerous places. And is there something out there that we could be looking forward to, like rare minerals, or, I don't know what you do, but I'm
+[2:00:55] Mossy Oak: right see if he needs, like, something from Avernus. It can only be got there. Yeah.
+[2:00:59] JP Sherman: So we're going to advertise, is there something you might need or want from there?
+[2:01:04] Ian Lurie: Because he snorts, he's like, that's funny. You're funny. You're kidding, right?
+[2:01:11] JP Sherman: Oh no. Okay,
+[2:01:13] Ian Lurie: so mental note, payment up front, no credit terms. Give me a persuasion check.
+[2:01:20] JP Sherman: All right, I rolled two ones in a row.
+[2:01:23] Mossy Oak: So, I mean, you're bless yourself before you do this.
+[2:01:27] Speaker 1: Then, you know what? I'm gonna bless myself,
+[2:01:34] Mossy Oak: bless himself, on the nose,
+[2:01:36] JP Sherman: shit. All right, that's, that's a 16, okay?
+[2:01:40] Ian Lurie: He says, Well, you know, there's a bit of a cost here because of the materials, but because this is probably the last time I will ever see you, I'll give this all to you for 6000 gold instead.
+[2:01:56] Unknown Speaker(s): I appreciate it, of course, deeply, deeply appreciate it.
+[2:02:02] JP Sherman: Okay, um, I am going to
+[2:02:05] Mossy Oak: like Dragon parts are super valuable. This guy's been kind of bringing back a postcard.
+[2:02:13] JP Sherman: I'm gonna go put this in our share, in our gonna go put these in our party. Yep,
+[2:02:26] Ian Lurie: when you walk out of the store, there's a familiar figure floating in the street. Oh, Lord, it's a Beholder wearing an enormous one eyed eyeglass, and she says, Hello, Diaz, it's been so long you've been traveling a lot, I know
+[2:02:56] Rikterr: I realized you were so concentrated on getting The poached
+[2:02:59] JP Sherman: JP, inventory.
+[2:03:00] Ian Lurie: Oh, sorry, sorry, sorry, sorry. Hey,
+[2:03:03] Rikterr: how are you so good to see you? Sorry. We would have come to you first, but we're kidding up for a big adventure we're going on, and so we want to make sure we can get all that before we started to relax and have a little downtime.
+[2:03:17] Ian Lurie: Course, of course, I'll wait until JP is done. Thank you.
+[2:03:28] Unknown Speaker(s): Two graders, one superior and one supreme. Hey, really make this easy, don't they?
+[2:03:47] Mossy Oak: Yeah, tribunal rogue, it's fun. I
+[2:04:04] Rikterr: How's the slaw business going? Well,
+[2:04:08] Sango: oh, it's good. It's good.
+[2:04:13] Ian Lurie: Tell tell Mossy. You know, Kiki is doing okay. She misses her, but she's doing okay.
+[2:04:19] Rikterr: I know Mossy is really thankful that you're keeping watch over her and making sure that she's safe. We rather have her with us, but it's unfortunately dangerous for everyone involved right now,
+[2:04:33] Ian Lurie: of course, I understand.
+[2:04:41] Rikterr: Direct is so captivated by your beauty because he hasn't seen you in so long. He's just googly eyed
+[2:04:48] Ian Lurie: track struggling with a spreadsheet or something. I don't know what's happening here. Fine.
+[2:04:53] JP Sherman: I'm fine. Okay, okay, I'm good. I'm done. Okay, thank you.
+[2:04:57] Ian Lurie: Okay, um, she says and I'm not going to keep doing the voice. It's too hard on my vocal cords. Are you getting ready to do something particularly dangerous and stupid?
+[2:05:19] Sango: At least he's honest.
+[2:05:22] Mossy Oak: Wait, are you invisible? And just said that from behind them? You don't know, yeah.
+[2:05:32] JP Sherman: So you know about the being of the boot, the dragons of the fat?
+[2:05:40] Unknown Speaker(s): Of course, yes, yeah, we
+[2:05:43] JP Sherman: figured out who's behind it, and we're gonna go take the fight to her.
+[2:05:52] Ian Lurie: Are you trying to hide who it is, or I'm
+[2:05:55] JP Sherman: just not. I'm not. I am not trying to say the name out loud.
+[2:05:59] Rikterr: Okay, like Voldemort, the name is cursed. Yeah.
+[2:06:03] Ian Lurie: So Roxy's voice changes for a minute, and you to her more normal Beholder tone, and you hear her voice in your head, and she says, Well, my kind are not we're not creatures of faith, but I send my best wishes and safety with you. I know who it is that you face, and she is no small thing. My people speak of her only in whispers,
+[2:06:40] JP Sherman: yeah, and if I don't come back, if I die doing this, belong will kill me.
+[2:06:48] Ian Lurie: That is probably true. Yes, there's a little chuckle, but yes, that's
+[2:06:58] JP Sherman: what we're doing. And we're going to be here for the next three, four days before we, you know, head up and go to that go to the river and find the hole, go down the hole and take care of things one way or the other.
+[2:07:28] Ian Lurie: She nods, kind of seriously. She says, Well as I said, Good luck. Thank you. Thank you.
+[2:07:42] JP Sherman: Yeah. We're gonna have to figure out a way to come down and just kind of have one more night down here, because we got the tire bear.
+[2:07:56] Ian Lurie: That would be great. I'm sure everyone would appreciate it.
+[2:07:59] Unknown Speaker(s): Yes, all right, but I hate to agree, like
+[2:08:03] Mossy Oak: a level 14 wizard to come, like make a protective barrier so I can say bye to Kiki before we go die.
+[2:08:12] Ian Lurie: You do know some high level wizards?
+[2:08:18] Mossy Oak: Tank would like to volunteer. Hey, tank,
+[2:08:30] JP Sherman: I think I think rikter, we're done with our with our shopping montage, right?
+[2:08:35] Unknown Speaker(s): Yep, we're done.
+[2:08:36] Mossy Oak: Okay, cool,
+[2:08:39] Ian Lurie: Mossy, it's funny. You should bring that up the mockery campaign. Who do you reach out to to find out?
+[2:08:47] Mossy Oak: I mean, I'll ask someone to message the prince, because I funded him with that thing. But I'm I'm up in the workshop, working away, taking a short break, short rest up there.
+[2:08:58] Ian Lurie: So if I remember, right, you funded zavis,
+[2:09:01] Unknown Speaker(s): yes, yeah,
+[2:09:02] Ian Lurie: the princess spymaster, he said, you get a message back that basically says this kind of thing takes a long time to get going. You've actually only been gone for a couple of weeks, but he it is starting. It is in motion, and it should impact her ability to project power here.
+[2:09:26] Mossy Oak: Do you need more money?
+[2:09:29] Ian Lurie: It won't make things any faster. Okay, it's it just it takes time. And you remember this from talking to him about it. It just, it takes time for it to fully
+[2:09:42] Mossy Oak: I fully believe in your research, patron of academia,
+[2:09:52] Ian Lurie: there you go. There you go. So a few days go by. My Mossy, give me a perception check. 19, okay, middle of the night, you wake up to you've just taken, you know, you're just taking a quick nap, because you're in the middle of making all this stuff, and you wake up to sound of something on the window of your room. Just this
+[2:10:33] Mossy Oak: little screen flash blew as you did that.
+[2:10:35] Ian Lurie: Yes, it did. It did. That was kind of interesting. I don't know what the
+[2:10:41] Unknown Speaker(s): hell that was glitching.
+[2:10:42] Mossy Oak: Well, use mage hand. Pull back the curtain. Still laying there, half dead,
+[2:10:48] Ian Lurie: there's a familiar little fairy Dragon Face there.
+[2:10:52] Mossy Oak: JP, window pulled right the fuck open. Tackle that Fairy Dragon.
+[2:10:56] Ian Lurie: She comes flying in and just gives you a huge hug. And you hear in your head, Boss, I'm really sorry. I'm not I know I'm not supposed to be here, but I heard you were going someplace really dangerous. I want to make sure I said goodbye before you go. You know, just in case. Well, nothing's going to happen, of course, but I want to say goodbye before you go, and say, I just wanted to make sure you know that you know you can do this, and it's really important that you know that. And and then you just, she just sort of dissolves into sobs and just curls up in your lap.
+[2:11:26] Mossy Oak: I know, babe. She says, I want to go with you. This sucks. It sucks. I'm gonna punch her so hard in the face for this bullshit.
+[2:11:35] Unknown Speaker(s): She's a bitch, little bitch.
+[2:11:42] Mossy Oak: Hey, got the crafting kit over there. You want to make a little voodoo doll over and we can stab it
+[2:11:46] Ian Lurie: absolutely, all right? She's, she sniffs a couple times, yeah, let's do that. Such a bitch.
+[2:11:55] Mossy Oak: So we'll go on the crafting table and make little voodoo dolls of Tiamat.
+[2:11:59] Ian Lurie: Yeah. She says, seriously, I wish I could go with you and I could help, but I know I can't, and I couldn't really. I mean, you know,
+[2:12:09] Mossy Oak: here's how you're gonna help. Anytime you get nervous or worried about us, you're just gonna stab this little doll a bunch.
+[2:12:17] Ian Lurie: Excellent. I can do that. Just so, just so, you know, it's supposed to be a surprise, but long is planning kind of a party for you guys before you go. So if you could find a reason to be down at the the green slot in like a day, I'll make sure I'm not nearby, so that you know the thing can't happen and you can, you can go and and say hi to everybody.
+[2:12:51] Mossy Oak: You can absolutely do that. Just gotta figure a way to make sure that Sango stays visible long enough to get them there.
+[2:12:59] Ian Lurie: Just remember, it's a surprise? Well, yeah,
+[2:13:03] Mossy Oak: I don't know. Maybe we'll tell him, like, long fun is a tiny hut or something. You know, we've been looking for one of those, the things where you can, like, hide at night and be all cool, because Craig, and, you know, he's, he's gonna have like, 25 kids.
+[2:13:17] Ian Lurie: I, when I need to hide, I just do this, and she just disappears, and then she appears again.
+[2:13:24] Mossy Oak: Getting really good at that. Yes, we will absolutely be there. Awesome, excellent, capital, matching vood dolls that we make.
+[2:13:40] Ian Lurie: Okay, I should go before the bitch Queen gets wind and turns me into some kind of ravening devil Dragon, because I know how dangerous I am, and I don't want to be here and hurt someone.
+[2:13:52] Mossy Oak: We're so dangerous,
+[2:13:53] Ian Lurie: right, right?
+[2:13:55] Mossy Oak: Nobody wants to catch those hands Exactly.
+[2:13:58] Ian Lurie: See him. See these. And she says, I'll okay. And she gives you one more hug. She says, Okay, bye, and I'll see you soon get into trouble. Okay, okay, you too. She flies away.
+[2:14:15] Mossy Oak: Mossy hugs the little voodoo doll, and kind of quietly,
+[2:14:18] Ian Lurie: arrives, yeah, yeah. So the next couple days go by pretty routinely. You get, you know, your shopping trips are done
+[2:14:30] Mossy Oak: on the now, I get it, crochet them on,
+[2:14:33] Ian Lurie: oh, it took me. I was like, crochet meat. What?
+[2:14:37] Mossy Oak: That's kind of why I went to I was like, drag. This is not appropriate.
+[2:14:41] Ian Lurie: Cochlear Matt. I was trying to figure, okay, no, now I get it, and now I have an idea for a product, like a real world Etsy product, crochet mod, anyway. Do it.
+[2:15:00] Mossy Oak: Everyone. Give me a fiber arts.
+[2:15:03] Ian Lurie: Everyone give me a perception check.
+[2:15:12] Unknown Speaker(s): 27 mustache, Jesus,
+[2:15:22] Mossy Oak: battling. Tonight. Drag,
+[2:15:23] JP Sherman: I am gonna not roll that dice again tonight.
+[2:15:27] Ian Lurie: Rikter, what did you say?
+[2:15:29] Rikterr: Natural, 2423 total. Damn.
+[2:15:32] Ian Lurie: Okay, so Drac is like meditating somewhere or something. The rest of you, please don't take that anywhere else. He's meditating. The rest of you, though, it's midday on day four, and you're all for some reason, you're outside in front of Wildwood and you're working on some some stuff, you know, you're testing a few things out, and all sudden, you hear this kind of Crump in this little from the distance, somewhere up near the zupac Bazaar, which is the shopping district, and you see a little plume of smoke start rising in the bazaar,
+[2:16:18] Mossy Oak: party line. Anyone else see that?
+[2:16:23] Sango: Yeah, that's that. That wasn't there before, right? That doesn't, that doesn't, that doesn't happen normally, right, right?
+[2:16:28] Mossy Oak: That's, it smells more burning than normal.
+[2:16:33] Rikterr: Should we go investigate?
+[2:16:38] Mossy Oak: I don't know. Where are we at in our time frame?
+[2:16:41] Ian Lurie: You're have, you're done with your stuff, you're you're most of the way through day four. You're just getting everything packed up and ready to go. Okay, so that you can, you will not interrupt any work by going and doing this. Excellent.
+[2:16:56] Mossy Oak: Yep, we, we probably should go check this out.
+[2:17:00] Sango: Should we? Should we tell Drach? He probably knows. He probably knows already. He probably knows he's probably already on the way. They're pretty sure.
+[2:17:07] Mossy Oak: But walk out of my crafting office, look around.
+[2:17:12] Ian Lurie: Is there a drag track? Where would you be?
+[2:17:17] JP Sherman: No track. Track would be in his in his religious chambers with the coven.
+[2:17:25] Mossy Oak: I think he's doing cult shits. Can somebody go knock on the door cult?
+[2:17:31] Rikterr: Someone who's in a cult, I should go interrupt his cult shooting. Excuse me, yeah, I did that'll
+[2:17:38] Mossy Oak: be squatting around a cauldron.
+[2:17:40] Ian Lurie: That's a whole new that, and that's a whole new discipline culture.
+[2:17:44] Mossy Oak: The ingredients require a lot of corn. I'm sorry.
+[2:17:52] Ian Lurie: So Drak rikter comes and gets you. You guys all head up to the bazaar, and when you get there, there's quite a commotion. There doesn't seem to be any serious damage, but you notice that at the that the windows of the Mechanicum are blown out and Artemis hasp is sitting on the front step. His hair is like going in all directions. He's got just like black marks all over his face. He's covered in soot, and there's smoke just billowing out of the Mechanicum.
+[2:18:22] Mossy Oak: Mossy just yells, artifice or life.
+[2:18:25] Ian Lurie: And as you all walk up to him, he says, congratulate me. Say, congratulations. Congratulations.
+[2:18:34] Mossy Oak: Your hair looks phenomenal. Thank you.
+[2:18:42] Ian Lurie: Oh, he says, in a very hoarse voice. He says, So I realized that to make that making the item you were talking about, I didn't need to make a shelter that disappeared. I needed to make a shelter that could conceal itself. So instead, I made you know what it's best for you to just come in and see it. And he kind of gets up and staggers back into his store and disappears into the smoke. Okay, all these people that were outside are kind of like, they're all kind of talking to each other, and they're like, and they all go back to doing whatever they were doing.
+[2:19:22] JP Sherman: I have so much experience. I have so much experience falling an artificer into a smoky area.
+[2:19:29] Sango: What did you guys have him make? You'll see you don't even know. I totally don't know.
+[2:19:41] Rikterr: Well, we know what we told him to make, what he ended up doing could be what we asked. Could be something different. Hey.
+[2:19:49] JP Sherman: I mean, sometimes the translation between project manager and the developer gets gets lost in translation.
+[2:19:55] Ian Lurie: Okay, so I think this would do what you want. And he holds up this thing that looks like a beetle. It's about this long. It's about a foot, foot and a half long, and it looks like a scarab.
+[2:20:07] JP Sherman: Okay, I'm digging this so far.
+[2:20:12] Rikterr: Jumps back because it reminds him of those fire beetles.
+[2:20:15] Sango: Oh, God, his armor.
+[2:20:18] Ian Lurie: He says, whoa, hey, there. Whoa, no, it's, it's all good. And he's really dazed still. You can see his eyes are all bloodshot. And he kind of, every now and then he kind of, you know, totters a little bit. He says, Okay, so we should not test this in my store, because that's how this happened. First, is there some place with some dirt that we could test this dirt no one cares about.
+[2:20:44] Mossy Oak: Oh, we got a whole burnt down.
+[2:20:48] Unknown Speaker(s): Oh, that's right, okay,
+[2:20:52] JP Sherman: yeah, we got a place. He says,
+[2:20:58] Ian Lurie: Go, try it. Pay me if you like it,
+[2:21:01] Mossy Oak: all right, what are we trying
+[2:21:03] Ian Lurie: so you're going to put this on the ground and you're going to say this word, and he writes it down on a piece of paper and says, Do not say the word until you are where you want to use it. Immediate.
+[2:21:16] Mossy Oak: Call, everything goes mouth. Damn.
+[2:21:19] Sango: It. Beat me to it. Okay. Well played, Jamie, well played. He
+[2:21:28] Ian Lurie: says you can use this once a day it. He says it has three charges. You can use it those times, and then it will recharge. But you don't, it sort of recharges variably. So there may be days when you don't, it doesn't recharge, and days when it does. Also, if you use all the charges, it might just me too, might just go away. Oh god, you know what. For the next four games after this is just going to be non stop combat so that I don't have to see anything like this stuff for a few weeks. He says, okay, so you can use this three times, but if you use it all three, there's a chance it'll just go away. So I would suggest just using it twice, and then it'll get some it gets a couple of it might get a charge back every day, or it might not. It's not super reliable, but just go try it. Tell me what you think. If you like it, it's 5000 gold. I get to keep the plans
+[2:22:33] Unknown Speaker(s): holy fair. Okay,
+[2:22:34] Ian Lurie: so if you get back from wherever you're going, and everybody in Aventine has one of these, it's it's, it's okay that that's, I just want to make sure okay
+[2:22:45] Rikterr: before 5000 gold, you get to keep the original plans. Mossy gets to make a copy,
+[2:22:54] Ian Lurie: if she can make a copy of this, sure
+[2:22:58] Rikterr: a copy of the plans. No.
+[2:23:02] Ian Lurie: He doesn't even blink. He doesn't even blink. Rikter, he doesn't even seem intimidated. He just says, No,
+[2:23:11] Mossy Oak: party line, damn. I tried the shoulder. It's an artificer thing. It's okay. I tried Damn.
+[2:23:19] JP Sherman: IP is very serious to artifice. We're gonna take it to the we're the grounds outside the Bastion, where just a clear area, let's say you uh, like a football, football field, size area, okay,
+[2:23:50] Mossy Oak: all right. Oh, hey, Blong has something for you before we head out. We got to go over there after this.
+[2:23:56] JP Sherman: Okay, of course, we got to do that.
+[2:23:59] Ian Lurie: Okay, um, you set the Scarab down on the ground, and you say the word, and there's this kind of crunching sound of gears, and the Scarab unfolds itself and ends up getting about the size of maybe a small horse, and starts digging. And over the course of a few minutes, it digs itself into the ground so that all that's sticking out is a little doorway, which then pops open. And when you look inside, there's a room that looks like it would, you know, somewhat uncomfortably, but it would fit probably seven or eight medium human rights, so you guys can all fit in there pretty easily.
+[2:24:45] Mossy Oak: Mossy is cheering and running around it, going, Whoa.
+[2:24:48] Ian Lurie: Artemis, and it's pretty well hidden, like it's not, you know, you get the sense, and I'll have to write this up for you. But it's not indestructible. It's not impenetrable, but it is reasonably camouflaged, and it is a shelter. And you notice when you're inside that the temperature appears to be constant, like you know it's you're into leaf fall. Now it's pretty chilly out, but when you get inside, it feels like it's about 6065, degrees.
+[2:25:21] JP Sherman: So quick size check four people in a dinosaur.
+[2:25:29] Ian Lurie: No fit in here.
+[2:25:32] Unknown Speaker(s): That's fair. Okay, good to know.
+[2:25:37] Mossy Oak: Okay, so it just got room here because Jack's not gonna sleep in here with us.
+[2:25:46] JP Sherman: I know this is awesome. All right. All right. This is cool. This is cool. Wait.
+[2:25:52] Mossy Oak: Did we ever find like an ambulance for you to store, serve and safely, or anything like that? Not yet. Okay, is the Nine Hells really a place to bring a child? We'll talk about that later. You just ponder it for now.
+[2:26:08] Unknown Speaker(s): Yeah, ponder,
+[2:26:10] Mossy Oak: ponder, ponder, ponder, rub those two brain cells together. I believe in you, unleash your inner orange cat. I can say my cousin's orange.
+[2:26:26] Ian Lurie: Okay, so shopping, complete. Drag. Who did you have looking for that amulet? Anybody? I don't remember that you did. I know you asked around. I asked around.
+[2:26:42] JP Sherman: I don't remember if, if I did, I don't remember who it was,
+[2:26:49] Mossy Oak: but wrong about it, or something.
+[2:26:53] JP Sherman: I kind of remember blonde, but not hung out of the home, so sure, okay, oh, it was blonde, because she was super worried about how how room can be protected, yeah, especially in dangerous areas. Yep, we had one of those, Hunter, Hunter, the hunter talks, okay,
+[2:27:14] Ian Lurie: um, so that evening, you guys go down to the green slide and drag. Give me let's see who doesn't know about this, everyone except Mossy. Give me a perception check as you walk up to the green slide. Drag, did you mustache? Again?
+[2:27:43] JP Sherman: No, a natural. Three,
+[2:27:45] Unknown Speaker(s): okay, all right, good, good.
+[2:27:47] Sango: Six. Okay, what one?
+[2:27:51] Ian Lurie: Holy shit. Okay. So Mossy, you know what to expect. So as you guys walk up, you actually see, like, a bunch of people looking out between the, you know, out of the curtains and stuff. And actually someone is is out front and leans into the door and goes, they're coming, like, really loudly, and you totally hear it, but your three friends are completely oblivious. And so you, you all walk into the green slot, and everybody jumps up and says, surprise. And all these lights go on. And three of you guys are actually surprised. And Sango, you know, if you had kept that Ian's Ian stone up and running, you would not have been surprised by this. But you actually are. Lose initiative,
+[2:28:39] Mossy Oak: put that thing four feet in the air.
+[2:28:42] Ian Lurie: Yeah, and everyone you know is there Lumpkin, long Roxy, even some folks from House bellows, including Tasha Kwan, who's the person who first gave you the green. Slaad, they're all there. Wong Tates, no no. Goother is not really someone who No, no,
+[2:29:22] Mossy Oak: not a party guy.
+[2:29:24] Ian Lurie: He actually doesn't give two shits if you come back or not, if I'm if I'm being honest. But there is a familiar sorcerer standing there. Says, Hey guys, you look like you were actually surprised. It's fend off. Says this. That's pretty funny.
+[2:29:45] Unknown Speaker(s): We've been distracted. We've been busy. We've been
+[2:29:50] JP Sherman: run all over the place looking for weird shit. And, yeah, this is great. This is cool. Love it.
+[2:29:58] Ian Lurie: You're distracted. Got it
+[2:30:01] Unknown Speaker(s): completely distracted,
+[2:30:06] JP Sherman: but it's good to see you
+[2:30:08] Ian Lurie: same, same, and sounds like you're gonna go do something even crazier than some of the shit I used
+[2:30:20] Unknown Speaker(s): to do. Ian's stupid. I
+[2:30:22] Ian Lurie: traveled around crazier
+[2:30:23] Mossy Oak: than some of the shit you've done so far. That
+[2:30:27] Ian Lurie: is true. That is fair. You know, I dealt with the abyss, but never the Nine Hells. That's that's way worse, in my opinion.
+[2:30:36] Mossy Oak: Yeah, well, the plane we wanted to go to for the doesn't exist anymore. So you adapt.
+[2:30:46] JP Sherman: Drag just stops for me and tries to figure out what the art was.
+[2:30:52] Mossy Oak: There was a stabbing motion with it
+[2:30:55] JP Sherman: like, is there a plane for that?
+[2:31:00] Ian Lurie: I mean, technically there is, but I'm not going to tell you where, so y'all can read the DMS guide and figure it out.
+[2:31:15] Mossy Oak: Yeah, I got tank and exercise wheel, and it's adorable.
+[2:31:20] Ian Lurie: Oh, my God, that's hilarious. Yeah, good boy. So let's see. Zavis is actually there. Let's see who else is there that you would know?
+[2:31:39] Mossy Oak: Please tell me they made us like a team up pinata.
+[2:31:43] Ian Lurie: Fidelia is there, the princess greca is there. So basically all the people that you know and Aventine that you've worked with, grapp is there? Little goblin dude. Oh, is slurp,
+[2:32:02] Mossy Oak: wait, no slur was from the other thing? Kidding? Yeah. I meant crap,
+[2:32:05] Ian Lurie: yeah, grapp is grap is the one that you're thinking of. So they're all there, and you chat with them all that night, and it's, you know, it's kind of a weird party, because everyone knows that you're going to do this incredibly dangerous thing, so they're but they're kind of celebrating you for it. And at one point, Blong picks up a goblet and starts tapping a like a spoon on it, and it makes this dingy sound, and everyone goes quiet. And blang says, I'm not one for toasts and such things, but I feel like something needs to be said. RBG, you started by saving this city, then you save this continent. Now it seems you are going to try to save the world, and we all want you to know, even if others don't know what you're doing, we do go do what you need to do and then come back intact, because if you don't, we will all find you and kill you. Cheers. Everyone kind of nods appreciatively, yep. Juan Tates invites Sango up to play with him repeatedly that night. Once the toast is made, blonde comes over to you. Drac kind of puts her arm around you and gives you a squeeze, which you know, make a strength check. Five. Okay, you kind of you feel a couple of ribs crack. She says, Yes, I know it's not worth saying this, but please be careful as best you can. And also, I reached out to some friends of mine in salmure and got you this. And she takes out this, this pendant. This does require attunement, but it's the gem of sacred space. I'll send you the info on it. She says this will keep Sura safe.
+[2:35:04] JP Sherman: Oh, my God.
+[2:35:06] Ian Lurie: But just keep in mind, it can be destroyed, and if it is, Surah will immediately end up wherever she is. It's not invulnerable.
+[2:35:26] Unknown Speaker(s): Understood. Mossy,
+[2:35:27] Ian Lurie: you okay? Over there, it sounds like you just had a seizure or something.
+[2:35:31] Mossy Oak: Oh, sorry, my dog wanted her bed moved into the bedroom. Got it?
+[2:35:40] Unknown Speaker(s): No. Thank you. Thank you. This is
+[2:35:46] Ian Lurie: incredible. Just take care of you and take care of her. I've gotten attached, yeah,
+[2:35:58] JP Sherman: I'm gonna pull out of my backpack the bitey Bjorn, and because, you know, I'd have this a stuffy, a little stuffed Allosaurus. So I'm going to put the stuffed Allosaurus in the Baby Bjorn, the bitey Bjorn, and add it to the the decor on the wall.
+[2:36:24] Ian Lurie: She says, I have just the place. And she actually arranges it on the green slot, nice. So now the green slot is actually wearing the Bjorn with the stuffed Allosaurus.
+[2:36:36] Mossy Oak: No notes.
+[2:36:42] Ian Lurie: The party goes on as late or as early as you want it to. No one really wants to leave.
+[2:36:49] Mossy Oak: I never want to catch up with grab. You've stolen you good stuff lately. What are you up to? What's the game?
+[2:36:55] Ian Lurie: Grab says, I
+[2:37:00] Mossy Oak: think you grew since I last saw you. What are you now? Four foot. That's impressive.
+[2:37:04] Ian Lurie: That's not really likely, but I do have a new job. Tasha has got me guarding collections. So actually, instead of stealing things, I'm unstealing them. It's very weird, but I'm pretty good at it, as it turns out, because I know how people try to steal things tracks?
+[2:37:28] Mossy Oak: I also bet it. Let's just steal food from some rich assholes, right?
+[2:37:32] Ian Lurie: I may get some some tips here and there. Yeah, people are very generous, especially when they
+[2:37:38] Mossy Oak: pitch into my bag and give them one of the bespoke Ember claw spice jars that's empty me, like, got this for you?
+[2:37:47] Ian Lurie: Oh, thanks. That's great. I can probably sell it for a ton. I mean, thank you. That's awesome.
+[2:37:56] Mossy Oak: You know what coin is always your size.
+[2:38:02] Ian Lurie: The Okay, that was funny.
+[2:38:08] Mossy Oak: This ham definitely want to catch up with Roxy, yeah, because Roxy previously had some kind of vision Inkling thing about Tiamat.
+[2:38:20] Ian Lurie: Yes. Roxy talks to you all at some point that night actually comes over to your booth where you're all sitting at some point, and she was the one who had the vision that predicted what happened with the five fold brand. Just no one was aware of it at the time, but she was one who had the first vision of the five colors and the five gems. Yeah, that. And she says, I have been doing research. My kind don't really talk to each other, so I couldn't find out much.
+[2:39:11] Mossy Oak: But yeah, how does Beholder dating work? It doesn't know what that's just a question for another
+[2:39:17] Ian Lurie: time beholders are dreamt into existence. She says, feel like I can tell you that now there's no there's none of that we dream each other into existence. She says, Tiamat is a demi god. If you want to stop her, you will need the gods to intervene at some point.
+[2:39:43] Mossy Oak: Yeah, so remember our old friend Nick them, been having some fun conversations with him about, you know, assorted ways to mess with this absolute piece of shit and well, the riddle was a little hard to understand. He did admit that it wasn't his finest suit in prose, but it was, where is the right note? It was exile. Something, something something she
+[2:40:25] Ian Lurie: says, so I was actually using an expression. I don't mean that they actually have to intervene, but she's really powerful, and you're going to need everything you've got to deal with her. And if you can, if you can get a God to intervene, and you see her one eyebrow kind of go up outstanding. I mean, yes, absolutely, you should do that.
+[2:40:44] Mossy Oak: Now, the closest I get is like, knock, knock jokes with Nick them, but he did give me some interesting ways to Ian, I can't find it. What is the poem, prison, exiles or servitude? Any idea on that? She says, Well, nobody wants to imprison a pissed off douche bag dragon.
+[2:41:27] Ian Lurie: She's in prison now,
+[2:41:30] Mossy Oak: yeah, but not really. It kind of sounds like a shady dealing of sorts, the one that's empowers and the one that imprisoned her is really kind of lacks on the chains exile. I don't know another plane we can send her to. We can't kill her because the plane she's from doesn't exist anymore, and you got to kill her there, and then,
+[2:41:57] Ian Lurie: wow, I'm sure you will figure it out the way that you always do, which is with much chaos and at the last minute. But that's fair. Something has kept her down there for a long time. Perhaps you can just find a way to keep her down there still.
+[2:42:22] Mossy Oak: DM, question, the chains that hold her are weakening, though, is that correct? Correct? That's how she was able to partially move through Correct. Okay, say that to Roxy, so do you know way to reinforce some hell Lord chains,
+[2:42:39] Ian Lurie: the chains of glean air, I think, are what you're talking about. Yeah. So just and I will send this to you again, guys, but when you were looking up lore on Tiamat, and I know I dump shit tons of lore on you, and I apologize, but there was a specific mention of the chains of glean air, and said to strengthen the chains of Glen ear braid the roots of the mountain the breath of fish and the sound of a cat's footfall with the kiss of the unloved, or ask the gods themselves
+[2:43:16] Mossy Oak: This one, right? I just popped it in chat. I I save you the heaven to find it. That's the one perfect. Thank you.
+[2:43:30] Ian Lurie: It's that last paragraph that is, you know, that's what everybody that's that's what you could glean about this. And not even Roxy has this much information. Okay? I mean, if
+[2:43:48] Mossy Oak: it's beyond that, then it's just turning to a drinking game with Roxy. Mossy is definitely carved. RBG is here on our favorite booths table.
+[2:43:57] Ian Lurie: Okay, they so at the very end of the night, before you guys leave, there's something hanging on the wall, you know there's, there's all these plaques on the wall of famous people who have in famous groups and individuals who have been there and dine there and whatever. And right next to a plaque for a group called Team spear. You see that there's something covered with velvet they hadn't noticed before, and before everyone heads out that night. Blonde gets everyone's attention again and says, Now we all know you're coming back, of course, but we want your deeds to be remember this stump. Everyone kind of laughs. She says, As I was saying, but we want everyone to remember your deeds as long as the green slot stands and she pulls down the velvet, and it's a piece of sand art, but it's flawlessly. It's a flawless rendition of you guys, plus cre Ian, and underneath it says, notorious, RBG, Heroes of Aventine, Heroes of Aventine, comma, solidria, comma and beyond. And everyone applauds. And there's some tears exchanged. Everyone kind of hugs you as they go shuffling out. The Sun's actually coming up at this point, so people kind of have to go. And with that, the party wraps up, and blonde will stay and talk to you as long as you want, as will Roxy, but everybody else heads out at that point. All right,
+[2:45:51] Mossy Oak: it's pretty funny to imagine a past out drunk GIF just across the bar.
+[2:45:57] Ian Lurie: Yeah, Roxy is flying kind of sideways. No. Roxie doesn't eat or drink, so it doesn't really affect her.
+[2:46:08] Mossy Oak: All right, let's get back drag. It sounds like you have some new flashy jewelry you might want to get accustomed
+[2:46:15] Unknown Speaker(s): to. I do
+[2:46:18] Mossy Oak: make sure put the beetle wear.
+[2:46:22] JP Sherman: The beetle's in my back. Cool.
+[2:46:27] Ian Lurie: Okay, and the the gym, I will have to, I have it all written down here. I'll put it into DND beyond, and then you can grab it from there.
+[2:46:40] Sango: Cool, very cool. I found the the entry for the critical role trinket thing. I was literally putting it into discord when you said that.
+[2:46:52] Ian Lurie: So, oh, okay, yeah, no, I wrote this up before, but if train, but trinkets thing is pretty much what I stole to do it. So I'll double check. I think it's pretty close.
+[2:47:05] Mossy Oak: That's cool. Where does your necklace look like? JP, it's like a big, thick gold chain with a pendant. Are you rocking this
+[2:47:18] Ian Lurie: diamond encrusted D, ah. No,
+[2:47:26] JP Sherman: yeah, no, I'm not going there.
+[2:47:27] Mossy Oak: D equal sign equals sign, eight.
+[2:47:30] JP Sherman: So the way that, the way I'm looking at it, I'm Levis, it is like this finely woven, intricate silver chain with like, Allosaurus, like claws that hold the gem. And it's just a really kind of, kind of, like opalescent, but mostly green gem that has flecks of like orange and pink and red, and things
+[2:47:58] Mossy Oak: like any deeper V necks to go with that.
+[2:48:01] Unknown Speaker(s): Yeah, no, it's, I mean,
+[2:48:08] Mossy Oak: Rick, in my mind, deep V, DP, rikter.
+[2:48:15] Ian Lurie: Is there anyone you wanted to meet with or talk to? Because I realized you don't really know most of the green slot crowd,
+[2:48:22] Rikterr: no rikter is just sitting back enjoying all his friends having fun and just just having a drink. He's this is the most calm he's been before a big thing in a while, and he's just enjoying that feeling.
+[2:48:39] Ian Lurie: Okay, do some karaoke with wampates, you know. So I have to ask one last time exactly, how are you planning to do this? Are you going to fly to the gorges and then go down into Avernus that way? Are you going to plane shift? What's your
+[2:49:04] Mossy Oak: in theory, if we could hire a wizard to plane shift, wouldn't that be would
+[2:49:10] Sango: we need them to plane shift back?
+[2:49:16] Ian Lurie: You're muted. JP,
+[2:49:18] JP Sherman: rogue. He was the guy who had the the exit map?
+[2:49:25] Ian Lurie: Well, you have the map, yes. This point,
+[2:49:28] JP Sherman: he made a map of how to get out of Avernus. Yeah.
+[2:49:34] Mossy Oak: What about the time shift is going to happen? While we're there, we want to try and find some way to buff against the 180 years that'll pass.
+[2:49:47] Ian Lurie: So as far as frozen or just terribly, it's unpredictable, yeah, yeah, yeah.
+[2:49:58] Mossy Oak: I don't know. Do you know any Faye there was that, that one that was her name,
+[2:50:12] Ian Lurie: his name, and it's actually the now husband of the princess of Aventine, yes.
+[2:50:25] Mossy Oak: Wait, so could we maybe retro back and, like, sneak and talk to him in the corner of the party for a second.
+[2:50:30] Ian Lurie: So he's not there, damn it. She is though Fidelia is there.
+[2:50:39] Rikterr: Oh, I'm staying far away from her.
+[2:50:42] Mossy Oak: Oh, god. That's right.
+[2:50:46] Ian Lurie: That's all water under the bridge. It's all good.
+[2:50:49] Mossy Oak: There could be a vast Fidelia if, you know, she and her hookups could help us out here.
+[2:50:58] Ian Lurie: Jidari is his name. And he's he. He's an Aladdin OF THE.
+[2:51:42] Sango: Our Bastion can do like Legend lore one of the rooms, right? Yeah, I would like to do that on the
+[2:51:53] Speaker 2: chains of glia near. Okay. Um,
+[2:52:04] Unknown Speaker(s): because these,
+[2:52:08] Sango: these clues to what we're, these things that
+[2:52:13] Mossy Oak: they're very, very vague, and that's
+[2:52:15] Ian Lurie: bothering Sango. I mean, it's going to take seven days, though, it will take seven days.
+[2:52:22] Mossy Oak: Oh, it does, yes, yeah, okay. Well, I mean, we can set it up and then ring back in. You certainly could. The archive can do it. So, okay, I'll go to the archive when we get back and Lurie Lee ask them,
+[2:52:43] Sango: chance of
+[2:52:46] Mossy Oak: ham. Piernier,
+[2:52:48] Speaker 3: glinner, Glen
+[2:52:52] Mossy Oak: ear, G, L, E, y, n, i r,
+[2:52:56] Unknown Speaker(s): that thing, that one,
+[2:53:01] Ian Lurie: I think it's spelled with a G,
+[2:53:04] Mossy Oak: very sure they say, right, we'll get on it. And not yours of Glenn,
+[2:53:15] Speaker 2: yes, ma'am, I'm gonna go to sleep now. Okay, love you. Bye, bye. You.
+[2:53:23] Speaker 1: Fall asleep in the in the study chair. Okay, yep.
+[2:53:32] Unknown Speaker(s): DM, question,
+[2:53:36] Speaker 1: do the to the new special facilities to the bastion.
+[2:53:47] Ian Lurie: How does that work? We have to figure all that out. Okay, it's cool. You know, the thing I was thinking about making the the villages content an extension. I just don't know how we do that without ripping an enormous hole in the game itself. You can have, but, I mean, you have the teleportation circle, right? So you can jump back and forth between the discontent and the Bastion, yes, but I'm still trying to figure out how I could make that manageable, because you could potentially be on the other side of the world, jump back to the bastion for the night, and then jump back to the villains this, although I guess the villains discontent has to be there to do that. It's not
+[2:54:36] Unknown Speaker(s): like just anywhere. Let me think about that a little more. I
+[2:54:41] JP Sherman: say this. I say this because one of the level 17 facilities is the sanctum,
+[2:54:50] Ian Lurie: yep, which allows a word of recall, yep. Well, anything that's in the rules, and you know I would say this to you guys, read them carefully, because the stuff in the Bastion
+[2:55:04] Mossy Oak: rules, there's some really good stuff in there that you could use.
+[2:55:07] Ian Lurie: Yes, so Well, yeah, I got a heroic inspiration point for taking a nap in my Yeah, just read it real carefully, is all I would say. Now, whether things like that will work in Avernus, you don't know, because magic definitely goes wonky there, not as much as on the astral plane, but it definitely goes wonky. So some things may not work, but yeah, like you know regorum said they did, you know they tried to plane shift out of Ian's, and it didn't work, which
+[2:55:46] Mossy Oak: is why they ended up climbing back out.
+[2:55:50] Ian Lurie: Well, I really hope that means our spells aren't going to be completely fucked. Oh boy. Well, he did say, you know, they used healing magic. They use things like that.
+[2:56:01] Unknown Speaker(s): There's there's no information saying that that didn't work.
+[2:56:05] Mossy Oak: Um, we have his book that he gave us, right, correct.
+[2:56:15] Ian Lurie: Yes. Have we sat down and read through that? Yet it's a lot of random scribbles. I mean, you, I don't know that you have, but you read the part about Tiamat ripping the hell out of a whole bunch of demon lieutenants. You read a lot of what he told you is also in the book. So things about the fire and the effect of the place on people, if they're they can't, you know, because you can't rest the armies of devils and demons, the need for the Badgers.
+[2:56:49] Speaker 2: Ariel, you know that all that stuff is in those notes and the
+[2:56:53] Ian Lurie: map is in there, yeah.
+[2:56:58] Speaker 2: Some of it is just ravings. Some of the notes make no sense at all. Yeah,
+[2:57:08] Ian Lurie: this is cool. Okay, all right, so I'm going to assume then that the plan is you're going to travel to essedria and you're going to go down through the gorges, and if you change
+[2:57:20] Speaker 2: that at some point, just let me know, but that's kind of what I'm assuming.
+[2:57:29] Ian Lurie: The next morning, as you're getting ready to board the villain's discontent, Fidelia and her husband jadari, show up, and as you're boarding, jadari says, I understand you have some some questions
+[2:57:48] Mossy Oak: for me regarding the nature of time. Yeah. So in the same realm, time went a little caddy Bumpus and all that. And then time in the Nine Hells goes a little bit Teddy Bumpus, and as much as we'd
+[2:58:05] Unknown Speaker(s): like to survive, we'd also like to just still be the same century.
+[2:58:09] Ian Lurie: So, so in the Fae realm, there's no time shift of centuries, right? There can be a time shift of a year or two years, but not
+[2:58:25] Mossy Oak: centuries, that the amount of the dislocation required for that is too much.
+[2:58:31] Ian Lurie: Okay, talk to me about dislocation, the amount of force required
+[2:58:37] Unknown Speaker(s): to move you from the fey realm to
+[2:58:45] Ian Lurie: both of these places exist on timelines. There are events. Things happen right in the FE room, things in the Feywild, things happen in the prime material plane. They don't always match. It's like you have two ropes next to each other, and one rope is more flexible than the other, so when you jump from one rope to the next, you may
+[2:59:08] Speaker 2: end up someplace you don't expect.
+[2:59:11] Mossy Oak: That's the dislocation. How can we help to mitigate the
+[2:59:19] Ian Lurie: elasticity of that transition
+[2:59:24] Speaker 2: in the FE room, you can simply have a sufficiently
+[2:59:27] Ian Lurie: powerful Fe make it so you doing anything next week that's in the FE room, we can't have we can't plus, that's way beyond, that's far beyond my power, but that's in the fame room in Avernus. I would assume you would need to find someone
+[2:59:48] Unknown Speaker(s): of equivalent power
+[2:59:49] Mossy Oak: there, or a denizen, so a devil of some kind,
+[2:59:55] Unknown Speaker(s): they definitely want to do things for free.
+[2:59:58] Ian Lurie: That's that would be a problem. Yeah. Honestly, I think this will be something of a roll of the dice, as my people say,
+[3:00:12] Mossy Oak: and I'm not sure you can do much about it.
+[3:00:14] Speaker 1: I mean, we got drag you can offer favors.
+[3:00:20] Unknown Speaker(s): What's causing these time jumps? Is it my outfit?
+[3:00:31] Ian Lurie: So with that, you guys bored the villain's discontent, and you turn to fly with the sun at your back, because it is sunrise towards the continent of
+[3:00:45] Speaker 2: cedria, where you will begin your journey into Avernus.
+[3:00:53] Ian Lurie: All right, wrap up there, guys. Unfortunately, next game, I'm going to be in New York City, so I won't be able to run because I'm actually, actually, I won't be in New York.
+[3:01:04] Mossy Oak: I'll be in the air, flying back from New York.
+[3:01:09] Ian Lurie: You doing SEO week or no? No, no, it's visiting my mom. The whole plant is visiting her for her 85th so I'm just looking at my calendar
+[3:01:25] Speaker 2: to see, because the next month or so gets a little bit Weird.
+[3:01:38] Ian Lurie: So let's see the 19th then I'm here. We'll talk about it on Discord. I'm definitely here for the second. I'm here for the 16th, I think. And then me and Don are going to Chile, of course, assuming we don't fucking, you know, invade Chile or something. We don't, we don't leave until the 22nd of February. So, yeah, I'll be here for at least two games, the second and the 16th.
+[3:02:15] Speaker 2: And if we want to squeeze a couple others in there, we can, you but we can talk about it on Discord, yep, yep. All right. Y'all, have a good night. Everyone. Take care. Y'all. Good night, everybody.
+[3:02:36] Unknown Speaker(s): Bye. You.

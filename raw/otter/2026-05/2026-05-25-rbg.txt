@@ -1,0 +1,720 @@
+# Ian's Meeting Notes
+# Otter recording 2026/05/25 17:05:12 (1h 56m) id uQUn_VSZ_pMG_tvw56QhwMex6JI
+# https://otter.ai/u/uQUn_VSZ_pMG_tvw56QhwMex6JI
+# Speaker-attributed transcript, verbatim. Raw source for the card at /items/otter/2026-05/2026-05-25-rbg.md
+
+[0:00:04] Ian Lurie: You all are going to have to excuse me. I am badly distracted tonight, dreading the talk that I have to give to my students in the morning. And James, I got to apologize that you're going to have - you're going to be teaching my class in the morning, and they're going to all be a little shell-shocked after I just ring them all out for using AI. So,
+[0:00:21] Sango / Cregyn: oh so you're saying I should cut the AI portion out of my presentation?
+[0:00:27] Ian Lurie: No, absolutely not. Keep as much in there as you want. I'm out of fucks forgive at this point. I've gotten three assignments back now. I mean, it's been a shitty class all quarter. The students,
+[0:00:48] Sango / Cregyn: most of
+[0:00:48] Ian Lurie: them relate all this stuff, but I am. I put a Trojan horse into the final assignments that, if you cut and paste the assignment, it pasted prompts into the AI that you didn't know were there.
+[0:01:00] Speaker 1: Yeah,
+[0:01:01] Ian Lurie: and I got back three assignments so far, and all three of them have random facts about John Hancock, Elvis Presley, and Giraffes, which is a dead giveaway. So all three of them not only cheated but didn't even bother to proofread their own work.
+[0:01:19] Speaker 2: I mean,
+[0:01:20] Jamie Indigo: yeah, since like what people are doing professionally in my job,
+[0:01:23] Ian Lurie: so what I'm going to tell them is I can't give you any credit, you will actually fail this course. Sorry,
+[0:01:32] Sango / Cregyn: everything about this Cravell loves, by the way,
+[0:01:37] Ian Lurie: I'm sure.
+[0:01:37] Sango / Cregyn: Yep,
+[0:01:39] Ian Lurie: because well, and yeah, if Asmodeus is really running around out there somewhere, this is exactly the kind of thing he loves to give up a little piece of your soul.
+[0:01:59] Sango / Cregyn: Yep,
+[0:02:00] Jamie Indigo: didn't we give someone rather nefarious or blood at 1.0
+[0:02:05] Ian Lurie: that was a long time ago. Yes, you did.
+[0:02:08] Sango / Cregyn: Oh, do they still have
+[0:02:10] Ian Lurie: it? I believe you got it back, didn't you?
+[0:02:16] Sango / Cregyn: Yes, we totally did. Absolutely, I'm glad you brought that up.
+[0:02:19] Jamie Indigo: Definitely did. Remember it
+[0:02:20] Speaker 3: now. Yep,
+[0:02:21] Speaker 4: yep.
+[0:02:22] Ian Lurie: Great. Know where Jamar is. JP said he was going to be late,
+[0:02:41] Sango / Cregyn: like
+[0:02:42] Jamie Indigo: I will text him,
+[0:02:49] Sango / Cregyn: probably going to school better than himself,
+[0:02:52] Ian Lurie: right?
+[0:02:53] Sango / Cregyn: Selfish,
+[0:02:54] Jamie Indigo: you.
+[0:03:04] Ian Lurie: I thought he said starting in July. Did he maybe mean until July? No, it's the end of the end of August. Okay,
+[0:03:12] Sango / Cregyn: yeah, I'm pretty sure he said the end of August. Like, yeah, no, no, you're right. You're right, yeah, right, I
+[0:03:33] Jamie Indigo: All right, send tomorrow a text.
+[0:03:35] Speaker 3: Okay,
+[0:03:38] Ian Lurie: yeah, I won't be winning instructor of the year this year, that's for sure, and I gotta say, I don't care, because I'm never doing this again, so
+[0:03:59] Jamie Indigo: I mean, it sounds like you kind of have had a class of little shits,
+[0:04:03] Ian Lurie: well, but last year it was already starting last year, right? Last year was already the class where people came in late all the time. I think students are just giving up. I just don't think that they're bothering to put in the effort or the energy, and I'm not, and this is a graduate program, I'm not sure. I don't have any good answer for it, because if you're in a grad program and you spent 20 3040 grand in tuition, I would expect per year I would expect you'd be a little more incentivized,
+[0:04:36] Jamie Indigo: right?
+[0:04:39] Ian Lurie: It's not like undergrad where you went, because everybody told you you had
+[0:04:47] Sango / Cregyn: to go. Yep. Also, not that, not that did put a downer on that, but like budget, like my kids have used AI for their shit too, right, but somebody said, like, we're just, they're learning how to find the information instead of learn the information well, and that I think is like step one skill, but for a graduate program,
+[0:05:28] Ian Lurie: and they should have been able to do that with this thing called Google. I mean, that doesn't require AI, right? I mean, basic research skills, but I also, I'm not telling my students just don't use AI. I've given them very specific ways, and I mean, I actually include a lesson in something cool you can do with AI every single class. I'm not saying don't use it. I gave very specific guidance. I said, don't you know, you cannot use it for to give me completed, you cannot use it for completed work. You can use it to help if you give me citation saying here's what you know, here's where I used it, but you can't just turn in work that's been generated whole, you know, whole cloth from by using AI that was made very clear at the beginning of the semester, so, and last week I said to all the students who actually got there on time, because there's only five or six of them. Hey, you all got here, or you are all here on time. So, as a reward, I'm going to tell you that I have put a Trojan horse into the final assignment. Don't just cut and paste it into AI, and one of the three students that I just caught was there.
+[0:06:42] Sango / Cregyn: Oh shit,
+[0:06:43] Jamie Indigo: and was completely impressive.
+[0:06:45] Ian Lurie: Yeah, it was completely fucking ignoring me. And I know he was, because he's the one who always puts his fucking feet up on his chair and looks at his phone during class.
+[0:06:55] Jamie Indigo: Have you tried a Nerf gun? That could be fun, maybe like a Nerf crossbow.
+[0:07:00] Ian Lurie: I came closer to calling him out in class than I have ever come with students, and just saying, I'm sorry, am I boring you? But I didn't. Least I have three instructors.
+[0:07:14] Jamie Indigo: What a gotcha.
+[0:07:15] Ian Lurie: Yeah, I have three instructors auditing the course, and they seem to like it, so
+[0:07:22] Jamie Indigo: I So, what's up with somebody wearing a rubber mask on Fox News? It
+[0:07:29] Ian Lurie: is, I do
+[0:07:30] Jamie Indigo: appreciate getting European coverage of news, so that's nice. What's Fox News? Someone came under Fox News as like a special guest, and clearly has the seam of a latex, latex mask visible.
+[0:07:47] Ian Lurie: Look at that chaos ring. Oh, that was a while ago. I've not.. it was a couple days ago. What bizarre flap of skin at his neck that makes it look like he's wearing a vinyl mask, a
+[0:08:09] Jamie Indigo: hyper-realistic mask where they are known to seem. Yes, I mean, Fox News also had multiple members of Antifa on who all appear to be one dude.
+[0:08:20] Sango / Cregyn: Yeah, they keep getting busted for that kind of shit.
+[0:08:29] Ian Lurie: So, who
+[0:08:33] Jamie Indigo: is this guy, like
+[0:08:35] Ian Lurie: Robert Harward? He was on there insisting that Donald Trump holds all the cards in the Iran-US war,
+[0:08:43] Jamie Indigo: he's like a military official in real life,
+[0:08:49] Sango / Cregyn: builds all the cars, but he doesn't hold the straight, anything moves. Yeah,
+[0:08:55] Ian Lurie: that's definitely him. Robert Harwards, Harvard's face glitches on live TV,
+[0:09:14] Jamie Indigo: and what was up with the someone blew up a car bomb next to Wall Street, and the bull statue.
+[0:09:23] Ian Lurie: No, I missed that one. Yeah, someone tried to shoot Trump again, if we believe
+[0:09:28] Speaker 3: it.
+[0:09:29] Jamie Indigo: Oh my god, he really needs to hire at least union actors. That's just not
+[0:09:34] Ian Lurie: right. Exactly. Have you heard from Jamar?
+[0:09:41] Jamie Indigo: No,
+[0:09:42] Ian Lurie: he's showing idle on on Discord.
+[0:09:51] Jamie Indigo: Yeah, I could not guess Discord to load, because, of course, if you need to download six updates.
+[0:09:59] Ian Lurie: Oh, well, and then it'll just keep flipping forever, saying downloading updates. Oh, there he is.
+[0:10:06] Jamie Indigo: I gotta say, if you've been considering wanting to do SEO Athens, they are some of the most lovely people.
+[0:10:14] Ian Lurie: Oh, cool.
+[0:10:14] Jamie Indigo: Also, I learned that culturally they have to pay to be there and can't like Bill work,
+[0:10:23] Speaker 3: oh,
+[0:10:23] Jamie Indigo: like they, if they go get trainings on their own time, which gives me such a level of respect for them,
+[0:10:30] Ian Lurie: plus they're probably engaged and interested.
+[0:10:33] Jamie Indigo: Yeah, no, no, they, they are truly paying attention, which sounds like could be good for your soul after the semester,
+[0:10:41] Ian Lurie: could be good for my soul. Yes,
+[0:10:44] Jamie Indigo: Jamar.
+[0:10:45] Sango / Cregyn: Hey,
+[0:10:48] Ian Lurie: ignore the message I sent you on Discord. I was like, hey,
+[0:10:51] Speaker 5: I figured it was a knock-knock. Anyone home?
+[0:11:01] Ian Lurie: So, um I just, I said to Jamie and James, and I'll say to you, I'm a little distracted, because I have my second to last class tomorrow, and I have to talk to the entire class about how I caught three of them cheating, and what the impact is going to be. So, I'm, I'm, I am not in a good place, and I thought I could sort of laugh it off and be like, ha ha, students, what a bunch of dickheads, but I am struggling with that a little. So, quick recap of last time, you guys got to play in a prequel. Whoops, what was that? Oh, you guys got to play in a prequel of the fall, and you got to go through the events of the fall and see what it was like in the city of Silgerin, and by doing that discovered that when the fall occurred, there was actually a city here called Silgerin that was the center of worship of the god Amoth, and when Amoth fell, the city itself literally fell off the face of Praxia. Now, where it went, nobody's really certain. It may have just fallen into a million pieces somewhere deep beneath the crust of Praxia, or something else, but
+[0:12:22] Speaker 3: pretty sure
+[0:12:23] Sango / Cregyn: it's in Florida now.
+[0:12:24] Ian Lurie: It's in Florida, that could make sense. Well, as you will discover, it is basically in Florida. Go ahead, Jamar.
+[0:12:34] Speaker 5: I was gonna say, so excuse the mistake of English, but is it because Ammoth fell and hit the spot, or was this such a source of his magic that it just imploded, because he,
+[0:12:48] Ian Lurie: it, so he, his body struck Praxia fairly close by, you know, like 500 or 600 miles away, and this was a really geologically active area, however the city fell in a nice, neat disc off the surface of Praxia. So, you figure there has to have been something mystical that happened here, something relating to the death of Ammoth, and that's why now there's this city sort of clinging to this smaller town, clinging to the edges of this this crater, the other thing you figured out is that within minutes of that happening, the Helgaro reversed its direction of flow and became the Gurges, right, that huge waterfall that goes down to the River Styx and Olberus Tower, the tower where you went and got the soul coins from the necromancer, she actually, that tower was what remained of the Temple of Amath on the surface of Praxia, so that's the, that's the building that's there.
+[0:13:59] Speaker 5: Yeah, I figured when you talked about the winding stairs, that was when I was like, okay, this is, yeah, we're playing a different time,
+[0:14:05] Ian Lurie: yeah, yeah, that's right. And it happened only seven years ago, which again sort of points out that there's some weird, something weird happening with the flow of time here, because this town looks like it's been here for 70 years, not seven, but you know, who knows what that means exactly.
+[0:14:28] Speaker 5: I was gonna ask the table, because this part, right now, it's just fascinated the shit out of me. Is it? I know you said that when Ammoth fell, he had already died, and it took a while for his body to complete the fall, and I know that the guy lost his powers when Ammod finally felt, but because the town is still there, is there some aspect or traces of his power that still helped this cling on, as his, you know, spirit is clinging on, or is it just that they've got lucky and it's still holding
+[0:15:00] Speaker 3: on,
+[0:15:00] Ian Lurie: so he was not complete. He was not dead until he fell. What was happening was gods don't die the way mortals do. They die over a very long period of time. So basically, for a period of months, Asmodeus was killing Amos, and the reason the Hierophant went mad is because he was hearing it happen over a period of months, when he was fully dead, is when he fell. Jamie's, I think, Jamie may have internet issues tonight. When Amoth was fully dead, his body fell to the surface of praxia. As far as you know, there is not a cleric of a moth on praxia that has any power left, so as far as you know, no, that Ammoth exerts no further magical or divine energy over over Praxia.
+[0:15:52] Speaker 5: Okay, awesome.
+[0:15:53] Sango / Cregyn: And this is a sort of a non-essential question, but for curiosity's sake, did Guthrie Google and your other people like, were they involved in that?
+[0:16:06] Ian Lurie: No.
+[0:16:07] Sango / Cregyn: Okay.
+[0:16:08] Ian Lurie: No, they came together. So team spear, their group came together about six months after the fall.
+[0:16:16] Sango / Cregyn: Oh, gotcha.
+[0:16:17] Ian Lurie: And what they were involved in is there was a, there were these shards that were thrown up from the crater where Ammoth fell. They were involved in multiple quests to get those shards back and repair a stone that had in it imprisoned a demon goddess, who, if she had escaped, would have sort of finished the work that Asmodeus started, so they had to restore that that crystal, and when they did, it sort of kept things status quo, and
+[0:16:51] Speaker 3: actually
+[0:16:52] Sango / Cregyn: that would have all been in that book we found, right?
+[0:16:55] Ian Lurie: Yes, yes, that's all in the book.
+[0:16:57] Sango / Cregyn: Okay, some reason in my head I thought that happened before the fall.
+[0:17:00] Ian Lurie: No, and in fact, the goddess in the crystal was once Asmodeus, his consort, so when they restored the crystal, he actually showed up and took the crystal down into the nine hells.
+[0:17:15] Jamie Indigo: Oh, it's so romantic.
+[0:17:17] Ian Lurie: Yeah, yeah, no, that was just said he was the one who put her in the crystal, and he just doesn't want her getting out.
+[0:17:23] Sango / Cregyn: It's a romantic, like you can't. She's
+[0:17:26] Jamie Indigo: all Colleen Hoover romantic.
+[0:17:27] Speaker 3: Yeah, yeah. I
+[0:17:29] Ian Lurie: mean, Asmodeus is not, you know, he's not known for his sentimentality.
+[0:17:40] Jamie Indigo: Kyle was sat behind someone who watched a Colleen Hoover movie on the flight, and afterwards had to be like, did I just see that?
+[0:17:50] Ian Lurie: I don't know if I ever seen.
+[0:17:52] Jamie Indigo: Oh, okay. Colleen Hoover is interesting. She did it ends with us, with all the lawsuits, the thing where Taylor Swift got subpoenaed, she has a story written from the perspective of the abuser who just can't help it because they love their partner so much.
+[0:18:12] Ian Lurie: That sounds fucked up. I'm not sure I'd watch this plane because I'd be worried people would be looking over my shoulder, but the
+[0:18:19] Jamie Indigo: person who watched this had no seats in front of them, they paid for the extra leg room respect, but then dropped their seat backwards onto me while I was working so hard it almost popped my laptop screen.
+[0:18:34] Ian Lurie: Oh, you know, I've seen that almost happen. That sucks.
+[0:18:39] Jamie Indigo: These two things should really tell you everything you need to know
+[0:18:43] Ian Lurie: about that person. Yeah, not a lot of cell
+[0:18:45] Speaker 3: phones,
+[0:18:45] Jamie Indigo: Colleen Hoover fans, and therefore Colleen Hoover. There's a fantastic YouTuber named Amanda the Jedi who will save you a watch and is quite enjoyable,
+[0:19:02] Ian Lurie: I Oh, she gives you the walkthrough.
+[0:19:06] Jamie Indigo: Yes, she gives you a fantastic rent rant, and
+[0:19:10] Ian Lurie: cool. So we're gonna fast forward back to the current time, which is around 27 or 28 leaf fall, so it's the very end of the month, as we're getting into winter. You guys have just finished dealing with Oberis, and by dealing with, I mean blasting her from the surface of Praxia forevermore. I'm assuming you go back into Silgerin and bring the bring the soul coins with you, okay?
+[0:19:48] Jamie Indigo: Yeah, we have a lead box or two, definitely pop them in there.
+[0:19:52] Ian Lurie: So you go back to the fallen soul, that's the, that's the tavern, and Voleth is still there nursing a drink, although you've never actually seen him lift the mug to his face, so you don't know, and you've never actually seen his face, so you're not sure exactly what's going on in there, but he turns his hood and his two red eyes to you as you enter the bar, and you hear his voice in your head say, "Have you completed your half of the deal?
+[0:20:33] Jamie Indigo: Responding back telepathically, Mossy is just going to ramble off the amazing slo-mo Richter kill shot in excitement.
+[0:20:45] Ian Lurie: The hood kind of turns towards you, and Til says you slew her.
+[0:20:53] Speaker 5: Yes, we were lucky to catch her off guard, and if we had not done that, things might have taken a turn.
+[0:21:03] Ian Lurie: Interesting, however, you have followed the terms of the agreement. When would you like to depart?
+[0:21:19] Speaker 5: What do you guys think after arrest? And then go, or do you guys want to go immediately?
+[0:21:24] Sango / Cregyn: Probably a rest and go.
+[0:21:27] Jamie Indigo: Yeah,
+[0:21:30] Speaker 5: all right. So, yeah, we'll say rest, and then we'll leave as soon as we're fully geared up.
+[0:21:37] Ian Lurie: That's advisable. The the journey will take place in three stages, and the first part of the journey is taxing for everyone involved. Arrest would be advisable.
+[0:21:52] Jamie Indigo: So, wouldn't you say taxing?
+[0:21:57] Ian Lurie: Well, we, we have to travel down the falls,
+[0:22:01] Speaker 6: and
+[0:22:02] Sango / Cregyn: like a yellow cab, or what kind of taxing we're talking about here, boss man.
+[0:22:08] Ian Lurie: He just continues talking, actually, as if Cregyn said nothing at all, and just says the water itself is toxic, and something like it begins to take on the attributes and powers of the River Styx itself, as well some of the denizens of Avernus are present in the falls themselves, and I have to take certain steps to avoid them that might make your part of the journey more difficult.
+[0:22:57] Jamie Indigo: Oh, so in the falls themselves isn't like there's a hell of med spa. Oh,
+[0:23:07] Ian Lurie: I'm not familiar with the term, but it is not pleasant for mortals such as yourselves, I and like most things in the nine hells they would drag you down if they could.
+[0:23:33] Jamie Indigo: Okay, previously when we've had to have a little jaunty store around the hills, we've gotten things to help give us a little buff, you know, the ability to stand the temperature of the sun, yada yada. Is there like a nearby gift shop with something similar we would benefit from grabbing here?
+[0:23:55] Ian Lurie: Well, you've never been to the hells before. I should point out, you went to the Elemental Plane of fire.
+[0:24:03] Jamie Indigo: Yeah, sorry, I meant to say,
+[0:24:04] Ian Lurie: no, no, that's all right. And the other thing I'll remind you is, you did get a boon from Balthus, the red. You are
+[0:24:17] Jamie Indigo: all that's right
+[0:24:20] Ian Lurie: now highly resistant to fire damage.
+[0:24:23] Sango / Cregyn: That's right.
+[0:24:27] Jamie Indigo: Which, how does that stack with the armor?
+[0:24:32] Ian Lurie: Let me look it up. Sorry.
+[0:24:38] Jamie Indigo: Hey, thanks for humoring me.
+[0:24:40] Ian Lurie: No, no,
+[0:24:45] Jamie Indigo: no, no. I'm not humoring you at all. This won't cost you your life.
+[0:24:48] Ian Lurie: This will cost you your lives. I have to go back through my notes, which is why I'm. I sound distracted,
+[0:24:58] Jamie Indigo: nerd.
+[0:25:02] Ian Lurie: I should look in. Sorry,
+[0:25:04] Sango / Cregyn: if the armor have resistance or immunity,
+[0:25:07] Ian Lurie: resistance,
+[0:25:08] Jamie Indigo: resistance. I don't think Ian's gonna give anybody immunity to anything right now. Just saying, although I learned Richter does have immunity to certain diseases after level five of Paladin, so you could technically become like a walking STD bomb, if we really need to have him take one for the team.
+[0:25:27] Speaker 5: Still, my goddamn joke.
+[0:25:33] Ian Lurie: All right, so Rush Ghoul, yeah, no, he has given you immunity to fire damage, but he did say it is a trade, and he would not tell you. His exact quote was, "You think you're safe because of the mumblings of an old man. Avernus has changed. The fires will burn you alive before you can speak. My brand is the only thing that will keep your flesh on your bones. And then one of the stars in your chest, the red one, burned brighter, burned you all, and now it actually looks different. You're all immune to fire damage, and you know that there was some trade made, and you don't know what that was.
+[0:26:16] Jamie Indigo: Yes. Okay.
+[0:26:19] Speaker 6: Immune not resistant,
+[0:26:23] Ian Lurie: but as you can imagine, since it's me, you don't get something for nothing.
+[0:26:31] Speaker 5: There's going to be a lot of necrotic damage in our future.
+[0:26:34] Ian Lurie: Everything's cold damage. No, I got more creative than that. I gotta admit,
+[0:26:45] Jamie Indigo: love that for you.
+[0:26:46] Ian Lurie: There is not a, there is not a, like a shop or anything like that in this town. It is literally clinging to the edge of this cliff. There are a few places of worship for each of the different deities followed by the people in these towns, so that means Elvish deities, as well as some devils. There is a temple of Asmodeus here. There's some food places, and then there's some places dedicated to trading, but trading like goods, you know, the things that people need when they're coming up out of or going down into Avernus. A lot of the business of Silgerin now is catering to the fools who think they can go into Avernus, get treasure and riches, and then come back.
+[0:27:37] Sango / Cregyn: Folks,
+[0:27:39] Ian Lurie: yeah,
+[0:27:41] Jamie Indigo: like 40 ers was this, the gold rush of,
+[0:27:47] Ian Lurie: if by gold rush, you mean no one ever comes back to show anyone any gold at all. Yes,
+[0:27:54] Jamie Indigo: I mean, I didn't, I don't know enough history about that, that could have been how the gold rush works. I don't know.
+[0:28:05] Ian Lurie: Yeah, no, more people made it back enough that there was a gold rush in this case. You're not sure why people do it. I mean, the old paladin that you met had gone right, and he went down there for a reason, and came back, but barely, but the actual treasure seekers, the adventure seekers who've gone down there, none of them have come back,
+[0:28:34] Jamie Indigo: meaning they all stay for to retire.
+[0:28:37] Ian Lurie: Yes, absolutely.
+[0:28:39] Jamie Indigo: Yeah. It
+[0:28:43] Ian Lurie: sounds like us, you could retire to Avernus. Absolutely, it's a great place for that.
+[0:28:51] Jamie Indigo: Let's just do our next undercover mission by telling them that we're just looking for a nice place to retire to put people up in for retirement, and we'll shuffle around Sango,
+[0:29:04] Ian Lurie: so the next morning comes, and like all mornings here, it's not truly morning, it's it's just sort of that misty, featureless gray that that drowns out shadows, it's almost like being in the shadow fell, but damper, and you go,
+[0:29:25] Sango / Cregyn: just to clarify, we did get a long rest, right?
+[0:29:26] Ian Lurie: Yes, everybody got a long rest. You all had to meet Volath at the docks, and you see there what looks like sort of a rickety, a large rickety row, rowboat, like big enough for maybe 10 or 15 people. It's kind of wide, very flat-bottomed. The wood on it looks warped and old. There's no oars in it or anything else, and he's standing next to it. He says, 'If you are ready, we will begin.
+[0:30:14] Sango / Cregyn: I don't know, Jack. What do you think? Should we go? Should we wait? What should we go?
+[0:30:18] Ian Lurie: Jack says, 'I volunteer, and he just leaps over the edge.
+[0:30:27] Jamie Indigo: What a good guy, and so super alive for the rest of his life.
+[0:30:34] Ian Lurie: He says a few things: do not leave the boat. If you do, the only place you can land is in the River Styx, and only after falling some well distances work differently in Avernus, but further than you would be able to survive, unless you're a monk who can fall any distance without taking damage, blah blah blah blah blah,
+[0:31:00] Sango / Cregyn: or a flying turtle. Victor,
+[0:31:01] Jamie Indigo: did you go to the bathroom before we left? Because you can't poop here.
+[0:31:06] Speaker 7: Good, that's good. Yes, I went to the bathroom.
+[0:31:15] Ian Lurie: So he ushers you all onto the boat, then he steps into the bow, and this weird transformation happens. He, where he looked like just sort of a person in a cloak with his head, you know, his face completely hidden. He grows a little bit taller, his cloak takes on this kind of misty property, where it's almost there's shadows coming off of it, and his legs actually merge into the boat itself, so that he is now he is now the bow of the boat, and you see his torso coming directly up out of the bow of the boat, and his hands have become much, much larger and webbed.
+[0:32:01] Jamie Indigo: Is he a mermaid now?
+[0:32:02] Ian Lurie: He, he's not a mermaid. No, see, I should, I should know why. Do I even try sniffing? What'd you say?
+[0:32:12] Sango / Cregyn: Is he gollum from Rankin to Mass?
+[0:32:14] Ian Lurie: No, not, not quite. But he's his hands now are probably his fingers are probably a foot long and webbed, and he, you hear his voice in your hands again. He says, I recommend holding on to the ropes and tying yourself into the boat, and you see that now that ropes have appeared all along the gunnels on either side, and there's also spare lines coming off of those ropes that you can use to tie yourselves to the boat, like you know, safety lines, basically. So, you, I'm assuming you do all that. I don't, Dr. Oh,
+[0:32:51] Jamie Indigo: yeah,
+[0:32:51] Ian Lurie: he doesn't, he doesn't think it's important.
+[0:32:54] Speaker 5: Director asked Cregan for help.
+[0:32:58] Sango / Cregyn: Cregan takes off his, his, his rope belt, cuts it up into, let's see, what is there's five of us, so probably like 10 foot chunks have
+[0:33:12] Jamie Indigo: rope in my bag,
+[0:33:13] Sango / Cregyn: because it is a rope belt of mending and mending, what's it called?
+[0:33:27] Speaker 5: Yeah, he's used it before to tie some of the people to the ship when it was,
+[0:33:31] Ian Lurie: yeah,
+[0:33:32] Speaker 5: being jostled
+[0:33:36] Sango / Cregyn: belt of mending, and the fuck, can't I find it, I climbing and mending gives you advantage on checks to hold on and stuff like that.
+[0:33:51] Speaker 3: Ah, sweet. Thank you.
+[0:33:54] Ian Lurie: That's clutch.
+[0:33:57] Jamie Indigo: Made Ian a little sad. It's okay. Maybe just charts now,
+[0:34:02] Ian Lurie: maybe just
+[0:34:03] Sango / Cregyn: I had this. This was the one magic item that I, you said I got to pick one, and this was the one when I first created this character that the whole time I use it like once a year, so
+[0:34:22] Ian Lurie: so Volath pushes the boat away from the dock, and it's weird because you're on a horizontal surface of water, but as the boat approaches the edge of the falls, first of all, there's no sense of of violence, like the water is rushing past you, but the boat is completely stable, and it approaches the edge of the falls, and abruptly you're sideways, like almost instantaneously sideways, and you see everything sideways, and you're looking at the falls as if they are beneath you, but you don't feel that gravity has changed, you are still firmly stuck to the bottom of the boat, and he turns the boat downwards, and when he does, you're now looking directly down the gorges, and you see maybe way in the distance through the spray, a vague glow of red, and everyone give me a perception check.
+[0:35:35] Speaker 5: Nat 2423
+[0:35:38] Ian Lurie: Okay, so
+[0:35:44] Jamie Indigo: I got a 19,
+[0:35:47] Sango / Cregyn: that's a 24 for Cregyn
+[0:35:49] Ian Lurie: Christ,
+[0:35:51] Sango / Cregyn: and a nope, sorry, that's a 20 total for Sango, and a 22 for Cregyn,
+[0:35:57] Ian Lurie: okay, I Okay, you all think you see something vaguely out of the edges of your, your vision, and you turn and look directly into the falls, and you see as you're descending hand hands reaching for you, and you see faces, and the faces are screaming at you in supplication, and you realize that there are people embedded in the walls of this fall, and they are reaching out and trying to grab you, and some of them look sad or terrified, some of them look enraged. They are all different species and races and types of people and creatures, all them grabbing at the boat, and everyone needs to give me a charisma save, DC 15, I I'm assuming we're all belted close to Richter. Yes, yes, you all get whatever benefits.
+[0:37:11] Sango / Cregyn: What kind of save is this again?
+[0:37:13] Ian Lurie: Charisma, DC 1529
+[0:37:18] Sango / Cregyn: What's our bonus from Richter
+[0:37:21] Speaker 5: plus five.
+[0:37:26] Sango / Cregyn: What kind of save is this? I know I just asked that 23 for Cregyn.
+[0:37:38] Ian Lurie: Okay,
+[0:37:41] Sango / Cregyn: 27 27 for single,
+[0:37:44] Ian Lurie: okay? And Massey, you said 2828 okay? Cool. So, nothing. Oh, actually, let me roll from track natural one, natural. No, no, I'm pretty sure he's okay. I rolled a nine, but so that gets him to 14, I'm sure he's got a bonus on his charisma save, which is really too bad, but you guys, it gives you chills to see this, it is, this is you're immediately realizing that anything you've seen on the surface of praxia, or you know, on the plane of fire, you're heading someplace utterly alien, someplace where things happen on a scale, and in a way that you just haven't experienced before, and this kind of hammers it home, and as you're descending, there's a chance that water is going to splash on you, so to calculate that, I need everyone to give me a charisma check, which is basically just your luck to see, so it's not a save to see whether water gets splashed on you or not.
+[0:38:54] Sango / Cregyn: Wouldn't a dexterity check be better for the
+[0:38:57] Ian Lurie: nope?
+[0:38:58] Sango / Cregyn: Nope, I tried.
+[0:39:02] Ian Lurie: This is a luck roll, not a, not a roll to
+[0:39:04] Sango / Cregyn: dodge
+[0:39:06] Speaker 5: 17.
+[0:39:07] Ian Lurie: Okay, that is so much worse.
+[0:39:11] Sango / Cregyn: Oh my god, do we get any full team or anything?
+[0:39:18] Ian Lurie: Nope.
+[0:39:20] Sango / Cregyn: Okay. Okay, that is a seven for Cregyn and a two for Sego.
+[0:39:30] Ian Lurie: Jesus.
+[0:39:31] Jamie Indigo: Oh, okay. So Creg and kind of stands a chance here. I'm gonna use Flash of Genius to add a plus five to that and see if maybe get new to a 12. The
+[0:39:40] Ian Lurie: DC is only 10, so
+[0:39:44] Speaker 2: okay.
+[0:39:44] Jamie Indigo: Well, I saved one of you, James
+[0:39:47] Ian Lurie: Drak also failed. So saying, you give me a d1 100 roll.
+[0:39:57] Speaker 6: Oh shit, that's a 500 that's a 50 on the dot.
+[0:40:03] Ian Lurie: Okay. Well, Drac curls into a ball in the bottom of the boat and starts screaming incoherently, while also laughing and weeping all at the same time.
+[0:40:16] Jamie Indigo: Sounds like one of his orgies.
+[0:40:18] Ian Lurie: Yeah, Drac is turned into a complete. he's. yeah, he, you're not sure what's going on.
+[0:40:24] Sango / Cregyn: Creg, and says, should we be worried about this, or is this
+[0:40:27] Ian Lurie: well, he says that, but and Sango, you go to answer, but you've begun babbling, and you're incapable of normal speech or spell casting, so
+[0:40:38] Sango / Cregyn: for the
+[0:40:39] Ian Lurie: moment, you're, and actually, let me see, how long this is gonna last. Not that long, couple days, that's all. Um, no, not a couple days. All right, let me mark that down. So you continue down the falls, and so far, actually, the dice have been kind to you. I gotta say, because there's all manner of horrible things that could come for you out of the water, and so far they just haven't. You spend about 20 minutes traveling down the falls, and there's a few times when you can feel like all those hands that are reaching for you clutch the boat and try to slow the boat down, but you see Voleth just reach out immediately and swat them away, and you also see some incredibly large shapes fly by in the midst of the falls, but Voleth does something in every case to ensure that you are not seen by those shapes, and you're starting to realize why he's called Voleth of the Fog, because he is sailing so stealthily through all of this that whatever creatures there are here are not detecting
+[0:41:58] Speaker 3: him,
+[0:41:59] Ian Lurie: and at one point
+[0:42:00] Jamie Indigo: we went with him.
+[0:42:01] Ian Lurie: Yeah, he was a good choice. At one point, you hear, actually, everyone give me a perception check, and let's see, it's more than two minutes, so Sango, you will be able to speak. Drac, unfortunately, is still incoherent.
+[0:42:23] Sango / Cregyn: What's
+[0:42:26] Ian Lurie: perception?
+[0:42:27] Sango / Cregyn: Perception
+[0:42:29] Jamie Indigo: juice boxed.
+[0:42:30] Sango / Cregyn: Greg can get a natural 20 for 29
+[0:42:34] Ian Lurie: Okay, Sango has a 16. Okay.
+[0:42:43] Speaker 5: Richter got a 10,
+[0:42:44] Ian Lurie: all right. So all of you, for a minute, you kind of, you think you hear something like it's something that doesn't fit here. It's not just the sound of water or something else, but Sango and Cregan, you both turn towards where you think the sound was coming from, and you hear the sound of weapons clashing against something, and you hear bestial howls and the sounds of battle, and as you're sailing along the surface of the falls, you look, and you see another boat, and this boat is suspended under four large gas bags that are holding it in the air as it tries to spiral its way down, and it's being attacked by three creatures that are these enormous kind of bulbous spiked some kind of infernal creature with large wings that are flying around and attacking the vehicle, and as you watch, one of them reaches and grabs one of the people on the vehicle and just throws them off the falls. You hear them scream as they drop down, and you see it for a minute, and then it goes back into the mist, but you can still hear what's going on.
+[0:44:13] Sango / Cregyn: Did we recognize anybody on the boat?
+[0:44:17] Ian Lurie: Give me, give me an investigation check.
+[0:44:24] Jamie Indigo: Sango is piano teacher,
+[0:44:25] Ian Lurie: or a history, or a history check, I should say.
+[0:44:29] Sango / Cregyn: Okay, Cregyn got a 16 on history. You said history or what?
+[0:44:36] Ian Lurie: History or investigation,
+[0:44:38] Sango / Cregyn: Sango got a 12 on investigation.
+[0:44:42] Ian Lurie: You don't recognize anybody
+[0:44:44] Sango / Cregyn: with the 16 in history.
+[0:44:46] Ian Lurie: Nope.
+[0:44:47] Sango / Cregyn: Okay, okay. So, what I was getting at wasn't like the other boat drivers that we tried to hire that we were thinking about higher end.
+[0:44:56] Speaker 3: There's,
+[0:44:56] Ian Lurie: yeah, there's a fairly ample supply of morons trying to go over the falls for various reasons. Someone basically using a blimp to go down the falls is ranks particularly high in the pantheon of morons. So, you're not sure what happened there. Voleth says best not to interfere, and just continues on his way.
+[0:45:22] Speaker 3: Oh.
+[0:45:24] Jamie Indigo: I'm sure it's on that point. I'm on that,
+[0:45:30] Ian Lurie: Thomas. The tank engine is already dark. I mean, it's already some pretty dark. Those things are terrifying. Anyway, you guys continue, and the mist starts to clear, and as you look around, you realize you are no longer on like a traditional waterfall, where there's stone behind the waterfall. Now you're on cataracts of water that are falling through open space, so there's nothing around you. You are somehow clinging to this to this stream of water that's just basically falling from what now appears to be the sky, and you look up and you see this reddish black sky that's periodically ripped asunder by these bolts of bright yellow lightning, and you see occasional meteor streaking, or something fiery streaking overhead, and you look down, and emerging out of the mist is this vast landscape that extends, just like if you were flying very high over practica, just extends into the distance, and you get your first look at Avernus, and it is bleak. Sorry, just got a Discord message. So, JP says he might not be able to make it. He's dealing with some family stuff, so cool. I think his exact quote was, "A twin blew up. I don't, I don't have twins, but I'm familiar with the blowing up thing. You are now hanging over this landscape, and still, still moving down, even though you don't feel like it, and Avernus is bleak. You see this occasionally lit by those forks of lightning, just this landscape of rock and fire and huge lakes of some kind of reddish black substance, which from this height it's impossible to tell what it is. It's this is you're at a height now as if you were, you're starting to, you're on approach into an airport, right? So you're, you know, several 1000 feet up, and he continues flying slowly down, and you see a flock of some kind of either demons or devils fly by and actually look right at you, and then for whatever reason decide not to, not to investigate further. You also see clouds of flying creatures that are clearly battling with each other, and again, it's
+[0:48:38] Jamie Indigo: they're the same way Sango was
+[0:48:42] Ian Lurie: I In the same way Sango was, I don't,
+[0:48:47] Jamie Indigo: Sango just was struck with a speech impediment.
+[0:48:50] Ian Lurie: Oh no, battling bat battling,
+[0:48:53] Jamie Indigo: bat battling.
+[0:48:53] Ian Lurie: Yeah,
+[0:48:54] Jamie Indigo: okay.
+[0:48:54] Ian Lurie: And you know that they must be fighting, because you see every now and then you see one or two of them fall out of sort of a couple of these dots fall out of these clouds of creatures that are wheeling and screaming around each other and you move even further down and you realize that there's a part of the land that looks like it must be raised up and must be higher than the land around it and under it, you see this huge turgid river that, if you didn't know, you wouldn't even know it was flowing, but this, you know, must be the River Styx, and it is tremendously wide where you're looking at it from here. It's got to be a half mile wide, and just again flows into the distance, but it's interesting as you try to track it with your vision, you can't make out the shape, like every time you think you've figured out, okay, it goes like this, and then it bends to the right, and then it bends to the left, you stop and say, no, wait a minute, it bends to the left, and then it bends to the right, you're not sure exactly what's happening with the river, and what appears to be a plateau in the river, you begin to realize, is not it's actually a huge chunk of land, and this appears to be where you're heading, suspended above the surface of Avernus, and it's roughly round with cracked edges, cracked and crumbling stone all around the edges of
+[0:50:27] Speaker 3: it,
+[0:50:28] Ian Lurie: and you see extending down or from it what you think must be large chains of some kind, and as you move even closer, you see the blasted ruin of a city, and it's lit by these infernal fires below on the surface of Avernus, and by the lightning in the sky above you. It's heavily shrouded in vapor from the river Styx and from the Gurges, which fall all around it. So you're still hanging on these gossamer strands of the Gurges as you glide to a landing in this city, and it's shrouded in this dim orange red light that barely illuminates all the crumbled buildings and the rubble-strewn streets, and all around you you hear, as you come in for a landing, the sounds of combat, and as you watch, you see more of these swarms of giant insectoid fiends doing battle overhead. You see across the city, as you come lower, that there are these well-organized units of some kind of fiend fighting other, basically what looked like just hordes of some other kind of fiend, so there, this city is a battlefield, and as you look, you also see there are these seven massive iron chains extending down from the city to the surface of Avernus, and up in the city, at the end of each chain, there's an enormous winch that's being turned by this, these swarms of devils or demons that look like they look like liquid flesh, like you can't quite figure out what their form or shape is, or maybe they can't figure it out either, and as you watch one link in the chain, kind of very slowly clanks into place, and the city seems to settle a little bit closer to the River Styx, and with that, Volath brings you in for a landing, and you come to rest on the edge of the city, you He says,
+[0:52:45] Jamie Indigo: am I understanding that right? That the city is its own drawbridge, in a way.
+[0:52:52] Ian Lurie: The city is being drawn down onto the River Styx. You're not sure why, or if it's a drawbridge or something else, you're just.. you're not certain. I
+[0:53:05] Speaker 3: can
+[0:53:06] Ian Lurie: show you sort of what it looks like to ignore all the little numbers on it, because you don't know what those are. This is sort of what it looks like, so there's chain, there's chains going up and down, so there's chain, yeah, ignore the way the winches look, because the winches are actually in this, was drawn using Gemini, by the way, the winches are actually in the city itself, and then the chains extend downward,
+[0:53:39] Jamie Indigo: okay, to
+[0:53:40] Ian Lurie: the surface of Avernus. So, basically, by turning the winches, by the way, I told it lemures, lem u r e s, and Gemini gave me lemurs, which I think is the funniest fucking thing I've ever seen in my life. You talk about lost in translation, but you see this city with pretty much what you're seeing here, battles happening all throughout this large tree in the center, and then these two huge buildings at either end of this large boulevard flowing that runs right through the city, and then you see these chains extending downward, and the winches are up
+[0:54:24] Speaker 3: here, and
+[0:54:25] Ian Lurie: go ahead.
+[0:54:25] Sango / Cregyn: Does it look like the winches are pulling the platform down?
+[0:54:31] Ian Lurie: Yes.
+[0:54:32] Sango / Cregyn: Okay, so in theory, if the winches went in reverse, it would go up,
+[0:54:38] Ian Lurie: it would go back up,
+[0:54:39] Sango / Cregyn: which is opposite of gravity,
+[0:54:42] Ian Lurie: opposite gravity, and the city is floating right now in midair.
+[0:54:46] Speaker 5: Gotcha,
+[0:54:47] Ian Lurie: it is definitely not, you know, you are still several 100 feet over off of the surface of Avernus. Fact, you might be as much as
+[0:54:57] Sango / Cregyn: we just landed on one of the edges of
+[0:55:00] Ian Lurie: it. You landed on the edge of this city, and Volat says I need some time to refashion and prepare the ship, prepare my ship for the journey from here down to the River Styx, as we no longer have the falls, and you notice now, looking around, that the the falls, the gorges have completely sort of petered out, like there's no water descending around you anymore.
+[0:55:30] Sango / Cregyn: And okay, so he's got to retool his boat, so we can continue on. What, what should we do in the meantime while you're retooling your boat,
+[0:55:42] Ian Lurie: I leave that up to you. You can explore if you would like, but I would do so very carefully.
+[0:55:53] Sango / Cregyn: Yeah, because it looked like there's a bunch of battles going on in the city, and
+[0:55:57] Ian Lurie: the city is a battlefield between the forces of the abyss and the forces of the nine hells,
+[0:56:05] Speaker 3: this, this is the
+[0:56:09] Ian Lurie: city of Silgerin. Below,
+[0:56:15] Sango / Cregyn: and was there Silverin above?
+[0:56:17] Ian Lurie: Silgerin was the, it was the town that you were in just now that you descended from and it was this is the city that your other player, your other characters were in last game,
+[0:56:30] Sango / Cregyn: and it fell, it fell, that's right. Okay,
+[0:56:35] Ian Lurie: so this is where it
+[0:56:40] Sango / Cregyn: is now. Okay,
+[0:56:42] Speaker 8: they could fix a lot of this with some of those blue floating crystals.
+[0:56:49] Sango / Cregyn: How long do you need to fix your boat? One to
+[0:56:52] Ian Lurie: two hours, no more. Okay, you do see a few other boats pulling in here. It's interesting, because one of the boats looks just like Volats, and sitting in it are a bunch of kind of insubstantial figures, like almost like ghosts, and they're all sitting there, just very still, not moving at all as the boat bumps to a bumps to a halt right next to yours, and then another one has three people all dressed as merchants, looking, you know, they look incredibly wealthy, and they all look terrified, and they're just looking around frantically, and as it lands, one of them leaps out of the boat and runs into some nearby ruins, and then you hear some horrible, wet, squishy sounds and screaming, and then nothing else, and the other two people stay in the boat. All right, we're not going anywhere.
+[0:57:58] Jamie Indigo: I think we should stay on the boat,
+[0:58:02] Ian Lurie: um everybody, give me a perception check.
+[0:58:12] Sango / Cregyn: Creagan as a 26 Sango has a 15.
+[0:58:19] Ian Lurie: Okay,
+[0:58:20] Speaker 5: 17 correcter,
+[0:58:22] Ian Lurie: okay,
+[0:58:22] Jamie Indigo: 24
+[0:58:23] Ian Lurie: All right, anyone who rolled higher than a 20, you hear screaming coming from some buildings nearby this, but you're pretty sure that these are children's voices.
+[0:58:41] Sango / Cregyn: God damn it, Craig, and heard that. Okay,
+[0:58:44] Ian Lurie: yes, Craig, and did, and so did Mossy.
+[0:58:51] Jamie Indigo: Okay, good. And so the rest of the folks looking out, can I see where they're coming from?
+[0:59:00] Ian Lurie: You can sort of see that you know there's rubble everywhere, and some destroyed buildings. You can see that they're coming from the other side of a set of destroyed buildings right nearby, but there's a lot of mist and smoke, and it's hard to tell exactly where
+[0:59:22] Jamie Indigo: I Okay, well, shit, really wanted to stay on this boat, but
+[0:59:33] Sango / Cregyn: I don't like this bus, man.
+[0:59:38] Jamie Indigo: Um,
+[0:59:42] Ian Lurie: shit. Mole, Molas says there are survivors here, but it could be a trap.
+[0:59:53] Jamie Indigo: Yeah, what would we be able to check for to see if it is a trap,
+[1:00:02] Ian Lurie: I I leave that to you guys to figure out.
+[1:00:07] Jamie Indigo: Yeah, it has to be a clutch time to have a tiny fairy dragon that could go ahead and go scope things, but fucking dragons
+[1:00:16] Ian Lurie: or a ranger or a ranger who can sneak around sneaky as shit and find stuff, but Mossy is pretty sneaky too, so
+[1:00:23] Jamie Indigo: I am quite sneaky, but also this sounds like the floor is lava situation.
+[1:00:35] Ian Lurie: The floor is not actually lava, it is definitely stone, and of course, being vulnerable to fire, if it were lava, you could
+[1:00:46] Speaker 2: go for a little swim,
+[1:00:47] Ian Lurie: although your gear might not like that very much. I don't recommend it.
+[1:00:52] Jamie Indigo: Yeah, well, this does seem like a, like a heck of fun time to be sneaky.
+[1:00:59] Ian Lurie: Okay, so Mossy, you're gonna, you're gonna go scout ahead, see what you can find.
+[1:01:05] Jamie Indigo: I'm gonna, I'm gonna do a little super stealth recon mission, so that means lighting up past the trace from the rogues blessing.
+[1:01:15] Ian Lurie: Okay,
+[1:01:16] Speaker 3: what is the,
+[1:01:16] Sango / Cregyn: what is the light situation like? Dim light,
+[1:01:21] Ian Lurie: it's all dim, it's dim, misty orange light.
+[1:01:25] Sango / Cregyn: Okay. Then Sango turns invisible.
+[1:01:30] Ian Lurie: Okay,
+[1:01:37] Jamie Indigo: you've got this one.
+[1:01:39] Sango / Cregyn: Creagin's gonna cast greater invisibility
+[1:01:46] Ian Lurie: to mean he turns everybody invisible.
+[1:01:48] Sango / Cregyn: Nope, just him, just if he can, he can cast spells and stuff. It's the greater version of
+[1:01:54] Ian Lurie: it. Okay,
+[1:01:59] Sango / Cregyn: Massey, you wanna come along, or you wanna stay here and hold Richter's hand.
+[1:02:06] Jamie Indigo: I mean, you've seen this man. There's he'd be more disappointed if I didn't go risk my neck for children right now.
+[1:02:15] Sango / Cregyn: It's true, Director. You gonna watch the boat for us?
+[1:02:21] Speaker 5: Yeah, I'm gonna stay back here since I'm not really clank clank stealthy
+[1:02:27] Ian Lurie: stealthy, no, not really.
+[1:02:29] Jamie Indigo: This is why it's so important to know yourself. Yeah,
+[1:02:36] Ian Lurie: okay,
+[1:02:38] Speaker 3: okay,
+[1:02:39] Ian Lurie: you guys move off.
+[1:02:43] Jamie Indigo: Yep,
+[1:02:44] Speaker 4: yep.
+[1:02:44] Ian Lurie: What?
+[1:02:47] Sango / Cregyn: Well, some stealth rules.
+[1:02:48] Ian Lurie: Yeah, so give me some stealth rolls. Give me two.
+[1:02:51] Jamie Indigo: Everybody, maybe it's a plus plus 10 with passive trees.
+[1:03:04] Ian Lurie: James is having a hell in there,
+[1:03:06] Speaker 5: that sounded like a natty one.
+[1:03:08] Sango / Cregyn: No, that's close, but with the plus 10, it's a 12. Sango, on the other hand, is 39% go two rolls
+[1:03:32] Jamie Indigo: the low ones at 37
+[1:03:36] Ian Lurie: and remember this is group stealth, so it's I'm taking the average.
+[1:03:41] Jamie Indigo: Okay, then I
+[1:03:42] Ian Lurie: will roll
+[1:03:42] Speaker 9: you, or no, I won't. The other one is 41
+[1:03:48] Sango / Cregyn: another 39 for Sango, and 17 for Cregy.
+[1:03:56] Ian Lurie: Okay, you wind through all these destroyed buildings, and it looks as if a huge earthquake struck, like that's what you see here, is collapsed rubble, collapsed buildings, some walls standing, most not. Yeah, who has the badge of zero right now?
+[1:04:17] Jamie Indigo: Holding,
+[1:04:19] Ian Lurie: okay? You're the DM will give you a freebie and say you need to take that out now, even though you're stealth, you know you need to have that badge present in case you're detected,
+[1:04:30] Jamie Indigo: but it's quite a big badge, like it's
+[1:04:34] Ian Lurie: it's pretty big,
+[1:04:35] Jamie Indigo: yeah, like yeah, okay, so we're stealthing with a banner,
+[1:04:40] Ian Lurie: pretty much cool, just making sure I understood the assignment. Yes, yeah, and you're, you are so stealthy that at least at this moment it effectively is part of your gear, is the way to think of it, because, because magic,
+[1:05:00] Jamie Indigo: because magic, yep, that makes sense.
+[1:05:03] Ian Lurie: That's always my favorite explanation. As a DM, you come around a turn, a turn in the street, and there is still a layout. You know, you probably saw the whole city is a hub and spoke kind of layout, and you come into an alleyway and you see these two demons that look like enormous mosquitoes, and they are currently menacing this group of mortals, actually, and you see two adult elves, a man and a woman, two children, uh, also elves. You see, kind of some other random people there with them, and they're all, you know, they're they're all clearly panicked, except there are four, uh, sorry, there are three people protecting them. One of them is this. You've actually, well, I guess you've seen one. One of them is a seven foot tall war forged, so this huge robot with, you know, just carrying a huge, I think, a hammer, if I'm remembering right. You see a what looks like a thumb with legs carrying a huge weapon, and then you see a bard standing there as well, and there they, one of the, one of these demons, one of the, there were four demons, two of them are on the ground, dead, dissolving into these pools of Iker, as you watch, and then the other two are still trying to attack, and you can see that Hornsby and Cravel have these scratches all over them. TPT 418 is okay, and hasn't been, has been hurt yet. What do you guys want
+[1:07:00] Speaker 3: to do?
+[1:07:00] Ian Lurie: I should say role initiative, that's probably where we should start, and then you can decide what you want to do.
+[1:07:22] Sango / Cregyn: I got a 10 and a 10,
+[1:07:24] Ian Lurie: okay, Jamie.
+[1:07:28] Jamie Indigo: I got a 22
+[1:07:29] Speaker 3: okay.
+[1:07:30] Ian Lurie: So you go first, Mossy, and we're just gonna, we're just gonna do Theater of the Mind. Here you are currently standing about 20 feet away. The Casimi demons have not seen you, their backs are to you, and they are flying over, and they are, they are human-sized, and they are sort of not encircling, because there's only two of them, but they've sort of flanked this group of defenders, and you notice now that several of the defenders are unconscious on the ground, and Mossy, you can go first.
+[1:08:04] Jamie Indigo: Okay, they're not restrained in any way, they're just being attacked by these demons. Okay? How far away? 20 feet from the unconscious ones, right?
+[1:08:20] Ian Lurie: You're 20 feet from the Casim demons,
+[1:08:23] Jamie Indigo: okay? 20-casme demons. How far to unconscious people in the ground?
+[1:08:30] Ian Lurie: About 30 feet total. So, just think, you 20 feet to Cassie demons, 10 feet to unconscious people. Yeah, and that entire group,
+[1:08:48] Jamie Indigo: okay? Free action going to message Richter and let him know what is happening, so he can come join the party in a minute, do
+[1:09:04] Ian Lurie: Yeah, stealthing is off the table.
+[1:09:08] Jamie Indigo: Are we seen now?
+[1:09:10] Ian Lurie: No, you haven't done anything.
+[1:09:12] Jamie Indigo: Yeah, that's what I thought. Okay, so we're not seen yet. Is it possible to walk out further or to get another event, can we flank them in some way?
+[1:09:27] Ian Lurie: I mean, you have a move action, so you can try. Yeah, you can try to just see by flanking them, you mean you want to be on one side and you want another member of RBG on the other side.
+[1:09:38] Jamie Indigo: Yeah, I'm all about the advantage.
+[1:09:40] Ian Lurie: Yep,
+[1:09:42] Jamie Indigo: so these guys haven't seen us, so I can technically get sneak attack on one of them.
+[1:09:48] Ian Lurie: Yes, you can. Yes, you can. And Richter, it will take you about five rounds to get there.
+[1:09:59] Jamie Indigo: Okay, okay. Okay, I would like to be nice, but unfortunately the Spare the Dying is no longer a bonus action, so you're gonna keep dying, and I'm sad for you about that. But that being said, yeah, I think some dagger dagger action is probably a good idea.
+[1:10:22] Speaker 3: Okay,
+[1:10:29] Jamie Indigo: all right. First one's a dirty 20 to hit,
+[1:10:41] Ian Lurie: okay. and
+[1:10:43] Jamie Indigo: second one is higher than that 31
+[1:10:49] Ian Lurie: Smack the shit out of both of them,
+[1:10:51] Speaker 2: okay? So I
+[1:11:03] Jamie Indigo: That is, oh my God, I love this. 536 Hallelujah. Yeah,
+[1:11:23] Ian Lurie: I gotta love sneak attack damage.
+[1:11:28] Jamie Indigo: Oh, that was such a nice roll. All right, 24 points for the first
+[1:11:49] Speaker 3: one, and
+[1:11:49] Jamie Indigo: then nine for the second.
+[1:11:55] Ian Lurie: Okay, you're putting them all into one,
+[1:11:59] Jamie Indigo: yeah, consolidation here, and then for my bonus action, I will try and wedge myself into a nook or cranny, so I can appear to have hidden into the darkness again.
+[1:12:13] Ian Lurie: Okay, so give me a stealth check.
+[1:12:19] Jamie Indigo: Okay, not my finest work, so only a 30,
+[1:12:22] Ian Lurie: not your finest work. So the chasm, you stick two daggers firmly into the back of one of the chasms, and it lets out this squawking shriek pivots immediately to look for you, and can't actually see, and you see now that on its that its wings are like fly's wings, and on his face, instead of a mouth, is this really long, pointy proboscis, almost like a mosquito, and it's tipped with blood. And now, simultaneously, the Kazmigo, as do Sango and Cregyn, because you both got 10s, right?
+[1:13:00] Sango / Cregyn: Yeah, yeah, so they can, they can't see single, but
+[1:13:03] Ian Lurie: correct,
+[1:13:04] Sango / Cregyn: they could see Craig.
+[1:13:05] Ian Lurie: I thought Craig
+[1:13:07] Jamie Indigo: and your shell,
+[1:13:08] Speaker 3: I
+[1:13:09] Ian Lurie: thought Craigen has improved.
+[1:13:10] Sango / Cregyn: Oh, you're right, he does have greater skill, that's right. Yeah,
+[1:13:15] Speaker 3: so they
+[1:13:15] Sango / Cregyn: can't see nobody,
+[1:13:16] Ian Lurie: they turn and they let out this droning, shrieking sound, and everybody needs to give me a DC 12 con save.
+[1:13:27] Speaker 3: Oh boy,
+[1:13:34] Jamie Indigo: 11
+[1:13:37] Sango / Cregyn: natural 20 for 29 for Cregyn.
+[1:13:40] Ian Lurie: Okay, a a
+[1:13:42] Sango / Cregyn: 16 four single,
+[1:13:45] Ian Lurie: okay, Massey. You fall unconscious, so do this. Is about to get much more real than I thought it was going to. So does TPT.
+[1:13:55] Jamie Indigo: Wait, I saved though.
+[1:13:56] Ian Lurie: No, I said DC 12.
+[1:14:00] Jamie Indigo: Oh, then I would like to use my flash of genius and make passing.
+[1:14:04] Ian Lurie: Okay,
+[1:14:04] Jamie Indigo: I misheard the assignment.
+[1:14:11] Ian Lurie: It's good. I was about to say, oh God, this did not expect this to go this way, but TPT 418 his eyes, you've never seen this before, but his eyes show 500 and he just keels over unconscious, and Cravel, also the Tiefling, also falls over unconscious. So now you've got the sorry,
+[1:14:36] Sango / Cregyn: so that figures,
+[1:14:37] Ian Lurie: yeah, so the only, the only one left of the defending party that you saw was the Gnome Barbarian, and basically the Kasmi, they're they use their wings really, they beat their wings that much faster, and they let out this sort of droning, whining, shrieking sound, and it hurts all your ears, but you see the two, the two other defenders go down, and you see a lot of the members, a lot of the other people that they were trying to protect, also fall over and clutch their ears. It is now your turn, Sango and Cregyn.
+[1:15:15] Sango / Cregyn: Okay, let's see, how bad does the one look hurt that mossy daggered.
+[1:15:22] Ian Lurie: It looks, it's not bloody, but it looks like it's been hurt.
+[1:15:29] Sango / Cregyn: Okay, I'm going to shadow Sango is going to shadow step to the other
+[1:15:34] Ian Lurie: one. Okay,
+[1:15:34] Sango / Cregyn: pop, pop.
+[1:15:36] Ian Lurie: All right,
+[1:15:39] Sango / Cregyn: that is a 31 31 and a total of 20,
+[1:15:45] Ian Lurie: yeah, that that hits
+[1:15:48] Sango / Cregyn: all right. So first one is seven damage plus a stunning strike and so it's gonna make a DC fifth 19. Sorry, DC 19, I think that's a con save.
+[1:16:12] Ian Lurie: Okay, nope, fails.
+[1:16:17] Sango / Cregyn: Okay, so he is unconscious,
+[1:16:21] Ian Lurie: so his that one's wings just stop beating, and it just tumbles to the ground. Done.
+[1:16:28] Sango / Cregyn: Then he attacks the other
+[1:16:30] Ian Lurie: one. Okay,
+[1:16:31] Sango / Cregyn: 412 damage and stunning, stunning strike
+[1:16:46] Ian Lurie: discovered my weakness, which is that I actually just kind of suck. That one also crashes to the ground. Okay, so then let's see,
+[1:17:02] Speaker 3: do
+[1:17:26] Sango / Cregyn: then I think I'm just going to stand over him, and
+[1:17:29] Ian Lurie: okay, oh, the patient defense dodge, okay,
+[1:17:35] Sango / Cregyn: while I'm there, then Creg and will come up,
+[1:17:40] Ian Lurie: okay,
+[1:17:42] Sango / Cregyn: to the one that Mossy, he's going to, you know, what he's hurt. I'm going to tell the dead that one.
+[1:18:00] Ian Lurie: Okay.
+[1:18:02] Sango / Cregyn: Wisdom 17.
+[1:18:08] Ian Lurie: Oh, he saves amazingly
+[1:18:15] Speaker 4: good for you, good for you, good for you, I
+[1:18:38] Sango / Cregyn: then I'm going to do my steps to the night.
+[1:18:41] Ian Lurie: Okay,
+[1:18:42] Sango / Cregyn: and I'm still invisible, because things
+[1:18:47] Ian Lurie: all right. So they're both stunned on the ground. I'm going to assume at this point that Mossy engages in some throw cutting, and the Casime demons are dead. They are, they are only CR six demons,
+[1:19:00] Jamie Indigo: and their wings will be good for artificing later.
+[1:19:03] Ian Lurie: Yes, yes, they do. You want to try and harvest bits and pieces of them?
+[1:19:07] Jamie Indigo: That would be
+[1:19:08] Speaker 3: slow.
+[1:19:08] Ian Lurie: Okay, give me a medicine check.
+[1:19:13] Jamie Indigo: Natural 20
+[1:19:14] Ian Lurie: oh, you get, you can write in your inventory two sets of Casime wings, it's C H A S M E wings, and two Casime pro bisci, those long stingers. Richter, you come up just as she starts her dissection, and you see,
+[1:19:45] Jamie Indigo: hold this,
+[1:19:46] Ian Lurie: you see a group of people, some unconscious, some conscious, all kind of huddled in a corner of the alley, probably watching Mossy and horror as she takes,
+[1:20:02] Jamie Indigo: booped one would save spare the dying before, and butchering just out of politeness. It
+[1:20:08] Ian Lurie: appears that they are not in danger of bleeding out, that they were rendered unconscious by whatever this attack was, but it doesn't actually do damage, it just renders you unconscious. The Kasmi had this ability called drone, and that's what it does. If you fail your save, you're unconscious.
+[1:20:35] Jamie Indigo: Look at that one, it looks like with tater tots,
+[1:20:41] Speaker 5: you shouldn't. shouldn't insult people when we first meet them.
+[1:20:46] Jamie Indigo: That's not an insult. Tater tots are some of my favorite things.
+[1:20:50] Speaker 5: Yes, but you eat them, and by telling this thing that it looks like a tater tot, it might think that you want to eat it.
+[1:20:56] Ian Lurie: Are you insulting me? Hornsby says, as he sits up,
+[1:21:02] Jamie Indigo: no. No, not at all. You look like one of my favorite foods.
+[1:21:06] Ian Lurie: I have bested many of
+[1:21:07] Speaker 3: you.
+[1:21:07] Ian Lurie: I've bested many of your kind, and want to in ceremonial combat, and I'm more than happy to take
+[1:21:14] Speaker 4: partially.
+[1:21:15] Ian Lurie: I'm kind of playing up the doc, the Doctor Who version.
+[1:21:18] Jamie Indigo: You were born for the soltern angle here for
+[1:21:20] Ian Lurie: yes, yes, um,
+[1:21:24] Jamie Indigo: oh no, you don't have to fight me. I'm not trying to fight you. I think you probably didn't want to get eaten by that thing, and I don't want to eat you, so you're still coming out on top.
+[1:21:34] Ian Lurie: Yes, and I would feel bad if I had to kill you, since you did render us aid.
+[1:21:38] Jamie Indigo: Hey, me too,
+[1:21:42] Ian Lurie: um TPT 418 actually, Cravel, this tiefling bard comes over to you and says don't pay too much attention to him, it's sort of the way he is, but thank you for helping us on Cravel. This is the one you were just exchanging threats with, is Hornsby Willow, and the tall metallic fellow is TPT 418 and TPT gives a little salute.
+[1:22:20] Jamie Indigo: Okay, not to fan girl, but I want to know everything about you, glorious teapot.
+[1:22:26] Ian Lurie: I am not a teapot. And then he launches into this whole explanation that I'm not going to repeat because I can't remember it.
+[1:22:37] Jamie Indigo: Wouldn't you have a light up display?
+[1:22:41] Ian Lurie: His eyes flashed 200 they say. Cravel says we were taking these people to the armory when the Casimi demons attacked
+[1:23:02] Sango / Cregyn: us, and go Sango, inside check him. Yep,
+[1:23:07] Speaker 5: that's not fair. That's insider trading, sir. And you are not a congress person.
+[1:23:12] Ian Lurie: It's not, it's not insider trading, because these are now NPCs. I'm running them.
+[1:23:15] Sango / Cregyn: That's a 15 insight.
+[1:23:20] Ian Lurie: Okay, he seems to be straight up okay. He looks shady. He does look shady. Yeah, yeah.
+[1:23:32] Sango / Cregyn: Boys, I got blood on his fingers. What the fuck?
+[1:23:36] Ian Lurie: Hard to tell, although you do notice there's a corpse near. No, that's not true. I Um, he says we're taking them over to the armory because we were told there's going to be some kind of rescue, someone's coming down to get them out of here, but we got jumped by the Casim demons, so thank you for for helping us,
+[1:24:02] Sango / Cregyn: and from nowhere in particular, he hears you got a boss man,
+[1:24:08] Ian Lurie: he yeah, he actually jumps. What
+[1:24:16] Sango / Cregyn: single says, don't worry, that's just that's Craig, and he's, he's around, he's he's over there, so how far away is this armory place?
+[1:24:29] Ian Lurie: It's across the city. It's about a well, given how things are now, it's probably about a one hour walk, because we have to hide a lot, and they aren't very fast. He jerks a thumb over his shoulder at the elves.
+[1:24:47] Sango / Cregyn: Yeah,
+[1:24:50] Ian Lurie: could be faster with you all. I don't know.
+[1:24:57] Speaker 5: Yeah, all right. Escort mission,
+[1:24:59] Ian Lurie: he says. You all volunteering?
+[1:25:09] Speaker 5: I am Richter. Says
+[1:25:14] Jamie Indigo: sure,
+[1:25:22] Ian Lurie: says all right. We need a minute to get everybody up and moving again. Thank you for this. This, this is helpful.
+[1:25:31] Sango / Cregyn: Yep. Wow,
+[1:25:35] Jamie Indigo: you don't really seem like you belong here, and I mean that in the nicest way possible. How did you wind up here?
+[1:25:45] Ian Lurie: Oh, we were in the guard, the Soger and Guard, the Black Helms, when the city fell, and well, we're getting paid
+[1:25:59] Jamie Indigo: when it fell 30 years ago.
+[1:26:03] Sango / Cregyn: Seven years ago,
+[1:26:05] Ian Lurie: it would have been seven years ago for you guys.
+[1:26:07] Jamie Indigo: Seven years ago
+[1:26:09] Ian Lurie: says you could say seven years if you want, but it ain't seven years for us. It was, I don't know, few months ago. Oh.
+[1:26:22] Sango / Cregyn: Huh, that's a, that's a weird soup you just described there.
+[1:26:28] Jamie Indigo: Yeah, well,
+[1:26:29] Ian Lurie: we're in Avernus. Things happen, things are weird here. Don't know how else to describe it, but I got offered a big fat bonus if I can get some people out of here, so that's why I'm here,
+[1:26:43] Sango / Cregyn: that's why you're here. Very, how very altruistic of you.
+[1:26:48] Ian Lurie: I don't even pretend
+[1:26:52] Sango / Cregyn: I get, I picked up on that.
+[1:26:57] Ian Lurie: TPT says I am altruistic, so is my friend Hornsby. Hornsby says, "Shut up. He says, "Don't speak for me.
+[1:27:14] Speaker 5: Who offered you this bonus to get people out?
+[1:27:20] Ian Lurie: One of the senior commanders in the Black Helms.
+[1:27:30] Jamie Indigo: Do we know what the Black Helms are?
+[1:27:32] Ian Lurie: No, you have no idea. You're not familiar with Silgerin. You've never been here, even when
+[1:27:38] Speaker 3: I was..
+[1:27:39] Jamie Indigo: I'm assuming we're, we're walking and talking at this point, or no?
+[1:27:43] Ian Lurie: Yeah, you can be
+[1:27:45] Speaker 10: gonna offer some pocket bacon. What's a Black Helms?
+[1:27:49] Ian Lurie: Oh, the Black Helms, they were the city guard for Sogrin before any motions around before this. What's it like up above? The last thing we remember is this huge fire and this huge light in the sky, and then everything crashing down around us. Then we were standing on the edge of a crater, and someone said, 'Go down there and help rescue the people of the city, and these two, he kind of points with a thumb. These two said sure, and I said, if you pay me,
+[1:28:32] Jamie Indigo: did they pay you?
+[1:28:34] Ian Lurie: Well, they're going to, yeah,
+[1:28:36] Speaker 1: this is might be awkward,
+[1:28:42] Sango / Cregyn: uh
+[1:28:43] Jamie Indigo: It's not so bad up there. This guy's died twice. That one over there got his butt burnt and ran off for six months, but we love him again. And yeah,
+[1:28:56] Ian Lurie: you said died twice and came back.
+[1:28:59] Sango / Cregyn: You forgot to tell him about the field of bone,
+[1:29:03] Ian Lurie: the what now,
+[1:29:04] Sango / Cregyn: the field of bone. There's, there's, there's a whole field of bones up there. It goes up for like leagues.
+[1:29:09] Ian Lurie: Kay, but you said someone died and came back, and TPT comes over, says, "Did you say someone died and came back?
+[1:29:18] Sango / Cregyn: Yeah, she's, she said that of
+[1:29:19] Jamie Indigo: embarrassment for misspeaking
+[1:29:22] Sango / Cregyn: out of out of nowhere, you hear, yeah, the shell, the shelled human, he died, came back,
+[1:29:27] Ian Lurie: he gets a three, you see three oh ones appear in his eyes, and he says, Does that mean we could bring Jackson back?
+[1:29:35] Sango / Cregyn: Who's Jackson?
+[1:29:36] Speaker 5: Did you say Jackson?
+[1:29:40] Ian Lurie: Yeah, which is not a common name,
+[1:29:42] Speaker 5: Jackson Le Beau.
+[1:29:44] Ian Lurie: Yes, Jackson Le Beau, small fellow, good with a bow.
+[1:29:49] Speaker 5: You knew him?
+[1:29:53] Ian Lurie: Yes, he was our.. he was part of our unit, we our unit,
+[1:30:00] Speaker 3: and he's dead.
+[1:30:05] Ian Lurie: He died. He was killed by the Hierophant Varian right before the bright light in the sky.
+[1:30:17] Speaker 5: You see, Richter just stopped walking for a second, then put his hand to his head, and just so many, so many mistakes I've made. I've stayed places where I should have left, and I left places where I should have stayed, and fuck, and he just is silent for a while,
+[1:30:46] Ian Lurie: TPT, his eyes changed to a 404 and says, I am sorry if I gave you bad information.
+[1:30:54] Speaker 5: No, it's sometimes you grow up and a memory is thrust in your face to remind you of just how childish you were at a certain point, and it's, it's embarrassing and tragic at the same time. Excuse, excuse my helper, she gave me really good information. I'm just taking it in a really piss poor way,
+[1:31:25] Sango / Cregyn: and over Richter's shoulder, he hears Sango say, sometimes death is a good reminder to keep on living.
+[1:31:41] Ian Lurie: You guys continue walking, and you hear sounds of combat all around you as you move through the city, and there's a few times where there's a few times when you have to hide very quickly, and you're seeing these demons come by, and you sort of feel like it's a weird situation for you, because you sort of feel like, yeah, we could definitely deal with this, but you're pretty sure that the rest of this group could not, so you steer well clear of all that, and then you come around a corner, and how are you guys? How are you guys moving? Like, you can't turn everyone invisible. Are you just sneaking from doorway to doorway, or what are you doing?
+[1:32:34] Jamie Indigo: I mean, I've still got Pasadena trace up for an hour, and if you need to, I would cast
+[1:32:40] Ian Lurie: it, and so everyone around you gets that plus 10, okay, all right,
+[1:32:46] Jamie Indigo: as long as they stay within 60 feet, which sounds like we can wrangle that pretty reasonably,
+[1:32:55] Ian Lurie: so the party does pretty well, none of them make any really loud noises, they seem to be pretty good at sneaking. You figure if they've lived here for a few months, they're probably decent at hiding, or they'd be dead by now. And you come around a corner and you hear what sounds like a gavel striking stone, and you stop. What do you want to do? It's, it's right between you and where you're trying to go, so you could go back a few blocks and go around. You could, you know, do
+[1:33:37] Jamie Indigo: gavel, striking stone, like a judge's gavel.
+[1:33:41] Ian Lurie: Yeah, judges gavel or some kind of hammer or something like that,
+[1:33:48] Sango / Cregyn: but we can't see what what made that noise.
+[1:33:52] Ian Lurie: No,
+[1:34:00] Jamie Indigo: I mean,
+[1:34:01] Sango / Cregyn: I asked toilet paper 3000 Does that noise happen very often?
+[1:34:13] Ian Lurie: I have not heard it before. Do you hear the voice?
+[1:34:19] Sango / Cregyn: Don't hear a voice.
+[1:34:21] Ian Lurie: Okay, you can give me a perception check if you want. The 816 16, you strain your hearing, and you think you hear someone talking, you can't quite make
+[1:34:48] Sango / Cregyn: it out, can't quite make it out.
+[1:34:51] Jamie Indigo: What are they saying? Teapot,
+[1:34:54] Ian Lurie: they are saying, and then his voice changes to this other, you know, you're not quite sure what, but this kind of hissing, really sibilant voice saying, and for our next lot we have three coins, that's three coins from Silver and Citizens for sale, accepting bids now, and then you hear that clacking again, the sound of the gavel, um and then you don't hear anything. He doesn't say anything, and then he says very well. 500 500 Do I have 1000 1000 Do I have 2000 2000
+[1:35:38] Jamie Indigo: Oh, wait, weren't we told about an auction? I Ian, that's a question.
+[1:35:47] Ian Lurie: Well, you've been told about all kinds of soul auctions, yes, that they're not uncommon down here.
+[1:35:56] Jamie Indigo: Okay, so we probably don't want to walk through that, I
+[1:36:10] Ian Lurie: Yeah, Richter, you, you called it,
+[1:36:13] Sango / Cregyn: yeah, so, so, so, then Sango asks Craven, and those guys. So, have you guys seen one of these options? You've been down here for a couple of months. Have you been to one?
+[1:36:30] Ian Lurie: No. If we hear something, we stay well clear of it. We're, we're not you guys. I know that I mean I know about soul coins, I know what they are, and I'm sure there's a lot of them to be had down here.
+[1:36:55] Sango / Cregyn: DM, did we, what do we remember about what the uses of soul coins, or for
+[1:37:02] Ian Lurie: you, remember quite a bit. I mean, give me a, give me a history check or an Arcana check, either
+[1:37:16] Sango / Cregyn: one. What's a 23 for history?
+[1:37:18] Ian Lurie: Okay, you know that they are a medium of exchange in the nine hells. They can be used to buy favors. They can also be reconstituted into low-level demons or low-level devils. So, if you want to create their sort of storage, their soul storage. So, when someone's soul is corrupted if they don't immediately become a devil, they can be stored in a soul coin, which can then be used for trade, or it can be turned into some kind of low-level devil, like a lemur, a lemur. Sorry, a lemur.
+[1:37:56] Jamie Indigo: No, no, that was canonically now in my head.
+[1:37:59] Ian Lurie: God damn,
+[1:38:00] Jamie Indigo: even lemur
+[1:38:02] Sango / Cregyn: do those things will just follow you anywhere.
+[1:38:06] Ian Lurie: They will
+[1:38:08] Sango / Cregyn: Sango, while he's invisible, would like to get closer to see, and he threw the party line. I'm gonna get a little closer, if that's all right. Creg is gonna hang back.
+[1:38:32] Speaker 5: Don't get caught,
+[1:38:36] Ian Lurie: you can't see him, but he winks. I won't, saying, "Oh, give me a stealth roll, 24 Okay, no problem. You come around the corner, and there's a plaza filled with shattered stone, and you know, again, ruined buildings all around it. There are some puddles of what you now recognize as Demon Iker lying on the ground, and then there's a, an imp standing at a little, little, like bitter, a little auctioneer's lectern that he has created out of some random stones, and he's holding his hands a bone gavel, and standing in front of him, there's a figure in a hood that looks for all the world like a like a bipedal fox with this perpetual kind of leer on its face, another creature that's clearly a devil with huge spikes of bone coming out of it, also wearing some kind of what looks like formal clothing, a creature that could be a human woman, but has very pale skin and extremely long, almost claws instead of nails with a huge sword strapped to her back, and then another figure that's just heavily cloaked, and you don't see them at all, and as they're all standing there, the imp says, "Do I hear 2000 Do I hear 3000? And the hooded figure kind of nods, and this goes on for a few minutes, and then for 10,000 gold, he then hands four soul coins over to the silent bidder, to the one who's in a hood, who never seemed to speak. The other devils looked, look annoyed, but don't do anything,
+[1:40:42] Sango / Cregyn: and does it appear that the option is going to continue or is that the end of
+[1:40:48] Ian Lurie: it? Well, he reaches down and he pulls out three scrolls of paper and sets them on his lectern and says now for sale three contracts recently signed in the city, these were people who needed help with things, and knowingly traded willingly traded their souls for items such as food, water, and safety. Shall we start to
+[1:41:11] Jamie Indigo: duress to get a deal?
+[1:41:13] Ian Lurie: Right, shall we start the bidding at 20,000 gold, and it goes on like that,
+[1:41:28] Sango / Cregyn: Strand goes good, still link back to the group.
+[1:41:33] Ian Lurie: Okay,
+[1:41:33] Sango / Cregyn: give them an update of what's going on, and
+[1:41:38] Ian Lurie: give me a, give me a nature or an arcana check, or a religion check, one of those three.
+[1:41:54] Sango / Cregyn: Nature 25
+[1:41:56] Ian Lurie: Okay, the fox-like demon, you're pretty sure was an arcane oth, which is a pretty dangerous type of devil, distantly related to distantly related to Voleth. It's a there. There's a distant relationship, as far as creatures. They're all types of.. they're all types of Yugoloths, but an Arcaneloth is definitely more dangerous than Voleth is.
+[1:42:37] Sango / Cregyn: And what's a Both again?
+[1:42:40] Ian Lurie: Voleth is your boat driver,
+[1:42:41] Sango / Cregyn: okay? Gotcha, yep, yep, that was that's nasty. Yeah, all right, so let the group.. we should find a way around. That's.. I don't want anybody to get sold or anything. What do you guys think to go around?
+[1:43:05] Jamie Indigo: Yes.
+[1:43:08] Speaker 3: Okay,
+[1:43:10] Sango / Cregyn: let's go around that.
+[1:43:13] Ian Lurie: Okay.
+[1:43:14] Jamie Indigo: Okay. Is there a clear way to walk around, or do we need to scout a little,
+[1:43:21] Ian Lurie: there's nothing super simple, so you might want to scout a little bit.
+[1:43:26] Jamie Indigo: Okay, I will. I will do some scouty. All
+[1:43:30] Ian Lurie: right, why don't you? Sorry,
+[1:43:35] Sango / Cregyn: Sango will also scout around.
+[1:43:37] Ian Lurie: Okay? Are you going together or separately?
+[1:43:39] Sango / Cregyn: Probably separately,
+[1:43:41] Ian Lurie: okay.
+[1:43:42] Jamie Indigo: Well, if I stay here, that it will keep everyone else stealth, so you scout.
+[1:43:46] Sango / Cregyn: Good idea, okay. Let's
+[1:43:48] Ian Lurie: do that. All right, Sango, why don't you just roll, unless you just want to pick a pick a cardinal direction just out of your head? Why don't you just roll a d4 and tell me what you roll three three, okay? You had what you think might be north from where you are right now, and it takes you through a set of alleys past another, what appears to be another small battle that you get by no problem, and now you're starting to recognize the different groups, and you see this sort of well-organized, you know, highly disciplined group of devils facing off against these demons that are just, they're just chaos, they are, you know, what you have heard, demons are they're just flinging themselves onto the spears of these devils, and they're getting through it's, it's a pitch battle, but you get past them, wind through another alleyway, and you end up in what you think might be the center of the city. It's very quiet here. There's no signs of battle or anything else. There's what looks like this sort of a central plaza kind of with in the center what was once probably this incredible huge tree, and is now just this burnt blackened stump with some little bit of fire kind of smoldering on the top of
+[1:45:33] Speaker 3: it,
+[1:45:34] Ian Lurie: but it does look quiet here. You don't see anything going on.
+[1:45:41] Sango / Cregyn: I would like to take a really good hearing perception check.
+[1:45:48] Ian Lurie: Okay, go ahead. That is a 20. All right, you do. Sorry, you hear the battle echoing, you know, all the battles echoing around you, you, you know, there's the occasional flash of lightning and clap of thunder, but you don't hear anything in your immediate vicinity.
+[1:46:19] Sango / Cregyn: Okay? Is there. Do I think that the route that I came, that I could bring the rest of the group through?
+[1:46:27] Ian Lurie: Yeah, it's, it's, it's a bunch of winding little alleys, so as long as a fight didn't break out in one of the alleys, the truth is it wouldn't be bad. Now, what you don't know is how you would then go from there to
+[1:46:42] Speaker 3: the I the the
+[1:46:43] Ian Lurie: armory, because you don't know exactly where the armory is from here. You have a vague sense, because they told you, but you're not 100% sure.
+[1:46:52] Sango / Cregyn: Yeah, yeah. Party line to Mossy and Richter, do they? I'm, I'm looking at the tree in the center of town, do the group that you're with, do they know where the armory is from here?
+[1:47:08] Jamie Indigo: Go ahead and ask.
+[1:47:10] Ian Lurie: Okay,
+[1:47:10] Jamie Indigo: Ian's,
+[1:47:12] Ian Lurie: yeah. Cravel says yes. It's, I mean, it's only 100 yards that way. It's just that the auction is between us and it, so we have to go around somehow.
+[1:47:21] Jamie Indigo: Okay, but once they're at the tree, where do they turn? Humor me.
+[1:47:25] Ian Lurie: Oh, from the tree we can just go down the well, we could go down the main boulevard. We probably don't want to do that. We could also probably find our way through some more alleys and get there more quietly.
+[1:47:40] Jamie Indigo: Okay, repeat that. Over, what do you think? Singer, you want to try and duck through some alleys? You want us to join you?
+[1:47:48] Sango / Cregyn: Yeah, let's try to duck. So, Diem, if I got this right, they would go through the alleys to me, and then we would go through other alleys to get to the armory.
+[1:48:03] Ian Lurie: Ideally, you would go back and lead them, because you're the one who knows the route, right?
+[1:48:08] Sango / Cregyn: Yes, yes. Okay, but yeah, that's what I know. That's the path was correct. Okay.
+[1:48:13] Ian Lurie: And then from there, once you got to the tree, you could find another sneaky route. Basically, if you think of it as a triangle right? The group that you're trying to avoid is like right
+[1:48:25] Speaker 3: here,
+[1:48:26] Ian Lurie: you're here, you want to go like this and then like that to just go around them and get to the city armory right here.
+[1:48:33] Sango / Cregyn: Okay, okay. So then I message party line them, I'm going to come back and lead you through, and then we'll go from there. That's what I will
+[1:48:45] Ian Lurie: do. Okay. All right, you get back there, no problem. Everyone, give me group stealth checks. I'm actually, you know, what, don't even worry about it. I'm going to roll stealth for the rest of the party, because they're the ones who are going to be the potential issue,
+[1:49:01] Jamie Indigo: but they have a plus 10,
+[1:49:03] Ian Lurie: yeah, and with that, they, they do fine. They're all kind of surprised, they're like, 'Wow, we're really, we're really good at this.
+[1:49:11] Sango / Cregyn: You still believe in yourself,
+[1:49:13] Ian Lurie: right? Right? You slip through the alleys and end up in this central area, and you hear one of the elves say the commons, what's happened, and TPT says this used to be the commons of the city, this was the center of everything, and that that tree was the tree of Amath, and it was well, I don't, I'm not a good judge of these things, but it was very beautiful, I think, and everyone give me a perception check,
+[1:49:54] Jamie Indigo: one to 543,
+[1:50:01] Sango / Cregyn: 23 and 23 Okay,
+[1:50:09] Speaker 5: Richter is not going to make the attempt.
+[1:50:12] Ian Lurie: Okay, okay, you're looking around and it, it really is pretty quiet, like there's nothing happening here, and you just start to think, why is nothing happening here, when the tree sort of shutters and shakes, and the ground beneath you starts to shake as well. The group that you're with starts to sound a little freaked out. They start making, you know, they start the kids let out some, some very low volume screams, but you know, hopefully quiet enough that no one hears, and then these enormous tree branches shaped like hands reach through a gap in the tree, rip the tree open, and out steps this what you can only think of, and Drac would know right away, and Sango as well, this charred, blackened demonic ant steps out from the tree, stares at you all, lets out a roar, and ignoring your invisibility and everything else charges right at you, and that's where we're going to end for tonight, because I promised it would be two hours, so this seems like a good place to stop, and you're probably going to want to have the full compliment there.
+[1:51:49] Jamie Indigo: Yeah, we need all the help we can get to not die.
+[1:51:54] Sango / Cregyn: Does Drac have any more of those trees left?
+[1:51:56] Ian Lurie: Uh, he does
+[1:51:58] Sango / Cregyn: see things,
+[1:52:01] Ian Lurie: he does indeed.
+[1:52:03] Jamie Indigo: I'm sleepy, and my brain was like, "Oh, so you can make like a Bugs Bunny style sexy lady tree to distract the end. That's not right. What's going
+[1:52:12] Ian Lurie: right? No, probably not, although that would be hilarious. The tree has tremor sense, by the way, which is why it knew you were coming. If you want to look it up, the tree is what's called a Gulf by G U L. Here, I'll just,
+[1:52:35] Jamie Indigo: sir, I'm gonna look at my character sheet tomorrow and be like, that's not how you spell proboscis, but it's gonna be hilarious.
+[1:52:47] Ian Lurie: Yeah, there's a lot going on at Silver and Below. There's a lot happening here. There's, there's a, you know, demons and devils are fighting over the city, and there's a good reason for
+[1:52:57] Speaker 3: it. Are
+[1:52:58] Sango / Cregyn: there actually people that live here?
+[1:53:01] Ian Lurie: Well, there there are people surviving here,
+[1:53:05] Sango / Cregyn: surviving here. They probably fell with the city, I'm guessing.
+[1:53:08] Ian Lurie: Yes, they fell with the city. And I can just.. I'll just share some of this, because I don't know that it'll come up, but you know, Zariel is the devil that rules over this level of the nine hells and Zariel needs more troops, because when devils die here, they're just dead, demons just keep coming back. So, when the fall happened, Asmodeus said, "Hey, I just killed this amoth guy, this city is falling, if you can get all the people in the city into the River Styx, we can torment them and turn them all into devils. So, right now the city is being winched one chain link at a time down towards the River Styx.
+[1:53:58] Jamie Indigo: Oh, damn, that is diabolical.
+[1:54:01] Ian Lurie: Well, they are, they are devils, so diabolical, it's their middle name, so over shared a little bit there, but that's that's what's happening here, and I'll tell you that I, I am borrowing a lot of that story from Descent into Avernus from the Wizards module, although I changed it to make it less stupid, because they, they do tend to do things like that, but yeah, so Zariel Asmodeus decided that this was like the best final way to stab Amos in the back, is he's actually taking Amos most hallowed city, and turning its citizens into soldiers in the blood war to fight against demons.
+[1:54:49] Jamie Indigo: I mean, you kind of got to admire that level of petty.
+[1:54:52] Ian Lurie: Well, and it's, you know, for him it's not just petty, right? As Modi's is big problem with everything that has happened since his creation is that he feels that the devils don't get enough credit for keeping demons from taking over the entire universe.
+[1:55:10] Sango / Cregyn: He's just like those,
+[1:55:12] Jamie Indigo: also the adage of the Republican Party.
+[1:55:15] Ian Lurie: Yeah,
+[1:55:15] Sango / Cregyn: I was gonna say those demon nationalists.
+[1:55:18] Ian Lurie: Yeah, yeah. So to him it's like, yeah, you know, you, Amoth was sort of the god of all that is good, so fuck you, you're dead, and now I'm going to take all your people and use them to do real stuff, that's
+[1:55:32] Sango / Cregyn: basically, I'm
+[1:55:33] Ian Lurie: sorry,
+[1:55:34] Sango / Cregyn: did we ever know how Ammoth died?
+[1:55:38] Ian Lurie: Well, Asmodeus killed him, you know that,
+[1:55:39] Sango / Cregyn: oh, Asmodeus killed,
+[1:55:40] Ian Lurie: everybody knows that, that that's that's a known fact. As far as the fall, Asmodeus killed Amoth, Amoth fell. As Modi's apparently took possession of Silgerin and is slowly dragging it down into the River Styx,
+[1:56:00] Sango / Cregyn: isn't that special
+[1:56:06] Ian Lurie: big tree next next session, big tree next session. I hope this was fun, guys. I know it was a shorter game, but Jamie, I really wanted to let you get at least
+[1:56:15] Speaker 4: a couple hours of
+[1:56:16] Speaker 5: sleep, man. Thanks.
+[1:56:18] Ian Lurie: I'll talk to you guys. Yeah, enjoy
+[1:56:22] Jamie Indigo: drinks. Maya,
+[1:56:24] Speaker 3: bye bye.

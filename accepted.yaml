@@ -1,0 +1,16 @@
+# Reconciliation findings that have been reviewed and dismissed.
+# reconcile.py reports these as settled rather than open, so a checked item
+# stops costing attention on every rebuild. Each needs a reason.
+
+fuzzy_pairs:
+  - pair: [the-aran-deones, the-biran-deones]
+    reason: "Genuinely different pantheons — the First Gods and the Second Gods. The names rhyme by design."
+  - pair: [cult-of-the-flayed-god, the-curse-of-the-flayed-god]
+    reason: "A following and an affliction. Different kinds of thing that share a god's name."
+  - pair: [the-crypt-of-amenopophis-notes, the-crypt-of-amenopophis-untitled]
+    reason: "Two separate files in the same folder; both retained for coverage."
+
+# Pairs whose ids differ only in digits are suppressed automatically: adjacent
+# session numbers (002_3_6 vs 002_3_27) and the-engine's part-1..part-8 notes
+# and synopses are distinct files by construction, not duplicates.
+suppress_numeric_variants: true

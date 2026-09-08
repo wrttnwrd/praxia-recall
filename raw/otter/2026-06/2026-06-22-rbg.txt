@@ -1,0 +1,982 @@
+# We try Ian’s weird rules
+# Otter recording 2026/06/22 17:08:03 (2h 44m) id JmYUvmE4IPBrh5iKNI9kMMy45uM
+# https://otter.ai/u/JmYUvmE4IPBrh5iKNI9kMMy45uM
+# Speaker-attributed transcript, verbatim. Raw source for the card at /items/otter/2026-06/2026-06-22-rbg.md
+
+[0:02:23] Ian Lurie: Testing, test, test Hey, you're muted.
+[0:04:35] Fancy Drak: Song of My People. How are you?
+[0:04:40] Ian Lurie: I'm good. You're in a different room.
+[0:04:44] Fancy Drak: Yep, I am using Tina's office while she is in West Virginia for the next month.
+[0:04:50] Ian Lurie: Got it?
+[0:04:53] Fancy Drak: Which allows me to have two monitors.
+[0:04:57] Ian Lurie: Ooh, nice.
+[0:04:58] Fancy Drak: Frantically, like alt tab, alt tab, alt tab. Yep,
+[0:05:05] Ian Lurie: yep, you'll see me doing a lot of this, this game, because I got rules over here, and then screen share in front of me. So,
+[0:05:14] Fancy Drak: this is this, this is gonna be fun.
+[0:05:16] Ian Lurie: Yeah, I hope so. I think it will. I've been working on these a fair amount, so I have no idea whether we'll be done in an hour or two hours or what, though. So we'll see how that goes.
+[0:05:30] Fancy Drak: We'll see how it goes.
+[0:05:31] Ian Lurie: Can you see two? You should see two windows right now.
+[0:05:35] Fancy Drak: I do. I see the map, and I see the calculator.
+[0:05:37] Ian Lurie: Yep, yep. Okay, okay, cool.
+[0:05:42] Fancy Drak: This is good, and on my side, yeah, I think I'm all ready to go.
+[0:05:59] Ian Lurie: You could probably guess which, which map was created, which graphic was created by me, and which thing was created by Claude? I did the, I did the map,
+[0:06:17] Fancy Drak: like it's effective, because there's there's.. I gotta admit, like, there's that, like, weird, obsessive part of what I do. I'm like, I need to.. I need to concern myself about the terrain and where everyone else is, and do the settle down, JP.
+[0:06:41] Ian Lurie: Yeah, the whole, the whole idea here was to not do that, to create something like this that everyone can sort of play on equal ground. So, we'll see. Who knows if this works? Maybe I turn into a board game or something. The
+[0:06:59] Fancy Drak: combs of Dunmar. Hey,
+[0:07:05] Ian Lurie: Jamie.
+[0:07:15] Fancy Drak: Do you know Ash?
+[0:07:18] Speaker 1: Are we go?
+[0:07:22] Speaker 2: Oh, hey friends, hey
+[0:07:32] Ian Lurie: Jamar.
+[0:07:37] Speaker 1: This is like, don't wake Daddy,
+[0:07:42] Ian Lurie: there's a bunch of games. This is sort of like, yeah.
+[0:07:46] Fancy Drak: Oh, and that it's also dark and grim.
+[0:07:49] Ian Lurie: Did you ever play Space Hulk? You ever played that game?
+[0:07:53] Fancy Drak: No,
+[0:07:54] Speaker 3: no,
+[0:07:54] Ian Lurie: it's an insanely complicated Warhammer 40k based board game. Where. hey, James, where one side pretty much can't win no matter what they do. At least I've never won as that particular side, and the other side seems to win every single time, and yet it's still somehow fun. I don't know, is
+[0:08:17] Speaker 2: it fun? Are you slightly masochistic?
+[0:08:20] Ian Lurie: Well, it's a little bit of both, but if you play Warhammer 40k you're slightly masochistic. The rules were written by a stone Google engineer, as near as I can tell. Okay, so everyone should see two screens on their screen right now. It may look like one, but there's this little column status screen, and then this map thing over here on the left. Cool, I've never shared multiple windows before. It's a whole new experience for me. Exactly,
+[0:09:00] Speaker 2: exactly. close your eyes. It honestly, that song inflection does a lot. Yeah,
+[0:09:06] Ian Lurie: it really, it really brought that moment on. It brought a tear to my eye. Was it tear of pain? I don't know, but it did bring a tear. How
+[0:09:17] Speaker 4: sleep deprived were you in 94
+[0:09:19] Ian Lurie: Yeah, yeah. Well, let's see. That was one year past law school, so pretty sleep-deprived, all right. So, if you guys are, and I know you've seen all the.. did the rules make sense when I sent them to everybody? Any questions about them? Y'all figured out what everybody's roles are. You probably tell from the rules you want at least one person in every role, right? You don't want to have one role unfilled. So I tried to make that clear. I let's see here, I will be juggling a lot this game, so we'll see. I mean, I'm always juggling a lot in a game, I mean, every DM is, but I'll be juggling some, some new stuff, so we'll see. There we go. Now I can see what it looks like. Awesome. So the mission, what you have to do is, you've got these five groups of 10 people in a column, and if you remember last game, you discovered that Anthraxis, who Branos or Bronagh thought was helping them, because they were the head of the Hell Riders, which is the guard that used to protect the city of Silver, and turned out to actually be an arcane loss. This, this arcane neutral evil spell caster that cannot is often hired as a mercenary by devils, and he has been leading away the all the people who had taken shelter in the armory in groups of eight to be tortured and turned, so that their souls could then be used as soldiers in the blood war against the demons, so basically everybody was gathered into this fortress, into the armory, under false pretenses, so that they could be slowly converted to the side of the side of the devils in the war for Avernus. This is a never-ending problem for Zariel, the person, the fallen angel who runs Avernus, because she is always running low on foot soldiers, and when devils die in Avernus, they're just dead, they're gone. Whereas if demons die in Avernus, they turn to Iker, they go back down to the abyss, and then in 100 years they can come back up again. So the demons have a never-ending stream of souls of warriors, the devils do not now. Devils tend to be more organized and better warriors than the demons, which is why they're holding their own here. But they're not holding their own as well as they could. That's also part of why Asmodeus did what he did, which is start slowly dragging. Yeah, I don't. I was a little surprised about Tina's new look, as well. Hold on a second. Sorry, broke my, broke my chain of thought. Damn it, with your, with your jokes. So that's why Asmodeus did what he did, right? He's trying to get more troops onto the onto hell side in the blood war, if Silgerin reaches the River Styx and plunges into the River Styx, then everyone who's been turned will become a soldier, so for the devils, so that would be a huge win for Zariel, you all led the the 50 remaining people out of sort of a back door in the armory when Anthrax is sort of arch nemesis ergoros showed up and ergoros is a demon and they started fighting it out, the demons don't want these people to survive, they just want to wipe them out as quickly as possible, so that they don't have a chance to be turned to evil, and they don't have a chance to become soldiers for the legions of hell, right? So their mission is very clear, it's just kill everyone, the devil's mission is obviously a little bit more difficult because they want to keep all these people alive. Your mission now is to lead everybody from the bunker, from the armory, sorry, through the streets of Silver and Below, while this low-level conflict is playing out, and get them to this bunker where Bronagh says she can keep everyone safe until one of two things happens: someone comes to rescue them, or Sogurin is finally drowned in the River Styx. But either way, it's better than them staying in the armory and just being slaughtered. So, what you have to do now, and understand when I say a low-level conflict, I mean there are battles all over the city right now, but as Bronagh told you from talking to her scouts, there is a huge force of demons attempting to climb the chains and come up into the city, and if they get into the city, then you all will be cut off from the bunker, where they're trying to go hide, and from the docks over here, which is where you need to get back to in order to escape. Now, you guys fighting your way through a city full of demons. Yeah, you can do that,
+[0:14:56] Speaker 2: and it has to go sequential. There's no way to.
+[0:14:59] Ian Lurie: well, it's. yeah, so it's these numbers are more kind of, they're they're an out there, they're a metaphor, you could be going in any direction, who knows, and you'll see, okay, you know, as you find stuff, this is just this is just for flavor, it could be you end up going in, you know, you end up backtracking three times, or whatever, but there's going to be 12 basic segments to this, and you've already done one of them by getting out of the armory, so as you move through each segment, you'll get closer to getting everybody delivered to their escape. You guys could make your way through the city, you could hide, you have the bet, the badge of Zariel. Can I assume someone is wearing that right now, or are you not going to? No,
+[0:15:51] Fancy Drak: I don't know who
+[0:15:55] Speaker 2: I believe Mazda would have had it in the backpack and given it to Richter.
+[0:15:58] Ian Lurie: Okay,
+[0:16:01] Speaker 2: does that work for Richter?
+[0:16:02] Speaker 5: Yep, that's actually what I was gonna say.
+[0:16:04] Ian Lurie: Okay, yeah, because you want to be wearing it, so that way at least the only side you're dealing with directly they have to worry about directly is the demons, right? They're the only ones who will attack you directly.
+[0:16:15] Speaker 3: Okay, they
+[0:16:16] Ian Lurie: tried to do other things because they're tricky bastards. Um, but what? There's
+[0:16:21] Speaker 2: the name of Buckface,
+[0:16:23] Ian Lurie: which fuck face are we talking about? Anthraxes.
+[0:16:26] Speaker 2: Yeah,
+[0:16:27] Ian Lurie: yeah, anthrax. This is the one that was leading everyone away. He is now, he and his troops are now in a pitch battle with Ergoros, the demon, and the demon's forces. And as you left the armory, you saw these swarms of smaller demons just literally sort of boiling over the devils as the devils, you know, stabbed and grabbed and threw and crushed them. So that was a pretty pitched fight. You saw Ergoros and Anthraxis immediately go for each other, so they're busy right now, but there's a lot of other demons and devils, obviously at large in the city. How
+[0:17:05] Speaker 2: many temporary hit points does the mob have? Craig, and was it 2015
+[0:17:11] Speaker 6: for each person?
+[0:17:14] Ian Lurie: So it's going to be 15 for each mob. Just, just, just
+[0:17:18] Speaker 2: let us puff it. Come on, 150 10.0
+[0:17:21] Ian Lurie: no, no. Um, just because we're treating each mob as an individual, the only time we're not treating them as an individual is you can't do stuff like
+[0:17:29] Speaker 3: sound
+[0:17:30] Speaker 2: like a teacher.
+[0:17:31] Ian Lurie: Well, you can't do stuff like fly, right? You can't cast fly on on 10 people or 50 people and have them all go flying. Now, if you could find a way to cast it 50 times on 50 people, I would totally let you do that, but you can't just use a spell like that on one mob as if it's one person. I will let you heal them, so if the mob takes 20 hit points of damage and it's down to 30 and that's affecting morale roles and everything else you can if you want to heal the mob, but I will tell you that your main priority is morale, because a mob with 10 hit points and four morale is still better off than a mob with 50 hit points and two morale,
+[0:18:21] Speaker 2: okay,
+[0:18:22] Ian Lurie: it If a mob, if their morale falls, the only way to bring their morale back up is to stop and have the shepherd go to that mob and calm them down, which means there's no movement that round for that mob.
+[0:18:37] Speaker 2: Question, in terms of mechanics, so if there is a spell that you know affects three creatures within range, would that be it on three mobs? It
+[0:18:48] Ian Lurie: depends on the spell. It, you can't spells that are especially designed to
+[0:18:54] Fancy Drak: spell..
+[0:18:55] Ian Lurie: I'm sorry,
+[0:18:56] Fancy Drak: healing spell,
+[0:18:57] Ian Lurie: healing. So you can use healing, and you can use greater healing, you can use any healing you want, that's just that is a very specific mechanic I introduced, so that,
+[0:19:06] Speaker 1: okay,
+[0:19:07] Ian Lurie: one, you know, one unlucky roll doesn't wipe out the entire column, cool, basically you're heroes, and you should be able to do heroic things, like, you know, in this case, basically, you know, if, if a mob loses 10 hit points, that means that two people died. So, if you're right on top of things, and you can heal the mob for 10 hit points, basically you save those two people.
+[0:19:31] Speaker 1: Cool,
+[0:19:32] Ian Lurie: see, and you prevent the morale roll, the check to not lose their shit and go running, which can definitely happen. There is sorry,
+[0:19:49] Speaker 6: Diem is the name of this town, Silgore Below or Silgore Down Under.
+[0:19:54] Ian Lurie: Silger and Below, it's not Australia. I wrote Down Under. Those are two different movies. Yes, two different
+[0:20:00] Speaker 2: bloomin onions there,
+[0:20:02] Ian Lurie: and Vegemite, which you know, honestly,
+[0:20:06] Speaker 6: alligator skin.
+[0:20:07] Speaker 2: I like Vegemite. I don't understand that.
+[0:20:09] Speaker 3: Oh,
+[0:20:09] Speaker 2: I like it.
+[0:20:11] Ian Lurie: We're going to Australia in October for three weeks, and I am the one thing I'm going to avoid, like the plague, is yeah, Vegemite. Let's see other mechanics to know about. So, there is this Doom clock. Basically, something goes wrong and this clock advances, and what that basically means is, if something goes wrong, the demons have come, have sworn further up the chains. If something goes right, there's a chance that I'll push them further back down the chains. Doom clock is your excellent, good to know. So, if you are, for example, spotted by a demon, and the demon sort of sees you guys, finds you guys, and then doesn't, you know, sort of just starts tracking you, as opposed to simply saying, "Oh, just saw them. That will advance the Doom clock, because the demons that are swarming up the chains will know to come straight for you if you end up in a fight. So, let's say you know there's one direct attack, and you'll see this as each round goes by, but let's say, Masa, you're the scout, or Drak, you're the scout, and Drak, you make your roll, and you fail this round, which doesn't totally change something, but there's a random encounter where one demon jumps out and attacks the column, so that attack will then be run as a regular combat, and you can decide how many of you want to get into that combat, the more of you that get involved, the less you can do for other parts of the column and do other standard roles and stuff like that. If you don't kill that demon in one round, then the demon will continue attacking in the next round, it will continue doing damage and all those things, but also that would advance the Doom clock, because that demon is now saying to the demons on the chains, I'm here, I'm fighting them, get up here as quick as you can.
+[0:22:11] Speaker 2: Okay, so they have their own version of a party line, is what I'm hearing,
+[0:22:14] Ian Lurie: they have their own version of a party line.
+[0:22:16] Speaker 3: Okay,
+[0:22:19] Speaker 2: just to put it back out there again, because it's been two weeks. I did cast past the trace before we began the shenanigans.
+[0:22:29] Ian Lurie: Okay, okay. And how does it work? What's the mechanic?
+[0:22:34] Speaker 2: Um, so it is my rogues blessing one, as long as if they're within 60 feet of me, it's a plus 10.
+[0:22:42] Ian Lurie: Okay, 60 feet. If you want to try to pack 50 people into 60 feet. No, I understand
+[0:22:50] Speaker 2: we're not going to get all of them.
+[0:22:51] Ian Lurie: Okay, but
+[0:22:52] Speaker 2: whichever one I'm within 60 feet of will have buff around them.
+[0:22:56] Ian Lurie: Are you? What's your role in this right now?
+[0:23:00] Speaker 2: I am Shepherd. Yeah, calm people down.
+[0:23:04] Ian Lurie: Okay, calm people. Also,
+[0:23:07] Speaker 6: I thought Richter was the Shepherd.
+[0:23:09] Speaker 2: Oh, wait, no, my bad. I said the wrong name. I'm sorry, don't be mad at me. Vanguard,
+[0:23:16] Speaker 5: Vanguard, that's
+[0:23:17] Speaker 3: it.
+[0:23:17] Ian Lurie: Okay, so you're getting people to move
+[0:23:20] Fancy Drak: forward the scout
+[0:23:22] Speaker 6: that's saying go. Yep.
+[0:23:23] Fancy Drak: Okay,
+[0:23:24] Speaker 2: I think drag was rear guard,
+[0:23:26] Ian Lurie: yeah. And Reagan's back there too. Okay, okay, cool. So, in that, if morale breaks, if one particular mob takes off into the ruins or something, that's the shepherd will generally be the one who goes out and brings them back, and that's usually a charisma role of some kind, and that means you're not doing anything else that round, so basically, and that also means the column breaks up, so now you're trying to move two different columns of people through the ruins, which means, of course, you're all split, because you can only give, you know, you then have to split your party, so that you can give orders to both groups at the same time. Okay, there are different things that you can order the mob to do the column to do, usually you'll just order them to press on, right? You just want them to move forward. You can order them to just hunker down. There's a few reasons to do that, like you know you're about to get blasted with something, or they do need to wait because another group of, you know, another mob got left behind. Volley means everybody draws, pulls up ranks, and anyone who has a ranged weapon fires, and that's an attack we can resolve that as needed. Bear the wounded is basically like taking a short rest, but you keep moving, but well, no, you don't keep moving. It's like taking a short rest. You can resolve a couple of wounds to a couple of creatures, and then flail literally means everyone's flailing around. It's total panic. There's demons in the middle of the column. You stop, and everyone gets a melee attack. Okay, okay. And I'll go through this per rent, you know, every single round per round. The only other thing to know about, and this shouldn't become a factor, but the rear guard each round will make a roll against what's called the weather. If you fail the role, then every mob loses two hit points, just because there's debris and fire, and you know there's noxious gasses, things you, as high-level characters, don't notice, but civilians definitely notice, as long as you roll, as long as you make your check rear guard, it's not an issue, and the check is a DC 15. athletics or decks or con, depending on the circumstances. So, none of these roles are horrendously high, but things can go wrong. Any questions about it so far? If not, we'll just go ahead and see how this goes.
+[0:26:21] Speaker 3: Did
+[0:26:21] Speaker 2: you have a lot of rest or no rest when coming up with this?
+[0:26:25] Ian Lurie: I didn't. I was sitting in our friend's house in when I was rounding out these rules, sitting in our friend's house in Hawaii with my legs encased in ice, so
+[0:26:37] Speaker 3: it
+[0:26:38] Ian Lurie: was, it was actually a pretty good time to work to focus on this, yeah. And it was 85 degrees, and superhuman, and they don't have air conditioning, but that was okay, because my legs were literally wrapped in ice bags, because they were tired. Okay, so the way every round is going to start is I'm going to roll on something called the Surge table, which is basically random encounters. All right now, and I'll tell you what that is in a second, but first, the Scout Sango, you need to roll me DC 18 perception check, or survival or insight, whichever is best for you.
+[0:27:24] Speaker 6: Okay, if it's perception, would hearing be involved in this?
+[0:27:27] Ian Lurie: Would what be involved?
+[0:27:29] Speaker 6: Hearing no. Okay. Oh, that's an 18 plus 1129
+[0:27:36] Ian Lurie: Okay, so you can do.. you have a couple of options. You look back at the group, you look forward, and you don't see anything, and then you happen to look back, and you see a couple of people, actually, you see two children who are having a tug of war over a toy, and one of them rips the toy out of the other child's hand, but then lets go of it, and the toy goes flying away into the surrounding ruins, and the one child whose toy it was yells angrily at the other child and runs into the ruins after it. Now, with your perception, you notice this situation taking shape as it starts to happen, so you can do one of a couple of things. You can tell me to reroll and have something else happen. You can beat the child, absolute 100% 100% Yes, you could do that. You can use your action this round, so not your bonus action, but your regular action to stop the child, in which case, if there's a fight or something, you won't be able to intervene. You can yell to someone else to do something, you know. You can do any one of those things. You could do Shepherd, tell them to go get them,
+[0:28:56] Speaker 2: or you can do some single ass shit.
+[0:29:00] Speaker 6: Yeah, what's the.. what's the.. what's the lighting like?
+[0:29:04] Ian Lurie: It is. Yeah, I should describe everything to you. So, the sky overhead is that kind of orangish red with a cut occasionally by flashes of yellow lightning. It's smoky and hazy. Here you hear the sounds of battle all around you, and the ground is kind of thrumming steadily, as if there's always people running around every couple of minutes. There's this huge kind of clunk in the ground as the chains ratchet one link tighter down towards the surface. So, the lighting is not great.
+[0:29:39] Speaker 6: Will this be considered dim light? Then
+[0:29:41] Ian Lurie: yes, this is definitely dim light. Okay, in that case, I will, I will party line tell everybody a kid just broke off into the ruins. I'm in the shadows, I'm gonna go get him, get them and bring them back, so when you do that, that means that well, first we need to roll for you to find and grab the child, so roll, yep, go ahead.
+[0:30:13] Fancy Drak: Does that mean he is leaving his scout post?
+[0:30:19] Ian Lurie: Yes, but depending on how this resolves, he'll be back at his scout post at the beginning of next round in position. The only reason that wouldn't happen, and it's not really applicable here, be more applicable if there was a fight, would be if for some reason he doesn't find the child, which kind of a stretch. Cool, this kid's not a ranger, it's just a little kid. So, Sango, you tear off into the ruins. Give me another perception.
+[0:30:50] Speaker 6: 16,
+[0:30:51] Ian Lurie: okay? You see the child happily picking up her doll, and it's a. the doll is this small sort of Viking-looking figure with a sword and a shield, and she don't
+[0:31:09] Speaker 6: forget the sketchy old man who's invisible.
+[0:31:12] Ian Lurie: Oh, you're that's you're also invisible, yeah. And she's there, and she stops for a minute, and you see that moment of panic of any child when they are in a strange place, cheerfully go off to do something, not thinking about the fact that they're in a strange place, and then they suddenly realize they're alone and there's no grown-ups around them, and she has that moment of panic, and that's when you reach her.
+[0:31:42] Speaker 6: Hey, kid, do you want a good berry?
+[0:31:49] Ian Lurie: Let's out a small scream, but doesn't move.
+[0:31:57] Speaker 6: Let's go. We got to get you back to your parents. It's not safe to be wandering out here,
+[0:32:01] Ian Lurie: so do you touch her or something, so that she knows you're real? Yeah, okay. She immediately kind of relaxes when she sees you, and she says, "Sure, sorry.
+[0:32:15] Speaker 2: Are you still invisible?
+[0:32:20] Ian Lurie: No.
+[0:32:20] Speaker 1: Okay, do Okay.
+[0:32:25] Ian Lurie: Now, Shepherd, you're good right now. What is everybody's group order going to be what's the group's order going to be. You can do press on hunker volley bear the wounded or flail
+[0:32:51] Fancy Drak: command of frail flail.
+[0:32:53] Ian Lurie: Yeah, flail buddy 123 flail. Okay, press on. So that means Vanguard, you need to give me a DC 15 charisma roll.
+[0:33:18] Speaker 7: I did not
+[0:33:19] Speaker 6: Vanguard or Shepherd Vanguard. Vanguard, the
+[0:33:24] Ian Lurie: Vanguard is doing this to advance the party. Whenever there's a press on order given, it's the Vanguard's responsibility to move everybody forward. Okay,
+[0:33:36] Speaker 2: I was told this was going to be more athletics and dexterity based. Shepherd is charisma.
+[0:33:48] Ian Lurie: Are you laughing at something in the chat? Or no? Okay,
+[0:33:53] Speaker 5: we're just laughing at the fact that at least I am. The fact that we were like, oh yeah, we get these rules, and now we're like, oh, we don't get these rules. roulette.
+[0:34:03] Speaker 2: I was like, no, Vanguard's great. I'm great at dexterity, but then you asked me to be charismatic.
+[0:34:08] Ian Lurie: Vanguard is charisma or athletics, but usually it's charisma, it's athletics if you're trying to force the group forward. Now, what I'll tell you, if you can describe to me how you're using athletics, decks-based athletics, to do this. I will totally give it to you, and I'm not saying that just to be a dick. I'm just saying, if you can describe it to me,
+[0:34:29] Speaker 3: okay?
+[0:34:30] Speaker 2: So, I imagine that these folks have not seen it to backseat a whole lot.
+[0:34:33] Ian Lurie: Nope.
+[0:34:34] Speaker 2: Yeah, so I am hamming it up with adorable to backseat antics, okay? Keep their attention on me, and like bouncing around, and then doing like a follow me.
+[0:34:46] Ian Lurie: Okay, I'm gonna add to that a little. That what you're doing is you're bouncing from person to person, and you're like swatting them gently, so you're sort of doing what a mama cat does when the kittens aren't behaving, you're swatting at them, you're dragging them, and you're just kind of getting them all moving. I'm going to up the difficulty of that because of what you're doing, so I'm going to make that a 19 difficulty, but that's a dexterity check, so you're like plus a million, right?
+[0:35:22] Speaker 8: I mean, in like acrobatics, but
+[0:35:24] Ian Lurie: athletics check.
+[0:35:26] Speaker 2: Well, I have shit for athletics, and my role was a four, so I'm still failing.
+[0:35:30] Ian Lurie: That wouldn't help you either way. Then, sorry. Yeah, so
+[0:35:35] Speaker 8: if it had been acrobatics with adorable Tabaxi antics, I would have been fine.
+[0:35:40] Ian Lurie: It's either athletics or or charisma, acrobatics. Could it be acrobatics? I'm trying to be generous here. I don't see how it's acrobatics, so there has to be some application of force of either personality or or strength or something to get people moving,
+[0:36:05] Speaker 6: it's like the first time you, you play the game of life, and you don't know. I
+[0:36:09] Speaker 2: tried to be,
+[0:36:14] Ian Lurie: you can, of course, think of magical ways to up, you know, up your charisma, or your strength, or whatever, so, so this round you guys get the whole column there, you get everybody ready. The girl, though, runs off. The parents,
+[0:36:31] Speaker 2: I do. I do have one idea with my experimental elixir of sleep that I got today.
+[0:36:36] Ian Lurie: Okay,
+[0:36:40] Speaker 2: neither of them is useful. Oh, wait, oh wait, no, that's the one thing where I need.. I know I failed.
+[0:36:50] Ian Lurie: Okay, so now rear guard, give me a DC 15 athletics check.
+[0:37:01] Speaker 6: You want Craig in to take that.
+[0:37:05] Fancy Drak: Yeah, I have no athletics.
+[0:37:08] Speaker 6: I kind of thought so. Oh, that's drag shit. That's a natural one. Joe, is this.. is
+[0:37:20] Speaker 5: this gonna be the bad roll night? Because I'm just going to sign off.
+[0:37:27] Speaker 2: Yeah, we had a meeting before you got here, jerk.
+[0:37:30] Ian Lurie: Okay, so rear guard, all that means is
+[0:37:38] Speaker 6: Dr. Get to help me assist, assist.
+[0:37:43] Ian Lurie: No, not enough to make a difference on a natural one. Let's put it that way.
+[0:37:48] Speaker 5: Jesus,
+[0:37:48] Ian Lurie: so here's what happens. You, the Scout spots Sango, spots this issue with this kid running off into the ruins, goes to take care of it brings the child back, but in the meantime, the child's parents scream frantically when they see their child go running into the ruins, and the dad goes too. Sango, you managed to get them both back, but there's at this point one entire mob has sort of devolved into everybody panicking and screaming and trying to figure out what's going on that distracts Crean, who doesn't notice that this fall of burning ash passes overhead like a squall and falls onto the entire column, and every mob takes two points of damage, as do all of you guys from these kind of burning ashes that fall on you and burn your skin, they get in your hair, they don't cause serious wounds, but it's enough for you all to feel it, and the people in the column feel it like a bad sunburn, and because you didn't advance, we're gonna up the doom clock by one. Yes, we can give you five minutes,
+[0:39:04] Speaker 6: we can give you an hour if it'll help.
+[0:39:05] Ian Lurie: Okay, so I can see one thing that I should have made clear, and remember, you can all change roles. So let me run down the list here real quick. The scout is based on perception, yep, or survival, depending on the circumstances. Vanguard is charisma or athletics strength, best based athletics. Rear guard is athletics 99% of the time, constitution or strength based athletics, not decks-based. Sorry, yeah. Strength-based athletics, 99% of the time can sometimes be a con check if you're doing something like blocking a blow or something like that. And then Shepherd is charisma, is all charisma, might be persuasion, intimidation, performance, whatever, but it's always going to be charisma,
+[0:40:02] Speaker 2: okay? So, question for you, that okay, Vanguard, could it be something like a performance check?
+[0:40:10] Ian Lurie: Then I'd give you that.
+[0:40:14] Speaker 2: Why didn't you give me that? I made it,
+[0:40:16] Ian Lurie: because I hadn't thought of it, but now that you suggested it, it makes a lot of sense. Performance is charisma, right.
+[0:40:22] Speaker 8: Yeah,
+[0:40:23] Ian Lurie: yeah. Okay,
+[0:40:25] Fancy Drak: so can I suggest that maybe I should be the scout with the crazy survival skills.
+[0:40:37] Speaker 6: What's your, what's your perception?
+[0:40:40] Fancy Drak: My perception is plus 17,
+[0:40:43] Speaker 6: Jesus mines plus 11, my survival is plus 11,
+[0:40:52] Fancy Drak: also plus 11.
+[0:40:53] Speaker 6: Yeah, you can do that, I don't care.
+[0:40:55] Fancy Drak: Cool, but
+[0:40:56] Speaker 6: Sango doesn't have any charisma at all either, so we're not solving that issue.
+[0:41:03] Ian Lurie: Oh, you must be pretty athletic,
+[0:41:06] Speaker 6: Sango.
+[0:41:07] Ian Lurie: Yeah,
+[0:41:08] Speaker 6: athletics negative one.
+[0:41:15] Fancy Drak: Athletics is zero.
+[0:41:18] Speaker 2: Okay, plus two. I guess I'm better than alcohol, this,
+[0:41:23] Ian Lurie: you know, what you're just in a low athletics group. I suspect,
+[0:41:27] Fancy Drak: and Sherman,
+[0:41:28] Ian Lurie: I suspect Cregan have Craig, and got a plus nine to athletics. Okay,
+[0:41:32] Speaker 6: and he's got a good con, so he could do, he could take over Vanguard.
+[0:41:37] Ian Lurie: Yeah,
+[0:41:38] Speaker 6: does that strength athletics, and some, what'd you say, some charisma or some con
+[0:41:44] Ian Lurie: Craigen or Richter, because I think Richter also has a high charisma.
+[0:41:52] Speaker 6: We also need Richter to be the charisma shepherd, he's got to say shepherd, Richter, the shepherd has got to be the shepherd, just yeah. yeah,
+[0:42:02] Ian Lurie: yeah, Craig and your best, your best man, guard, yeah,
+[0:42:08] Speaker 6: yeah. Okay, I hate how they
+[0:42:13] Speaker 9: keep redoing all the menus and D&D beyond.
+[0:42:15] Speaker 2: Like, I don't know who this read is land, but you failed,
+[0:42:18] Ian Lurie: yeah, yeah. It I'm gonna jp and look at
+[0:42:25] Speaker 9: Richter's stat sheet,
+[0:42:32] Ian Lurie: and I'm not going to tick the Doom clock up one, since we're all figuring this out.
+[0:42:38] Speaker 1: Okay,
+[0:42:38] Ian Lurie: normally if you don't advance, the Doom clock will click up, but
+[0:42:52] Speaker 2: what is Craigen?
+[0:42:56] Speaker 6: He's in the back,
+[0:42:57] Speaker 2: he's in regard. Okay,
+[0:42:59] Speaker 1: Vanguard. no,
+[0:43:08] Speaker 3: no,
+[0:43:09] Speaker 6: Drac, what's your strengths? Athletics. Oh, you're zero, right?
+[0:43:14] Fancy Drak: Yeah, but zero athletics. No,
+[0:43:16] Ian Lurie: Drac is the scout.
+[0:43:19] Speaker 6: What's your charisma then
+[0:43:22] Speaker 10: plus
+[0:43:26] Speaker 2: one. Okay, so I've got a plus five on charisma. Okay. Well,
+[0:43:29] Speaker 6: hey, why don't we?
+[0:43:32] Speaker 8: I can help Shepherd,
+[0:43:36] Ian Lurie: or you could be the Vanguard. Then you just want to make sure you use, but then why didn't you use charisma before? Oh, because you rolled a four, so it wouldn't have mattered. You want, but if I
+[0:43:45] Speaker 2: done performance, I could have made that work.
+[0:43:49] Ian Lurie: So I would say just, and I'm the DM, so I can't really.. don't listen to me if you don't want to, but I would say actually, you are probably the best person to be Vanguard if Richter is going to be the shepherd, you should be the Vanguard,
+[0:44:08] Speaker 2: because if I can do performance-based to keep them moving along, and I roll to 14, I can use my last Flash of Genius to keep them all together. Yeah,
+[0:44:18] Ian Lurie: yeah.
+[0:44:22] Speaker 6: Well, okay, all right. Well, okay,
+[0:44:25] Ian Lurie: we're reorganizing who's going to do which jobs a little bit, and I didn't tick the doom clock up since we're all figuring this out, so all that stuff did happen, but we're we're just doing another round with basically there's zero penalty, except everyone took two hit points of damage.
+[0:44:47] Speaker 2: Yeah, and I gotta put that dice in dice jail and figure out who loves me tonight. Why do you mean to love me?
+[0:44:52] Ian Lurie: Okay, so we're on a new beat now, and on the new beat, I rolled a two, which is actually someone else roll a da, I shouldn't be doing this to you guys.
+[0:45:03] Speaker 2: Okay,
+[0:45:04] Speaker 5: which do I have now?
+[0:45:08] Speaker 2: You stole her separate
+[0:45:11] Ian Lurie: is really important for the shepherd. You rolled a four,
+[0:45:16] Speaker 9: yeah.
+[0:45:17] Ian Lurie: All right, well, that's better than I was about to do to you, so that's good, you all are well, actually. So, and who's the scout? I'm sorry, Dr. Drax. So, give me your scout role. That's DC 18, survival or perception
+[0:45:36] Fancy Drak: 26
+[0:45:36] Ian Lurie: Okay, you can show off. Sorry, show up. You can choose if you want to lower the surge roll by one or raise the surge roll by one. A lower number is worse, so you can take it from a four to a five if you want,
+[0:46:04] Fancy Drak: and what's what will be the cost?
+[0:46:06] Ian Lurie: Nothing. It's just because you rolled, because you got the role that you got. You can choose to downgrade the role. You can also, you can, you will also be able to grant one ally advantage this round if they need it. Let's see here, or you can just say completely re-roll the surge, and if I rolled a one, honestly, you would want to say completely re-roll, because that's the worst possible thing that can happen, because because Jamie rolled a four, you're sort of middle of the road, so improving it by one is probably better than re-rolling it.
+[0:46:49] Fancy Drak: Okay, I will, I will, I'll increase it by
+[0:46:54] Ian Lurie: one. Okay,
+[0:46:56] Fancy Drak: and I think I'm going to give the Vanguard advantage.
+[0:47:04] Ian Lurie: Okay, all right. You don't have to declare that now, do you? You don't have to declare it now. No,
+[0:47:10] Fancy Drak: okay. If that case
+[0:47:12] Ian Lurie: out or something else, then you could declare it,
+[0:47:14] Speaker 3: okay?
+[0:47:15] Ian Lurie: Now, because you increased it by one, here's what happens. You're looking around, and you see these four mosquito-like, but you know, but elephant-sized demons go flying overhead, and then you look down, and you're worried for a minute they're going to descend on the column, but they don't. And at the same time, up ahead, you're trying to figure out, you know, how do I move everybody forward when one building completely collapses, and this massive individual demon just goes rumbling into this well-organized unit of devils, and that happens about a block away from you and draws all the forces around it into that one little knot of combat, so you can now advance everybody without requiring a Vanguard roll. So this is a free step of progress. So you guys move on to two. So Vanguard, you don't even have to roll this round. However, rear guard, you do need to roll, because you need to roll every single round.
+[0:48:20] Speaker 6: Oh, okay. What are we rolling for?
+[0:48:23] Ian Lurie: DC 15 athletics.
+[0:48:26] Speaker 6: Athletics. Well, I rolled a one on this last time, so it can't be that again. Nope, that is a 17.
+[0:48:36] Ian Lurie: You succeed. So, when the huge demon goes crashing through the building, it flings more ash and debris everywhere, and a whole bunch of huge chunks look like they're about to fall in the rear of the column. And Cregan, you put up your, your, you fight with a shield, right? Yep, yeah. So you put up your shield and you knock the two rocks aside that we're going to crash into somebody who is right in front of you, and you prevent damage, so no one takes any damage this round from that advance, and the shepherd, you are once again okay, because nobody is shaken yet, so you still got things under control. So now we come around to another round, so someone give me another d8 I I
+[0:49:26] Fancy Drak: see the noses. Okay, I got
+[0:49:31] Speaker 3: five.
+[0:49:34] Ian Lurie: Okay, and now Scout, give me a roll,
+[0:49:40] Speaker 3: right? I Right,
+[0:49:45] Speaker 5: okay,
+[0:49:51] Ian Lurie: so you're starting to lead everybody forward again, and another wall blows out the same way that happened before, and that whole battle is kind of rolling forward in front of you, and as it rolls forward in front of you, you see another lane, another way that people can advance, so you get them to move forward another step, however, at the same time, one of the mobs
+[0:50:26] Speaker 2: ungrouped,
+[0:50:29] Ian Lurie: yep, one of the mobs is distracted by the size of the battle, they're just, they're kind of freaked out by the fact this giant demon, which looks, by the way, like a huge gorilla with big fangs on it is battling right in square number three. You're able to lead people right through that battle because of how pitched the battle is, but this one mob, just for some reason, you can't get them to move forward. So, Shepherd, you need to give me a Charisma DC 15 check. and you can be persuasion, intimidation, or performance.
+[0:51:15] Speaker 5: It's going to be persuasion, and that's a 19.
+[0:51:17] Ian Lurie: Okay, so they catch back up to the group, and then rear guard, you need to give me another athletics check,
+[0:51:24] Speaker 6: all right. Uh, Sango is gonna guide Craig into that guidance, guidance. Oh, that's a 19 plus two plus some stuff. Okay, so it's 30
+[0:51:36] Ian Lurie: again. You've got rocks and stuff flying everywhere, but you managed to protect everybody, new round, new role. Reagan's
+[0:51:47] Speaker 6: like Captain America meets the Hulk,
+[0:51:50] Ian Lurie: yeah, something like that. So someone give me d8 and stop rolling fives, okay. Be
+[0:52:08] Fancy Drak: fine, five
+[0:52:09] Ian Lurie: okey doke. Well, that fight is still going on. It's in fact, if anything, there's more and more demons piling into this battle, and more and more devils. It's attracting so much attention at this point that you can advance again, but let me roll and make sure everybody can do it again. You get one mob that splits off, so Shepherd, it's on you to bring them back
+[0:52:55] Speaker 5: again. Persuasion, that's a six to you.
+[0:52:57] Ian Lurie: Okay, they are really wavering, like it's really hard to get them to advance, but you do manage it, and they do move up, and so now rear guard, you need to roll weather, roll weather, you can protect everyone from the weather, the
+[0:53:18] Speaker 6: 19. Okay,
+[0:53:19] Speaker 5: nice.
+[0:53:21] Ian Lurie: So no one takes damage. I can see I should have made this far more difficult. Okay, now you're advancing from demon hell to contested territory. This gets a little bit more challenging because the chaos that you've been through so far is going to multiply by orders of magnitude, because in this area no one clearly owns the space. There's a pitch battle going on all around you. There's arrows and spells and weapons and creatures flying across the street in front of you. So, first off, give me another d8 and so help me God, if you roll another five, I'm rolling from now on.
+[0:54:05] Speaker 6: Oh, that's great. Oh shit, that's an eight.
+[0:54:11] Ian Lurie: Okay, so Scout, give me your scouting roll,
+[0:54:20] Fancy Drak: three five.
+[0:54:21] Ian Lurie: Okay, up in front of you in this contested zone, you see a small group of devils, and these are bearded devils. They have these serpents for beards, and each of the little serpent has a little spike on it, and they fight using those as well as actual spears in their hands, and they are beset, they have demons on all sides of them, and included are these little teeny sort of imp looking demons called Quosets. There's these larger demons, larger bird type demons, which you've seen before, called Vrocs, and they are clearly going to win. There's far too many of them, and one of the fiends, one of the devils looks over at you and says in your mind, and this is to you, Drac us and we will aid you.
+[0:55:19] Speaker 2: I feel like you've got a wisdom that my guy inside that shit,
+[0:55:25] Fancy Drak: okay, that's that's a okay, I think, I think the only response is like new phone. Who's this
+[0:55:46] Speaker 6: new hell? Who's this?
+[0:55:51] Ian Lurie: Okay, you just hear cursing as the demons are completely overrun by the devils. Sorry, the devils are completely overrun by the wave of demons that's emerging from the from the wreckage around them, and the last thing you, you hear is that that cursing and abyssal, and the last thing you see is their one of their spears just rising and falling in the middle of this huge pile of demons, and you see demons dissolving into Iker, but there are far too many demons for the devils, and they win that fight. So now, Vanguard, you need to give me a DC 15 charisma roll or performance
+[0:56:47] Speaker 2: question. I saw advantage from the Scout, or now
+[0:56:50] Ian Lurie: no, I don't
+[0:56:53] Fancy Drak: want advantage.
+[0:56:55] Ian Lurie: Sorry, yes, he can give you advantage.
+[0:56:59] Speaker 2: Do you get to hold that like after I roll, or did we said before
+[0:57:04] Ian Lurie: he rolled? It's because he rolled high this round, so he has an advantage to give away. And if you, if you want it now, if he wants to give it to you now, after you rolled, he can do that.
+[0:57:14] Speaker 2: I haven't rolled yet, so can I roll first?
+[0:57:20] Speaker 6: Just, you should just take it, Mossy.
+[0:57:22] Ian Lurie: You should just take it, Mossy.
+[0:57:23] Speaker 1: Okay,
+[0:57:23] Fancy Drak: Mossy, you have advantage.
+[0:57:25] Speaker 2: Okay. Thank you. Oh, thank God.
+[0:57:31] Fancy Drak: 21
+[0:57:34] Ian Lurie: Okay, so you guys advance another one now, because of the huge brawl that's going on, there is demon icker everywhere, and it's a mess. So, rear guard, you have to somehow steer everyone around it without somebody blundering into it. So, you need to give me that usual athletics check,
+[0:57:59] Speaker 3: do
+[0:58:03] Speaker 2: Like driving a go kart
+[0:58:05] Speaker 6: 19
+[0:58:06] Ian Lurie: ket, you successfully steer everyone around it. So now you're heading into devil hell territory, and this is another, a whole different problem. So someone give me that da surge role that random encounter
+[0:58:25] Speaker 6: shit
+[0:58:26] Speaker 2: I may have you
+[0:58:28] Speaker 6: three
+[0:58:29] Ian Lurie: three
+[0:58:32] Speaker 3: because
+[0:58:32] Speaker 6: the one where lower is better we're certain yeah not as good
+[0:58:36] Ian Lurie: as okay scout give me your perception
+[0:58:50] Fancy Drak: 2121
+[0:58:51] Ian Lurie: Okay, sorry, I didn't. I didn't totally. I seriously didn't hear that. Okay, you did not roll high enough to actually completely, oh no, yeah, you rolled high enough to either cause me to reroll or reduce the roll or increase the roll by one, which would you do, you want to do one of those, or do you want to just do nothing?
+[0:59:15] Fancy Drak: I'm gonna, I'm gonna bump up the roll,
+[0:59:17] Ian Lurie: okay, to
+[0:59:18] Fancy Drak: a five
+[0:59:19] Ian Lurie: to a four, because he rolled a three
+[0:59:22] Speaker 5: four,
+[0:59:22] Ian Lurie: correct. Yeah,
+[0:59:24] Fancy Drak: what did you roll? Creegan Tango three,
+[0:59:28] Ian Lurie: yeah.
+[0:59:29] Fancy Drak: Okay, so you have 204
+[0:59:31] Ian Lurie: So you guys start to advance, and this was good. This was better than what was about to happen, and
+[0:59:39] Speaker 2: totally believe you.
+[0:59:41] Ian Lurie: Yeah, that pile of demons that just got done tearing apart the devils emerges those same kind of elephant-sized mosquito things, and they look at the group, and they look at the entire column, and they let out this low humming sound with their wings, and when they do that, you all feel this kind of sense of dread overcome you as your DM tries to find where he put that fucking demon, and now can't find it. Give me one second. Here,
+[1:00:27] Speaker 2: he lost his demon. I
+[1:00:29] Ian Lurie: did. Oops, that was not what I meant to do. Sorry,
+[1:00:40] Fancy Drak: it's never where you think you left it.
+[1:00:42] Ian Lurie: No, it's always in the last place you look.
+[1:00:44] Speaker 2: You check the demon, demon drawer, no
+[1:00:48] Speaker 6: freezer next next to your keys,
+[1:00:50] Ian Lurie: demon couch,
+[1:00:52] Speaker 6: freezer next to your keys. Just me, no,
+[1:00:58] Ian Lurie: no
+[1:00:59] Speaker 2: keys, glasses, demons. Yeah, we all checked their Wing Eagle House.
+[1:01:02] Ian Lurie: Okay, all right. So this droning sound emerges from these Casime demons, which is what they're called, and two of the mobs, mobs one and two, as well as the Vanguard and the Scout, all need to give me DC 12 con saves, so whoever wants to roll those con saves for the mobs, go for it. It's just a straight D 20 roll
+[1:01:33] Speaker 3: for
+[1:01:36] Fancy Drak: them, Scout, right?
+[1:01:41] Speaker 2: Right. Am I within 10 feet of Richter?
+[1:01:44] Ian Lurie: No,
+[1:01:45] Speaker 2: okay.
+[1:01:46] Ian Lurie: Victor's at the other end.
+[1:01:48] Speaker 6: Could I use one of my lucky points?
+[1:01:51] Ian Lurie: Yep. On who? On yourself or on the mob
+[1:01:57] Speaker 6: on the roll?
+[1:01:59] Ian Lurie: Well, okay. But there's a save for you, you can use your luck point on that, and then there's the saves for the two mobs, which you can't use it for.
+[1:02:07] Speaker 6: Oh, I thought they were all for the mobs. Okay, hold on, explain this to me again.
+[1:02:10] Ian Lurie: Okay, each for okay, before anything else, Vanguard and Scout, you both need to give me a DC 12 con save.
+[1:02:17] Speaker 2: Oh, I failed,
+[1:02:18] Ian Lurie: you failed
+[1:02:19] Speaker 3: 15.
+[1:02:20] Ian Lurie: Okay, okay. So one of you succeeded, the other one didn't. I'll tell you what happens in a second. Now, mobs one and two need DC 12 con saves, so whoever's rolling, whoever wants to, you can roll for them or I can. It's up to you, but given that I always roll. Okay,
+[1:02:39] Speaker 3: perfect.
+[1:02:39] Speaker 2: High dice occurs tonight. We're not doing that.
+[1:02:42] Speaker 5: First one is 12 on the dot.
+[1:02:45] Ian Lurie: Okay,
+[1:02:51] Speaker 5: next one is 24 Bose
+[1:02:53] Ian Lurie: rolled a.. how did they roll 24
+[1:02:57] Speaker 10: Wait, wait. Oh, you with DC
+[1:03:00] Ian Lurie: Bobs? It's a DC 12 roll, but it's the.. I
+[1:03:04] Speaker 3: was,
+[1:03:04] Ian Lurie: you're just..
+[1:03:05] Speaker 5: I was adding my own save,
+[1:03:06] Ian Lurie: okay? You're just rolling a d1
+[1:03:08] Speaker 5: so the second.. so the segment was 15. Sorry,
+[1:03:10] Ian Lurie: okay? So they both succeed. I was gonna say, wow, they're amazing. Um, okay, so the mobs both make it. um, Mossy, you fall unconscious, and if you, if no one does anything, you are unconscious for 10 minutes.
+[1:03:27] Speaker 2: Oh, shit.
+[1:03:30] Ian Lurie: Now, with that, you're the vanguard, right?
+[1:03:35] Fancy Drak: Yep,
+[1:03:35] Ian Lurie: yeah. Okay, so there cannot be a press on order this round. So, what order would everyone like to give, since you can't press on, you can hunker down, you can have them fire a volley of arrows into something, you can have them bear the wounded, which doesn't really make any difference right now, because you don't have anyone that badly injured, although they could pick up Mossy and carry her, or you could have them flail, you could have them do their, their cornered, you know, melee attack.
+[1:04:08] Speaker 5: I said, 'Bury the wounded.
+[1:04:09] Fancy Drak: Can we say hunk of down? Well, I could send Surah to do the help action to Mossy
+[1:04:21] Speaker 2: little tiny dinosaur slaps wake up, yeah.
+[1:04:24] Ian Lurie: Mossy is Mossy is unconscious for 10 minutes unless someone uses healing magic or remove curse or something else on her.
+[1:04:36] Fancy Drak: Okay, we can sit in that case, we can,
+[1:04:40] Ian Lurie: and you'll have to do that, actually, no, yeah, you can do that this round on this beat, but
+[1:04:49] Fancy Drak: we can
+[1:04:49] Ian Lurie: decide what order you're giving to, I
+[1:04:53] Fancy Drak: would say hunker down into a defensive position, kind of like circle wagons,
+[1:05:01] Ian Lurie: okay,
+[1:05:02] Fancy Drak: I and then I will drop a a healing spell on Mossy,
+[1:05:15] Ian Lurie: okay,
+[1:05:19] Fancy Drak: and
+[1:05:22] Speaker 2: do I take damage with that too, or no?
+[1:05:24] Speaker 3: Oh, I
+[1:05:28] Fancy Drak: mean, I can roll, I can roll, I can roll it, but
+[1:05:31] Ian Lurie: oh, I'm sorry. The effect on the creature ends if it takes damage, so you could have Sarah run over and just bite her, yeah, gently,
+[1:05:39] Fancy Drak: yeah, or aggressiveness,
+[1:05:43] Ian Lurie: yeah, or not gently. Yes. Okay, so sir, roll an attack against Mossy.
+[1:05:50] Fancy Drak: Okay, crit. Yeah,
+[1:05:54] Ian Lurie: just disembowels Mossy.
+[1:05:57] Fancy Drak: That is a dirty 20.
+[1:05:58] Ian Lurie: Okay, so and Mossy's, so I'm sure that hits, so roll damage on the lightest attack you can give.
+[1:06:08] Fancy Drak: Okay, sorry, Mossy,
+[1:06:13] Speaker 2: that's all right.
+[1:06:15] Fancy Drak: All right, so 11 points damage,
+[1:06:17] Speaker 1: totally
+[1:06:18] Ian Lurie: okay.
+[1:06:20] Speaker 11: She bit my foot real hard. She
+[1:06:23] Fancy Drak: was doing biscuits.
+[1:06:26] Speaker 2: I don't think she could bend down far enough to do biscuits without bonkers snoot.
+[1:06:32] Fancy Drak: She tried,
+[1:06:36] Ian Lurie: okay, so the Doom clock does advance one tick, basically the Casimir demons, when they do their drone, send a signal down to the demons on the chains and tell them to speed up, because you've made it, you've already advanced pretty far. So the demon, this just again, this just sea of demons that's flowing up from the land of Avernus just starts to swarm up the chain, and it's demons of all sizes. Shepherd, give me your, give me a DC 15 charisma, or persuasion, or intimidation, or performance, I
+[1:07:26] Speaker 5: It's going to be performance, and that's an 18,
+[1:07:28] Ian Lurie: okay? So nobody else loses their ship because of the Casimir demons. You, you rally them around you, and you say, "Don't you know, don't fear these demons. And now, rear guard, you don't actually have to roll, because everyone hunkered down, so there's no.. actually, I'm sorry. Yes, you do. You still need to make a roll against the weather, basically the conditions around you. Okay? One
+[1:07:58] Speaker 3: minute,
+[1:08:00] Fancy Drak: my children didn't do the one thing I asked them to do. Okay, hold right back.
+[1:08:06] Speaker 6: Speck them hard, dream like massive
+[1:08:13] Ian Lurie: Craigen
+[1:08:14] Speaker 2: eight children,
+[1:08:15] Speaker 6: that's a, that's a 17 plus nine athletics is twice
+[1:08:21] Ian Lurie: okay, so no,
+[1:08:28] Speaker 7: I intimidate, but there's a difference.
+[1:08:39] Ian Lurie: What's well Well, no, that's right. So, someone give me a d8 for the next B.
+[1:08:47] Speaker 6: That's mozzie
+[1:08:50] Speaker 2: six.
+[1:08:55] Ian Lurie: Okay, so we need to wait for our scout now.
+[1:09:00] Speaker 6: Let me just automatically gets to see, since he's got like a plus 37
+[1:09:03] Ian Lurie: Yeah, that's really annoying, by the way.
+[1:09:07] Speaker 6: I thought I was annoying at plus 11
+[1:09:13] Speaker 2: again. I can roll a 47 itself. Fight me, you will never find me,
+[1:09:21] Speaker 3: but sorry
+[1:09:22] Ian Lurie: to good. We need a scout check from you. James rolled a six for the surge check,
+[1:09:33] Speaker 2: and he used my hand to do it.
+[1:09:36] Fancy Drak: 3232
+[1:09:38] Ian Lurie: You all,
+[1:09:40] Fancy Drak: yes,
+[1:09:41] Ian Lurie: just sheer capriciousness on
+[1:09:43] Fancy Drak: the suite.
+[1:09:44] Ian Lurie: He just murders you all, so on a 32 you can either advance the surge table up one number, and just a quick hint is that advancing by one here doesn't necessarily help, it's about the same as far as potential issues, and you'll be able to grant advantage to one ally if needed.
+[1:10:12] Fancy Drak: Okay, what was the surge role? The
+[1:10:15] Ian Lurie: surge roll was a six. You can,
+[1:10:18] Speaker 3: okay,
+[1:10:19] Ian Lurie: you can reroll the surge completely, we high
+[1:10:23] Fancy Drak: is good, right?
+[1:10:24] Speaker 2: High is good.
+[1:10:25] Fancy Drak: Okay, yeah. I mean, let's bump that up to a seven.
+[1:10:28] Ian Lurie: Okay,
+[1:10:29] Fancy Drak: they may not have any material effect, but I feel like I'm doing something.
+[1:10:33] Ian Lurie: No, absolutely. Okay, one of the Kasmy demons is looking straight at you and gets ready to swoop in and grab, actually, sorry, a bearded devil comes running out of the wreckage and looks to grab someone straight out of the column, but just as they're about to grab them, a Kasmi demon swoops down on the bearded devil and drags it away screaming, the Casimir demon then lands on a high rooftop, where it starts feeding on the devil, but at the same time keeps an eye on you guys, and you get the sense, Scout, that because you've done this, as long as it's looking at you, you've got a problem, because it's going to just, it's going to kind of track you, so you need to either, you're going to need to either someone's going to have to either kill it or get the get the rest of the column where it can't see you or somehow break line of sight or do something like that
+[1:11:42] Speaker 6: Craig is going to walk up and get its attention,
+[1:11:49] Ian Lurie: okay.
+[1:11:50] Speaker 6: And then he's going to cast mislead and walk away.
+[1:11:59] Ian Lurie: Let's start with how you get its attention, so when you say get its attention, you need to make it look at you, or yep,
+[1:12:18] Speaker 6: I am going to thaumaturgy against the wind in its face.
+[1:12:26] Ian Lurie: Okay, so I'm gonna say that doesn't work, or rather the gust of wind hits it in the face, but then it kind of looks around, and it doesn't really look towards you in particular. Does it have to be looking at you to be misled?
+[1:12:49] Speaker 6: No. What mislead does is it turns to be invisible and creates an illusion of myself in this case walking away.
+[1:13:00] Ian Lurie: Just give me a performance check.
+[1:13:02] Speaker 6: Great,
+[1:13:03] Ian Lurie: because this
+[1:13:04] Speaker 6: is going to be tortilish. I'm going to use a look point that's not much better. It's a 15,
+[1:13:20] Ian Lurie: okay, that does not work. It makes its check. It is very focused on the column. There's 50 mortals in front of it, and its job, in part, is to find and kill mortals, and to tell other demons where there are mortals to kill, so it is very focused on the whole column. So you try that, and it just doesn't quite, doesn't quite work. Sango, sorry, Craig, and that means you can't do your rear guard action this round, because you've taken an action. Rich, are you still there?
+[1:14:11] Speaker 5: Yes, sir. I'm here.
+[1:14:12] Ian Lurie: Okay. Why don't you give me your Shepherd check again?
+[1:14:16] Speaker 5: That's going to be a 21
+[1:14:21] Ian Lurie: all right. So you make it now. Is there anyone? Well, actually, now, so what order do you want to give the group? This is a group question for everybody. Do you want to press on? What do you want to do?
+[1:14:38] Speaker 2: I mean, pressing on probably is our benefit, because Doom clock,
+[1:14:42] Ian Lurie: yeah, yeah, you do. You definitely can't afford to just sit still.
+[1:14:50] Fancy Drak: I can drop a fog cloud, which isn't aggressive, but it just breaks all lines of sight, and it is a 4040 foot diameter, you know, like basically they are blind, they can't see, they can't target anything until they leave the area, so Which would allow Richter to get the move up command, and it breaks line of sight.
+[1:15:31] Ian Lurie: Well, Richter is not the Vanguard right now. Richter can't do that.
+[1:15:35] Speaker 5: Okay.
+[1:15:36] Ian Lurie: Oh, in fact, that's right. No one can give the press on command this round. Sorry, because Mossy was down at the beginning of the round, right? She'll get at the end of this round.
+[1:15:48] Fancy Drak: Okay, in that case, I think dropping the fog cloud would still be smart, because it'll break immediately, break up the line of sight. I will mark that spell off,
+[1:15:55] Ian Lurie: and the Doom clocks are already going to tick up, because you didn't advance one. So, okay. Okay,
+[1:16:03] Fancy Drak: it is a 40 foot, 40 foot sphere of fog center on that point of the demon.
+[1:16:14] Ian Lurie: Just dropping it right on the Cas, me demon. Okay, all right. Rear guard, is there anyone in rear guard now?
+[1:16:23] Speaker 6: Yep, saying that's back there. All
+[1:16:24] Ian Lurie: right, saying, oh, give me an athletics check.
+[1:16:27] Speaker 6: This is gonna be amazing.
+[1:16:31] Speaker 2: Did you have his cloud teams do this morning?
+[1:16:34] Speaker 6: That is a total of four. Okay.
+[1:16:38] Fancy Drak: No, you did not. All
+[1:16:41] Ian Lurie: right. Well, you're not quite at a morale check yet, so that's good, but this time around you just as just as Jack drops the fog cloud and Richter is kind of keeping everybody organized and together, even though they all saw Mossy go down, the what's left of the battle, you know, the remaining Kasmi demons, they go to take off, and when they do, they just spray burning embers everywhere, and those burning embers settle over the column, and all the mobs take again a little bit of damage, but they're starting to realize that those little bits of damage could add up, and you can see some panic starting to set in, but so far everyone's still calm. So next round, give me another d8
+[1:17:42] Fancy Drak: roll rolling
+[1:17:46] Speaker 5: six,
+[1:17:48] Ian Lurie: all right, and now Scout, give me your, you know, roll me your usual 452.6
+[1:17:59] Fancy Drak: 33
+[1:18:00] Ian Lurie: okay, um now you can do one of those few different things again. You can increase it, one re-roll it, and you have an advantage to give to someone.
+[1:18:13] Fancy Drak: Okay, I'll increase it.
+[1:18:15] Ian Lurie: Okay,
+[1:18:16] Fancy Drak: and I'll save that advantage.
+[1:18:18] Ian Lurie: Okay, so this is wrong window again, so that Cassie demon takes off, flies, and lands at a building. One lands, one basically flies right out of the fog, gets lucky, and lands in the place where it can keep its eye on you again. So it reestablishes line of sight, but the Doom clock doesn't tick up because it didn't maintain line of sight for two rounds, so that's, you know, that's basically a wash, and now you guys can give an order to the group. All
+[1:18:53] Speaker 2: right, press on.
+[1:18:55] Ian Lurie: Okay, give me a roll, do
+[1:19:05] Fancy Drak: Advantage.
+[1:19:07] Speaker 11: No, I love you.
+[1:19:11] Speaker 2: Just rolled two natural ones.
+[1:19:16] Speaker 12: Oh,
+[1:19:19] Ian Lurie: so on a natural,
+[1:19:20] Speaker 2: all of my dice are in jail.
+[1:19:22] Ian Lurie: On a natural one, you go to advance everybody, and just as you do, all the Kasmy demons take off and fly around the front of the column, and they kind of menace the column, and then they all fly up onto the rooftop next to that one that's been watching you, they just glare balefully down on the column, and people start screaming and freaking out, because this, this is, you know, they're just these are civilians, they're not used to this. So, somebody give me four five, just roll 5d 20, and tell me what each role is.
+[1:20:01] Fancy Drak: No, someone else, my tights are cursed
+[1:20:07] Ian Lurie: against morale.
+[1:20:10] Fancy Drak: Got an 18.
+[1:20:11] Ian Lurie: Okay, good.
+[1:20:13] Fancy Drak: I got a 10.
+[1:20:14] Ian Lurie: Not good,
+[1:20:17] Fancy Drak: I got a 12.
+[1:20:19] Ian Lurie: Good. Oh, no, wait, no, not good,
+[1:20:24] Speaker 10: good, 15,
+[1:20:25] Ian Lurie: good,
+[1:20:26] Fancy Drak: and 14,
+[1:20:27] Ian Lurie: not good. All right, so three of these groups start to panic. Richter, you, as the shepherd, can rally one of these mobs, so you need to tell me what you say, and then give me that DC 15 check, but I'll give you a bonus to it, depending on what you, you know, how you do it. So just tell me how you go up to this group. You've got three groups, three mobs that are starting to panic and break as they're looking up, and you know, you see one of them starting to sort of, they're sort of whispering to each other, like we should have stayed in the armory, you know. This is, this is bad. We're all going to die out here.
+[1:21:07] Speaker 5: Richter sees that one of the panicking mobs has the child that Sango went and saved, so he walks up to the child that's her on the shoulder and looks around and says, Are you going to be any less courageous than this child who ran into an alleyway to save a precious doll? I know that you are just as if not more courageous. So, let's buck up and let's get going.
+[1:21:36] Ian Lurie: Okay, give me your DC, your charisma role, I 22 okay? One person says, 'Well, put her in charge. Then, God damn it, JP barely beat me, but everybody, they calm down, and that one group goes from wavering back to steady, so the group, you know, you get that one group, so that they're, they're in good shape now. Nobody is actually, you know, on the verge of breaking and running, they're just kind of at a point where they're definitely more nervous, and they may not follow instructions quite as quickly as you had hoped. So, rear guard, give me your athletics check. Okay, so everybody's fine. No one takes damage. Just as a reminder, the next time someone does take damage, the next time anyone takes any damage at all, they're going to drop, they're gonna have to make another morale check, and they'll lose a point of morale, potentially. So it's starting to get a little bit, little bit tense here.
+[1:22:49] Speaker 3: Did you
+[1:22:49] Speaker 6: give them their, did you give them their 15 temporary points?
+[1:22:55] Ian Lurie: No, so they'd have to lose 11 more points, so they're actually okay. Never mind. Okay, give me another d8
+[1:23:16] Speaker 2: JP, you're the slow
+[1:23:18] Fancy Drak: one. Yeah, I was looking at other things. Six,
+[1:23:22] Ian Lurie: okay. And then give me your scout role,
+[1:23:29] Fancy Drak: 24 All
+[1:23:31] Ian Lurie: right, so you can once again raise it one. I'll remind you that if you raise it one, you end up with the wrong window again, which means that that same Cassie demon will still be tracking you, which would mean the Doom clock will advance by one,
+[1:23:47] Fancy Drak: right?
+[1:23:48] Ian Lurie: You can reroll, you can just say I don't do anything and just keep that advantage and give that advantage to someone if they need it.
+[1:23:57] Fancy Drak: I think I I feel like I should keep the roll and just keep the advantage.
+[1:24:07] Ian Lurie: Okay,
+[1:24:10] Fancy Drak: anyone else have any ideas? Or
+[1:24:13] Speaker 6: that was good to me.
+[1:24:14] Speaker 5: Best idea, because if we raise it one, same thing happens, except fume goes up to halfway there, so
+[1:24:22] Speaker 3: right
+[1:24:25] Ian Lurie: point at which some of these high rolls, which would normally be okay, they start to compound and it becomes more of a problem. What's your order going to be to the group?
+[1:24:39] Speaker 2: Russell,
+[1:24:40] Ian Lurie: okay, all right. Give me a roll.
+[1:24:43] Speaker 2: Okay, let this 1d 20 not be cursed. Oh, hallelujah, that's the 22
+[1:24:53] Ian Lurie: Okay, so you successfully advance one, but when you advance one, mom mob, and we'll say it's number two, because they're freaking out. They hesitate, they're not frozen and panicked, they just kind of hesitate. So the group kind of splits up a little bit, and they get separated because there's a piece of, there's a wrecked building between them and the rest of the column, Richter. You notice this, and if you want to, you can run back and get them, and bring them back up to the group. And to do that, you would make another shepherding roll
+[1:25:36] Speaker 5: to any.
+[1:25:39] Ian Lurie: You bring them back, no problem. That ran back and flexed a little bit. Yep, that does mean you can't rally the shaken. So these two groups are still panicked, but I'm not panicked, they're still wavering. But at least they're not isolated, and the column didn't break up, so that's good. Rear guard, make your roll
+[1:26:00] Fancy Drak: with advantage,
+[1:26:01] Ian Lurie: with advantage,
+[1:26:02] Fancy Drak: I'm assuming I can only use the advantage during this roll, this round,
+[1:26:05] Ian Lurie: correct?
+[1:26:06] Fancy Drak: So, please take advantage,
+[1:26:08] Speaker 6: but that's a 30,
+[1:26:10] Ian Lurie: okay? So, no damage taken. All right, give me your next DA roll,
+[1:26:21] Fancy Drak: great. That's a four,
+[1:26:25] Ian Lurie: all right. Scout, give me a roll.
+[1:26:32] Fancy Drak: Natural 20 or 37
+[1:26:34] Ian Lurie: Okay, you see those same Cassie demons who are just becoming the bane of your fucking existence, loop around and get ready to basically strafe the column with that drone that they used on Mossy. They're forming up and they're going to fly over the column in a V, and they're going to make that buzzing sound. You can warn the rest of the group, and then the group can decide what order to give. Basically,
+[1:27:03] Fancy Drak: I give them that warning.
+[1:27:05] Ian Lurie: Okay, so you can give a volley. Everybody will just think about what order you know what order you'd like to give the column, given what's about to happen.
+[1:27:20] Fancy Drak: The volley would be in lieu of advancing, right?
+[1:27:23] Ian Lurie: Yeah, whatever order
+[1:27:24] Speaker 5: you should
+[1:27:25] Ian Lurie: either be press on or something else. If they hunker, they hunker down, then I'll say that they will not be affected by the Cas drone. You can just press on, in which case they might have to just roll saves against the Casim's drone.
+[1:27:41] Speaker 2: If we hunger, we don't risk the two that are wavering going into panic,
+[1:27:46] Ian Lurie: correct?
+[1:27:47] Fancy Drak: And which choice would increase the doom clock?
+[1:27:57] Ian Lurie: Um, well, at this point you're in a tough spot, because if you advance one and you lose someone, the Doom clock will advance. If you don't advance, the Doom clock will definitely tick up, because you've been holding in these two in this area, basically for quite a while.
+[1:28:21] Fancy Drak: I feel like we need to advance, because this is this is this is a rock and a hard, hard place kind of situation.
+[1:28:28] Ian Lurie: As long as nobody breaks, yes, that's the right move. If somebody breaks, it could be a lot worse, right? Because you could end up with one mob just going running off into the ruins, and you could lose them,
+[1:28:42] Speaker 3: right? Okay,
+[1:28:53] Speaker 2: we gotta go forward.
+[1:28:55] Ian Lurie: You could also fight it out. You could stop here, you know, to two or three of you. You could pick a group of you to stay here and duke it out with the Casim demons, thereby letting everybody advance while you fight those demons. That means, though, that next round you won't be available for your roles, whatever those roles are.
+[1:29:17] Speaker 3: Okay,
+[1:29:19] Ian Lurie: that might actually be your most guaranteed way to avoid the clock ticking, because if you
+[1:29:24] Speaker 3: do,
+[1:29:24] Ian Lurie: then the party, the column can advance untouched by the demons, because the demons have to deal with you guys.
+[1:29:36] Fancy Drak: Who wants us? Who wants?
+[1:29:38] Speaker 2: I cannot, so I have to be there to give command. Richter will stay back.
+[1:29:44] Fancy Drak: Okay,
+[1:29:46] Speaker 6: Sango will stay back too, because Craig is got to be the one that does
+[1:29:51] Speaker 2: stay back though, and one breaks off or screwed.
+[1:29:56] Speaker 3: Okay,
+[1:29:59] Speaker 5: well, not
+[1:30:00] Ian Lurie: if you guys stay back and fight, no one's gonna break off. Yeah, okay,
+[1:30:11] Fancy Drak: okay. Back his murder, maybe you should get the advantage,
+[1:30:17] Ian Lurie: so you'll get your first attack, but so combat combats about, I think you just think
+[1:30:28] Speaker 2: I'm with the group, so don't worry about me,
+[1:30:30] Ian Lurie: okay? So you just want Richter and Sango to be in the fight against the Casimir demons,
+[1:30:40] Speaker 3: okay?
+[1:30:41] Speaker 6: Yeah, does that sound like a stupid idea? No,
+[1:30:43] Ian Lurie: they're punks.
+[1:30:44] Speaker 5: I mean, that go ahead. The
+[1:30:47] Ian Lurie: only question is whether you can put them all down in one round. There's four of them, but they're not that strong. They're, they almost certainly.. they can almost.. it's almost hopeless for them to hurt you. The question is, whether you can destroy them in one round or not, because if you get stuck fighting them for two rounds, that's more of a problem.
+[1:31:08] Speaker 6: Yeah, I don't know about that,
+[1:31:10] Fancy Drak: Richter. I think I've got, I've got a good dig, the Conjure Barrage, which is a cone attack, does really good damage, so all volunteers stay behind a fight,
+[1:31:29] Ian Lurie: so it's the three of you.
+[1:31:33] Speaker 6: No, the director wouldn't stay behind, just you're at the Sango,
+[1:31:41] Ian Lurie: what you want to do.
+[1:31:42] Fancy Drak: Yeah, do any of you guys have an area of effect attack?
+[1:31:47] Speaker 6: Sango doesn't nuts, but
+[1:31:57] Ian Lurie: think about,
+[1:31:57] Fancy Drak: okay,
+[1:31:58] Ian Lurie: that area of effect is, I don't have a map, but these are large creatures.
+[1:32:03] Fancy Drak: Okay,
+[1:32:04] Ian Lurie: and they're not in a nice neat line.
+[1:32:10] Speaker 5: And what are we losing by having the scout come out of the form of
+[1:32:14] Ian Lurie: change roles next round? So, Richter, you could be the scout, but you're losing that person with that really high perception.
+[1:32:21] Speaker 2: You could, you could, I could go scout, and you could vanguard, you would be very good at Vanguard,
+[1:32:28] Ian Lurie: you would be a very good fan,
+[1:32:29] Speaker 2: so we could pivot that.
+[1:32:33] Ian Lurie: Okay, so then Sango and Drac, you're fighting the demons, Richter, you're changing to Scout or to Vanguard, Mossy, you're changing to Scout.
+[1:32:44] Fancy Drak: Yep.
+[1:32:45] Ian Lurie: Okay, so you're going to have a rear guard. You're going to have next round, you'll have a rear guard, a Vanguard, and a Scout. You're not going to have a Shepherd. You're not going to have a shepherd
+[1:33:01] Speaker 5: that's all right, since we don't have anyone super
+[1:33:04] Ian Lurie: no
+[1:33:05] Speaker 5: down in tomorrow.
+[1:33:06] Ian Lurie: Just means you can't improve the wavering roles, okay? All right, so now Sango and Drac give me initiative
+[1:33:21] Fancy Drak: 17. okay,
+[1:33:23] Ian Lurie: 23 All right, I got a
+[1:33:25] Fancy Drak: nice..
+[1:33:26] Ian Lurie: sorry, I got a 20. So single, you go first. Basically, Richter, you moved the entire group forward, and in fact, let's see, who just took the Vanguard role? Richter did. So, Richter, give me a charisma check.
+[1:33:59] Speaker 5: That's.. oh, wait, I haven't. Did you give me the advantage?
+[1:34:05] Ian Lurie: Track
+[1:34:05] Speaker 5: JP.
+[1:34:07] Fancy Drak: Yes.
+[1:34:08] Speaker 5: Okay.
+[1:34:08] Fancy Drak: Yes, I did.
+[1:34:10] Speaker 5: All right, that's much better than that's 17.
+[1:34:13] Ian Lurie: So, tell me what you say to everybody, because these demons are swooping in on the column. Everyone's starting to panic again. Drax and Sanyo are stepping up to get between the demons in the column. What do you say to everyone to make sure they move forward?
+[1:34:31] Speaker 5: Victor's going to look around and do that thing that really good teachers do, and even if they can't glance at everyone in the class, everyone in the class thinks they're looking at them individually, and Richter just goes, the reason we stopped is we believe in you, we believe in how important you are, and we believe in your safety, but I need you to believe as much as we do, and I need you to, no matter what, don't look back, only look forward, and put one foot in front of the next, and danger will be left behind.
+[1:35:13] Ian Lurie: Okay, and with that, they all advance, leaving Sango and Drac to deal with the Kasmy demons. So, there are four of these demons. They are spread out evenly, you know. They're each large, so that means they're spread out across about 80 feet wide as they start to form sort of a semi circle and come diving down towards you guys,
+[1:35:45] Speaker 6: Drax back there with with Zygo, right?
+[1:35:50] Ian Lurie: Yeah,
+[1:35:51] Speaker 6: okay, Zygote doesn't have much like area stuff. so he, Jack, you see him pull out the voice that calls, he looks at you hesitantly, because he doesn't know if this is a good idea to use here, he
+[1:36:24] Ian Lurie: I have no idea where this is going, and I love
+[1:36:26] Fancy Drak: it. Neither do I. Okay,
+[1:36:31] Speaker 6: he's looking hesitantly at you for
+[1:36:33] Speaker 3: some
+[1:36:33] Ian Lurie: sign, whether you should use it or
+[1:36:35] Speaker 6: not. In hell,
+[1:36:38] Fancy Drak: I am focused on the enemies, no help at all. No help. Jackson tactical mode, he's got the black,
+[1:36:58] Speaker 3: he
+[1:37:02] Speaker 6: He pulls the horn up, and he blows it.
+[1:37:06] Ian Lurie: Okay,
+[1:37:08] Fancy Drak: three targets,
+[1:37:14] Speaker 6: okay? Three selected targets need to make a DC 15 wisdom save, or be frightened for five minutes,
+[1:37:26] Ian Lurie: two of them fail and go flying away, absolutely losing their shit. One of them succeeds, looks at the other two that have just flown away, and looks annoyed. I'm going to roll to see which two flew away, number two, number one. So it works out well for you guys, because the basically the two on the left fly away, leaving nicely grouped together. So you guys are advancing, you're moving the column forward, Richter, and then you hear this horn, just beautiful, silvery, clear sound of a horn, and for a moment the clouds above you part, and there's light from all the way up above ground in Silgerin, and for a moment you'd swear you can see all the way up to the surface of Praxia from down here, and as they part those beams of light that come down each spear one of the Casimi demons, and when they do, the demons just freak out and fly away, just shrieking in terror, the other two slow down for a second, and then begin resume their dive. They come down, and both Sango and Drac need to give me DC 12 con saves.
+[1:38:55] Speaker 6: Well, that's your con is plus 11.
+[1:39:01] Ian Lurie: That's a 24 okay. So you both save, you don't fall unconscious. And then they each attack, one of them tries to sting you, Sango, and the other one tries to sting Drac. They get a 14 and a 17, so they miss badly. You think that they basically both come at you with these stingers that are about five feet long, and you think if they did hit you, it would be really unpleasant, but they just can't seem to. They just don't seem to have the accuracy, and then they zoom away from you and fly back up into the air, drag it's your turn.
+[1:39:43] Fancy Drak: Okay, I'm going to maneuver to a point, because I've got a 60 foot cone.
+[1:39:49] Ian Lurie: Okay,
+[1:39:50] Fancy Drak: on a maneuver where I can get hit both of them at the same time. Okay,
+[1:39:56] Ian Lurie: not
+[1:39:56] Fancy Drak: okay. I'm going to do conjure a barrage, conjure barrage. Okay, which is a decks save of 19. Each of them,
+[1:40:09] Ian Lurie: the boy, one of them actually saves, the other one does not. I have a plus five deck save. Damn,
+[1:40:18] Fancy Drak: okay, do Just good, okay. 34 points of damage,
+[1:40:36] Ian Lurie: okay.
+[1:40:36] Fancy Drak: For whoever did not save,
+[1:40:38] Ian Lurie: okay.
+[1:40:39] Fancy Drak: 27 points of damage forever did save
+[1:40:41] Ian Lurie: all right, that was unpleasant, but actually they are both still up.
+[1:40:46] Fancy Drak: Okay,
+[1:40:50] Ian Lurie: so that's it for this round. We're gonna go around to another beat, and then we're gonna come back to you guys for the combat. The Doom clock does tick up one, because we have a fight that just continued beyond one round, which means that the demons, again, as they're swarming the chains, have received a message that the column is there, and they don't know, of course, that you're trying to rescue. Well, they don't care that you're trying to rescue these people, they don't want these souls around, so they're coming up to try to wipe them out, no matter what you do, so even I guess, kind of weird, because someone give me another search role on a d8
+[1:41:29] Speaker 6: okay,
+[1:41:31] Fancy Drak: that's a three,
+[1:41:35] Ian Lurie: okay, and then who's the scout now?
+[1:41:39] Speaker 2: Yep,
+[1:41:40] Ian Lurie: okay,
+[1:41:42] Speaker 2: and this is a perception
+[1:41:44] Ian Lurie: DC 18 perception. Yes,
+[1:41:48] Speaker 2: natural 29
+[1:41:50] Ian Lurie: Okay, so it's a year three. You can advance that by one.
+[1:41:58] Speaker 9: Okay,
+[1:41:59] Ian Lurie: and remember, lower is definitely worse, or you can re-roll it, but you'll have to accept the re-roll, and then you will have an advantage to confer this round as well.
+[1:42:10] Speaker 2: I feel like we should gamble on a reroll. What we think, kids,
+[1:42:16] Speaker 3: go for it.
+[1:42:17] Fancy Drak: Not rolling
+[1:42:20] Speaker 6: it. I rolled it first. So, three,
+[1:42:26] Speaker 2: dammit.
+[1:42:28] Ian Lurie: Okay, we'll come back to that in a second. So, what's your order for everybody is the first thing,
+[1:42:43] Speaker 3: Richter.
+[1:42:45] Ian Lurie: So, press on.
+[1:42:48] Speaker 2: No, it's whatever Richter says. He's the Vanguard now.
+[1:42:51] Ian Lurie: Well, yeah, but the party gets to decide. But, yeah, if, if you want to press on, Richter makes that rule.
+[1:42:57] Speaker 5: Yep, let's press on. I feel like, yeah,
+[1:43:00] Ian Lurie: so as you give that order, this huge chunk of road breaks open in front of the group, you know you need to move them, or they're going to be trapped by this. So, do your role, and then, and tell me what you say at the same time, because people are, they see that the road is starting to give around them.
+[1:43:28] Speaker 5: What's what's the role I'm supposed to make here?
+[1:43:30] Ian Lurie: A DC 15 charisma,
+[1:43:34] Fancy Drak: you might have an advantage to give out.
+[1:43:37] Ian Lurie: You do have an advantage to confer. Yes,
+[1:43:40] Speaker 2: I give you advantage,
+[1:43:42] Speaker 3: then.
+[1:43:46] Speaker 5: Oh, God bless you for that. Because there was a natural one in there that's going to be a 16, and Richter is just going to turn around and without yelling. yelling, without raising his voice, but still conveying how important this moment is. He's going to look at one, just says run as fast as you can forward.
+[1:44:15] Ian Lurie: Okay, so you do that, and it's a good thing, because basically this crack opens and boiling up out of this crack, just surging up out of it, are hundreds of these really small demons. They're about this big, and they almost look like small dogs with huge mouths on them, filled with these razor, razor sharp teeth. They come blowing up out of this crack, and just trying to swarm over all of the groups. Four of the five mobs just get away clean. One of them, mob two, does get caught by it, but they would normally roll their deck save with disadvantage because they have packed ranks, but because of your success, they're just going to roll a 10 damage, taking only two, so they are fine, because they still have nine hit points that they can lose without even falling, you know, without losing any points, so everybody presses on, you Sango and Drac, you're still back at number six, and we're going to come back to you in a second. Do you guys have a rear guard right now? I don't think you do,
+[1:45:36] Speaker 6: Craig.
+[1:45:38] Ian Lurie: Oh, Craig, and wait, so then what? Don't you have Shepherd, Shepherd, that's right, that's right. Okay, Craig, and give me a rear guard roll
+[1:45:55] Speaker 6: 16.
+[1:45:56] Ian Lurie: Okay, so you make that so the weather does not affect anyone. No one takes.. I don't know why I called it Weather, but nothing takes any damage from the ambient conditions.
+[1:46:06] Speaker 6: Nope, sorry, that was a 18.
+[1:46:08] Ian Lurie: Okay, still okay. So now back to Drac and Sango and the Cassie demons. So they are badly wounded, they loop around getting ready to attack Ian. Sango, it's your turn.
+[1:46:22] Speaker 6: My guiding bolt first, the one that's got the more damaged,
+[1:46:31] Ian Lurie: I think they both have the same, but that's
+[1:46:34] Speaker 3: okay. Okay,
+[1:46:36] Fancy Drak: one failed and one didn't fail, so one like 37 points damage deal, okay. Oh,
+[1:46:43] Speaker 6: I suppose I should roll a hit first.
+[1:46:48] Ian Lurie: That is a 16 to hit two sets.
+[1:46:54] Speaker 6: Okay, so that is a 12 points of radiant damage.
+[1:47:00] Speaker 4: Okay, do Whichever
+[1:47:04] Speaker 6: one was hurt the most. Yep,
+[1:47:08] Ian Lurie: so that hits it and hurts it. It does not bring it down. Drag to your turn
+[1:47:14] Fancy Drak: again, since it's a guiding bolt, I get advantage of that one, right?
+[1:47:19] Ian Lurie: Yeah,
+[1:47:20] Fancy Drak: okay, I that would be a 24 to hit
+[1:47:25] Ian Lurie: that hits
+[1:47:28] Fancy Drak: real quick. I'm going to hop, pop a hunter's mark on the other
+[1:47:32] Ian Lurie: one. Okay,
+[1:47:36] Fancy Drak: all right, that would be a 17 points of damage to the first one.
+[1:47:43] Ian Lurie: Okay, that one crashes to the ground with an arrow through its throat,
+[1:47:52] Fancy Drak: and the second one is a natural 20
+[1:47:54] Ian Lurie: dough boy. Okay,
+[1:47:56] Fancy Drak: nice princess.
+[1:48:03] Speaker 3: 10
+[1:48:06] Fancy Drak: five five and 530 points attach. It also
+[1:48:12] Ian Lurie: takes an arrow in the throat, but it is just hanging on, and actually I forgot, but they both get to attack you before you kill them, and they both miss, so they can't hit you. There's pretty much no hope. All right, so one of them is still up, but the other one is the other one's dead. So, Doom counter ticks up again, because the demons know what's going on right now. It's pretty close. Got four out of six, you guys have four to go. Just have to try to not have any huge mishaps hit you now.
+[1:48:52] Fancy Drak: Give a few minutes.
+[1:48:53] Ian Lurie: Call me a d8
+[1:48:59] Speaker 5: All right, do
+[1:49:08] Ian Lurie: Okay, and Scout, give me a roll.
+[1:49:15] Speaker 2: What I need to make,
+[1:49:17] Ian Lurie: you are rolling perception, DC 18. Perception.
+[1:49:32] Speaker 2: Now I miss it.
+[1:49:33] Ian Lurie: Okay. All right, so you got to take whatever the role is, the role in this case is once again, so one of one of the this time instead of a Cas, me demon of rock is up on the rooftops in Ari. Oh, actually, this is double held, so a bearded demon up in a window, two guys, and waves at his troops to say, "Quick, their souls, go get them. And a troop of demons starts to head for the column. They're not there yet. This does not advance the doom clock, because the demons, the devils, are not there to wipe you out, but you also don't advance this round, or sorry, no, I'm sorry, you could still advance Vanguard. Give me a charisma roll, assuming that's the order you want to give,
+[1:50:41] Speaker 5: that's going to be eight,
+[1:50:43] Ian Lurie: okay, an eight, all right.
+[1:50:46] Speaker 3: Do
+[1:50:47] Ian Lurie: not advance, and that does advance the Doom clock. So things are getting intense now. You hear the screaming sounds from across the city as the first ranks of the demons have come swarming up through one of the chain rooms, they overwhelm the bearded devils that are in the chain room, operating the chains, and start running across the city at you. You can't see them yet, but you can hear them, and the ground is actually vibrating under your feet. You also see the bearded devil that was in the window start shouting orders, and you see, well, you're not sure what exactly you're seeing, but you see a bright red light flare close to the commons, and some shouting an abyssal that echoes through the entire city. It's like it's you almost put your hands over your ears, it's so loud. Wait, I
+[1:51:42] Speaker 2: think you'll still have concrete languages, though, so I would
+[1:51:45] Fancy Drak: be able to
+[1:51:45] Speaker 2: understand them.
+[1:51:46] Ian Lurie: Okay, then you hear someone say forces of Zariel rally to me, Zariel being the devil that runs this level of of the nine hells.
+[1:51:59] Speaker 3: Cool
+[1:52:00] Speaker 2: party line maps with the
+[1:52:02] Speaker 6: Richter, having the banner out to help us out in this situation.
+[1:52:07] Speaker 2: Oh, wait. Question, sorry. It
+[1:52:08] Ian Lurie: ensures that devils are not attacking you guys.
+[1:52:13] Speaker 3: Okay, the
+[1:52:14] Ian Lurie: devils are not attacking you guys. Remember,
+[1:52:17] Speaker 5: still have the still have the demons that we have to continue. Don't give a damn about the banner.
+[1:52:23] Ian Lurie: Yeah,
+[1:52:26] Speaker 2: if I were to drop down the goggles, would I have advantage on my perceptions?
+[1:52:35] Ian Lurie: No, but if you would see anything, you'd have true sight. So, you'd see anything that's hidden. I'm not sure if true sight gives you advantage on perception or not, you look up. No, okay. You'd be able to see things that are hidden, but you wouldn't necessarily be able to see, get an advantage on perception. Okay, so rear guard, this is a really wrong role. Yep, yep, DC 15 athletics, that is a 23 damage taken. Nothing pulls anybody off the back of the back of the pack roll, another 88 All right, four. Okay. Then this gimme your roll
+[1:53:58] Speaker 2: 26
+[1:53:59] Ian Lurie: Okay. So no problem there. You can advance the roll by one, so from four to five, you could reroll, or you could reroll, or you could do nothing. And you can prefer advantage this round. You want to advance the roll by one.
+[1:54:19] Speaker 2: Yeah, okay, I'm gonna advance the role by Black
+[1:54:23] Ian Lurie: as the guy who wants you to win. All right, so this is a breach, meaning as the demons come swarming up the chain, another group of demons runs across the street in front of you, even though this is a devil-controlled area, and tries to attack the devil's window that was showing orders, not realizing that it's not just one bearded devil, it's actually an entire unit of 10 of them. This huge brawl breaks out, no one sees what the hell is going. And Richter, tell me what you tell the group to move them forward, I
+[1:55:08] Speaker 5: Richter is going to pull out, he's going to take it, and as he sees these devils and demons fight, he's going to take it and throw it at one, and just hit it, and then he's going to look at the pack and say almost there, we can do this together, all we need to do is continue to believe and fight, and then he snaps his fingers and bastion comes back into his hand, and he points from me, says, Let's go
+[1:55:39] Ian Lurie: favor, give me an attack roll.
+[1:55:41] Speaker 5: Yes, sir, that's gonna be a 30.
+[1:55:46] Ian Lurie: Okay, and then give me damage.
+[1:55:49] Speaker 5: Oh, yes, sir, that's gonna be 19 points of radiant damage.
+[1:56:03] Ian Lurie: This little dog demons that came out of this, out of the crack in the ground, those are called dretches, and they're sort of the most basic level of demon. And they hit one with Bastion, and it just goes and just vanishes. There's just this, this rushing of air as the universe forgets it ever existed. There didn't even ichor on the ground. There's this bright flash from Bastion as it hits, and then Bastion recalls to your hand, and the entire column just kind of quietly moves forward, just sort of like, okay, sure, yeah, you're in charge. What I said, and rear guard, give me a roll.
+[1:56:48] Fancy Drak: You got this,
+[1:56:52] Speaker 6: 23
+[1:56:52] Ian Lurie: Okay, no damage taken. All right, so now we're back to the combat Sango. You got one left. It's just kind of limping along in the air there.
+[1:57:07] Speaker 6: I think that's another guiding bolt, like a 26 or something.
+[1:57:17] Ian Lurie: It explodes, it doesn't. It's gone. I'll just say you two of you can back up next round, so you won't have a shepherd next round still. But after this next round, you'll have everybody back.
+[1:57:35] Fancy Drak: Real gas question.
+[1:57:37] Ian Lurie: Yep.
+[1:57:38] Fancy Drak: What if I hop on Surah, and she dashes for her action with Zephyr Strike, so that would be 90 feet dashed 180 feet in one round,
+[1:57:58] Ian Lurie: so
+[1:57:59] Fancy Drak: would Drak be able to get to the scout position in this round.
+[1:58:03] Ian Lurie: Yes, you'd also be leaving, unless saying, or you.. I know you're a monk, so you're really fast. Are you fast enough to keep up?
+[1:58:11] Speaker 6: No, but I could be invisible.
+[1:58:14] Ian Lurie: Okay, there are many creatures here who can see invisibility without
+[1:58:21] Speaker 3: any problem,
+[1:58:22] Fancy Drak: don't leave our.. it
+[1:58:26] Ian Lurie: might not be an issue at all. Something goes really tough, right? And going on, basically, instead of one free breeze. Yeah. Yeah, because I will guarantee you that the round after this you will get back to the column safe if you don't split up, if you do
+[1:58:55] Speaker 2: pull on a feast and throw in saying go to a monster.
+[1:59:01] Speaker 3: Okay, surge role eight,
+[1:59:09] Fancy Drak: I got seven
+[1:59:13] Ian Lurie: seven, okay, and Scout, give me your perception, DC 18, Nashville 20, nice, okay, um so you can buy one, you can reroll, or you can do nothing, and you have advantage to confirm
+[1:59:31] Speaker 2: one here. Yeah,
+[1:59:36] Ian Lurie: okay.
+[1:59:39] Fancy Drak: Give advantage director,
+[1:59:42] Ian Lurie: okay. Okay,
+[1:59:44] Speaker 6: yeah, you don't,
+[1:59:46] Ian Lurie: but it's fine. So, what's your order going to be for the group? Give me a DC 15 charisma, do.
+[2:00:00] Speaker 5: Oh, Jesus H, fucking Christ. Oh
+[2:00:10] Speaker 6: no, got an advantage.
+[2:00:17] Speaker 5: Yeah, no, I wrote the other one, so it's just a 10, okay? Just map that, like, how.. oh my god. Dice jail. All
+[2:00:26] Ian Lurie: right. Well, the role that the.. you go to move everyone, and because in front of you is another is devil, and then standing there, actually, sorry, one devil that's standing there, kind of, and scout, you look at them, and you think, is this a problem I not right with that devil, and you realize that that devil is badly wounded. They have a huge bite at other side, and then this devil is, looks like, actually looks like almost like a human, but has these black leathery wings, and it's sort of the classic devil-looking devil, and it's sort of standing there glassy-eyed.
+[2:01:36] Speaker 2: No, what could have made a bite like that? Because I feel like that's my bigger concern,
+[2:01:41] Ian Lurie: the demons have lots of teeth, and biting it wouldn't, I mean, given what you have seen today, it wouldn't take the largest of the demons to go hide like that. It just kind of stares at you and says help me and I can provide aid. It's just said that directly clean. Give me an insight check.
+[2:02:21] Speaker 2: Well, 3020
+[2:02:25] Ian Lurie: seems legit. He's clearly gonna die very without he
+[2:02:34] Speaker 2: is
+[2:02:35] Ian Lurie: in the same block as you, so he has just stumbled out of the building, he's like 30 feet in front of you. He says, I see that one pairs the badge. I request aid,
+[2:02:56] Speaker 2: and I toss him a healing potion, a dickhead.
+[2:02:59] Ian Lurie: Sure,
+[2:03:00] Speaker 3: yeah,
+[2:03:05] Ian Lurie: he grabs it and drinks it and stabilizes because he's still messed up, but what was that potion? So, what's da plus something
+[2:03:18] Speaker 13: d4 plus 4d
+[2:03:21] Ian Lurie: force was he rolls max for you, Bobby. He's no longer pumping out everywhere. He still looks pretty bad. Clearly could not get into a fight right now, but he's no longer sort of, you know, waving be beefy, he says. I thank you.
+[2:03:48] Speaker 2: Just nod at him. Hold up your end, Bob.
+[2:03:53] Ian Lurie: You are trying to move the
+[2:03:57] Speaker 2: sure am.
+[2:04:01] Ian Lurie: Get here moment, I will, my friends, and I will clear the way, and that's the end of this particular beat. Doom clock does not make up to sat six because of that, and next round you'll something cool will happen, uh, rear guards check 3030 Okay,
+[2:04:34] Fancy Drak: nice,
+[2:04:37] Ian Lurie: nicely done, guys. All of that. Next, d8 six a six. Okay, Scout, give me your scout role.
+[2:05:02] Fancy Drak: Dr. I hit the scout.
+[2:05:04] Ian Lurie: No, that's this round you have now reached the column.
+[2:05:09] Speaker 14: Hello, man.
+[2:05:14] Ian Lurie: 25 All right, so you can bump it up one, which you will get you that the fiend trying to try and spot you guys, so that then you'd have to break line of sight this round, or the doom clock goes to six out of six. You can re-roll, you can do nothing, and hope that the devil will help you. The devil that just, that you just, what would you like
+[2:05:45] Speaker 2: to do? Let it ride. We're gonna,
+[2:05:47] Ian Lurie: okay. And then what would you like to
+[2:05:54] Speaker 3: regulate or
+[2:05:57] Ian Lurie: press on? Okay. Vanguard, give me your charisma. Roll you. Okay, everybody advances, and the whole group, the whole group is together again. You just go to advance, four demons lope into the street right in front of you, just as you're about to advance, and these demons look like large gnolls, the big bipedal dog creatures that you fought before, except that they're falling out in patches, and they're all carrying these huge war clubs, and something they look even more unhinged than, and they're slabbering, and they're too, they raise their snouts into the air to howl, to tell everybody they know, you know to signal everybody where you are, when these were devils, all of them Cambions, just like the one that you just helped, just fall on them from behind and just tear them to Jesus. It's, it's not a fight, it's an absolute massacre, and the one that you say steps out from behind it. Our debt is paid.
+[2:07:26] Speaker 2: It gives a little salute,
+[2:07:28] Ian Lurie: and they melt back into the..
+[2:07:30] Speaker 3: they got around them.
+[2:07:38] Ian Lurie: So, rear guard, give me a roll, I
+[2:07:44] Speaker 6: I would like to rage.
+[2:07:54] Speaker 1: What
+[2:07:54] Speaker 6: that gives me gives the advantage on this holy fucking shit,
+[2:08:02] Ian Lurie: remember it's only two points of damage.
+[2:08:07] Speaker 6: Well, one of them's a
+[2:08:08] Ian Lurie: one, okay?
+[2:08:10] Speaker 6: The other one's a two, that's a 13 total,
+[2:08:17] Ian Lurie: okay? Yeah, so you fail, it takes 20 points, and guys still doesn't to the HP of the mobs.
+[2:08:28] Speaker 6: Oh, hey, hold on. Can I use a lock point
+[2:08:31] Ian Lurie: if you want to? Sure,
+[2:08:34] Speaker 3: yeah,
+[2:08:39] Speaker 6: that's a 16.
+[2:08:40] Ian Lurie: Okay, you save. save the damage.
+[2:08:47] Speaker 15: Also, Ian, you solved the wrong mossy in the campaign.
+[2:08:52] Ian Lurie: Well, you have to add yourself to the campaign,
+[2:09:00] Speaker 16: that yeah.
+[2:09:05] Ian Lurie: Least I think you do, pretty sure you do. Tommy, I'll figure it out. All right, you guys can see any entrance to the bunker now, and you see these, this glowing light coming from the bunker, and you see from the city watch, actually standing at the ready. Then come out into this battlefield, they will get torn to shreds. What they can do is they're holding the door open for you guys. So we're around to another service. Give me that key for d8 as someone besides JP.
+[2:09:48] Fancy Drak: Yeah, yes,
+[2:09:51] Ian Lurie: three three. Okay, Drack this time if you want
+[2:09:57] Fancy Drak: track
+[2:10:01] Ian Lurie: 27 okay, uh is pretty bad. I'll just tell you,
+[2:10:15] Speaker 3: Mossy, okay.
+[2:10:27] Ian Lurie: You guys see that the end is in sight, you're almost there. No, you can make me the.. are you guys pressing it on? What are you doing?
+[2:10:39] Fancy Drak: You gotta press on.
+[2:10:40] Ian Lurie: because you roll. I, you actually get to decide. You start everyone forward next to you starts to crumble. If you want to push, you can have everyone press on, and again. and risk someone, or you can hunker down, in which case everybody would get with adventure. That means they still take half damage from the collapsing building, so it's lead everybody out and risk one group getting damaged badly. Everybody hunker down and reduce the damage, but all groups take
+[2:11:30] Speaker 6: it. If we hunker down, says the Doom clock at this
+[2:11:35] Ian Lurie: time, because nobody's looking at you. There's no fights going on there. Bye.
+[2:11:40] Speaker 6: Okay,
+[2:11:46] Ian Lurie: okay,
+[2:11:47] Fancy Drak: yeah, yeah. As long as, like, my kind of didn't clock, so yeah,
+[2:11:52] Ian Lurie: yeah, okay. So the building starts
+[2:12:00] Speaker 3: to collapse, and Shepherd. Shepherd, that's happening. What if
+[2:12:09] Fancy Drak: I cast against side of to prevent it from collapsing
+[2:12:16] Ian Lurie: on the path? You can do that. Describe wall to me about wind wall is a where the wind goes from the ground up, but preventing flying creatures, it's not designed as a barrier. Would it stop a collection building? Is my real question.
+[2:12:36] Fancy Drak: I'm saying that in my head, stop the clogging building, slow it down, or prevent rocks from falling,
+[2:13:01] Ian Lurie: so you can do 3d damage smoke and other gasses at bay arrows bolts or ordinary Jack was launched our target behind upward and automatically bolstered by giants or siege engines and similar projectiles are unaffected so on the collapsing build pieces of debris falling down.
+[2:13:28] Fancy Drak: Just want to run that, yeah, just in case.
+[2:13:31] Ian Lurie: Okay, so give me.
+[2:13:39] Speaker 3: I'll just, because there's a lot. Oh no, they don't, because they all hunker down.
+[2:13:53] Ian Lurie: They all fail their state. That's us, but you've got a ton of hit points left,
+[2:14:00] Speaker 5: so you should be
+[2:14:01] Ian Lurie: okay, yeah. They all take three pains down on them, and they all.. there's a lot of screaming people are kind of freaked out because they take it, dammit. Yeah,
+[2:14:17] Fancy Drak: but they're all still fine.
+[2:14:19] Ian Lurie: So, Shepherd, give me a TC Fingator.
+[2:14:23] Speaker 3: Thanks.
+[2:14:29] Speaker 6: Do you say that out
+[2:14:32] Fancy Drak: of course
+[2:14:34] Speaker 3: here? Go a little red.
+[2:14:36] Speaker 1: Ah, yeah.
+[2:14:38] Fancy Drak: Did we switch back to
+[2:14:41] Ian Lurie: original? original,
+[2:14:48] Speaker 5: that's gonna be 23
+[2:14:54] Ian Lurie: Okay, no problem. Everyone hunkers down, they get pelted, they you guys like we don't need to, we don't need to run, we should just stay there and take on the forces of themselves and just win, because we will. Someone give me that,
+[2:15:22] Speaker 3: no. right,
+[2:15:26] Ian Lurie: okay, and then Scouts, Scout, okay, plus one.
+[2:15:43] Fancy Drak: We know seven is,
+[2:15:44] Ian Lurie: yeah, you have break line of sight, or the Doom fills up
+[2:15:55] Fancy Drak: six again.
+[2:15:57] Ian Lurie: Six is straggler, someone bolts into a blink, or some one of your mobs, and the chef's best to bring them back. I
+[2:16:05] Fancy Drak: feel like let's do six, keep six.
+[2:16:07] Speaker 3: Yep, okay, all right.
+[2:16:14] Speaker 10: All
+[2:16:15] Ian Lurie: right, so Vanguard, give me a roll.
+[2:16:18] Speaker 6: Want to give the Vanguard advantage on that scope master
+[2:16:33] Speaker 14: 27
+[2:16:35] Ian Lurie: everyone advances. Nicely done one group, your problem children literally, they stay behind, not entirely sure why, but then you look and you see that one of them, and Director used to this, took a net to one leg, but it just freaked them out, and everyone's trying to get them up and bandage the leg, but they're at risk, do and say there's your advantage
+[2:17:22] Speaker 5: there. walks back there. He sees the person who's panicking with the wound, and out of his pocket pulls a bandana, and he just ties it around the wound, pulls it to try and build a tourniquet, just so won't bleed out. Looks the person tonight that says it's discursive. you will have your children's children, and they'll tell their children's children, but in order to do that, you have to survive. Let's
+[2:17:57] Fancy Drak: get up.
+[2:17:58] Speaker 3: Let's go,
+[2:18:02] Speaker 5: I What
+[2:18:10] Fancy Drak: all
+[2:18:12] Speaker 3: right, cool. So you
+[2:18:16] Ian Lurie: problem now rear guard,
+[2:18:22] Speaker 3: so Oh, you know what, I'm still raging.
+[2:18:31] Ian Lurie: Keep ranging if you need again.
+[2:18:36] Fancy Drak: You spend it, you spend a bonus point to continue in the rich. Okay,
+[2:18:42] Speaker 3: don't. I guess
+[2:18:49] Speaker 10: you can't fucking
+[2:19:04] Ian Lurie: What did you get? 26 Okay, so no problem. So you are right there motioning towards you, the group almost to the bunker, the demons you can see right behind the first of demons is coming up off name and just beating feet towards you, and it's not so much individual as this cresting wave things and teeth and claws and creatures that you can't even you think losing sores on them that are snarling and and raging and waving closet, you see creatures with fur, some without, you see scale creatures, there are creatures as small as your hand, there's their size of give me your last d8 roll
+[2:20:15] Speaker 5: that's a six again.
+[2:20:17] Ian Lurie: Okay,
+[2:20:21] Speaker 3: can we
+[2:20:28] Fancy Drak: 29
+[2:20:28] Ian Lurie: all right, UCC, that's actually that same group, and he kind of goes to one knee because of the wound, but there's really your shepherd role, then you'll be just kind of help him along and keep the Richter's
+[2:20:52] Speaker 5: just gonna fireman Terry him
+[2:21:00] Ian Lurie: up here, damn it. Okay, give me.. I'm assuming you're Vanguard. No pressure,
+[2:21:15] Speaker 2: Allison. That's a 23
+[2:21:22] Ian Lurie: catch. five doom on all the free seven, you guys successfully lead them to the bunker. My god,
+[2:21:36] Fancy Drak: cover our rear with, with was the it
+[2:21:45] Speaker 5: loud?
+[2:21:46] Fancy Drak: No, no, no, no. Spike growth, so that the horde of these things are just gonna get ripped.
+[2:21:54] Ian Lurie: Okay. All right.
+[2:21:56] Speaker 2: We learn to it. Don't king, Shane.
+[2:22:02] Ian Lurie: What now? You're you hurry them all down into the bunker. You can wave goodbye and go in a different direction. What are you gonna..
+[2:22:15] Speaker 2: how close are we to the docks?
+[2:22:17] Ian Lurie: You're actually on the other side of the city. Let me pull up the map, so that's not this town. Hold on, I'm gonna pull up the map, so you can
+[2:22:30] Speaker 6: pick three in the middle, so we can maybe take a shortcut, indeed. Also have certain The city have any indication whether we would be able to maybe dismantle any pulling the city down.
+[2:22:58] Speaker 3: Mom, you see this
+[2:23:00] Ian Lurie: is an artist, mr. Thing.
+[2:23:01] Speaker 3: Yeah,
+[2:23:11] Speaker 8: all
+[2:23:17] Speaker 2: right. It
+[2:23:22] Speaker 3: is 32 must
+[2:23:25] Ian Lurie: be, but they are still machines, and yes, they can be disabled or destroyed.
+[2:23:37] Speaker 3: That's, I think, that so is right, so you certainly can, you can search,
+[2:24:00] Speaker 6: so Yeah, are we? Is there that we had anything to get around to go with that? Sees, yeah. Okay, further away the direction now that there's only like five of us. Yeah, at you, you can refer the
+[2:24:30] Ian Lurie: city any one, right? So the doc just doc is right here.
+[2:24:37] Speaker 6: Oh, okay.
+[2:24:38] Speaker 3: All right, right now, and each of these changes now. If you just, what
+[2:24:47] Speaker 6: is that
+[2:24:47] Ian Lurie: chain? That's probably in my CU figure this. There are eight chains you have to destroy more than one if you really free this. Pretty much, have to destroy them all, which
+[2:25:07] Speaker 3: is, do
+[2:25:09] Speaker 6: run right in front of us.
+[2:25:13] Ian Lurie: Yeah,
+[2:25:14] Speaker 3: there's gonna be
+[2:25:15] Ian Lurie: no, it's gonna be a brawl.
+[2:25:17] Fancy Drak: Well, let's get the other ones first.
+[2:25:30] Ian Lurie: Temple of Amath, and you know now the Temple of Asmodeus, and there's a lot of people. Remember, you talked to a couple online to basically trade their souls a few weeks ago, but
+[2:25:57] Speaker 6: what do you think, guys?
+[2:25:59] Speaker 2: I think we check out the chain behind, we have a barrier to while I figure out how to dismantle them first, might take longer. Yeah,
+[2:26:16] Fancy Drak: I am in favor of being the city. Well, yeah, come on, let's go. I mean, for one that I'm looking at it like this whole thing of TMR, like that's a very personal thing. This is a way to actually save a city. directly, these people are going to die in the river, and there are borrowed
+[2:26:54] Speaker 2: pan, and I'm trying to run, he's following me.
+[2:26:58] Fancy Drak: Yeah, so it is
+[2:27:00] Speaker 6: a Is having talked to the survivors that we have, do we know there's people still in the city, was that it,
+[2:27:15] Ian Lurie: you've seen more people, right, because you online at that temple is as motivated and of course, the people that you saw that you brought into the army just randomly, so you are other people in the city, you know that.
+[2:27:39] Speaker 6: Well, what McMonso says, we do that one, if we can, and then take it from there.
+[2:27:50] Fancy Drak: Okay. Yeah.
+[2:27:53] Speaker 6: Victory Davidson, polls,
+[2:27:59] Speaker 5: it's It fall, David. I knew I shouldn't have taken that. People feel that it's been a couple of months. Normally, I'd be the first person running to enjoy all these things, but every Sunday here, how much more to me passing up there. I want to make sure we understand sacrifice. sacrificing with this decision, losing friends with the opportunity or break every moment we don't go strengthen them as a moment to TM, get closer and closer, maybe these people, we have to be willing to understand, we don't know what we're sacrificing on the back,
+[2:29:17] Speaker 14: I mean, so waffles, he's gonna live sometimes getting back, and that's all I really need,
+[2:29:38] Fancy Drak: you know,
+[2:29:41] Speaker 3: I'm a shattered what we knew of our lives, and these people have had no peace. These people have had no choice of their lives, these people since that fall. I think if we're gonna do some attachments that I have up top to give these people a chance to make some decisions to determine their own faiths, because right now they have no choice. If we can change that, I I Greg,
+[2:30:56] Speaker 6: is just staying outside. He starts, starts doing this slightly for all everybody, everybody make an insight check,
+[2:31:11] Speaker 14: 22
+[2:31:17] Speaker 5: then why the rest of
+[2:31:22] Speaker 3: us, you
+[2:31:24] Speaker 6: It's a little back, it's a little turtle sango looked at, tell you what, here the change of theory, like that, those chains like a speed up or slow down for us.
+[2:32:00] Speaker 3: Up,
+[2:32:04] Speaker 6: but take it one chain at a time, you'll see what has
+[2:32:15] Speaker 14: mr. Jules. I'm just saying, I believe I added
+[2:32:24] Speaker 2: at least gave me a shot.
+[2:32:27] Speaker 6: Well, the ones on the way back anyway
+[2:32:31] Speaker 3: happened.
+[2:32:36] Ian Lurie: Okay,
+[2:32:37] Speaker 5: yeah,
+[2:32:38] Ian Lurie: so you're gonna take this one.
+[2:32:42] Speaker 3: one, yeah, all right, so the one here per major can counter major. I said it's something, something's gonna happen. You guys think of those rules,
+[2:33:16] Ian Lurie: they felt kind of me, to be perfectly honest,
+[2:33:19] Speaker 3: we in the way of my message
+[2:33:30] Speaker 5: favorite fucking thing, but this was fun. If they made it like this, where chaos anything else might be fun rather than Golden I and Natalia just Molly walked by a bunch of dudes who are guns are shooting through, yeah, it was fun, and I felt we had a little bit more, still not knowing what in that moment, and enough choices that it made it a little bit different. So I know you say you felt the rules were ragged, but I think that they're a lot better than we did in four or five years,
+[2:34:22] Speaker 3: to
+[2:34:24] Fancy Drak: be fair, sometimes are the our little mobs that we're technically everything gets stuck
+[2:34:30] Ian Lurie: and stupid shit, and the one plus you get there, role play your way out of situations, so that was what rules felt ragged, because we were used for full full encounter. Yeah,
+[2:34:51] Speaker 3: overall really liked it. Specifically, I liked. I really like any yeah, it felt the decisions we were making made, and they made an impact, the rules for themselves, like definitely a little kind of matched the environment. There was the only only critique I have would be like this is just me on the roll, like near the end, like, oh, expanding, expanding those sharing area,
+[2:36:00] Ian Lurie: plus whatever you have doesn't just completely break the which it pretty much did, I mean, in the end, because the clock, but that incredible, I mean, that we're never going to get the most intense encounters as demons bursting like that was 10 off the table completely, which is okay, but I'd have to hear there's a way around, and that just means it may be more different, you know, even 100 table instead of a d8 also counter that, and things, if we did those alone, so we wouldn't have made it halfway. Well, every, but everything right, the level all that anyway. Yeah, I would say that
+[2:37:08] Speaker 8: y'all are enjoying
+[2:37:12] Speaker 6: three or four, whatever you call them, we're clunky. I think a lot of the had to try the rules and our roles, you know, kind of like, you know, anytime you learn a game, the first little clunky, yeah, if you were, if you're worried about those super pluses, like maybe just make checks, building that plus five when you had a 15, if I don't roll the 10, yeah, because you're giving me the guy, yeah, that's like that's I felt like being a little
+[2:38:00] Speaker 5: bit unfair, it's like, why am I like a whole lot more danger in butt clenching.
+[2:38:08] Speaker 1: Yeah,
+[2:38:09] Ian Lurie: and your encounter table change, you can move things up or down, you can re-roll, but because there's more choices, me More the scout has outsized power over what happens compared us, like the shepherd has a lot of power, if very, but generally only if people start rear guard, that's either fracked everyone or in the case of an attack in the van, obviously they're very important for me, but the scout sort of affects impacts everything now.
+[2:39:00] Speaker 3: Yeah, as
+[2:39:02] Speaker 6: the shepherd was saying him
+[2:39:15] Ian Lurie: well, so he could have, if everyone right here his could have been he was doing something else, he was many people losing more, doing a whole bunch, you have one really around with three three mobs lost, so there, but do quite, I got to look at too, because there's a potential for sort of a catastrophic loss if all the moms at the same time, the shirts can catch up time,
+[2:39:56] Speaker 5: that's right. shepherd and building, so there was shifting that we also did as a party to make sure that,
+[2:40:11] Ian Lurie: yeah,
+[2:40:16] Speaker 6: how our turns went like one shift because there was the point where that a person injured, maybe hands on, talk to everybody, try to charisma check them into moving forward. I wasn't sure quite what a rapper turn is. current
+[2:40:43] Ian Lurie: is your action, so you get one action per instance, like normally would, right attack, you get one action per round, and you're doing your thing, bank card saying someone rolling against Weber, or do something hands on someone, or doing something like that.
+[2:41:18] Speaker 6: Yeah, this is wasn't quite sure the rules for a turn
+[2:41:27] Speaker 3: if we
+[2:41:30] Ian Lurie: lose, if that had said I could do those two things, even though you know just strictly you can't generally, but I would let that go. Also, I was sorry. Also, I was really.. didn't like guidance on Craig, and yeah,
+[2:42:00] Speaker 6: he didn't went up to Vanguard, I mean, maybe roles just for the help action.
+[2:42:07] Ian Lurie: Yeah, yeah, I mean, you had had to, you, I can tell you what would happen was a huge with your one characters basically themselves try to save the selling try to encrypt, and the things are being left left right, so that would have been much uglier outcomes.
+[2:42:53] Fancy Drak: The outcome of the end, something I really like.
+[2:43:00] Ian Lurie: Worry, I'm no players are cool, but every player had some opportunity to do something, so
+[2:43:13] Speaker 3: things I will, I will. July
+[2:43:24] Fancy Drak: making meat mechanics,
+[2:43:30] Ian Lurie: that's not even true. I don't want to do that again. Never fucking do that again, six. it looks but we'll uh we'll
+[2:43:48] Unknown Speaker(s): see

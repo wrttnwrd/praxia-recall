@@ -1,0 +1,813 @@
+# Ian's Meeting Notes
+# Otter recording 2026/02/02 16:57:17 (2h 36m) id p1_4KLl6QwN-9XjYaNpAu9OsG2U
+# https://otter.ai/u/p1_4KLl6QwN-9XjYaNpAu9OsG2U
+# Speaker-attributed transcript, verbatim. Raw source for the card at /items/otter/2026-02/2026-02-02-rbg.md
+
+[0:02:42] Ian Lurie: Ian Hey. JP,
+[0:02:57] JP Sherman: hey there. How are you good?
+[0:03:00] Ian Lurie: How's it going?
+[0:03:02] JP Sherman: You know, just, you know, those meetings where you're like, everybody like, like, those business meetings were like, everybody is sad that you only grew 8% was expecting 15% right? Everybody's sad. Like, it's like, fuck you.
+[0:03:26] Ian Lurie: Wow, yeah, I had a meeting that started off this morning, and I thought I was gonna, it was gonna be really aggravating, but actually ended up being pretty good. So I like that? Yeah, I think I said, even said in discord, this may all go to shit, but at least right now, it's kind of good.
+[0:03:57] JP Sherman: Hey, Jamar, hey, jar
+[0:04:06] Ian Lurie: just doing some map stuff.
+[0:04:10] JP Sherman: Okay, I'm
+[0:04:27] Ian Lurie: Harrison's giving me ideas, by the way, wouldn't trust him. Oh, no, you definitely shouldn't trust him.
+[0:04:37] JP Sherman: Yeah, he couldn't teleport. I You, somebody called me Lieutenant today, and I had to get all lieutenant, I told you, right, I'm now a lieutenant in the civil right patrol.
+[0:04:56] Ian Lurie: Yes, you did, that's right.
+[0:04:58] JP Sherman: Yeah, I'm doing cyber security. Somebody, somebody that I know and respect called me Lieutenant. I'm like, stop. No, no. That does not seem No, I don't like this.
+[0:05:11] Ian Lurie: Oh, come on, you like it just a little teeny bit.
+[0:05:14] JP Sherman: If I ever reached general, then I'll like it major.
+[0:05:19] Ian Lurie: Yeah. Hey James, hey guys. I built out the edges a little bit. I it's supposed to be a barrier island, so now it looks a little bit more like a barrier island, instead of a gigantic square that I threw down at the last second. I mean, it still looks pretty square, but I
+[0:05:54] Sango: thought we were over, like, actual land? Land,
+[0:05:58] Ian Lurie: no, no, no, gotcha Okay. Land is about five miles, well, maybe three miles that way, like you could probably barely see it on the horizon. Hey, Jamie,
+[0:06:12] JP Sherman: cool though. Yeah.
+[0:06:14] Ian Lurie: So if you have to run for your lives, you know you could go running across the water Sango. Could do it in what five minutes,
+[0:06:22] Sango: or something. You dragons probably already swimming there, yeah, probably, you know, if we catch on fire, we can stop drop and roll into the water, yeah.
+[0:06:34] Ian Lurie: I mean, that is, that is an advantage, right? Unfortunately, Dragon Breath doesn't generally catch you on fire. It just burns the shit out of you, if that makes sense. So it's, it's more like napalm or hot tar than it is anything else. Just to, just to give you the warm tinglies. I don't know why I'm saying all that. Jamie there. Okay, cool. So the quick trying to get some food together, oh yeah, cool. The quick catch up you were fighting. Nil Thrax, the white, nasty, white dragon who attacked you guys thought it was ambushing you, but thanks to Essie, you sort of knew that there was something like this coming so you were flying steadily away from a red dragon, saw the white dragon coming up to meet you, decided that it was probably best to sit down on the island and fight the white dragon so that the villain's discontent would stay relatively safe. In all of this, you have engaged in battle with the white dragon, things seem to be going okay when right at the end of last game, there was this shadow that just blotted out the sun above you, and still very far away, but still big enough to blot out the sun, probably, you think, probably still maybe four or five rounds away is this giant ass dragon who absolutely dwarfs the white dragon and is just diving down towards you or towards the island as fast as it can. The White Dragon viltrax looks pretty bad. Looks like he's he's had a rough day so far. I think everyone is in reasonably good shape. I don't think anyone's too badly maimed right now, let's see. And everybody's
+[0:09:05] Jamie Indigo: still young,
+[0:09:07] Ian Lurie: sorry, Knight's still young. Yeah, the knight is still young. And you all are are positioned about like this. I think I got everything right. If you're the only other thing, I'll just remind everybody, because we're sort of mid combat. So I don't have a ton of recap stuff. You are flying. You are on your way to Avernus. You're going to stop, at least at a place called the gorges, which is going to have be your path down into Avernus. You are, you know now for certain that Tiamat does have traps set for you. There are parties that she has enlisted to slow you down and or stop you so that that's kind of what you know right now. That's the context of all this. And the villains discontent, by the way, is no it's over right there, and that is a pretty good scale, by the way, of the white dragon versus the villain's discontent versus the Red Dragon.
+[0:10:16] Jamie Indigo: We haven't sent a message to the discontent yet. I believe we were about talking about doing that. I'm asking. RBG, we told them to get out of there.
+[0:10:31] Sango: Do we have a way to send that message?
+[0:10:34] Ian Lurie: Didn't you leave one of the stones
+[0:10:36] Jamar Ramos: with sander? Yeah, sending stone.
+[0:10:38] JP Sherman: We got sending stones.
+[0:10:42] Ian Lurie: So you just tell him, Get Get out, get away. While you can
+[0:10:49] Sango: thought they were already supposed to be doing that.
+[0:10:51] Ian Lurie: They are they are supposed to be doing that. They were gonna, he was gonna, kind of stick around. If you tell him to just leave, they will just beat feet and get as far away as they possibly can.
+[0:11:06] JP Sherman: That's such a cool looking ship, yes,
+[0:11:07] Ian Lurie: and it's a great Mini. Just found it online. So if you want, I can just they'll just move off that way. There's no chance that any dragons are going to decide that it's a viable target, but that's up to you. I mean, you know it does have a spell cannon and a mage there. You know, there are things that that ship can do that maybe you know you guys can't, but to your call.
+[0:11:42] Jamar Ramos: If it doesn't survive, how can Craig and come and avenge our deaths?
+[0:11:47] Ian Lurie: Huge problem.
+[0:11:48] JP Sherman: Slowly slip,
+[0:11:50] Ian Lurie: very slowly, yes, exactly. Change the sun's direction so we can see a little better. There we go. DM, Powers Activate. All right, against my better judgment, I'm going to bring up the chat. And I do mean against my better judgment, I'm
+[0:12:24] Sango: so at the end of Craig and his turn or not, Craig and Sango, he would have, oh no, he's got the the darkness follows him.
+[0:12:36] Ian Lurie: That's Yes, yeah. It's just, I haven't moved it.
+[0:12:39] Sango: Because, yep, I was gonna say he would jump back in the darkness, but it's already followed him.
+[0:12:44] Ian Lurie: Yeah, so I did finally learn how to move these little AoEs. So excited.
+[0:12:54] JP Sherman: Oh, that's cool. So
+[0:12:55] Ian Lurie: that's it's not perfect, but it's approximate, at least. And Sango, I believe it was the end of your turn, so we're back at the top of the order.
+[0:13:07] Sango: Oh, well, okay, wait, I'm too far away from Richter. Then I would, I would move back to cover him,
+[0:13:18] Ian Lurie: get the to get the darkness, yeah?
+[0:13:22] Sango: Just, just on this. Just, yeah, right about there. Just, okay, just, so he's covered, right?
+[0:13:29] Ian Lurie: Because, yeah, I didn't put a year. You should be at the center of it, not on the edge. So Richter you're you can just assume, you know, unless there's a really strong wind you're hidden, then your cloak sort of billows out. Everyone's trying to figure out what the fuck is going on. Yeah? Fuck is going on, all right? And Richter, actually it is now your turn.
+[0:13:50] Jamar Ramos: Oh, great, googly moogly. Is that mossy on that ledge near Richter? Yes, it is. How far away this year she is
+[0:14:04] Ian Lurie: approximately, and I do mean approximately, maybe 1520, feet, 20 feet,
+[0:14:14] Jamar Ramos: all right, so bonus action, shield of faith on mossy, mossy you now have plus two tier AC.
+[0:14:29] Ian Lurie: And by the way, you have no idea how the fuck mossy is clinging to that cliff. She's just standing there, but it looks like a mountain goat. You know how mountain goats will sometimes be like on these little, teeny weeny little cracks. That's basically what she's doing.
+[0:14:43] Jamie Indigo: Believe I'm also stealth right now, though. Yeah, so I don't know if you could have seen
+[0:14:49] Ian Lurie: well, okay, that's fair. If you Yeah, if you could see her, you'd be really impressed that you had to have seen her well enough to give her shields. So we'll just assume that.
+[0:15:00] Jamar Ramos: Okay, I was gonna say, yeah, if I can't see her, then I can't give shield of faith. All
+[0:15:07] Jamie Indigo: right. I mean, if you party line, I would have been like,
+[0:15:12] Jamar Ramos: hey, all right. And
+[0:15:16] Sango: how far pictures of the leopard hiding in the mountains?
+[0:15:20] Jamar Ramos: Yeah? How far away is the dragon from Richter?
+[0:15:27] Ian Lurie: The dragon is, let's see. First of all, you can definitely see the dragon. See about 50 feet, maybe, yeah, about 5055, feet.
+[0:15:52] Jamar Ramos: Okay, all right, um, all right, go. Eldritch blast this bitch. Okay, I'm 1515, and because I've got hex blades, curse on it, a 19, which is a critical hit, the
+[0:16:18] Ian Lurie: 19 hits I right?
+[0:16:33] Jamar Ramos: That would be 33 points of damage, damn.
+[0:16:40] Ian Lurie: Usually when I when I'm at Warlock and I cast that spell, I'm like, here we go. Big deal. But that
+[0:16:46] Jamar Ramos: best thing about hex blades curses, I get even more extra to the damage roll. So
+[0:16:55] Ian Lurie: anything else, any movement, him,
+[0:17:04] Jamar Ramos: no, because that damn Dragon has blind side anyway, so it's still able to hit. So I'll stay right here.
+[0:17:10] Unknown Speaker(s): Okay, all right.
+[0:17:14] Ian Lurie: Drag your turn.
+[0:17:18] JP Sherman: All right. So I'm gonna say, like, this is kind of a big swing, but I am going to get the dragon's attention, and I am going to tell him that, like, you see that red dragon coming, looks up. This is invading your territory and wants to kill us.
+[0:17:55] Ian Lurie: Okay, this is your prize. Is Dragon Queen, okay, all right. Um, I like it. I like it. You can certainly try. You need to give me a persuasion check.
+[0:18:12] JP Sherman: Uh huh. DC 30, Jesus, I am. I'm going to burn. My inspiration for this, okay,
+[0:18:30] Ian Lurie: what do you want it to do? If you succeed,
+[0:18:34] JP Sherman: defend its perceived territory from the invader,
+[0:18:38] Ian Lurie: from the invader. So you guys, as well as the dragon, the red dragon. Oh, no,
+[0:18:42] JP Sherman: just the Red Dragon.
+[0:18:43] Ian Lurie: Okay, well, that's important, because you guys, there's two. But okay,
+[0:18:47] JP Sherman: the way I'm looking at this, like this red dragon is trying to take this white Dragon's rightful prize, okay, away from the white dragon and kill it in the process. All right, all right. Okay. Okay, that's not bad. That's not bad. So plus war,
+[0:19:16] Ian Lurie: okay, this is where, if we were all in person, I'd have the box of doom, and everybody would
+[0:19:23] JP Sherman: roll out. Okay, I am, I am. I have 28 so I'm gonna burn a luck and see if I roll higher. Okay,
+[0:19:38] Ian Lurie: 29 Okay, not quite so, all right, so vilthrax looks at you.
+[0:19:45] Jamie Indigo: Wait, what if I gave a plus five to that?
+[0:19:50] Ian Lurie: Are you within range to do that?
+[0:19:53] Jamie Indigo: Double checking?
+[0:20:00] Ian Lurie: 30 feet, no, okay, okay, yeah, because you're about 100 feet away. So villetrax looks over at you, looks up, lets out this low rumble, and says, whether I like it or not, we both serve our queen. Is that your turn? Are you gonna move? I'm
+[0:20:36] JP Sherman: going to use my movement to find cover.
+[0:20:40] Ian Lurie: Probably a good plan. Yes, very astute. Where are you going?
+[0:20:46] JP Sherman: Probably, like a level down, crouching behind some of those, those rock formations, because maybe over there, yeah, that looks good.
+[0:20:57] Ian Lurie: He can still see you. Let's see, where could you get what's your movement? You can move like 7000 feet per round, or something
+[0:21:07] JP Sherman: close enough, yes, 60 feet. And Ian's might use my action to speak. So I have no, I don't, I can't bonus hide.
+[0:21:16] Ian Lurie: So you could get there. Yeah, I'll
+[0:21:19] JP Sherman: just get to some sort of cover, okay,
+[0:21:21] Ian Lurie: that uses all your movement, okay, all right, it is now villethrax his turn. Sorry, nithrax has turned.
+[0:21:34] Jamie Indigo: Hey, Ian, real quick. I believe he's still fairy fired. Is that correct?
+[0:21:39] Ian Lurie: That is correct. Cool. He's gonna go way the hell up. I may be stupid, but I'm not dumb. He turns he looks down, right? I discovered I was doing his dragon breath, completely wrong.
+[0:22:17] Sango: Now just looks like it's coming out of his bum hole. Yeah.
+[0:22:29] JP Sherman: Okay,
+[0:22:35] Ian Lurie: so take me a minute. He is indeed pooping. Oh, my God, this is the part with this that is so fucking hard to figure out. There we go. Well, it definitely gets you guys. Yes, it will easily get you guys. I'm not going to spend any more time on it. So I believe everyone except for, well, actually, no, it's just two of you, Sango and Richter, you need to both give me debt saves DC 19
+[0:23:37] Jamar Ramos: plus five to your save, Sango. Do?
+[0:23:48] Ian Lurie: 27 Okay, 28 Okay, so you take half of 96 points of cold damage. Evasion. Okay, so you take a quarter of 96 points of cold damage, don't
+[0:24:02] Sango: I don't know if I'd save with evasion. It's I don't take any damage.
+[0:24:06] Ian Lurie: Oh, that's right. I'm sorry, yes. So Richter you take half of 96 which is 48 I believe. Yeah, 48 points of cold damage. Yeah. And then see I'm really fast. Oh, you know what else I can do? Sploosh. He disappears in the water,
+[0:24:43] Sango: under the water. Yeah,
+[0:24:44] Ian Lurie: white dragons have a swim speed.
+[0:24:48] Sango: Forgot about breathe underwater. I
+[0:24:51] Ian Lurie: don't know, but with a 22 con, he can stay under there for a really long time. That's true. Okay, mossy, your turn. Okay.
+[0:25:07] Jamie Indigo: He is. We can, can we still see purple glimmer from him?
+[0:25:11] Ian Lurie: You can see purple glimmer definitely. Well, you can't where you are, but
+[0:25:16] Jamie Indigo: okay, and where is our red dragon that is approaching.
+[0:25:20] Ian Lurie: You can't really see them that well right now. They're in but way over your head.
+[0:25:27] Jamie Indigo: Okay, okay, um,
+[0:25:33] Ian Lurie: you figure the Red Dragon is still maybe four rounds, four or five rounds away. Okay, yeah. You do know where the white dragon went? I mean, you know that it's over here. You just can't see it right now.
+[0:26:00] Jamie Indigo: Can we? Can we see the sparkling purple or no?
+[0:26:04] Ian Lurie: Well, you can't where you are. You can't see,
+[0:26:07] Jamie Indigo: can't wear ant. You're
+[0:26:08] Ian Lurie: on the wrong side of the cliff. Here's, here's your viewpoint. Okay, here's where the dragon is. So you do not have line of sight to the dragon.
+[0:26:18] Jamie Indigo: Yes, okay, understood, all right with that, then we'll go ahead and move up onto the top of that cliff right there.
+[0:26:28] Ian Lurie: Okay, and what's your move speed? I know you don't take a minus for going up walls, so move
+[0:26:33] Jamie Indigo: speed is 30,
+[0:26:36] Ian Lurie: so you get up there. No problem.
+[0:26:40] Jamie Indigo: Okay, and if now have eyes on him. Oh, does your tummy hurt from stealing my wontons?
+[0:26:59] Ian Lurie: Yeah, actually, you'd have to be over. Here we go. Now you can see, you can just sort of see the head, maybe a bit of,
+[0:27:12] Jamie Indigo: I think we're gonna kick it old school and break out. Is he within? Is he between like 80 and 320, feet,
+[0:27:22] Ian Lurie: definitely within those two. Yes.
+[0:27:25] Jamie Indigo: Okay, then we'll do a simple arrow attack. Okay, nope, that's not. There we go. Nope, nope, nope. Definitely did not hit with that. Ian, with my bonus action, I'm gonna tuck myself in Little Rock nook there,
+[0:27:46] Ian Lurie: and I'm gonna say shadows,
+[0:27:48] Sango: yeah, to make sure you had advantage.
+[0:27:50] Jamie Indigo: Oh, I did not do an advantage. Derp,
+[0:27:54] Ian Lurie: what's giving you advantage? Oh, because of the fairy fire. Fairy fire, yeah,
+[0:27:59] Jamie Indigo: and would a 18 hit
+[0:28:04] Ian Lurie: that just hits. Oh,
+[0:28:06] Jamie Indigo: yay, excellent. And then we have some sneak attack damage too. All right, so, 1117,
+[0:28:21] Jamar Ramos: Ian 21
+[0:28:26] Jamie Indigo: points, and then bonus action, rogue, sneaky, Hide, hide, okay,
+[0:28:36] Ian Lurie: give me a stealth roll.
+[0:28:38] Jamie Indigo: Yeah, that's a 32 okay. I'm in the little shadows right there.
+[0:28:46] Ian Lurie: Yep, yep. All right, Sango, your turn. This is what you see, by the way, I had to modify a little. The dragon is not all the way in the water, partially because the water is not deep enough, and partially because he couldn't move that far. So, okay,
+[0:29:02] Sango: so I can see him.
+[0:29:03] Ian Lurie: You can this is exactly what you see. Okay,
+[0:29:05] Sango: well, that is Sango is going to turn around because he's facing the wrong way.
+[0:29:09] Ian Lurie: That's, yeah, okay, it's a lot less embarrassing. Got it?
+[0:29:16] Sango: He's going to guiding bolt.
+[0:29:19] Ian Lurie: Okay, what's the range on guiding bolt?
+[0:29:23] Sango: It's like a million. No, it's not that well, a million like 120
+[0:29:29] Ian Lurie: Yep, might not reach Hold on. 120 you say? Looks like it's about 1/3 151 30. Here, hold on. Let me make sure I'm doing this react because I didn't have it all over. Tab, boom. It's about 150 maybe a little bit less than 150 is definitely more than 120 Yeah, you could move, obviously.
+[0:30:15] Sango: Let's do that. Let's go. Yeah, like that,
+[0:30:25] Ian Lurie: and your move speed, I'm not even gonna bother asking. I
+[0:30:28] Sango: want to stay on top of the rocks, though
+[0:30:31] Ian Lurie: you might not reach from there. So you want to stay like right there,
+[0:30:34] Sango: no, no up more. All the way up. Yeah, all the way up. You definitely want to be able to reach to the end of that. The end of that. Yeah, there, yep,
+[0:30:52] Jamie Indigo: do the full Ian King
+[0:30:54] Ian Lurie: from there. I'll say, because I don't want to measure it, yes, that'll probably just reach Okay,
+[0:31:08] Sango: great. What is a 19 plus 11 since 30 that hits? That is 12 points of damage, and he's glowing, yeah, next, next attack gets extra, extra extra spicy advantage, which is not a thing, no,
+[0:31:36] Jamie Indigo: be cool if it was, comes with a free Baja Blast. Shit.
+[0:31:46] Ian Lurie: What's the radius? Sorry, of darkness,
+[0:31:51] Sango: 15 foot radius.
+[0:32:01] Ian Lurie: I will conquer this. Okay, back around to the top, that little.in the sun that briefly was a briefly blotted out the sun and then went shooting back up out. And it's starting to grow. And you hear roaring Richter, it's your turn.
+[0:32:35] Jamar Ramos: I am also going to move to where Sango is so I can hit this thing.
+[0:32:42] Ian Lurie: All right, so your movement is 20 feet, so you can make it to about there.
+[0:32:55] Jamar Ramos: That's fine. Still not gonna be far enough bonus action, then I'm gonna Misty step another 30.
+[0:33:07] Ian Lurie: Okay, ah, no, I'm assuming you don't want to go in that direction. All right, so you'll end up, if you want to, you can end up right about
+[0:33:17] Jamar Ramos: there. Awesome. And is that about how far is that from the
+[0:33:20] Ian Lurie: dragon. That's probably about 130
+[0:33:23] Unknown Speaker(s): feet, no bitch.
+[0:33:36] Ian Lurie: 125 feet, maybe
+[0:33:49] Jamar Ramos: well, then that's the end of my turn. Okay,
+[0:33:53] Ian Lurie: happens. Some turns are just about moving around. Plus the dragon right now is trying to put some distance between you guys. Drag your turn.
+[0:34:07] JP Sherman: Long range is 600 feet. Yeah, so I'm just gonna assume that the verifier cancels out on Long Range disadvantage. Yes.
+[0:34:23] Ian Lurie: First of all, where are you going? You can't see right now?
+[0:34:27] JP Sherman: Oh yeah, I'm totally gonna pop up right to the top where I was.
+[0:34:34] Ian Lurie: So from here, I would say you can see a quarter of it or so. So you're going to be, I'm going to give him plus four to his AC. I thought you see as a wing.
+[0:34:46] JP Sherman: Oh, god, yeah, yeah, all right.
+[0:34:54] Ian Lurie: You're basically doing it indirect fire.
+[0:34:58] JP Sherman: Yeah, like, like, the big kind of the arcing,
+[0:35:01] Ian Lurie: yes, yes, exactly, exactly.
+[0:35:05] JP Sherman: Okay, that would be a 31 to hit that hits, 28 to hit.
+[0:35:14] Ian Lurie: Okay, they both hit,
+[0:35:15] JP Sherman: all right, and, okay, okay. 816, plus owner's mark is 21 points of damage. 816, plus four is 20 points of damage. Bonus. Action, I'm going to, yeah, no, I think I'm I think I'm good there, okay, yeah, I'm done,
+[0:36:00] Ian Lurie: all right, there's nithraxes turn nithrax. So couple things happen. Now, you guys see that those two arrows kind of loop up and then fall directly on nithrax, and you see them pierce his hide right above the neck joint, like right about there, just below the neck joint, you're sure he dies, like you're watching, and you see him crumple. And then something happens. There's some kind of swirling or something in the water. It almost looks like a burst of frost or something else. And he suddenly comes shooting up out of the water, just bellowing with rage. Fucking ice, right, exactly. And thankfully, I recharged my breath weapon this round. I didn't I was very lucky. So now everybody over here give me a DC. 19 decks, sorry, DC 19 con save, sorry, sorry, I got it wrong last time.
+[0:37:13] Jamar Ramos: Plus five. Sango, that's a doubting 2429 I nine.
+[0:37:23] Ian Lurie: Mossy is in the cone. Yes,
+[0:37:25] Sango: that natural one for me. Okay, use that absorb element,
+[0:37:34] Jamie Indigo: dirty 20. Dirty
+[0:37:35] Ian Lurie: 20. Okay, all right, so you so Jamar, you save, so you take 48 points of cold. Mossy you saves. You take 48 points of cold. And Sango you
+[0:37:56] Jamie Indigo: can, I use evasion, or, sorry, uncanny
+[0:37:59] Ian Lurie: dog, no, no, no, because it's, it's Dex. It's not, it's constitution, not Dex. So you can't evasion only works on con saves, not Dex saves. That's what I forgot last round. So you take the 40, you take 48 points of cold damage, and then Sango, you're using absorb elements, which I think means you also take half damage, right? Yep, yeah, so you also take 48 points of cold, yep. And then, God, I am, I'm working on lack of sleep, and I am, like, missing all the shit that I should be doing right now. Okay,
+[0:38:51] Jamie Indigo: wait, I have to do a Save to see if I maintain fairy fire. The Fairy fire then, yeah, remind me what it is again.
+[0:39:01] Ian Lurie: It's you took 46 it's a con save. Hold on, it's half the damage taken. So 48 so you need to make a con save, a constitution save of 24 okay.
+[0:39:33] Jamie Indigo: No, no, okay,
+[0:39:40] Ian Lurie: all right, so the fair fire goes down, he goes flying up Like so, bullshit. Okay, mossy, it's your turn. Okay?
+[0:40:01] Jamie Indigo: So where is is the red guy?
+[0:40:08] Ian Lurie: Closer still a dot, but definitely getting closer to me,
+[0:40:12] Jamie Indigo: getting closer
+[0:40:13] Ian Lurie: you estimate he'll be here in four rounds. Okay,
+[0:40:21] Jamie Indigo: all right, do I still have my heavy spot? Like, has he seen me? Because Ian area effect?
+[0:40:29] Ian Lurie: No, you're still hidden. Okay.
+[0:40:36] Jamie Indigo: All right, since I'm hitting and it sounds like fun and we have another dragon inbound, I'm going to cast reduce, and that is going to be a save, but he has disadvantage because I'm hidden, so it's a 19 con save.
+[0:40:55] Ian Lurie: What's the range?
+[0:40:58] Jamie Indigo: Oh, no, that's 30 feet. Is he within 30 feet? No, okay, well, then I won't do that.
+[0:41:06] Ian Lurie: 30 feet is like the distance, a little bit more than the distance between you and and Sango.
+[0:41:16] Jamie Indigo: Okay, hold on. Interesting idea
+[0:41:22] Ian Lurie: here, let me measure, but definitely not see
+[0:41:25] Jamie Indigo: with a 90 feet.
+[0:41:27] Ian Lurie: That's what I'm checking right now. I wish this had a way to just measure the distance between two minis. It's something it does not do, and it makes life incredibly difficult.
+[0:41:44] Jamie Indigo: I appreciate you trying.
+[0:41:47] JP Sherman: I'll give it the old college try. I'm
+[0:41:56] Ian Lurie: going to safely say, yeah, it's got to be within 90 feet. There's no he's
+[0:42:03] Jamie Indigo: still gonna make a con save. Let's see what happens. 19 disadvantage.
+[0:42:20] Jamar Ramos: He fails
+[0:42:23] Jamie Indigo: What spell? Yeah, I'm gonna vortex warp him.
+[0:42:29] Ian Lurie: He chooses to save. In that case, bastard, that was his last one. All right,
+[0:42:39] Jamie Indigo: now still stuck in my hattyhole. Oh,
+[0:42:41] Ian Lurie: and you also took well now he knows you need to move. Now if you want, okay,
+[0:42:51] Jamie Indigo: Humor me and back up the map a little bit so I can see Thank you kindly. So what I'm going to do then, to get away from the scrunch up, is back up towards the little Gully. Use my 30 feet there. Find a nice little nook, tuck away. I'm
+[0:43:16] Ian Lurie: going to have you go there, because that's that's within your movement that will give you, well, it's not terrific here. Let's go with that.
+[0:43:29] Jamar Ramos: Okay, that's probably
+[0:43:31] Ian Lurie: a little further than 30, but it works. You're a cat,
+[0:43:35] Jamie Indigo: so 27 for my, my, okay, hide away, yeah.
+[0:43:39] Ian Lurie: So remember, he does have blind sight, so hiding, what hiding really does is it gives you cover, like if he tries to drop something on you, it will help with that blind sight.
+[0:43:49] Jamie Indigo: No, I had no idea he had blind sight, but I'm still doing it, because it's
+[0:43:53] Ian Lurie: my way. Totally good. That's what the he keeps dropping shit on Sango, and that's how, speaking of which Sango and Richter, give me a DC 14 con save.
+[0:44:05] Sango: Does he have to be touching the ground for BLINDSIGHT?
+[0:44:09] Ian Lurie: No, that's tremor sense.
+[0:44:11] Sango: Okay, you're right. That's it. Yeah.
+[0:44:13] Ian Lurie: Oh, actually no, and I'm sorry, mossy, he can't see you right now because it's only 60. He only has 60 foot range on blind site, but he is just dropping, freezing burst on the middle of the Dark Sphere, because he knows you're in there and you
+[0:44:27] Jamar Ramos: said, you said, con, right, yeah.
+[0:44:29] Ian Lurie: DC, 14, con, save 2516, okay, fine. That's it. Nothing happens. That's not one of those nasty save or take half or save takes half. Okay, Sango, this dragon is looming over you now, bitch. Yep, the crowd says that's sexist, plus, I'm a male dragon. I
+[0:45:26] Sango: how far away they should probably, how far is he from me? Hold on, Ian,
+[0:45:44] Ian Lurie: not 450 feet. Hold on. Say about 50 feet, maybe, yeah, 50 feet,
+[0:46:07] Sango: you could join I'm guiding bolt him, okay, 23 that hits or 13 damage radiant, plus, he is now lit up for the next round.
+[0:46:30] Ian Lurie: Yep, he is now glowing as that happy glow. Happy um, half his movement,
+[0:46:44] Sango: ah, let's see. Let's go back words. Okay, I want to get on the other side of Richter.
+[0:46:59] Ian Lurie: Use the palette in his cover. I like it,
+[0:47:01] Sango: yeah, I want to be able to pull that darkness with me so he is still covered. Yep, something like that
+[0:47:20] Ian Lurie: just ruined my plan. All right, we are now at just Mossy. Since I know you're keeping track, we are now at three rounds and counting.
+[0:47:36] Sango: You're okay. I do have a star Archer. Thing that I'll that's 21 to hit
+[0:47:50] Ian Lurie: that hits now that is that's with advantage, right? Because you have guiding bubble, yeah,
+[0:47:58] Sango: that's 13 damage. Yeah.
+[0:48:03] Ian Lurie: Day not looking great for our not hero. Richter, your turn. Dragon is flapping, hovering right there, clearly getting ready to do something. It looks like maybe it's getting ready to pounce, but you're not sure,
+[0:48:22] Jamar Ramos: and he's within 120 feet, right? Oh yeah, yeah, all right, I'm gonna Eldridge blast. And had I've been reading the instruction manual, I leveraged 17. I should have been firing four of these things, not three. So now I'm gonna do it, right?
+[0:48:33] Ian Lurie: Well, yeah, I get it. Ron deck saves by accident. So
+[0:48:45] Jamar Ramos: it dirty 20, okay, and oh, that's not gonna hit. That's not gonna hit.
+[0:48:58] Sango: You should have advantage on these because you're in darkness. How's that? Because when you're in darkness and a creature can't see you, but you can
+[0:49:09] Ian Lurie: see it, that's only if you're a rogue.
+[0:49:12] Sango: That's he's in my darkness, and he has double sight.
+[0:49:17] Ian Lurie: That is only if you are a Rogue. But let me double check I'm no, you're right. Straight advantage, okay, oh, okay, you guys have to consistently tell me these things because I don't remember them. So if you get to say this and then not the next time
+[0:50:01] Sango: my whole build was based around this.
+[0:50:05] Ian Lurie: Okay, we had you just, you hadn't said it yet, so I was confused for a minute. But okay, cool. All right, all right.
+[0:50:12] Jamar Ramos: Well, then now I will roll with the advantage. Oh, thank you. 19, so that's a crit,
+[0:50:27] Ian Lurie: okay, this could hurt
+[0:50:28] Jamar Ramos: another 19, another crit. Come on, big money, no Whammy, and that last one is a 15. So two crits. Okay?
+[0:50:45] Ian Lurie: Those are natural nineteens, right? Yes,
+[0:51:00] Jamar Ramos: that'll be 44 points of damage.
+[0:51:03] Ian Lurie: Oh, shit. Okay, so two of these beams Lance out of the darkness. This is what it looks like to you mossy as you're down here, you suddenly it's like almost a Death Star, kind of effect. These two eldritch beams just Lance out of the darkness and pierce nithrax is wings, and nithrax lets out almost a higher pitched kind of shriek, instead of a bellow. This time, you could tell that really hurt. And in fact, he's kind of, he's flying a little bit oddly. You don't think he's lost any speed, but it's, it's almost like, you know, if someone knocks their knee against something, and they're not really, you know, they're they haven't lost their speed, but they're definitely having a hard time moving around. That's almost kind of what you're seeing from the dragon at this point.
+[0:51:52] Jamar Ramos: All right, and bonus action, I am going to lay on hands and heal myself for 65 points, and That is all for me.
+[0:52:11] Ian Lurie: Track, all right,
+[0:52:21] JP Sherman: definitely, probably outside of the 150 range, right? Yeah, okay, so this is going to be a long range, okay, so this is going to be a disadvantage, okay, okay, 24
+[0:52:42] Ian Lurie: that hits 26 also hits
+[0:52:54] JP Sherman: 13 plus 417, points of damage. Okay, 614, 20 points damage.
+[0:53:03] Ian Lurie: Okay, do you guys like describing how you kill things? Oh, yeah, definitely start doing that. Okay, I'm just going to steal from Matt Mercer. How do you want to do this?
+[0:53:17] JP Sherman: All right, so the Elvis blasts like create this gaping bloody hole in in his chest, like we can see. You can see the rib cages and all the sinew and the arrows just pump one in the heart, the second one goes right in the heart too. So that's how it goes, okay.
+[0:53:43] Ian Lurie: And nithrax falls into the water, and where he hits the water actually freezes solid, so that you just see his head kind of partly halfway out of the water, with the water kind of across his his neck, and the water is just turned to ice around him. You now have about nine seconds before the Red Dragon arrives. I'm gonna take a quick break. You guys can talk amongst yourselves about exactly what it is you want to you want to
+[0:54:18] Jamie Indigo: do. Oh, yes. Panic amongst yourselves.
+[0:54:20] Ian Lurie: Yep. Panic amongst yourselves.
+[0:54:23] JP Sherman: Who has the Syndic sound Richter? Okay? When, when that red is paying attention to us, we need to call in. We need to call in the spell cannon. And some and some of the Ballista, because this thing looks big.
+[0:54:47] Jamie Indigo: Man, we've got a gully here. Can we make some kind of trap with it?
+[0:54:51] Sango: I was just thinking, like standing on top of this rock, that white dragon got to get a little bit of a ways away from us, because he could still hit us that hurt. Hit us
+[0:55:03] JP Sherman: that hurt the so I can, I can conjure a Grasping Vine, and if it, if it hits them, anything that is, anything huge or smaller, gets dragged in and dragged 30 feet closer and is restrained.
+[0:55:24] Sango: I think it's larger than huge.
+[0:55:28] JP Sherman: I'm double checking,
+[0:55:30] Jamie Indigo: um, can anyone, like, make a duplicate of themselves and put it down in the gully, and we could trap, try and trap it in there.
+[0:55:39] JP Sherman: I cannot do that. Yeah. Yeah. If it's huge or smaller, then it gets grappled. Otherwise, it's just a bonus action to WAP them. The other thing that I can do is Grasping Vine. It's a strength save, so it's unlikely, and he'll burn through the resistances. But if it does capture then they are ensnared by vines and they cannot fly.
+[0:56:17] Jamie Indigo: Ian, is there any way to like somehow wrap them around his wings while he's in air.
+[0:56:25] JP Sherman: Yeah, if the ensnaring strike hits him, and like he said, and he doesn't save the vines will wrap around the wings and he will fall.
+[0:56:36] Jamie Indigo: So I can't help but think we should move out of this clustered pattern with the time we have Yes, huh, I
+[0:56:49] Ian Lurie: said it's funny. You should mention that. Okay, so what? Have you guys decided to do?
+[0:57:06] Sango: We're going to probably go down in the valley.
+[0:57:10] Ian Lurie: Okay, you're still an initiative. I will tell you something is you now see 4.4 dots. Hold on, yeah. Four dots suddenly appear around the diving shape of the dragon and rapidly grow as they drop towards you at incredible speed.
+[0:57:38] Jamie Indigo: Can we have used the time to distribute ourselves out of this pattern
+[0:57:43] Ian Lurie: you can so you have basically, well, you had one round. You had about three seconds.
+[0:57:53] Jamie Indigo: Okay, are we on this cliff? Go ahead.
+[0:57:59] Jamar Ramos: Jamar, no, no, ask answer Jamie's question, yes.
+[0:58:03] Ian Lurie: Um, you are, well, you can see where you are here, right? You're right on the edge.
+[0:58:08] Jamie Indigo: But how high up? Sorry, that was the question.
+[0:58:11] Ian Lurie: You are. About 20 feet up,
+[0:58:24] Jamie Indigo: okay, yeah.
+[0:58:28] Ian Lurie: But I'm pretty sure you, you're so what's your movement again, 30, but you take no penalty.
+[0:58:36] Jamie Indigo: I don't take penalty for climbing, yeah, so I'm wondering if I did my movement, and then my action is movement, and then the feline agility trait, could that allow me to get over to the back corner, side of this, on the other side of the gully,
+[0:58:59] Ian Lurie: you know, like there
+[0:59:02] Jamie Indigo: or like across, yeah,
+[0:59:06] Ian Lurie: that's a long way. Let's see. So you could do 30 down, you could do 10 down, or, sorry, 20 down and then 10, then you bonus action dash, that's another 30, which gets you to about there. Yeah, with feline again, I'm gonna kind of do this stuff roughly, because the measurement is just too hard. So, yeah, you're right about there. At this point I
+[0:59:29] Jamie Indigo: can double my movement. I don't know if that's
+[0:59:32] Ian Lurie: what you did. That's what I'm counting. Okay,
+[0:59:36] Jamie Indigo: perfect. And then I would like to be, you know, we'll hide myself up in a
+[0:59:42] Ian Lurie: you're not quite far enough to hide, you end up right about there. Well, yeah, right about there. Trust me on this. You don't quite make it to the shadows, so you're part way across. You know, the dragon is still two rounds away. And that's when you notice these little whatever they are, coming towards you.
+[1:00:10] Jamar Ramos: Instead of moving Richter's going to use what time he has to speak into the sending stone and say, We need to spell cannon back as soon as possible. Okay,
+[1:00:26] Sango: all right. Sango says to Richter, let's jump down, because I don't want to leave you up here alone, but I don't want to stay up here.
+[1:00:40] Ian Lurie: I don't Richter. Oh, you if you activate your armor, you could do it. Otherwise, you're going to bounce a few times. It's going to be uncomfortable.
+[1:00:51] Jamar Ramos: Activate the armor. Okay,
+[1:00:55] Ian Lurie: you just jumping down like that.
+[1:00:58] Sango: Oh, no. Other Other side.
+[1:01:01] Jamar Ramos: Other side. I don't have, I don't have enough movement to get there.
+[1:01:04] Sango: Well, you can get
+[1:01:06] Ian Lurie: you. It's only 15 feet to get to the edge.
+[1:01:09] Jamar Ramos: Wait, hold on. Are you gonna fucking know This is Sparta kicked me off the side. Brother, I might.
+[1:01:17] Sango: I'm probably not strong enough to move you, but I might try. So it takes
+[1:01:20] Ian Lurie: you 20 feet of movement to get to here. You're moving the 15 feet over and then five feet down. It's not really broken up terrain. And if you want to just fling yourself off the edge and swan dive, you certainly may. You will need to activate your armor then
+[1:01:36] JP Sherman: activated or
+[1:01:37] Jamar Ramos: take the damage. Nope. Ah. Ah,
+[1:01:43] Ian Lurie: give me a Dex, Dex, check,
+[1:01:54] Sango: 11. Okay,
+[1:01:56] Ian Lurie: so you actually you land, knock down.
+[1:02:06] Jamar Ramos: That's half my movement to get up next round, right, correct.
+[1:02:09] Ian Lurie: Cool, but you're lying there thinking this armor really is pretty good, even though it does it's still you feel it, you feel the wind get knocked out of you, but you don't take any damage. And then, I can't remember how long the armor continues to give you that, but could be helpful. 10 minutes. Okay, Sango, what are you doing?
+[1:02:31] Sango: Sango has got to run out and jump over the edge and do like a swan dive. And then when he lands on the ground, he's gonna, he's gonna go down like Black Widow and then flip his head up,
+[1:02:43] Ian Lurie: yeah, which is only disturbing when Sango does it, yep.
+[1:02:52] Jamie Indigo: Oh, God, at least I have Sango and Black Widow armor is pretty funny for that one
+[1:02:57] Ian Lurie: is disturbing, but it looks like a bunch of popsicle sticks.
+[1:03:04] Sango: Anyway, I'm gonna move like I'm gonna put about 10 feet between me and Richter, just so he's still inside, but just so, all right, we're not completely right next to each
+[1:03:16] Ian Lurie: other, so I kind of let everybody do things kind of simultaneously here, drag. What are you doing in that intervening moment? And everybody's like, Oh shit,
+[1:03:29] JP Sherman: drag is gonna do two things. He's gonna use the bush as concealment. This one right here, the one that's right next to him, yes, okay, and he is going to activate Surah, okay, and her hold on, and She is going to kind of Dash, okay, hold on. I don't
+[1:04:08] Ian Lurie: know why I don't have an Allosaurus, but it's all right. I'm we're gonna go with a Good Dinosaur, because I know that doesn't look sufficiently, yeah, you know what? That probably looks better. Awesome.
+[1:04:33] JP Sherman: Okay, and dash. Oh, that's awesome. Not that big,
+[1:04:46] Jamie Indigo: but I have a spell.
+[1:04:48] Ian Lurie: Okay, you're gonna dash which way,
+[1:04:54] JP Sherman: easterly towards the corner,
+[1:04:59] Ian Lurie: and how fast?
+[1:05:01] JP Sherman: 120 feet.
+[1:05:02] Ian Lurie: Okay, this could be very important. So just straight, this way, 120
+[1:05:19] Unknown Speaker(s): Yes, which is,
+[1:05:21] Ian Lurie: why am I unable to do math? That's 2014 tiles, 24 tiles, 24 tiles, yes, 24 right. Five times. 24 is 120 Yeah, okay,
+[1:05:39] JP Sherman: well, actually, right in that little canyon where the
+[1:05:42] Ian Lurie: pass is, where the water is, yes, okay, so she's gonna have to jump down then. So that's now, you know what? She can just make it actually do Allah's have any special abilities as far as running up and down things? No, no. Okay, she hands up right about here, then that's awesome, because that's difficult terrain too.
+[1:06:07] JP Sherman: Yep. No, that's cool.
+[1:06:10] Ian Lurie: Okay, at that moment, these four objects that you saw falling turn into spheres, and they each hit the ground with like this sound as the Red Dragon arrives rush ghoul, or Fire Spirit, as she is called, one of the first among Tiamat lieutenants drops a set of fireballs on You. First one is there. He's
+[1:07:02] JP Sherman: trying to kill us. That's one.
+[1:07:18] Unknown Speaker(s): Oh, I'm 213,
+[1:07:50] Ian Lurie: drag, give me a charisma, check a Christmas. Save, Christmas save.
+[1:08:01] JP Sherman: That was an 18 and I have a plus one charisma.
+[1:08:03] Ian Lurie: Okay, so it's basically luck that one of the meteors in the Meteor Swarm does not fall directly on on Sura, which obviously would be, Oh, Jesus, really bad. But Surah popped out just the spell was cast. Since I'm having it all happen kind of simultaneous, I'm just going to say you're okay. Where is the villains discontent?
+[1:08:35] JP Sherman: Five, maybe six rounds away. There
+[1:08:37] Ian Lurie: we go. Another one falls under the villains discontent. The range of Meteor Swarm is one mile, and you can drop them on four different points. So one of these hits the villains discontent does anyone have the villains discontents stats?
+[1:09:00] JP Sherman: I Yes, pretty quickly
+[1:09:05] Sango: here, it's got a Dex of 30.
+[1:09:11] Ian Lurie: No, it has a Dex of four.
+[1:09:18] Jamar Ramos: Yeah, cool. Drop Kick in the chat. Thank
+[1:09:21] Ian Lurie: you very much. Yeah, it's, it's the whole, whole points and damage threshold that really matter here. 600 whole hit points, damage threshold, 40. Okay, so these, these four huge balls of fire just land on the ground, and when they first hit, they're maybe volleyball sized, and then they just explode outwards in these incredibly white, hot spheres of fire. You guys watching horror as one hits the villains discontent. And it takes, it immediately takes, well, it's not going to make the save you. Takes 140 points of fire and 140 points of bludgeoning damage immediately. So it takes 101 100 because of the hall, it's a lot of damage. I mean, it takes a hard hit, but it does not do enough damage to even slow it down. There's, you know, you can, you can, you can't see much of it, because you're about to get hit too. But you just see this and all this debris and stuff start coming off it, and you're looking at it like, what the fuck was that? And just then they hit each of you as well. So now each of you, anybody
+[1:10:44] Sango: else, have a hard time hearing? Can
+[1:10:48] Ian Lurie: you hear me? Okay, no,
+[1:10:50] Sango: you're all good. Okay. I didn't hear any of that, but I could see him doing stuff with us.
+[1:10:55] Ian Lurie: Hey, there was a big explosion and shit, and things are flying off of Ian's discontent. Basically, the you guys are watching you the drag the white dragon goes down and freezes. And then you look up just in time to see these dots. And just as you see the dots, the villains discontent gets hit by some kind of barrage, and you see it's enveloped in fire for a minute. You hear all this crashing and noise. You see the ship kind of almost staggering from the hit, and you don't see anything else after that, because that right then is when the the other three meteors hit each of you. So now you each you all need to give me Dex saves, DC, 24 sorry. DC, 23 DC, 23
+[1:11:53] Jamar Ramos: Sango plus fire, since you're near me,
+[1:11:56] Jamie Indigo: 28 BB, okay, and I'm resistant to fire, okay.
+[1:12:06] Unknown Speaker(s): Matty 183 for Sango.
+[1:12:09] Jamie Indigo: Wait, silvery Barb's up.
+[1:12:12] Ian Lurie: Who do silvery barbs?
+[1:12:14] Jamie Indigo: That natural one from Richter, okay?
+[1:12:17] Ian Lurie: And that does that? Let him re roll, nice. Teamwork. Love it.
+[1:12:26] Jamar Ramos: Oh, that's going to be 16. Okay,
+[1:12:28] Ian Lurie: so you still don't save but you don't actually throw yourself like you're lying on the ground. You don't actually split yourself out like, come and burn me fire. All right, so Richter this, this is not great for you. You take 120 points of fire and 120 points of bludgeoning. But what does your armor do?
+[1:12:51] Jamar Ramos: Bludgeoning is nothing. Thank God, that's right. So you take 120
+[1:12:55] Ian Lurie: points of fire damage.
+[1:12:59] Jamar Ramos: Ian's getting real low on Richter y'all,
+[1:13:01] Ian Lurie: yeah, yeah, yeah. Mossy, you took, you saved, so you take no damage from the fire because you Dex. It was a Dex save. And you also take no damage from the bludgeon because those are both deck saves, and you have evasion. So you took nothing. Sango, you saved, yep, you take nothing. Drac, you say it, I saved. Okay, so you take 60 and 6060, fire, 60 bludgeoning,
+[1:13:35] JP Sherman: absorb elements on the fire. Okay,
+[1:13:37] Ian Lurie: so you take half of that.
+[1:13:41] JP Sherman: You said 60 and 60. And 60,
+[1:13:43] Ian Lurie: yeah, got it. And then just screaming, out of the sun comes the largest flying creature you have ever seen, like you were face to face with an aspect of Tiamat. But it wasn't the full Tiamat. This thing is bigger and it's flying, and it comes looping in over the island so fast that you feel the wind of its passage. Oops. And you feel the heat from its wings. And it actually stops and hovers it back wings for a second, and it bellows to you all. It cries out to you all. I am URIs, ghoul, Fire Spirit, first of Tiamat, you no longer face a weak, white half Dragon, and now you are doomed. And he continues to back wing, takes a huge inhale, and now it's your turn.
+[1:15:20] JP Sherman: Do we reinitiate? Do you
+[1:15:22] Ian Lurie: know Richter? It's it's your turn. All right,
+[1:15:33] Jamar Ramos: what do I do? What do I do? What do I do?
+[1:15:39] Jamie Indigo: Take potion. Potions are nice.
+[1:15:46] Jamar Ramos: Now, what? Action, okay, yeah, action Richter's going to cast heal with the light that sparks. Okay,
+[1:16:08] Ian Lurie: good choice. And is that just on you? I can't remember how many.
+[1:16:14] Jamar Ramos: Yeah, heal is just on me. Anything else I do with the light that sparks when anyone else? Uh, we're gonna need a pine box, yeah,
+[1:16:23] Ian Lurie: or maybe just a dustpan.
+[1:16:26] Jamar Ramos: Seriously, um,
+[1:16:32] Ian Lurie: you, by the way you you look now and you do see the villain says, content is still there, listing a little bit. There's definitely some fire, some debris falling off, but it does not appear to be mortally wounded. No.
+[1:16:48] Jamar Ramos: Richter's just gonna end his turn right there.
+[1:16:52] Ian Lurie: Okay, gonna stand up or just stay down.
+[1:16:54] Jamar Ramos: Oh, you know what? I totally forgot that I was laying down. Yes, I don't want to lie down and bleed a while. I like to stand up.
+[1:17:01] Ian Lurie: But why? Pourquoi? Aha, even leap in the air a little bit, I feel better. Okay, drag. It's your turn. You're feeling a little crispy from being honest.
+[1:17:18] JP Sherman: Yeah, that's that was no bueno. All so bonus action, Hunter's Mark.
+[1:17:29] Ian Lurie: Okay, what's the range?
+[1:17:33] JP Sherman: Let me find out. It. Ooh. 90 feet. I've never had to check that before. 90 feet.
+[1:17:47] Ian Lurie: Yeah, flying creatures. Part of this is all of this is fucking with your guys sense of scale, because this thing is so huge that it feels like it's right on top of you, but it's actually still 150 feet. 50 feet away, okay, or more. And it's just like, there's a constant monolog, like it does not, shut up, shut up.
+[1:18:14] JP Sherman: Okay, so it's out of range for the house mark, but once I got it, it doesn't leave
+[1:18:19] Ian Lurie: correct, okay, once the hunters mark is on it, it's on it. It doesn't it can move beyond the range. It's like any spell, right, like that. You have to, you do have to cast it and hit it first?
+[1:18:30] JP Sherman: Yes, okay. In that case, I'm going to use some, some of the stone as some cover, and I am going to hit it with a First little spell, okay, ensnaring strike. Okay. It is a strength save of 19.
+[1:19:12] Ian Lurie: So you cast that spell, and you see the vines wrap around it. And, I mean, it just looks like a clean hit, and it just effortlessly flexes its wings, and the vines just disintegrate. It's like they they ignite as they wrap around it. Could I tell
+[1:19:32] JP Sherman: if it was a save or a it was in direction, it was a safe Okay, cool, cool, cool.
+[1:19:39] Ian Lurie: But it just, it's a red dragon. Everything has to be cool. It's, it's literally like the mascot of Dungeons and Dragons. So, yeah, yeah,
+[1:19:49] JP Sherman: the dragons. Part of the dragons. I'm gonna have surah. Trace the path of the valley that she's in, okay? Because Surah has supplies on her, Okay, this is not, this is not a dash. She has potions in her saddle bag. Okay, I want to position her so that, if necessary, if necessary, she can quickly get to someone to deliver a portion.
+[1:20:30] Ian Lurie: Okay, love it. All right. That's about as far as she can get this round. She had to come down some more awesome. Okay, that's it. All right. Um, um, the dragon. It's too fucking high up in the air. Oh no, not for that, not for that.
+[1:20:59] Jamie Indigo: Oh, now we can count the tiles.
+[1:21:04] Ian Lurie: Sango, what's your AC? Oh, wait, you're in the Oh, no, yes, I do care. God damn it, nah, I can't hit anything. Mossy. You're way over there. Oh, no, mossy, yeah, mossy.
+[1:21:25] Jamie Indigo: What's your AC where do we land on that? Plus two from Richter, if I was hidden, but said, Hey, I'm here. Could you still cast it?
+[1:21:33] Ian Lurie: You're not hidden right now?
+[1:21:35] Jamie Indigo: No, I know. I'm not in right now, but earlier, when he did the blessing to it
+[1:21:39] Ian Lurie: did you are shielded.
+[1:21:41] Jamie Indigo: Okay, then my AC is 20 okay.
+[1:21:46] Jamar Ramos: Is that including the plus one I gave all you guys for the sanctuary of the Shepherd from the long rest?
+[1:21:54] Jamie Indigo: No, the my AC is 21 Yeah, he got a 31
+[1:22:01] Sango: Well, fuck that guy. Yeah,
+[1:22:03] Ian Lurie: he's he's dick. Let's see.
+[1:22:10] Jamar Ramos: I love how Ian was like, oh, what's your AC sitting on a 31 waiting for us
+[1:22:16] Ian Lurie: to do yet. I had not rolled yet. I just want to point that out. Okay, so it's two hits plus a crit. On the crit, you take,
+[1:22:26] Jamie Indigo: can I still rebarbs That crit? Yes,
+[1:22:29] Ian Lurie: you can.
+[1:22:30] Jamie Indigo: I would like to celebrate barbs the crit. Please
+[1:22:32] Ian Lurie: take eight points to fire on that one, seven points of fire on the next, and three points of fire on the third, basically a set of scorching rays. It flaps its wings. He flaps his wings, and these rays just come out of his wings, sort of almost Rodin style, if you've watched any of the old monster movies, and just
+[1:22:56] Jamie Indigo: 18 total, yes, resistant makes it nine,
+[1:23:01] Ian Lurie: correct, cool
+[1:23:07] Jamie Indigo: reaction. I've had tiny cakes spicier. It
+[1:23:10] Ian Lurie: kind of looks at you and you see this eye that's as big as you are, kind of focusing on you. I admire your pluck. Little one,
+[1:23:22] Jamie Indigo: you'll admire me plucking your eye out.
+[1:23:25] Ian Lurie: Mossy, it is actually your turn.
+[1:23:28] Jamie Indigo: Excellent, you. This might be a dumb idea, but it also seems on brand, hmm, okay, um, I want to lean into this and getting all of his attention and getting to focus on me. I'm going to walk out to the middle and try and get between drag and the darkness crew so like in my shit talking, okay, and then that
+[1:24:25] Ian Lurie: would require a dash. Definitely, okay. You have to double move.
+[1:24:33] Jamie Indigo: Can I still get out into the middle there in between?
+[1:24:36] Ian Lurie: Easily get to there. You still have
+[1:24:38] Jamie Indigo: the high point. Y'all are both right there. One of y'all can hear me. Heal me if I die, it'll be fine, yep, okay. I'm trying to keep all of the attention on me. I am talk. I am shit talking every dragon we have murdered. Did we ever read about him in any of the books? No, okay. You weren't even worth Keanu writing about you're such a second rate character, you've been locked away in the basement as Tiamat little pet for so long that you've forgotten what it's like to actually do something with your life. And I'm going to,
+[1:25:13] Ian Lurie: you know what? No, he's too smart for that. It does annoy him, though. He's definitely pissed. Okay? And then what are you gonna
+[1:25:24] Jamie Indigo: do? I'm gonna fire. Bolt him. Okay,
+[1:25:26] Ian Lurie: what's the range on fire? Bolt 120 I am not sure if you're in range. I probably are. No, you're not slightly out, sorry, just a little bit out of range.
+[1:25:46] Jamie Indigo: Well, let me see if I have anything that goes further. I mean, technically, but okay, um, then I'm gonna keep shit talking him, and I'm casting elminster's illusion on myself. Yeah.
+[1:26:33] Ian Lurie: What does that do? Just makes your heart cane
+[1:26:36] Jamie Indigo: warheads protect you against magic. For the duration, you have advantage on saving throws against magic, spells and effects. Additionally, if you succeed in a saving throw that would normally had damage dealt, you take no damage got it
+[1:26:49] Ian Lurie: could be valuable, especially
+[1:26:51] Jamie Indigo: when you're a mil. Should talk and a dragon hoping the other people are taking an opportunity.
+[1:26:55] Ian Lurie: Yep, yep, yep, okay, Sango, your turn.
+[1:27:02] Sango: Sango. Did Richter already go? Does Richter go before Sango
+[1:27:07] Ian Lurie: Richter goes at the very beginning of the round, and he, I believe, used he'll on himself.
+[1:27:16] Sango: Sango says, Director, let me have your sorry, virginity. Now you're saving that for somebody special.
+[1:27:37] JP Sherman: You still had that
+[1:27:41] Jamar Ramos: just because you've lost it,
+[1:27:47] Sango: buddy, I lost it before you were born.
+[1:27:50] Jamie Indigo: Let me have you tagging. Doesn't count
+[1:27:55] JP Sherman: Mormon, it's soaking.
+[1:28:00] Sango: Let me have your seed of the iron wood healer. When you get a chance, toss it to be next round, whatever he is going to do. A The only thing that he's got that can reach that far, a guiding bolt.
+[1:28:16] Ian Lurie: Okay? Guiding bolts. Pretty great spell, damn.
+[1:28:20] Sango: It. That is a total of 16 to hit.
+[1:28:24] Ian Lurie: Madness is that's what I thought. Dragon is incredibly agile.
+[1:28:28] Jamie Indigo: Wait, can I I can't see you're in darkness. Bastard.
+[1:28:36] Ian Lurie: Okay, so that's it for Sango. Are you gonna move
+[1:28:42] Sango: the he's gonna, but, oh, he's, he still needs to be 10 feet away from Richter, by the way. So I don't think it's gonna matter a whole lot, but just okay to the left on the wall, or the other left Sango, is left, like, there, yeah, Yeah, that's it,
+[1:29:13] Ian Lurie: okay, all right, that's it for Sango.
+[1:29:23] Sango: Games, yep. How close is the village discontent to anybody and everybody?
+[1:29:34] Ian Lurie: About 500 feet right now.
+[1:29:37] Sango: 500 feet. What's the range on the spill cannon?
+[1:29:41] Ian Lurie: Wow, that's a good question. Hold on, range can be multiplied one d6 times. Any evocation spell damage and range are multiplied one d6 times.
+[1:29:59] Sango: Okay, um, yeah, since 500 feet right,
+[1:30:11] Ian Lurie: where the hell is it? There it is, yeah, that's, that's probably about 500 feet. Just so we can see everything
+[1:30:21] Sango: is uh, is Dragon's Breath considered, uh, a magical effect.
+[1:30:30] Ian Lurie: It's not a spell, right? Yeah, I know. So you can't, you can't cast it through the spell cannon, if that's what you're thinking,
+[1:30:37] Sango: nope, nope. I'm just wondering if, if a Dragon's Breath is magical in nature.
+[1:30:43] Ian Lurie: Oh, you mean, like from a dragon? No, not, not as far as resistance to magic, no, okay.
+[1:31:01] Sango: Okay, so from from the deck of the ship, you see a glowing orb, sort of surrounding the deck of the ship, and you hear a gruff voice say, Hey, boss man, hang in there. And and then he points, then craggy and points to to the to the mage that's on the ship, Steve, I think his name was, and tells him to to fire something or other at the dragon.
+[1:31:37] Ian Lurie: Something or other at the dragon. Okay,
+[1:31:39] Sango: some sort of spell that he has,
+[1:31:41] Ian Lurie: some sort of spell that he has. Let's see. What can he hit the dragon with? All right, we're gonna give this a shot. He may not have anything.
+[1:31:55] Sango: Isn't he an E vocation? Was it?
+[1:31:59] Ian Lurie: He is an E vocation? Yeah. But no, he may not have evocation spells that are going to do anything here. I guess he's got, yeah, he does have that. All. Right, he's gonna give this a shot. He has to spell motherfucker.
+[1:32:32] Jamie Indigo: And wait, motherfucker is then the new edition. It's
+[1:32:35] Ian Lurie: a spell called motherfucker. Yes, we try not to talk about it. Oh, my God. And everything that could have gone wrong did. So he only rolled a one on the multiplier, which meant, because there's a plus one, he got two. So it's a 2x multiplier, which is only 240 feet. So this little teeny fireball gets about to here. But even if it had hit him, of course, Red Dragons are immune to fire damage of all kinds, so that wouldn't have done any good anyway. So craggy is what else do you do?
+[1:33:08] Sango: That's it. He's just waiting for the ship to come in closer so he could hop off. All right.
+[1:33:14] Ian Lurie: So the discontent goes like this. Lysander says, I do not know if this is a very good idea. I'm just saying craggy, and you've been back on the ship for 30 seconds. You're already getting me in trouble.
+[1:33:27] Sango: Well, it was track's idea. You blame him.
+[1:33:31] JP Sherman: I'll take that.
+[1:33:32] Ian Lurie: I do not know if I believe that, but Okay, all right, the dragon
+[1:33:42] JP Sherman: in the previous session, I did put a recommend, a little note in the suggestion box. The note said it was not track's fault.
+[1:33:53] Ian Lurie: Okay, the dragon lands on the cliff here, and there's this, your brain. Your minds are almost numbed, particularly Richter you and Sango by just the impact and all these rocks come spring down. You see these two sets of claws, each claw the size of, you know, of a horse wrapped around the edge of the cliff as they kind of grip into the stone, and you see them actually penetrate the stone, and it rears back, and you hear the inhalation, and you know what's coming. And Richter Sango and Mossy are all enveloped in flame as the dragon breathes fire on you all. You all need to make Dc. 24 deck saves. 28 nice, so you'll take nothing.
+[1:35:02] Sango: 29 29 oh, plus, Richter's don't throw
+[1:35:05] Ian Lurie: others, so you'll take nothing.
+[1:35:08] Jamar Ramos: Richter failed. Okay,
+[1:35:11] Ian Lurie: so the ground around you blisters, literally, the stone blisters, and starts to flow and then quickly hardens into almost a glassy substance, and you smell the reek of burning, literally burning stone, like you did not know that stone could actually burn Mossy. You roll away from the damage, just barely getting away. Sango, you find your way literally between jets of fire. Richter, you take 156 points of fire damage. And are, I think, unconscious at this point, yep.
+[1:35:53] Jamar Ramos: So sorry. Mossy, you lose that plus two. Oh. Hold up, wait a second. Richter is about to fall down, but in his pocket, his mode of the undying gives him a second win. So he's down to one hit point, okay,
+[1:36:15] Ian Lurie: but you're not down.
+[1:36:18] Sango: Love that moat.
+[1:36:21] Ian Lurie: It sits there above you, and it says, you may have escaped this time, but you are not escaping this battlefield. That's a terrible I got to work on my dialog. That's just, that's terrible. Richter, it's your turn.
+[1:36:35] Jamie Indigo: No, no, in my mind, this is Ian, and he does sound like that.
+[1:36:39] Ian Lurie: No, this is not Ian. This is not Ian. This is supposed to be fucking 900 foot tall, dark anyway.
+[1:36:47] Jamar Ramos: Is it a free action for Richter to hand Sango the iron wood healer, yes. Okay, then free action hand him the iron wood healer, yeah.
+[1:37:02] Ian Lurie: Assuming it's like in your belt or something, it's not in your backpack, because then you have to get the backpack out to open it.
+[1:37:09] Jamie Indigo: Okay, at this point, I think anybody who still has the iron would heal, would probably keep it tucked in their belt. Yes, you know, I
+[1:37:24] Sango: Okay,
+[1:37:36] Jamar Ramos: Richter is going to use his movement to step outside, you know, yeah, to step outside of Sango is darkness,
+[1:37:53] Ian Lurie: mossy. You see Richter come out of the darkness, and his armor is just all streaked and soot. It just you can literally see steam coming off of them,
+[1:38:06] Jamie Indigo: and reaction's still alive, baby.
+[1:38:10] Jamar Ramos: And Richter's going to stare up at the dragon, and in your chronic he's gonna say, Ian Richter, Shepherd, we are. RBG, your fire means shit to us, and he's gonna light off for eldritch blast.
+[1:38:26] Ian Lurie: Okay? Those do force damage, right? Yes, sir,
+[1:38:35] Jamar Ramos: it's gonna be first one is 29 to hit
+[1:38:37] Ian Lurie: that hits the shit out of him.
+[1:38:40] Jamar Ramos: Next 117, to hit. I'm guessing that's going to be a miss. This is all right, that third one is a 27 day hits and the faux foe. Fourth one is 16 to hit. So that's going to be a miss. So two hits, okay, all right. So 17 points of force damage
+[1:39:10] Ian Lurie: it. It hits, sort of on the side of his face, and you see a little bit of a nick, like a little bit of scale comes off or something, and he kind of it, kind of glances, and he moves his head a little bit, and he just immediately looks down at you. You see those eyes narrow again, and then he actually looks in another direction and drag you need to give me a DC, 23 three wisdom, save, I can't hear you. JP,
+[1:39:52] JP Sherman: I'm talking to myself. Oh, okay, that's why 24
+[1:39:58] Ian Lurie: Okay, um, god damn it. That was going to be amazing, but you ruined it. Okay, you're welcome, fine, and drag it is your turn.
+[1:40:10] JP Sherman: All right, Hunter's Mark, arrow, arrow, scooch in a and then scooch in a southwesterly direction to kind of get behind that ledge, behind the Okay, if you see, like, just kind of Southwest, see that kind of overhanging ledge,
+[1:40:36] Ian Lurie: yeah, so Like, over here, yes, okay, how fast? What's your movement? 60, yeah, yeah, okay, all right,
+[1:40:52] JP Sherman: okay, so to hit that would be a 27 and a 30,
+[1:41:06] Ian Lurie: okay, those both hit.
+[1:41:09] JP Sherman: First one, okay, six plus p is 14 plus five is 19 points of damage, okay, and then 511 19 points damage.
+[1:41:22] Ian Lurie: Hey, you have his attention
+[1:41:27] JP Sherman: and yeah.
+[1:41:35] Ian Lurie: All right, mossy,
+[1:41:41] Jamie Indigo: all right, I'm sorry. Oh, sorry.
+[1:41:44] JP Sherman: Bonus action, nature's veil. I'm invisible, okay?
+[1:42:01] Jamie Indigo: How many feet Am I from Richter? 20 feet. 20 feet. Okay, so I am going to use 20 feet to get to Richter, and they'll eat. You. Tell me where this fits into action economy, but get it out of the bag of holding, a potion of supreme healing.
+[1:42:38] Ian Lurie: Because of the way the bag of holding works, you just hold your hand over and say, give me that potion, and it just pops out. Pops out. So cool.
+[1:42:47] Jamie Indigo: Is the dragon gonna go before you do Richter? Yes, okay, my action is to pour it into Richter's mouth, okay? And then I will use 10 more feet of movement to get between the edge of the rock and the bush. You said, supreme healing, right? Supreme that is 20 plus 10 before Hey, he sorry. Real quick question for Richter, I'm within 10 feet that gives the book the first save, right?
+[1:43:43] Jamar Ramos: Yes, it is plus five. Thanks.
+[1:43:56] Ian Lurie: Okay, I need Richter and Mossy to both give me, oh, wait, I still
+[1:44:02] Jamie Indigo: have a bonus section, don't I?
+[1:44:06] Ian Lurie: Yes. 30 feet,
+[1:44:07] Jamie Indigo: okay, I am gonna, I'm gonna tuck and hide. Okay,
+[1:44:12] Ian Lurie: give me yours. 34 you guys still need to both give me DC. 23 wisdom saves, oh,
+[1:44:36] Jamar Ramos: I've got a goddamn plus fucking 14 so of course, I fucking failed
+[1:44:40] Ian Lurie: 24 okay? You save Richter,
+[1:44:46] Jamie Indigo: I can see you.
+[1:44:47] Ian Lurie: He looks down at you.
+[1:44:49] Jamie Indigo: Flash of genius. Can I give him plus five to it? Is that a reaction?
+[1:44:53] Jamar Ramos: It's still, it still won't be enough. Okay,
+[1:45:00] Ian Lurie: okay, Richter, he looks down at you and almost almost dismissively, just says, Neil. And you feel, you feel this irresistible urge to get down on your knees and almost sort of grovel before the might of this dragon, and that's going to be so that is until the end of your next turn.
+[1:45:28] Jamar Ramos: Is it a charm?
+[1:45:30] Ian Lurie: It is not a charm. It is a it's considered an enchantment. So it's like dominate person. I'm not sure what exactly they really call it, but it's definitely not a charm. I guess they call it a control spell. If you want to look it up real quick, you can while I keep things moving.
+[1:45:57] Jamar Ramos: Oh, no, I know. I trust you. I was just asking.
+[1:45:59] Ian Lurie: I don't, I don't. I don't trust me so, but I appreciate that. What'd you say?
+[1:46:07] JP Sherman: JP, was that command? Yes, that is a spell I have.
+[1:46:17] Jamar Ramos: It says in here you attempt to beguile a humanoid yada yada yada, succeed on a wisdom saving throw or be charm.
+[1:46:25] Ian Lurie: Okay, then it's a charm.
+[1:46:27] Jamar Ramos: Then I am not.
+[1:46:29] Ian Lurie: He says, fuck. Okay. All right, Sango, it's your turn. Okay?
+[1:46:42] Sango: Sango is going to take he's gonna move 20 feet to his left.
+[1:46:58] Jamie Indigo: He's just gonna nonchalantly shuffle off.
+[1:47:03] Sango: He is going to use his action to plant the iron wood. Healer, okay, the iron would seed, yep. Healer, I'm so glad you moved that sphere, because now he's going to move back. God damn it. Over the, well, he's doing this over the over the party line. Richter, do you want cover?
+[1:47:37] Jamar Ramos: No, don't worry about me.
+[1:47:41] Jamie Indigo: I mean, it's big enough to share, okay,
+[1:47:43] Sango: but you get advantage when you're in darkness for shooting those little blasts of yours.
+[1:47:50] Jamar Ramos: Okay, then I'll take cover. Okay,
+[1:47:53] Sango: so I will move just over enough to darkness. Party cover. Yeah,
+[1:48:02] Ian Lurie: and Mossy made it weird, okay,
+[1:48:06] Sango: as is my way. And then we'll take a little, oh, we'll do a little shoot, a little thing at him,
+[1:48:21] Ian Lurie: a little thing, okay, little,
+[1:48:25] Sango: my little, what's my call it the
+[1:48:27] Ian Lurie: little thing, what you already
+[1:48:28] Sango: form, Archer thing, okay, that's, that's a 27 hit. Okay, that hits, and that is seven damage, all right,
+[1:48:43] Ian Lurie: yeah, you guys are standing there. Sango, you've just done what you've done. The dragon starts to spread his wings, craggy. And what are you doing?
+[1:49:01] Sango: I can still on the ship, still in the ship. Okay,
+[1:49:10] Ian Lurie: you are over the island now.
+[1:49:13] Sango: Okay, okay, then craggy is gonna jump off. Okay. He is, He is invisible. He cast greater invisibility on himself, so and then he's going to just feather fall or No, he's flying. Oh, okay, this guy's flying thing on
+[1:49:49] Jamie Indigo: flying turtles, craggy
+[1:49:51] Sango: that's, let's see, that's his action. That's his Why
+[1:49:57] Ian Lurie: is it just so funny and in Congress to me that there's this turtle flying through the air, or the greatest of ease,
+[1:50:07] Jamie Indigo: I imagine, he's, like, doing the strokes like a sea turtle, yeah, yeah.
+[1:50:13] Sango: He can't really do anything else. He's kind of all that stuff, but, and then, yeah, so then the ship knows to, like, leave. And, okay, you know, after he's dropped off. And does that wizard have anything better than a fire spell?
+[1:50:27] Ian Lurie: Yeah, that was actually Chaos Bolt, and he just rolled like shit. So he's got, I mean, like I said, everything that could have gone wrong. There went wrong. Ooh, not this time.
+[1:50:41] JP Sherman: 6x is,
+[1:50:48] Ian Lurie: almost all of his magic is fire, um, God, but he totally misses because he sucks. You know what? You guys need a new mage. That's just, he's just, ever since I gave him a name, he sucks at his job, I should have
+[1:51:01] Sango: kept on Steve. We're just
+[1:51:04] Ian Lurie: going to pretend he quits and we're just going to change his name to someone
+[1:51:11] JP Sherman: else. Okay, sure.
+[1:51:17] Ian Lurie: Urus ghoul leaps off of the the canyon wall and again, spray his gravel, and you see the claw prints and the edge of the wall the ground around him, and you guys are still steaming and bubbling almost, and his wings spread and he flaps the wind almost knocks you guys over and drag you need to give me a Save As he inhales and then exhales his breath weapon and fire comes streaming down All around you. Deck, save, 20 decks, DC, 26
+[1:52:02] JP Sherman: okay. Do I get Hold on? Okay, that would be a 28
+[1:52:24] Ian Lurie: okay, you save all right. Do you have any evasion or anything like that? No, okay, so you take 78 points fire damage, fuck me.
+[1:52:46] JP Sherman: All right. He just continues.
+[1:52:50] Ian Lurie: You're now completely wrapped in shadow as this enormous shape passes over you. You're pretty sure you hear this voice and almost Foghorn, Leghorn, he say, ready about we are turning this ship around. People. Richter, it's your turn.
+[1:53:21] Jamar Ramos: How far away is the dreadful from me?
+[1:53:33] Ian Lurie: Just whereas I could just use spheres instead, it is. Let's see five times 22 so 110 feet.
+[1:53:42] Jamar Ramos: Okay, I'm a buckshot that bitch with some eldritch blast, and I've got advantage, right? James, yep, okay, cool, yes, because you're all right, the first one's going to be a 22 to hit. That just hits. Second one is going to be a miss. 2060 26 to hit. A hits, okay, so two hits, all right, so 18 points of damage, Okay, and that's going to be it for Richter, okay,
+[1:55:03] Ian Lurie: I'm just looking at something real quick. Here. Guys got it all right. Okay, drag, actually, before you do anything drag or school drops. You know what? Scorching Ray works both ways. Um, him. He drops four scorching rays onto the villains, discontent.
+[1:55:49] JP Sherman: Jesus, well, they
+[1:55:50] Ian Lurie: probably don't even do enough. It's gonna be hard for them to even do enough damage to do anything
+[1:55:56] Unknown Speaker(s): because of
+[1:55:59] Ian Lurie: the whole points. Let's see here. Yeah. So no, he blasts it with three scorching rays. They all hit dead center, but they don't appear to do any damage. So mostly he did that because he thought it would look cool. Actually, a few of the crew get hit. And they get pretty badly burned, now that I think about it, but that's it,
+[1:56:26] Sango: and they all had 18 temporary hit points from when craggy was on there with his thingy.
+[1:56:32] Ian Lurie: Yeah, which is why they're not just dead. Okay, Drac, you are in a Total Eclipse of the Heart as there's this gigantic red dragon over shoot up in the balls. It is pitch dark.
+[1:56:46] JP Sherman: Okay, um, nope. That happens next level, blind fighting. Okay, I'm going to take out the dagger in the shield, okay, and I am going to hit him with the daggers. Okay? I'm assuming this is a because of the darkness. This is disadvantage. I don't have plain white
+[1:57:19] Ian Lurie: you know, you're not a disadvantage because you're in the darkness, but there's basically a b2 bomber over your head. All you have to do is vaguely throw upwards and you're going to hit it.
+[1:57:27] JP Sherman: Got it? Okay? First attack, 25 to hit.
+[1:57:33] Ian Lurie: Okay. That hits
+[1:57:35] JP Sherman: the Nick attack, 27 to hit, yeah. And then the other dagger attack, that is a crit, okay, okay, so the damage goes like, okay, the crit is a 26 okay. That hurts. The Nick is eight points of damage. That's 34 and the second dagger attack is 16 points of damage. All right? Bonus action, I'm going to have Surah dash closer to Richter, excellent.
+[1:58:40] Ian Lurie: Okay, I love this. Where the hell did I put Sarah? Sarah, Hello, here, Sarah, there you are.
+[1:58:50] JP Sherman: She's super camouflaged.
+[1:58:55] Ian Lurie: She's pretty damn speed. You said 150 so could be 121 20. Okay, so,
+[1:59:02] JP Sherman: so she has potions if he needs them.
+[1:59:06] Ian Lurie: Yeah, I think a lot of people need them at this point. Okay, is that your turn? You're gonna move or anything? Okay, craggy, what's your armor class?
+[1:59:22] Sango: He's invisible, yeah,
+[1:59:23] Ian Lurie: why a blind site? So that doesn't really matter. What's your armor class, 21 you get hit by a Jesus, 123, scorching rays. First one does 11. Second one does 11, real third, one does six. I believe I just rolled two elevens on 2d six.
+[2:00:10] Sango: What do you did? Okay, yeah.
+[2:00:17] Ian Lurie: Mossy, your turn. Okay.
+[2:00:20] Jamie Indigo: DM, question, yeah, this potion of golden terror. Does it work? Despite opening it?
+[2:00:28] Ian Lurie: Does it work? What
+[2:00:30] Jamie Indigo: by opening it?
+[2:00:32] Ian Lurie: No, you have to drink it. It's a cursed potion. So whatever something has to consume it.
+[2:00:40] Jamie Indigo: Something, okay, I don't think I understand how this it's
+[2:00:44] Ian Lurie: a cursed potion. So the idea was someone would drink it thinking it's something else, and then, ah, curse You to be terrified of all things gold. It's not, it's not like a It's not like a bomb. Throw it at someone. I like where your head's bad, but that's Yeah. So you could slip it to someone like you could pour it in a drink or doing something
+[2:01:07] Jamie Indigo: that might be fun next time we have to do with an asshole neighbor
+[2:01:10] Ian Lurie: trying to throw it down the throat of the ancient Red Dragon.
+[2:01:15] Sango: You could wait till give it to somebody who's gonna get swallowed by him. Volunteers.
+[2:01:21] Ian Lurie: That's an interesting volunteers,
+[2:01:29] Jamie Indigo: okay, that
+[2:01:32] JP Sherman: elf really upset my stomach, so
+[2:01:39] Jamie Indigo: all I can basically see is the back of a giant dragon at this point, right?
+[2:01:43] Ian Lurie: Yeah, the tail actually is snaking out over your head. It's kind of just sort of whipping around over your head.
+[2:01:52] Jamie Indigo: Oh, okay,
+[2:01:54] Ian Lurie: you can't, you can't really reach it. I'm just, it's just, it sounds cool.
+[2:01:58] Jamie Indigo: Yeah, that makes me go, could I cast web and catch it by the tail?
+[2:02:03] Ian Lurie: No, that's what I'm saying. Is it's just, it's no, here's the base. This is the area you can affect. But you have to picture this dragon is just stretched across the entire island, covering all of it, but you have to hit it square in the middle for web to take effect.
+[2:02:19] Jamie Indigo: Okay. Okay, I'm just
+[2:02:23] Ian Lurie: trying to give flavor here.
+[2:02:25] Jamie Indigo: Yeah, no, totally, fine,
+[2:02:27] Ian Lurie: massive, terrifying, blah, blah, blah, you know,
+[2:02:33] Jamie Indigo: can I see drag? No, yeah,
+[2:02:37] Ian Lurie: track's invisible unless you have the goggles down, but you didn't say that. You did
+[2:02:43] JP Sherman: that track's not invisible.
+[2:02:46] Ian Lurie: Oh well, Drac is not invisible, but track is
+[2:02:51] JP Sherman: not visible,
+[2:02:52] Ian Lurie: non visible, I guess is the better way to put it, yes.
+[2:02:55] JP Sherman: Jack, right now,
+[2:03:01] Jamie Indigo: how many feet is it away? Sorry,
+[2:03:16] Ian Lurie: 105 feet. I back track, where the hell are you
+[2:03:31] JP Sherman: under the dragon?
+[2:03:32] Ian Lurie: Oh, yeah, that's right, you are truly under the dragon. Okay, sorry, yeah. There you are. Okay. That looks really bad when I do that. He's not actually sitting on you. I only do that to players once.
+[2:03:56] JP Sherman: This reminds me of the Draco Lich.
+[2:03:59] Ian Lurie: No, the blue dress. See
+[2:04:01] Jamie Indigo: anyone? I can't do buffs.
+[2:04:07] Ian Lurie: You do see skirt with her little saddle bags of life?
+[2:04:16] Jamie Indigo: I'm I'm okay, but I just can't do anything useful, and it's immune to fire. I guess I'm gonna shoot an arrow. Oh, wait, hold on. Let me just make sure I don't have any Tinker to arrows. Boop, I'm
+[2:04:49] Unknown Speaker(s): course I don't
+[2:04:57] Jamie Indigo: does a 19 hit. No, no. Okay, then I will use my movement to climb up the cliff a bit, and my bonus action to tuck away in a shadow again. Even though it has blind sight, I'll take it for the cover.
+[2:05:18] Ian Lurie: Yeah, let's put you right over there, basically. Or do you want to? If you want cover cover, you could go over here. No, I just
+[2:05:28] Jamie Indigo: want, like a partial cover. I need to be able to see people to do anything.
+[2:05:33] Sango: Okay, cool. There you are. All right.
+[2:05:36] Jamie Indigo: I just want, like a nice plus two to my AC if something attacks me.
+[2:05:41] Ian Lurie: Yeah, hey, every little bit helps.
+[2:05:45] Jamie Indigo: You can dream. Okay,
+[2:05:46] Ian Lurie: right, right. Sango, it's your turn.
+[2:05:50] Sango: Yeah, mossy, how, how hurting are you?
+[2:05:55] Jamie Indigo: I'm good, you're good. I still temporary. Left, okay, yeah, nine, left baby. All right, you're good. Think Drake is stuck in the dragon's cloaca.
+[2:06:14] JP Sherman: Well, that's,
+[2:06:16] Sango: yeah, that's a drag move.
+[2:06:18] JP Sherman: There was a hole.
+[2:06:22] Jamie Indigo: Mm, he died the way he lived.
+[2:06:42] Unknown Speaker(s): Can do
+[2:06:53] Sango: Ian do the okay he's going to use his his bonus action to have the iron would healer walk over to cure, Cure Wounds on, on Rector, Okay,
+[2:07:20] Unknown Speaker(s): guess I should actually,
+[2:07:30] Sango: wow, all right, Those are all horrifying.
+[2:07:41] Jamar Ramos: The Level One Cure Wounds, right?
+[2:07:43] Sango: Nope, more than that, okay, here
+[2:07:48] Ian Lurie: it is. Level well, he has six levels of calcium,
+[2:07:55] Sango: yep, okay, that's what I was trying to figure out. How much does he have total?
+[2:08:00] Ian Lurie: He has a, he has six levels of cat of total casting that he can use. So, okay, he can cast Cure Wounds at level six.
+[2:08:09] Sango: That's what he's gonna do,
+[2:08:10] Ian Lurie: okay, and then he's just gonna, it's just gone after that,
+[2:08:14] Sango: yep. Okay,
+[2:08:19] Ian Lurie: so you got a level six Cure Wounds Richter, just quick strategy points if you're wounded, you might also want to give you might want to do mass Cure Wounds instead, but,
+[2:08:43] Sango: yeah, Sango still has temporary hit points. Richter, you gain 57 hit points from that cool
+[2:08:55] Ian Lurie: All right, and the iron would heal or disappears,
+[2:08:57] Sango: yeah. Healer,
+[2:09:01] Ian Lurie: that is an awesome little dude. Good on you for remembering, yep,
+[2:09:06] Sango: okay, and then that's his bonus action. So there's an action. He'll guiding bolt, okay, the big guy, all right, that is a 26 to hit. Hits. I and that is 15 points radiant, and he is lit up for the next attack.
+[2:09:36] Ian Lurie: Yep, he's all pretty. Okay. Anything else?
+[2:09:43] Sango: No, that's about it, all right.
+[2:09:48] Ian Lurie: Creatin, oh, wait before we get to you, I'm gonna use legendary action. Drag. What's your AC early.
+[2:10:07] JP Sherman: My AC is 25
+[2:10:09] Ian Lurie: okay, I get a 34 a, 29 a, 27 and a 21
+[2:10:17] JP Sherman: okay, I'm going to use my reaction. Okay, my reaction. I forgot the name, but I add six to my AC based off that reaction.
+[2:10:29] Ian Lurie: Okay, so now I don't remember my roles, but go what? So what do you I've I know I had one that was a 34 so
+[2:10:36] JP Sherman: one hits,
+[2:10:37] Ian Lurie: one hits. Okay, you take seven points of fire damage from a scorching Ray got it now craggy a tear turn Okay.
+[2:10:53] Sango: Craggy is going to fly to his left and down 30 feet. Actually, first he's going to start with the guy,
+[2:11:07] Ian Lurie: what's your fly speed? 3030, total. Okay, if you're going to, you can go down. So if you drop down three tiles, that's 15 feet. And then if you want to, you can fly three tiles to the left. Does that work?
+[2:11:25] Sango: Yeah, yeah. Just he's, he's basically going to go for that little river thing down there.
+[2:11:30] Ian Lurie: Oh, general direction, got it, got it. Got it. Okay.
+[2:11:35] Sango: Oh, that's a natural 20. What? Finally, get one. Oh, okay, so then that is five, d8, radiant, double,
+[2:11:48] Ian Lurie: doubled, holy shit, all right.
+[2:11:56] Sango: Oh, that was good. 27 doubled is 54 okay, that stings.
+[2:12:07] Ian Lurie: Yeah, no, the only one that knows craggy is here is Lurie. That's right. I was wondering why you guys weren't cheering, and it's because you don't even fucking know he's there. You're just like, What the hell is wrong with Lysander? Why did he just do that? Okay, anyway,
+[2:12:27] Jamie Indigo: no, we just figured they should have been like, Oh no, no.
+[2:12:31] Ian Lurie: Ulcer, it can smell is burning rock right now.
+[2:12:34] Sango: Okay, so that he'll move that 30 feet. Okay.
+[2:12:41] Ian Lurie: Okay. The Dragon and drag you have this moment where this long, sinewy neck turns down and looks at you, and the eyes focus on you, and it gets you're pretty sure it gets this sneer on its face. Let's see what's your AC again,
+[2:13:11] JP Sherman: this point, it's a 3131 it because that, that that feet last through it through all of my next turn, yeah.
+[2:13:22] Ian Lurie: Well, I only hit you twice. Jesus, You take 25 and 25 as he reaches down and just sinks his claws. Oh, no, sorry. It's worse than that. Do 20 and 20 of slashing damage, and then another 20 total of fire. So you take a total of 50 points of damage.
+[2:13:53] JP Sherman: Okay, help. I'm still up.
+[2:14:00] Ian Lurie: You're still up, okay, just checking and you you can just feel his breath on you, and you can see he's bending down to actually grab you and pick you up Richter your turn.
+[2:14:22] Jamar Ramos: All right. Bonus action, Richter's going to pop a potion of superior healing. Okay, let's see what that do.
+[2:14:36] JP Sherman: I'm gonna if you take out of Sarah's pack, she has one of those. I can drop it off of your image. Take it from her inventory, not yours.
+[2:14:46] Jamar Ramos: She's not near me, though.
+[2:14:47] Ian Lurie: Yeah, she's still too far away. Next,
+[2:14:49] JP Sherman: next. That's right, that's right, yeah,
+[2:14:51] Ian Lurie: when it gets to your turn, she'll get there. And I'm just, I'm just gonna say she's smart enough to know the big ball of darkness is where the weird old guy always is, which means the guy with the shiny metal is probably on, yeah,
+[2:15:10] Jamar Ramos: Dan, weird old man,
+[2:15:12] Ian Lurie: you guys are a team. You work.
+[2:15:15] Jamar Ramos: All right. We got fire off the eldritch blast again. Okay, nope, that one's gonna be a miss, 23 hit, yes, all right, so two hits 25 and the last one's going to be a 26 so three hits Out of four, okay, 29 points of force damage. And that's the end of my turn. All right
+[2:16:13] Ian Lurie: track, he with the dragon's face position just inches from you. Oh. Wait, you're it's a charm. You're immune to charm, aren't you, because you're an
+[2:16:27] JP Sherman: elf. No, I just have advantage against it.
+[2:16:30] Ian Lurie: Yeah, that's still not good enough, you know what? Yeah, we'll try it. He says, bow before me, Little Elf, bow before me, and you need to make a DC 24 wisdom save.
+[2:16:50] JP Sherman: Smart plus wisdom
+[2:16:55] Ian Lurie: is one of your best stats. Why? Height? Yeah, that
+[2:17:00] JP Sherman: is a 26 to serve. Okay, fine,
+[2:17:06] Ian Lurie: and it is your turn. Drag.
+[2:17:10] JP Sherman: All right reaction, give him a middle finger. Okay, I am pissed off. I'm going to, there it is, guiding bolts. I mean, it's like, like, right in his face, okay, that is a 26 to hit that hits and ALL RIGHT. I A 34 points of damage and radiant bonus action. I'm going to do that the heal on myself.
+[2:18:20] Ian Lurie: Okay, so when the guiding ball hits him, you see this little, this little slash on his face, right where, right where it hit him, and a little bit of blood comes out. He looks boop. He looks amused.
+[2:18:41] JP Sherman: Okay, again,
+[2:18:45] Ian Lurie: hold on, hold on. You are a plucky crew, aren't you? Okay?
+[2:18:54] JP Sherman: 14 Points A healing. So, okay, awesome, and that is and bonus action.
+[2:19:01] Ian Lurie: You already, you just did your bonus action with the heel. You said, shit.
+[2:19:07] JP Sherman: Sarah takes a bonus action, actually, yeah, so it's gonna have to wait.
+[2:19:12] Ian Lurie: Okay, does a 35 hit you?
+[2:19:15] Unknown Speaker(s): Yes. Okay.
+[2:19:17] Ian Lurie: You take a I'm going to roll this for 717, slashing, plus 10 fire, so 27 points of damage.
+[2:19:42] JP Sherman: Okay, feeling a lot I healed. Okay, sorry, drug's too cute to be a tank.
+[2:19:54] Ian Lurie: Yes, you are. You're too pretty to be a tank. Okay, mossy, your turn. Okay. You see the dragon's form now, claws again, kind of in that crouching position. Claws sunk into the side of the cliff. You see it just pounding on something, just rending something, limb from limb, but you're not sure what's happening.
+[2:20:24] Jamie Indigo: How is everyone looking
+[2:20:28] Sango: good? I mean, yeah,
+[2:20:32] Jamie Indigo: aside from, aside from, mostly very squished Drac right now. So Jack is the one that looks the goopies. Everyone else has re healed. Pretty good, excellent. All right, can I see from where I am?
+[2:20:57] Ian Lurie: See what
+[2:21:00] Jamie Indigo: drag? No,
+[2:21:01] Ian Lurie: not even close.
+[2:21:03] Jamie Indigo: Okay. Oh, my if,
+[2:21:06] Ian Lurie: God, this is the last thing I need. But thank you so much. I don't need that. Whatever that is. I've already had four Diet Cokes today because I was texting you, and I was like, No, I'm just kidding. Yeah, I'm just making Okay, guys, my daughter brought me McDonald's.
+[2:21:22] Jamar Ramos: Oh, hell yeah.
+[2:21:24] Ian Lurie: And I never read McDonald's, so this is the best thing ever. Thank you.
+[2:21:29] Jamie Indigo: Rock Morgan,
+[2:21:30] JP Sherman: take back all the mean things I've said.
+[2:21:36] Sango: That's fizz back. Okay.
+[2:21:40] Jamie Indigo: Um, if I were to run to the point of the cliff, how far away would I be from drag? If I bring North, I'm going to pretend that's north,
+[2:21:52] Ian Lurie: which cliff, which point
+[2:21:54] Jamie Indigo: I'm I'm up on the ledge, that second ledge, right there on the left hand side. I ran to the tip of that I think I would be able to see drag. How many feet away would he be?
+[2:22:04] Ian Lurie: There is, I'm sorry, but there is no possible way you can see track. Watch. I'll show you. Drag is here.
+[2:22:21] Jamie Indigo: Oops, oh, okay,
+[2:22:24] Ian Lurie: drag, I'm sorry. I may have just dropped you in the ocean or something. I'm not sure
+[2:22:31] Sango: you're up his bum now.
+[2:22:32] Ian Lurie: You're literally in the intestines of this dragon, right? Well, we'll figure that out in a second. But no, you cannot see drag,
+[2:22:40] Sango: literally a critical role episode, just like that.
+[2:22:43] Ian Lurie: Yes, there is, it's a black dragon, but yes,
+[2:22:46] JP Sherman: by the way, because my guiding bolt, the next Tech has advantage,
+[2:22:53] Jamie Indigo: I'm really more concerned about how to get to you and keep you alive right now. But I figured on the cliff, that's like 20 feet, and then it's 30 across.
+[2:23:09] Ian Lurie: If you have any teleportation magic, it's a lot more than 30 across, right? I mean, it's like 70 feet across here from side to side, so you have to really bolt taking her what's your So, what's your normal move speed is 30. Yep, you have cunning action. She can move 30, and then you can dash for another 30. She can move 90. You don't have any
+[2:23:41] Jamie Indigo: No, okay. Think
+[2:23:48] Ian Lurie: you need to build yourself a jet pack.
+[2:23:51] Jamie Indigo: I think I do too. I've been able to get at my crafting bench, though and everything cool. I have to be at a bench. I I don't even think I can use the blessing of the zoom to get me far enough. All right, I'm gonna, I'm gonna just run dash. Keep dashing. Go the 90s so I can get up on the cliff, because I want to get to whomever is getting maimed.
+[2:24:28] Ian Lurie: Okay, you get to there. So next round, you'll be up here, and the round after, you'll be there, up to drag, although next round you might, you might be able to see him next round, yeah, yeah. So next round, you'll be up here, and you'll be able to see him in there.
+[2:25:03] JP Sherman: Okay,
+[2:25:09] Ian Lurie: 29 does that hit you direct? No, it does not. When is that spell over
+[2:25:17] JP Sherman: I use, in that case, I'll use my reaction to do that again to hit it up.
+[2:25:22] Ian Lurie: Okay, so it was over, but you just recharge. Yes, yeah,
+[2:25:27] Unknown Speaker(s): okay, all
+[2:25:30] Ian Lurie: right, Sango,
+[2:25:33] Sango: Yep, let's see Sango is going to do another guiding bolt.
+[2:25:46] JP Sherman: Your guiding bolt is also an advantage. Yeah, that's interesting.
+[2:25:56] Ian Lurie: Yeah, I a,
+[2:26:07] Sango: okay, ooh, that ain't good. That's like a 16
+[2:26:17] Ian Lurie: that will not hit.
+[2:26:21] Sango: Well, that's stinks. Oh, he'll do this extra thing then, 19, nope, damn it, both of them missed. That's all he's got. Okay?
+[2:26:56] Ian Lurie: Drag state
+[2:26:58] Sango: is Jack still up. He is still up, yes,
+[2:27:02] Ian Lurie: a 35
+[2:27:08] JP Sherman: that hits. Okay,
+[2:27:12] Ian Lurie: so he, he is just continuously rearing up and clawing at you as you're kind of down in this cleft, trying to stay away from his claws. He's just ripping great, huge gouges out of the stone that you're hiding between, and finally, just finds his way through you take 11 points of bludgeoning, sorry, of fire damage and 16 points of slashing. Such 11 plus 16.
+[2:28:08] JP Sherman: Okay, 17, yeah, so that would have been 27 okay. Do it just for shits and Nichols, I'm at three hit points. Okay, all right, I'm taking good. I'm taking good.
+[2:28:38] Sango: Craggy close to dracum, i
+[2:28:41] Ian Lurie: You're pretty close. You can't see him. He's invisible. You're invisible, but you're pretty close.
+[2:28:48] Sango: Jack is invisible,
+[2:28:49] Ian Lurie: yeah, great. Nature's male.
+[2:28:53] JP Sherman: Oh, no, that only answered one round. Oh
+[2:28:56] Ian Lurie: then No, he's I'm obscuring. I There's the the body of a enraged Red Dragon between you and him. But I'll tell you what. I'll give you a perception check to see if you can sort of figure out where he is.
+[2:29:18] Sango: That's a two plus nine is 11,
+[2:29:20] Ian Lurie: okay, no, you're not sure there's just there's, it is pure chaos. There's bits of stone flying, and you just almost got hit by a wing. Yeah.
+[2:29:32] Sango: Okay, then we're gonna do starting. Let's begin, okay, as a 20, no, 23 to hit, yep, okay, and that is, that is 24 points of radiant damage, all Right, and then I'm going to keep going down 30 feet,
+[2:30:14] Ian Lurie: you're Now looking right underneath, right into its armpit. Basically, you
+[2:30:24] Sango: Okay, can I can I see drag now?
+[2:30:29] Jamar Ramos: No, okay,
+[2:30:32] Ian Lurie: no, I'm sorry. Yes, you can. Okay, he's right there. Yeah, base to base, you can see him.
+[2:30:51] Sango: Okay, okay, that's it. That sounds good. Okay, okay,
+[2:31:02] Ian Lurie: we're Urus Ghul turns to you drag and says, I will give you this one chance submit and surrender the battlefield to me this day, and I will let you live refuse, and you will surely perish.
+[2:31:28] JP Sherman: Funny. I was going to say the same goddamn thing to you. Okay?
+[2:31:44] Ian Lurie: He flies back to here and hits both you and creature with his breath so you both need to make deck saves. DC, 24 you free. And I don't, I know this isn't really your strong suit,
+[2:32:07] Sango: even if I get a natural 20,
+[2:32:11] JP Sherman: natural fucking 20. Okay, you take half. I mean, it was, it was an epic dodge.
+[2:32:22] Ian Lurie: But so you take 78 points of fire.
+[2:32:26] JP Sherman: Oh, fuck me freaking
+[2:32:29] Sango: you take 156 oh, fuck you.
+[2:32:34] Ian Lurie: Oh, don't swear at your DM.
+[2:32:38] Sango: Oh, you know what, hey. Oh, no, I was talking to the dragon. I have absorbed elements. Sweet. Needed that. Okay, so what does that? What does have that?
+[2:32:52] Ian Lurie: 88 sorry, 7878
+[2:32:55] Sango: Oh, okay. That helps for the record, I only got a 13. And by the way, guys, when I rolled initiative for craggy at the start of the game, I got a three minus three for zero. Some things never change.
+[2:33:13] Jamar Ramos: Yeah, craggy doesn't even get to go.
+[2:33:16] Ian Lurie: So here's what happens. Drag you make that, that statement of defiance. And we were school, you could see he gives you a little bit of He nods at you. He's like respect, and then he burns the stone around you all the brush breathes out that flaming breath craggy, and you get hit by it as well. Drag as the light fades from your eyes, you see this enormous claw reaching towards you, the rest of you guys watching horror As Urs ghoul picks up drag and turns and flies away from the island. He turns back and looks at you all and says, I have your friend. When you're ready, I'll see you soon. And he flies off. Well, I mean, you guys can try and do something if you
+[2:34:25] JP Sherman: want to do. I just save
+[2:34:28] Jamie Indigo: vortex sport. Vortex warp. Vortex level 150, feet.
+[2:34:38] Unknown Speaker(s): I use a legendary save dick.
+[2:34:44] Ian Lurie: Yes, you should give me a death save, okay.
+[2:34:51] Jamie Indigo: How close does he get? As he flies by from
+[2:34:54] Ian Lurie: he's flying
+[2:34:58] Jamie Indigo: like he scraped up. Drag,
+[2:35:01] Ian Lurie: Well, God. And then he drowns. Well, fuck. All right, just yeah, there we go. All right,
+[2:35:13] Jamie Indigo: any point was the within 60 feet.
+[2:35:16] Ian Lurie: No, he flies straight away from you, okay? And he wasn't within 60 in the first place. The other thing is, anything, any any area of effect, spells you cast would hit track as well as the dragon, but I think that's probably a good place to stop.
+[2:35:40] Jamar Ramos: Holy shit. Holy shit. God.
+[2:35:45] JP Sherman: Elf nap, son, you know, healing is a evocation spell. Maybe for the spell, can
+[2:35:57] Jamie Indigo: I think the dragon was in one way for that, when I heal the dragon.
+[2:36:07] Sango: All right, we will damn it.
+[2:36:09] Ian Lurie: We'll pick up again in two weeks. Any questions or discussion you guys want to have with me over the next two weeks? Obviously, go for it.
+[2:36:19] JP Sherman: Can we reload save game.
+[2:36:25] Ian Lurie: There are certain things you can as a party figure out, plus track. There's going to be some stuff you and I are going to play like separately. We just do it on Discord. We can do it live, whatever you want. Fantastic.
+[2:36:39] JP Sherman: I look forward to this. Is amazing. Cool.
+[2:36:43] Ian Lurie: All right, everyone, have a good night. Good night, everybody. You.

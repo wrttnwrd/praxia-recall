@@ -1,0 +1,1131 @@
+# Ian's Meeting Notes
+# Otter recording 2025/08/18 17:01:09 (3h 3m) id Owafj42J69VbyD5FrFqPPqMJLoo
+# https://otter.ai/u/Owafj42J69VbyD5FrFqPPqMJLoo
+# Speaker-attributed transcript, verbatim. Raw source for the card at /items/otter/2025-08/2025-08-18-rbg.md
+
+[0:00:00] Unknown Speaker(s): I mean,
+[0:00:03] Ian Lurie: I think the the AI bubble is going to bust. I don't know. I yeah, I think it kind of already, it's already starting to but, yeah, I don't know. What the hell do I know? I'm just, we're just people who spend every single day immersed in this stuff. I was on a call with a bunch of people whose average age was probably 15 years younger than mine, having to, and I hate doing it, but having to sort of explain to them why I was qualified to be talking to them about stuff. I was kind of like, well, you know, have any of you actually built a language model, done anything with transformers? If not, up and listen for a second.
+[0:00:59] Sango Reed: They used to watch it after school and
+[0:01:01] Ian Lurie: Right, right, right? The Transformers, yeah, no, they were too young to even know what the hell that was. They're like, Oh, they'd probably say it weren't those Michael Bay movies or something and Jamar age.
+[0:01:22] Sango Reed: Yep. Those Michael Bay ones were so good. My daughter forgot she had watched them.
+[0:01:31] Ian Lurie: I like the first one. Okay. It was just fun to see. You know, live action transformers. But I uh, after that, I can pretty much, you pretty much can see everything you want to see on YouTube, because they have all the highlights, and the rest of it's garbage. So, yep, I
+[0:01:55] Sango Reed: don't remember much about the other ones, though, the plots all kind of seem very similar,
+[0:02:00] Ian Lurie: you know, sort of like every episode of the cartoon, right?
+[0:02:06] Sango Reed: Oh yeah, that's fair. I
+[0:02:12] Ian Lurie: mean difference being the budget for the Cartoons probably wasn't $100 million per episode. Cool, Ian Ian, so yeah, Don is at our friend's house now with six additional creatures, beings in tow, two parents, their daughter, two dogs and a cat, and they're all just hanging out.
+[0:03:07] Sango Reed: Are these refugees from the fire? Yeah,
+[0:03:10] Ian Lurie: they were headed to like, their grandparents house or something, which is just a few miles up there in Ian's Burg, but they shut down I 90 because the smoke is so bad that people can't safely drive it. So they're like, well, we could spend the night on the freeway, or we could and don't. Was like, yeah, just come hang out here, assuming they don't get evacuated. Then that could really get awkward. But I
+[0:03:43] Sango Reed: so is that Ellensburg? That's Eastern Washington, right?
+[0:03:46] Ian Lurie: Yeah, yeah. They're in clay Elum, which is west of Ellensburg. It's like 90 minutes outside Seattle. Okay, if fire gets big enough there, we'll have smoke here, which we have so far not had this year. So we're overdue.
+[0:04:14] Sango Reed: Well, we're getting it all from Canada,
+[0:04:15] Ian Lurie: yeah, well, and that's where we would usually get the worst of it, Canada and California, but Seattle has knocked wood. Lucked out this year.
+[0:04:27] Sango Reed: We've got some uh stalwart Republicans in this state that are want to sue Canada for air quality. How does that work?
+[0:04:38] Ian Lurie: That's just, that's hilarious to me. Yeah.
+[0:04:42] Unknown Speaker(s): Happy birthday. Thank you.
+[0:04:47] Ian Lurie: I tried to arrange it for you today, but, like I said, security was doubly high because of the summit, so
+[0:04:56] Jamie Indigo: I'm missing important context. Maybe I don't know.
+[0:05:00] Ian Lurie: Well, no, I can't remember who it was in our group, but somebody posted about when it happens. You will know, because there'll be people celebrating in the streets.
+[0:05:08] Jamie Indigo: Oh, yeah,
+[0:05:10] Ian Lurie: they know what it is.
+[0:05:11] Jamie Indigo: Now, my birthday and JP, we're both coming right up, sir, you can
+[0:05:17] JP Sherman: see what we can do. Heart
+[0:05:19] Jamie Indigo: Wants, what the heart wants, the ankles. They also want what they want to explode. So it's got soon. It's got to be
+[0:05:30] Ian Lurie: JP, just messaged to say he's going to be 20 to 30 minutes late. I kind of wanted him to share what he learned while he was out, while he was on his mission to get information, I'm going to share it with you guys instead, I think, and then he can share any details he wants to afterwards, but you had sent him to try to find if there was anyone who had previously gone to Avernus or to anywhere in the Nine Hells and survived who you could go to and talk to for information. He I had him make three sets of roles. One set was just good enough to find out that there is one individual this ancient orc, named regarding put their name into the chat. Oh, yeah.
+[0:06:30] Jamie Indigo: Drag had to roll for the pub still. Yeah. And then I gave him potions. But I can't remember what I gave. Yeah.
+[0:06:40] Ian Lurie: We you know what, we should probably wait. If you guys don't mind just we can just chat for 20 minutes. But,
+[0:06:47] Jamie Indigo: I mean, the world's literally on fire, literally
+[0:06:52] Ian Lurie: so. But the the orcs name, just so you know, is regorum. They live in a small village on the northwest coast of solidria, which is your continent, about two day trip by airship from Aventine. It's not someplace you've been before, but apparently that person went to somewhere in the nine hills and came back and can tell you about it.
+[0:07:22] Jamie Indigo: Okay, so we found a contact who's actually been to the Bad Place, yeah,
+[0:07:29] Ian Lurie: well, not Twitter. The less bad place, the less bad place.
+[0:07:36] Jamie Indigo: This is the Bad Place,
+[0:07:41] Ian Lurie: although I gotta say, it's been made slightly brighter of late by whoever the Social Media Manager is for Gavin. Oh,
+[0:07:49] Jamie Indigo: she's brilliant with her, and I think the Atlantic fucking sharp. Oh, my God,
+[0:07:55] Ian Lurie: I love her, her fake Trump tweets. Thank you for your attention to this matter.
+[0:08:00] Jamie Indigo: Hands tiny. This is the only way through. We have to mock them,
+[0:08:09] Ian Lurie: yeah, well, and some people are kind of like, oh, this is so inappropriate. No, this is people don't understand
+[0:08:16] Jamie Indigo: this normal. Well, I never wanted human rights to be politicized. You did that
+[0:08:21] Ian Lurie: people don't understand that this is almost literally war, like we are on the brink and not there is, there is no, there is almost no low, too low to stoop to at this point.
+[0:08:38] Jamie Indigo: But anyway, bad place.
+[0:08:44] Ian Lurie: I think of anything, not about the world burning to talk about, but it always comes back to that, really
+[0:08:53] Sango Reed: does.
+[0:08:54] Jamie Indigo: I've so my brain wants to be smarter than the peril around me, and it's unfortunately been engaged with AI as of Lee. Oh, I'm really tempted to make this SEO charity panel. Real salty, real salty. Oh, you're gonna
+[0:09:11] Ian Lurie: get to be in that panel. You're gonna be on the panel with
+[0:09:17] Jamie Indigo: shit. No, I got a solo session I'm doing. It's a technical SEO for llms, awesome. Yeah.
+[0:09:23] Ian Lurie: When is it the
+[0:09:25] Jamie Indigo: 25th so, like, I land from Brian at 10, and I'm supposed to be on at 130 so I might have a backup plan. Hey, y'all, we're in the AMEX lounge. What's up?
+[0:09:39] Sango Reed: I did that at SMX advance all the time. I took a cab straight from the airport. I got in right as people were sitting down for her session.
+[0:09:51] Jamie Indigo: I mean, I had seaweed on in my hair in Spain. I don't think anything will top that
+[0:09:56] Unknown Speaker(s): one that's pretty one
+[0:09:58] Jamie Indigo: of the speakers didn't show so, like, we bailed and just went and did a dive instead, and we're pulling up from our dive when they're like, We need you on stage now. So my hair is wet. That was a party conference, by the way. I was that was not my vibe. They flew a drone into my face, and I pushed away with my phone and was bleeding everywhere after it was great. It was a weird experience, but they paid for a trip to Spain, and I got to go dive in a Mediterranean marine sanctuary. So, you know, choices. I never
+[0:10:33] Ian Lurie: got to go to conferences like this. I went to conferences in fucking Las Vegas. I did go to one to San Diego. That was nice.
+[0:10:41] Jamie Indigo: Sight bulb gave me a ticket for Britain, so I'm gonna be there,
+[0:10:47] Rikterr: which break sand, which I was gonna say, San Diego,
+[0:10:50] Jamie Indigo: Diego. Nice international travel right now. Feels real iffy. So we got, yeah,
+[0:10:57] Sango Reed: it's only coming back into the states. That's the iffy part.
+[0:10:59] Jamie Indigo: Uh huh, exactly. And I do what I say on the tin of my guy, I don't know, we fly through the wrong airport, I could have a very bad day.
+[0:11:07] Ian Lurie: It was, it was pretty smooth for me when I came back. And that was the day that the US bombed the fuck out of Iran. So,
+[0:11:16] Jamie Indigo: yeah, no, we came right back between like they had just bombed Iran and then they were invading, um, LA, like those two things were happening at once. We snuck in between that, and everybody seemed real distracted,
+[0:11:27] Ian Lurie: yeah, yeah, but I don't look like someone who'd be on social media. For In fact, I look like someone who probably doesn't even know how to use social media, apparently, from the call I had today. So with a bunch of bunch of marketers. But anyway,
+[0:11:49] Jamie Indigo: I'm so happy I'm in engineering now, like things are so much more logical and nice, although so I need a second machine, right? I'm running all these AI readiness crawls. I've got different configs. They're gonna need two on a machine at once. I've been using a personal machine. I'm not technically breaking any security stuff, but if they wanted to push they could find Yeah. So I tried to put in for a second machine. My boss cleared it, and then I got no it's one, one machine per person. Now apparently our grand pool buzz intervening. So I will have two machines.
+[0:12:21] Ian Lurie: I, I had one client who wanted me to fill out this whole huge security questionnaire,
+[0:12:26] Unknown Speaker(s): and
+[0:12:27] Ian Lurie: then was going to send me a quote work laptop just for them. Yeah. And so in the in the questionnaire, they clearly did not understand that it's like, I It's it. I'm a consultant. I'm a one person consultant. Yeah, um, so throughout, for every answer, I just put, I'm a one person consultant. I'm a one person consultancy. I'm a one I finally just started pasting it in as fast as I could. And they, I think they got the point, because they never did send me a second laptop. I mean,
+[0:12:56] Jamie Indigo: I had one for eBay, and I had to have a whole separate security key, like that thing update. It was a I did not dare log into a single personal account on that machine.
+[0:13:08] Ian Lurie: Anything they would send would be a piece of shit. I'm sure I wanted nothing to do with that.
+[0:13:15] Sango Reed: Just give them the total of all the software you're gonna need to have.
+[0:13:17] Ian Lurie: Well, so they, they did ask. So I gave them the full list, like all scrapers, you know, python three. For some reason they got hung up on python three. I'm like, Are you
+[0:13:29] Unknown Speaker(s): serious guys?
+[0:13:30] Ian Lurie: Well, they didn't understand what I was talking about. I'm sure I was talking with their procurement department or
+[0:13:37] Jamie Indigo: something. Oh, okay, yeah.
+[0:13:40] Ian Lurie: They're like, what's this? Python three.
+[0:13:43] Jamie Indigo: It's standard in every machine. Well, every machine, every
+[0:13:48] Sango Reed: and I'm gonna need mice to feed it every once in
+[0:13:51] Jamie Indigo: a while, one time I put a sacrificial goat on a rec sheet just to see what would happen. Although I didn't get once, I put everyone gets cake as AC and a massive, epic one time. And it worked. We got cake. It was bad cake, but we still got cake. But
+[0:14:08] Ian Lurie: I admire whoever read that and was like, You know what? Let's just get them some cake. I think that's a good
+[0:14:15] Jamie Indigo: well, it was the Arrow Electronics, when the the t1 1000 staged a coup, and, like, took over, and then, basically the company decided to have that division be their loss against the other divisions for that year. So nice. There were, like, we were key people in the way HR restructured, and pretty much she couldn't do anything to us and needed us, yeah, this is exciting.
+[0:14:46] Ian Lurie: This is where we left off last time. Okay,
+[0:14:49] Sango Reed: I have to, Oh, that's right, he showed us into that room, yeah?
+[0:14:53] Jamie Indigo: Mm, hmm, yeah. I was holding, what was I holding? Rikter, you and I were side chatting.
+[0:15:06] Unknown Speaker(s): Thunder Bolt, maybe,
+[0:15:08] Rikterr: yes.
+[0:15:12] Ian Lurie: Well, I only had one of my group that rolled higher than you guys. Oh, actually, mossy, give me a you might as well give me an initiative check while we're here, okay,
+[0:15:22] Jamie Indigo: Kiki stole my lucky die. What
+[0:15:24] Ian Lurie: a shithead
+[0:15:27] Sango Reed: that tabaxi.
+[0:15:29] Jamie Indigo: Such a boxy asked and oh, oh, dear, yeah. Told you my lucky guy was stolen by my tobaccy. I Ian,
+[0:15:53] Ian Lurie: I was all excited last week because I've been working with this AI company, and it looked like they needed someone who could sort of speak about their product in a way that would be compelling to the marketing world. And this, this AI company actually has been in AI for, you know, five years. So they're not just sort of saying, Oh, we're an AI company.
+[0:16:12] Jamie Indigo: Um, angoule is making bank right now on ccTLDs,
+[0:16:17] Ian Lurie: yeah. So I was kind of, I was kind of excited um, got on a call with their marketing team and found out, first of all, that no one had told their cmo that they were considering bringing me on. So basically, the all male group of the CEO and Chief Customer Officer and Chief branding officer all just went around the back of the female chief marketing officer. And then also, it was a room full of marketers who I was just talking about this, who are, like, 10 or 15 years younger than me. We're all talking about stuff, and it was already getting annoying. And they're sort of, you know, they're sort of treating me like, Oh, he's, you know, here's the SEO consultant. And then they said, Oh, and by the way, everything we've worked on is completely we have to start all over again because they're changing all of our products. And I was like, Okay, I'm glad I didn't accept this job. Yeah, I
+[0:17:24] Jamie Indigo: it sounds like it would have been a show environment at bronas. Like, you
+[0:17:28] Ian Lurie: know, I'm still, I still don't know. I mean, you know, if you're in AI now, right? You are constantly changing all your products. Like, you know, the issue for them now is none of their products are agentic, right? And everyone's talking about agentic products, and
+[0:17:45] Jamie Indigo: show me someone who's gonna working without having mass security issues. I interview you,
+[0:17:49] Ian Lurie: yeah? And if you're Well, the thing about these guys is it's all their own ecosystem. So if it's agents that run within their own ecosystem, and they're not going out and doing anything, might be okay, but regardless, um, I get how quickly things change, but you sort of have to keep moving ahead with what you got until the new stuff is ready. You can't just stop. I mean, it's anyway.
+[0:18:12] Jamie Indigo: I mean, even, even Altman admitted it's a bubble, which, oh yeah,
+[0:18:19] Ian Lurie: James was talking about that just when we signed on.
+[0:18:27] Jamie Indigo: Jamar, why are you so quiet? What you doing over there?
+[0:18:32] Sango Reed: Done, kill it. Listen to that. About shit.
+[0:18:40] Rikterr: No, I just, I, for me, I think everyone knows how I feel about AI. And I just, I can't. I'm trying to do a whole lot more to be positive about things, and I have nothing positive to say about AI. So it's not, I wouldn't call what you guys are doing bitching, because it's, it's illuminating. But for me, I'm just like, Call me when the stuff is going slow. That if I start building something today, I'm not rebuilding it by tonight, and we haven't gotten to the point where this stuff is usable. The hype is outperforming the usability, and
+[0:19:18] Ian Lurie: so much
+[0:19:19] Rikterr: for me, I'm the person who's like, I don't need to be the first adopter. I need to be a correct adopter, and so that means I'm always at the back of the line, and people call me a grandpa for that, but I don't give a shit, because I'm going to use it when it's right, and I'm going to be right, and people are going to be impressed by that, rather than remembering me for the height master full of bullshit
+[0:19:42] Ian Lurie: seeing that. So, okay, this is Ian's weakness. This is my, you know, this is my, you know, you have virtues and flaws. My single biggest flaw, aside from, you know, all the obvious ones, is that I cannot fucking take it when people in the room treat me like I'm a moron or like I'm the old guy. So I immediately, like, my immediate reaction is, I was saying before, it was like, Have any of you guys ever built a language model or worked with Transformers or set up Word to back on your laptop? Because I have, so I think you should all shut the fuck up. Which immediately, you know, people take that as kind of negative. I don't know why, but they do. So
+[0:20:19] Jamie Indigo: hey, if you're going to use the words, maybe you take the time to learn what they mean. Yeah, y'all are using them interchangeably and correctly and insanely.
+[0:20:29] Rikterr: It's frustrating to me now the people who are using this to pump out sonnets when they can't tell me what scansion is like, if you're going to do this stuff, at least know it well enough to know it inside and out. Don't just type in some stuff and say, Oh, I'm in. I'm a prompt engineer. And look at all this Shakespeare I pumped out. It's like you didn't pump out anything. You pumped out a bunch of Happy Cat words that you think is poetry, because you don't know any better, Yep,
+[0:21:04] Ian Lurie: yeah, a bunch
+[0:21:05] Jamie Indigo: of Furbies in a row, and they said words, and you feel proud. Good for you,
+[0:21:09] Ian Lurie: sir. Like when Microsoft front page came out, remember front page? Probably only two, two of us, maybe three of us remember front page, I don't
+[0:21:21] Sango Reed: know. So I spent some time today
+[0:21:22] Jamie Indigo: with the Microsoft homepage, like the Amazon homepage, or it
+[0:21:26] Sango Reed: was a it was a website building tool.
+[0:21:30] Jamie Indigo: No, I joined in, like the age of Dreamweaver, and I missed geo cities. Man, I made my first website in geo cities.
+[0:21:38] Sango Reed: So I spent some time today researching through chat, GPT, and this is super important, the most common vowels by position in five letter words. And what are the most common letter to start a five letter word, all for my word. Also, I could get a I get a jump on my words.
+[0:22:05] Ian Lurie: He that's that is intelligent use of AI.
+[0:22:11] Rikterr: It's a tool. People using it as if it's a human being, is wildly frustrating.
+[0:22:20] Unknown Speaker(s): Well, I useful
+[0:22:21] Jamie Indigo: thing I've had to do is help me kick in the black boxes with that penalty repo, like, hey, no, break it down. Tell me what are the rules this thing runs by. Tell me the functionalities and how I can test them.
+[0:22:35] Ian Lurie: It is so like, 2000 3001 where people were just spinning up websites because they thought they should have a website and people.com
+[0:22:43] Unknown Speaker(s): bubble,
+[0:22:44] Ian Lurie: yeah, no, exactly. And people were charging $200,000 to build a website in front page. I mean, seriously, that's what people were doing. People were making 90 grand because they knew how to write HTML in two in 2000
+[0:23:00] Jamie Indigo: $2,000 I should have just dropped out of school. I wanted to, I wanted to just take my my GED and be done with it, that I could have gotten a head start and all this nonsense.
+[0:23:16] Ian Lurie: So anyway, like I said, I think I was positive for about an hour and a half two weeks ago, right after I finished ride the hurricane, and now I'm back to Ian. It was good. While it lasted, I actually had chat GPT five design a training program for me for this ride I'm going to do in a you saw
+[0:23:36] Jamie Indigo: the guy killed, right? Let's just be careful.
+[0:23:39] Ian Lurie: Yeah, no, no. So I'm doing this as an experiment. This is deliberate. I'm doing this as an experiment on myself, because I do know the limits, right? I understand what good and bad training are, and it gave me a passable training program. So I want to see if it works, because what I've been doing hasn't really worked, and I know what a really bad training program looks like, and it didn't give me a bad one. So I'm just, I'm going to try it for a month and see see what happens.
+[0:24:10] Jamie Indigo: So I found a new, very specialized bit of malarkey. So we have aI crawlers calling coming to the site, yeah, a lot of these assholes are not identifying themselves correctly, and if you don't, if you remember Akamai, but there's rules stacked everywhere, and triggers and atomic bombs hiding, yeah, turns out our our most cited pages are these Akamai generated URLs like, Fuck you, but they're still being cited. Awesome. So yeah, and apparently I'm the only one that can read all the bot stuff, so at least I got job security.
+[0:24:48] Ian Lurie: I looked in my log files and every AI crawler except Gemini, Googlebot does crawl llms dot txt, I see
+[0:25:00] Jamie Indigo: them requesting it. The only one that said that they actively parse and use it was Claude, yeah. I made it to appease I've seen them all get it. But they're also grabbing CSS. They're grabbing JavaScript. And I talked to the guys who did the they put the middleware in the js script so it ping the server and said, Hey, this one's being executed. I had them update like, re, look at the data, and nothing has changed except Claude is maybe sometimes executing js. Maybe it might be the agentic one, because they're all being real sloppy bitches right now with their user agents, I'm getting requests where the UA is just Google.
+[0:25:38] Ian Lurie: Well, that's so that's a new thing with Google. Apparently, they're running some different user agent right now, imagine if someone else heard this conversation like we might as well be talking about Dungeons and Dragons, right? I mean, it would be more understandable.
+[0:25:54] Jamie Indigo: Yeah, I can. I
+[0:25:55] Rikterr: legitimately think the only part they would have understood was mine, because it was basically just a bunch of Jamar is angry and needs to stand on his soapbox for two and a half minutes. Well,
+[0:26:08] Ian Lurie: Jamar has, Jamar is attempting to achieve a Zen state in the utter chaos that is the current digital marketing world.
+[0:26:15] Rikterr: It's, it's, to me, it's the same as the hubbub around voice search in 19, 2019, when I was one of the people, where I was like, hey, maybe we need to wait until there's mass adoption on the public side of these AI search things before we start talking about it. And the CEO of my company just she made her name and marketing on talking about voice search and how it was going to be the next thing and everything. And I was just like, okay, but no one.
+[0:26:49] Jamie Indigo: Christie's Auction House 2016 sold NFT for $69 million same year, the metaverse was supposed to blow up and revolutionize things. People were selling property in the metaverse for 1000s upon 1000s of dollars
+[0:27:01] Ian Lurie: nfts, oh, my god. I The moment I heard about them, I laughed so hard. And unfortunately, it was at a party with some friends, and one of them was talking really excitedly about this new thing that they just invested in. They were like, it's unique digital assets. You know, it's, it's like, so I can get an image and no one else has it. And I was like, couldn't someone just do a screen capture of it? Long silence.
+[0:27:28] Jamie Indigo: It's a way to launder money. It's very effective. Boy drum coin,
+[0:27:38] Sango Reed: just saying you want to launder money, just start a church.
+[0:27:46] Unknown Speaker(s): I am a reverend.
+[0:27:48] Ian Lurie: I'm a Jedi. I I'm a I am an actual recognized Jedi, certified by the Universal Life Church. So Ian. I can't remember whose quote it is, but it's good people do good things. Bad people do bad things. But if you want good people to do bad things, give them religion, which I just think is so well, put
+[0:28:20] Jamie Indigo: you want a beta trap, but someone's good intentions in it.
+[0:28:26] Sango Reed: My socials are all inundated lately with these, these white 20 something guys with microphones going to like Mega hangouts and whatever, and then asking them questions and like, Oh no, Joe Biden didn't actually say that about a girl. It was Donald Trump. No, it couldn't have been. Yeah, yeah. I got the video. Let me see the video. Oh, that can't be that there's one guy. Stuff. Just made it up. There's one
+[0:28:58] Ian Lurie: kid, and I can't remember his name, but
+[0:29:00] Rikterr: dean, dean, dean,
+[0:29:03] Ian Lurie: dean, yeah, Dean, something. I'm afraid he's going to get shot or kidnapped or something, but, yeah, but he is pretty hilarious. No, the the trend I'm seeing now is 30 something and 40 something marketers who are coming in and saying and just dropping these stupid stupidity bombs, like the one guy yesterday who dropped something like strong men make strong make feminine women, and weak men make masculine women or some shit like that. And I was like, I didn't even know what to say. I was just like, what?
+[0:29:49] Jamie Indigo: But being non binary, that just means I own your ass either way. Well,
+[0:29:53] Ian Lurie: I just, I didn't understand. I
+[0:30:00] Rikterr: some people just really need to shut up and dribble. Yeah.
+[0:30:06] Ian Lurie: JP, sorry.
+[0:30:08] Rikterr: Oh, no, no, go ahead. JP,
+[0:30:10] Ian Lurie: just said to start without him. Of course, there's a fire. Are we talking like a literal fire?
+[0:30:17] Rikterr: You wrote it into existence, Bubba, you tell us i
+[0:30:30] Ian Lurie: So anyway, yeah, this dude, I think I Oh yeah. Then I replied with, you know, weak men post bullshit like this or something, and then that touched off the whole thing. I usually don't get baited into that stuff, because I don't even want to, like, add to the I don't want to trigger their feeds and, you know, trigger the algorithm. But sometimes it's just so bad. He posted another chart showing that his I, you know, showing his IQ and how it's well above 140 and I just posted an image of a spit take. I was like, Dude, you're, did
+[0:31:04] Sango Reed: he? Did he take a Buzzfeed test on that IQ?
+[0:31:07] Ian Lurie: I don't know.
+[0:31:08] Jamie Indigo: Mr. Mistoffelees, 147
+[0:31:11] Ian Lurie: I think he was, he was trying to say that his is, like, 160 or something. And I was like, Dude,
+[0:31:17] Rikterr: don't Don initially, like, Are there even places where you can go get your IQ tested.
+[0:31:25] Jamie Indigo: It is absolutely a racist structure. Yeah,
+[0:31:28] Ian Lurie: I mean, we had to, like when, when I was a kid, we actually had to do it like our at our school, they came and they made us take an IQ test, and you had to go sit in a room with a person who then administered the test. I think we were probably the last generation that had to do that.
+[0:31:45] Jamie Indigo: They had me do the PSATs in seventh grade. Yeah, we had to do the comparison. Yeah,
+[0:31:52] Ian Lurie: yeah. PSATs, SATs, ASVAB, yeah,
+[0:31:56] Jamie Indigo: yeah. I got the 99 percentile on my ASVAB, and I don't want to take it. So that was fun, but I learned that if you score above a certain thing, they don't talk to you, they don't want you. I was like, yeah. And then I, you know, snow didn't happen. I was like, No, I get it, yeah. That's probably smart in both of our apps.
+[0:32:18] Ian Lurie: He said he he'll be here. He just doesn't know when, so let's, why don't we start? Maybe another 30 minutes? He said,
+[0:32:29] Jamie Indigo: Okay, he's running back from where he was getting information. Still.
+[0:32:33] Ian Lurie: That's right, that's right.
+[0:32:35] Jamie Indigo: Or out yonder we have fire horses that didn't like me. No, I
+[0:32:39] Ian Lurie: think what we're going to say last time we literally started with the fight starting,
+[0:32:43] Unknown Speaker(s): yes, the
+[0:32:44] Ian Lurie: they were like lunging forward. So we're just going to say Drach has some kind of, I don't know, I don't actually want to kill him. That seems kind of wrong. Move him off screen. Not he gets hit by a spell.
+[0:33:05] Jamie Indigo: Um, called scheduling.
+[0:33:07] Ian Lurie: Called scheduling. No, I don't have any good morphs for him. Oh, wait, there we go. He just gets knocked down. We don't know why he just falls over, um, he
+[0:33:24] Jamie Indigo: casts hot mess. That's right, got a long casting time.
+[0:33:27] Ian Lurie: He cast hot mess. The important
+[0:33:29] Sango Reed: question, does it get back up again?
+[0:33:31] Ian Lurie: Well, we'll just find out. You
+[0:33:33] Jamie Indigo: gotta cast Chumbawamba on him.
+[0:33:36] Ian Lurie: Um, so Aardman. It just just to remind you, you guys came to this, this company, and I was a little over enthusiastic in giving, giving up the the name of the company, because I was so fucking proud of myself, which I know is kind of lame, but the company is thalketh, air, Amir malferith, or Timu for short, which in which an infernal, in infernal is the eternal market reigns supreme. So that's the name of this company. And when you walked in, you saw a flag with those letters on it, and the symbol of Asmodeus on the flag as well. And this place is creating these cheap knockoffs of basically higher quality items that the Fire Giants and their friends are creating, and these cheap knockoffs are being made in this machine here. But before you even came down here, you had discussion with Aardman, and his name is ardman, Ignis la he and he's a rakshasa. And Rakshasa, you just from your own knowledge, you know, are infernal creatures. They're cats. They have weird properties about them. So like, one thing you notice about Aardman is his hands are backwards. So like, if you look at his hands like this. His hand is actually flipped around the other way. And in fact, if you look at the mini you can see here that his hand is actually backwards. They are schemers. They're plotters. They are from the Nine Hells. And you know, talking to him, he made it almost sound reasonable, like he was like, Look, the stuff I'm making does work. It just doesn't work as well, and it's much cheaper, so why not? And all the time that he's talking to you, he's kind of walking you down to this room so he can show you the manufacturing facility. And you get down here and you're still talking, and you're just not buying it. And in the end, he says, Well, that's fine, because I just wanted to get you down here anyway. And that's when he turns towards you and all these salamanders, which are these giant flaming creatures that look loosely like salamanders, I guess, except much less cute. And he basically says, I just wanted to get you down here. And they all lung at here. Some things you notice about the room. There's a gaming table over here. There's snacks. Apparently, there's a never ending snack bar over here with free beverages. Oh God,
+[0:36:19] Jamie Indigo: is there a ping pong table?
+[0:36:20] Ian Lurie: Well, that's what this is. This is this, is damn it, yeah, well, come on. I took this as far as I could, all right,
+[0:36:33] Jamie Indigo: it's beautiful. It is absolutely beautiful. And
+[0:36:37] Ian Lurie: then there's this machine here where, you watched as you were talking to him, and someone came and put one of these azer. These are the azer set an item here, pushed a button. There was this big flash of electricity or something. And then over here, a whole bunch of copies of it appeared. And just to give you a look at the whole room. This is what it looks like. You can assume that these rocks are recently cooled magma here and here there's some kind of fountain or waterfall of magma that flows down the wall along here, and then over to this machine. And there's a fire elemental, a small one that seems to be tending to the machine somehow. Oh yeah, there's a toy box too over here. But that's, that's what you kind of take in when you're there, and then all the salamanders lunge at you, and everybody rolls initiative. And the first thing that happens is, let's see here, ardmon makes a hissing sound, and let's see. Oh, yeah, that gets everybody, um, and you all need to make a DC 18 wisdom, save
+[0:38:15] Unknown Speaker(s): ah,
+[0:38:18] Rikterr: plus five if you're within 10 feet of Richter.
+[0:38:22] Jamie Indigo: How close am I to Richter?
+[0:38:25] Ian Lurie: You're definitely within 10 feet. Oh, maybe that's why. All right, I'm gonna roll drag, save unfortunately. Um, oh, yep, that's why he's down. Okay,
+[0:38:43] Unknown Speaker(s): actually, okay, can
+[0:38:46] Jamie Indigo: I use flash Virginia son on rikter, yeah, sweet. So plus five, do it?
+[0:38:54] Rikterr: So? 21 Okay,
+[0:38:55] Ian Lurie: James, 26 Okay, all right. Well, damn it, that was his. That was arguably his coolest power. But that's all right, it's okay. What
+[0:39:06] Jamie Indigo: happened to drag? He got
+[0:39:09] Ian Lurie: hit. Yeah, so he clutches his his ears like he has just been punched incredibly hard, like directly in the brain. He lets out this kind of shrieking sound, and then ends up, sorry, I'm just trying to find the right. There we go. Ends up cowering in the corner
+[0:39:44] Unknown Speaker(s): over here,
+[0:39:49] Ian Lurie: unable to do anything.
+[0:39:52] Rikterr: Was He frightened?
+[0:39:54] Ian Lurie: He is frightened and incapacitated.
+[0:39:57] Rikterr: No, he's not frightened. Okay,
+[0:39:59] Ian Lurie: so he's just incapacitated. So actually, we'll just go right back to this. Someone also make a note that he just took 36 points of psychic damage.
+[0:40:11] Jamie Indigo: I got some notes for drag here. Okay,
+[0:40:13] Ian Lurie: he basically the Aardman said something. It sounded like I it's some kind of hissing in a language that you didn't fully understand. You think it was probably infernal. So if any of you speak infernal, you may have known what he was saying, but you know it sounded like a curse, and apparently that's what it did, and he is incapacitated until the start of the next Yes, definitely. Your mama, Sango, it had to be and he, he then, 23678, did, oh, he's speedy, okay. He goes over to here, and he says, get them. And that's it for him for his turn. So starting with Drak, who is incapacitated. So then Sango,
+[0:41:19] Sango Reed: okay, Sango looks over at rikter, gives him a little wink and says, What's he gonna say, tag team, he puts out a fist,
+[0:41:35] Rikterr: back again, and
+[0:41:39] Sango Reed: he's gonna turn out the lights, cast darkness. Okay.
+[0:41:49] Ian Lurie: How big is the
+[0:41:52] Sango Reed: 15 foot radius?
+[0:41:58] Ian Lurie: And you're placing it on you? Yep. How to lock this? There we go. All right,
+[0:42:10] Sango Reed: okay, and then he's going to, he's his speed is 55 does that give me enough to get next to the rock Sasha guy here, hold on.
+[0:42:30] Ian Lurie: 55 so that's, uh, six is 30 plus. You needed a little bit more to go up and over. Yeah, you should be good.
+[0:42:37] Sango Reed: Okay, get right next to them and I'm gonna punch
+[0:42:41] Ian Lurie: and does the darkness come with you? Yep,
+[0:42:44] Sango Reed: it's on his staff. Oh, okay,
+[0:42:48] Ian Lurie: they still haven't given me a way to lock things to a to a miniature. It's my one complaint. Okay,
+[0:43:09] Sango Reed: okay, now I get advantage. If he cannot see in the dark,
+[0:43:17] Ian Lurie: you do not get advantage,
+[0:43:18] Sango Reed: damn it. Okay, all right, Oh, damn it, that ain't Great. That's a 16.
+[0:43:28] Ian Lurie: Okay, let's see you take a swing at him, and he just kind of dodges back. He is very dexterous. You feel like you almost hit him.
+[0:43:45] Sango Reed: Okay, that's That's it, okay.
+[0:43:51] Unknown Speaker(s): Rikter,
+[0:43:58] Rikterr: okay, how far away is the closest little salamander thingy to me. Is
+[0:44:13] Ian Lurie: 20 about 20 feet.
+[0:44:16] Rikterr: Okay, so I'm going to move up to him. Okay,
+[0:44:27] Ian Lurie: he looks surprised. No one's ever run up to me before.
+[0:44:32] Rikterr: Um, so bonus action, I'm gonna cast one of my new spells, which I changed the name of, because the other name sucked fair. So everyone just sees Richter reach up his arms, and you just see a couple of shadows from the room come to his hands, and he takes him and wraps him around himself. But you don't see anything happen yet, and now I'm going to go ahead and attack this creature, Bastion. And as I attack, I'm going to use one of my channel divinities to cast sacred weapon on Bastion.
+[0:45:21] Ian Lurie: Are you? That means you're casting to, oh no, it's a challenge.
+[0:45:24] Rikterr: So it's not it's got decoupled from the spelling.
+[0:45:28] Sango Reed: Got it? Got it? Okay?
+[0:45:31] Rikterr: And so I'm going to make all of the damage that Bastion does now radiant. Okay, see two pitch, so I roll 33 and a, 31
+[0:45:53] Unknown Speaker(s): yeah, those,
+[0:45:56] Ian Lurie: those hit kind of just barely,
+[0:46:00] Sango Reed: just a little bit,
+[0:46:05] Rikterr: and that's going to be 16 points, okay, and Hold on, plus another eight. So 2424 points of radiant damage. Yeah,
+[0:46:28] Ian Lurie: you, you hit him and it, it your your weapon just blacks like solidly into it, even though it looks like it's amorphous. Just made a fire. There's clearly flesh in there. And when pit it, you know you can you're hitting flesh.
+[0:46:46] Rikterr: Awesome. And now at the end of this turn, you guys see rikter disappears. So now I've got the invisible condition until the start of my next iron, and all of that lasts for one minute.
+[0:47:00] Jamie Indigo: Damn it. Y'all are just brewing. Everything I'm trying to do, I can't enlarge you for can't see you.
+[0:47:04] Ian Lurie: God. So basically, mossy is there, and the fight starts, and then everyone just
+[0:47:11] Jamie Indigo: disappears. Like, I'm hold I'm ready to just shatter the machine and say, Fuck you and walk away. But no fucking Sango has to run on in there. And then I'm like, Okay, we'll all enlarge rikter Be like, extra sexy, baby, but no fucker goes invisible.
+[0:47:33] Sango Reed: Never mind. Okay,
+[0:47:36] Ian Lurie: salamander on rikter says, All right, you know what? You hit me. I hit you back.
+[0:47:47] Rikterr: Oh, shit, these motherfuckers could see invisibility. The motherfucker.
+[0:47:49] Unknown Speaker(s): Oh, wait, you're invisible. Yeah,
+[0:47:51] Rikterr: I'm invisible.
+[0:47:52] Ian Lurie: No, you can't see. It's just
+[0:47:53] Jamie Indigo: me and an unconscious elf. Thanks.
+[0:47:55] Ian Lurie: Okay, so Yeah, unfortunately, I
+[0:48:12] Sango Reed: it. Can they see a darkness those salamander guys? Absolutely not.
+[0:48:17] Ian Lurie: It's just like blundering around in there.
+[0:48:21] Unknown Speaker(s): Hey, where's the boss? Somebody out the boss?
+[0:48:27] Ian Lurie: All right, mossy, I rolled a one and a four on my first two attacks. All right, I think I hit once. I rolled a 17 and a 24
+[0:48:49] Jamie Indigo: Why can't I math? Okay? Now, yep, you hit once,
+[0:48:52] Ian Lurie: okay, you take seven points of piercing, plus you take 10 points of fire. Okay,
+[0:49:04] Jamie Indigo: I have a reaction that I can do with absorb elements. Oh,
+[0:49:10] Ian Lurie: okay, that would be handy.
+[0:49:12] Jamie Indigo: Yeah. So how do I do this? Okay, one reaction, which you take fire damage, and what do I get to do? The spell, capture something you can connect energy, making it have lessening the effect on you and storing it for the next melee attack. You will have resistance on triggering damage type until the start of your next turn. So resistance will fire into the next turn. How much to mitigate?
+[0:49:33] Ian Lurie: That's hat. That means you only took half. Okay, so you took five, five fire and you took seven, piercing
+[0:49:41] Jamie Indigo: I have five fire to give in my next melee attack.
+[0:49:46] Unknown Speaker(s): Suck it.
+[0:49:49] Ian Lurie: This guy swings wildly and hits nothing. And then you hear the Rakshasa say, No, you fool, stop. Mossy, it's your turn,
+[0:50:04] Jamie Indigo: with all of my good plans ruined. Okay, hey, can you zoom out a little bit? Can I see is there like a pipe powering into that machine? I can see the
+[0:50:14] Ian Lurie: No, the machine's all the way over here, uh huh, and any if there is power coming to it, it's over here, right next to you,
+[0:50:24] Jamie Indigo: can I see something that if I hit it, it would damage the machine,
+[0:50:27] Ian Lurie: nothing. Well, give me a perception check with disadvantage, because you're you've got two giant flaming lizards attacking you.
+[0:50:37] Jamie Indigo: Oh, shit, that's a whopping eight.
+[0:50:40] Ian Lurie: Yeah, you don't think so. I mean, you see stuff that may be important, like these big zapping globes, but I mean, these guys are right up in your face.
+[0:50:50] Jamie Indigo: Okay, okay,
+[0:50:51] Ian Lurie: and there's flames everywhere.
+[0:50:53] Jamie Indigo: So bonus action, I'm a fucking Misty step. It Okay, and I'm going up onto the boxes that are closest to me in the angle, the ones on the right, I'll pop up on top of those things.
+[0:51:08] Ian Lurie: So that's 21 feet, or, sorry, 35 feet. You can go that far.
+[0:51:16] Jamie Indigo: Oh, it's 30 feet. Okay.
+[0:51:17] Ian Lurie: So you could go to here, okay, he could go up on here. But just to give you an idea, whoops, I just dropped you on a wall, sorry. Well, I
+[0:51:30] Jamie Indigo: love movement. Can I use my movement to hop up on top of it?
+[0:51:35] Ian Lurie: Yeah, yeah. That's because Misty step is an action. So, yeah. So then that's true,
+[0:51:40] Jamie Indigo: that's my bonus action. And then I'm going to use a spell of fireball, because I can now see part of the machine.
+[0:51:46] Ian Lurie: Okay, you can see everything that's not in this sphere, because
+[0:51:53] Jamie Indigo: I see that tube in the back, and my my artificer brain thinks that's important, that might be part of a power supply or something. So
+[0:52:00] Ian Lurie: give me a an intelligence check with with your proficiency bonus,
+[0:52:13] Jamie Indigo: dirty 20.
+[0:52:14] Ian Lurie: Okay, that is made of metal, you're pretty sure. So hitting it with it and it's also it is apparently withstanding the lava. So you think hitting it with a fire bolt probably wouldn't do much damage to it.
+[0:52:26] Jamie Indigo: Okay, okay, but
+[0:52:28] Ian Lurie: that same role tells you that you know these things might be important, these zapping things. You know that
+[0:52:37] Jamie Indigo: I want to hit a zapping thing. All
+[0:52:39] Ian Lurie: right, give me. First of all, give me an attack roll
+[0:52:45] Jamie Indigo: that is a 23
+[0:52:47] Ian Lurie: Okay, that'll definitely hit the stationary metal object. Got it
+[0:52:52] Jamie Indigo: one in dark punch metal, then find the tense tank. I love you, child,
+[0:53:02] Unknown Speaker(s): dice, Goblin rolling the dice get
+[0:53:07] Jamie Indigo: so it's 11 points, okay? And I'm gonna yell, Sango, get the fuck out of the darkness. I'm trying to do a thing,
+[0:53:18] Ian Lurie: right? So I gotta add those things
+[0:53:25] Sango Reed: is gonna cast silence instead.
+[0:53:31] Jamie Indigo: Go for it. I don't think you'll speak or something. You'll see it all right.
+[0:53:34] Ian Lurie: We're back to ardmon. Things are going kind of fast here. Um, he is gonna his Baleful command actually reset. I roll randomly for it. So everybody give me another Dc, 18 wisdom, save Ah, damn it, I'll do drag. All right. Track is once again. So drag took another 2827 okay, you succeed. Mossy,
+[0:54:28] Jamie Indigo: oh, I failed. Okay,
+[0:54:30] Ian Lurie: so you take 28 psychic damage, and you are incapacitated and frightened. So
+[0:54:41] Jamie Indigo: I'm high on the bookshelf.
+[0:54:42] Ian Lurie: Yeah, you can basically, sort of sit there. You could run if you want to, but that's it. Um, Sango
+[0:54:53] Sango Reed: natural one.
+[0:54:55] Ian Lurie: Oh, no. Okay, so that's 28 psychic, and you're frightened and incapacitated. And I'm assuming is silence, concentration.
+[0:55:05] Sango Reed: Darkness
+[0:55:07] Ian Lurie: is sorry, darkness, okay, that would certainly break concentration. Yeah.
+[0:55:18] Unknown Speaker(s): Oh, okay.
+[0:55:22] Ian Lurie: And Drach actually failed again, so he's now taken 56 points of psychic. This only total, yeah, okay, it only recharges on a five or a six. So I got real lucky that time.
+[0:55:38] Sango Reed: Wait, what kind of damage was that
+[0:55:40] Ian Lurie: psychic? Okay. And then he goes
+[0:55:55] Unknown Speaker(s): over to he goes over to here.
+[0:56:07] Ian Lurie: And he yells something to the Azure azers, the azers, and you're not sure exactly what they say, but it sounds like fuck you. I'm not doing that. And they go bolting in this direction
+[0:56:19] Sango Reed: Sango. Sango should be able to understand that. Okay,
+[0:56:23] Ian Lurie: um, he said, stop them. And the azer said, we only work here. And they took off. That's not our job. Um, okay, so let's see track no Sango no rikter.
+[0:56:49] Rikterr: Well, she um, how far is away from Mossy? Is Richter? I
+[0:57:06] Unknown Speaker(s): For God's sake,
+[0:57:11] Ian Lurie: about 40 feet.
+[0:57:17] Jamie Indigo: You You are invisible. I am hissing and freaking out on top of the bookshelf.
+[0:57:27] Rikterr: Yeah, that's, that's what I want to stop so you know what? Fuck it. So I I'm going to bonus action, Misty step, 30 feet closer to Mossy. Okay, I'm so if I'm within 10 feet, that should get rid of your frightened
+[0:58:12] Jamie Indigo: capacity, still incapacitated,
+[0:58:15] Ian Lurie: you're actually only within 15 right there. But if you say a step, yeah,
+[0:58:22] Rikterr: yeah, give me a step piece. Okay.
+[0:58:31] Ian Lurie: I don't know why it's frightened to any incapacitated. I guess because then you're forced to move in a certain direction. It's the only thing I can think of.
+[0:58:40] Jamie Indigo: So I'm like Kiki after she got spayed, right now, I
+[0:58:43] Unknown Speaker(s): will kill you. Yeah,
+[0:58:45] Rikterr: and can greater restoration get rid of incapacitation? Um,
+[0:59:04] Ian Lurie: it can. But I'll just tell you that this power, this Baleful command, only lasts until the beginning of the Russia says next turn.
+[0:59:12] Rikterr: Okay, so,
+[0:59:13] Ian Lurie: so you may as well just let it, let it go at this point, unless you, I mean, if you did it, then she'd be able to attack this round. But that's a that's up to you. Yeah, she would, you
+[0:59:28] Rikterr: know what it's, it's, Hey rikter looks at Mossy. Hey baby, you want to do some cool rogue shit?
+[0:59:38] Ian Lurie: Yes, she's like,
+[0:59:42] Jamie Indigo: just, a ball, like purrs out we're having a moment.
+[0:59:45] Rikterr: He just says, I'll take your silence by Yes. And so he takes the sand, rubs it over his ring, and uses it to cast greater restoration on mossy, okay? And so that's my action economy, all right? And disappeared again.
+[1:00:04] Unknown Speaker(s): Bunk, you're gone.
+[1:00:07] Ian Lurie: Sango, you're frightened. So you would have gone.
+[1:00:13] Sango Reed: I would like to use still mind to get rid of the frightened.
+[1:00:18] Ian Lurie: Okay, then you're no longer frightened, okay, oh, you're still you're still incapacitated. You can't do anything this round. Do
+[1:00:42] Sango Reed: I get a saving throw at all, or is it
+[1:00:44] Ian Lurie: just you did that was that? Was that 18 wisdom save? Okay,
+[1:00:47] Sango Reed: I don't get another one every round?
+[1:00:49] Ian Lurie: Well, no, it's this round. This. This all happened this round. Remember, he's used the power twice. So at the beginning of this round, he used it, you Drak and Mossy all failed the Drax in the corner, pooping himself. You're actually not frightened at this point. I suspect these guys are going to really struggle to hit you, especially if I keep okay, this goes in the chair with the dunce cap, it's that simple.
+[1:01:24] Sango Reed: Yay. Morgan,
+[1:01:26] Ian Lurie: okay, so I got a 26 and a 25 All right. Sorry, no, just a 26 so you take seven points of piercing plus 10 of fire.
+[1:01:50] Sango Reed: Do I get reactions?
+[1:01:53] Ian Lurie: No, you are incapacitated. You don't you can't do anything. And then give me a DC 15 strength save
+[1:02:07] Sango Reed: natural two,
+[1:02:09] Ian Lurie: dude, it's your you know what? It's your birthday. I'm gonna give you that one so you don't end up constricted by a fucking virus elementary I roll two, three, sorry, next to attacks and 22 so that gets that's another seven points of piercing plus 10 to fire. Okay, so that's all the salamanders. Mossy.
+[1:02:44] Jamie Indigo: Okay, all the salamanders are gathered together, right? Nothing I can do to actually help you in this. How bad does Sango look? Is he okay?
+[1:02:57] Ian Lurie: It's really hard to tell. But go ahead, James,
+[1:03:03] Sango Reed: he is he's fine. Ish, he's
+[1:03:06] Jamie Indigo: fine. Ish, okay, okay, so with that, I'm going to cast fairy fire on the three fuckers that have surrounded him right now. Okay,
+[1:03:20] Rikterr: Dex, save I believe?
+[1:03:22] Jamie Indigo: Uh, oh, no, I scrolled to work. Yeah. Dex, 18. Dex, 18.
+[1:03:30] Sango Reed: Hey, uh, Sango got a 19. So he saves, because you would technically hit me too. So I'm good with that. Think
+[1:03:41] Ian Lurie: she gets to choose. Thank
+[1:03:43] Jamie Indigo: you. Oh, you do. Dead Sango, I'm not going to give an advantage on hitting you. No, all right.
+[1:03:52] Ian Lurie: So very fired. And also, uh, very fun. So the blue bases are fairy fire or purple, or whatever the hell color they are. My I don't know. So Sango is now enveloped in fire. I
+[1:04:15] Jamie Indigo: have a bonus action
+[1:04:16] Unknown Speaker(s): though. Oh, okay,
+[1:04:17] Jamie Indigo: yeah, so I would like to break out the blessing of the zoom. Okay, the flavored Zephyr fire. So I'm going to run hit like melee with the fire that I have stolen my claws from the last attack, hit one of them, grab Sango and keep fucking going.
+[1:04:37] Ian Lurie: Okay, how far can you move?
+[1:04:39] Jamie Indigo: Okay, so it's gonna give me an extra 30 feet, but we talked about this before you can you can roll. No, I was hoping you're to be able to stack in my feline agility, because that way, even with a half speed, I can get him back over and away.
+[1:04:57] Ian Lurie: Yeah, so 30 feet would get you to here. Yep. And then feline agility gets you
+[1:05:01] Jamie Indigo: feeling. Agility gets me 40 feet, and I have my base movement of 30.
+[1:05:07] Ian Lurie: Well, then you have plenty anyway, yeah, so you have 60 feet of movement. So you don't want to take them back to here,
+[1:05:12] Jamie Indigo: yeah, I'm dragging them up there with me. Okay,
+[1:05:14] Ian Lurie: so, um, give me a touch attack, which is just roll me a D 20, because you have to somehow grab Sango, and Sango is not resisting. So you know you don't have to really hit much, but I
+[1:05:29] Jamie Indigo: don't know what a touch attack is.
+[1:05:31] Ian Lurie: It's just roll give me a D 20.
+[1:05:34] Jamie Indigo: Okay, I'm gonna use another. What's my call it? Flash of genius and move it up to make it a 13.
+[1:05:45] Ian Lurie: Okay, that's that's fine. That's plenty. And then give me a strength role. So that's just a D 20 plus your strength modifier.
+[1:06:01] Unknown Speaker(s): Fuck me.
+[1:06:05] Jamie Indigo: Five.
+[1:06:06] Ian Lurie: Okay, so you get him, you're kind of trying to drag him along. You're like, you get him, like, there.
+[1:06:13] Jamie Indigo: Can I shove him in this around the corner of the shelf thing? Then
+[1:06:20] Ian Lurie: he's too heavy. You can if you want to. I'd say you could give him one last heave and get him down here. But you know your what's your strength?
+[1:06:31] Jamie Indigo: My strength is 15. Oh,
+[1:06:33] Ian Lurie: actually, you're reasonably strong. Sango, how much do you weigh?
+[1:06:38] Sango Reed: How much does paper weigh?
+[1:06:41] Jamie Indigo: It's true. Yeah, mossy is like a buck 50. She's muscular,
+[1:06:45] Ian Lurie: yeah? All right, you know, somehow I picture this, this cat, so, all right, you know, you get them all the way over to here, you can drag 150 pounds. That's huge. Well, actually, you can drag a lot more, but in the middle of a fight surrounded by flaming salamanders. So you get over next
+[1:07:03] Jamie Indigo: to me, and rikr
+[1:07:05] Ian Lurie: you get over to here, and Sango is slightly singed, but looking very calm, considering that he is surrounded literally by flaming salamanders. And then you drag him out of there, and he is now right there. All right,
+[1:07:23] Jamie Indigo: Sango says, Happy Birthday. Is back
+[1:07:25] Ian Lurie: to ardman turn he did not recharge. Let's see. What will I do? I he disappears. Bunk, so that's the last place that you saw him. We'll just say that means he's he's invisible. Drac is no longer incapacitated or frightened, but he's not here. So what I'm going to do is I'm just going to ease up a little on hit points for these other guys until Drach is back, if drag gets back, because I don't really want to run drag unless some if one of you has his character sheet and wants to just run him, that's fine. That's fine with me. But, yeah, his character is hellaciously complicated, which is why I don't want to really do it either. I gotta admit, um,
+[1:08:39] Jamie Indigo: here, I'll tell you what. I got a sheet open here. Oh, wait, that's the legacy one. Yeah.
+[1:08:45] Ian Lurie: Sorry. Okay, Sango, your turn.
+[1:08:56] Sango Reed: Okay. Do I have any indication that either the rock Sasha, rock Sasha, or these little flaming guys are Elementals. They are
+[1:09:16] Ian Lurie: The salamanders are definitely Elementals. Okay, as is, you know, the elemental, but oh and sorry, the Rakshasa is a fiend. Okay, literally and figuratively, guys, I'm gonna go grab a Diet Coke. I will be right back.
+[1:09:59] Jamie Indigo: Okay, so drag Scott Grasping Vine as a bonus action that seems pretty clutch.
+[1:10:06] Ian Lurie: You could also just shoot something he does, like 50 bazillion
+[1:10:10] Unknown Speaker(s): damaged six plus 10. Holy shit. Yeah, he's
+[1:10:14] Ian Lurie: firing telephone poles or something I don't know.
+[1:10:20] Sango Reed: All right, I'm gonna cast protection from good and evil on myself that gives me some advantage against their attacks. And is he standing up or is he laying down? Who Sango
+[1:10:36] Ian Lurie: he is now standing up.
+[1:10:38] Sango Reed: Okay?
+[1:10:39] Ian Lurie: He looks annoyed, miffed. He looks as annoyed and miffed as Drak can ever look.
+[1:10:47] Sango Reed: So Sango is going to go over to that closest salamander and punch him a couple times, okay? Or once is a 24 to hit. Yeah, that'll hit.
+[1:11:06] Ian Lurie: I gotta up my guys armor classes.
+[1:11:09] Sango Reed: That's not much damage.
+[1:11:15] Ian Lurie: Remember, he's very fired. So you got advantage on your Yes, right?
+[1:11:23] Jamie Indigo: I can't even hear where the long rest button is on the scare she this is not going well.
+[1:11:34] Sango Reed: That is seven damage, eight, seven damage, seven.
+[1:11:39] Ian Lurie: Damage done. You again, just like with rikter, you land a shot on him, and you know he because of the way they look. You almost expect it to just be fire, like almost insubstantial, but instead, it is definitely flesh, like you walk solidly into something. It is hot when you hit it, but okay, rikter, you're Oh, sorry, any other movement or anything? Sango, Nope,
+[1:12:04] Sango Reed: he's good, right there. Okay,
+[1:12:09] Ian Lurie: rikter,
+[1:12:12] Rikterr: can I see that elemental from where I'm standing?
+[1:12:18] Ian Lurie: Yep, just barely, but you can see it
+[1:12:23] Rikterr: all right, and I'm going to go ahead and I'm going to hit it with three eldritch blasts.
+[1:12:29] Ian Lurie: Oh, dear. Okay,
+[1:12:35] Rikterr: so first one is 25 to hit. Next one is 21 to hit, and the final one is a 91 so two hits, I'm guessing, okay, 17 points of damage.
+[1:12:59] Ian Lurie: Okay, um,
+[1:13:04] Unknown Speaker(s): you hear,
+[1:13:07] Ian Lurie: and it disappears. It was not a very strong elemental. It has been wiped the face of oh, there's JP, yay.
+[1:13:25] Unknown Speaker(s): Brand,
+[1:13:27] Jamie Indigo: thank you. Oh, my God, your character sheets so fucking confusing. Can't figure out how to take a long rest,
+[1:13:34] Rikterr: all right, and after that, you just see rikter disappear again.
+[1:13:37] Unknown Speaker(s): Okay,
+[1:13:40] Ian Lurie: so someone want to catch JP up, please.
+[1:13:44] Jamie Indigo: Okay, so we were hired, basically to go find people making knockoff goods. We found the dudes making knockoff goods there. Did the company is Timu. Is a very clever, elvish sounding name that's Timu. We shit. Talked him a bunch. He was just trying to lure us down here. This is where the replicator machine is. So one side is the actual high quality product. They use some artificing, and they make all these ones on the other side, it's like my duplicate spell with the bag of holding, but at scale. And then, yeah, cocksecker decided to break out a bunch of these fireworm slugs on us. You have taken 56 points of damage at this point from psychic damage,
+[1:14:29] Ian Lurie: basically the Rakshasa. That's this guy here. He's the major he's the big bad guy. He said something, some kind of whispering guttural language. And when it happened, you had a piercing pain in your head, you were terrified, and you couldn't do anything. You were incapacitated. Let's see what else. Whether info Can I give you so you're over here. There are three fire salamanders here. Two of them are have fairy fire on them. This one does not. These little dudes are running as fast as they can for the door. With apparently, very little interest in talking to snacks and
+[1:15:30] Jamie Indigo: a ping pong table. Oh,
+[1:15:31] Ian Lurie: yeah, yeah. Okay, so in this, so this whole place is like, when you're you guys went up to his office first to talk to him about what was going on. And in his office, there's pictures of him, like shaking hands with, you know, what you assume must be like big celebrities in on the elemental plane of fire or something. You he has a copy, he had, like, 50 copies of a book that he apparently wrote about starting a, you know, running a startup. And, yeah, so he's, he's quite the character, and he spent a whole bunch of time trying to explain to you guys that look, you know, yeah, they're knockoffs, but they're much cheaper. And no, they don't work as well as the other products, but they work pretty well. So shouldn't other people be able to get these things much cheaper, even though, you know, they're supposed to be fireproof and they're sort of more fire resistant. But you know, he thinks that's okay, and he brought you guys down here to show you the machine, and you know, tried to persuade you some more. And when you wouldn't be persuaded, he sick these guys on you, and that's how the whole fight started. Got it so. Richter just did his thing. There was a fire elemental over here. Just to give you a picture of the room, there's this some kind of magma, or lava flow here, and a pipe coming up out of it. And then there's this machine here with these globes of lightning around it, and this, apparently, is the 3d printer, or whatever the hell they're using to copy all these items. Okay, so salamanders. First thing happened, Sango, you're you're so close to this fire salamander that the heat, and the heat is so intense that you actually feel like the flesh on your fists crisping a little bit, and you take seven more points of fire damage. And then give me a DC 15 strength save. I
+[1:17:47] Sango Reed: Ian, god damn it 11.
+[1:17:48] Ian Lurie: Okay, well, it's your birthday, but I can only give you one of those. It
+[1:17:55] Unknown Speaker(s): you have so many dice. Go grab different dice. Come on,
+[1:17:57] Sango Reed: I just did a different one.
+[1:18:01] Ian Lurie: So this one comes over and its tail goes and wraps up around you really quickly, and you are constricted inside the tail. So guys, all you see now is Sango heads sticking up out of the the coils of this salamander because they're basically, they're really snakes. They're not salamanders,
+[1:18:23] Jamie Indigo: very fired ones, yeah,
+[1:18:25] Sango Reed: does he? Does he have to hit me that to happen?
+[1:18:28] Ian Lurie: No, it's a saving throw, as long as they're within 10 feet and they can see you, so you take 12 points of bludgeoning, plus another 10 of fire damage, and you are grappled and restrained, and then on your next turn, you can attempt to escape the grapple. I suspect you will be able to without any problem. What's
+[1:18:57] Sango Reed: the light like down here? Is it? Right?
+[1:19:00] Ian Lurie: I'm saying it's bright just for the sake of get Yeah, it's kind of good. It was. Yeah, it's kind of flaming red and bright. I mean, there's shadows all over the place, but right here. I mean, you're surrounded by, literally, by three torches, three sentient torches. Okay, this one goes loop. Says, Hey, that works for my buddy, rikter, give me a DC 15 strength, save
+[1:19:27] Rikterr: it. Can't sue me. Ah, fuck.
+[1:19:32] Ian Lurie: He says that worked for my buddy, but I think you're not close enough. Nope, can't reach it. All right, fine. Um, these two take their spears. Did he
+[1:19:48] Jamie Indigo: take damage when I swiped him with the glow attack, or no,
+[1:19:52] Ian Lurie: when you scraped when I
+[1:19:54] Jamie Indigo: ran in and grabbed Sango before Sango turned? Yes, he did,
+[1:19:57] Ian Lurie: although the fire, the fire that you hit him with definitely did nothing. You could see it just sort of disappeared. What your claw attack is, what four damage, I think
+[1:20:12] Jamie Indigo: two, two or
+[1:20:16] Ian Lurie: is this die roll.
+[1:20:18] Jamie Indigo: It's something plus four. Oh, wait, because it's under features,
+[1:20:22] Ian Lurie: it's probably a d4, plus four, then,
+[1:20:37] Jamie Indigo: something like that. I can't find it.
+[1:20:39] Ian Lurie: I'll just, we'll just say six damage and go with that. Oh,
+[1:20:43] Jamie Indigo: it's d4, plus two, okay. Five,
+[1:20:55] Ian Lurie: okay, I was close. Um, all right, so these other two salamanders are going to throw spears at you. Mossy, 17 and 18 and a 24, and a one.
+[1:21:19] Jamie Indigo: Jesus. Okay, well, my armor is 17, but I can use uncanny dodge for one of them. Okay,
+[1:21:31] Ian Lurie: all right. So with two of them, you take, for two of them, you take 10 points of fire each. So for a total of Sorry, sorry, you take seven points of piercing each, so that's 14 points of piercing, and then you take a total of 20 points of fire damage. But you have absorb elements if you use that, okay, then you only take 10 points of fire damage.
+[1:22:08] Unknown Speaker(s): Oh, God, cast it again.
+[1:22:12] Jamie Indigo: So yes, but if I do that, I can do uncanny dodge. Okay? By doing Kenny dodge, I get to half the damage,
+[1:22:20] Ian Lurie: the total damage, yeah, which is probably better. Um, so I'm
+[1:22:24] Jamie Indigo: gonna do that.
+[1:22:25] Ian Lurie: Okay, so then you take another eight points of damage total. Okay, so you guys watch as mossy just gets peppered. And what's weird is they throw the spears, and every time they throw a spear, it hits her, and then it comes back to their hands, and then they throw it again, and it comes back to their hands, and she takes three pretty solid body shots from the spears, and then at mossy, it is your turn.
+[1:23:02] Jamie Indigo: Okay, so is Sango still on the fray, on the machine? Where is everyone?
+[1:23:08] Ian Lurie: Sango is coiled, okay,
+[1:23:11] Sango Reed: being, uh, cuddled like a baby right now.
+[1:23:13] Ian Lurie: Looks very warm and cozy. Drac is over here. Our
+[1:23:18] Jamie Indigo: body is still invisible, yep. Okay, I'm gonna do a dumb thing, and if I can't do it, that's fine, but what I'd like to do is use my eye that sees like my turn to put that down, identify him, and then she used press dige station to make a big L on his forehead, and then tell the party where he is,
+[1:23:43] Ian Lurie: yeah. I mean, using the eye that sees as a bonus action, not an action. Okay? Actually, no, in the new rules, it's use an item, which I believe is a separate thing, right? You get, you get a bonus action, a use an action and movement. JP, you're probably the expert.
+[1:24:06] JP Sherman: Not on that, not on
+[1:24:07] Ian Lurie: that. All right, here, hold on a second. Yes, you can interact with one object or feature the environment for free, so you can lower the goggles and now you still have your action and bonus action.
+[1:24:25] Jamie Indigo: Okay, so I'm looking for home skillet.
+[1:24:28] Ian Lurie: Okay, he is looking right at you.
+[1:24:44] Jamie Indigo: You. Oh, that's fun.
+[1:24:46] Ian Lurie: Apparently I can't turn around. I don't know why. Okay. Anyway, that's what he's
+[1:24:53] Jamie Indigo: doing. This is gonna bode well for me. All I feel great about this. Let's see here. So is putting the L in his forehead. Can I make that on my bonus action? Because then I would like to use a spell on on some folk here.
+[1:25:11] Ian Lurie: Um, I mean, the truth is precipitation is not really, I mean, he can just decide not to have it there. I think President
+[1:25:20] Jamie Indigo: Chase. I want to fuck with him. Can I just do it?
+[1:25:22] Ian Lurie: Fuck with him? Sure. Yes, you can draw a huge L on his forehead. Just
+[1:25:29] Jamie Indigo: reach out he's right in front of me, and put the L on his forehead.
+[1:25:32] Ian Lurie: He look. First of all, he looks really surprised when you do that. And then he goes, and he starts to try to wipe it off. Go ahead. And
+[1:25:39] Jamie Indigo: then I would like to cast Reed of sickness and get him in the two worm fuckers behind.
+[1:25:46] Ian Lurie: Okay, if you hit this guy, you will also hit Sango.
+[1:25:53] Jamie Indigo: God damn it, Sango, you mess up every fucking spell I have.
+[1:25:56] Ian Lurie: But it's a ray, right? So you can then it would hit him and it would hit him.
+[1:26:03] Jamie Indigo: Do you know what? Yep, we're doing it. Okay,
+[1:26:06] Ian Lurie: what's the range? It's
+[1:26:07] Jamie Indigo: a 60 foot.
+[1:26:08] Ian Lurie: Oh, yeah, so yeah, you you hit them both. I just
+[1:26:13] Jamie Indigo: and for the sake of visuals and for flavor, it's gonna look for a minute like, mozzie moves her hands all weird. And then her head spins around fully, and she just full on the Exorcist, this ray out of her mouth, ad fucker like dead in the face, and the guy behind him.
+[1:26:30] Ian Lurie: And how does the ray of sickness work? Do I roll a save or,
+[1:26:35] Jamie Indigo: yeah, it is a con save of 18,
+[1:26:38] Ian Lurie: okay. And if I make it do, I take damage,
+[1:26:47] Jamie Indigo: um, on a hit, it still takes 2d poison damage. It must make a con save on a wait,
+[1:26:54] Ian Lurie: so you do have to hit,
+[1:26:56] Unknown Speaker(s): yeah, so it's a
+[1:26:57] Ian Lurie: range spell attack. It's not a saving throw, okay, so you need to roll.
+[1:27:04] Jamie Indigo: This is attack save. Con 18. I think you make a save.
+[1:27:07] Ian Lurie: Oh, yeah, no, no, okay, so, yeah, so there is a save. So if I save, do I take damage? Or do I take no damage?
+[1:27:16] Jamie Indigo: I don't think you take damage. Okay,
+[1:27:18] Ian Lurie: all right, cool. So then roll me your damage
+[1:27:25] Jamie Indigo: down to media eight. Well, if it hit, there's a dit wait on a hit 280, point damage. Did you do? That is not a d8 my brain's broken. Y'all, no,
+[1:27:41] Ian Lurie: no, you make a range spell attack. It's not a save, so you need a roll to hit.
+[1:27:49] Unknown Speaker(s): I from Ray of sickness.
+[1:27:52] Ian Lurie: Ray of sickness, you shoot a greenish Ray at a creature within range. Make a range spell attack. Oh, you're right, you're
+[1:27:58] Jamie Indigo: right, you're good.
+[1:28:01] Ian Lurie: Yeah. 25 okay, well, that hits the fuck out of them. Now, this is interesting. When it hits the Rakshasa, it just passes right through him, harmlessly. Nothing happens. Now, it does, however, hit the salamander. So why don't you roll me damage for the salamander?
+[1:28:25] Jamie Indigo: Okay, it's gonna make a con save, and if it fails, it it's gonna take more damage.
+[1:28:30] Ian Lurie: Uh, not according to this. It just takes the damage and is poisoned. I'm
+[1:28:37] Jamie Indigo: sorry if it fails this poison, yeah,
+[1:28:38] Unknown Speaker(s): yeah, my bad. Well, it doesn't
+[1:28:41] Ian Lurie: even get to save it, just poisoned.
+[1:28:47] Jamie Indigo: My office is too dark and my dice bag is too crowded. Seven, oh, 14. Okay,
+[1:28:58] Ian Lurie: that hurts. That hurts a lot, and he is now fairy, fired and poisoned. We'll go with a nice bilious green.
+[1:29:10] Jamie Indigo: He's right up next to me, so I cannot take movement without
+[1:29:16] Ian Lurie: you have cunning action unless you already used your bonus action.
+[1:29:21] Jamie Indigo: I mean, yes, I didn't flavor precipitation. So,
+[1:29:26] Unknown Speaker(s): yeah, okay, all right,
+[1:29:29] Ian Lurie: I'd be willing to give you that one, but, but he does look really irritated now. He's like, but then when the ray of sickness hits him, he says, Oh, you don't know much about you don't know much about us do, um. And he What the What the What
+[1:29:51] Unknown Speaker(s): that bonded, a bonded pair. He
+[1:29:56] Ian Lurie: just moves around you like this stranger
+[1:29:59] Unknown Speaker(s): danger,
+[1:30:01] Ian Lurie: um, and he swings at you three times.
+[1:30:09] Jamie Indigo: Oh, this is not gonna be great for
+[1:30:12] Ian Lurie: me. Gets a 15 a 2726
+[1:30:19] Unknown Speaker(s): hit. They all hit,
+[1:30:22] Jamie Indigo: Miss and two hits.
+[1:30:23] Ian Lurie: Oh, Miss and two hits, okay, um, you take 12 points of slashing from each hit, okay. Oh, and then you take, uh, 30 points of necrotic
+[1:30:41] Unknown Speaker(s): total. Oh, no,
+[1:30:45] Jamie Indigo: sorry, I have to override my max right now, right
+[1:30:49] Ian Lurie: Yes, you are also cursed. Oh,
+[1:30:57] Jamie Indigo: cool. After
+[1:30:58] Ian Lurie: this combat, we will have to talk about the effect of that curse.
+[1:31:03] Jamie Indigo: Oh, mossy, not doing good. Y'all mossy, having a rough
+[1:31:14] Ian Lurie: time. He then
+[1:31:24] Jamie Indigo: oh, shit, Avenge me. I'm gonna get
+[1:31:26] Ian Lurie: I'm gonna get hit a lot. Now, there's nothing I can do with it, all right? Is he
+[1:31:32] Jamie Indigo: still invisible, except for an L? Is there?
+[1:31:33] Ian Lurie: Well, no, because he he attacked you, so he's visible. Probably shouldn't have done that as much fun as it was.
+[1:31:43] Jamie Indigo: He's bleeding profusely, like some pea soup still on her. Okay.
+[1:31:48] Ian Lurie: Drac, fire your your redwood tree.
+[1:31:53] JP Sherman: Okay, the one that's next to rikter. How is that one looking? Looks fine, okay, okay. In this, in that case, I'm going to, okay, this may or may not work. I'm going to, okay, I'm gonna Hunter's Mark the Rakshasa. Okay? And is he within 5060, feet?
+[1:32:39] Ian Lurie: I don't think so here hold on, yes, yes, he is okay,
+[1:32:50] JP Sherman: Grasping Vine, okay. This is a an attack roll, okay? And I am doing this at Fifth Level. Okay, which, no, I'm sorry I can't do Fifth Level spells yet. This is a fourth level and it is and so I got a role that's a 14 to hit, okay?
+[1:33:28] Ian Lurie: It misses him, shit. He sidesteps it, okay?
+[1:33:33] JP Sherman: And in that case, I should not have done that. I'm going to move towards the to towards the fire salamander that has the green status effect,
+[1:33:48] Ian Lurie: okay, the poisoned,
+[1:33:50] JP Sherman: yes, just kind of like in that area where the Teddy bar is got it. Um, uh, my bonus action was Hunter's marketing. And that's, right, that's, that's, that's what I got, all right, that would have been cool if I pulled it off.
+[1:34:13] Ian Lurie: Uh, Sango. So first thing is, you can try and escape. Uh, it's a DC 15, a DC 14, escape. So you can use acrobatics or athletics, I believe, to escape. Let me double check. Sorry,
+[1:34:39] Sango Reed: I'm just going to cast darkness instead. Okay, god damn fucker.
+[1:34:58] Ian Lurie: 15 feet. You said, Yep, all right, all of you are enveloped in darkness. Which mossy you don't care if you've got the goggle stamps, yeah?
+[1:35:13] Sango Reed: Oh, that's good. That's good. Then I am going to shadow step out of this guy's warm embrace, okay, to next To our uh, opposite handed friend, like there, yeah.
+[1:35:42] Unknown Speaker(s): Mm, okay,
+[1:35:55] Sango Reed: okay, okay, so then let's put me to the left of him instead of on the other side of mossy dude. Sorry, I want that. I want that bubble to to obscure these salamanders. Okay, got it. I
+[1:36:12] Ian Lurie: wonder if I can just move it.
+[1:36:16] Unknown Speaker(s): No glass.
+[1:36:26] Ian Lurie: It. There you go. So this sound, is it a it's a sphere, right? It's spurious,
+[1:36:31] Sango Reed: yeah, so
+[1:36:32] Ian Lurie: this looks really weird to you drag because you see like the tail and the head, but the rest of it is sort of hidden in this sphere of darkness, yeah, don't know that you've ever seen something like that before,
+[1:36:46] Sango Reed: okay, when I get one punch, okay, I get it at advantage because of the shadow step
+[1:36:53] Ian Lurie: and your hands count as magical weapons, right?
+[1:36:57] Sango Reed: Yeah, okay, that is 20 total to hit,
+[1:37:03] Ian Lurie: okay, that that hits, okay,
+[1:37:06] Sango Reed: that is 11 points of damage, all right, and I'm going to pump a stunning strike into that con, save DC, 18,
+[1:37:25] Ian Lurie: he makes it. You hit him and you you hit him with that one punch, and it hits him in the face, and you can see it hurts him, but he almost doesn't. His head doesn't jerk back, and he just kind of looks at you, but you definitely don't stun
+[1:37:44] Sango Reed: him. All right? That's, that's, that's near Mossy. One of us is going down, okay,
+[1:37:53] Jamie Indigo: girl, catch up.
+[1:37:58] Rikterr: Rikter, can Richter get around Sango to hit the rickshaw? Said, melee distance,
+[1:38:10] Ian Lurie: two, three,
+[1:38:13] Unknown Speaker(s): yeah, okay, just
+[1:38:15] Rikterr: wanted, I didn't know if that space was technically big enough for him to get around.
+[1:38:19] Ian Lurie: Why is it? I can't. All right, well, we'll just you're facing him. Don't worry. Rick
+[1:38:24] Rikterr: has been practicing slinging his
+[1:38:26] Ian Lurie: Yeah, that's right, that's right. Um, now you can't see because it's magical.
+[1:38:30] Rikterr: I have I have dark, I have a devil sight.
+[1:38:33] Ian Lurie: Oh, that's right. What's the point in having magical darkness at this point? That's my question.
+[1:38:39] Rikterr: Okay. Well, no, this is exactly why JP and I talked about this, just to double team on this. All right, so he's going to go ahead and he is going to actually, you know what first? Where is it?
+[1:39:01] JP Sherman: Damn it. Don't
+[1:39:06] Rikterr: be really stupid if I keep it. Oh, you silly bitch. Okay, I got rid of it. God damn it. Well, that's dumb, all right. I'm just gonna attack him with bastard
+[1:39:18] Ian Lurie: okay? And there is no flanking in 2024 okay? I would be happy to house rule and bring it back, but then my guys get it too. That's the only thing I would say. So
+[1:39:30] Rikterr: everyone, how do we feel? Flanking? No. Flanking.
+[1:39:35] Jamie Indigo: I like flanking.
+[1:39:37] Ian Lurie: It's really good for roads.
+[1:39:40] Rikterr: Yeah, and I'm happy to have your guys get it, because that's only fair as hell.
+[1:39:43] JP Sherman: Okay, blinking works. All
+[1:39:46] Rikterr: right, that's advantage, correct?
+[1:39:47] Unknown Speaker(s): Yep, okay.
+[1:39:56] Rikterr: All right, so 29 first hit,
+[1:40:01] Unknown Speaker(s): yeah
+[1:40:02] Rikterr: and 28 the second hand, yeah
+[1:40:09] Ian Lurie: that those, those hit, yay.
+[1:40:21] Rikterr: 21 point. Points of radiant damage, okay,
+[1:40:30] Ian Lurie: Bastion just thumps into his form. You take a pretty good chunk. He definitely, he did not like that. He looks, he looks angry, um, right about now,
+[1:40:45] Rikterr: and, um, you know what? No shit can't Yeah, you know what, I'm gonna go ahead and sacrifice this. I'm dropping concentration on veil of the Raven Queen, and I'm going to use a bonus action to cast shield of faith on mossy, mossy plus two to your AC, okay,
+[1:41:09] Jamie Indigo: but we've dropped the darkness.
+[1:41:11] Rikterr: No, no, I No, no, that is Sango has the darkness. I've dropped my personal invisibility. Okay,
+[1:41:20] Ian Lurie: well, and since you You attacked him anyway, so you're visible now, I would say, so who are our clerics? It's just rikter, right? Rikter, give me or No, you're a paladin. Give me a religion check
+[1:41:41] JP Sherman: user track is a one level cleric,
+[1:41:49] Jamie Indigo: five. I might be more religious
+[1:41:50] Ian Lurie: than No, no,
+[1:41:56] Rikterr: that is an 18, okay.
+[1:42:00] Ian Lurie: You don't know a lot about Rakshasa. You do remember now that they are completely invulnerable to all spells and magical effects,
+[1:42:16] Unknown Speaker(s): Mother fuck um,
+[1:42:20] Ian Lurie: and they're invulnerable to non magic weapons, and you think there's something they're vulnerable to, and you can't quite remember. You're just like, Oh, damn it. There's something, something about them being fiends that really doesn't agree with them, but you can't quite remember that.
+[1:42:40] Jamie Indigo: Like, is that an arcane thing too? Or? No, no,
+[1:42:44] Ian Lurie: no, it's definitely religion. It's in their nature as fiends of a very specific type. It's very obscure knowledge the 18. That's why the 18 got you the knowledge that spells, and spell like effects like the ray of sickness just went right through him. You know, Fireball would not do any damage to him. That's why Rakshasa are so potent.
+[1:43:16] Sango Reed: Then, can I ask if my stunning strike, since it's not a spell, did that seem to fall under this? What would, what would Sango Think of what happened?
+[1:43:32] Ian Lurie: Well, you, you're not the one who knows about this stuff, but it looks like, it looked like you just clocked him, and he just made his save.
+[1:43:38] Sango Reed: Okay? He didn't, he didn't he didn't get
+[1:43:42] Ian Lurie: anything funny. You hit him right in his big, fuzzy face and just, it just didn't.
+[1:43:48] Unknown Speaker(s): Didn't seem to act,
+[1:43:52] Ian Lurie: all right. So that was rikter salamanders. Salamanders are like, What the fuck
+[1:44:02] Sango Reed: there's that direct guy back there. Go get him. Wait.
+[1:44:05] Ian Lurie: Where the hell did you go? God damn it.
+[1:44:08] Sango Reed: Who said that? There you are. Sango cast minor illusion.
+[1:44:15] Ian Lurie: Zipping over here they are extremely fast.
+[1:44:19] Jamie Indigo: Oh, I should have made a concentration, save on that very far. But I think with the amount of damage done, it's dropped.
+[1:44:25] Ian Lurie: Uh, give me a roll of D 20.
+[1:44:30] Jamie Indigo: Oops, 17.
+[1:44:32] Ian Lurie: I'm pretty sure that would have saved me. You're pretty high level at this point. Yeah, it
+[1:44:37] Sango Reed: would have been. You'd had to take a 34 Yeah, more points of damage
+[1:44:43] Ian Lurie: and you took, you took 40. So, yeah, it does so it does drop.
+[1:44:50] Jamie Indigo: Yeah, could I have used evasion
+[1:44:53] Ian Lurie: absolutely on one of the attacks?
+[1:44:56] Jamie Indigo: Okay, what would that have given me back?
+[1:44:58] Ian Lurie: It would have reduced the damage from one of the attacks by half.
+[1:45:03] Jamie Indigo: Can I retro that?
+[1:45:05] Ian Lurie: Yes, if you can remember the damage that was rolled, because I sure as hell don't. It
+[1:45:09] Jamie Indigo: was 30 and 14.
+[1:45:11] Ian Lurie: Okay, so you could, well, the 30
+[1:45:14] Rikterr: was necrotic.
+[1:45:15] Ian Lurie: Was necrotic, and that was one that was, yeah. See, that's not one attack you took. You took 14 plus. I can't, you know what? I can't remember. I'm sorry. Just want you just give yourself 14 hit points back, because that probably works out in the math there somewhere, all right, all the salamanders jump all over Drak. They have just enough movement the flank, actually, um, so first drag, give me three DC, 15 strength saves. Ian, I can't hear you.
+[1:46:18] JP Sherman: I got a 15. Okay. Okay, all right. I got a 14,
+[1:46:27] Unknown Speaker(s): okay,
+[1:46:28] JP Sherman: and I got a 16,
+[1:46:30] Ian Lurie: okay, so all three of them try to wrap their coils around you, and you duck under one, and you jump over another, but the third one just goes and just wraps around you, and now Drach is constricted, the same way that the other ones, that same way that Sango was right before that they each take a swing at you with their spears, does a 20 hit? You? Nope, out of 22
+[1:47:07] Unknown Speaker(s): Nope. What the fuck
+[1:47:12] Ian Lurie: well then one doesn't um, the hell armor? What's your armor class? 23 God, damn. Okay. So you are constricted, you take 11 bludgeoning plus 10 fire gotcha, and you are grappled and restrained.
+[1:47:39] Unknown Speaker(s): Got it? Okay?
+[1:47:44] Ian Lurie: Mossy, it's your turn. Okay.
+[1:47:54] Jamie Indigo: This guy cannot see us, which is right, huh? Did you say, Oh, he can see us.
+[1:48:02] Ian Lurie: You're pretty sure that he can. He you know that he could see you guys when you were invisible, which would normally mean he has true sight of some kind, which would mean that he can see in magical darkness as well. Okay, plus, he's looking right at you. He's
+[1:48:18] Jamie Indigo: looking right at me, which
+[1:48:20] Ian Lurie: is kind of a giveaway,
+[1:48:21] Jamie Indigo: yeah, but I, I mean, I do this because I wanted to do at the start, gonna look at him and say, Fuck you. I'm gonna cast shatter on his machine.
+[1:48:34] Unknown Speaker(s): Okay, okay.
+[1:48:39] Ian Lurie: And how does that tell me how shatter works. It
+[1:48:41] Jamie Indigo: has to make a con save. All right. If you want to get creative about this, it's partially in darkness, and it has disadvantage. If I you
+[1:48:50] Ian Lurie: know it's not really yet, no, um, it doesn't really work that way. When you're not, I
+[1:48:58] Rikterr: was gonna say, Ian, you're the best DM ever. If you find a way to finagle having a table make a save? Well, they do.
+[1:49:08] Ian Lurie: They automatically fail their saves. So just roll your damage. And in fact, I'm pretty sure shatter does more damage to the objects, but
+[1:49:34] Jamie Indigo: 21 points of Thunder damage.
+[1:49:37] Ian Lurie: Okay, so you hit this thing and it
+[1:49:45] Jamie Indigo: sort of, I meant trying to hit it so that it will also knock off one of these guys over here that's closest to his 10 foot range.
+[1:49:54] Ian Lurie: Well, definitely, what's so how far? What's the range for the spell, though,
+[1:50:00] Jamie Indigo: uh, enlarged noise erupts from your choice within range. It creates a 10 foot sphere. Okay, everything in that has to make a concentration. Save, hello, trash cat,
+[1:50:12] Ian Lurie: so it actually wouldn't reach anybody else.
+[1:50:15] Jamie Indigo: Okay, that's all right.
+[1:50:16] Ian Lurie: Um, so basically, you hit the machine, and right now, in the machine, these gloves are moving up and down. These things when you hit it, one of them screeches to a halt.
+[1:50:32] Sango Reed: Wait, did you just stop one of those?
+[1:50:37] Jamie Indigo: Yeah.
+[1:50:39] Ian Lurie: He says, That's my IP.
+[1:50:55] Sango Reed: They should make like a marketplace where you could sell your designs, right? This would be cool.
+[1:51:03] Jamie Indigo: Is there anywhere that I could hide, Sir, wait like, well,
+[1:51:08] Ian Lurie: you have to get away from him, yeah, so which is an attack of opportunity, but it is just an attack of opportunity. Is truly lethal shit you could hide. I mean, the premise, he's looking right at you, he's
+[1:51:23] Jamie Indigo: looking right at me. So that's just, that's just not
+[1:51:24] Ian Lurie: gonna work. But you could get away from him. Yes, you could try and get away.
+[1:51:29] Jamie Indigo: Okay, so I will, because I am fucking beat up. I Misty step 30 feet back away from the machine,
+[1:51:39] Ian Lurie: actually. And you haven't even used your bonus action, have
+[1:51:44] Jamie Indigo: you? No, I just use my attack
+[1:51:45] Ian Lurie: so you can bonus action disengage, all right, so then you're going to Misty step, 30 feet, yep.
+[1:51:50] Sango Reed: Well, if you're going to bonus action disengage, you don't need to miss it.
+[1:51:54] Ian Lurie: Yeah, you can just run.
+[1:51:55] Jamie Indigo: Oh, yeah. Well, then I'll do that.
+[1:51:57] Ian Lurie: Where are you going to go? Right there. I
+[1:52:05] Sango Reed: Oh, my God,
+[1:52:11] Jamie Indigo: it's really my middle name is a line, so it works,
+[1:52:15] Ian Lurie: all right, you know what? Oh, my God, they're
+[1:52:20] Unknown Speaker(s): they're breeding the heck. Okay,
+[1:52:36] Ian Lurie: all right, so you've escaped that little show I am rolling ridiculously well to recharge Baleful command, so, um, drag, sorry, Sango rikter and Mossy, all need to make that DC 15 wisdom. Save drag. I
+[1:52:58] Rikterr: think Sango plus five. Sango plus five.
+[1:53:04] Unknown Speaker(s): Yes,
+[1:53:08] Ian Lurie: it's good, because I'm pretty sure that would have killed you. Yeah,
+[1:53:12] Sango Reed: 24 so
+[1:53:13] Ian Lurie: Yeah, you're good.
+[1:53:15] Rikterr: 15 on the dock. Okay,
+[1:53:20] Ian Lurie: so he says he makes his command and it does not recharge, and he he looks unhappy when it doesn't work. He just stays there,
+[1:53:38] Unknown Speaker(s): Boss, he is
+[1:53:39] Jamie Indigo: now openly mocking him. I think she would yell,
+[1:53:43] Ian Lurie: nice, that's a good idea. Drag, it's your turn. Okay? It's a DC, if you want to try and escape grapple, it's DC 14.
+[1:53:59] JP Sherman: No, I'm just gonna Misty step. Okay, I'm going to Misty Step Up 30 feet away towards the if I'm looking at like the north west corner. And I'm going to pull a conjure barrage.
+[1:54:25] Unknown Speaker(s): Oh, boy. Okay, now
+[1:54:28] JP Sherman: they all need to pass a DC 18, Dex check,
+[1:54:34] Ian Lurie: Dex, check, or Dex, save, Dex,
+[1:54:36] JP Sherman: save. What's the DC 18?
+[1:54:46] Ian Lurie: Mother shit. Fuck. They all fail.
+[1:54:51] JP Sherman: All right, I'm gonna Okay. They all take 49 points of damage.
+[1:55:01] Ian Lurie: Oh, my God,
+[1:55:04] JP Sherman: 49 hold on that. Sorry. My mistake does 49 force damage. Okay, okay, that was my action, and I bonus actioned, and I am going to, you
+[1:55:28] Unknown Speaker(s): can move. I can move.
+[1:55:32] JP Sherman: I think I'm going to move as far away from them as I can. Probably on the if the yeah right over there, okay.
+[1:55:46] Ian Lurie: And just as a reminder, this stone appears to be recently cooled magma, yeah, yeah. All right, I gotta finish doing some addition here. Sorry. Don't your damn fault. Okay, all right, one of them looks really bad. This one right here looks terrible. Okay, Sango,
+[1:56:21] Sango Reed: okay. Go. He is going to shadow step to the other side of this guy. Or No, actually, I get an advantage if we're flanking right, all right, I'm just gonna move around in front of him. Yep, sweet. That helps a lot. And I'm gonna pop, pop,
+[1:56:53] Ian Lurie: okay, see
+[1:56:54] Sango Reed: if I can hit this guy. Oh, shit. Do you want the one or the two?
+[1:57:09] Ian Lurie: Okay, those do not hit,
+[1:57:12] Sango Reed: Okay, the next one is a two and a 17 total.
+[1:57:21] Ian Lurie: Okay, the 17 does hit,
+[1:57:24] Sango Reed: okay, so that is 11 damage, okay, and a stunning strike,
+[1:57:38] Ian Lurie: okay, what's my save?
+[1:57:40] Sango Reed: 18?
+[1:57:44] Ian Lurie: 18 con.
+[1:57:48] Sango Reed: Oh, no, wait, hold on, yeah, I think it's gone.
+[1:57:50] Ian Lurie: Okay, he saves.
+[1:58:01] Sango Reed: And then I am going to, how far will 30 feet get me towards the salamander guys? No, lost.
+[1:58:20] Ian Lurie: I mean, this is only 20 feet right here.
+[1:58:33] Sango Reed: Okay, put me, put me on the other side of the ball by that table. Yep, okay, and then my darkness will follow me. And, yep,
+[1:58:46] Ian Lurie: they can't see your darkness follows you everywhere you he does get an attack of opportunity on you,
+[1:58:55] Sango Reed: but not. Oh, sorry, a shadow step there. Oh,
+[1:58:58] Ian Lurie: okay, important. That's important. That's important.
+[1:59:07] Jamie Indigo: Anybody have anything arcane like guiding bolt. Guiding bolt is asked.
+[1:59:12] Ian Lurie: Guiding bolt would also not do anything fuck. All. Right. Richter,
+[1:59:24] Rikterr: all right, so gonna hit him twice with Bastion, okay, little monster, let's see that is a 22 and a dirty 20 so two hits, right? Yep, alright. And for one of these, I'm going to use a bonus action for a divine Smite, okay? And because it's a fiend, instead of two d8 extra, that's 3d eight extra. Okay, start hitting.
+[2:00:07] Jamie Indigo: Do not steal more dice, madam.
+[2:00:12] Rikterr: For a second, I thought you were talking to me. I was like, I have not stolen any dice.
+[2:00:15] Jamie Indigo: This one marched right up and was like, what's in the tray? I
+[2:00:31] Rikterr: Oh, that's going to be 39 radian damage total. Kat,
+[2:00:44] Ian Lurie: all right, your AX thuds into him. I again, don't know, minion,
+[2:00:53] Sango Reed: that's a cute you're dancing.
+[2:00:58] Unknown Speaker(s): Why are you like this? You live here.
+[2:01:02] Ian Lurie: Okay, so you all right, you hit him? Anything else?
+[2:01:08] Unknown Speaker(s): Nope, that's it. Okay.
+[2:01:11] Ian Lurie: So we're back to salamanders.
+[2:01:16] Unknown Speaker(s): Let's see.
+[2:01:21] Ian Lurie: Um, well, well, shit. They know there's this big plume of darkness. They're pretty sure there's something in there, so they're all going to take attacks with disadvantage,
+[2:01:41] Unknown Speaker(s): dismiss. Miss.
+[2:01:47] Ian Lurie: 19 Nope. 25 sorry. 22
+[2:01:55] Sango Reed: Yes, right.
+[2:01:59] Ian Lurie: 23 then, hits, yeah, another 22 so we got three hits so far. Three hits you take a total of 21 points of piercing. Oh. Uh, no, I'm sorry. You take a total of 39 points of piercing and 2021, points of fire,
+[2:02:36] Sango Reed: the darkness fades away.
+[2:02:40] Unknown Speaker(s): Broke your concentration. Oh, are
+[2:02:44] Jamie Indigo: you still up?
+[2:02:45] Sango Reed: Nope.
+[2:02:46] Ian Lurie: Oh, no. Oh, okay, it's, I just, I did not mean to put you down on your birthday. Man, that's, that's not cool, all right, Sango is down unconscious. Um, a
+[2:03:03] Sango Reed: little bit over the over the party line. Rikter, you here. Hey, you still got the 300 diamonds?
+[2:03:15] Ian Lurie: I was about to ask the same thing, because what immediately happens now is all three salamanders, because I know, sorry, I know only one of them is in close enough proximity. See you immediately fail a death save because he his fire aura burns you while you're down. But luckily, these two are not close enough. Otherwise you'd be immediately dead. And then next round you can start making death saves salamanders. We gotta go help the boss.
+[2:03:58] Jamie Indigo: Does he do? I get attack opportunity because he's coming right
+[2:04:01] Ian Lurie: by me. No, because I just realized you're there. So actually, that one's just jumping. You
+[2:04:20] JP Sherman: can't quite make it, so he stops there.
+[2:04:25] Ian Lurie: All right, so first mossy on you give me a DC, 15 strength, save.
+[2:04:35] Jamie Indigo: Juice, fucking bucks. Oh,
+[2:04:37] Ian Lurie: dear. Okay, you are constricted. Did you take 11 bludgeoning plus seven points of fire, and you are grappled and restrained? I don't know if it's worth even bothering to try to do this on Richter, but Richter, give me a DC 15, strength save,
+[2:05:08] Unknown Speaker(s): yeah, sit and be polite. Oh, 22 Okay, so
+[2:05:20] Ian Lurie: let's see. I'm assuming a 16 doesn't hit you. Nope. Every guy throws does a 21 hit.
+[2:05:30] Rikterr: Oh, just,
+[2:05:32] Ian Lurie: just, okay. So you take 13 piercing plus seven fire as one of the one over here throws a spear at you, throws their spear twice and the second one hits you. So I'd
+[2:05:52] Rikterr: have to roll 10 to save on a concentration, right, right. Sorry, mossy, you lose the extra two to your AC.
+[2:06:04] Ian Lurie: Oh, man, that was why I didn't swing at her. Too. Mossy, your turn.
+[2:06:11] Jamie Indigo: Okay, I would like to miss you. Step out of a bad situation, please. Okay, so I'm going to go back over to the side left of the rail. Yeah,
+[2:06:27] Ian Lurie: you can Misty step. How many feet? 30? Okay, so you can end up right. Oh, shoot, sorry there.
+[2:06:39] Jamie Indigo: Yeah, that works fine for
+[2:06:40] Ian Lurie: me. Cool Salamander. They're pretty smart, so he doesn't look too confused, but he looks mildly confused.
+[2:06:47] Jamie Indigo: Okay, and, um, it's time for a potion, because I'm pretty beat up. So is that my interaction economy? That's your
+[2:07:01] Ian Lurie: bonus action. No,
+[2:07:04] Jamie Indigo: my bonus action was misty stuff. If I
+[2:07:06] Ian Lurie: wanted to, then you have to use, then you have to spend an action to drink the potion,
+[2:07:09] Jamie Indigo: cool. I'm using my action to have a greater. I'm gonna drink this greater. I
+[2:07:28] Ian Lurie: You guys have healing magic, right? Yeah,
+[2:07:31] Jamie Indigo: but I'm running low on spell slots, so,
+[2:07:33] Ian Lurie: oh yeah, no, I'm just, I'm just
+[2:07:35] Jamie Indigo: like, right now, am I good?
+[2:07:36] Ian Lurie: Y'all y'all need to Yeah. James is like,
+[2:07:51] Jamie Indigo: Wait, do I hold on? Um, can I target multiple people with a Healing Word spell before I make that my
+[2:07:58] Ian Lurie: official no Healing Word hits one person
+[2:08:02] Jamie Indigo: back, James, I'm sorry. Be right there.
+[2:08:08] Ian Lurie: He has two death saves left. So that's at least two rounds.
+[2:08:15] Sango Reed: Let's look at one. Hold
+[2:08:16] Jamie Indigo: on. Could I have Misty stuff next to him? Sure. Yeah. Can I, I just want to be right next to him, and I'm gonna do spare the dying on you or whatever, as soon as I can.
+[2:08:29] Ian Lurie: You can also just doing it. You know, you can just make a roll and, well, anyway, next round, yes. Um, okay, that's your your turn. Yeah. Yeah, okay. Ardmon is like, Well, no, fuck you. And he takes two swings at you. Rikter, three swings at you. 24, a, 19 and a, 17.
+[2:09:00] Rikterr: One hit.
+[2:09:01] Ian Lurie: Okay, one hit. You take.
+[2:09:06] Rikterr: Wait. You said 24 Yeah,
+[2:09:09] Ian Lurie: 24 I'm
+[2:09:10] Rikterr: actually wearing the fuck. Is it? Okay? I'm going to use a reaction and cast shield and so no hits, okay.
+[2:09:32] Unknown Speaker(s): Does that work?
+[2:09:36] Ian Lurie: Yeah, yeah, there's no save. So that does indeed work. He um,
+[2:09:42] Unknown Speaker(s): he sucks.
+[2:09:50] Ian Lurie: No, he stays there. He stays right there. Um, track your turn. I Okay,
+[2:10:03] JP Sherman: I'm gonna level my bow and I'm gonna hit the one that's right next to Richter,
+[2:10:10] Ian Lurie: that one, the green one, yeah, yeah. Okay,
+[2:10:16] JP Sherman: so that I'm on my first attack, and I'll be a 27 to
+[2:10:22] Ian Lurie: hit. Yeah, yep, that hits all right,
+[2:10:25] Unknown Speaker(s): and
+[2:10:31] JP Sherman: all right, that is a plus. So my mistake Hunter's Mark first, then hit, all right, that gives me 18 points of damage. And if he is still up,
+[2:10:54] Ian Lurie: still up, but looking really bad, arrows sticking through his head, multiple stab wounds. Not looking good at all.
+[2:11:02] JP Sherman: All right, the next one is a 30 to hit, okay, and a 14 damage. He goes down. So bonus action I'm gonna think I'm how far away is our moss? Ian Sango, for me, that looks up not I've got 55 feet moved by Medicare with 55
+[2:11:37] Ian Lurie: I'm sure. But let me just check. All right. Just make it actually, you can end up over here on the other side, but this is not a wall, it's a railing so you can reach through it.
+[2:11:51] JP Sherman: Yep, I'll go there. Okay,
+[2:11:57] Unknown Speaker(s): all right. Sango,
+[2:12:07] Ian Lurie: give me that say that's a
+[2:12:12] Sango Reed: that's that's a that's a that's a fail.
+[2:12:15] Ian Lurie: Okay, so you failed to you got one to go. And no, I'm not going to have monsters hunting you down and following up on you. I wouldn't even do that on a regular day. Never mind your birthday. That's just too shitty. Rikter, the Rakshasa, is just towering over you. His claws are out. He looks thoroughly annoyed. Cool.
+[2:12:49] Rikterr: Bonus action, I'm gonna hex blades curse him, so now I get a plus to my damage rolls and crit on 19 or 20,
+[2:13:02] Sango Reed: okay, and
+[2:13:03] Rikterr: I'm going to attack him twice with Bastion, okay, so let's see. Got a Oh, both of them are 30. So that's going to be two hits. I it's going to be 40 radiant damage.
+[2:13:39] Ian Lurie: Okay, that actually looks like. It looks like he's he's now he's feeling that a little bit that that stung.
+[2:13:51] Rikterr: And stay right here. Okay,
+[2:13:56] Ian Lurie: all right, salamanders, let's see here. Go to protect the boss. Someone goes to here. I shouldn't make them sound so stupid. They're not that stupid.
+[2:14:07] Jamie Indigo: No, I like the derby salamanders
+[2:14:11] Ian Lurie: and this one, can it make it all the way over?
+[2:14:13] Jamie Indigo: They all met at a fraternity.
+[2:14:16] Ian Lurie: Yeah. Good point. Yeah.
+[2:14:20] Jamie Indigo: All right, bro, bro, bro,
+[2:14:25] Ian Lurie: all right. Oh, my God. Oh my god. A 19 does not hit you, right.
+[2:14:37] Rikterr: Hell no.
+[2:14:38] Ian Lurie: Oh a NAT 20 does though
+[2:14:42] Jamie Indigo: slippery barbs
+[2:14:44] Rikterr: act I love my baby.
+[2:14:49] Ian Lurie: All right, okay, that was kind of funny though. Okay, so you take 13 piercing seven fire, that's 20 total. Well, I got
+[2:15:07] Rikterr: hit.
+[2:15:08] Ian Lurie: Yeah, you silvery Barb just means it's not a crit, okay,
+[2:15:11] Rikterr: um, so what just I'm sorry, one more for the damage.
+[2:15:15] Ian Lurie: Uh, total of 2013. Piercing seven fire, sweet. Wait,
+[2:15:25] Rikterr: if it's not a quick could I then have used shield?
+[2:15:28] Unknown Speaker(s): Yeah,
+[2:15:29] Rikterr: okay, I'm gonna use shield. Well,
+[2:15:30] Ian Lurie: actually, you can, but it's still a 27 even without the crit.
+[2:15:35] Rikterr: Oh, okay, then never mind, yeah, because it
+[2:15:36] Ian Lurie: was still a natural 20, it just doesn't double the damage. All right, mossy,
+[2:15:46] Jamie Indigo: okay. So first thing, actually, I want to see if I can cast both these. Could I bonus action, Healing Word, and also cast reduce and large? That's a first and a
+[2:15:59] Ian Lurie: no, no. You can do a can trip and a spell. I believe in 2024 but you can't do two spells.
+[2:16:06] Jamie Indigo: Okay, I'm gonna smack Sango in the face and do spare the dying and then go get him, baby, and do enlarge on rikter, okay, which is going to increase your size category, you advantage on strength checks and strength saving throws your attacks with it in large weapons deal an extra one for one d4 damage on hit.
+[2:16:35] Ian Lurie: I hope you got all that.
+[2:16:38] Jamie Indigo: I will message it to you there. It is.
+[2:16:48] Ian Lurie: Wow, that's impressive. The Rakshasa just looks like, whoa. What the actually, he knows what just happened. But still, he's impressed. Hmm, creative. He actually says that. He says, Oh, very creative. Fuck.
+[2:17:03] Jamie Indigo: You very much. I
+[2:17:04] Ian Lurie: can appreciate that. You know, there's always a position available at my company. I appear to have lost two employees in the last 30 seconds. Spare the dying. Does that mean Sango is he's
+[2:17:22] Jamie Indigo: not making death saves. He's just
+[2:17:24] Ian Lurie: not making death saves. Okay, got it,
+[2:17:26] Jamie Indigo: sorry, I couldn't get you up and give the one doing damage more boost.
+[2:17:33] Ian Lurie: Beats dying. Um, okay, so now,
+[2:17:41] Jamie Indigo: oh, I use my cutting action. Just kind of hide,
+[2:17:44] Unknown Speaker(s): okay,
+[2:17:46] Jamie Indigo: just shuffling into the shadow of the give
+[2:17:47] Ian Lurie: me a stealth. Give me a stealth. He's not looking at you right now. So,
+[2:17:54] Jamie Indigo: yeah, that's so many stealth,
+[2:17:57] Unknown Speaker(s): 41 Okay,
+[2:17:58] Ian Lurie: so you move over behind this table, I'm just gonna say, and you, you hide there. All right, rikter, he just unloads on you, starting with a 24
+[2:18:20] Rikterr: and I'm gonna go ahead and use shield,
+[2:18:22] Ian Lurie: okay? And then a 25
+[2:18:26] Rikterr: oh no, no, no, that does not hit,
+[2:18:27] Ian Lurie: okay? And then another crit,
+[2:18:32] Jamie Indigo: silver barbs.
+[2:18:33] Ian Lurie: You can't do that again. You know. You only got to do that once. This round, sorry about that. Sorry, you take this is gonna sting. Okay, so I'll give you two choices here. I can just go with the two thirds damage, or I can roll
+[2:19:00] Rikterr: now, two thirds of all, you know what? Rolling,
+[2:19:06] Ian Lurie: no, yeah, you want me to do rollies. I want
+[2:19:08] Rikterr: you to roll these, son,
+[2:19:10] Ian Lurie: all right, so you take a Yeah, you know what? You take 19. So that was a wash. You take 19, slashing. And teaching, and then you take 18 necrotic and you are cursed.
+[2:19:36] Unknown Speaker(s): Oh, twinsies. You don't
+[2:19:37] Ian Lurie: know what that means. You you track, it's your turn. You're muted, yeah, okay,
+[2:19:55] JP Sherman: I'm going to burn my one and only Fifth Level spell. And since everyone is so politely grouped up there, I'm going to fire off another conjure barrage. Okay, they each need to make a deck safe. DC, 18 decks. The everybody fails, all right, and everybody takes 50 points of damage, yeah, um,
+[2:20:32] Ian Lurie: so the Russia doesn't take any Okay, um, because that is a spell I'm assuming. Um,
+[2:20:39] JP Sherman: yep, I'm trying to avoid track. Didn't know that. So, yeah,
+[2:20:43] Ian Lurie: yeah, no, that's no, that's cool. And I believe you just killed both the salamanders. Oh yeah, yeah, they're, they're, they're gone.
+[2:20:53] JP Sherman: Bonus action, Healing Word, Sango.
+[2:20:57] Ian Lurie: So Sango, you are upright
+[2:21:00] JP Sherman: with five points of damage, five points of healing. Yeah, I was gonna say,
+[2:21:08] Ian Lurie: you fall down again.
+[2:21:09] Jamie Indigo: He healed you with an arrow.
+[2:21:15] Ian Lurie: Um, all right, Sango, it's your turn.
+[2:21:19] Sango Reed: Ah, for sake. Um,
+[2:21:24] Jamie Indigo: radiant hurt him.
+[2:21:28] Sango Reed: Radiant hurts him. Do I know that? Would I know that
+[2:21:31] Ian Lurie: as far as you know, as far as you know, radiant does not do any unusual damage team. What
+[2:21:36] Jamie Indigo: was the thing that Richter hurt him with that did damage?
+[2:21:39] Ian Lurie: Well, I mean, just hitting him with a magical weapon does do damage. Sango has done damage to him, but rashasa have a lot of hit points.
+[2:21:52] Sango Reed: I'm gonna click my heels together, and my forehead starts to glow with a chalice on it, and you go back, and then I'm going to cast fuck. I don't know if I should do that.
+[2:22:11] JP Sherman: Do your words. I
+[2:22:12] Sango Reed: want to cast silence over there so that him and him director are covered in silence.
+[2:22:22] Ian Lurie: Okay, the Russia who's been talking the entire time continues talking, um, but it's okay, no, but his lips are moving and that's all. There's no saving in silence, right? Nope.
+[2:22:42] Sango Reed: And then I am going to scoot my ass back down to the hallway down below,
+[2:22:53] Ian Lurie: so you're there
+[2:22:54] Sango Reed: in the hallway. Yeah, okay, yeah,
+[2:22:57] Ian Lurie: there's Yeah, you fall into the abyss. No, no, guy, you're huddled outside the door with these two answer, and they're looking at you like,
+[2:23:08] Jamie Indigo: actually pause this week too. You
+[2:23:10] Ian Lurie: come out there and they immediately both run
+[2:23:16] JP Sherman: in equity
+[2:23:18] Sango Reed: and as a, as a free action, I take out some good berry bomb and start rubbing on my burn marks from when that salamander hugged me.
+[2:23:32] Ian Lurie: Yeah, no, they they don't even have equity so that they're not sticking around. All right. Rikter, back to you.
+[2:23:45] Rikterr: All right, I am going to attack the Rakshasa, please. Oh, one of these is a natural 20. The other one is a 34 so two hips, and I'm not kidding, 34 that doesn't mean come on now and I am going to use a second level divine Smite. You. Where
+[2:24:24] Unknown Speaker(s): did you just steal?
+[2:24:27] Rikterr: Oh, again, thought you're talking to me. Give it
+[2:24:29] Unknown Speaker(s): back. So.
+[2:24:51] Rikterr: Then a before from the enlarge that's going to be 43 points of radian damage, okay? And that's all I can do. Okay,
+[2:25:18] Ian Lurie: you are pretty sure he is now down to half that. Was a significant shot. Yeah, no, he rushes, you know what?
+[2:25:30] Rikterr: No, no, I love you so much. I love you so much. And now you think that you've gotten without pretty much the half Well,
+[2:25:36] Ian Lurie: but, and that's such a shitty DM thing. I should not have done that. That's terrible. It's just in dandy. In fourth edition, there was this thing called bloodied where you would tell someone he reached the bloody condition, which was half their hit points. And I still have that bad habit. So
+[2:25:49] Rikterr: this was our first year together. Yes, it's just shitty thing. After this point that's fucking perfect to drop. Yeah, you think you're a badass, huh?
+[2:25:59] Ian Lurie: He looks, he does look, you know, he's bleeding. He's not happy in the His blood is like this black icker flowing out of him. And he goes to make some smart ass remark, and his lips just move, and he looks annoyed and Mossy. It's your turn.
+[2:26:15] Jamie Indigo: I started by cackling and laughing and pointing at him,
+[2:26:20] Ian Lurie: my friend. He, of course, can't hear that, but
+[2:26:34] Jamie Indigo: I have nothing that can do anything to this fucking asshole. Oh, wait, I have an idea. He's
+[2:26:41] Ian Lurie: just an entrepreneur. He didn't ask you guys to come in here and just start. How
+[2:26:46] Jamie Indigo: weak is that love over there? How, what? How weak, weak. How far underneath that, that freshly formed lava.
+[2:26:53] Ian Lurie: Oh, you have no idea. You can go jump up and down on it if you want to check.
+[2:27:01] Jamie Indigo: Okay, I'm just gonna do a fireball at the machine again. Okay,
+[2:27:08] Ian Lurie: that was a shatter that you did last time.
+[2:27:10] Jamie Indigo: Yeah, I know. I don't have Dutch last left. I can do 3d 10 fire damage. So try it. Nope, okay. Juice box.
+[2:27:23] Ian Lurie: Okay. So you do the fire bolts, they kind of go, they glance off the machine, but because it's made of metal, the fire bolts don't you would have had to have hit it and done a lot of damage. Yeah, didn't quite do it
+[2:27:35] Jamie Indigo: 3d time of the can trip, man,
+[2:27:37] Ian Lurie: it's a great can trip, yeah, I've been using Baldrige gate three quite a bit.
+[2:27:43] Jamie Indigo: Fuck. I just tuck back in and hide. Okay.
+[2:27:51] Ian Lurie: Track, where the hell are you?
+[2:27:54] JP Sherman: I was next. I was next to Sango. Oh,
+[2:27:58] Ian Lurie: that's right. Okay, so Drak mossy and Sango, you all need to give me DC 18 wisdom saves I knew
+[2:28:04] Jamie Indigo: I should have run in the hallway.
+[2:28:07] Sango Reed: Wait why?
+[2:28:09] Ian Lurie: Because he's using. Oh, no, not you. I'm sorry. Drac mossy and rikter.
+[2:28:15] Jamie Indigo: Can he do it in silence? Yes, 30
+[2:28:19] Ian Lurie: it's, it's a psychic. No
+[2:28:23] Rikterr: wisdom save, right? Yeah, motherfucker approved.
+[2:28:30] Ian Lurie: Okay, so mossy and rikter, you both take 28 psychic and you're both frightening and incapacitated.
+[2:28:40] Rikterr: I'm just incapacitated. Yeah,
+[2:28:42] Ian Lurie: until the next turn.
+[2:28:44] Jamie Indigo: Cool, cool, cool.
+[2:28:46] Ian Lurie: So we'll just go past you guys drag your turn, actually, no, wait a minute. Wait a minute. I'm sorry. There was a reason I did that.
+[2:29:08] Sango Reed: What?
+[2:29:14] Ian Lurie: So now track your turn.
+[2:29:16] JP Sherman: Okay, no strike,
+[2:29:20] Ian Lurie: okay, I know you're gonna do that. I almost said Zephyr strike, but,
+[2:29:27] JP Sherman: yeah, I'm gonna Zephyr strike. I'm gonna pull up my daggers, okay, and I'm gonna go over his livers. Well, no, his kidneys.
+[2:29:36] Ian Lurie: You get all the way over there. I'm assuming you move like bazillion feet.
+[2:29:39] JP Sherman: Okay, yeah,
+[2:29:42] Ian Lurie: by the way, I'm playing in another high level game soon. I'm just copying your character sheet.
+[2:29:47] JP Sherman: That's amazing. Hope
+[2:29:47] Ian Lurie: you don't mind, nope.
+[2:29:52] JP Sherman: Okay, okay, okay, so I don't get to flanking, because rikter, okay, so dagger 118,
+[2:30:05] Ian Lurie: that hits. Okay. Are these magic daggers? Oh, yeah, okay,
+[2:30:11] JP Sherman: yeah, they're plus ones, okay, the Nick that would be a 27
+[2:30:21] Ian Lurie: okay.
+[2:30:22] JP Sherman: And the second attack is a 26
+[2:30:27] Ian Lurie: All right, all right.
+[2:30:30] JP Sherman: Total slashing damage would be 10 plus 10 plus 1030, points of damage. Okay, there was no hunters. There was
+[2:30:47] Ian Lurie: Yeah, yeah, no, okay, so let's see Sango.
+[2:31:00] Sango Reed: All right, let's see. Fuck sake, he's going the wrong direction. God damn it, is he though I can't get to him. Well, actually, I have 55 feet of movement. How far will that get me?
+[2:31:35] Ian Lurie: Right about there. So if you dashed, you could get right up to him, but then you've dashed and you can't do anything else.
+[2:31:45] Sango Reed: Yeah, I don't really need to dash. I just Well,
+[2:31:58] Unknown Speaker(s): looks like,
+[2:32:01] Sango Reed: uh, how's Drac looking? Is he hurt?
+[2:32:05] JP Sherman: He's hurt. He's stable. Okay.
+[2:32:10] Ian Lurie: Mossy
+[2:32:12] Sango Reed: is Mossy? Down?
+[2:32:15] Jamie Indigo: Not technically,
+[2:32:16] Sango Reed: not technically, okay, all right, I'm going to
+[2:32:19] Jamie Indigo: mushroom farts next to me from drag right now, I'm dead.
+[2:32:24] Sango Reed: I'm gonna, I'm gonna move more towards the right and about, well, I want to keep going my 55 feet. But about halfway through it, I'm going to cast Healing Word on Mossy.
+[2:32:39] Unknown Speaker(s): Okay, so yep, right about
+[2:32:42] Sango Reed: more to the other side. Yep, keep going that way, keep going that way, keep going that way. Keep, keep, keep, keep, yep. Okay, so I wanted to go 55 feet from the original to this direction. Okay,
+[2:32:59] Unknown Speaker(s): all right. I even
+[2:33:02] Sango Reed: got a little further, there you go. Well, I see, oh, that's shit. You get eight hit points. I
+[2:33:16] Jamie Indigo: almost made it to double digits.
+[2:33:20] Sango Reed: Wow, you got more than I do right now. That
+[2:33:22] Ian Lurie: was close, okay?
+[2:33:26] Jamie Indigo: I thought it was gonna be x damage and y. And I'm like, Well, this is it,
+[2:33:32] Sango Reed: well, and then I got my chalice up so I get, I get 12 hit points that,
+[2:33:42] Ian Lurie: all right, we are back to ardmon. So this is when,
+[2:33:47] Sango Reed: okay, hold on, that was my movement and my bonus action, okay,
+[2:33:52] Jamie Indigo: yeah, 17 monk actions for you now,
+[2:33:54] Sango Reed: everybody.
+[2:33:56] Jamie Indigo: This is a good point for a bio break. It's
+[2:34:01] Ian Lurie: not so much pop pop as
+[2:34:05] Sango Reed: okay. How far away is that guy for me right now?
+[2:34:16] Ian Lurie: 60 about 60 feet and ah, and he is in melee with drag. So if you're doing a ranged attack,
+[2:34:28] Unknown Speaker(s): you'd be a disadvantage. Sorry.
+[2:34:33] Sango Reed: That ain't gonna help. That's fucking worst. First shit. No, I just, I got nothing I can hold on. I'm sure I got a dagger or some shit, I have a dart. I'm gonna fucking throw it. I've never used a dart. I'm gonna throw a dart at that fuck all. Right,
+[2:35:07] Ian Lurie: it's a disadvantage. Remember, no,
+[2:35:10] Sango Reed: why is it? I know
+[2:35:12] Ian Lurie: because you're wrong. You're throwing into a melee combat.
+[2:35:15] Sango Reed: Oh, okay, well, darts only go like 60 feet anyway, so, yeah, oh,
+[2:35:31] Rikterr: you rolled a natural 20 on one of them, huh?
+[2:35:34] Ian Lurie: Oh, he rolled two natural 20s. I suspect I
+[2:35:37] Sango Reed: rolled two natural 20s. Nice,
+[2:35:42] Ian Lurie: you crit him with a dart. Okay,
+[2:35:46] Rikterr: it does, too, damn it.
+[2:35:48] Sango Reed: I know, right? I don't know what darts do like they do like d4 right?
+[2:35:53] Ian Lurie: I think so. I'm not sure.
+[2:35:58] Sango Reed: Oh, yeah, therefore, 224, plus five. Ah, that's nine damage. Wait, no, it's grit. So that is eight, that's 13 damage.
+[2:36:11] Unknown Speaker(s): Nice.
+[2:36:14] Ian Lurie: A Dart track you're there, and you just slashed at him, and now a dart just hits him squarely in the back of the head. Oh, wait, is the Dart magic? No?
+[2:36:23] Sango Reed: Oh,
+[2:36:24] Ian Lurie: damn it. So it hits squirrely in the back of the head, and she goes, who can it? Just doesn't
+[2:36:31] Unknown Speaker(s): do any damage. Doesn't do any damage. No.
+[2:36:34] Sango Reed: Oh, he's invulnerable to some bitch. I
+[2:36:40] Ian Lurie: But that's okay, because he says, You know what? He actually says this. He says, You know what, I have to admire all of your initiative and you've done a wonderful job. If you'd ever like to apply for a job with me. Let me know I'd be more than happy to take to to work with you. It has been a pleasure, a do, and he disappears. Whoops, he doesn't take track with him. Oh, actually, like, what?
+[2:37:17] JP Sherman: Oh, shit.
+[2:37:23] Ian Lurie: Oh, eight willing creatures. Damn, that would have been amazing. This is a bad DM night for Ian, but and he disappears. I rashasa are the worst, in my opinion.
+[2:37:51] Unknown Speaker(s): Can we master
+[2:37:52] Jamie Indigo: is gonna stand up and shake the assorted viscera off of her, walk over, grab her artificials, set it up in the table and begin understanding how this fucking thing works. Because if I can shove it in the bag, a holding is coming with
+[2:38:08] Ian Lurie: us, give me I gotta remember how this works.
+[2:38:27] Unknown Speaker(s): I'm sorry one second,
+[2:38:35] Ian Lurie: dog had me up at Well, early, late, early. I don't know what you call it
+[2:38:43] JP Sherman: dark, dark in the dark times.
+[2:38:46] Ian Lurie: Yes, exactly repeatedly in the dark times.
+[2:38:50] Unknown Speaker(s): You
+[2:38:53] Ian Lurie: your artificial specialty is carpentry and alchemy. Yeah. So, okay, so just give me a regular D 20 plus your proficiency bonus,
+[2:39:10] Jamie Indigo: god damn it, 14.
+[2:39:12] Ian Lurie: Okay, well, you certainly figure out how to dissemble it. And if you want to just take the pieces, you certainly can shove
+[2:39:21] Jamie Indigo: them in the bags. Okay,
+[2:39:22] Ian Lurie: you're just not sure what they do.
+[2:39:27] Jamie Indigo: I have better lab at home.
+[2:39:32] Ian Lurie: You may also know people who are better at this, but
+[2:39:36] Jamie Indigo: I think I'm missing many of my whiskers. It's not a good day for me.
+[2:39:41] Sango Reed: Thank for me. Sango Ian's over some good buried balm, in case you want any.
+[2:39:49] Ian Lurie: Oh, and rikter gave you 60 hit points through Lay on Hands. Mossy,
+[2:39:55] Jamie Indigo: sweet. Anybody else feel cursed? Kind of feel cursed right now?
+[2:40:00] Ian Lurie: Oh, yeah. So the curse a long, long and short rests have no effect on you until the curse is removed. Whoa.
+[2:40:09] Rikterr: Well, shit looks like rikter in third level has removed, remove double time, yeah, yeah,
+[2:40:17] Ian Lurie: it's gonna say it's it's not as Yeah, at this level. Curses can be bad, but they're not necessarily like life ending shit
+[2:40:26] Jamie Indigo: that was an asshole.
+[2:40:36] Ian Lurie: All right, I'm gonna turn this off because my computer is melting.
+[2:40:51] Jamie Indigo: That was an amazing set. Thanks. Thanks. Set battle map.
+[2:40:59] Ian Lurie: I hope you guys liked the battle because I know that that Rakshasa can be very, very frustrating to fight.
+[2:41:07] Jamie Indigo: Yeah, mostly didn't have anything for that scenario.
+[2:41:14] Ian Lurie: Well, I mean, you can get stabby with them. You can help other players, really, for most of you. Well, I
+[2:41:21] Jamie Indigo: tried, and then the asshole ran right back into the fire slug. So,
+[2:41:25] Unknown Speaker(s): yeah, that's,
+[2:41:28] Ian Lurie: that's a whole other problem, right?
+[2:41:31] Unknown Speaker(s): Damn it. Sango,
+[2:41:35] Ian Lurie: um, so it goes very quiet. You will not quiet. I mean, it's still very noisy in here the lava, the the sound of all the machinery as mossy is disassembling it, some of the azer come back and a few more salamanders come in. But these are not those same huge guard salamanders. These are the guys you ran into in like the warehouse when you first came in, and they just kind of look around and they just turn and they leave. Don't know if they just want nothing to do with you, or if they just think you're there to repair it or what, but they don't appear to be all that worried. And then just as you finish, this strange little creature, really skinny, kind of fiery looking dude with sharp spikes coming out of him, about the size of a halfling, but very skinny, wearing like a almost like a business suit that somehow is not burning up, comes in and says, Please wait one moment. And then he takes a piece of paper and pulls it out of a package, and he says, If you could accompany me, Please, Aardman had specific directives for whoever defeated him in battle.
+[2:43:27] Unknown Speaker(s): Sure,
+[2:43:31] Ian Lurie: I don't, I don't know you know it. He didn't tell me the details, but he he basically takes you through a series of hallways and then back into the main lobby, where you had been before. Okay, that's hilarious, and then up those curving stairs, through a couple more hallways, and then into what you can only assume are ARD Ian's personal quarters. And these are these palatial quarters. There's a huge living room, there's a bedroom. Off to the side, there's a kitchen. And he says, ardmon instructed me that you are free to look through here and take what you wish whoever won this battle. So I will. I will leave you to it. I have to return to my master. He is probably going to be irate and in need of some repair. So have a great day. Um, my stock options, don't thank you and hope to never see you again. And with that, he snaps his fingers and disappears in a little puff of smoke and brimstone.
+[2:44:41] Jamie Indigo: Take out bully bars. Everyone. Rip it all off.
+[2:44:45] Ian Lurie: You guys. You guys are looking around the room. What do you do? So there's there's three main rooms, there's a living room, a kitchen and a bedroom.
+[2:44:55] Rikterr: Each search a room.
+[2:44:56] Sango Reed: I assume Drax already headed to the
+[2:45:01] Jamie Indigo: bedroom,
+[2:45:02] JP Sherman: kitchen. Kitchen,
+[2:45:04] Jamie Indigo: okay, I have a I got 15 minutes worth of my goggles today, if I have any left, I am using those to snoop. Okay.
+[2:45:13] Ian Lurie: So in the kitchen, you're just kind of pulling open drawers and stuff. And you pull up in one drawer and there's a bag in the drawer. It's just a black, like, looks like a standard burlap sack. It's folded completely flat. First
+[2:45:33] JP Sherman: thing I'm gonna do is, like, if this is like a spice pouch, does it have the spice name on the outside of the pouch. It does
+[2:45:42] Ian Lurie: not and the bag is about this big, and it's in a drawer with just some other there are other spices. Actually there are spices in that drawer. Now that I say that the it's they're all written on in you're not sure what language, but do you speak infernal? Nope, nope. Then you nope, nope.
+[2:46:10] JP Sherman: So I'll check out the bag. I'll kind of open it, observe it.
+[2:46:16] Unknown Speaker(s): Okay.
+[2:46:17] JP Sherman: When Go ahead, see if I can identify it.
+[2:46:20] Ian Lurie: Okay. When you do you actually have identify.
+[2:46:24] JP Sherman: I don't have a spell identified, but hopefully this is like some sort of, oh, I recognize that plant.
+[2:46:28] Ian Lurie: Okay. When you open it, a little puff of cool air comes out. Do you reach inside? Do you you can't really see anything. It's dark.
+[2:46:43] JP Sherman: I'm going to be cautious, like, that's weird, okay? And this is looks like. This is one of those things where, like, you know what? This looks like. It like something I don't have the experience nor skill to really go rooting around in, sorry, to lose it back up. Okay, and leave it out. Okay, and, and
+[2:47:05] Ian Lurie: it falls flat on the table again.
+[2:47:08] JP Sherman: And yeah, and be like, bossy when you get a chance, when you get a chance. I found something weird and cool and possibly dangerous,
+[2:47:17] Jamie Indigo: excellent. I was just shoving a timing machine into my inventory. I love being
+[2:47:23] Ian Lurie: a rogue. Um, uh, Drac, you can also, why don't you give me a perception check as you're looking around? Uh,
+[2:47:32] Sango Reed: Sango will cast the Detect magic and do laps around the place, paying him for anything.
+[2:47:40] JP Sherman: So, 21 Okay,
+[2:47:42] Ian Lurie: so you notice also there is kind of a there's like a huge cook pot, like big enough to fit it's like a hot tub size cook pot. And up above it there's an array of massive knives, cleavers and saws, like bone sauce and stuff like that. There's also a bunch of books written in infernal on a shelf right next to all that. And that's, that's it, and then some dishes and stuff
+[2:48:19] JP Sherman: to serve. Man
+[2:48:20] Ian Lurie: Basically, yes, that that's a very safe bet. Russia eat human flesh. That is their favorite, that is their primary diet, and it has to
+[2:48:35] Jamie Indigo: be human.
+[2:48:38] Ian Lurie: Yeah, it's good for all of you guys, except one, really and honestly, you're the you're the porcupines, like he's not going to be able to just grab you and eat you. So
+[2:48:51] Jamie Indigo: who's human too. He just just like an icky pop subclass. It's tough
+[2:48:58] Unknown Speaker(s): to me, but it's still okay.
+[2:49:01] Ian Lurie: Who's looking around the living room? Everybody? Or just rikter, okay, give me a perception check.
+[2:49:16] Rikterr: Natural, 20, okay,
+[2:49:20] Ian Lurie: so you take in a few things immediately. One is, first of all, there's this amazing balcony that looks out over the cinder waists, and then the distance, you can see that that column of fire that's the center of the elemental plane of fire. So that's kind of cool. But you also see this dining room table that is meticulously set like you immediately know that every fork, knife, plate and chalice has been set perfectly on that table, napkins, all of it like precisely set. You also see there's a coffee table with some big cushy chairs around and on the table. There's a book about this big and there's a picture of him on the cover, and it says, tapping the fire within my journey from surf to Baron by ardman Angus Le he and then there's a bunch of photos of him posing next to people, just like in his office, including one of him next to sirter, which is interesting, since they don't get along. But then you're going over to where there's a big fireplace, which is kind of funny, and there's a huge suit of armor there. It's almost kind of gold. It has a thing for a cat's tail on it, and the helm for it is shaped like a cat's head. And you're kind of looking at it like, Oh, this is cool. And you push a you just push a little button at the bottom of it, and it lifts up a little bit, and underneath it, in a small chamber, is a crystal wand, and Sango, when you go through the room, just so you know, those are both magic. But also Sango in the bedroom is a bed, and the bed looks like, maybe the mattress is made of, you're not sure, like, shredded something, maybe, or something, and it, it moves a little bit occasionally when you look at it, so you're not totally sure what's going on there. And on a, on a like a dresser set at the foot of the bed, there's another copy of his book past the bed, there's a big picture of him smiling, and then right below it, on the dresser is another case, and in that case is a Pair of bracers.
+[2:52:18] Sango Reed: The braces are pretty magical. Yes,
+[2:52:24] Rikterr: Ritter's gonna say over the party line, uh, Honey, get in here. There's some armor I think you would love to look at.
+[2:52:31] Jamie Indigo: All right, making my way, okay.
+[2:52:38] Ian Lurie: Um,
+[2:52:39] Jamie Indigo: got the goggles out, snooping around, all right?
+[2:52:44] Ian Lurie: I don't know who has identify. I
+[2:52:55] Jamie Indigo: think it was Craig.
+[2:52:59] Rikterr: I mean, I think we got some I got, I have, I have identified back at the crib, but I don't have it on
+[2:53:10] Ian Lurie: me. You can also, I mean, you can just wear stuff. You can try it on. You can do all sorts of things. Oh, I'm sorry, draft, there were two other things in the kitchen. There were two bottles, one or two vials. One has a potion with gold flakes floating in it, in this kind of thick, syrupy liquid. And then another one is a vial with some kind of blue gaseous substance. And there's a mouth in the gas that sort of looks like it's talking.
+[2:53:50] Sango Reed: Is this guy drinking gold schluger?
+[2:53:54] Ian Lurie: Don't know. Um,
+[2:53:58] Unknown Speaker(s): I
+[2:54:03] Ian Lurie: uh, yeah, that's, that's,
+[2:54:07] Jamie Indigo: I'm sorry she's possessed. Tonight,
+[2:54:15] Sango Reed: I will take the bracers and put them on the on the kitchen counter next to the the bag. Sketchy, black thing.
+[2:54:26] Ian Lurie: And the bag is also magical, by the way,
+[2:54:28] Sango Reed: yep. And then I'm going to cast a minor illusion in the form of like a purple light, and I'm going to wave it over the all around the bedroom. Just be clear.
+[2:54:48] Unknown Speaker(s): Okay, he casts luminol.
+[2:54:54] Rikterr: Doesn't look like a Jackson Pollock. What
+[2:54:56] Ian Lurie: is that light supposed to do? He's not lighting you're actually, literally black legging the place. Yeah, there's nothing. It's kind of disappointing. Actually,
+[2:55:09] Jamie Indigo: 38 people. The mattress is moving. There is nothing squirming out of it.
+[2:55:14] Ian Lurie: Do you move the you remove the sheet? Often
+[2:55:20] Sango Reed: a drag. This is your area of expertise more than mine. Maybe you should. I don't know beast love it. I don't I don't know beast love it. I don't know it's kind of like a beast, like a it's very like a beast.
+[2:55:47] JP Sherman: There's so much to unpack, my friends, but
+[2:55:53] Sango Reed: I've never seen anything like this before. I just figured you probably had
+[2:55:58] JP Sherman: no I've seen large beds before, but like, I'm still stuck on beast love. So if I'm, if I'm specifically looking around the bed, I'll be, I'd be looking for points where the bed meet the floor. And if it's, if there are any, like, points of rotation or drawers or something like that, give me,
+[2:56:29] Rikterr: Oh, I thought we were just trying to see why the covers was moving.
+[2:56:33] JP Sherman: Oh, the covers were moving.
+[2:56:36] Ian Lurie: That, that is the concern. Yes, I think
+[2:56:42] JP Sherman: I totally missed that. Got nothing. I don't know magic maybe.
+[2:56:55] Ian Lurie: I mean, this
+[2:56:56] JP Sherman: doesn't happen in nature.
+[2:56:59] Sango Reed: Does my detect magic sense. Any magic there? Nope, nope. I don't think that's it.
+[2:57:09] Jamie Indigo: Pass message to the mattress. Can you respond? Are you a sentient thing?
+[2:57:18] Ian Lurie: There's no response, yeah. I don't think
+[2:57:20] Jamie Indigo: we should open the mattress. No,
+[2:57:28] JP Sherman: yeah,
+[2:57:32] Unknown Speaker(s): yeah, no, this is, this is new.
+[2:57:36] JP Sherman: I mean, I'm curious, but we were just in a big fight.
+[2:57:49] Jamie Indigo: Am I picking up anything with the goggles or no?
+[2:57:56] Sango Reed: Sango will say is, is there somebody there? And if, if that, if there's a thing there that can understand me, it can understand me, a
+[2:58:11] Ian Lurie: thing that, Okay, explain that one to me,
+[2:58:15] Sango Reed: his bunk ability, tongue of the sun and Sun and Moon. Okay, any creature that could speak a language can understand him.
+[2:58:22] Ian Lurie: Oh, okay, um Yeah, you know what you get? You get a bunch of little voices, actually, in all sorts of different tones. One says, Yeah, okay, what's that? Another one says, I don't Yes, but why are you talking to us? Another one says, Holy fuck, did someone just talk to us? Another one's, I, yes, there is someone here.
+[2:58:53] Sango Reed: You guys tried to sleep. You. What you doing? Just
+[2:59:03] Ian Lurie: Yes, who is this? I don't think we have to tell you.
+[2:59:08] Sango Reed: Well, my name is Sango. What's your name? I'm
+[2:59:17] Ian Lurie: ant number 342
+[2:59:22] Sango Reed: and like, you're somebody's, you're somebody's sister's kid. I mean, I am. Your sister's got a kid
+[2:59:30] Ian Lurie: that's, I probably also acting, yeah,
+[2:59:37] JP Sherman: it's a living ant blanket. I it,
+[2:59:42] Ian Lurie: look it. I mean, if there's something you need, just ask. But otherwise,
+[2:59:52] Sango Reed: like you, you do, you live in the bed. This
+[2:59:54] Ian Lurie: is a little uncomfortable. Honestly, I don't know where I am. We just sort of live. We're, we're, there's a pile of us, and we all just kind of hang out.
+[3:00:04] Sango Reed: That sounds kind of like a party. Actually. Is a musicer. I
+[3:00:11] Ian Lurie: don't really have we don't, do we have parties? You hear another voice, no, we don't have parties. Man,
+[3:00:19] Sango Reed: you should try. You should try. You should throw one sometime like Friday nights. Good night for parties. You should have one tonight. You'd enjoy it. Pretty sure
+[3:00:29] Ian Lurie: you hear one of them say, what's a party? I don't know. Don't say anything else. Okay,
+[3:00:37] Sango Reed: okay. Well, enjoy your night. Mattress
+[3:00:40] Ian Lurie: kind of moves a little more.
+[3:00:46] Sango Reed: I think it's got, I think there's bed bugs in there. I think it's I think this hotel service is not up to the park.
+[3:00:57] JP Sherman: Nope. Feathers are no bugs feathers, feathers are good.
+[3:01:09] Rikterr: They want to do we want to try taking some of this shit and getting it identified later. Oh yeah,
+[3:01:16] Jamie Indigo: you got two bags old, and I got a whole duplicator machine on this one, but yeah, got plenty of room in ears. Yeah? Result also a bunch of, like, hammer things, if you need a hammer.
+[3:01:36] Unknown Speaker(s): Yeah, okay, all right,
+[3:01:42] Ian Lurie: it's that we're actually at time, yeah, now that I'm looking here, sorry I was not channeling the spirit of a bazillion bugs very well there, but Rakshasa sleep on beds comprised of dead and living bugs, living insects.
+[3:01:58] Unknown Speaker(s): That's just
+[3:01:59] Ian Lurie: their that's their thing. Hey, I don't make this shit up. I mean, I do, but alright guys, good job.
+[3:02:09] JP Sherman: So sorry. Real quick, James, could you check discord real quick? I i that's coming for you in the mail.
+[3:02:28] Sango Reed: Love it. Even got the tattoos.
+[3:02:33] JP Sherman: And there's a little easter egg. He pack of smokes called Fail leaf. You
+[3:02:41] Jamie Indigo: had to go out and get those.
+[3:02:44] Ian Lurie: Oh, I see him. Okay, that's awesome.
+[3:02:49] Sango Reed: That's hilarious. And flowers,
+[3:02:53] Jamie Indigo: I love the little praying mantis on the staff. What's my favorite?
+[3:02:59] Sango Reed: Oh, yeah, there he is. So that's sure. Guys, thank you very much.
+[3:03:05] JP Sherman: You're welcome. Cool. Happy birthday, all
+[3:03:07] Ian Lurie: right with Happy Birthday, James.
+[3:03:09] Sango Reed: Yes, a good night. Good night.

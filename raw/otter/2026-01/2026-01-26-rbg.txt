@@ -1,0 +1,950 @@
+# Ian's Meeting Notes
+# Otter recording 2026/01/26 16:50:58 (3h 3m) id -Sy1CIFEfKWPh01IlBwenXeB5fo
+# https://otter.ai/u/-Sy1CIFEfKWPh01IlBwenXeB5fo
+# Speaker-attributed transcript, verbatim. Raw source for the card at /items/otter/2026-01/2026-01-26-rbg.md
+
+[0:08:00] JP Sherman: Ian Hey, hello. How are you? Well, it's good to see you also. I'll start with
+[0:08:11] Ian Lurie: that's a good I like that. I like that approach. Yeah, there's James. Hey,
+[0:08:31] JP Sherman: we're wearing, I'm wearing appropriate shorts this time.
+[0:08:35] Ian Lurie: My camera what you're wearing last time. But suddenly I'm worried.
+[0:08:41] JP Sherman: No, there was, there was a lot of concern about my Ranger panties.
+[0:08:45] Ian Lurie: Oh, that's right, that's right. I forgot there's Jamar. I
+[0:09:08] Rikterr Shep'ard: be right back. I'm going to put a little
+[0:09:10] JP Sherman: a little bit of booze in my coffee. Okay,
+[0:09:13] Ian Lurie: hey, Jamar,
+[0:09:15] Rikterr Shep'ard: hello. How are you, sir?
+[0:09:18] Ian Lurie: Still here? That's all any of us can say at this point, right?
+[0:09:22] Rikterr Shep'ard: Hey, and we thank The Blessed Lord that you are.
+[0:09:25] Ian Lurie: Yeah, so disappointed that ice wasn't actually in the neighborhood today. I i having some kind of massive brain fart here. Hey, Jamie, seriously, how is it possible? I don't remember how to Okay, there we go. Bam, forgot how to use a map for a minute. All right, just going to put this up as a piece, as a reference, as reference material as we're going through some of this since today may be, there may be a lot of travel today. I know it's probably pretty hard to see the small print down here. I'll, I'll zoom in if necessary.
+[0:10:43] JP Sherman: I'm just taking a moment to just appreciate the badassness of it.
+[0:10:48] Ian Lurie: This is the other professionally drawn map that I had someone do, and he gave it to me in layers so I can, I can edit it and add stuff to it, which is what I am doing.
+[0:11:02] Rikterr Shep'ard: It's hilarious. One of the biggest complaints about CR for right now is that BLM hasn't shared a map of what the whole area does. And I'm like, Guys, if that's your biggest complaint about what's going on 11 episodes in go outside, touch grass, beautiful go.
+[0:11:19] Ian Lurie: And also, I maybe they don't remember how long it was before we ever saw a map of anything in any of the first three campaigns. I, yeah, that's, that's, that's crazy. Anyway, sure. Devin Rue will get on it at some point. Um, so quick. Catch up from last time you guys traveled. Well, you guys were getting ready to travel. You did some shopping. You your friends in Aventine held a celebration for you, which felt somewhere between a celebration and a wake. You're not quite sure what it was really. You did some research and decided, I believe that you're going to travel to the gorges and try to find your way down to the river sticks from there, right, okay, and that's there's a town perched on the edge of the gorges called silger Ian, and that's where you'd need to go to start your journey. You hadn't really decided much else besides that before I just kind of launch into things. Are there any things that you RBG would like to do as the villains discontent gets ready to take off from the city of Aventine sandwiches? Yes.
+[0:13:03] James Svoboda: Okay, probably need to stock up on pocket bacon, too.
+[0:13:08] Mossy Oak: Good news, same spot,
+[0:13:11] JP Sherman: you mentioned that you have a DM question, maybe about the Bastion facilities.
+[0:13:22] Rikterr Shep'ard: Nope, I smoked too much weed and I forgot, what did I ask?
+[0:13:24] JP Sherman: Oh, okay, so I've got the, I've got, I've chosen the sanctum, and we were looking at one of the features of the demi plane. Was a because it was an effect where the temporary hit points equal to five times the character level. Yep. Would that be to the owner of the demiplane, or would that be party wide?
+[0:13:59] Ian Lurie: Do you have to visit the demi plane would be my first question. Or does that just happen?
+[0:14:05] JP Sherman: My assumption, like, the rules are pretty light.
+[0:14:10] Ian Lurie: Okay, course they are,
+[0:14:12] Rikterr Shep'ard: yep, and that's that was the question is, like, if there isn't anything, how you as the DM would like to home through that so that we know going forward how to use it and we're not taking advantage of it, or you feel that, hey, we're adding on stuff that makes us hard to kill unfairly.
+[0:14:32] James Svoboda: Unfairly is the key word there,
+[0:14:34] Ian Lurie: because the only thing that I read over the weekend about this was someone posted something on Reddit that said demiplane as a bastion facility is a literal money printing machine, because they thought that you could just crank out suits of plate armor and just, you know, generate money. The problem being, of course, you do have to get enough metal in there to make the plate armor. But, all right, let me look and see. Let me look in the rules.
+[0:15:09] Unknown Speaker(s): Okay, here we go.
+[0:15:12] Ian Lurie: You can activate the arcane resilience empowerment for seven days. If you spend a long rest in the demiplane while the empowerment is active, you gain temporary hit points equal to five times your level, the demiplane also gives you access to the fabrication benefit. You can use the magic action to create a non magical object out of nothingness. It can't be bigger than five feet in any dimension. It can't have a value over five GP. So so much for money printing. I would say that something like a demiplane is accessible to everybody in the Bastion, or at least to all the owners of the bastion. So I don't see any problem with you guys all being able to use it. You do have to have a long rest there and then the ability lasts for seven days. The empowerment lasts for seven days. So if you want to mark down that you're doing that and that for the next seven days, you have the ability to you have those extra 5x hit points, that's fine. I believe you're all the same level, except for Mossy, but it would be your total level. Okay, so you all get five times 17 temporary hit points,
+[0:16:29] JP Sherman: 85 okay,
+[0:16:32] James Svoboda: Mossy was Mossy not the same level.
+[0:16:35] Ian Lurie: She's a dual class.
+[0:16:38] Mossy Oak: So is this bastard?
+[0:16:41] Ian Lurie: Am I wrong? I thought you're an artist or oak,
+[0:16:44] Mossy Oak: yeah, and then I am Sango is druid monk.
+[0:16:47] Unknown Speaker(s): Oh, oh, okay.
+[0:16:49] Ian Lurie: I'm Yes, your clerk. Okay, fine. Screw all of you.
+[0:16:53] Mossy Oak: Okay, I was trying to make sure. I'm like, Wait, did I break it again?
+[0:16:56] Ian Lurie: No, okay. You're all yes, all of you except rikter, right? Rikter, you didn't sneak an extra class. Oh yes, you did. God damn it. Okay, fine.
+[0:17:07] Rikterr Shep'ard: Scroll, you and I talked like for a year before,
+[0:17:11] Ian Lurie: yes we did, yes we did, yes we did. Okay, all right, it's been
+[0:17:15] James Svoboda: a long week already. It
+[0:17:17] Unknown Speaker(s): has. Yeah, this week
+[0:17:18] Rikterr Shep'ard: has been a long year.
+[0:17:20] Ian Lurie: Yes, it has. I mean, the high point of my week last week was going to New York City. Let's, let's think about that for a second. Okay, so it's, it's your total level, is what I'm getting at here. So you all
+[0:17:36] Mossy Oak: get that for the next
+[0:17:38] Ian Lurie: seven days, seven days, okay, and then you'll have to somehow go back to the demiplane and once again, take a long rest there. I'm willing to. They don't
+[0:17:50] Mossy Oak: expire at night, though. We keep them,
+[0:17:53] Ian Lurie: yes, yes, they last for seven full days.
+[0:17:56] Mossy Oak: Damage comes out of those first
+[0:17:58] Ian Lurie: first Exactly. And you can't, they don't stack, so you can't use another ability to put more, to add more temporary hit points on top of that. Okay, so, you know, don't get greedy, is what I would say. Since you I mean, that's, that's a lot of hit points. That's like a whole extra character riding around on your back, getting murdered before you do, I would be open to there being an entrance to the demi plane on the villains discontent, if you want. So you could jump back and forth. But I could see some, some serious, real problems with that, like people you know, creatures could attack the villains discontent and then find their way into your Bastion.
+[0:18:46] Rikterr Shep'ard: I was gonna say, wouldn't that also be duplicative of the teleportation circle we have that goes from the discontent to
+[0:18:55] Ian Lurie: Yeah, but it doesn't require it wouldn't require teleportation, right? You could, you could theoretically be somewhere where you can't teleport. The problem, though, is, yeah, now that I think about it, someone, something, could find its way in through that entrance. So let's forget that
+[0:19:14] Mossy Oak: the demiplane trying to go in the supply closet keeps walking to the demi plane.
+[0:19:19] Unknown Speaker(s): Right, right?
+[0:19:21] Ian Lurie: The demiplane and all the new facilities are carved out of that sort of marshmallow area that drag tried to jump into way back when. So, yes, so that is where it appears at this point. Yeah. You're muted. JP,
+[0:19:44] JP Sherman: no, thank you for that. Thanks for that clarification. Okay,
+[0:19:53] Ian Lurie: as you are getting ready to leave and Mossy, you say sandwiches, Lumpkin actually shows up pulling a cart. He says, you know, we I had today's, today's loafs and meats and everything all ready to go. So I thought I would just, just bring you some supplies for your trip. Doesn't wouldn't do to go to hell on an empty stomach.
+[0:20:21] Mossy Oak: I Mossy gives them a big hug and pocket bacon,
+[0:20:26] Ian Lurie: well, of course, on the sandwiches, but also off. So you can, you know, you don't have to, you don't have to raid the sandwiches for the bacon, because that's a, that's pretty much a no no.
+[0:20:37] Mossy Oak: Oh, already stuffing pockets full of bacon
+[0:20:42] James Svoboda: all these sandwiches are really good. In this soup.
+[0:20:44] JP Sherman: You don't want moist pocket bacon,
+[0:20:49] Ian Lurie: sweaty pocket bacon is the worst. Yeah, that's that's when it all goes horribly wrong.
+[0:20:55] JP Sherman: It's just that adds that saltiness. I imagine
+[0:20:58] Mossy Oak: my jacket actually just smells like bacon all the time, now,
+[0:21:01] Ian Lurie: all the time. Yes, no
+[0:21:04] JP Sherman: wonder the twins love you.
+[0:21:07] Mossy Oak: And many tricks you'd
+[0:21:09] Ian Lurie: fail any stealth role in the forest, every predator within 1000 miles just thinks
+[0:21:15] Mossy Oak: bacon versus Digitation of it not bacon.
+[0:21:21] Ian Lurie: Um, so you board, and the bill and says, content takes off, and you see Aventine start to shrink in the distance as you gain altitude. First day's travel is uneventful. Are there things that you want to be doing? I know Sango, you had mentioned a couple things you maybe want to do, testing, if I remember right.
+[0:21:53] James Svoboda: It's been a long week. What
+[0:21:57] Ian Lurie: you were gonna do that you were thinking about testing the query.
+[0:22:01] James Svoboda: Oh, yeah, yeah. He's going to uh, Yep, that's right. He does want to do that. Okay.
+[0:22:08] Rikterr Shep'ard: James also smoked a little too much and forgot his question.
+[0:22:16] Mossy Oak: Sango, can I assist you? I'll age you while you investigate
+[0:22:21] James Svoboda: that would be lovely. Mossy Oak, I would appreciate that.
+[0:22:25] JP Sherman: They said that getting a high would lead you to hell. They were right.
+[0:22:33] James Svoboda: Give yourself inspiration in life. JP,
+[0:22:37] Ian Lurie: I am. I'm just pulling up the if I can find it, I do this every freaking time. All right, so what would you like to do? How do you want to
+[0:22:59] James Svoboda: I want to try the powers in an order of, you know, weakest to strongest of the one that he has. Okay, first I'm going to see if I can check my hearing and see if I still get advantage at hearing perception checks.
+[0:23:27] Ian Lurie: Okay, the DM is frantically trying to figure out where the hell this went, and the moment that I get there, I can tell you everything you need to know. I open all the shit, and I think I have everything open, and never fails, there's always something all right.
+[0:24:03] Unknown Speaker(s): Got here.
+[0:24:12] Mossy Oak: Think Cobalt is like pocket bacon. Think we're gonna see Cobalts. There's a whole city.
+[0:24:20] Ian Lurie: Cobalt's definitely like pocket bacon. All right, let's see, is that it? Yes, that's it. Okay. All right, so you want to test To see if you still got super hearing. You're getting super hearing from the mouth that calls, oh yeah, there you go. Yes, you do still have super hearing.
+[0:25:18] James Svoboda: And then the next thing Drake, Mossy and rikter. Would you guys mind being test subjects on the next power?
+[0:25:31] JP Sherman: Sure, go ahead.
+[0:25:35] James Svoboda: Then I'm blow the horn, and the three of you need to make a DC 15 wisdom.
+[0:25:40] Ian Lurie: Save sir. I'm not sure doing this on a flying vehicle is a good idea, but okay, no,
+[0:25:53] Mossy Oak: absolutely not.
+[0:25:55] JP Sherman: That's a seven with all my mods, with all my pluses,
+[0:26:05] Rikterr Shep'ard: die rolling night, if we're all near each other, add a plus five to your saves, please.
+[0:26:12] Mossy Oak: But all right, all right. Well,
+[0:26:15] Rikterr Shep'ard: rikter got a 30.
+[0:26:18] James Svoboda: Okay, so, rikter, you see the other two. You see drag, probably pee his pants a little bit it is you see Mossy, his knees start to tremble. They are frightened for five minutes.
+[0:26:32] Ian Lurie: Actually, you do not see that. Oh,
+[0:26:39] James Svoboda: so, okay, so that one works.
+[0:26:43] JP Sherman: Tap, tap, tap, Is this thing on? Yeah,
+[0:26:45] Ian Lurie: so you guys are not afraid. He blows on the horn. There's a, you know, it makes a nice horn sound, but it does not, in fact, scare you.
+[0:26:56] James Svoboda: Oh, it doesn't work.
+[0:26:58] Ian Lurie: No, it doesn't work at all.
+[0:27:02] James Svoboda: Well. That's not fun. So I have a pretty much a horn that, appropriately enough, old man used to hear with i Hmm, okay, well, that's these things aren't working anymore.
+[0:27:34] Ian Lurie: Give me, give me an investigation check,
+[0:27:44] James Svoboda: and I'm gonna bring Mossy and on to help with this. Yeah, probably good idea. Yes, she is wanted to help, and is much better at this. Do you want
+[0:27:56] Mossy Oak: me to roll? You want me to give you advantage?
+[0:27:59] James Svoboda: You roll? Okay.
+[0:28:04] Ian Lurie: 34 Okay, Mossy, you realize that the power that worked doesn't require any of the other items, and the power that failed is one of the powers that requires that there be at least four items in the possession of the party.
+[0:28:26] Mossy Oak: Okay, everyone take your items out for a moment. Got mine.
+[0:28:38] Rikterr Shep'ard: Rikter puts his hand out and you see that on his pinky ring with my friends?
+[0:28:46] Mossy Oak: Okay, so one of these things is not like the other one. Can I make our kind of checks to see if I can figure out which is not magic.
+[0:29:04] Ian Lurie: Um, yeah, I mean, that's easy actually for you.
+[0:29:10] Mossy Oak: Okay, I'm gonna do four, three, because we already checked Sango, yep. Okay, 27 natural, 20 for 37 and 33
+[0:29:30] Ian Lurie: so basically, you do a detect magic. I'm just for simplicity sake here, they all still radiate incredibly powerful magic. None of them have lost their their power. They haven't lost their potency,
+[0:29:50] Mossy Oak: okay, they all grow glow equally,
+[0:29:59] Ian Lurie: if you actually use the tech magic, yes, yeah, I have
+[0:30:02] Mossy Oak: a detect magic. So, yes, so, yeah, okay.
+[0:30:07] JP Sherman: Do we need a long door
+[0:30:12] Ian Lurie: say, I'm sorry?
+[0:30:14] JP Sherman: Do we need to turn around and get the door that opens?
+[0:30:20] Ian Lurie: It's starting at you remember that these items start having they start you remember that the shared power for these the powers that upgrade, require that you have four of the items.
+[0:30:37] Mossy Oak: We have four of them. They are all magical. Yep,
+[0:30:48] James Svoboda: there's four of us right here. Each have one. They're all magical. What did you guys test you? Do you have any, like, minor abilities? And your guys's like mine was the hearing thing. You have something like that. That's individual key, right? And you could test to make sure it's the same bomb
+[0:31:11] Rikterr Shep'ard: I have bless and heal that are lesser, but those are the ones that that was the one that works, just the one like four and above, right? So that would be my greater restoration and revivify, which we're not in a place to test it right now, unless someone wants
+[0:31:29] Ian Lurie: me to. I mean, you can always
+[0:31:31] Mossy Oak: temporary hit points.
+[0:31:32] Ian Lurie: You can always do a greater restoration, and if they don't need it, you'll still feel the the power kick in.
+[0:31:39] Rikterr Shep'ard: All right. Rikter is going to put his hand over the ring, start muttering, and try the greater restoration.
+[0:31:47] Ian Lurie: Nothing happens, but the you do the blast just for fun, and it does work, all
+[0:31:58] Mossy Oak: right, nobody going to the bathroom for a minute. I'm going in there thrown out a smoke bomb and put the goggles on and see if I can still see in it, because that's the second fair.
+[0:32:13] Ian Lurie: So you're testing out the heavily obscured. Yes, fact that does not work.
+[0:32:19] Mossy Oak: Okay, come out of the bathroom, coughing
+[0:32:22] Ian Lurie: all this. You guys see her go in there, and then a moment later you hear this, and then she comes out coughing, and all the smoke comes pouring out.
+[0:32:33] James Svoboda: Tango just says, You are to back, see
+[0:32:41] Ian Lurie: or she? No, she just says, Do not go in there. Rikter, give me, let's see you're trying, you're you're all of this is ringing a bell based on the dreams that you had. Give me a wisdom check, straight wisdom,
+[0:33:14] JP Sherman: 17, okay,
+[0:33:17] Ian Lurie: you do remember in the visions that you had, there was something about the items requiring a team, and there was something in the way The Raven Queen worded her statements to you that the items only work when you have a cohesive group.
+[0:34:00] JP Sherman: Jack looks either because looks at you the very serious face rikter And he's like, is it friendship?
+[0:34:10] Ian Lurie: God damn it. You guys are so good at making me regret every every decision I make as a DM, I'm telling you,
+[0:34:21] Rikterr Shep'ard: you know, direct, that's honestly probably what it is. And rikter takes a second, and you see him start slowly taking off each piece of his armor, and underneath, he has one of the dress robes that we all got, but he just slowly takes it off and sits to the side.
+[0:34:50] Ian Lurie: Lysander goes walking by. He's like
+[0:34:55] Rikterr Shep'ard: he takes Bastion, he sits it to the side, and he slowly looks at Mossy, then at drap, then at Sango. He looks up at the sky, and then he looks down, and he says, My name is rikter Shepard, born of no one, Paladin of the order of light, warlock of the Raven Queen, and I am a broken man. And the only thing that has kept me from breaking fully apart, and he reaches out his hands to you guys is this group right here, and I just want to say in this moment, I reaffirm my pledge to you as a friend, as A partner and as a warrior, to go forward and be true and be understanding and to do everything that we do with the love and respect that you all deserve. I'm sorry for not doing that to this point, and you will never hear me apologize for that again.
+[0:36:28] James Svoboda: Dango walks over to rikter. It just puts his arms around him and gives him big hug, whispers in your ear. Everybody can hear it though. I remember when we found you in that cell, we weren't RBG for very long, and we weren't whole until that happened. We're with you, brother. Love you.
+[0:37:09] Rikterr Shep'ard: You can just feel rikter silently start weeping in your arms.
+[0:37:18] JP Sherman: I look Single Girl, it's like we're all puzzle pieces. We all fit together, but each of each and we are all individually weirdly shaped, unfinished, generally unfulfilled, but together, that whole picture emerges.
+[0:37:39] Mossy Oak: It's okay to be a work in process. Boo. Mossy boops. You on the nose.
+[0:37:45] JP Sherman: He loses all 85 temporary hit points.
+[0:37:47] Ian Lurie: Yeah, cool. Lysander. Lysander looks increasingly alarmed and then just makes himself very busy doing something else, not quite sure what these featherless creatures are doing
+[0:38:03] Mossy Oak: I've seen a paladin strip cheese before.
+[0:38:08] Ian Lurie: All right, I need a group charisma check, so everybody roll charisma plus proficiency bonus.
+[0:38:16] JP Sherman: Okay, hold on, I can use the Mossy dice.
+[0:38:20] Mossy Oak: 124, 2424
+[0:38:27] Rikterr Shep'ard: 16. Okay,
+[0:38:32] Mossy Oak: Mossy is gonna use lovely little feature and give you a plus five to that.
+[0:38:41] Ian Lurie: Oh, 21 so Sango, not look
+[0:38:49] Rikterr Shep'ard: just not at 91 brother,
+[0:38:55] James Svoboda: three plus six is nine. Hold
+[0:38:57] JP Sherman: on. I'm going to use my feet, my lucky feet, and I'm gonna inflict advantage on you. Roll together.
+[0:39:08] James Svoboda: Fucking roll
+[0:39:10] Ian Lurie: nice. All right,
+[0:39:13] Mossy Oak: no, I only one reaction.
+[0:39:17] Ian Lurie: Oh, flash of genius too. Okay, so now, can I do that?
+[0:39:20] Mossy Oak: Because I just used it on rikter. It's a reaction.
+[0:39:23] Ian Lurie: Oh no, no, no, because we're not actually in combat. So you can't really, okay, I'll just tell you the mechanic. I don't want to make this a big mystery. Basically, you are persuading the quinary that you are the heroes of old, and that you do work as a team. So you are the pentarionist, which means veronis. So with those roles, within the next 24 hours, you will get the full potency of the items back. If you had all rolled like, you know, nines, it would have taken a week, right? If you'd all rolled ones at some random point in the future, they might start working again. You don't know so, but you do have them the you do start to feel the quinary basically charge up. Mm.
+[0:40:25] JP Sherman: All right,
+[0:40:33] Ian Lurie: so you've spent the you spent most of the day now traveling across the gap, and you all get ready to bed down for the night. Rikter, as you get ready to go to sleep, you get that tickle on the back of your mind that means someone is trying to send you a message. Hello. You here?
+[0:41:02] Unknown Speaker(s): Are you pooping? You here? Hello, rikter,
+[0:41:09] Ian Lurie: it's Essie. Essie dark singer. I don't know if you remember me, but we have a common enemy, and I wanted to tell you she's planning to ambush you as you fly across the gap.
+[0:41:36] Mossy Oak: Oh, so where we are right now. Yeah.
+[0:41:38] Ian Lurie: Essie dark singer is the hag that you guys got the door that opens from that. Remember, she actually used, she actually took bits of fate from each of you, and then, instead of using them to curse you, she actually used them to help you fight Tiamat or fight tharger AX. So yeah, she says Tiamat is lying in wait. Her servants lie in wait for you. You might want to try a creative route.
+[0:42:12] Rikterr Shep'ard: Thank you for the warning. I appreciate the heads up. I'm gonna tell my friends and see if we can't find another way. But do you have a suggestion?
+[0:42:29] Ian Lurie: I'm counting words here. You get that tickle again. She sounds a little exasperated. She's like, this is, I can only cast this two more times today.
+[0:42:47] Mossy Oak: She's got a book club later, damn it. Yeah, exactly.
+[0:42:53] Ian Lurie: I don't know, but the straight route probably isn't a good idea. You might consider No, no, she just says. She just says the director, it might not be the best idea, but, or she says, or just prepare. Just be prepared.
+[0:43:31] Rikterr Shep'ard: And rikker just sits back, thank you. Then he walks and finds the group and says, so just got a nice little note from our hag from SC good news we know where TMS going to be. Bad News directly in our path, her servants, her servants, so we can either try and go through them or go around them.
+[0:44:06] James Svoboda: And I'm guessing that since we're out over the ocean, they will be flying and likely breathing flame or something.
+[0:44:17] Mossy Oak: Oh, it was that blue dragon fuck last time,
+[0:44:20] Ian Lurie: and the most direct route would take you from Aventine, I don't know. Can you see my cursor? Yes, okay. Actually, I'll just
+[0:44:32] Mossy Oak: here with us. We should probably get
+[0:44:34] Ian Lurie: him. You could definitely
+[0:44:37] JP Sherman: get him. This
+[0:44:39] Ian Lurie: is the most direct route. So he he comes over. He says, Please enlighten me. What are we worried about here?
+[0:44:52] Mossy Oak: Oh, a lovely hag that we know. Just message rikter To say that they're gonna ambush us on our route. And we like to keep everyone alive.
+[0:45:02] Ian Lurie: Do you have some idea what we might be expecting?
+[0:45:06] Mossy Oak: I mean, My money's on the blue dragon. Like I was a dick. We saw him around here last time we killed him disintegrated.
+[0:45:14] Ian Lurie: I have a distinct memory of that particular dragon disappearing into a pile of dust,
+[0:45:20] Mossy Oak: huh? But
+[0:45:22] Ian Lurie: there are more than one dragon on praxia, so I'm sure she has an ample supply.
+[0:45:34] Rikterr Shep'ard: Yeah? So we'd uh probably like to avoid all that, if not just for our sake, but for, you know, the airship sake we I've gotten attached to it.
+[0:45:45] Ian Lurie: If I would suggest that if we do enter battle with such creatures, you vacate the airship as quickly as possible and perhaps engage them on the ground, because it she's a, she's a stout vessel but
+[0:46:05] Mossy Oak: a dragon, and move out of the poaching path.
+[0:46:11] Ian Lurie: Well, our most director, it would take us. This is what I was planning on doing, right? Just flying,
+[0:46:21] Mossy Oak: and that's the rune for the ley line underneath that correct
+[0:46:26] Ian Lurie: underneath what
+[0:46:28] Mossy Oak: it looks like a K upside down. Is an island? Or is that the mark?
+[0:46:33] Ian Lurie: Oh, this? No, that's an island. That's actually not. It's an island called fallen Groth. You've never been there. You have been to the shattered Isle, and you haven't been to any of these others.
+[0:46:44] Mossy Oak: What if we divert farther up north so we stay because if I was going to ambush, I would need somewhere to camp out while I waited for my prey. So if we just go to the north above that island.
+[0:46:57] Ian Lurie: So you are suggesting we go like this, yeah, that could possibly work. I mean, dragons have a wide range, but if I may suggest, depending on how concerned you are, we could, in theory. I mean, many may deny it, but this, this world is round, and we could, if you prefer go the other way.
+[0:47:25] Mossy Oak: How much longer is that going to take?
+[0:47:28] Ian Lurie: Significantly longer. And it has its own dangers. The the weather on the spine of the world is well, it is particularly ugly and there are other creatures to worry about. There cloud giants, things like that.
+[0:47:53] Rikterr Shep'ard: What about that mountain range that goes down? Would we be able to fly and use that as not the spine, I'm sorry on the island where we're going to, or the big land mass, that's
+[0:48:08] Ian Lurie: the spine. No, no,
+[0:48:09] Rikterr Shep'ard: I'm sorry on the land mass we're trying to get to.
+[0:48:12] Ian Lurie: Well, you're trying to get here.
+[0:48:14] Rikterr Shep'ard: Oh, that, Oh, we're trying to get oh, okay, yeah, oh, oh, you know, oh, I was looking at the other way. You know what? Never mind.
+[0:48:19] Ian Lurie: Haha. Last hand just says, Yes, we are on the planet praxia, and this is where we left from, and we are hoping to arrive here intact. What happens in between? Since we are traveling with you, I have no idea. I will tell you that with conditions around the crater being what they are, it might still behoove us to go further south. We could potentially oops,
+[0:48:49] Mossy Oak: as he happened to say, what type of accompaniments we were dealing with.
+[0:48:56] Ian Lurie: Oh, conditions. Well, you know them, fire, brimstone, screaming strong, no,
+[0:49:03] Mossy Oak: I was listening with the hag set. Oh, we met this hag one time where we're getting an artifact. Honestly, quite nice, if you didn't do anything to make her mad. Nope.
+[0:49:14] Rikterr Shep'ard: She said that Tiamat was preparing a party. She neglected to say, who won't invited.
+[0:49:20] Ian Lurie: All right, she actually even said she doesn't know.
+[0:49:25] Mossy Oak: Mean we did give her some of our fate. So I feel like we can trust her on this, unless this is a whole there is no spoon thing.
+[0:49:38] JP Sherman: So can we just briefly consider the fact that, like, if we, if we are facing agents of Tiamat in a trap, if we miss, if we avoid the trap, we're just going to be facing them later. So what if we spring the trap? Deal with them and make and give and give, team up like no mistake. We are coming for you because fuck you.
+[0:50:13] Ian Lurie: Lysander says you are by far the most insane group of people I have ever had the honor to travel with. And I just want to bow to you continue.
+[0:50:27] JP Sherman: I mean, we are not hiding our intentions. We are not being stealthy about this.
+[0:50:40] Mossy Oak: So you're saying a similar battle formation. Keep going.
+[0:50:45] JP Sherman: We know there's a trap. We can I say, like I would say, We spring the trap. We fuck them up, because if we miss, because here's the thing, if they get added to the fight where we're going, that's going to be even a worse fight. At least here, this is somewhat in our domain, but then
+[0:51:13] Mossy Oak: Lysander just asked us if we're going to do the fight, to get to the ground to do it, that's the concern.
+[0:51:19] Ian Lurie: At least, don't be present on the ship.
+[0:51:24] Rikterr Shep'ard: Well, the river that we're trying to go to, it flows towards that crack in the world, correct?
+[0:51:32] Ian Lurie: Yeah, it flows Yeah. It flows backwards.
+[0:51:35] Rikterr Shep'ard: So what if we took the airship and we put down somewhere a safe distance? We we we have a Do we have a folding boat that we can?
+[0:51:44] JP Sherman: Yes, we do.
+[0:51:46] Rikterr Shep'ard: Okay, so if we put the airship at a safe distance, get in the boat and fall, let the river, just like lazy river, take us where it's going. We can do both, where we save the airship. We get there in good time. But also we are as track is suggesting springing the trap.
+[0:52:05] James Svoboda: Did refresh? Does rikter know from and I asked rikter, did she give an indication of where the trap would be sprung, over the ocean, over the land, because there's, there's still a lot of land for when we get to the other continent, between, between the shore and the and the whole there are
+[0:52:29] Ian Lurie: also these islands, which would be a concern for me. I mean, they are concerned for me as captain of the ship.
+[0:52:39] Rikterr Shep'ard: Well, she said was the direct route was was covered by Tiamat minions.
+[0:52:46] Mossy Oak: Yeah, we would just go above the islands.
+[0:52:49] JP Sherman: Can I take a moment and either look for like, use like my survival or nature skills to focus on like, if I were to devise a trap, where would I spring that give
+[0:53:02] Ian Lurie: me a nature check, because you're probably the most likely person to know something about dragons and have deep knowledge of dragons. You and Sango, actually, I would say would be the two. So Sango, you can also give me a nature check.
+[0:53:20] JP Sherman: What's what's my nature plus? I mean, not like, like my nature is a plus one, because it's an intelligence.
+[0:53:31] Ian Lurie: What kind of Ranger Are you? Well,
+[0:53:35] Mossy Oak: I mean, I have a better nature than you.
+[0:53:38] Ian Lurie: You're the Ranger who didn't who who who skipped class. You ditched class.
+[0:53:43] JP Sherman: I have an intelligence score of what 10, so I get a plus one to my nature. Okay, you know what? I'm gonna use my help.
+[0:53:57] Mossy Oak: Can I? Can I give you assistance for your check?
+[0:54:01] JP Sherman: I'm gonna burn my second luck feet today. That's a natural 20 Oh, okay, so 21
+[0:54:12] Ian Lurie: so there you go. I
+[0:54:13] James Svoboda: got it. I got a 26
+[0:54:15] Ian Lurie: Okay, so you guys both start to figure this out. You know, dragons can fly a long way, but they still do require land like there are no, at least of the traditional dragon types. There's no aquatic dragons, and they each have certain kinds of terrain they prefer, um, you know, Red Dragons prefer to be near heat and fire. White dragons prefer to be in the cold. Blue Dragons do like being near the ocean and around the ocean. And then black dragons want to be in places that are bare, stone, that are or somehow tainted by the undead or by just by something unnatural and green. Dragons are just dicks. They go wherever they want, and they do bad things. They are the schemers of all the dragons. Now, you know the shattered Isle is volcanic. Yeah. Right, Fallon growth you've never been to. You don't know what it's like and black spray. You're not entirely certain. You do know that the battered reach and this zone, obviously, is very cold, in spite of the impact crater right here. Um, dragons generally want some kind of prey nearby. Most of this area is still a wasteland. If you remember from the last time you traveled across here, this is mostly a wasteland. There is the Drowned basin. I don't know why it's labeled Lake drown basin. Is just the Drowned basin here. But other than that, you know, most of this is a wasteland, so potentially, a black dragon could live along here and be content, but anywhere else, assuming that the dragons are, you know that you're close to where they dwell, which is not a given, because if the other thing you remember is there can't possibly be a permanently resident dragon in every one of these islands, it's too close together, they would kill each other.
+[0:56:32] Mossy Oak: That's because venture capitals haven't invaded this land yet.
+[0:56:38] Ian Lurie: That's right, that's right, you killed the only venture capitalist actually, well, yes, and he wasn't even on praxia. Now that I now that I say that. But if you had to, you know, if you had to make a guess, it would be one of these islands, or somewhere along here, they could be lying in wait here. You just that you can't be sure of, but they certainly could be waiting on the islands or here or outside salt reach on the fastest and by the way, this is where you battled the blue dragon down here.
+[0:57:20] Mossy Oak: Didn't as he say it would be over the gap.
+[0:57:23] Ian Lurie: She did say it was, it would happen as you were crossing the gap. Yes, but she wasn't totally clear about it, and she was a little miffed when rikter made her cast message again, so or sending again.
+[0:57:39] James Svoboda: Sorry. My concern is that the dragon, if they're dragons, they might be able to, they would probably worry that they would spot us coming before we could spot them, because we'd be, you know, unless we're going to dress the ship up as a cloud or something. I don't know. I don't like the spring in the trap on them scenario, because I just
+[0:58:12] Mossy Oak: shouldn't we do that, though someone had like a fog spell. You could just
+[0:58:19] JP Sherman: but ooh, because the fogs will just blow away. The fog just blows away. But if we put, like the because, remember, we made the bottle of ever smoking, yeah? Well, yeah, we put that at the bow, and the smoke billows and creates, might it might create some sort of,
+[0:58:46] James Svoboda: let's test that theory,
+[0:58:48] JP Sherman: yeah, well,
+[0:58:51] Mossy Oak: we can't see, right? I mean, in theory, he can put on the goggle, but I don't think we want just me trying to look through that.
+[0:59:10] James Svoboda: I can cover part of the ship in darkness, but not all of the ship in darkness, well, and
+[0:59:16] Ian Lurie: then you have a flying blob of darkness,
+[0:59:18] James Svoboda: yeah, which would be great at night.
+[0:59:20] JP Sherman: Super subtle,
+[0:59:21] Mossy Oak: or we could just go slightly to the north and avoid the islands, yeah, if we hit them, we hit them.
+[0:59:28] JP Sherman: Is there something that on the ship that's the opposite of the crow's nest, like a bottom Watch out, like in the hole.
+[0:59:36] Ian Lurie: You know what? As much as that would make sense in airship. No, but no. I'm being serious. That would make a lot of sense, but no, mostly because then landing could be really difficult, and they theoretically you never land this ship. But still,
+[0:59:52] JP Sherman: okay, that might be our next upgrade, like, one of those turrets on like, like a, b, 29
+[1:00:01] James Svoboda: then you have to invent vent rubber wheels. Then too,
+[1:00:05] Ian Lurie: I was gonna say it, yeah, B, seventeens. And, of course, there were some real nightmares about that.
+[1:00:12] JP Sherman: So, okay, okay, so let's, let's go slightly north. Let's try to avoid the islands, and also be aware. Be like, have regular watch.
+[1:00:25] Mossy Oak: Like, I mean, that way, if they're attacking, we know they're coming from the south. So that also says focus where we're keeping an eye.
+[1:00:34] JP Sherman: Yep, yep.
+[1:00:35] James Svoboda: Let's go a little bit more than slightly north. Let's go like that, maybe a little bit more sure.
+[1:00:44] Ian Lurie: Okay, and then what straight? You can't Lysander, so you really can't go anywhere near the crater. So if
+[1:00:52] James Svoboda: they really wanted to make this an Indiana Jones episode, you need to make that
+[1:00:56] Ian Lurie: like it. Have a little dot, yeah, little dots, right, right. No. But he says, you know the most if you go that far north, then the most westerly direction he'd want to take after that is like this. So he missed. He gives the crater a wide berth, because that is where the Maelstrom still is.
+[1:01:18] James Svoboda: Oh, gotcha. Okay, well, lots of, well, that's kind of in their path. That's that's not skirting them very much at this point.
+[1:01:30] Ian Lurie: Well, yeah, it is, because the Ian's,
+[1:01:36] Mossy Oak: okay. I mean, let's start on this. Course. You can adjust if we think of it moving better along the brain.
+[1:01:42] Ian Lurie: He says, if I may also recommend, I do think we should have some kind of plan if we are attacked, because assuming these would be formidable dragons, as I said, the discontent is a mighty ship, but she cannot withstand, say, an adult Red Dragon. We would need a way for you all to fight
+[1:02:05] Unknown Speaker(s): somewhere else.
+[1:02:10] Mossy Oak: You you happen to carry a floating disc around or some other battle formation. You're, you're a bird of many talents.
+[1:02:21] Ian Lurie: I'm afraid I do not
+[1:02:22] James Svoboda: what about a combination of worst case scenario, feather fall and walk on water?
+[1:02:36] JP Sherman: That's not a bad idea.
+[1:02:38] Mossy Oak: Okay, let's Yes, I got feather. Fall, who's got water?
+[1:02:45] JP Sherman: Walk. Jack does okay.
+[1:02:49] James Svoboda: And then we could jump ship. Can go, come back and get us later, if we're alive, if need be, I
+[1:03:03] Ian Lurie: perhaps devise a way to signal me a bright light, or
+[1:03:10] Mossy Oak: I got This new flare thing. Worst case scenario, Fireball, you know,
+[1:03:22] James Svoboda: yeah, guiding bolt, something like that. Maybe Should we just, we can give them a an earring.
+[1:03:40] JP Sherman: Who loses the Ian, wait,
+[1:03:42] Mossy Oak: we have sending stones, don't we? We do, but
+[1:03:48] Ian Lurie: that would not tell me better, some kind of signal, like a lot, because you simply say we're over here, will not really help me. It's a large ocean.
+[1:03:58] Mossy Oak: Yeah, no, I can do a fire bolt to 120 feet. That should be,
+[1:04:02] Ian Lurie: yes, we should be, yes, we will not simply run away, but we will remove ourselves from the immediate vicinity. If necessary. We can set down in the ocean as well, though I would not want to do that for very long,
+[1:04:22] JP Sherman: yeah, I think we have a good plan.
+[1:04:28] Ian Lurie: Okay, how would you like to keep watch during the journey? Very carefully, very carefully. That's good.
+[1:04:39] Mossy Oak: Okay, I would like to take watch at some points, because the goggles, I can do the dark vision and
+[1:04:49] JP Sherman: yada yada track. Only needs six hours of meditative sleep to get the long rest. And so he will take a watch, but with Sarah next to him, you know, being all sniffy and predatory.
+[1:05:11] Ian Lurie: Okay, just remember normal day for you all you know, you can see clearly, maybe two miles, right? On a clear day, and if the weather is bad, it gets worse. You can see some things when you're up high. You can see some things as far as 40 miles away, being the heroes that you are, but you might not be able to distinguish much at that distance. So you know the concern for you right now is, if these are fast moving dragons, how quickly can you see them and detect them? I'm only saying that's that you know, you know set you're aware of the constraints you're working under. All right.
+[1:06:03] Mossy Oak: Senko, can't you do some wild seeing in the dark and through web obfuscation, things
+[1:06:10] James Svoboda: I can guess, find familiar and create a what's a good drag? You're very knowledgeable in nature. What's a very good see? Sea based bird,
+[1:06:25] JP Sherman: albatross. That's
+[1:06:27] James Svoboda: exactly what I was thinking. I create an albatross to keep a lookout.
+[1:06:33] Ian Lurie: Enormous bird suddenly appears in the middle of the boat.
+[1:06:37] James Svoboda: Well, maybe, maybe a smaller version of an albatross. Okay, it
+[1:06:42] Ian Lurie: sits there. It looks at you curiously.
+[1:06:47] James Svoboda: I could send it out to to fly, I would say a couple miles south of us, sort of ahead and south, you know, like couple miles ahead, couple
+[1:07:10] Mossy Oak: miles south, working with the idea that if they attack, they'll be coming from the south,
+[1:07:13] JP Sherman: right, yep, yep.
+[1:07:17] Mossy Oak: Does the bird like you? Is it a Fay bird? Because if it sees drag, we might have to be to explain. I'm sure the pigs talk.
+[1:07:27] Ian Lurie: All familiars are indeed Faye and this would be a hawk sized basically you can one of the creatures you can summon is a hawk. This is a hawk sized Albatross, which is fine. It is independent of you. It will always follow your commands, and it can try to see if there's a range here. Don't think so. It could be
+[1:07:55] James Svoboda: celestial, fair fiend. It has to be
+[1:07:56] Ian Lurie: within, it has to be within 100 feet of you to communicate telepathically.
+[1:08:11] JP Sherman: But if she's like an owl, they have good vision, or an eagle, they have good vision. Yeah, that's good. I
+[1:08:24] Ian Lurie: aura Hawk, which also has very good vision, but you'd have to look up the stats. I like all these.
+[1:08:31] James Svoboda: I can see through its eyes and hear it.
+[1:08:38] Ian Lurie: Lysander says, if we are simply looking for a scout, I mean, I can fly, and that can be part of our day. Obviously, I cannot fly 24 hours a day, but I can go very far south, and I am fast and fairly stealthy.
+[1:09:03] Mossy Oak: Look at this guy, feathers and looks.
+[1:09:11] Ian Lurie: Let's not get carried away.
+[1:09:14] Mossy Oak: Yeah, you were lurking on the strip show earlier. I saw you.
+[1:09:18] JP Sherman: I'm reticent about using your skills like I if something goes wrong and you are caught unawares, the consequences for everyone on this ship is would is dire.
+[1:09:37] Ian Lurie: They are fairly dire. They are also dire if the ship is caught unawares by a large pile of angry flesh that can breathe fire on us. But I understand what you are saying.
+[1:09:50] Mossy Oak: Well, Lysander has a point. I mean, we were gonna trust sango's New albatross. We don't know this albatross. We know Lysander
+[1:09:59] Ian Lurie: Ian, also only, as I said, also, I can only do this a few hours a day that still leaves us exposed. He nervously glances at rikter when he says exposed, and then looks back at the group,
+[1:10:19] Mossy Oak: party line. I didn't know birds could blush
+[1:10:23] Ian Lurie: feathers all the time. It is so shocking for them to see creatures without, you know, with just skin.
+[1:10:29] JP Sherman: Drac is getting a little uncomfortable about not being the one making it weird.
+[1:10:37] Mossy Oak: Okay, drag you're gonna go ahead and cast bat wing and then paraglide next to the ship.
+[1:10:46] Ian Lurie: Perhaps we should just keep a careful eye out, and if we see something, prepare, prepare ourselves accordingly.
+[1:10:54] James Svoboda: Yeah, but I will do the familiar and send it out. You know, if it gets eaten and chomped, then we'll know if there's something.
+[1:11:04] Ian Lurie: Just because you will know if it disappears,
+[1:11:08] James Svoboda: yeah, and I can see through it, yes.
+[1:11:10] Ian Lurie: Listens and I think there's, I don't think there's any range for that. I think you can do that as far as you want.
+[1:11:16] James Svoboda: That's my understanding as well. So I'm going to basically go into some sort of meditative
+[1:11:21] JP Sherman: trance thing
+[1:11:26] Mossy Oak: during the during the he didn't say not to draw on him.
+[1:11:30] Ian Lurie: And it it does require an action to to end to see through the bird's eyes, which is fine, just, yeah, that does mean you're not doing anything else while you're doing that.
+[1:11:44] James Svoboda: Yep. Okay, perfectly, fine. Okay, so
+[1:11:48] Ian Lurie: that'll be part of the day, then the rest of the day. I'll just assume you're all keeping watch. So we're not going to do, you know, step by step, all the way across the ocean, because we would be here all night. But you can give me. Why don't you give me? Now? Screw that. I'll do it. All right, and Sango, give me one Perception check with advantage.
+[1:12:35] James Svoboda: 23, okay,
+[1:12:39] Ian Lurie: fourth day out. And if there's other stuff you guys want to do along the way, just tell me, we can pause and rewind and go do that. But on the fourth day out, you see something through your bird's eyes. There's a very small island, basically just a lump of rock in the middle of the ocean, and you can just see in the distance a dot kind of flying around. It probably quite large, given how far away it all is, because you think that's probably 20 miles away.
+[1:13:19] James Svoboda: Okay, I mutter the words that of what I'm seeing so that whoever's near me knows
+[1:13:28] Mossy Oak: I stopped drawing on your face. What? Then I tell everyone,
+[1:13:42] James Svoboda: little island. Something circling. It could be our trap thingy. Do you want me to get closer.
+[1:14:07] Mossy Oak: Yes, have it go closer and see if you can see better, but make sure you call it back
+[1:14:13] James Svoboda: okay, instead of going straight that way, I will have it sort of circle back around so it sort of approaches the island from the opposite direction that we are currently at. Okay, I know that's going to take a little while, but that's fine.
+[1:14:45] Ian Lurie: All right, so you see, as you're flying on the island, you see kind of a some wisps of steam coming up from the island. You know this? You do know that the Ring of Fire is, you know, runs right up along the gap here. And when the fall happened, there were many, many eruptions. That's actually how the shattered Isles became the shattered Isles. So you think you might be looking at some kind of the very top of some kind of volcanic eruption that happened. And you do see, as you look flying around through the bird's eyes, you do see a large wing shape, and you can't quite get the color in this in the mist. Do you want to get closer? Yes, okay, so as you get closer, you start to make out some sense of the color of the creature. And this is definitely a red dragon, and it is really big, and it's a little hard to tell from the perspective of, you know, a small Albatross, but you're pretty sure you've never seen a dragon in flight that's quite as large as this.
+[1:16:15] James Svoboda: Any other creatures can be spotted.
+[1:16:21] Ian Lurie: Give me a perception check. 15. Okay, you don't see anything else.
+[1:16:34] James Svoboda: Okay, how big does the island look?
+[1:16:38] JP Sherman: Well, since you asked.
+[1:16:47] Ian Lurie: Show you what you see. Hold on and keep in mind that the villains discontent is not actually right on top of this dragon. But this is what the island looks like. So it's not actually, oh god, I just drowned
+[1:17:13] James Svoboda: him. It's tiny compared to him. It
+[1:17:18] Ian Lurie: Right, it as in
+[1:17:21] James Svoboda: the dragon, the
+[1:17:22] Ian Lurie: dragon is is, no, the the dragon is huge. I'm just, I'm having issues. Okay, fine, screw this. Here's you. Here is Dragon. Okay. I thing. Okay?
+[1:17:43] James Svoboda: I guess my perspective was trying to figure out that the island just It looks like a, like a, like a seat to this guy, like it's, it's not like a big, inhabited sort of an island.
+[1:17:55] Ian Lurie: No, no, no, no, no. Okay, this really is just the top of a volcano,
+[1:18:00] James Svoboda: Okay, a couple Haystack Rock kind of things, yeah,
+[1:18:02] Ian Lurie: and this is really what it looks like.
+[1:18:04] James Svoboda: Okay, I pop out of of my vision of seeing through its eyes. I cast minor illusion, and I recreate what I'm what I've saw, so that the rest of the group can see this, and then I pop back into looking through it, through its eyes.
+[1:18:28] Mossy Oak: It's down on the ground. What if we gained elevation?
+[1:18:32] Ian Lurie: Now it is flying. Part of this is just the nature of the software we're using here. I can't
+[1:18:41] Mossy Oak: has it seen us?
+[1:18:45] Ian Lurie: Nothing you see in its motion Sango indicates that it has seen you. It's just flying a long, lazy loop around the island. Okay? I
+[1:19:10] James Svoboda: i want the albatross to to make a loud noise and then fly away the opposite direction from us. Okay,
+[1:19:30] Ian Lurie: give me it's not really intimidation, obviously. Just give me a straight charisma check if you happen to have the stats for the hawk or the albatross there, you can use that.
+[1:19:49] Rikterr Shep'ard: Yo, my man, not a natty one, that's a one.
+[1:19:56] Mossy Oak: Wait, wait, oh no, it's the bird, Ian's you
+[1:19:59] Ian Lurie: don't, yeah, you don't, yeah, you don't know that. Nina, this is happening, okay, the bird lets out this kind of keep and starts to fly away. The Dragon does not react, okay,
+[1:20:19] James Svoboda: okay, maybe we should go skirt this thing a little bit more, little bit more out of its way, so that, because it's huge and it'll mess us up, we could probably take our airship out of the sky real fast. And it doesn't look like there's a great place down there to fight for us.
+[1:20:47] Ian Lurie: No, I mean, you can see here there's some land, right, yeah, but it's probably also kind of hot,
+[1:21:01] James Svoboda: yeah, so I don't think, I don't think fighting is an option. So I run that around this scenario by the group of what they what they think,
+[1:21:15] Rikterr Shep'ard: if we were over better land, I'd say, fight it, but I'm with you, Sango, of avoiding it until we have better firm land on which to fight against
+[1:21:29] James Svoboda: it and we know where it's at, or at least it's at now,
+[1:21:36] Mossy Oak: correct, just like, if we didn't have to water walk and fight a red dragon, I would consider that a personal favor.
+[1:21:51] James Svoboda: Yeah, yeah, okay, let's, let's skirt it. Let's skirt it. Let's give it a little bit more room and try to
+[1:22:02] Ian Lurie: avoid it as much. Just, you know, right now you are here where I just put the star.
+[1:22:06] Mossy Oak: Okay, okay, where is the tiny little island.
+[1:22:11] Ian Lurie: It's basically, it's just a little, it's like, at the bottom corner of the star.
+[1:22:18] Mossy Oak: Okay, let's just keep it chill. And I'm gonna stand nonchalantly in front of the spell cannon for reasons.
+[1:22:26] Rikterr Shep'ard: Stretching Jack is right
+[1:22:28] JP Sherman: there next to you by the spell Can I fly casual
+[1:22:36] Mossy Oak: red or party line? Remember what red or vulnerable to their fire guys, right? So we have a wooden ship. I'm just trying to think of what,
+[1:22:47] JP Sherman: yes, I can
+[1:22:49] Rikterr Shep'ard: I roll our Canada to see if Richter knows
+[1:22:53] JP Sherman: nature vulnerable. It'd be
+[1:22:55] Rikterr Shep'ard: nature, yeah, let me see if rikter. Oh no, rikter and track are tied at plus one for nature.
+[1:23:07] Mossy Oak: Sango, you've got good nature, right?
+[1:23:10] James Svoboda: He's kind of busy right now.
+[1:23:12] Mossy Oak: Oh, touche, rikter, plus five,
+[1:23:16] Rikterr Shep'ard: you can certainly try all right. Fuck you. Oh, a hot 13. Okay.
+[1:23:30] Ian Lurie: You are, I mean, you know that drag Red Dragons favor fire. You don't know if they're immune to damage from fire, if they're highly tolerant of it. And you don't know of any vulnerabilities for any dragons, you don't know that any of them are particularly vulnerable to anything.
+[1:23:55] Mossy Oak: So we've read through the Tome of the prior adventures, escapades, and if I recall, they did face a red dragon in that tome, which tome keanu's Diary.
+[1:24:10] Ian Lurie: Oh, yes, yes,
+[1:24:13] Mossy Oak: Mossy. I mean, much fan art of that diary,
+[1:24:16] Ian Lurie: it tends to be kind of flowery. So it says, you know, they can't and it, it's keanu's best attempt at flowery so it's sort of like and lo, they beheld a large red dragon, and it was an asshole, and it attempted to smote upon them, and they smote it back. It doesn't really have a whole lot of technical detail.
+[1:24:35] JP Sherman: Unfortunately, I've got a radiance, bro. I've got the US guiding bolt, which is radiant, which is generally like, if we do like a fire bolt, it's probably not going to hurt it. So I can love guiding bolt, which is, at this point, like a 66 level radiant
+[1:25:06] Mossy Oak: through the spell cannon, because you, me and rikter are all trained on that, yes,
+[1:25:12] Ian Lurie: What type of magic is the guiding bolt? Evocation?
+[1:25:22] Mossy Oak: Evoke. Evocations when we can use through that. It was written one way and one thing and one way or another,
+[1:25:27] Ian Lurie: but we land on the ebook magic, that magic that makes things go boom. That's what you can use through the spell cannon. Yeah. Okay. You do know from the from Keanu is writing is that. I mean just plain hitting a dragon definitely hurts it.
+[1:25:49] Rikterr Shep'ard: All right, well, let's try to skirt around it, and if all else fails, we unleash the boom.
+[1:25:58] Ian Lurie: Okay, all right, so what I need
+[1:26:02] Mossy Oak: you would be really funny, to shrink the dragon never shrunk a dragon. That'd be pretty funny.
+[1:26:09] Ian Lurie: What I need you guys to give me is I need to give you to give me three group stealth checks. You cannot use any magic items or anything else for this. This is just straight up stealth, as if you had no equipment, because this is for the villains discontent. Or I can roll but given my I'll
+[1:26:26] Mossy Oak: roll it. I get to use my modifier, right?
+[1:26:29] Ian Lurie: No, oh, oh, well, no, sorry, yes, your skill modifier, yes, just, but you can't use like 17.
+[1:26:39] Mossy Oak: And if I could do that. That would be, well, yeah, yeah.
+[1:26:44] Sangotross: Rikter, do you want to strip before you make this check?
+[1:26:48] Ian Lurie: Last hand. It says, Please, no, 36 Okay,
+[1:26:57] Sangotross: 17. I got an RBG, that's a natural 20, so 31 nice.
+[1:27:04] Ian Lurie: All right.
+[1:27:05] JP Sherman: Track has a 30,
+[1:27:09] Ian Lurie: okay, all right, you fly past and do not see the dragon come after you guys. Give me one second. Take a quick bio break. I will be right back
+[1:27:24] Mossy Oak: soon as we're in the clear. Just everyone lets you know. Let go of your anxiety. Farts. Now we've made it
+[1:27:32] JP Sherman: I gotta admit, track is a little sad.
+[1:27:37] Mossy Oak: You and your favorite foe, pourquoi.
+[1:27:43] JP Sherman: He's an idiot. He likes fighting.
+[1:27:47] Mossy Oak: Aren't dragons? Your favorite foe?
+[1:27:50] JP Sherman: Uh, those, those went away during the range revamp.
+[1:27:55] Rikterr Shep'ard: Oh, okay. Also, do you now remember the last time when you high, high, out on top of a dragon, and then it flipped itself upside down and went,
+[1:28:06] JP Sherman: I do remember that, and Jack will never do that again,
+[1:28:11] Mossy Oak: as long As he remembers.
+[1:28:18] JP Sherman: Yeah, I was squished into pate. I sangotros,
+[1:29:40] Ian Lurie: Okay. So sangotros, why don't you give me so the night goes by, nothing really seems to go on. On the fourth day, you've got a day and a half left before you finish the crossing of the gap itself. So you are now right about here, kind of a steady misting rain settles in. It is, you know, you are getting into fall and on this latitude. Give me a perception check. Sangotros, assuming you're still flying patrol. And actually everybody can do that for
+[1:30:37] Sangotross: me. 29 okay.
+[1:30:42] Rikterr Shep'ard: 11, what's
+[1:30:44] JP Sherman: the rule? 14? Perception.
+[1:30:48] Mossy Oak: 21 sorry, 19.
+[1:30:52] Ian Lurie: Sango, you, you're, you're starting to feel pretty good about this. Like, okay, you know, day and a half to go, we're going to make it and your heart sinks, as you see in the distance, maybe 10 miles away, because of the weather conditions, a dot flying towards the ship, or at least maintaining distance with the ship.
+[1:31:19] Sangotross: Oh, okay, so watch it for a few minutes to see if it is maintaining distance or if it is approaching. I do let everybody know it, but go ahead.
+[1:31:36] Ian Lurie: You're not sure right now. It's not It's definitely not getting closer right now, but it's not actually, no, sorry, it's definitely not receding into the distance. You're not It's not falling behind, and you can't really see what it is, because you're still pretty close to you're still pretty close to the ship, and because the weather conditions are just making it harder to to make things out.
+[1:32:06] Sangotross: Is it? Is it appear you said, sort of like parallel with us, maybe, or ahead?
+[1:32:13] Ian Lurie: No, it's, it's trailing you
+[1:32:15] Rikterr Shep'ard: trailing us? Yeah.
+[1:32:24] Sangotross: Tell we tell Captain lay center.
+[1:32:33] Ian Lurie: Okay? He says, well that it is probably not a coincidence. There's an awful lot of empty ocean, empty air here. If we are being if you are concerned, if we don't, if we know what it is, then I will do everything I can to accelerate our vessel. We can go faster than we are going right now?
+[1:33:04] Sangotross: Yeah, I think what I'll I think then I'm going to send the albatross closer, but also away from us. Okay? Because maybe it's following the Albatross and not us, but probably it's following us. But definitely want to get a better look at it. Yeah, unless Wait,
+[1:33:38] JP Sherman: Jack, Hey, Jack, yeah, what's up? You're a,
+[1:33:43] Sangotross: you're a, you're a, you're a trap. Trappy kind of guy. What do you think it's doing? You think it's trailing us, trying to lead us into a trap? Do you think it's trying to keep tabs on us? Oh, it calls its buddies. What do you think's going on? If that's it, if it is a dragon, because if I send the albatross closer, maybe it'll know that we know it's there, and then it'll change its mind and attack us. Or, I don't
+[1:34:14] JP Sherman: know, I don't really know the mind of dragons, but from a predator point point of view, it is probably it's probably locked on. It knows we're here is probably faster than we are, and if they're not actively trying to overtake us, they are probably looking for a point in which we are vulnerable, such as disembarkation.
+[1:34:45] Ian Lurie: Lysander says, if I may interrupt, we are most assuredly faster than the dragon if we want to be. We are cruising right now, but we can't approximately double our speed if we want to. And I do not think even the dragon can keep up.
+[1:35:02] Mossy Oak: Hey, rikter se, use a plural or a singular when warning is the ambush was
+[1:35:10] Rikterr Shep'ard: it was it was minion with a Z, okay,
+[1:35:16] Mossy Oak: I'm gonna bet there's communication. There's a second one.
+[1:35:22] JP Sherman: And, oh, how much longer will it take to get to land at our current speed,
+[1:35:30] Ian Lurie: at our current speed, we are 36 hours away.
+[1:35:36] JP Sherman: Okay? And if we go to flank speed,
+[1:35:40] Ian Lurie: we are only 18 hours away. We do run certain risks. Obviously, going faster. You can damage the rigging in the ship, but there are no obstacles.
+[1:35:51] Mossy Oak: Okay, about speed long enough to get that dot out of sight, and then we slow back down.
+[1:36:00] JP Sherman: And that's a good point. If we speed up, will it also speed up?
+[1:36:07] Ian Lurie: We can test that theory.
+[1:36:08] JP Sherman: Let's science. Let's do that.
+[1:36:13] Ian Lurie: Lysander calls out a few orders, and you've never actually seen the ship do this before, but these two arrow, these two propellers, unfold from the sides of the ship, and you've seen the propellers. Never seen them in use, and they slowly start spinning the the ship's mage, who does actually have a name. Now, I thought you'd be very pleased to hear that we
+[1:36:42] Sangotross: don't want to know now,
+[1:36:43] Ian Lurie: okay, well, never mind. Then old what's his face comes out, and he mutters some incantation, you're not sure what, and the propellers begin spinning, and the ship immediately, sort of the deck leaps under your feet, and the ship accelerates noticeably, and there's no
+[1:37:03] Sangotross: thanks, Steve, thanks, Steve, that was a
+[1:37:06] Ian Lurie: good job. My name is Cal Alex, not Steve. It knew it not Steve.
+[1:37:12] JP Sherman: Close, so, so close. Record, cupcakes. No,
+[1:37:20] Ian Lurie: I know you guys.
+[1:37:24] JP Sherman: It's with love and bacon.
+[1:37:27] Mossy Oak: You want some bacon? Turn that front upside down.
+[1:37:30] Ian Lurie: I'm a vegetarian. He He says we should be able to sustain this for quite a while. Light Center says we can sustain this for quite a while, assuming nothing, nothing stops us. You do notice that the wind is now whistling across the deck?
+[1:37:55] Sangotross: I don't think my albatross can keep keep up.
+[1:38:01] Ian Lurie: Probably not no no.
+[1:38:03] Sangotross: So it will have to fade away and then maybe veer off and see if it see if whatever was following us follows it. Okay,
+[1:38:21] Ian Lurie: let go with me. That was funny.
+[1:38:27] Mossy Oak: There is no taming a Fairy Dragon. You just kind of
+[1:38:29] Ian Lurie: have to no she is indeed feral. The dot does indeed shrink into the distance as you accelerate so that appears to be, it appears that you can, you can reasonably hope that you can outrun it.
+[1:38:49] JP Sherman: Quick question, what is, what is the estimated distance of it?
+[1:39:06] Ian Lurie: Give me a perception check. Okay? Strictly speaking, it should be investigation, but I'm going to be nice.
+[1:39:17] JP Sherman: Well, on DND beyond, I just rolled the natural 20, so that gives me a 37 perception.
+[1:39:22] Ian Lurie: Okay, Jesus. You think it's probably, it was probably about 10 miles away, given weather and everything else, okay?
+[1:39:34] JP Sherman: I asked because I'm like, Am I in range to Hunter's market? But no, I'm not even close to marketing.
+[1:39:43] Ian Lurie: Lysander is now having to shout about the wind. He says, I would suggest that everyone who is not essential on deck head beneath below decks as soon as possible, as conditions are going to become quite a bit more difficult. If we continue at this speed,
+[1:40:02] Mossy Oak: we will made space between us and the dot. Though, do we want to keep or do we want to slow back down so we can keep an eye on what's coming around us?
+[1:40:11] Sangotross: Probably want to give it a couple hours. Okay. Also, Sango does want to through the albatross see if it is still following us, the meaning the other creature, the.or or what.
+[1:40:34] Ian Lurie: So last time you can see it is still it is still flying in your direction. Okay, it is receding, but it is flying in your direction.
+[1:40:45] Sangotross: So the but the albatross is going to veer off to the left side, away from the away from land, a little bit more, okay, and see if it follows the albatross, or if it's still trying to follow the ship.
+[1:41:01] Ian Lurie: Oh, it follows the ship. Okay. You don't think it even noticed or cares about the albatross.
+[1:41:06] JP Sherman: Okay. Drag is gonna put just kind of double tap his crystal and have Sura go into the gem.
+[1:41:24] Ian Lurie: Do you guys have below decks?
+[1:41:27] JP Sherman: I feel that we're are we? I think we're essential.
+[1:41:31] Ian Lurie: You probably are fairly essential, actually, yeah, it is wild up here at this point, everybody needs to give me three Dex rolls. It is windy. You're getting tossed around
+[1:41:51] Mossy Oak: deck saves or checks,
+[1:41:54] JP Sherman: sorry, checks, checks.
+[1:42:00] Sangotross: A sand goes below deck because he wants to keep his connection going for a little while.
+[1:42:06] Rikterr Shep'ard: 21 nine and eight, okay? 30, 2019,
+[1:42:18] JP Sherman: and 18.
+[1:42:22] Mossy Oak: 1825. 1825, 13, okay.
+[1:42:25] Ian Lurie: Rikter, you stumble a couple of times just because things are are things are happening pretty quick. Up here, you take a point of bludgeoning damage, and that's it. The rest of you are okay. Nothing catastrophic happens, and for the next, you know, 12 or so hours, the ship continues to well, actually, for the next two hours, the ship continues to go this fast, if you would like them to continue going this fast. The problem is that the ride at this point is sufficiently un pleasant that you will not be able to gain the effects of a long rest, so you will all gain a point of exhaustion if you don't slow down.
+[1:43:09] Mossy Oak: I mean, I think we've outrun we can slow down, yeah, okay, agreed. That way we can also just keep a lookout too.
+[1:43:21] Sangotross: Okay, the the albatross is going to keep an eye on.
+[1:43:28] Ian Lurie: Okay, it's well out of range at this point, but okay. You continue flying. You notice that the crew, Lysander did some kind of calculation with fend all and then or Fen Lal, and then relayed the numbers to the crew, and they all started cheering. You get the sense the ship was going that was some kind of speed record for the ship, like it's never gone that fast before, or something. And you all go for your night's rest is, are you keeping watches during the night? I think you said
+[1:44:09] Rikterr Shep'ard: you were doing that. Okay, before we do the rest. Where the fuck is this guy? Here we go. You guys see rikter. He looks at everyone. He just says, I haven't done this before. Just give me a second. And you see him. Just close his eyes to little slits. And then he reaches out, and you see him pluck and hold just a little beam of light. He takes it, mashes into his hands, spreads it out, and he's casting a spell called sanctum of the Shephard. And so everyone who does a long rest within this protection for the 24 hours after that, plus one bonus to their armor class.
+[1:45:02] Mossy Oak: Whoa, yeah, that's awesome. Okay, I'm
+[1:45:13] JP Sherman: gonna put a note in the suggestion box Ian's please. No, go fast, again,
+[1:45:20] Ian Lurie: again, again, again, again. Oh,
+[1:45:22] Sangotross: that reminds me. I need to make a couple checks.
+[1:45:25] Ian Lurie: Oh, yes, you do, yeah,
+[1:45:27] Unknown Speaker(s): eight and 13, plus some stuff. He's okay. Yes, he's fine. Okay.
+[1:45:37] Ian Lurie: Somebody needs to give me two more perception checks for the ship. Or if you're on watch, you can take the checks yourself.
+[1:45:48] Mossy Oak: Actually, you know what I'll do? I'll throw up. Hold on. Sorry. I don't know if we're exposing it's not perception double check that it's not but I'll still, I'll do a roll.
+[1:46:03] JP Sherman: Okay, I'll do a roll.
+[1:46:07] Mossy Oak: Decent perception as I JP myself,
+[1:46:13] JP Sherman: that is a 35 All right, hold on. I have to go yell at some children. Okay, enjoy. Jersey 20.
+[1:46:28] Rikterr Shep'ard: I love how his cameras zoomed in on him yelling at the children.
+[1:46:42] Ian Lurie: Okay.
+[1:46:47] JP Sherman: So you're just
+[1:46:53] Ian Lurie: passing over. Sure you're just making land. Who would be up? It's the last four hours before daylight. Who would be on watch at that point?
+[1:47:10] JP Sherman: It would either be because drag usually goes on the front or on the end. Okay, all
+[1:47:17] Ian Lurie: right, let's assume it's tracker. You Yeah, okay, I didn't need to look at that, and yet I did. Just as you cross the edge of the shore, you notice right on the edge of your vision, something's moving, coming up off the ground and flying towards you.
+[1:47:45] Mossy Oak: Oh, awesome.
+[1:47:51] JP Sherman: I'm going to immediately tell Lysander this is happening. We may need to pivot the ship into an attack position and then do the party line. You know, get up alert, get to the deck.
+[1:48:13] Mossy Oak: Gonna get to the deck and run to a spell cannon.
+[1:48:17] Sangotross: DM, click the the albatross. The that, that dot that was behind us, yep, you know, 12 hours ago was that a dragon he would have, the albatross would have got close enough to try to figure out if it's what kind of creature it was.
+[1:48:36] Ian Lurie: Yes, and the yes and the dot actually give me a perception check, because the conditions, again, they were still pretty bad.
+[1:48:43] Sangotross: That is a 23
+[1:48:46] Ian Lurie: okay, um, it's, it is a red dragon. It was not sure one. You're not sure if it's the same one or not, okay, um, okay,
+[1:48:59] Sangotross: okay, just wanted to clarify. Okay?
+[1:49:03] Rikterr Shep'ard: And Tiamat herself is all colors Correct?
+[1:49:06] Ian Lurie: Yes, she's chromatic. So she's all the chromatic colors, none of the metallic.
+[1:49:12] Rikterr Shep'ard: I've been really trying every time you bring up someone not Googling them to look it up. So I'm sorry if I'm asking you things that like normal DNB players would know. I've been trying
+[1:49:20] Ian Lurie: not to. No, it's totally cool. And, yeah, I get it that. I appreciate that. I will tell you I typically modify my monsters enough that, because I'm used to players who do read up on every monster, so that way, when they say, wait it can't I can say, Why were you looking it up? Seems like you were looking it up.
+[1:49:40] Mossy Oak: We're fairly decent and not being meta game.
+[1:49:42] Ian Lurie: No, you guys are great. You guys are great at that. But my other group is, I mean, legendary, professional meta gamers,
+[1:49:52] Sangotross: let me shit I was gonna ask something. It was important. Yeah, fuck I lost. I don't know it'll come back to me like after we're dead, I guess.
+[1:50:08] Ian Lurie: Probably, All right, last lie, Sander says, What would you like me to do? I can ready for combat. I can fly downwards as quickly as possible, which honestly appeals to me greatly.
+[1:50:26] Sangotross: I remember what I was going to ask since, since Tiamat branded us. Do Do we have any indication that she knows where we're at at all times or anything like that.
+[1:50:40] Ian Lurie: You're not sure. I said that you might be on to something.
+[1:50:45] Rikterr Shep'ard: That's a good ass question. James, God
+[1:50:47] Sangotross: damn, see, and I remembered it before we died.
+[1:50:52] Mossy Oak: Right? Look inside your deep
+[1:50:56] Rikterr Shep'ard: V is it cool we got that DPS, that dragon positioning system?
+[1:51:01] Sangotross: I Okay, so out running isn't might not be a good idea if they can find us. Well, we got out we we put distance between ourselves and one of them, so maybe there's only one ahead of us that we have to deal with now, just talking to the group.
+[1:51:25] Rikterr Shep'ard: Well, rikter also says out loud, except when we were attacked, it was by Dragon folk in our vicinity. So maybe there's if we're in a certain distance of Dragon, they'll know. But if we're just out in the boot. They're not going to know exactly where we are, so we might just, we might have crossed close enough to the red dragon that they're going to be able to track us.
+[1:51:54] Sangotross: Now, yeah, it could be a general radar detection area, but, ooh, I don't like any of this.
+[1:52:07] JP Sherman: Jack says over the parlor, this is all great, but we got something coming up
+[1:52:13] Ian Lurie: for the ground. Say, I appreciate this discussion, but, and he points, and now you can see flying up towards the villains discontent at a pretty good clip, a white dragon.
+[1:52:26] Mossy Oak: Ah, balls. So the attack position, Lysander, that would be great.
+[1:52:37] Ian Lurie: I'm going to take us to full speed. At this point, we will not be able to escape both dragons,
+[1:52:44] Sangotross: but the other one's a ways behind us, right? Yeah. Okay, so it so we think it's we, it's safe to assume that if we do get a scrap right now, we'd only have to fake one of them instead of two.
+[1:52:59] Ian Lurie: Correct okay, how the other one is?
+[1:53:02] Sangotross: How big does this dragon look compared to the other one?
+[1:53:06] Ian Lurie: It looks pretty freaking big. I mean, you know, it's a dragon, but not as problem, possibly not as big as the red you know, white dragons are not, I mean, Red Dragons are kind of the the big bad of the chromatics. White dragons less. So you know that much about them.
+[1:53:24] Sangotross: So the Red Dragons are the one that spend a lot of time in the gym and eat a lot of creatine and stuff like that. Okay?
+[1:53:35] Ian Lurie: White dragons, yeah, yeah, that's
+[1:53:37] Sangotross: positive side. No fire to burn up the ship.
+[1:53:43] Ian Lurie: Necessarily, there is extreme there is the matter of extreme cold, though I have actually tangled with a white dragon on occasion, we might be able to deal with it on the ship. They are among the weakest, if I'm remembering right. I do not know if that is wise, but
+[1:54:04] Sangotross: that's probably not wise. Yeah.
+[1:54:06] Ian Lurie: Actually, I am sorry that I said any of that, it is definitely unwise. It is a flying reptile the same size as this ship I do not recommend unless we are in truly dire straits. I i recommend we accelerate and get you all on the ground as quickly as possible.
+[1:54:25] Sangotross: Sango looks at him and says, Make it so
+[1:54:32] Ian Lurie: the discontent speeds up again and aims, aims alarmingly towards the ground, like in a power dive, almost, you know, probably 45 degree angle down, which, when you think about it as a person, you're like, that doesn't seem like that much. But when you're standing on a flying, when you're in a flying box that's going, that's heading towards the ground at top speed, at a 45 degree angle, it's not a good feeling at all. The ground comes up rapidly, and actually you're going so fast that there's a brief moment when the drag the white dragon attempts to cross your path. And because of the way Lysander has redirected the ship, the dragon wheels and reaches out with its claws to try to grab the ship. And for a moment, you are on the deck of this ship, and you are dwarfed by this just mass of white scales and these huge wings that unfurl and are almost, you know, they just, they put, they obliterate the sun while they are open across, you know, between you and the Sun as the ship has angled downwards, and you hear this cry of just absolute this roar of absolute rage from the white dragon as it misses its first swooping attack. And then it too starts to reside. It starts to recede into the distance as the the sheer speed of the villains, his content gets you some some breathing room, and Lysander says, We will not have a great deal the time on the ground. I suggest you make ourselves ready to debauch as quickly as possible.
+[1:56:15] Sangotross: So did I do? I take this to mean that he's going to drop us off on the ground, or
+[1:56:21] Mossy Oak: feather falling.
+[1:56:23] Ian Lurie: I will get you as close to the ground as I can, but I do not altitude. How do they say this? Speed is life and altitude is life insurance. In the flying business,
+[1:56:34] Sangotross: what's life insurance?
+[1:56:38] Ian Lurie: I do not know. I apologize. Okay,
+[1:56:48] Sangotross: I guess we're gonna fly. Okay,
+[1:56:54] Ian Lurie: all right, so here's what we're gonna do, Lysander. Do you want Lysander to get as close as he can to the ground. Knowing how fast do you fall in? Feather fall.
+[1:57:09] JP Sherman: I am okay. Here we go. Feather fall, reading that spell, choose up the five falling creatures within range. So one feather fall will take all of us, the falling creatures ready to set slows down to 60 feet per round until the spell ends. Last for one minute, and if the the touch land before the spell ends, they take zero damage from the fall and the spell ends.
+[1:57:36] Ian Lurie: Okay, and I'm sorry, how many feet per minute?
+[1:57:40] JP Sherman: 60 feet per round, 60
+[1:57:43] Ian Lurie: feet per round. So
+[1:57:44] JP Sherman: for one minute, that would be 600 maximum. Right height would be 600 feet high, okay?
+[1:57:54] Sangotross: Or we just jump and then feather fall later.
+[1:58:00] JP Sherman: Yeah. So we can
+[1:58:06] Mossy Oak: Yeah, as long as the creatures are within 60 feet, we can feather home, yep,
+[1:58:12] Rikterr Shep'ard: jump, holding hands. I was just gonna say that.
+[1:58:16] Unknown Speaker(s): Oh, is it friendship?
+[1:58:21] Ian Lurie: I felt like I had to
+[1:58:23] Sangotross: get a point of inspiration for life.
+[1:58:25] Ian Lurie: Do DMS. Do DMS, get inspiration. That's a really good
+[1:58:28] JP Sherman: question. You do? You
+[1:58:30] Ian Lurie: do like that idea?
+[1:58:31] Rikterr Shep'ard: I mean, if dagger heart lets DMS use the fear, then you should get a inspiration. That's right.
+[1:58:40] JP Sherman: All right, all right.
+[1:58:41] Ian Lurie: So how high above the ground Do you want to activate feather fall? Well, actually, let me, let me rephrase that, how when do you want to jump off the ship would be the place to start?
+[1:58:57] Sangotross: Okay, do the math. Is there, is there a what do we see for the landscape, anything advantageous for us from a fighting position to be landing somewhere here?
+[1:59:13] Ian Lurie: I'm glad you asked me that question, and just so you know, I did create a lot of maps for tonight, because I just did not know where or if this was going to happen. This is what it looks like where you're dropping down. You can assume it's land all around you, but you know it's just,
+[1:59:40] Mossy Oak: this is land with two big ass dragons, you know? Yeah.
+[1:59:44] Ian Lurie: Well, that and that dragon, of course, is, you know, over there somewhere. Pay no mind to that other dragon. This is what you see. I don't ignore the altitudes for now, where would you like Lysander to try to drop you?
+[2:00:05] JP Sherman: Okay, real quick. I'm doing a little bit of math, but we've been looking at terminal velocity. We will fall about in free fall approximately roughly 100 feet per second.
+[2:00:20] Ian Lurie: So that sounds 600
+[2:00:24] Sangotross: 600 feet around right?
+[2:00:28] Mossy Oak: That's been no
+[2:00:30] JP Sherman: six Well, yes, actually
+[2:00:33] Ian Lurie: 60 times 100 that's 6000 feet per end, per round,
+[2:00:38] Unknown Speaker(s): or per minute. No, no,
+[2:00:39] Ian Lurie: per minute. Sorry, no, no
+[2:00:42] JP Sherman: terminal velocity, yeah, human will fall 100 feet per second, yeah. So that would be 600 feet per round, yeah. So if he drops us off at 1000 feet, we count to six and then pop, shoot
+[2:01:02] Ian Lurie: you. Then team up. Like right above the ground. All right?
+[2:01:06] JP Sherman: Basically, we do sell about two to 300 feet above the ground.
+[2:01:11] Sangotross: Okay, so my concern with that is Sango doesn't weigh a lot, and the wind may just blow him away from you guys.
+[2:01:19] JP Sherman: It's more about physics than weight. It's about mass. DND is not a physics simulator,
+[2:01:27] Ian Lurie: but let's assume that you're not in a hurricane, because you're right. It was very, very windy. This would that could potentially be an issue, but as it stands right now, you know 20 mile an hour winds, you're all going to go in the same direction, yeah.
+[2:01:39] Sangotross: Why don't we just get like, I don't know, 180 feet above the ground, and
+[2:01:44] Ian Lurie: then off the boat?
+[2:01:47] Sangotross: Why don't we just get like, 180 feet above the ground, and then other foul will jump. That'll give us three rounds.
+[2:01:57] JP Sherman: We need to we also need to understand that, like the ship also needs to pull up from a safe distance. Yeah. So drop us off at 1000 drop us off at 1000 count to six. Pop shoot.
+[2:02:11] Sangotross: Okay, okay. Total
+[2:02:13] JP Sherman: casting drag. Drag is casting.
+[2:02:16] Sangotross: Sang those guessed minor illusion on himself to make himself look like a goldfish, just in case.
+[2:02:23] Ian Lurie: Okay, because you're like gods, so are you? Are you
+[2:02:28] Mossy Oak: gonna keep fish right now?
+[2:02:33] Ian Lurie: All right, you the ship starts to go into an even steeper dive, to the point where you're practically floating above the deck. Lysander says we are going to pull up in approximately five seconds, and he counts it off for you. And then you guys go and leap off. Everybody. Give me a Dex roll. Check, a Dex check not, not a 27 27
+[2:03:06] Mossy Oak: shame to say this 12, okay,
+[2:03:11] JP Sherman: 15, 1519,
+[2:03:13] Ian Lurie: okay, you're all good, as long as you didn't roll below a 10. If you roll below a 10, you might trip over something, and then, you know, you'd all be falling at different rates, and then the villains discontent. Immediately, you hear it just groan as Lysander starts to pull the ship up. And it kind of it disappears so quickly, because you are now falling at you know you're accelerating at terminal velocity, the ship is immediately trying to get away. It's It's resisting gravity as best it can. And a shadow appears over you as you're falling, and I need everybody and as you're falling, you kind of look up and you see the dragon stooping and diving towards you, just absolutely as fast as it possibly can. So you're now going 100 feet per second. You're going faster than it. It's pissed, but you're going, Oh, no, wait, no, no, you're not. It stoops and folds its wings. But of course, it also can only reach a certain speed, so it's back a little ways behind you. Drag you tell me when you want to cast feather fall. You are now within about actually do this for me. Give me a perception roll, because you're trying to guess the right time to cast the spell.
+[2:04:39] JP Sherman: I'm going to modify this on the fly. I want to see if, if the dragon over commits, that's
+[2:04:49] Ian Lurie: an intelligence role, because now you're doing math.
+[2:04:52] JP Sherman: Okay, I will do that.
+[2:04:54] Mossy Oak: Okay, oh, God, still got some of those luck things, right? Yes, I do smarty pants. I'm Jack is very smart. Number one, boy,
+[2:05:08] JP Sherman: 21 Okay, all right.
+[2:05:12] Ian Lurie: You know that the dragon is definitely accelerating. It's going to be going the same speed as you in a second. You you're going to need to hit feather fall in three seconds, and then it is going to get one attack on you guys before you get to the ground. But there's no other there's no other way to do it. It's just, you know, unless you're going to wait until you literally hit the ground, in which case it will hit you just as you're bouncing, which I'm
+[2:05:41] Mossy Oak: going to ask actually, because I don't know if I can do this, but it would be really funny if it worked. Right now, there's this thing called vortex warp, where, if they fail to save I get to shift reality and put them in a different spot, which could potentially be beneath us with their acceleration and we could wily Coyote, this shit 100%
+[2:06:08] JP Sherman: do it. Do it. Do it. Do
+[2:06:10] Rikterr Shep'ard: it. Okay, do it.
+[2:06:13] Mossy Oak: I have to wait until it's within 90 feet. But yeah, it has to make a con save of 19.
+[2:06:24] Ian Lurie: Okay, so let's see. I'm gonna show you the map exactly as things are right now, assuming that you're popping feather fall about when you said you would. So here's you guys.
+[2:06:38] JP Sherman: I'm gonna use my fourth luck roll to impose disadvantage on that on the con save,
+[2:06:45] Sangotross: it's a, it's a new day though, right? Drag you get, don't you get those back?
+[2:06:52] JP Sherman: Yeah, so I'll use Oh yeah, second, okay, okay.
+[2:07:01] Ian Lurie: I roll a five on my con save, but I choose to succeed and use a legendary resistance.
+[2:07:13] JP Sherman: We burned. One
+[2:07:14] Mossy Oak: still got to burn. One got to burn. One would have been really funny just saying
+[2:07:22] Ian Lurie: so it now plummeting like a rock. Yes to about here? Yeah, go ahead.
+[2:07:32] Sangotross: Can we set up a couple things abilities we might have activated before jumping off the ship?
+[2:07:39] Ian Lurie: You can Yes, and then we should all roll initiative as well.
+[2:07:42] Sangotross: I'm going to do my story form.
+[2:08:01] Mossy Oak: So GM question for you, there is a newer spell, and I'm going to put in chat. Okay? I just want to make sure that you are okay with that. I will swap out if that is not to your liking with it, if it's in the rules, I
+[2:08:23] Ian Lurie: I just keep seeing much different than your daddy voice. So the quicker you can paste something in there, the better. Thank you.
+[2:08:36] Mossy Oak: So this is again, spells and magical effects. Totally legit cool. I also saw it on a great list about the best things to use for an artist, so wanted to check Yeah, that is
+[2:08:51] Ian Lurie: a good one. Okay, all right. Everyone else, you getting all your stuff up and running.
+[2:09:01] JP Sherman: Yep, just lost
+[2:09:03] Ian Lurie: track of the encounter, because it's what I do. Apparently, it kind
+[2:09:08] Mossy Oak: of looks like a little pterodactyl, right?
+[2:09:12] JP Sherman: Kind of cute. I i
+[2:09:24] Ian Lurie: Yeah, there we go. Okay, everybody, give me your initiatives, one at a time. 22, track. 20, whoa, okay, rikter's going before drag Mossy
+[2:09:45] Mossy Oak: 16, okay,
+[2:09:47] Ian Lurie: and Sango nine, okay. Has that ever happened before?
+[2:09:55] JP Sherman: No, nope. Okay.
+[2:10:09] Ian Lurie: All right, so the Red Dragon is nowhere to be seen just yet. This is exactly how you're arranged, right now. Rikter, you're right here. You're you guys are kind of drifting. Dragon is heading towards you as quickly as it can. You are not in melee with it, and in feather fall, you can't really move. But if there's anything ranged you want to do, or spells you want to cast on other people, you can definitely do that.
+[2:10:47] Rikterr Shep'ard: How far away from me is the dragon right now?
+[2:10:52] Ian Lurie: It is. Seems like every time I have to make this harder on myself, like couldn't just do a combat on the ground. My god,
+[2:11:08] Rikterr Shep'ard: wait, you said it wasn't even in vision right now, right? No,
+[2:11:11] Ian Lurie: no, the white dragon is right here. The Red Dragon is you can't see the red dragon right now because it's too far. You're down. You're it's, yeah, you're too low. Now, basically, there we go. It is only about 20 feet away from you. You can, you can feel the cold coming off of it right now.
+[2:11:37] Rikterr Shep'ard: You know, fuck it. You Only Live Once you guys see rikter reach into his pocket, he takes out a bunch of Raven feathers, and he starts putting together into the symbol of a pentacle, and he pushes his fingers out towards the dragon and casts banishment. I need the dragon to make a charisma 19 saving throw. That is yo.
+[2:12:08] Ian Lurie: That is my second worst, next to intelligence. That is my worst stat. I got an 18.
+[2:12:19] Rikterr Shep'ard: Hell, yeah, um, so it is sent to a harmless Demi plane for the duration of the spell, which is a minute.
+[2:12:33] Ian Lurie: Now, is this same round? Because legendary resistance is a reaction. I don't think this is the same round as when Mossy tried to
+[2:12:45] Mossy Oak: flip the screen vortex it Yeah.
+[2:12:50] Ian Lurie: So he starts to fade out, and you see him shrink a little bit, and then he goes and pops back into full form, but you did just burn another legendary resistance. So he's down two legendary resistances in the first, really, the first real round of combat.
+[2:13:11] Rikterr Shep'ard: Can't be bad at that. Nope.
+[2:13:13] Ian Lurie: No, you definitely can't.
+[2:13:17] Rikterr Shep'ard: That's his turn. Freckles,
+[2:13:19] JP Sherman: all right, Hunter's Mark, okay,
+[2:13:25] Ian Lurie: twice I don't save right? That just happens.
+[2:13:28] JP Sherman: All right. That is a 24 to hit
+[2:13:34] Ian Lurie: that hits.
+[2:13:36] JP Sherman: All right, one, two and six sided, okay, 615, 24, points of damage. Okay, that is a 30 to hit. Okay, is it? 812, 16 points of damage, okay, bonus action. Quick question, summoning Sura is a bonus or an action.
+[2:14:24] Ian Lurie: I believe summoning Surah out of the gym is an action, but you should have the info.
+[2:14:31] JP Sherman: I'm pulling that up right now. What's it called? Again? Ravens. Raven, yeah, okay. As a bonus action, okay, okay. As a bonus action, I am summoning sir.
+[2:15:02] Ian Lurie: All right, and where he wants, yeah, sir is gonna fall now.
+[2:15:08] Mossy Oak: Oh, does not have feather fall.
+[2:15:11] Ian Lurie: This is where you're at right now. Okay, you're really close to the ground. I mean, you guys jumped out, you guys popped feather fall really close to the ground, but you're still
+[2:15:22] JP Sherman: neck is in there? Would Sura be the fifth creature affected by feather fall?
+[2:15:26] Ian Lurie: No, because she wasn't out when you cast it fair.
+[2:15:29] JP Sherman: So I'm not going to do that. Okay, that's my actually. No, my bonus actually was Hunter's Mark. So we're done.
+[2:15:38] Ian Lurie: Okay, yeah, you guys are, and I'm just going to make sure I got this. You guys are 25 feet off the ground right now, so I'm going to put everybody at the same height. There we go. Okay, and then you're going to fall. I'm sorry. Just tell me again how far per round
+[2:15:59] JP Sherman: 6060. Feet per round 60.
+[2:16:01] Ian Lurie: Okay, so you'll be on the ground the end of this round. All right, the dragon. Let's see. I'm gonna start with old reliable dragon goes here that looks like a perfect spot. Gathers a huge breath. And exhales, and this burst of mind numbing cold comes out of its mouth. Let's see. How do I hit the most of you, I guess, yeah, I'm not gonna be able to hit track. No matter what I do. You know what I really need to hit track. I'm already alarmed about track.
+[2:17:21] Rikterr Shep'ard: Next time says Ian says he's on our side, I'm gonna call bullshit.
+[2:17:26] Ian Lurie: I want you guys to win. That might be different than I'm on your side.
+[2:17:30] Rikterr Shep'ard: You know what? That's very fair, yeah? Okay,
+[2:17:33] JP Sherman: so romantics, yeah?
+[2:17:34] Ian Lurie: Rikter and Drac looks like you two are gonna get hit, so you need to both give me Dex saves. DC, wow, I'm having difficulties here. There DC 19 deck save or con save DC, 19. Con save, oh, that's
+[2:18:03] Rikterr Shep'ard: going to be a Natty 20. For a 24 okay,
+[2:18:09] JP Sherman: that will be a 21 Okay,
+[2:18:15] Ian Lurie: so you each take 36 points of cold damage
+[2:18:18] JP Sherman: reaction, absorb elements.
+[2:18:20] Ian Lurie: Okay, so you take another you take a quarter, and then
+[2:18:25] JP Sherman: half and half, yeah, so quarter damage,
+[2:18:27] Ian Lurie: okay, so 36 so you take 18 and rikter, you take 36 and the cold is just like your bones feel brittle after that, like it's, it's, it penetrates your armor, it just gets into everything. It's unbelievable how strong, just how cold that felt. Sango and Mossy, even where you are like you immediately feel that frostbitten feeling. You don't take any damage, but you immediately feel, you know, a lot of your extremities go numb. The air just seems to crack all there's icicles around you for a moment, and then it all dissipates. Mossy, it is your turn.
+[2:19:07] Mossy Oak: Okay. Damn question. Creature is chasing after you? Terminal Velocity. Are they able to dodge? It's advantage on their decks.
+[2:19:21] Ian Lurie: It's a dragon, and it also, at this point it has it is no longer dodging it unfurled its wings, okay. But, yeah, these creatures were literally created for this. This is what they do to
+[2:19:39] Mossy Oak: try and fairy fire it or train shrinky Dink it. Wait. It's above us, right? Like we're are we into this?
+[2:19:47] Ian Lurie: It looks exactly like this, okay? Chasm at its widest point, it is about 60, about 70 feet.
+[2:20:07] Mossy Oak: At the widest point at 70 feet, yeah, are we down past the lip of this?
+[2:20:13] Ian Lurie: This is where you are, okay? And at the end of the round, you'll be on the ground.
+[2:20:19] Mossy Oak: Okay? You know what? I'm going to try and live up my dream. I want to cast shrinky dink on a dragon. Okay, so that is going to be a, where are you? Anybody else's eyes tired from Doom scrolling. It's going to be a con save 19.
+[2:20:50] Ian Lurie: I roll a 14 plus six for 20. Who
+[2:21:02] JP Sherman: needs sec, and
+[2:21:04] Ian Lurie: that's I
+[2:21:05] JP Sherman: don't, I don't think I could do disadvantage again.
+[2:21:13] Sangotross: Now, still your same turn, right? Yeah, yeah.
+[2:21:19] Ian Lurie: Okay, so Mossy, that's it for you. Sango, I'm
+[2:21:24] Mossy Oak: actually going to, if I, if I can, I'm going to first word, first level, bonus action healing, word on, on.
+[2:21:31] Unknown Speaker(s): Rikter, okay, don't, don't waste it.
+[2:21:33] Rikterr Shep'ard: Don't waste it, because I still have all the temps,
+[2:21:36] Mossy Oak: your temps. Okay, never mind. Oh
+[2:21:37] Ian Lurie: yeah, that's right. You guys have, like, just
+[2:21:39] Sangotross: gonna bring that up, yeah, drag, you probably still have those two, right, yep. So any other bonus action you
+[2:21:51] Mossy Oak: want to do? Mossy, no,
+[2:21:53] Ian Lurie: all you go ahead.
+[2:21:56] Sangotross: Okay, cast darkness, okay? Myself basically on the ear. Just has it on the
+[2:22:10] Mossy Oak: dragon's head so it has some depth reception. Come on, it
+[2:22:14] Sangotross: gets to make a save if I do that. And that's not,
+[2:22:16] Ian Lurie: oh, how many, how many? What's the radius?
+[2:22:19] Unknown Speaker(s): I'm looking that up right now.
+[2:22:23] Ian Lurie: I have to create a special Mini, I think just a dark,
+[2:22:28] Sangotross: 15 foot radius, right? So that's 30 feet total, right? Or whatever. Yeah, got it? How far away from the guy am I? Did I take it? This is a daytime, right? Oh, yeah, you are
+[2:22:59] Ian Lurie: about 5060, feet. At most. Okay, so you guys are all enveloped in darkness, by the way. Sorry, no, you're not just saying. You just me, this
+[2:23:20] Sangotross: is probably stupid, but I'm going to shadow step closer to him.
+[2:23:29] Ian Lurie: Okay, how far can you
+[2:23:34] Sangotross: I can only go to a place that's in dim light or darkness. So I think the area that I created around myself is probably the range that I can move.
+[2:23:47] Ian Lurie: There is also some shadow here you can see, in fact, I didn't, yeah, I'm not doing realistic lighting right now, because we wouldn't be able to see a damn thing because of the way this thing works. But here I can, at least, there you go, so that's you can see now where you have some dim light.
+[2:24:06] Sangotross: Okay, well, I want to be sort of in front of it, so that it has to see my darkness like it's it obscures his vision of the the rest of RBG, okay.
+[2:24:23] Ian Lurie: I see what you're doing. What you could do then is, since you are actually falling at this point, you could, if you wanted to wait until you get here, this round, and then step to here, and that would then open your darkness right about there. Everyone else would be on the ground.
+[2:24:54] Sangotross: Could it and is that enough to get me what I do? Shadow step to the top of that ledge.
+[2:25:04] Ian Lurie: You could get to there,
+[2:25:07] Sangotross: yeah, something like that. Just, yeah, just, so I'm sort of on top, but yet trying to obscure some of those vision.
+[2:25:14] Ian Lurie: Now, if you're up there, then the this is going to get really tricky. If you go up there, then you're not gonna, then you won't be able to hide everybody.
+[2:25:30] Sangotross: Sure, sure. Yeah, no, I got you, I don't think I'll be able to hide everybody anyway. Yeah, just want to have an advantageous position. So, yeah, so
+[2:25:42] Ian Lurie: that's so that's what it would look like. Then,
+[2:25:44] Sangotross: okay, so what about can I get to the to the right of that, basically just in front of where I'm at now, but on the ledge, you mean like there, no, there, no to the left, like, Yeah, something like that.
+[2:26:14] Ian Lurie: You can yes, okay, darkness, the darkness is centered on you, right? Well, wait, no, because then it's sorry, um, no, because then you're not in dim light. The dim light is right there, right? So that's that, this is where you could be, okay?
+[2:26:36] Sangotross: So I've got my darkness, and I'm falling, and I need that darkness to touch an edge that I can then shadow step into.
+[2:26:47] Ian Lurie: I see what you're saying. All right, where do you want to? Where do you want to end up?
+[2:26:50] Sangotross: Just a little bit more, a little bit more, right? About that?
+[2:26:54] Ian Lurie: Okay, all right, so we're gonna have you at the end of this round. You will no longer be flying, and you're not there yet, but your darkness
+[2:27:09] Sangotross: will be right there. Okay? And then I will do a, I will throw a dart at it, okay? That is a, I think it's a 10 to hit
+[2:27:34] Ian Lurie: that does not hit.
+[2:27:35] Sangotross: No, sorry, sorry, 19, okay,
+[2:27:39] Ian Lurie: that just hits. Okay,
+[2:27:43] Sangotross: and this is going to be lane that is three points of damage. Okay.
+[2:28:07] Ian Lurie: How do you want it? No, okay, okay, it's gonna take a legendary action.
+[2:28:20] Sangotross: Oh, sorry, that's eight damage. My bad.
+[2:28:33] Ian Lurie: Legendary action. Everybody give me a DC, 14, con save,
+[2:28:50] Rikterr Shep'ard: 2819 natural, 24 a total of 2923 fine
+[2:29:01] Sangotross: rikter, over there, showing off. That would
+[2:29:04] Ian Lurie: have been really cool. But no. All right.
+[2:29:09] Rikterr Shep'ard: Richter, ooh, my turn. It is your turn. Am I on the ground?
+[2:29:16] Ian Lurie: Yet you are on the everybody's on the ground now. Okay, awesome.
+[2:29:22] Mossy Oak: How just tried to attack me, right? That counts your reaction.
+[2:29:31] Ian Lurie: It just tried to attack you. Yeah, yes, sure,
+[2:29:37] Mossy Oak: and it's within, it's within 30 feet, right now. No, no, okay, all right,
+[2:29:43] Ian Lurie: go ahead. Jamar,
+[2:29:46] Rikterr Shep'ard: how far is rikter from sangos? Protective darkness.
+[2:30:01] JP Sherman: You are about
+[2:30:07] Ian Lurie: 40 feet, and he's up a bit.
+[2:30:10] Rikterr Shep'ard: Would rikter have to climb up there to be inside of it?
+[2:30:15] Ian Lurie: You'd have to climb up at least to like there. So you'd have to, yeah, you can't get there in one round you, because you could go, you could run along the ground to there, which is 30 feet, and then you'd have to climb up. What? 12345, you'd have to climb up about 10 feet, which would cost you 20 feet of movement because you're going up. It's not really a climb. You won't have to make an athletics check or anything, but it's a clamber up here, basically,
+[2:30:51] Rikterr Shep'ard: all right, so cool. Then rikter is going to start doing that. And also, right now, my walking speed is only 20 because I'm one strength away from a grown his armor, not getting me 10 feet of movement, okay,
+[2:31:08] Sangotross: Rikter can see through my darkness, right?
+[2:31:11] Rikterr Shep'ard: Oh, yeah, I've got devil sight. Okay, all right, so
+[2:31:17] Sangotross: DM Florida clarity when I threw that Dart. I threw it from within my darkness, yeah, and if, if this white dragon can see through darkness, then I would not have had advantage.
+[2:31:33] Ian Lurie: Cannot see in magical darkness.
+[2:31:35] Sangotross: Okay, that's what I was trying to clarify. I
+[2:31:45] Ian Lurie: Yeah, no, as blind sight, but
+[2:31:47] Sangotross: Okay, so then I get advantage, because it can't see my attacks coming, and Rikter would too once
+[2:31:53] Unknown Speaker(s): darkness, yeah, or,
+[2:31:56] Sangotross: technically, if he's on the other side of the darkness, he could still see through it, and the dragon still can't see him.
+[2:32:02] Ian Lurie: Yeah, not there yet, but
+[2:32:07] Rikterr Shep'ard: all right, how far is the dragon from Rikter? Right now.
+[2:32:12] Ian Lurie: Right now. The dragon is about 50 whoops, no not 41 tiles, hold on, sorry. 35 over and I will get faster at this. Guys, sorry, working in two dimensions at once. No worries, man, 10 feet up. So, 40 feet over, 10 feet up. So, all right, I don't know it's something like, it's like 42 feet or something.
+[2:33:04] Rikterr Shep'ard: It's within what I want to do, thank goodness. All right, so bonus action, Rikter is gonna hex blades curse the dragon. All right, and then for his Lights, Camera Action, we're going to hit the bad bugger with three eldritch blasts, all right. First one is a 27 to hit, bad hits. Second one is a 29 to hit, okay? And the third one is a 2040,
+[2:33:45] Ian Lurie: good God, all right, they all hit, yay.
+[2:33:51] Rikterr Shep'ard: So that's going to be, that's going to be 27 points of damage. Ian, everyone
+[2:34:04] Ian Lurie: here is immune to fear, right? Like no one can be scared under any circumstances.
+[2:34:09] Mossy Oak: Um, I can absolutely be scared, okay,
+[2:34:13] JP Sherman: I can totally be afraid of things,
+[2:34:15] Mossy Oak: okay, yeah,
+[2:34:17] Rikterr Shep'ard: no. Rikter's immune to the frightened.
+[2:34:20] Mossy Oak: Where is Rikter in relation to drack and I? Right?
+[2:34:26] Rikterr Shep'ard: Looks like about, yeah, close to drack, but a little bit farther away from the a Mossy.
+[2:34:32] Mossy Oak: Okay. Is that more than 10 feet away? Yeah, probably, yeah. Okay, then, yes, I can be feared. All right on,
+[2:34:47] Ian Lurie: so on. It's legendary. It's a legendary action. And going to cast fear cone. How big a cone? Hold on. I gotta see how big a cone. Oh, it's not that big a con. It's not that exciting. I got way too excited there for a second. I was like, I'm gonna scare you all. No, he's not. He can't do that. Instead, he will use his pounce action. Don't worry, he doesn't actually land on top of you. Know, you don't have to, like, suffer from PTSD or anything, but he does make an attack on you.
+[2:35:58] JP Sherman: Is that Rikter Or Drac? That's
+[2:36:00] Ian Lurie: track. I'm actually my claws are actually right over you. Can you see yourself there?
+[2:36:07] JP Sherman: I thought I was, I thought I was like 10 feet behind Rikter,
+[2:36:12] Ian Lurie: no, that's Mossy. This is you.
+[2:36:16] JP Sherman: Oh, that's me, yeah. Oh, shit,
+[2:36:18] Ian Lurie: you're the dude with the bow. Remember? Shit, you haven't gotten a move yet. It doesn't. It doesn't make that video, right, right? I get a 21 to hit.
+[2:36:33] JP Sherman: That's a miss. What
+[2:36:37] Ian Lurie: the hell? Oh no. Wait. Oh yeah, no plus 11, yeah, did not rope generally, great. All right. Drag now it is your turn.
+[2:36:55] JP Sherman: Okay, this thing
+[2:36:58] Ian Lurie: is flying around above you. You can feel the cold, just like coming off of its skin. Almost feels like it should be hurting you right now it doesn't quite and the wings are buffeting you, and you can see what you see from where you are, okay?
+[2:37:20] JP Sherman: I am going to use Zephyr strike, okay, which gives me 90 which adds 30 feet of movement to my already 60 feet above it. And I am going to zip up to the top of the mesa,
+[2:37:40] Ian Lurie: where, which?
+[2:37:42] JP Sherman: On the right hand side. I'm on the opposite side of the darkness.
+[2:37:46] Ian Lurie: Okay, so, and what's your movement? My
+[2:37:49] JP Sherman: movement is 60, okay, plus 30, with the Zephyr strike, right?
+[2:37:54] Ian Lurie: So you can go. Yeah, so that's just to get to the base is, we'll say 20, and then going up, you're taking that double movement penalty.
+[2:38:17] JP Sherman: You just have the climb speed.
+[2:38:21] Ian Lurie: And what's your client? Speed, 60. Oh, all right. Well, then no problem, you just jet right up there.
+[2:38:31] JP Sherman: There you are. Okay, so that's my bonus action.
+[2:38:33] Ian Lurie: Okay, so
+[2:38:35] JP Sherman: I'm not summoning Sura again this round. I've already got hires mark on them, so I'm gonna pop them twice with the bow. Okay, all right, that is a 31 to
+[2:38:47] Ian Lurie: hit. Yeah, that that might hit,
+[2:38:50] JP Sherman: and that is a natural 20 to hit. Yeah,
+[2:38:53] Ian Lurie: that definitely hits. Okay, guys are making me sad.
+[2:38:59] JP Sherman: Six plus eight is 14. Plus three is 17 points of damage. Yeah, all right, that's none. No, it's eight and five. Eight plus five is 13, doubles 26, plus 834, points damage. That is my that is my
+[2:39:29] Ian Lurie: round Ramath racks the White looks displeased at this total element. And thankfully, it's his rant. It's his turn.
+[2:39:39] Mossy Oak: Now. Oh, cool, cool, cool, cool. I'm friend, right?
+[2:39:44] Ian Lurie: No, nobody is okay. He his breath weapon did charge up again, so I'm gonna I'm yeah, here's two of them. Yes, he knows you're there. He just doesn't know. And he gets both Sango and drag in the cone. So you guys both need to give me DC 19 con saves.
+[2:40:39] JP Sherman: 2030, 20. Okay,
+[2:40:47] Sangotross: 17, okay,
+[2:40:50] Ian Lurie: so Sango, you take 72 points of cold evasion for half. Okay, so you take 3636
+[2:41:07] Sangotross: and then I will cast absorb elements.
+[2:41:11] Ian Lurie: My god, you guys are both so annoying. That's 18, okay. And then drag you made your save. So you would take 36
+[2:41:22] JP Sherman: All right, I'm going to burn another, absorb elements,
+[2:41:26] Ian Lurie: okay, so you take 18, all right, and then I go up higher. Um, okay, Mossy, your turn.
+[2:41:47] Mossy Oak: Okay, how far up near is that thing
+[2:41:51] Ian Lurie: there's currently 20 feet up from the top of the mesa, so it's about 50 feet up in the air. Okay, okay, and you're right here. So what
+[2:42:12] Mossy Oak: I think then I'm going to go for things. Got great decks? Is that worth it?
+[2:42:21] Ian Lurie: It does not have great decks. Okay, white Dragon's are not they're the least formidable they have. Its main stat is its con, and second is its strength. You know that?
+[2:42:37] Mossy Oak: Well, I'm gonna try and fairy fire it for my action,
+[2:42:41] Ian Lurie: all right? And what's the range that
+[2:42:43] Mossy Oak: means is to make a Dex 19,
+[2:42:45] Ian Lurie: okay, what's the range on fairy fire,
+[2:42:48] Mossy Oak: that is going to be within 60 feet, and it's a 20 foot cube,
+[2:42:53] Ian Lurie: okay, you don't quite make it. I just drew a
+[2:43:01] Mossy Oak: Okay, so if I use some partial movement, scurry on up into the shadow near the darkness. And my buddy here.
+[2:43:12] Ian Lurie: Yeah, you can even if you just go like to Right, yeah, if you go right to there, then you can reach him.
+[2:43:19] Rikterr Shep'ard: And if at any point Mossy
+[2:43:20] Mossy Oak: you put, I can't see him from the darkness.
+[2:43:23] Ian Lurie: You can't see him through the dark, not unless you use true sight.
+[2:43:27] Sangotross: It isn't very fair, like a an area effect.
+[2:43:30] Ian Lurie: Anyway, it is an area effect. Yes, you do have to see where you're putting it. But, yeah,
+[2:43:36] JP Sherman: Oh, gotcha.
+[2:43:39] Mossy Oak: Okay, so I'm going to screw up next to the darkness to the side, okay, and then going to pop up a fairy fire
+[2:43:59] Ian Lurie: right at the edge of the darkness, you pop up a fairy fire, okay? And I get a deck, save, deck, save 19. No way in hell no. Did not make fantastic.
+[2:44:13] Mossy Oak: All right, then I'm going to use the last 20 feet of my movement to get up into the rocks here, and I'm going to hide.
+[2:44:22] Ian Lurie: Want to be like, right there seems like a good hidey hole, yeah. Okay, what's your Give me your stealth check,
+[2:44:29] Mossy Oak: yep, yep on it. 25 Yeah.
+[2:44:40] Ian Lurie: All right, let's see I have another take my next legendary I see this the problem of me going up in the air and being all smug. Oh, no, wait, nope, nope, it's good, okay? Mossy and Sango, you need to give me DC, 14, charisma saves.
+[2:45:35] Sangotross: That's a natural one. Okay?
+[2:45:37] Mossy Oak: 15, okay,
+[2:45:40] Ian Lurie: Sango, you are frightened. Can i
+[2:45:44] Mossy Oak: Silly question? Can I silvery barbs his yes, no saving throw?
+[2:45:50] Ian Lurie: Yes, well, but you can't see him.
+[2:45:53] Mossy Oak: I can't see him. Never mind. Yeah,
+[2:45:55] Ian Lurie: I'm also not sure silvery barbs works on saving throws, but it
+[2:45:59] JP Sherman: does. I just checked okay.
+[2:46:03] Ian Lurie: So you Well, when we get to you, you have to, you have to do something. Oh, and it's your turn. So Sango, all you can do at this point is you can move. You have to take a dash action and get as far away from the dragon as possible until you are in a place where it does not have line of sight to you, and then you can make another save. Okay?
+[2:46:36] Sangotross: So instead of all that, I would like to use my stillness of mind to end the frightened condition,
+[2:46:44] Ian Lurie: is that an action or a bonus, or
+[2:46:46] Sangotross: that's an action? Okay, that's an action, all right.
+[2:46:48] Ian Lurie: So then you stay there
+[2:46:50] Sangotross: and it doesn't see me, so it probably might think I'm
+[2:46:55] Ian Lurie: it actually has no idea whatsoever. This guy's so scary. I also only have an eight intelligence.
+[2:47:07] Sangotross: Okay, so did that. Then I'm going to use my thingamabob, my bonus action Archer. Story form to shoot a thing at him.
+[2:47:30] Ian Lurie: A thing, okay? It's a describe this thing.
+[2:47:34] Sangotross: Ray of light, okay, it's like radiant aim for its head. And that is a 23 to hit that hits. And that is 10, uh, radiant damage, right? And then let's see where's Rikter rikter's down there. Yeah, I think that's a good place for me to stay for now. Okay, all right, Rikter, your turn. All right.
+[2:48:27] Rikterr Shep'ard: How high up is the ledge that sang goes on right now?
+[2:48:35] Ian Lurie: I don't know. It's pretty freaking high. It's like 20 feet up. I believe.
+[2:48:42] Rikterr Shep'ard: All right, then Rikter would like to Misty step his ass up there.
+[2:48:48] Ian Lurie: Okay, you Oh, that's right. You have double sight. Okay, so you're just gonna pop up, like, right here.
+[2:48:53] Rikterr Shep'ard: Yes, sir, yeah. And then I'm gonna block a block, a blocker, the dragon with some eldritch blast
+[2:49:03] Mossy Oak: Vantage at bennage.
+[2:49:05] Ian Lurie: Oh, yay, that. That whole Warlock Paladin combination is actually any combination with Warlock. You don't want to be a pure Warlock, but the combination is really, really good because it just gives you range,
+[2:49:21] Rikterr Shep'ard: all right, so the first hits going to be a 27 okay? And then we're going to get a,
+[2:49:32] Sangotross: you get advantage on those, right? Yeah,
+[2:49:33] Rikterr Shep'ard: that's what I'm doing, 30 to hit. And then
+[2:49:41] Ian Lurie: I'm guessing that wasn't a natural one from the way that's a crit, baby. Okay, roll those first two.
+[2:49:49] Rikterr Shep'ard: Yes, sir. I and then that's going to be 56 points of damage.
+[2:50:16] JP Sherman: Okay, nice. He felt that,
+[2:50:25] Rikterr Shep'ard: and that is all of rikter's
+[2:50:27] Ian Lurie: turn. Alrighty, okay, Mossy Rikter and Sango, all need to give me DC 14 con saves, what were they? Con saves, DC 14.
+[2:50:59] Rikterr Shep'ard: Sango, you get a plus five because you're in 10 feet of me.
+[2:51:02] Unknown Speaker(s): That 21 for Sango, it's
+[2:51:08] Rikterr Shep'ard: going to be a 28 for Rikter, yeah.
+[2:51:19] Mossy Oak: Okay, 15.
+[2:51:21] Ian Lurie: Okay, you save all right, you feel this wave of cold come over you, but then it it passes all right, drag, your turn.
+[2:51:31] JP Sherman: Okay, I'm gonna do something fun, which in
+[2:51:38] Ian Lurie: scenarios coming from drag always strikes terror in the DMS heart. Go ahead.
+[2:51:43] JP Sherman: Ensnaring strike okay, if I hit him, wrap around his body. It's a strength saving throw of 19, okay, that is a 26
+[2:51:58] Ian Lurie: to hit. All right. That hits.
+[2:52:02] JP Sherman: He's a DC 19 strike safe.
+[2:52:08] Ian Lurie: He gets a 14 plus six, so a 20, so he saves all right? Vu, yes,
+[2:52:17] JP Sherman: but 18 points of damage. Ow.
+[2:52:21] Ian Lurie: Okay, anything else?
+[2:52:29] JP Sherman: Bonus action, nature's veil. I'm going to go invisible, okay, and I'm going to scooch closer. To the edge of the cliff, all right, oh no, on the northern side. Yep, there, yep, right there.
+[2:52:58] Ian Lurie: All right, it is, wow, I'm really this is not going my way. I'm kind of annoyed don't have double sight, but I do have blind sight. I think I'm just gonna set myself right there. The breath did not reset this round unfortunately. So it's time to get Randy. That's what I'm gonna do. All right? Rikter, these are all on you. I get a 29 oh yeah, that hits a 22
+[2:54:01] Rikterr Shep'ard: that hits
+[2:54:02] Ian Lurie: and a 16 No. So you take 36 points slashing and 16 points cold. Ian's I'm sorry I almost moved the wrong guy. Go to
+[2:54:54] Sangotross: do I get an OP attack then
+[2:54:56] Ian Lurie: no, because he's flying, and flying creatures do this. I'll have to look up what it's called Exactly. But they do an attack where you can't, okay, so fly by, I think, is what it's
+[2:55:07] JP Sherman: called. It's the fly by, yes, super cool.
+[2:55:10] Ian Lurie: I I have pissed off my DM so many times with that that he isn't he. There is no combat I go into anymore where he doesn't have a million archers just all aimed at me. He just ping cushions me as soon as the fight starts, okay? I end up there, Mossy, it's your turn, and you actually cannot see. You know where he is, but you cannot see him from where you are, okay?
+[2:55:40] JP Sherman: He's being stealthy. You can't see me. He's hiding, covers his eyes and says he can't see.
+[2:55:47] Sangotross: It big. He kind of, he kind of looks like a giraffe hiding behind
+[2:55:50] Ian Lurie: a tree. He does, don't, don't hurt his feelings. Little known fact, But white Dragon's are extremely sensitive, because they know that they're the low end
+[2:56:01] Mossy Oak: of the reaction to mock him, okay, yeah, I can't see him Correct.
+[2:56:16] Ian Lurie: You know where he is. So you can run up there if you want. You can do all sorts of stuff. You don't have to find him, but if you want to do anything, it requires vision. You have to move. Okay?
+[2:56:29] Mossy Oak: So with that, then I have a gist of where he is. I'm going to climb up the edge, peak my my little snoot over. Okay? And we are going to go with, you know, a fire bolts always in fashion. We're going to try and fire bolt in the vicinity of where he is, okay?
+[2:57:00] Ian Lurie: I'm not going to give him any cover. I don't think that really
+[2:57:05] Mossy Oak: too big. 28 to hit.
+[2:57:07] Ian Lurie: Yeah, that it's all right.
+[2:57:09] Mossy Oak: And now, now the bounty of D 10s, yes, a that's a great rule, 29 points of fiery damage. Christ and I will use my bonus action to tuck myself in a little nook. Keep my stealth up, because if I lose my con, we lose our fairy fire.
+[2:57:38] Ian Lurie: So I'm going to have you go back down then, because I don't know where else you would go that you could stealth.
+[2:57:44] Mossy Oak: Yes, exactly what I meant. Yeah,
+[2:57:46] Ian Lurie: he does figure out where you are when you attack. So yes, oops, you fall to your desk.
+[2:57:53] Mossy Oak: How many times you wanted to do that, sir, okay, seven on that.
+[2:58:01] Sangotross: Do you still have the the feather follow up,
+[2:58:04] JP Sherman: no, the spool, the spell ends once you hit the ground. Oh,
+[2:58:13] Mossy Oak: and the pesky tabaxi fell off the cliff. The end to deuces. Another.
+[2:58:22] Ian Lurie: Freezing burst. So again, Mossy Rikter and Sango, all you give me. DC, 14, con saves,
+[2:58:35] Mossy Oak: okay, 3016, natural, 20.
+[2:58:42] Ian Lurie: Okay, I'm gonna, I
+[2:58:44] Mossy Oak: built back
+[2:58:46] Ian Lurie: that particular power. Can just go fuck itself. All right, Sango, your turn. And I think we'll, we'll probably end at the end. We'll end after, sangos done, and we'll pick up here. Next game.
+[2:59:03] Sangotross: Okay, is there, uh, this? Can I walk around this ledge to get to him? How does that? Yeah, okay.
+[2:59:15] Ian Lurie: Darkness comes with you, right? Yep, I'm not.
+[2:59:18] Mossy Oak: People won't see that coming. I'm not going
+[2:59:21] Sangotross: to move it. So
+[2:59:22] Ian Lurie: if you go to here,
+[2:59:26] Sangotross: well I will be on top of that rock to his left, kind of a thing, my within punching distance of him. No, not even his wing.
+[2:59:41] Ian Lurie: I mean, I guess you know what? I guess you can punch his wing. Sure? Why not?
+[2:59:45] Sangotross: Okay, that's what I was wondering.
+[2:59:47] Mossy Oak: Punch him in the wing.
+[2:59:48] Sangotross: Then pop, pop. Let's see. I'm gonna give
+[2:59:53] Ian Lurie: him a little bonus, because you know the wing is flapping.
+[3:00:00] Sangotross: That is a 22 to
+[3:00:02] Ian Lurie: hit that still it's okay. That is a
+[3:00:12] Sangotross: that is a 12 and then con say for stunning strike. Ian a con 19, yeah,
+[3:00:28] Ian Lurie: he makes that okay.
+[3:00:31] Sangotross: And then second attack is a 26 to hit, yeah. Con save again, and nine damage.
+[3:00:41] Ian Lurie: He makes the save I'm switching. I switched to my better dice, damn it.
+[3:00:46] Sangotross: Okay, and then not the
+[3:00:49] Ian Lurie: curse dice that you sent me as a present for Christmas.
+[3:00:54] Sangotross: Wait, the blue one is hasn't been working for you. It has not that sucks.
+[3:01:01] Ian Lurie: Yeah, I'm sure you're very sad.
+[3:01:06] Sangotross: Then, oh, and then starry, my starry Archer, that is a 30 to hit that also hits. And that is 10 radiant, okay, all right,
+[3:01:26] Ian Lurie: so you do all this damage to it, and it's, he's starting to look, he's starting to look pretty beat up. And you guys are like, you're thinking, all right, you know what? We're gonna be able to do this. And just as you're about to start the next round, you hear the the wing beats of an enormous dragon as a shadow starts to fall over the battlefield. It's not here yet, but you know that in the next couple of rounds you're going to be fighting vermathrax.
+[3:02:08] Mossy Oak: Totally chose
+[3:02:10] Ian Lurie: the Crimson flame, but he ain't here yet. He still got some time to mop up the white dragon.
+[3:02:17] Rikterr Shep'ard: See that right there? That's some wand type shit. I need you to be Ian's fucking awesome, yo, alright guys.
+[3:02:32] Ian Lurie: Tyler Jordan, I think I thought we could all do with just, you know, beating up some Dragon's so that little while now,
+[3:02:40] Mossy Oak: this is a small one to fight, name a bevino
+[3:02:45] JP Sherman: back ice dragon feels good to beat up.
+[3:02:48] Ian Lurie: You know, I didn't think of that, but yes, you're fighting an ice dragon, that's true, and you're beating the snot out of it. So that's that's good,
+[3:02:58] JP Sherman: that's to myself here.
+[3:03:07] Ian Lurie: All right, okay, we, if you guys want to, we can, I can see what schedules like, and see about maybe playing next week as well.
+[3:03:19] Sangotross: Good work Yep, it worked for me.
+[3:03:23] Mossy Oak: Let me see, I would like to slay dragons instead of fighting Nazis. That's a nice reprieve.
+[3:03:29] Ian Lurie: So we would do the second and then the sixth team that would get us back on schedule. And then I'm gone for three weeks because I'm going to be in Chile. So yeah, there All right.
+[3:03:42] Rikterr Shep'ard: Cool. yeah. Second, 16th and then 16th again.
+[3:03:45] Ian Lurie: Yeah. Cool. All right, awesome. Everyone see you guys later. Yes, stay safe.

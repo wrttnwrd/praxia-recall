@@ -1,0 +1,867 @@
+# Ian's Meeting Notes
+# Otter recording 2025/07/21 17:00:39 (2h 53m) id 10B2XO70on0qY8ifas4zzK_1Jwc
+# https://otter.ai/u/10B2XO70on0qY8ifas4zzK_1Jwc
+# Speaker-attributed transcript, verbatim. Raw source for the card at /items/otter/2025-07/2025-07-21-rbg.md
+
+[0:00:42] Unknown Speaker(s): Hey, James, can
+[0:00:57] Ian Lurie: you hear me? Okay, yep, okay, cool.
+[0:01:02] James Svoboda: I don't think my son knows how to change a tire either. He's only 17, so
+[0:01:08] Ian Lurie: well, and neither could any of Harrison's stoner friends where he works. So,
+[0:01:16] James Svoboda: yeah, I try to take every opportunity I can to show my son things like a little bit at a time, like I changed I showed him how to change the air filters in the car about a month ago, how to program the garage door, remotes and openers. You know, my thinking is that he's probably not going to remember how to do it, but just going through it the first time. Like, yeah, he's been there before he can. Plus, you know, I keep telling him, like, and the air filter one, I didn't know where it was in my wife's car, so I just YouTubed it, and we went through that together. And so
+[0:02:00] Ian Lurie: that's I was kind of surprised he didn't just do that, but he may have actually just kind of wanted to hang out so and I was between calls, it was only 20 minute drive. So
+[0:02:13] James Svoboda: he's, is the did he get a houseboat? Did you say, yeah, yeah, he
+[0:02:16] Ian Lurie: and his girlfriend live on a houseboat.
+[0:02:21] Unknown Speaker(s): That's pretty cool.
+[0:02:23] Ian Lurie: Yeah, it's pretty nice. Um, it could be
+[0:02:24] James Svoboda: 25 in the Seattle area and on a House vote. I also want to stand not too bad. So I will be gone two weeks from tonight.
+[0:02:43] Ian Lurie: Okay, that'll be the I was going to talk to everyone about that anyway, because it's going to be the Monday after ride the hurricane. So I'll be pretty tired, so I wouldn't mind missing one. Yeah,
+[0:02:55] James Svoboda: I'll be in Europe
+[0:02:57] Rikterr: or two weeks
+[0:03:00] James Svoboda: we were going to take so my father in law's his health is not great. He's had strokes and cancer. So we decided, you know, January, we're going to take the family trip to him and mother in law all that our kids and my my daughter's boyfriend, and then he just decided about a month ago he doesn't want to go because he's comfortable at home and just he's got anxiety that like prevents him from doing things like he talks himself out of doing things.
+[0:03:37] Ian Lurie: Yeah, I Yeah.
+[0:03:39] James Svoboda: I bought three tickets to a twins playoff game last fall, like they had beat the Yankees for the first time in 19 years, or something like that. And being a Minnesota Twins fan, that's like, anytime we beat the Yankees, we always feel good about that. So I bought a ticket to a playoff game, and for him, me and my son, and then he just decided he didn't want to go. And I was like, Oh, could have been a great memory for my son. And we had fun anyway. But
+[0:04:10] Ian Lurie: yeah, yeah,
+[0:04:14] James Svoboda: he's gonna stay here. Hey, Jamie,
+[0:04:21] Mossy Oak: go sports team.
+[0:04:33] Ian Lurie: So I did actually manage to make a map. If we need it, might not need it. We'll see I actually I end.
+[0:04:52] Mossy Oak: I gotta get better at reading my character sheet. I can make two experimental elixirs a day now. Aha,
+[0:05:00] Ian Lurie: you both did your leveling up stuff?
+[0:05:02] Rikterr: Yep,
+[0:05:02] Mossy Oak: cool. Yep, sure did.
+[0:05:06] James Svoboda: Sango is one level away from his is what he wants in life, which is to not feel the effects of old age. That's among level 15, not game breaking. But
+[0:05:28] Ian Lurie: I wonder if that Reese, like, do you reset? Does that mean he's going to be, he's going to feel like a teenager forever? Or
+[0:05:34] Unknown Speaker(s): yeah, oh,
+[0:05:38] James Svoboda: he might. He might, like, I don't know, maybe he'll go partying with Drac or something. What else?
+[0:05:44] Ian Lurie: I think you know what? That's not an age thing, and that might, that might do serious damage.
+[0:05:48] Mossy Oak: I think Mossy is the youngest one that will kill her. Actually, no, how old is Richter
+[0:06:01] Rikterr: or no? How long have we been playing Ian in the game,
+[0:06:07] Ian Lurie: four years. Oh, in the game. In game, yeah. In game. How
+[0:06:11] Rikterr: long has passed? In
+[0:06:11] Ian Lurie: game, yeah. In game, two years.
+[0:06:14] Rikterr: Two years has passed. So he's 2728
+[0:06:18] Mossy Oak: No, I think we're the same age.
+[0:06:22] James Svoboda: Uh, uh, five years. RBG, past five years in Memorial Day, right? Jamar, you're like, six months behind us or something like that.
+[0:06:36] Ian Lurie: Yeah, that's why I was guessing
+[0:06:37] Mossy Oak: level three when you joined.
+[0:06:41] Rikterr: No everyone was level six. My bad. It's
+[0:06:48] Ian Lurie: actually been longer in game. I just realized it's it's been like five or six years, but
+[0:06:54] Rikterr: okay, then he's 30.
+[0:06:56] Ian Lurie: Yeah, because we had a bunch of downtime,
+[0:07:00] James Svoboda: I keep thinking it's like six months, like maybe, yeah,
+[0:07:05] Ian Lurie: it's all happened very quickly. You all wanted my level
+[0:07:08] James Svoboda: in my mind, my characters have not had another birthday yet.
+[0:07:11] Ian Lurie: Yeah, somebody went from level three to level 16 in a matter of months.
+[0:07:17] Mossy Oak: Dank was insisting he come say hello to tanker. You
+[0:07:22] Ian Lurie: wearing a bell,
+[0:07:23] Mossy Oak: a bell and a bow tie?
+[0:07:25] Rikterr: Nice.
+[0:07:27] Mossy Oak: He's a dapper man, and he likes to use his belt communicate.
+[0:07:33] Ian Lurie: Both my pets are utterly gross right now. So I mean, ISIS is always gross. She's just kind of gross, and we love her for it. Alfred had to have six incisors pulled on Friday, so he's being kind of droopy and pathetic. But also keeps trying to, he keeps licking the floor and trying to eat random stuff because, of course, he can't have his normal snacks, and it's all very sad. Ian, he got a hold of something he shouldn't have last week, and his normal response would be to turn his head away and then clamp his jaws down so he couldn't get it out of his mouth. But of course, he has no lower incisors now, so it just kind of went and came out. And he was he looked really insulted. He was like oak. All right, so last game, I posted the recap, but last game, there was a ton of research and kind of prep stuff you had, I believe, decided you were going to go and meet with animus and see about going to the elemental plane of fire, because you learned that Tiamat is a prisoner on Avernus, which is the top level of the Nine Hells. She's actually in a prison called Tiamat Slayer. She was put there by Asmodeus, after she kind of failed to do some stuff for him, as near as you can. Well, actually, no, sorry, you don't know why she was put there. She was previously from there. She was previously in charge of Avernus, but another. For some reason, she was demoted from that role. She does still. She is still a prisoner in the lair. You know, you can't teleport to Avernus. You have to either plane shift or gate to get there. And you know that to do a plane shift would require an incredibly powerful wizard. In fact, you only know of one who'd be able to do it, and that's Becca czar. The other way to do it, sorry, the only way to do with gate is with an incredibly powerful was you're not sure plane shift would even work. The other way to do it is to sail up the hell grill river, the river that flows backwards to this place called hells falls, follow those down to the river sticks, and then travel along the river sticks into Avernus. Um, regardless, you know, no matter what Avernus is, actually a front in something called the blood War, where demons occasionally try to invade and take over the top levels of the Nine Hells. So that means all the devils in Avernus are always very well armed, very well armored, and totally prepared to repel invaders. So you're not just going to stroll in there. There is something called a badge of xeria. And with one of those badges, you can walk around badge of zariel, sorry. And with one of those badges, you can walk around Avernus as a mortal, and no one will bug you because it is, there are plenty of mortals walking around Avernus. It's just they have to have specific permission. So you need something to get one of those badges is really difficult. You could, you know, try to steal one off a devil somewhere, which would be incredibly dangerous and maybe impossible. There were a couple other sources. And then you also found out that the fire giant, demi god Surtur has a couple of them, because he has hunted devils for some reason in his life, and has a great dislike of Tiamat. So you could go to the elemental plane of fire. And I think this was the plan you decided on, find searcher, talk to him and see if you can get him to give you one of the badges.
+[0:11:53] Mossy Oak: I mean, he hates team up. We hate team up. This just feels like a future friendship. I
+[0:12:03] Ian Lurie: Yeah. And you also realize that the best way to do that probably is to just go talk to go talk to Animus. Now, there were a couple of things that happened towards the end of the game. One is Mossy. You reached out to nick them and sent him a note saying, Yeah, and you received a response. Apparently, he's in. You don't know exactly for what, but he's in. And then Cregan found some stuff out and shared that with the group, and I think we'll pick up there. So where is Cregan right now?
+[0:12:41] James Svoboda: He is below decks, packing a bag. Okay,
+[0:12:54] Mossy Oak: can I tinker like a cute little baby joy to send him off with, I don't know. What
+[0:13:05] Ian Lurie: do you tinker? What do you make? Let me know. Well, tell Cregan. Actually, don't tell me.
+[0:13:22] Mossy Oak: Uh, James, give me ideas here.
+[0:13:35] Rikterr: No, we're on the airship. Is it day or night? Right now?
+[0:13:40] Ian Lurie: It is day. You are flying.
+[0:13:44] Mossy Oak: We got right? I'm
+[0:13:46] Ian Lurie: sorry, we get
+[0:13:48] Mossy Oak: a long rest. Yeah,
+[0:13:49] Ian Lurie: yes, you're flying north east towards the tabernam animus, which is his mountain. Okay,
+[0:13:56] Jamar Ramos: so crigan, you see Richter. Just say, Hold on a second. You see him close his eyes, and he reaches up, and you see shadows in the cabinet you guys are in. Just come towards his hands, and he reaches behind him, and you hear just like a soft pop, as if someone was cracking their neck, but you don't see anything. And as he reaches out, all of a sudden, you see two Basim, or ravens wings, and he hands you both, and he says, one for your child and one for the kids at the orphanage. Give it to them and tell them the next time I see them, they can trade this to me for one story.
+[0:14:47] James Svoboda: Thank you, boss man, very kind. Minutes back. Where did we end last session? We were we're still in Aventine. Weren't we?
+[0:14:57] Ian Lurie: You're still in Aventine. You are getting ready to leave on little discontent if you don't want to get on, if you'd rather just leave from Aventine and go straight to port more, that's fine. Yeah,
+[0:15:08] James Svoboda: he'll need to. We will have this conversation before, yeah, you can
+[0:15:12] Ian Lurie: have this conversation at Wildwood. That's fine. Yeah,
+[0:15:16] James Svoboda: yeah. Hey, boss man, Thanks for Thanks for listening. That was kind of a lot that you know kind of changes my outlook on things here. So I gotta, I gotta take off. I gotta, I gotta head home. I don't know when I'll be back or or whatnot, but I appreciate your shell brother, we'll, we'll hopefully see each other again sometime soon.
+[0:15:47] Mossy Oak: She's the shit, and I love her and I made you well toy Fairy Dragon for your kiddo. Keep a little mischief in your life.
+[0:15:57] James Svoboda: No, awesome. Can you? Can you make a craft rule. I want to see how good this thing is.
+[0:16:03] Ian Lurie: Yeah, I wasn't going to ruin the moment, but yes, by all means,
+[0:16:09] Mossy Oak: what do I add to that?
+[0:16:12] Ian Lurie: Well, your proficiency bonus, plus, if you have anything for artificial tools or anything like that. But I believe that's just your proficiency
+[0:16:23] Mossy Oak: bonus, alright, virtual 19.
+[0:16:25] Ian Lurie: There you go. So that's solid, that's, that's beyond solid. Actually. That's really nice. That's,
+[0:16:31] Mossy Oak: but, you know,
+[0:16:32] James Svoboda: it's beautiful. Mossy, appreciate it. No, you know, I think I've still owed some back pay. We all can catch up to that next time, hopefully next time. See you guys. We have
+[0:16:49] Mossy Oak: your mailing addresses.
+[0:16:51] James Svoboda: Yeah, yeah. Hey, Captain Lysander,
+[0:16:56] Ian Lurie: yes,
+[0:16:58] James Svoboda: I gotta go. Thanks for letting me work on your ship with your great crew and everything. I don't know when I'll be back, but you know, hopefully I'll still have a job if I can come back, because I gotta tend to a family matter.
+[0:17:15] Ian Lurie: You you have a job here anytime you wish it. Cregan, he holds out a big feathered hand. Says it has been a pleasure working with you, and I hope to see you again soon. Best wishes on your
+[0:17:31] James Svoboda: Thank you. Thank you. And don't, don't forget to check the suggestion box. That's very
+[0:17:36] Ian Lurie: important, of course.
+[0:17:38] James Svoboda: Need that, you know, oil hinge every once a while too, just they don't need it. Thanks, sir. And then with that, I'd like to say goodbye to drag, but he's off to a drag things, I guess. So I just have to you guys get one. Invest please.
+[0:17:53] Rikterr: What are we going to do about Cree against part of the quintery?
+[0:17:58] James Svoboda: He doesn't have one? Yeah. But we Oh,
+[0:18:02] Rikterr: that's right, that's right, that's right, that's right.
+[0:18:09] James Svoboda: So y'all should be good. Take care of each other.
+[0:18:13] Rikterr: Take care of yourselves.
+[0:18:18] Mossy Oak: Now who's gonna win surfing contests oak.
+[0:18:26] Ian Lurie: So, yeah, the way it works is he has to go down and tend to the egg, and then whether he wants to come back up after that or not is up to him.
+[0:18:35] Mossy Oak: Well, I mean, the man's only got, like, four years and nine months, right? So maybe we let him just be a pop up.
+[0:18:43] Ian Lurie: Yeah, yeah.
+[0:18:44] Mossy Oak: Speaking of exploration day, Sango don't say they already said
+[0:18:53] James Svoboda: goodbye.
+[0:18:55] Ian Lurie: Oh, man, see, I wanted to see okay, fine.
+[0:18:58] James Svoboda: Sango was invisible, and they had a little chat. I jet. I love that aspect of him.
+[0:19:08] Ian Lurie: He's kind of the anti Korean, actually, because he's always, always invisible, whereas Cregan is always kind of right there, like there's, there's no escaping him.
+[0:19:19] Mossy Oak: I mean, it'll be easier in the galley, because he stepped on a lot of feet. Can
+[0:19:25] James Svoboda: you imagine him trying to hold his baby and not drop it?
+[0:19:29] Ian Lurie: That happens a lot with turtles that you know, they do have shells for that reason. In part, for that reason, I Yeah. Okay, so you guys were going to spend 12 days at the Bastion crafting some things. Yes,
+[0:19:53] Mossy Oak: no, that's Sango, who is getting unlimited
+[0:19:55] Ian Lurie: soup. That's right. Just make sure you make a note of all that stuff that it's recorded on your character sheets and everything, so that I can keep track of it. I know so it was the unlimited soup device. What else were you making or doing?
+[0:20:18] Rikterr: Girac was making mithril armor from the armor that I gave him when I upgraded to a grownness.
+[0:20:30] Mossy Oak: Would it be double dipping the ask to use library before we had out? What
+[0:20:39] Ian Lurie: were you making? Just
+[0:20:42] Mossy Oak: the No, the library is for three pieces of accurate unknown information about a topic.
+[0:20:49] Ian Lurie: Yeah, it's about time, though you were doing something else. I'm sorry.
+[0:20:54] Mossy Oak: It's seven days. I don't know if I could double dip between routes.
+[0:20:56] Ian Lurie: No, no, you can do one or the other. So you could stay another two days, right? So instead of 12 days, spend 14, and then you could do a a full round of research, if you wanted to
+[0:21:15] Mossy Oak: Richter, if you can, oh, trophy room, if you use the trophy room this time, because you're not building anything right now,
+[0:21:28] James Svoboda: Tango could probably use the library. He's not doing anything. Yeah.
+[0:21:31] Mossy Oak: Single has his own library.
+[0:21:37] Ian Lurie: What's the trophy room?
+[0:21:42] Mossy Oak: True? Trophy. Trophy room contains mementos, mounted heads, trinkets and objects from adventuring, history and with research, you can get lore of legend. Oh,
+[0:21:54] Ian Lurie: it's okay, yeah, it's another library kind of thing. Yes, okay, got it. Sorry. So you guys want to spend 14 days there instead of 12, and you're each going to go do research.
+[0:22:12] Mossy Oak: I'm I'm just speaking out loud here because I have the Bastion pulled up.
+[0:22:17] Ian Lurie: Okay, so you guys, just tell me how long you want to be there, what you want to do, and we can figure it out.
+[0:22:26] James Svoboda: Yeah, so that 14 days, then that sangel will use the library to find out three facts on Tiamat layer, okay,
+[0:22:39] Ian Lurie: if you're spending 14 days, you can find out six facts, because you'd be doing two rounds of research, I believe, because I think it's seven days per round. Is that right?
+[0:22:50] James Svoboda: Okay, does that? Would that?
+[0:22:52] Ian Lurie: Jamie, you're looking at the Bastion stuff right now. Am I right about that?
+[0:22:57] Mossy Oak: Hold on saying, Go library. Yes, after seven days, you get three, so in theory, but you get six, okay?
+[0:23:14] Rikterr: And I'm going to spend time in my meditation chamber,
+[0:23:19] James Svoboda: okay?
+[0:23:21] Rikterr: Then after I do that for a week, I get advantage on two kinds of saving throws. Nice, all right,
+[0:23:30] Mossy Oak: okay, so could either do the library, but that gives you an unknown information about a topic, or if I do the archive, and we have a hireling there, basically, it's legend lore. Okay, what do y'all think? And then drag could, in theory, also put out feelers at the bar to try and solicit feelers for people or information you want within the limited verge.
+[0:24:13] Ian Lurie: Somebody say something,
+[0:24:18] James Svoboda: uh, the legend Lord sounds good. That's a pretty
+[0:24:20] Rikterr: Yeah, the more information that we can get help us avoid some pitfalls and maybe get to Tiamat sooner.
+[0:24:28] Mossy Oak: So saying, Go do library and get information about the layer and the New Orleans. And I'm going to do archive with my hiring herring here advanced Arcana edition. But
+[0:24:46] Ian Lurie: you're only spending seven days, right? Because you're also working on Yes, mug of eternal soup. Yes,
+[0:24:54] Mossy Oak: the other one. The rest of my time is spending making Sango eternal soup. Because as much shit as Mossy gives Sanko. She's also very happy he's back, and just like the idea that he didn't have adequate food while he was gone,
+[0:25:09] Ian Lurie: Victor, you're gonna spend 14 days researching or praying. I'm sorry. Yes. Okay, all right. So who wants to go first? Sango, what are you researching
+[0:25:28] James Svoboda: Tiamat? Layer, right? Okay.
+[0:25:31] Ian Lurie: And Mossy, you're basically doing a legend lore on Tiamat or on something else.
+[0:25:37] Mossy Oak: Well, you've got the lair, so I can either do it on Tiamat, or I could do it Avernus or the demigod we're gonna go hang out with. What do you think?
+[0:25:52] James Svoboda: Yes, I like the way you're going with that the demigod might be helpful. Especially, if we could find out what, what is if he's got a sweet tooth or whatever, and Avernus might be good too. So that way we know.
+[0:26:14] Mossy Oak: Could you do layer and then Avernus?
+[0:26:17] James Svoboda: Yes.
+[0:26:18] Mossy Oak: Okay, so you do that. I do demigod legend more?
+[0:26:23] James Svoboda: Okay?
+[0:26:24] Mossy Oak: Or do I we go bigger with more and go for Tiamat?
+[0:26:28] James Svoboda: Do we want Tiamat? Layer for legend more? What's the most important? I feel
+[0:26:34] Mossy Oak: like Legend lore on the layer would be pretty sick. I don't know.
+[0:26:38] James Svoboda: Yeah, rikter. Oh. Up.
+[0:26:49] Unknown Speaker(s): If we can,
+[0:26:51] Rikterr: we got to figure out what we want to trade, because going in there not knowing,
+[0:26:56] Mossy Oak: devils always do want to trade, yes,
+[0:26:58] Rikterr: but then they always want to put some fine print in. So if we can know what this devil wants, we have it. We have advantage in that. And then everything that we can get about Avernus and TMS layer, because even if Tiamat is trapped, Tiamat is going to have enough control over the layer when we get in there that we're going to be at a disadvantage. So any way that we know that we can be sneaky, we want to be be alright.
+[0:27:27] Mossy Oak: But if we do, if we do your your research into why, because he's not a demon. He just hates demons. He wants to whoop them. So if we can know why, then we know how to come and bring an angle to him to give us the past.
+[0:27:52] Rikterr: All right, so what are we asking? Or what is? What is, what is Sango researching
+[0:28:00] James Svoboda: two things, seven and seven, seven days, seven days, the fire Giant,
+[0:28:09] Unknown Speaker(s): Devil guy, starter, starter
+[0:28:14] James Svoboda: and Avernus, okay?
+[0:28:22] Mossy Oak: And I'm doing legend lore on the layer, the layer, on
+[0:28:26] Ian Lurie: who?
+[0:28:27] Mossy Oak: On TMS layer?
+[0:28:29] Ian Lurie: Oh, on the layer. Got it. I'm actually going to start then Mossy with you. So some important things about the lair. The lair itself is somehow linked to her original her original shelter, her original domain, and for some reason, she can't go there anymore. I so
+[0:29:02] Mossy Oak: it is linked in the same way that dark cell mirror was linked.
+[0:29:09] Ian Lurie: No, it's there's no, one's quite sure, but it actually links directly to this place called the dragon spawn pits. Um,
+[0:29:19] Mossy Oak: not lawn. I wrote Tiamat salon,
+[0:29:22] Ian Lurie: you know, maybe,
+[0:29:26] Mossy Oak: um, thanks to Dragon's, what pit,
+[0:29:29] Ian Lurie: the dragon spawn pits. And as far as you know, the dragon spawn pits have been abandoned since Tiamat became a prisoner, the dragon spawn pits were where All of the chromatic dragons were created. Okay, so that's the first thing. Second thing is there is no ground level entrance to Tiamat Slayer,
+[0:30:15] James Svoboda: like Stop it, creatures
+[0:30:16] Ian Lurie: that enter, creatures that enter, generally fly in, although the dragon spawn pits, you know, you don't know where those are,
+[0:30:32] Mossy Oak: but it's not linked in the same way as Shadow mural.
+[0:30:35] Ian Lurie: No, no. It's hard to know. I mean, it could just, literally, just be a tunnel or a door. It could be something magical. I'm just not sure. Okay, and then the last thing is the layer and this isn't something you'd really understood before, but the layer is gigantic. It is, you know, in the in the writings you read, it says, you know, the layers as large as a city, in some cases, and in other cases, it says it is, you know, it's as large as a as a large town. But whatever, it's not just a big cave. There's, there's a lot of other stuff in there. There are multiple rooms. There are places where there's, you know, where Tiamat is has to spend most of her time. You know, she can move around within the layer a little bit, but not a lot.
+[0:31:47] Mossy Oak: So she she came over across the entire layer.
+[0:31:51] Ian Lurie: Yes, she can move around in the layer itself, but she can't leave
+[0:31:54] Mossy Oak: okay, but she can go everywhere in the lair. Okay? I Yeah, and there was not, it sounded like you were saying there's certain places that she has to be for the majority of the time.
+[0:32:10] Ian Lurie: I misspoke. There's certain places that are too small for her to go in her natural form. Okay. But, and this is a freebie, well, you already know this Chima can change shape, yeah, like all, like all drag, yeah.
+[0:32:27] Mossy Oak: Called her out because I read the homework.
+[0:32:39] Ian Lurie: And sorry, one more freebie, uh, mortals do occasionally go in and out of the lair. You don't know if they're cultists or what out whatever, but you know, non non devil, non demon, non demi god, creatures do occasionally go in and out of the lair. I
+[0:33:09] Mossy Oak: Mossy will come out of out of the archive with like drool and some paper stuck to her face.
+[0:33:19] Ian Lurie: Um Sango, about sertor, you learn why he hates Tiamat so much. Um sort sirter is a demigod. He's not nearly as powerful as Tiamat in the realm of demigods. She's probably the strongest of the demigods. So she's not quite a god, but she's extremely powerful. He had a large empire on the elemental plane of fire, and came into conflict with her over the way that he was using and selling magic, because, like all Fire Giants, he's pretty greedy, and he's good at making stuff. So he was making stuff at a scale that Tiamat did not like, and she came and destroyed his entire kingdom, killed almost all of his subjects, and basically said, go live in this crappy little corner of the elemental plane of fire instead, which apparently is where he now resides. So he he has been nursing a hatred of her. You don't know how long it's it's hard to tell. You know, these timelines are always kind of a mess. You know, Tiamat was not a prisoner when this happened, or she wouldn't have been able to do what she did. Sort her is, I Sir is apparently a very good leader of his people, like he apparently is, you know, not all Fire Giants, like animus, is a hermit like he wants nothing to do with anybody Sartor actually wants to be at the center of things like he wants to. He wants power and the trappings of power that come with ruling over large numbers of people. And as part of that fact, also, he is a pretty powerful demigod like you know, on the scale, you'd say he is not as powerful as Tiamat, probably more powerful than Nick theme. So something to keep in mind there and then the last thing about Sartor is
+[0:36:02] James Svoboda: he
+[0:36:06] Ian Lurie: is prophesied to, at some point, release a fire primordial onto The surface of praxia. And a fire primordial is basically a god level elemental. And this is, you know, that they're pretty standard. Every culture has some kind of creation, destruction myth, right? And on praxia, just like here on Earth, really. And one of them is, you know, huge fire released by some creature. So he is the one who is prophesied to do that.
+[0:36:53] Rikterr: Oh, that's good to know. I
+[0:37:00] Ian Lurie: A Okay. Facts About Avernus, a couple really important things. One is there are these firestorms that happen on Avernus, where fireballs will come out of nowhere, and they have been said to utterly atomize caravans and groups of he of mortals who have traveled on the plane of Avernus. There are certain warning signs when they are coming. There are actually fiery clouds that gather overhead. When that happens, you typically have 30 to 60 minutes to find some place to take shelter, and almost anything stone.
+[0:37:57] Mossy Oak: Oh, we're gonna lose tiny how aren't we
+[0:38:00] Ian Lurie: gonna what we're gonna
+[0:38:01] Mossy Oak: lose, tiny hut. Craig and had tiny hut.
+[0:38:06] Ian Lurie: Ooh, that's a good point. Yeah, there is at so at the opposite end of Avernus, at each end of Avernus there are two large landmarks. So this is one more fact. There's the pillar of skulls, which is literally a pile of skulls of all the demons killed in the blood war. It's said to be about two miles high. So there's a lot of war happening there, and then the bronze Citadel is at the other end, and that's, that is where all of the the hellish troops are kept, 1000s, hundreds of 1000s of lesser devils and war machines are kept there.
+[0:39:11] James Svoboda: I'll bow pile of skulls and bronze sit at home,
+[0:39:16] Ian Lurie: and the pillar of skulls also reaches all the way down into the second layer of the Nine Hells. Dis so devils will climb up the pillar to get to Avernus or climb down to get to this. I
+[0:39:34] Mossy Oak: thought they weren't allowed to. Is that the point?
+[0:39:40] Ian Lurie: No demons aren't allowed to. I mean, demons aren't even supposed to be present on Avernus, and you guys certainly can't, but there are devils that are allowed, like devils can always come up, right if they're given permission. I mean, everything in the Nine Hells is hierarchical. If you're given permission, you can go anywhere you want. But certainly Devils on avarice, you know, aren't generally allowed to go down into this. Coming up another good, helpful bit of lore that I could give you.
+[0:40:23] James Svoboda: Are there any cities?
+[0:40:27] Ian Lurie: There are actually, yes. So there's a there's a cobalt city that is right near tiamats layer. It's not like adjoining it, but it is, it is nearby, um,
+[0:40:46] Mossy Oak: we can go in Jersey three, cobalt, in a drink coat. You could, yeah, um,
+[0:40:54] James Svoboda: disguise itself.
+[0:40:55] Ian Lurie: And it's called drukari, D, R, A, U, K, A, R, I I'll type it into the chat. There you go.
+[0:41:07] James Svoboda: Noari,
+[0:41:08] Ian Lurie: yeah,
+[0:41:09] Mossy Oak: and track wares,
+[0:41:12] James Svoboda: I think so.
+[0:41:12] Ian Lurie: Yeah, yeah, the train, um, it is also where the demi god of the cobalt resides. His name is Colonel Mac. That's, hold on. I'm typing it. There we go.
+[0:41:34] Mossy Oak: How does he feel about Tim hunt?
+[0:41:36] Ian Lurie: Well, he's, you know, kobolds are dragon kind. So chances are he really likes,
+[0:41:45] Mossy Oak: what are his curdled milk?
+[0:41:52] Ian Lurie: Any other little facts you want to try and try and dig up? I gave Mossy a couple extras. So
+[0:42:03] James Svoboda: is there, are there, like any rivers, lakes? Well,
+[0:42:12] Ian Lurie: there's the river sticks, yeah, right, which flows right in there, and then there is a river of blood that flows through Avernus. And it is like
+[0:42:21] Mossy Oak: you do. It
+[0:42:23] Ian Lurie: is apparently created by the blood of all the demons and devils that are continuously dying in the blood war, which is why it is, in fact, called the blood war.
+[0:42:34] Mossy Oak: So the pile of skulls is from demons and devils from the blood war.
+[0:42:39] Ian Lurie: That's just demons, actually the devils. When the devils die there, um, sorry, it's just devils. When the demons die there, they vaporize and they go back to the abyss. When devils die there, they are dead for good. And so their their skulls are placed on this pillar. Okay.
+[0:43:02] Mossy Oak: Sounds completely chill. Speak with dead. That could be, uh,
+[0:43:08] Ian Lurie: devil. As far as you know, devils don't have souls, and they don't go anywhere when they die.
+[0:43:17] Mossy Oak: Could drag, put out through the pub, just looking for anyone who's who's done business through the night house.
+[0:43:27] Unknown Speaker(s): Sure,
+[0:43:31] Mossy Oak: spell slot for it. He's literally chilling here.
+[0:43:34] Ian Lurie: So he basically, you want him to do what
+[0:43:39] Mossy Oak: he's gonna put out feelers, trying to find out about the humans who go into Tm mops lair. Someone else, correct me, if you have a better idea on this, the mortals, the mortals, okay,
+[0:43:57] Ian Lurie: all right, um, that's gonna be a real high role that he can do when he's back, a really high role. In fact, I'm not sure I can come up with a number high enough, but that's okay. We'll, we'll work with this. Okay,
+[0:44:18] Mossy Oak: we made it more generic, into people who have traveled to the Nine Hells, mortals who have traveled to the Nine Hells.
+[0:44:27] Ian Lurie: That's slightly more doable.
+[0:44:29] Mossy Oak: Okay, we'll make that.
+[0:44:31] Ian Lurie: It's also very rare. But you guys are at a point in your on your power curve now where finding other people who have done the shit that you've done is going to be, it's going to be tough, you know, you just nonchalantly went to the Shadowfell completely changed the political structure of an entire city there, and then came home to, you know, deal with the fact that you have personal beef with Tiamat. So not many people that you can talk to. Let's put this way, there are no therapists in Aventine that can lend perspective to your situation. Okay, so Jack is going to go start doing that. Actually, that's a great idea. That's what he's doing. He says, got it? I'm gonna go
+[0:45:23] Unknown Speaker(s): networking, press
+[0:45:25] Ian Lurie: some flesh, do some networking. That's not the way I but you know what I mean. And I will go talk to some people, and I'll let you know what I find out. He glides effortlessly from the room as I picture drag, doing, so that's the end of your 14 days.
+[0:45:48] James Svoboda: I want direct to come back having met Barney from Moe's. Yeah, sure, I've been to hell. That's really good. That was took away
+[0:45:59] Mossy Oak: the beer for like, three weeks and
+[0:46:02] James Svoboda: give yourself inspiration. That
+[0:46:04] Ian Lurie: was pretty good. There's only a couple of voices in the universe I can do. That's one of them. Um, okay, so I, unless there's other stuff you guys want to do, I'm going to have you just get on the airship.
+[0:46:19] James Svoboda: Um, Sango wants to find, see if he can buy a potion paste, push to speed. Okay,
+[0:46:31] Ian Lurie: all right, hold on,
+[0:46:33] Mossy Oak: and I obviously have restocked and pocket bacon.
+[0:46:37] Ian Lurie: That's essential. And goes without saying, um, let's see here. Gotta pull up my price list. Boy, that's really small type, um, you want a potion of haste
+[0:47:03] James Svoboda: might be called speed,
+[0:47:05] Ian Lurie: or potion of speed. Yeah, see, I believe that's uncommon. I Oh, no, it's very rare. Okay, so you go down and you talk to Remy, because, you know, he's kind of your guy. And he says, You know, I do happen to have one, and he's, you know, he's kind of sniffly, like he always is. I do have one, selling these for 1700 gold right now, that's, well, I'll sell it to you for 1700 it's actually a 3700 gold piece. Potion.
+[0:48:02] James Svoboda: Okay, that's a little bit more than I got right now. They're
+[0:48:05] Ian Lurie: hard to come by.
+[0:48:06] James Svoboda: So, yeah, yeah, I gotcha. What if? What if I give you 300 now and then I can run you a tad at the lady in the room until uh, until I can get you the rest. Oh,
+[0:48:27] Ian Lurie: so I could go up there Drake and eat stuff, yeah, and it'll come off, you know? But sure, yeah. I mean, I know. I trust you guys. I mean, I'm not gonna be able to eat unless the food's really expensive there. I'm probably not gonna be able to pay off the bill, but I'll, do my best.
+[0:48:43] James Svoboda: Okay, well, we'll do that, and that way, you know, I'll still owe it to you when I when I can get a hold of it. Perfect rest deal. I like. Thank you. Remy,
+[0:48:51] Ian Lurie: yeah, no problem. Good luck. Use it. Well, um, I gotta go get some caffeine, guys. I'll be right back. Yeah,
+[0:49:03] James Svoboda: Sango is going to run up a tab everywhere he can.
+[0:49:07] Mossy Oak: I respect that
+[0:49:14] Rikterr: the bastions never going to make any goal for us. Okay?
+[0:49:23] Mossy Oak: Very tired. You have a storehouse, a wheat garden, a fruit garden, a veggie garden, stables and a greenhouse. So it's fine take a minute. Plants gotta grow. You
+[0:49:35] Ian Lurie: also have thistle beard and some very good gardeners. So
+[0:49:38] Rikterr: Well, I was saying, even if they do grow singles, gonna have everyone eating us out of house and home, setting up. Io use everywhere we go.
+[0:49:48] Ian Lurie: I love that. That's that's a really good use of a bastion that I never really thought of. But why not? Okay, anybody else, any other shopping you want to try and do, make sure you put that in your inventory. I heard
+[0:50:06] James Svoboda: it did, okay. Hold on.
+[0:50:24] Mossy Oak: I don't think any spell stuff. So if we can find healing potions, I feel like that would be a worthwhile investment right now, any chance we can find healing potions,
+[0:50:38] Ian Lurie: you can go talk to Remy Ian,
+[0:50:43] Mossy Oak: rikter, let's go shopping.
+[0:50:45] Rikterr: Well, if you want, I have a plethora of healing potions. I have four superior. I've got one greater, and two just everyday, potions of healing. If you just want to take some, I'll give you two superior.
+[0:51:08] Mossy Oak: I feel like we could benefit from having some on hand. Maybe we use the opportunity to get well can Okay, because he I tend to stay hidden. You need all of those, and I have two. I have a greater and a common so
+[0:51:27] Rikterr: I have healing spells and lay on hands. So that's why I'm willing to give up the potions.
+[0:51:33] Mossy Oak: Yeah, but we're not broke bitches anymore. Okay?
+[0:51:41] Ian Lurie: So you want to go potion shopping,
+[0:51:43] Mossy Oak: yeah,
+[0:51:44] Ian Lurie: okay, see you head down to ramys remedies. It says, wow, it's a busy day up there. Apparently. Hey, bossy,
+[0:51:55] Mossy Oak: Hey, buddy, you got a cold?
+[0:51:58] Ian Lurie: No? I mean, this is occupational hazard.
+[0:52:01] Mossy Oak: Ah, let them blow up in your face
+[0:52:03] Ian Lurie: cubes. Yeah,
+[0:52:06] Mossy Oak: bastards.
+[0:52:08] Ian Lurie: Oh, sure, was we put it a hood, but it's too expensive.
+[0:52:13] Mossy Oak: Your health is worth it, darling. Speaking of health, you got any good healing potions in anything to help give resistance against, you know, like a five headed dragon.
+[0:52:29] Ian Lurie: Well, let's just see here. Well, I pushes of resistance. They're pretty hard to come by. I do have this wood. And he shows you a potion. It's it's in a it's in a metal cylinder with a glass top. And when you look in the top, it's bright blue. Inside. He says this, this will give you resistance to lightning for what hour. So it's potion of lightning resistance, obviously, and it costs 250 gold. I
+[0:53:23] Mossy Oak: Okay, okay, um, what you got for some healing spells?
+[0:53:28] Ian Lurie: Oh, pushes of healing. Yeah, those I always have so. And he takes out a little rack, and it's got, you know, like, 10 bottles on it. Um, hold on, everyone. May think I always just had this top my head, but I don't. He says, Okay, so let's see you got your basic potions of healing, right here, those cost let's see here.
+[0:53:58] Mossy Oak: Oh, no, I need like, a heavy duty one, Honey, we're not talking paper cuts.
+[0:54:02] Ian Lurie: Oh, okay, well, there are these. So he pulls out a couple more. And one of them is, well, a three. Well, a few of them are just these long test tube type things with red liquid in them, and those are just standard potions of greater healing. So that's 44 plus four. Those are 200 gold each. And he pulls out two more. And those are potions of superior healing. Those are 84 plus eight. And he says, right now he's selling those for rolling, doing some electronic rolling. Here, guys, hold on. Um, he's selling those right now for 1200 gold each. He's got two of them.
+[0:55:09] Mossy Oak: Can I try making put some boots, eyes on him.
+[0:55:12] Ian Lurie: Um, you guys are loaded. Do you realize how much gold your Bastion generates? Okay, you could, you could do this, I can't
+[0:55:21] Mossy Oak: remember how 100 for the superior,
+[0:55:25] Ian Lurie: for the superior,
+[0:55:27] Mossy Oak: there's two, there's two, and then there's four of the graders, of
+[0:55:33] Ian Lurie: the graders, and then he says, Then there's this, and I'll tell you how much money you make in a minute, because I had to do the math on This, literally, to make sure that you would not destabilize the aventin Ian economy. Seriously, I that's but he takes out this. It's another bottle, but this one's sort of a flask instead. And he tastes it, and when he shakes it gently, this, it has the same red fluid, but it sparkles like it sparkles. It sparkles impossibly you've never seen. It's like, it's like the deepest, most gorgeous red you've ever seen, like, if you've ever seen a car that has, you know, was painted really perfectly in red and then given like, 10 clear coats, it almost looks like that. He says, this is a this is, as far as I know. There's only three of these that I bade the ball. This the other what I have left, it's potion of supreme healing. It heals 10 d4, plus 20 points of damage. Um, he says, I could let you have this for 10,000 gold pieces?
+[0:56:44] James Svoboda: 10 d4 is an average of 20. Plus 20 is 40. That's what the average is for 10,000 gold pieces.
+[0:56:53] Ian Lurie: Yeah, healing potions are expensive.
+[0:56:55] James Svoboda: I know I don't get it. Okay, what's
+[0:56:56] Mossy Oak: the average for the spear and the grading?
+[0:57:02] Ian Lurie: Say that, again, averages
+[0:57:04] Mossy Oak: for superior and the greater
+[0:57:07] Ian Lurie: so superior is 84, plus eight, so that's 40, so 20, and then greater is 16 plus 420 so that's 10. Would be the average there. I'm not doing the math totally, right. But
+[0:57:22] James Svoboda: I ever create a my own DND system, I'm gonna, I'm gonna outlaw D fours. And anytime you gotta roll more than two dice, they're gonna be D sixes.
+[0:57:31] Mossy Oak: Okay, so
+[0:57:34] Ian Lurie: you need D fours to protect your house.
+[0:57:38] James Svoboda: Sure, sure. That's about all they're good for.
+[0:57:41] Mossy Oak: We'll take the four greater and the two superior and give the man 2000
+[0:57:46] Ian Lurie: okay, just mark it down. So
+[0:57:53] Mossy Oak: everybody's gonna get a greater. I'm gonna keep a superior, and then Sango get the other
+[0:58:01] James Svoboda: that go gets what now he gets to something rather or what
+[0:58:03] Mossy Oak: Sango is going to get a superior integrator. Okay, rikter gets a greater drag. Gets a greater Mossy is a nice superior integrator.
+[0:58:20] Ian Lurie: Okay, I'm trying to find the
+[0:58:22] Mossy Oak: remind drag to take that out.
+[0:58:26] Ian Lurie: Here we go. Okay, so math on the aventin Ian economy, the aventin Ian economy, the Bastion, if you can, or if you can, issue orders every week, which you can't, but if you could, you'd produce 156,000 gold pieces per year. Okay, right? The entire economy of Aventine is 31 million gold per year. I had to do this math to make sure that I wasn't about to introduce something that was gonna break my entire world. I am not kidding. I was actually worried about that. But so you bring in 156,000 you bring in between 50 and 100,000 gold pieces every single year. Okay, that does not count money you earn through adventuring treasure. This is just what the Bastion just earns by just sort of sitting there.
+[0:59:22] Mossy Oak: Well, we saw a lot to pay off from the ship upgrades. No, we got that.
+[0:59:28] Rikterr: No, we're paid off.
+[0:59:32] Ian Lurie: Now, the one thing you guys don't have right now, that you need in the Bastion is sending stones, because if you had sending stones, then you could issue orders every single week
+[0:59:42] Mossy Oak: Remy, you got me Sunday stones,
+[0:59:44] Ian Lurie: sorry, I only do chemicals.
+[0:59:47] Mossy Oak: Do you know anybody? Who would
+[0:59:51] Rikterr: I Hold on? Hold on, I think, I swear I thought it could. Yes, so my arcane study can create, sending stones.
+[1:00:05] James Svoboda: Oh, god damn, there
+[1:00:07] Ian Lurie: you go. Then from now on, assuming
+[1:00:11] James Svoboda: the trash, the economy. No,
+[1:00:12] Ian Lurie: no, you need, um, 100 bastions, 1000 bastions. Um, I Yeah. And by the way, 50,000 gold of that per week is from House blue strike like they're most of the economy of Aventine. Well, I mean, they're the Merchant Marine, right, yeah. Okay, so then, as long as one of you is alive and in a position to send orders to the bastion in one week of game time, and this is on you guys to remember every time you tell me you do it, I will mark it down. Then in that week, you'll make 3000 gold, right? 3000 times 52 Yeah.
+[1:01:07] Rikterr: Awesome. Okay, I'll, I'll take up the responsibility of remembering them guys, yeah. And you
+[1:01:13] Ian Lurie: can always just ask me, has a week gone by? Sure, I know I have the calendar, and I can send you a link to the calendar, but the truth is, I don't keep the calendar that up to date, so
+[1:01:23] Rikterr: it's all good. It gives me another excuse to bother you in discord and my man, how's it week? Going back, W, y, d,
+[1:01:32] James Svoboda: is it payday yet? Yeah, exactly.
+[1:01:34] Ian Lurie: It's the
+[1:01:35] James Svoboda: 15th. It's the 15th.
+[1:01:38] Mossy Oak: You know, we gotta start a trust fund for Craig and cake, because baby's gonna gonna have a dad by the time they hit five
+[1:01:44] Rikterr: every Monday. I'm gonna send you a link to first of the month by Bone Thugs and harmony.
+[1:01:52] Ian Lurie: Okay, so it has to be like first of the week or Friday. Um, was that terrible, horrible song on YouTube?
+[1:01:59] Rikterr: Rebecca Black riding,
+[1:02:01] Ian Lurie: yes, yes. I mean all credit to her for putting that together. But
+[1:02:12] Rikterr: I think I can't remember if it's this year she's actually doing a DJ set at Outside Lands. Cool.
+[1:02:24] Ian Lurie: All right, any other stuff
+[1:02:26] Mossy Oak: that name made my bones hurt?
+[1:02:33] Rikterr: No, I think rikter is good. Okay, are you guys good?
+[1:02:42] Ian Lurie: I Alright. So you guys, get on the Get on the villains discontent, and you set sail for the to burn them. This is all very familiar territory for you now. And honestly, you guys have an enormous flag over the ship that says, Do not fuck with us. So there's nobody who fucks with you. It's just
+[1:03:02] Mossy Oak: coffee mug. Like, fucking try me.
+[1:03:04] Ian Lurie: Yeah, yeah, no. You have a wallet says bad motherfucker on it, and just continuously have it out and show it to everyone. So a very uneventful, a couple of angles that
+[1:03:16] James Svoboda: goes up on the that's a tasty cup of soup.
+[1:03:19] Ian Lurie: That's right, that's right. If nothing else, people see an airship flying with this guy, who looks like he's 9000 years old, sitting cross legged at the top in the in the crow's nest, eating soup. And they know anyone doing that is really dangerous, so we need to stay well away from that ship. You guys get to to the to burn them. No problem. Animus, has you greeted immediately and meets with you in his workshop. He's completely healed. Says,
+[1:03:53] Mossy Oak: No returns.
+[1:03:55] Ian Lurie: I'm sorry.
+[1:03:56] Mossy Oak: Looks at rikter. Says, No returns, no returns. Yes, that's right.
+[1:04:00] Ian Lurie: He looks at you all. He says, I It's very good to see you all. It's Mossy rikter, yes, it's even Good to see you. Richter and Sango, it's been some time.
+[1:04:14] James Svoboda: I am not going to cast any magic this time, I remember you got mad at me last time.
+[1:04:20] Ian Lurie: It's true. I don't, I don't appreciate that. Yes, so how may I, I'm assuming you're here to need something built, something changed on the ship. The ship looks good, by the way. It was great.
+[1:04:31] Mossy Oak: You did phenomenal work. Sir,
+[1:04:33] Ian Lurie: yes, yes, I do. So how can I? How can I help you? Actually,
+[1:04:39] Mossy Oak: here's out to you about maybe a body of yours. We have a we have a common enemy, and need his help,
+[1:04:51] Ian Lurie: okay? And this friend of mine would be
+[1:04:57] Mossy Oak: suitor, sure, sorter,
+[1:05:01] Ian Lurie: I would not call him. I don't think I'd. He
+[1:05:06] Mossy Oak: doesn't seem like the type that has buddies, mostly because way forever and he loved but yeah,
+[1:05:13] Ian Lurie: and to him, I am very small. I mean, it's so it's not really a matter. It's more. You know, I'm a follower, I guess would be the better way to put it. You want to go and speak with him?
+[1:05:25] Mossy Oak: Yeah. So he happens to have a series of these badges that he's collected over the year that can be used to get into Avernus without being murdered immediately, which is very much what we would like to do.
+[1:05:44] Ian Lurie: I somehow wish I had not heard any of that. But to get something that valuable from him, you would almost certainly have to go meet him in person. And he dwells on the elemental plane of fire, which is not the easiest place to go.
+[1:06:00] Mossy Oak: Okay, some recommendations about how to do that safely.
+[1:06:05] Ian Lurie: Well, you've, I've sent you there. Once, I sent you to the city of brass, and that's where I would start. But this time, I think you should go through a teleportation circle that I have. I will have a friend of mine. His name is, his name is searcrest. He is an azer, basically a fire dwarf, and he can act as your guide when you get there.
+[1:06:32] Mossy Oak: That's incredible.
+[1:06:33] Ian Lurie: Well, we're friends. Now it's last time we met. We were we were in business together. But now, if you need something, go meet with Sierra Crest. Just do not leave the city of brass without first meeting with him outside the city of brass. Any creature not of the plane of fire will perish swiftly.
+[1:07:01] Mossy Oak: And we very much lead to avoid doing that. So Seacrest is here. We have to meet him in the city of fire.
+[1:07:10] Ian Lurie: Searcrest is in the city of fire.
+[1:07:13] Mossy Oak: Okay, there's
+[1:07:14] Ian Lurie: a central fountain in the city. Once you have teleported head to that fountain. It's very easy. You just go uphill the fountains at the top, highest point in the city. Meet him there, and he will help you get where you need to go. He knows where searcher lives and how to get there. And take this. He gives you a scroll says it has my seal on it, so searcrest will know that you are who you say you are. I should tell you he's a little eccentric as azer go, but that's part of why he's good at this kind of thing.
+[1:08:03] Mossy Oak: What flavor of eccentric we deal in all sorts. I just made this man never ending soup.
+[1:08:11] Ian Lurie: Well, azer are usually they usually don't like to speak to other races. They're very insular. They have a huge hatred of outs of other races because they were enslaved by the afriet. But he quite enjoys, he quite enjoys his time with other races, and may pepper you with questions. So just be ready, and don't be afraid to tell him no if he begins to pry
+[1:08:49] Mossy Oak: fair enough and respect that Mossy elbows you both simultaneously.
+[1:09:06] Rikterr: All right, let's let's go.
+[1:09:11] Mossy Oak: Then go. You ready?
+[1:09:15] James Svoboda: Yep, I'm ready. Let's go. You
+[1:09:18] Ian Lurie: have plenty of water with you?
+[1:09:21] Mossy Oak: Do we?
+[1:09:22] Ian Lurie: Yeah, you do. I just Well for one thing, you have the never ending flood of soup, flasky, yes, which, while warm, will ensure that you are sufficiently hydrated.
+[1:09:40] Mossy Oak: So we should tell the ship to wait for us where
+[1:09:49] Ian Lurie: that's up to you guys. I mean, Lysander can just wait here. Animus has no problem with that.
+[1:09:57] James Svoboda: Yeah, we're we have to come back through this way when we come back right.
+[1:10:02] Mossy Oak: Oh yeah, that makes sense. Okay, yeah, that's the
+[1:10:04] Ian Lurie: most obvious way back. Yes.
+[1:10:09] James Svoboda: All right. Okay, now
+[1:10:14] Mossy Oak: we're sea repressed out.
+[1:10:17] Ian Lurie: All right, so he ushers you down to one of the rooms off his workshop, and there is indeed in that room a teleportation circle. And the way teleportation circles work when they're correctly configured is you walk into it, you say a password, and you immediately teleport to the other circle. He tells you the password, you say it, and you immediately appear in a courtyard where the light is searingly bright and it's very hot. It
+[1:10:54] Mossy Oak: was weird. The password was pink pony club.
+[1:10:59] Ian Lurie: It was, it is so it's hot like if you've ever been to Las Vegas, like in August, it's hot like that, with no shade and no breeze. It's relentless. And you remember this from the last time you were here, that if you spend more than a couple hours here, you have to start making exhaustion checks, unless you have some kind of protection. There's one door out. It's just, it's basically, it's a low courtyard with a stone wall around it, one opening. You can head out through that opening and then up through the city if you want to.
+[1:11:39] Rikterr: Okay, yep, let's not waste any time. All right.
+[1:11:44] Ian Lurie: So as you pass through the city, you walk through a bazaar that looks kind of familiar because you were there once before, and in it there's, you know, all manner of strange goods for sale. There's these things that look like fruits, but they actually you can see they're burning constantly. Where they're sitting, there's, you know, tankards of some kind of liquid, but when they pour them, it's actually looks like fire. It's not water. And you do see some other mortals, some other people from the Prime Material plane, walking around, and they all have like they're either carrying these enormous umbrellas, or they're wearing special suits of some kind, or something like that. There's one person walking around. It looks like they're wearing armor filled with water. Then there's a little tube sticking out that they're using to breathe, which makes no sense whatsoever, but that's what they have. And eventually, you pretty uneventfully, get to the fountain at the top of the city. And this fountain, you can't get too close, because flowing up through the top and then slowly coming down the sides of this huge stone is molten brass, and it's flowing kind of steadily out of the fountain. And people come by occasionally, and they like, dip glass, you know, mugs of some kind into it and drink. Or they come and take some of it and form it into things, or, you know, all sorts of different stuff with it. A little kid is there playing with it, like doing like with Play Doh, and next to the actually, give me a perception role. Mossy might as well be Mossy. You're the perceptive one.
+[1:13:25] Mossy Oak: Okay, that is
+[1:13:30] Ian Lurie: 22 okay, you immediately see a kind of Twitch looking azer standing next to the fountain, kind of, looking around,
+[1:13:45] Mossy Oak: cigarettes, buddy.
+[1:13:49] Ian Lurie: He, he looks up, he says, Oh, he kind of, he scuttles over. And azer are really unusual looking. You've never seen one before. They're about, they're about the height of a typical dwarf, so three to four feet tall, they're extremely muscular. They look like they're made of metal, and then, instead of hair, they have fire. So they're very, very strange looking creatures, like nothing, you know, just not. There's no real commonality between them and a typical, you know, humanoid that you would see on praxia,
+[1:14:26] Mossy Oak: we buy you a drink, get some proper introductions.
+[1:14:30] Ian Lurie: Well, yes, of course, of course. And you, you are, oh, sorry, I shouldn't shake your hand. It'll burn your fur. You are a tabaxi. I take
+[1:14:40] Mossy Oak: it to back. Say, hmm,
+[1:14:44] Ian Lurie: see so tabaxi human human, no,
+[1:14:51] James Svoboda: an elf, oh,
+[1:14:53] Ian Lurie: tabaxi human, elf, sorry, sorry. It's, I don't see many people, not from here, so it's, it's interesting.
+[1:15:02] Mossy Oak: We'll answer all your questions over a pint.
+[1:15:05] Ian Lurie: Excellent, excellent. We should probably go to a pub serve something besides burning and boiling beverages. I
+[1:15:16] Mossy Oak: love where your head's at.
+[1:15:18] Ian Lurie: Okay, let's just, let's see. I think I know one. He takes you down to he takes you back down through the city and a lot of back alleys and stuff, you know, just things that don't totally you're not sure where you are by the time he gets you where you're going and you, he leads you down some stairs, these kind of narrow, rickety stairs that go underground, and then there's a metal door, and he bangs on it a few times, and a little slat opens in the door, and someone looks through and they say, Yep, and searcrest says, It's searcrest, I have guests, there's Oh, right, opens the door. You guys go inside, and it's a huge bar. Inside, it's a huge tavern, but it's all deep underground. And in here there are all kinds of creatures that are clearly not from the elemental plane of fire. You see two water elementals sitting at a table. You think they're sitting you're not sure, because it's hard to tell what's up and what's down with the fire elemental. You see some other just humanoids, probably from apraxia or someplace related. You see two Drow sitting at a table in kind of a tense conversation about something, and he ushers you over to a table. Says, sit, sit. So are you born in litters, or is it just one of you at a time?
+[1:16:57] James Svoboda: And what do you consider a litter
+[1:16:59] Ian Lurie: more than two
+[1:17:02] Mossy Oak: No, not really. It tends to be like one or two of us at a time, and you get a crazy family that just like all at once. And that's let me tell you, if you want to see Miss Schiff, get a litter of little to back sees all playing together. God bless. Now you. I would love to talk to about searcher.
+[1:17:29] Ian Lurie: Oh, that's Yes, that's right, of course. Oh, I think you have something for me, though I should have asked, but, you know, it's the note,
+[1:17:40] Rikterr: and I miss his note. Yes, we show it to him, yeah, okay.
+[1:17:46] Ian Lurie: He looks at it. I mean, it's pretty clear to me, you know, I didn't really think there were, there were two sets of you walking around, but just want to make sure he opens it up. He goes, Okay, search her, right? You want to go see search her, so sure
+[1:17:59] Mossy Oak: just learn more about him and about this place and
+[1:18:02] Ian Lurie: well, he's someone
+[1:18:04] Mossy Oak: like you before. Are you born in litters?
+[1:18:07] Ian Lurie: No, we are we spring from rocks?
+[1:18:11] James Svoboda: Easy, yeah,
+[1:18:13] Ian Lurie: molten rock, yeah. You know, we just kind of manifest.
+[1:18:21] James Svoboda: Sango is taking notes.
+[1:18:23] Ian Lurie: They, you know, usually, like one, azer will make another one, basically, but out of, you know, bronze or stone or something like that, and we just spring out of it when, when they're done making us
+[1:18:36] Mossy Oak: that is so cool.
+[1:18:40] Ian Lurie: Are your ears? He turns to Sango, are yours always like that? Or are they trimmed? Are they made pointy when you're born?
+[1:18:52] Mossy Oak: Now, saying goes, Drax the elf,
+[1:18:54] Ian Lurie: Oh, that's right. He turns to drag and says the same thing, um. And Drax says, no, there. I'm, I'm born with them this way. That's, that's just, that's how they look. And he says, interesting. It's so interesting. So searcher, you know, he's not against visitors. That shouldn't be a problem. He is in a village, though, called rathskald. And rathskald is right on the edge of the cinder wastes. It is not someplace you all can go without some kind of protection. And there are potions, and, you know, other things that you can consume. There's also these amulets you could you could probably rant called amulets of comfort.
+[1:19:43] Mossy Oak: Oh, that sounds comfort. Or you
+[1:19:46] Ian Lurie: could hire a flame Warden, and a flame Warden is a specialized mage who would come with you, and basically they would continuously cast a spell that keeps you safe from the heat and the fire. But without that, you would die in probably minutes.
+[1:20:03] Mossy Oak: Yeah, I got something next week. So that's good to not do.
+[1:20:10] James Svoboda: Can we rent the amulets? Do you know people that rent them? Oh,
+[1:20:12] Ian Lurie: yes, yes, absolutely. I can get you a good rate, actually, he says. And as far as getting there, there's couple ways to do that. You could book a carpet, take a flying carpet there, but that takes a day. And the weather's kind of well, you know, hot. You could take a caravan, but that takes three days. I don't think you want to deal with that. You could rent fire horses, if you wanted to, they would get you there in about half a day. Riding a fire horse takes some learning. That might not be something you want to do, or you could take a fire ship. And I happen to actually know someone, and he's going in that direction. So I would say, just hit your ride with him. His name is Ember Forge, and his ship's called the Fire heart, and
+[1:21:10] Mossy Oak: we hit the ride back
+[1:21:13] Ian Lurie: if he's there. But he has to go, Well, you have to ask him, I'm not sure. Okay.
+[1:21:29] James Svoboda: Is the fire ship fly?
+[1:21:32] Ian Lurie: Well, yes, that's why it's called a fire ship.
+[1:21:35] Mossy Oak: That sounds amazing, airship which is like that, but not on fire.
+[1:21:40] Ian Lurie: Oh yeah, no. Well, fire ships aren't on fire, just like your airships probably not made of
+[1:21:46] Mossy Oak: air. The more you know,
+[1:21:47] James Svoboda: Sango writes down a question, find out if our airship is made of air.
+[1:21:57] Ian Lurie: He turns to Sango, and he says, I don't know much about humans, but are you going to die soon?
+[1:22:05] James Svoboda: Maybe it's possible
+[1:22:09] Rikterr: four years and nine months.
+[1:22:14] Ian Lurie: Oh, so you know these things, that's cool. When are you going to die? He says, looking at rikter,
+[1:22:19] James Svoboda: he might die tomorrow.
+[1:22:22] Ian Lurie: It could happen any moment his day is coming. I
+[1:22:27] Mossy Oak: mean, Richter already died once. Oh, that's true. TWICE,
+[1:22:30] Unknown Speaker(s): TWICE,
+[1:22:31] Ian Lurie: yeah, three times
+[1:22:33] Unknown Speaker(s): later.
+[1:22:37] Mossy Oak: How many times have
+[1:22:38] Ian Lurie: you died? Me, uh, never died.
+[1:22:43] James Svoboda: Pretty durable, Mossy, did you die once?
+[1:22:49] Mossy Oak: No, but I came close,
+[1:22:50] Ian Lurie: yeah, she's been unconscious.
+[1:22:54] Mossy Oak: Last death saving throw for sure,
+[1:22:57] James Svoboda: the Drak die once,
+[1:22:59] Ian Lurie: yeah, he had an entire Dragon in on top of him.
+[1:23:07] Mossy Oak: He thought it was a really good idea to ride the dragon,
+[1:23:10] Ian Lurie: you know, I just, I don't, I don't. Dragons don't like that. It just, it pisses them off. It's like, oh, look at me. I'm an amusement park ride. No, I'm not.
+[1:23:19] Mossy Oak: I think that mental image and the one of him trying to run into doors that weren't completing the Bastion yet with the logic, are some of my favorites,
+[1:23:29] Ian Lurie: the marshmallow effect. Yes, okay, so we don't have to spend a ton of time on all this. Is there anything else you guys want to do? If not he can steer crest, can organize all this. What's
+[1:23:42] Mossy Oak: the best way to talk to search her?
+[1:23:46] Ian Lurie: Well, you'll fly to rathskeld, and then you'll go up and knock on his door.
+[1:23:51] Mossy Oak: I mean, are there any protocols we're expected to follow, or whatever it may
+[1:23:57] Ian Lurie: be, he's demi god. He's pretty full of himself. Other than that? No, I mean, you're on the plane of fire. He's one of the most powerful beings on the plane of fire. So proceed accordingly. He's not really. He's a people giant. I don't know how else to put it. It's really weird. He, he, he has, like, a whole town and a business. And, you know, most Fire Giants, they just live in caves somewhere, and they make stuff. And then every now and then they go and they go out and they start burning things. And then they go back in their caves and they make more stuff. But he's
+[1:24:38] Mossy Oak: making when Tiamat came in,
+[1:24:42] Ian Lurie: oh, I don't, we don't you know what you want to ask him that story. I have no idea. Okay,
+[1:24:52] James Svoboda: do you know if he has a sweet tooth? Do you see like, like sand art? Does he like soup? I
+[1:24:58] Ian Lurie: don't want you to think I know him, like, I've never even actually met him. If I did meet him, he would probably just flick me right out, like, out of his castle, like, like a bug, because to him, I am kind of a bug. You all know what demigods are like, right? I mean, are you demigods
+[1:25:19] Mossy Oak: now?
+[1:25:20] Ian Lurie: Okay,
+[1:25:22] Mossy Oak: next time seems cool, though we're pen pals,
+[1:25:25] Ian Lurie: so you work, but you've met other demo gods. Maybe, yeah, maybe okay. So he's like that. He kind of thinks on a whole other level. So you know, from what I understand, you know, I've had four friends go meet with them about stuff, two of them came back. Two of them didn't. So, you know, take that as you will. And yeah, but I'm not going with you. Did I mention that? No, you lost you. Thanks. I appreciate that. It's um, so he gets everything organized for you. He takes you to a much lower part of the city where there is a whole set of pylons. And anchored to those pylons are, you think, probably 50 fire ships. And these ships are all made of gleaming brass and bronze, and they all have these big gas envelopes above them. And then those envelopes, you're not sure what's in them, but they just seem to drift and float there. And then some of them have oars, and none of them are moving right now, so it's hard to tell how they move. Some of them have oars. Some of them have propellers, sort of like yours. Some of them, you don't see any means of propulsion. But he takes you to one that has a huge set two huge rows of oars on it, and he walks you up the gang plank and says, He motions to someone who you think is probably the captain, and says, Captain Ember Forge. This is, did you group? This
+[1:27:17] Unknown Speaker(s): is where we are, the notorious RBG.
+[1:27:20] Ian Lurie: This is the notorious RBG, and they need a ride. They need a ride to rathskeld, and I know you're going that way, so I thought maybe you could work something out with them. And Ember Forge, he is also an azer. He's a little bit taller than than cyrcrest. He comes over and he goes to shake your hand, then he pulls his hand back. Says, Never mind. I mind. Says, good to meet you all. Yes, I can take you there. It takes half a day. If you can give me 30 gold that would cover it very nicely.
+[1:27:53] Rikterr: Rikter reaches into his side purse and pulls out 30 gold
+[1:27:59] Ian Lurie: and see your crest. Says, Sierra Crest, in the meantime, actually hustled off. Says, I'll be right back. And Ember forge explains, you know how the ship works. How you gonna get there? They're gonna leave in just about an hour, so don't go anywhere. It's not an overnight trip. You don't need any kind of quarters, which is good, because the ship doesn't have any. This ship is basically a huge barge. How much
+[1:28:21] Mossy Oak: would it cost for you to bring us back?
+[1:28:27] Ian Lurie: Another 30 gold but I go back and forth between Rath and here for the most part. So it's half day each way. Just if you could just be where I drop you off a day later, you can just catch a ride back.
+[1:28:43] Rikterr: That's or how much would it cost for you to stay until we've done our business with the great and powerful certer? Oh, can I do persuasion? Sure. I Oh, that's a 27
+[1:29:09] Ian Lurie: he says, Well, you know, I mean that means I'm losing money on on my shipments. How long do you think you'll be I party
+[1:29:24] Rikterr: line. How long do you think our conversation could take? Snacks? I would say, maybe like two hours.
+[1:29:37] Ian Lurie: Oh, yeah, if you can just just give me 10 gold per hour, and we'll be fine. Okay,
+[1:29:49] Mossy Oak: excellent.
+[1:29:52] Rikterr: He will give the 20 gold for the two hours, and he will give an extra 10 gold and say, We know we're costing you a little bit of business. So I just want to give that as a little sweetener to say, thank you for for doing this,
+[1:30:03] Ian Lurie: of course, and I appreciate a good, good businessman.
+[1:30:09] James Svoboda: Do you happen to have any of those special necklaces of Southern Comfort?
+[1:30:17] Ian Lurie: You know, I drank Southern Comfort once, and it did not agree with me, so I try to avoid it, but I think that's where Sierra Crest went. Think he'll be back shortly with amulets of comfort, but we'll see. And actually, you guys need to all give me constitution saves DC 15,
+[1:30:37] James Svoboda: first rule of the night,
+[1:30:39] Rikterr: everyone plus five from my order of whatever the hell it is, I can't even remember at this
+[1:30:45] Mossy Oak: point on Save or check save packed, Oh, thank god it was CAC,
+[1:30:53] Rikterr: 21 okay. 2823
+[1:31:02] Ian Lurie: cool. All right, I'll do track, drag. It's natural 20. Look at that. He's not even breaking a sweat. So you guys, you know you're
+[1:31:15] Mossy Oak: just slightly singed.
+[1:31:16] Ian Lurie: Yes, the heat is the heat is definitely bearing down on you, but it's a dry heat, so you're pretty okay. Sierra Crest comes up, and he has for each of you these amulets that are made of some kind of polished stone, and the stone is blue. And when he hands it to you, you immediately feel cooler, like you feel like a fall day in Aventine. He says this will protect you from the weather to a point. Now, if you go all the way out to the sea of fire, you're gonna die. All right. This won't work there, and it won't protect you from like lava or someone throwing fire at you, but at least it means, you know, in the hottest parts of this plane, where it's not actually liquid fire, you should be okay.
+[1:32:10] Mossy Oak: That's all we need.
+[1:32:12] Ian Lurie: Okay, if you could just bring them back when you're done. I won't have to charge you for them. If you don't, I'm not even sure how much they cost. So maybe just bring you back.
+[1:32:22] Mossy Oak: So much.
+[1:32:23] Ian Lurie: Hey, you know what
+[1:32:24] Mossy Oak: appreciation any
+[1:32:26] Ian Lurie: friend, Any friend of animus is a friend of mine.
+[1:32:29] Mossy Oak: This will let you fly for 10 minutes today for fun,
+[1:32:34] Ian Lurie: really, yeah,
+[1:32:37] Mossy Oak: go have like a nice little like you have you ever
+[1:32:39] Ian Lurie: he puts in a little bag. You gotta use this
+[1:32:43] Mossy Oak: day. It expires during the day. I make them every morning, because what I made today
+[1:32:46] Ian Lurie: to back, see, do they come out of you or something? Or
+[1:32:52] Mossy Oak: no, yeah, I have a little kit that I make them out of. It's very
+[1:32:55] Ian Lurie: Oh, you're an okay. Got it? Got it. Okay. I understand now
+[1:33:00] Mossy Oak: to back season stem representation matters,
+[1:33:04] Ian Lurie: excellent. So he hops off the ship, waves goodbye. The ship slowly pulls away from the dock. And you look and as just before it leaves, all these fire elementals come out of you're not even sure where, and they just sort of manifest on the benches on the ship. And they all take an oar, and they all start pulling on the oars. And as they pull on the oars, the ship just starts going, even though the oars aren't dipping into any liquid or anything. I mean, in fact, the oars are these really long, thin, bladed pieces of wood or, well, whatever they're made of. But the ship starts on its way. As you travel, nothing, you know, nothing huge really happens. You do see sort of towards the center of the plane. You realize now that the elemental plane of fire is not that big. You can as you're flying, you can almost see to the center of it, and in the center there is this pillar of what must be super hot flame, because it flares blue and green and white and Ember Ford sees you looking that way and says, Oh yeah, don't Go there. Even, even fire elementals can't survive there. I know some people have tried to sail too close to it, not good. You pass over this area called the cinder wastes. And it looks downright cool down there, because it's just a huge flat plane of nothing, but Cinder and ash is just and he says. So every now and then, people build stuff down there. And you can now see, actually, there's, there's a few little buildings dotting it, and then inevitably, you know, somewhere along the way, they burn down in the next, you know, week or two
+[1:35:07] Mossy Oak: planes,
+[1:35:08] Ian Lurie: yes, and there's no, there's no landmarks or anything, which is why we use this. And he pats this huge compass that's mounted at the front of the ship. We use this to make sure that we know where we're going. And you can't just use a regular compass here, either. He seems to be he will drone on forever about
+[1:35:27] Mossy Oak: this, the notebook, as he's talking about, he tells you about a
+[1:35:30] Ian Lurie: whole bunch of stuff. The most interesting one, though, is that he has this special compass mounted to the ship that works here, because most compasses don't, because the you know, there's no poles, there's no north or south or anything like that. He says, If you ever get in trouble and you're on this side of that pillar of fire over there, go east, because the the ethereal plane is to the east. If you can get there, you might be able to find your way home, and at least you won't burn to Ascender immediately.
+[1:36:01] Mossy Oak: We have to have a specialized compass to do that.
+[1:36:05] Ian Lurie: Well, yeah, I mean, you can, well, I mean, as long as you're moving away from that big pillar of fire, right, you're moving towards something better. I mean, anything around us, there's, there's, he points, he says, plane of water, plane of Earth, plane of air. They're all better than here for someone like you, plane water is a big sea, so if you can swim, you might be able to handle that for a little while. Plane of Earth is exactly what it sounds like. Plane of air, not so great. Been there. It's not a friendly place. It's really loud, but
+[1:36:44] Mossy Oak: light of air guitar just
+[1:36:46] Ian Lurie: go away from the big pillar of fire, away from the big pillar fire that that's that's what you have to remember. Okay, so the half day passes pretty quickly, and you slowly, the ship starts to slow down a little bit, and eventually, kind of bumps to a stop. And as you're coming down, you see what is basically a very large village, if it was on praxia, you guessed there would be about a 2000 people living there, maybe, and he comes the ship comes to a rest just outside the village. In the center of the village is this single, huge tower, and the tower is made of basalt, and it has all these cracks in it. And from the cracks, you see the
+[1:37:43] Mossy Oak: cube rocks,
+[1:37:46] Ian Lurie: yes, meet, and there's cracks in it. And from those cracks, you're pretty sure you see like an orange glow emanate. And he says, the guy you want to meet is in that tower. I He likes to talk to people, so that shouldn't be a problem. I don't know what you need from him, but if there's going to be a problem, that's what it's going to
+[1:38:16] Mossy Oak: be. You can argue that,
+[1:38:17] Ian Lurie: okay, we're going to we'll stay right here. See in a few hours, as you walk through this village, it's very hot here. It's much harder, hotter than the city, and even with the amulets, you feel the heat. Here. You won't have to make exhaustion checks, but you feel the heater. And as you're walking along, it's kind of interesting, because, I mean, this is a village, so you see, like, fire elementals, not Fire Elementals. You see azer, especially a lot of azer walking around, and a couple of them have, like, there's a couple cases where there's one azer with a smaller one next to them, and the smaller one is always doing kind of ridiculous shit and going off in random directions and things like that. And they keep pulling them back. In one case, you see one smaller azer who has a really small fire elemental that it's holding, and it's like scratching its belly, you think, or something. And the fire element is kind of wriggling around all happily. There's what you think must be, like a pub or something. There's people coming and going, and they seem to be consuming substances, but you're not even sure here, like this is getting very alien for you. So you're trying to attach some sense of normalcy to it all, and you're not sure you can the other thing that you see is at the base of the pillar, as you get closer to it, there's a he, there's a bunch of low lying buildings, and in and out of those buildings is a constant stream of vehicles, and those vehicles are bringing all sorts of crates of stuff and piles of of what looked like, maybe cloth or something, out to where, where Amber forge landed his ship. And you notice, you noticed, as you came in, there are other ships there too, and they're all being loaded up with stuff.
+[1:40:20] Mossy Oak: Hear me out. New business venture, new market. Cool Ranch chips to these people,
+[1:40:28] Ian Lurie: yeah, could work.
+[1:40:34] James Svoboda: What's a Cool Ranch?
+[1:40:37] Mossy Oak: It's a flavor that I made in the lab with the help of thistle beer. It tastes like it's cool, even though it's a powder, when you put it on stuff, it's delicious.
+[1:40:47] James Svoboda: Sounds magical.
+[1:40:57] Ian Lurie: Everyone give me a charisma. Charisma save,
+[1:41:04] Rikterr: remember, plus five,
+[1:41:07] Mossy Oak: Oh, thank god.
+[1:41:11] James Svoboda: 28 Yeah. 3314
+[1:41:15] Ian Lurie: Okay, Mossy, you're walking along. And all around you there are these random little like almost fire dust devil things. And you're not sure if what they are like, are they just random fire flames or something? You're not sure. But from one of them, detaches this little, tiny gout of flame, and it sort of starts circling around you all and wandering. And then it kind of comes over to you, Mossy, and it sort of stops in front of you, and then it goes around behind you while you're walking, and then it zooms up in the air. It goes around to side of your head and around the back. Then it goes to the front, and then it immediately, like presses up against your chest. You take one point of fire damage.
+[1:42:09] Mossy Oak: Does it appear to be alive?
+[1:42:11] Ian Lurie: Um, give me a you know what? Yes, it does. It does you're you think you can even sort of make out some vague features. Well,
+[1:42:20] Mossy Oak: wait buddy, hey, we're friends. We don't need to be like this.
+[1:42:24] Ian Lurie: All right, give me a give me an animal handling check. Sure. Why not?
+[1:42:30] James Svoboda: Sango is going to assist her with that. He bends down to the little guy and he and he repeats what Mossy said, and he says, My friend Mossy here repeats what she said, and he's going to use his tongue of the Sun and Moon. And if this creature can understand languages, he can understand Sango,
+[1:42:54] Ian Lurie: okay. Wow. All right, Mossy, make your role
+[1:43:06] Mossy Oak: 14,
+[1:43:07] Ian Lurie: okay, well, with someone they're communicating directly with it, the the fire elemental pup immediately leaps back and kind of looks at you all and then just zooms back over to one of the other bigger Fire Elementals. Real
+[1:43:25] Mossy Oak: glad I didn't swap that. Yeah, yeah.
+[1:43:30] Ian Lurie: And you guys get the rest of the way to the base of the tower without any trouble. What'd you say? James, nothing. Okay.
+[1:43:39] Mossy Oak: When did you want to speak fire, an old mental
+[1:43:45] James Svoboda: igno When I when I don't know, a little while ago, a couple levels ago, if that's a thing, what's the level? Yeah, I don't know.
+[1:43:58] Ian Lurie: He has a certification. He took an online course, continuing program.
+[1:44:02] James Svoboda: What's online is this, that thing that your, your friend in the in the library was working on?
+[1:44:10] Ian Lurie: Yeah, the tablets, the tablets. So you get to the base of this huge pillar, and there's a huge set of doors, and there's workers going in and out, carrying all these crates and all this fabric and all this stuff, and no one seems to really take notice of you.
+[1:44:36] Mossy Oak: Do we just walk it because it is a million degrees out here. And I'm going to stress that again, is
+[1:44:45] James Svoboda: there like, is there like, a guard or somebody by the door? Or no, okay, so we're going to walk in Hello. We're here to speak to Sultan.
+[1:45:02] Mossy Oak: I thought I was reading bad Japanese.
+[1:45:04] Rikterr: When did Shango become Craig Ian? Yeah, that's
+[1:45:07] Ian Lurie: the real question.
+[1:45:09] Mossy Oak: I think when they resurrected, they got a little muddled together.
+[1:45:15] Ian Lurie: Okay, so you say that, and a whole bunch of people stop. Kind of look at you for a minute because, you know, someone just started yelling in the middle of the entire place in a language they don't understand.
+[1:45:30] James Svoboda: Actually, they can,
+[1:45:32] Ian Lurie: oh, that's right, because you're calling out in Ignis, um, they all stop and they look at each other, and one of them comes over to you. Now, do you understand? Yep, that language, okay, one of them comes over and says, You're here to see certer, Yes, yep. They've got, like, a little stone, something with a pen or something. What's your name? Sango, this
+[1:45:59] James Svoboda: is my friend Mossy. He's my friend, Rector, did you that one, that one over there with the smoldering eyes, is drag, okay,
+[1:46:10] Mossy Oak: make a shirt. Flap alone. What's
+[1:46:12] Ian Lurie: your business?
+[1:46:13] James Svoboda: What is it? Mossy, what is our business?
+[1:46:20] Mossy Oak: We have a mutual enemy, and possibly chanced to get back at her, and we'd love to talk to search her about that.
+[1:46:36] James Svoboda: Okay, I literally thought his name was Sultan.
+[1:46:40] Ian Lurie: No, it's really not. I'm typing it in. I'm typing it into the
+[1:46:47] Rikterr: that's y'all, y'all not up on your Nordic guy,
+[1:46:49] Ian Lurie: exactly right? Your Norse mythology. Okay, guys, I need to white
+[1:46:55] Mossy Oak: to get into Norse mythology, right now it has been. It would not be a good look. So, no,
+[1:47:01] Ian Lurie: I need like, two minutes think about what you're going to say, because the azer says, Sure, no problem. Come with me.
+[1:47:12] Unknown Speaker(s): Tell me we're going
+[1:47:13] James Svoboda: to follow this guy.
+[1:47:16] Mossy Oak: We're going to follow him. And then did we just open with a hey, so you hate Tia, Matt too. Or do we want to try another approach? Rikter, you're charismatic, as this is your moment to shine.
+[1:47:27] James Svoboda: Do we still have the marks on our chest?
+[1:47:31] Rikterr: Yes,
+[1:47:32] James Svoboda: okay, so I think we had to show that off.
+[1:47:35] Mossy Oak: Drax, deep V already. Does that?
+[1:47:37] James Svoboda: Okay? Great. My
+[1:47:39] Mossy Oak: head cannon. He's wearing a very deep V at all times.
+[1:47:45] Rikterr: I'm going to first appeal to the ego, because we're basically coming here empty handed to ask for a favor. So first appeal to search his ego. Oh Great and Powerful, wise one. We come humbly and then say, and we also know we're coming to ask you for a boon against someone whom you already have beef with. We also have beef with them. So we're kind of Bosom Buddies and just sort of like appeal to the ego and then get into what we need, and hope that that helps.
+[1:48:22] James Svoboda: I think, I think the fire giant will probably be able to understand common so rikter can take the lead on that. Yes, because Santos charisma is a plus Zero, I would
+[1:48:36] Mossy Oak: have never guessed. I
+[1:49:08] Ian Lurie: Ian, sorry, guys, I'm juggling a little bit tonight because you couldn't tell so good. All right, he just immediately brings you through this one large to this one large chamber, and at the other end of the chamber, sitting at a huge table, is the largest humanoid you have ever been in close proximity without them trying to kill you. You would guess he's about 40 or 50 feet tall. Jesus looks like animus, but, you know, three times the size of animus, and he's sitting there, and he has, he turns the page, a page of something. It looks like the page may be made of brass or bronze, and he's inscribing in it. And in his hand he has just this long, thin, almost feather of flame. He's just using that to write in the book. And when you come in, he looks up and he has that same fire giant look that animus has, which is, you know, the big heavy brow and the deep set, that kind of fixed scowl that all the Fire Giants have, but when he sees you, his face immediately splits into a grin, which is almost more disturbing on a creature that looks like him, four
+[1:50:43] Mossy Oak: foot long, tooth, yeah, yeah,
+[1:50:44] Ian Lurie: yeah. He says, visitors, I do love visitors. The azer says, okay, good luck. And he turns and leaves.
+[1:50:58] Mossy Oak: Give a big old curtsy,
+[1:51:01] James Svoboda: single bows
+[1:51:03] Ian Lurie: to what do I owe this this visit, and by the way, I am sorter dumb. I got a fire, potentially destroyer of the prime material plane supposedly hope not, because I do a lot of business there. But I please. Who are you all introduce yourselves.
+[1:51:26] Rikterr: Rikter bows deeply, points to track and says, This is track. Nav gaelos, this is Reed sangoma, the love of my life, Mossy Oak and I am rikter shepherd, and we have thumb humbly to ask you for a favor,
+[1:51:51] James Svoboda: really,
+[1:51:53] Ian Lurie: that's splendid. We can trade favors, then excellent.
+[1:51:57] Rikterr: We love trading favors. That's That's one of our favorite things to trade.
+[1:52:04] Ian Lurie: First I have to ask. He looks at you, Mossy. He says, What manner of creature are you?
+[1:52:10] Mossy Oak: I am a to backseat.
+[1:52:13] Ian Lurie: Good. Then I won't have to kill you. Good. Good to know.
+[1:52:17] Mossy Oak: Good for me to know too. I love it when things come together. Yeah. Um, party line.
+[1:52:25] Ian Lurie: So this this favor you would like, Please speak.
+[1:52:35] Rikterr: So a little while ago, we stopped an attempt by an aspect of Tiamat coming into our prime material plane
+[1:52:48] Ian Lurie: as soon as you see Tiamat, as soon as you say Tiamat, his face darkens and literally a cloud of fire forms over his head, like a storm cloud, like a thunder cloud, and the room, the room heats up to a point where, even with the ambulance of comfort, it almost feels like you're going to start taking damage. Tiamat,
+[1:53:13] Rikterr: yes, we, we understand your anger. Um, and so we stopped the aspect coming. And this, as you probably well know, did not sit well with Tiamat. And being as petty as she is, she has and rikter opens up the chest plate and shows the tattoos and says, We have been cursed. And mossys companion, our friend, has been cursed and attacked us, and
+[1:53:51] Jamar Ramos: we're very angry about this, and
+[1:53:56] Mossy Oak: we need help. There we
+[1:53:58] Rikterr: go. So we are we know that you have issues with Tiamat as well, and we were hoping that by hearing our story, hearing how we have crossed paths with Tiamat and we are no friends of hers, that you would give us your blessing and some help, and in taking her down and freeing our friends,
+[1:54:20] Mossy Oak: that you've got to get around once you've gotten from the demons you've killed, those would let us get there to kill her properly in the nine hell so she stays dead. Give me
+[1:54:32] Ian Lurie: a persuade a performance or persuasion check. Richter,
+[1:54:42] Jamar Ramos: well, 23 okay, sorry, persuasion.
+[1:54:52] Ian Lurie: He leans back. He says, I've lived a long time.
+[1:54:59] Mossy Oak: Oh, wait. Can I use a beat? I want to use my my mind thingy, and up that by five.
+[1:55:07] Ian Lurie: What does that fee, yes,
+[1:55:08] Mossy Oak: so I can add a plus five to the rule. Okay,
+[1:55:13] Ian Lurie: 28 that's that's even better. He sits back. He says, You know, I've been alive a long time, and it's been millennia since she did what she did to me, I've never attempted to take revenge upon her. What makes you think that you can face her?
+[1:55:40] Mossy Oak: We already did, and she ran back to the Nine Hells, but she won't stay gone, so now we gotta make sure it sticks
+[1:55:49] Ian Lurie: facing her. You know what? If it's gonna piss the old bitch off. Oh, we will. I'm all for it. So you need a badge.
+[1:56:04] Mossy Oak: Do we need one per how does this work?
+[1:56:06] Ian Lurie: You need one, a single badge of zariel,
+[1:56:08] Mossy Oak: perfect.
+[1:56:09] Ian Lurie: He opens a drawer on the desk,
+[1:56:11] James Svoboda: kind
+[1:56:12] Ian Lurie: of roots around, and he pulls out this badge that is tiny in his hand. It's like he pulls it out and it's like this, but for you, it's, you know, quite large, and it's, it's actually a banner, and it's a banner. It's like a flag on a T shape that looks like it's made of bone. And the flag is this tattered cloth with a symbol on it that looks like an enormous eye with two curls coming out of it, and rikter, you know, writer, you, you don't, none of you need to make a roll for this. That's the symbol of Asmodeus, or Asmodeus. So it's, you know, you know exactly what that is, he says, you wear this. And he shows you, basically, it attaches to your backpack or something, and you wear it like a banner, like a war banner, he says. And then you and anyone around you, it'll be assumed that you belong where you are. No one will challenge you. Well, no one will challenge your right to be there.
+[1:57:25] Mossy Oak: Are they always the size?
+[1:57:29] Ian Lurie: Um, it's, it's, it's just, it's a, it's the right size to be big for you, but it's not too big. Does that make sense? It's like a, it's like a big hiking backpack like, not just like a little, you know, day pack for your laptop, like a true backpacking backpack. It's very light. He says, You can have this, but you must do two things for me when you see her, you need to tell her who gave this to you, and you need to remind her that I have five more. And before I give this to you, you need to go help the mayor of this town or something. He'll have an errand for you. Complete that errand, and the badge is yours.
+[1:58:30] Mossy Oak: I can work with that. Do we get bonus points? It was shoved through her eye at the end. Do you need it back without eye goo? That's a good question to ask
+[1:58:40] Ian Lurie: you, if she's gone, I don't need it back at all.
+[1:58:50] Mossy Oak: Let's go see a mayor.
+[1:58:54] Ian Lurie: He sits back and through this whole discussion. Well Actually he sits back, and you turn to leave the room, and you go into a room where there's all this work being done. And the door was closed when you went by it before, but now, when you go by it, the doors open, and you look inside, and there's and he's standing it's him standing at a forge, hammering away and making something.
+[1:59:25] Mossy Oak: And then I ask you one more thing before we go.
+[1:59:29] Ian Lurie: And from the desk, you hear a voice say yes, and it's him sitting at the desk.
+[1:59:36] Mossy Oak: What were you making? That got her so mad.
+[1:59:41] Ian Lurie: Wasn't what I was making. It was how much of it there are metals that she is very possessive of, green steel, something that can only be found on Avernus and mithril. Mithril was not, I mean, it's not common now, but it didn't exist on the prime material plane until I began to fashion things from it, and only I could do that at the time. That angered her a great deal.
+[2:00:11] Mossy Oak: She vulnerable against these things or just wants all the shiny rocks she
+[2:00:16] Ian Lurie: it's just something she did not want mortals to have. Okay, so thought I lost
+[2:00:24] James Svoboda: for clarity. Is it mithril, or is it green steel, or is it one of the same?
+[2:00:31] Ian Lurie: It's two different metals. Green steel is so hard to obtain that she didn't really mind when I got that, because I couldn't get very much. Mithril, also hard to obtain, but, you know, until I showed the doors where it was, it was a secret, and I made it not a secret, and that enraged her.
+[2:00:56] James Svoboda: Yeah, she's kind of
+[2:00:58] Ian Lurie: petty. The the searcher that's at the forge looks up and says, yes, yes, she is. And he goes back to work, and the one at the desk looks at you and says, that is
+[2:01:11] James Svoboda: well put. And
+[2:01:14] Ian Lurie: then you see there's another searcher behind the one at the forge who is quenching some kind of steel or some metal in a bucket of some kind of liquid, and he looks up and gnaws at you too.
+[2:01:27] Mossy Oak: Has Mossy you ever seen a magic like this before wishing anything about it? If I, if I pop down the goggle for a second, what do I see? Look at that.
+[2:01:41] Ian Lurie: Give me, give me a will save.
+[2:01:46] Mossy Oak: What is that?
+[2:01:48] Ian Lurie: Wisdom? Save? Sorry, wisdom, save.
+[2:01:49] James Svoboda: Oh, why does it have to be
+[2:01:53] Mossy Oak: wisdom? I'm near Richter. Oh, fuck yeah. 26 oh, okay,
+[2:01:59] Ian Lurie: yeah, you didn't need a hugely high roll. These are all him. He can exist in multiple places at once. And you know this, as soon as you look at him through the goggles, there's nothing. It's just how he is. And it kind of bakes your noodle to think about it that way, but he just he has, like many Demo gods, many aspects. But for him, he all of those aspects can exist in a fairly close space together and work on multiple projects at once. So he can be talking to you and making magic items and doing all this other stuff all at the same time.
+[2:02:41] Mossy Oak: Where do we find the mayor, to be honest?
+[2:02:44] Ian Lurie: Uh, he just, he told you there's a find the largest house at the end of the road. You'll see him.
+[2:02:55] Mossy Oak: All right, we're off to see the mayor, the wonderful mayor of skullsguard.
+[2:03:00] Ian Lurie: Um, so the mayor is a fire giant named Ulos, who seems small now because he's only 15 feet tall, and he's actually out in front of his house, currently digging in the ground. And you can't really figure it out, but he seems to be pulling out some rocks and keeping other ones, and he's throwing the rocks to the side, and he's kind of, you don't know exactly what he's working on, but and he seems older. He's wearing spectacles. He's kind of skinny, his his his fire beard has a lot of smoke in it so it doesn't look quite as young. And he looks up as you come over, yes,
+[2:03:53] Rikterr: we were sent by searcher. He said that you needed help with something.
+[2:03:59] Ian Lurie: Oh, yes, please come. Perhaps you can help. Actually take a trowel, and there's these metal implements there. He says, You're digging up the weeds. And he points to some rocks, and he says, you leave the other ones in the ground. So you guys can all give me nature checks at disadvantage, because you got to be able to tell the weeds from the the weed rocks, from the real rocks.
+[2:04:31] Rikterr: Four, because I had a natural 20 and I had natural 2217.
+[2:04:38] James Svoboda: Okay, I got a 16. Okay.
+[2:04:42] Ian Lurie: So two of you do great. Drax, just not there for some reason. And rikter, you go, and you reach down for one stone, and low says, nope, nope. You know what On second thought, just, you can just, just stay there and listen, yeah, so do you know how this town makes its money? So we trade in magic items and materials that are fireproof and that provide resistance to fire. That is what we make here. And we make a lot of it, and we make it better than anyone else. And our items really work like they're expensive, but they are brilliant, brilliantly crafted, and you cannot be harmed when you are wearing these by conventional fire. I'm not talking about magical fire, he says. And we create other items of great potency as well. I mean nothing you appear to be heroes, so probably not quite the kind of thing you're used to. But for the typical, for typical person on another plane, these are formidable items someone has started making, and he actually gets up and he's talking and walking, so you kind of follow him, and you're kind of having to run a little bit because he's really tall. He goes over to a shed, and he starts digging around, and he throws out a suit of armor that's like, half melted, you know, it's like, twisted and melted, and a sword that's broken down the middle, and then also a potion. He says, this armor is supposed to protect you from regular fire, but it melted. This sword supposed to let you cut molten rock and it shattered. This potion is supposed to protect you from fire. He pulls what looks like a bit of cloth out of his hand, out of his pocket, and it almost looks like regular cloth. And it starts to smolder right away, and he holds it up, and he pours the potion on it, and just goes, these items are being sold in great quantities at a fraction of the cost of ours, and they are, frankly, putting us out of business. But even worse, they're garbage,
+[2:07:07] Mossy Oak: as somebody who's been scorched before, Sango would firmly agree,
+[2:07:15] Ian Lurie: I won't see these items don't work. They just don't work as well. In fact, they don't work very well at all, and some of them clearly may be worse than nothing. I think I know where these are coming from. I need someone to go there and persuade whoever it is is doing this to stop doing it.
+[2:07:40] Mossy Oak: We can do that.
+[2:07:43] James Svoboda: He says,
+[2:07:48] Ian Lurie: Do you have a way to track where something came from, the direction, any kind of way finding magic, anything like that.
+[2:08:02] Mossy Oak: Maybe that was Korean.
+[2:08:06] James Svoboda: Says, well, but
+[2:08:08] Ian Lurie: matters not here. He says, this device, and it looks like another compass will show you the way to whoever is doing this. They're not far. I know they're not far because the items are ending up in the same market where we sell ours. And in fact, we know that they were being carried by the same ships that carry ours.
+[2:08:35] Mossy Oak: Okay?
+[2:08:36] Ian Lurie: Our our captains have stopped carrying them now that they understand what's going on, but the items are still showing up at that market. So you can follow this, and it will take you to the source of the items playing.
+[2:08:49] Mossy Oak: Last time we had a question like this, we kind of blew up a drug lab on a scale of yes to No. Where does that fall here?
+[2:08:58] Ian Lurie: Do whatever you want to do to stop them from making these items and make sure it's permanent.
+[2:09:05] Mossy Oak: Big old to backsy Smile,
+[2:09:08] Ian Lurie: yeah, this is a plane of fire. They don't fuck around here.
+[2:09:15] Mossy Oak: All right, I'll grab the compass and off we'll go. Hey, given that these people have a ton of fire. Do you have anything that maybe we could use in case they throw fire at us because I'm covered in fur,
+[2:09:26] Ian Lurie: nothing that would protect you from magical fire and everything here is magical fire, but you've got your amulets of comfort, so it shouldn't be any worse than you fighting creatures that cast magical fire on your own plane.
+[2:09:41] Rikterr: Okay, just
+[2:09:42] Ian Lurie: don't fall into any pools of fire, because those are bad. I'm assuming those are bad where you're from as well.
+[2:09:52] Mossy Oak: Good for food, not for people, yeah,
+[2:09:54] Ian Lurie: molten rock flames, not good. Yeah. Okay. So no, you should be, you should be okay. I wouldn't, you know, I wouldn't use it as a skin treatment or anything. But try to, so try to avoid being lit on fire. But it shouldn't be any worse here for you than it is there. Just don't lose those amulets.
+[2:10:15] Mossy Oak: Saying, Go, no, I'm getting on fire this time
+[2:10:18] James Svoboda: he makes the note on it and scroll, do not catch on fire.
+[2:10:22] Ian Lurie: The scroll burns immediately. He says you could probably walk, if this, if this is right, then you've probably got a half day walk to get there. Or I can loan you some steeds, if you'd prefer.
+[2:10:43] Mossy Oak: Well, this is gonna cost us a lot more now than having ship stay, so we should probably go tell the ship to go, and we'll meet in tomorrow. Okay, try and learn how to write a fire state.
+[2:11:09] Ian Lurie: Rikter is like, nope, nope.
+[2:11:20] Rikterr: So we'll go back and tell the ship that we'll catch up with them tomorrow. Yeah,
+[2:11:30] Mossy Oak: say go. You wanna run a fire steed? Is
+[2:11:36] James Svoboda: it gonna blow up on me? No,
+[2:11:40] Mossy Oak: I don't think anything about him, and it sounds really fun.
+[2:11:50] Unknown Speaker(s): Okay,
+[2:11:53] Ian Lurie: I think rikter really didn't want to but,
+[2:11:56] Unknown Speaker(s): you know, well, point
+[2:11:59] Rikterr: I have to clarify this, if would a fiend be able to survive where we are right now? A
+[2:12:08] Ian Lurie: fiend, a fiend? Some, yes, some No. Most fiends are just like you guys. Um, that you know, they're subject to harm from fire as anybody. There is an entire group of them that are very fire based, and it wouldn't bother them at all.
+[2:12:24] Rikterr: Okay, then I will learn to write the fire. Steve, okay,
+[2:12:30] Ian Lurie: so the mayor walks you around to the back of his house, and it's quite a large house, and out back there's a stables, and from the stables you see emanating about a half dozen of these long necks. And at the end of these long necks are the most ridiculous looking heads you've ever seen, with these gigantic lips, big noses and these big tufts of hair on their heads, and the hair is kind of glowing redly, and they all swing to look at you at the same time, and they're kind of chewing as they see you coming. And he says, Now fire, steeds are viciously mean, tempered, Mercurial, hard to get along with, but they can walk for days across the wastes. They have no problem whatsoever with it, and if you can make friends with them, or at least not completely piss them off, they might not throw you off and trample you. So it's probably worth taking a look. I can't ride them. I'm too large. I keep them as pets,
+[2:13:36] Mossy Oak: but doesn't drag. Have talk with animals.
+[2:13:39] Ian Lurie: Yes, speak with animals. Yes, these are not animals. These are Elementals. Oh, he can't actually talk to them. You
+[2:13:48] Mossy Oak: speak the fire Sego,
+[2:13:50] James Svoboda: if they speak a language that can communicate with them? Yes, they have
+[2:13:56] Ian Lurie: a three intelligence.
+[2:13:58] James Svoboda: This does it's not intelligence based just whether they could speak a language, yeah,
+[2:14:01] Ian Lurie: well, but they have a three intelligence, so they pretty much say things like, you know, Grunt,
+[2:14:08] James Svoboda: Oh, guys, okay, yeah.
+[2:14:12] Ian Lurie: So he takes you over, and he opens, oh,
+[2:14:14] Mossy Oak: drag. Can do animal friendship, no, it's not an animal. You just said that.
+[2:14:18] Ian Lurie: Damn it. He, He opens the gate to the stable, and you see it's these creatures with these ridiculously long legs, and they each have their backs have huge humps in them. At the end of these long legs are these huge hooves. And again, they kind of they glow faintly, and they're just sort of there, sitting there impassively chewing. And then one of them kind of looks over at you and lets out this weird kind of this weird kind of bleeding, you know, kind of halfway between the sound a goat makes and a horse makes, and they have long tails that are kind of flicking back and forth, and they smell horrible.
+[2:14:56] Mossy Oak: You have like treats we could give them as we say hello, any way to bribe them with love.
+[2:15:01] Ian Lurie: You know, as far as we know, they don't eat. They just like fire. If there's someplace hot, they're happy. If they're not, if it's not hot, they're not happy. But I would say just walk up and greet them. Okay, so everybody give me an animal handling check. It's not at disadvantage because he's there.
+[2:15:29] Rikterr: Oak, 16, okay, uh,
+[2:15:36] James Svoboda: 11, okay,
+[2:15:38] Ian Lurie: um, so Sango, you walk up to one and it kind of looks at you, and it kind of steps back kind of nervously, and it looks at you again. And it's really tall so its head, if it's if it sort of extends its neck downwards, it's looking at you eye to eye, but it's probably about nine feet high at the saddle, at the top of its hump, and it kind of shakes his head at you, and it kind of looks at you for a minute and makes this weird kind of sound, but it doesn't back up. Rikter, the one that you're next to, kind of sniffs at you, and it, when it exhales, you get this kind of horrific like smell of rotting garbage and and dead things mixed with fecal matter. And his breath is kind of hot and humid, but it doesn't seem that angry at you. It's just kind of sniffing, um, Mossy, yours looks at you, and it kind of comes up, and it sort of sniffs at your fur curiously. It's kind of looking at you, and then he goes and it spits on you, and it's this kind of nasty, thick, hot, like almost sulfurous, molten, not molten, but damp rock that kind of slowly runs down your fur, and then it kind of goes and moves its mouth in these really weird ways, and then it just stares at me well, and then it stares at you again. And all us, the mayor says, Well, honestly, that's a good start here. I'll let me get some saddles, and he gets busy. And you notice it's just him, like doing all this stuff. There's nobody else, and he is putting the he sets the saddles up on them, and the saddles kind of sit behind the humps or in front of the humps. So you sit on these like chair things, almost. And you have rains and but you're basically sitting on a little like, almost like a chair, not a saddle. And he says, All right, let's see. Let's try this. So you in the armor. Yours seems to like you well enough walk up next to it and put one hand your left hand on the right side of the seat, as if you're going to swing yourself up.
+[2:18:10] Rikterr: All right. Rikter, does that give me
+[2:18:13] Ian Lurie: another animal handling check with advantage
+[2:18:19] Rikterr: 14.
+[2:18:20] Ian Lurie: Okay, it when you first do it, the head kind of swivels around and looks at you like, really. But then it gets down and it bends one leg a little bit so it's down low enough and you can now actually put your foot into one of the stirrups and swing yourself up and over. And then when it straightens up, you're like, Whoa. And this thing's legs are so skinny. It just doesn't seem like this thing should be able to stand up. It's just it is the most ungainly creature you have ever seen. It's like a horse made by mistake, but it does seem to, it does seem to hold you up. It is extremely warm up here. This creature has a great deal of heat in it, but it is kind of damp and still very stinky. So Sango, you can do the same thing.
+[2:19:10] James Svoboda: Wait, what am I doing?
+[2:19:11] Ian Lurie: You can give me an animal handling check. Oh, animal handling.
+[2:19:22] James Svoboda: I'm to make this as funny as you want, because that's a natural
+[2:19:26] Ian Lurie: Oh, god. Okay, so you you reach up, and it kind of puts its shoulder down, and when you put your leg into the stirrup, it immediately rolls over onto its back, and you barely, because you're a monk. I mean, you're super agile, you just immediately roll out of the way. But you'd swear the thing laughs. You would swear it kind of goes, Ian makes this weird kind of laughing sound, and then it straightens back up, and it goes down on its leg again, this time, and it actually lets you climb on as if it's like, All right, we had our fun time to get to work.
+[2:20:05] James Svoboda: He a he climbs up with shame all over his face,
+[2:20:10] Ian Lurie: Mossy, give me a roll with disadvantage, because yours does not like you at all. A 10, okay, well, no, a 10 was what you needed. So it comes over to you, and it looks at you, and you think maybe it's going to spit again, and it kind of inhales, and he goes, and then it decides not to, and it lowers itself down. And this one, when it does it, its head turns around on its weird, weird ass neck, and it watches you the entire time that you climb into the saddle. And then it keeps watching you while it stands up. And then it turns his head around, and kind of goes, Huh. And you guys are all now saddled up.
+[2:21:04] Mossy Oak: I shall call this one murder face.
+[2:21:07] Ian Lurie: Ulo says, I honestly you've done quite well. I can see why. Searcher thinks you can do this. If you can write a fire steed, you can probably do anything. I you guys right out of the village and there is nothing out here. I mean nothing. There's no flora, there's no Fauci. Someone give me a D 20,
+[2:21:43] James Svoboda: that's Jamie
+[2:21:47] Ian Lurie: 14, okay. Um, nothing happens. It is the most uneventful ride of your lives, except that these creatures are so utterly graceless. It's, like you're it's like you're being pounded on constantly. It's like there is no there's nothing graceful about them, except when they speed up. If they speed up, then actually the rise sort of seems to level out a bit, or at least the horrible bumping and crashing seems to all run together, you're not sure. And every now and then they just decide to stop, and when they do, there's nothing you can do. You just sit there until they decide to start going again. But eventually you follow the compass, and it's pretty it's literally straightforward, because it's flat and there's nothing here, and you come up to this low set of buildings, and they're very, actually, they're not low, I'm sorry, this set of buildings, and they're very, kind of, very rectangular, very smooth on each side, with tons of windows on them and A big entryway with two with a flight of stairs going up into sort of what looks like a big receiving area, big reception area in the front and off to the side, you see massive numbers of crates rolling out of what must be some kind of workshop or factory, just massive numbers of them and being loaded onto, you know what looks like, maybe three or four much larger barges than the one that you flew here on.
+[2:23:31] James Svoboda: Are there any symbols on the on the barges for like a like a shipping company, brand, or anything like that we might recognize. Or
+[2:23:44] Ian Lurie: do you speak? Do you read igneous?
+[2:23:48] James Svoboda: No, no,
+[2:23:50] Ian Lurie: there is a symbol, but you're not sure what it says. And loading
+[2:23:56] James Svoboda: minor illusion, it a couple of times just to go down. So cool,
+[2:24:01] Ian Lurie: loading it onto loading onto those barges, are these creatures you've never actually, I don't think you've. Have you guys ever seen fire salamanders in your travels? I don't think so. Um, so you see these tall snake like creatures with arms but no legs, and they kind of slither along the ground. And as they go, you know, it looks like they're made more of fire than a flesh like it's as they move, as they're slithering along. You know, their bodies are this fire, their tails are fire. But as they move, the fire kind of just dies down. It's not so much that their body's moving across the land as just they're sort of, they're almost sort of rolling along their their fire that's rolling along instead of just slithering. And they're all loading these crates onto these barges. I
+[2:25:04] James Svoboda: uh, what is it? Is it daytime right now?
+[2:25:07] Ian Lurie: As far as you can tell, it is always daytime.
+[2:25:10] James Svoboda: Okay, I was wondering about that, okay, do we
+[2:25:13] Mossy Oak: just bust in, try and be all official me, like DCMA, take it down,
+[2:25:21] James Svoboda: like we gotta be a little more stealthy than that until we can confirm and because right now, all we've seen is boxes. But you should probably like, try to but
+[2:25:34] Mossy Oak: I could just blow up the boxes now and get go.
+[2:25:37] James Svoboda: I know. But what if we bought the wrong boxes
+[2:25:42] Mossy Oak: sound like they've got children in the boxes.
+[2:25:45] James Svoboda: We don't know. It's a box. You don't know what's inside. Fine.
+[2:25:53] Mossy Oak: Rikter, how are we getting in here?
+[2:25:56] Ian Lurie: I mean, there is the big front door with you don't have to go in that way, but there is a big front door. Um, and then there's the warehouse on the side with the doors, with the the entry over there, taking in all the they're taking out all the crates
+[2:26:22] Rikterr: there. Is there a way that you and Sango could stealth inside? Yeah,
+[2:26:31] James Svoboda: we want to wait until it gets dark. I can turn invisible. I don't know if that's gonna happen.
+[2:26:37] Mossy Oak: For it to be invisible,
+[2:26:42] James Svoboda: it's gotta be dark for me to be in this. Oh, really, at least dim light. Yeah, does it
+[2:26:47] Mossy Oak: get dim here?
+[2:26:49] James Svoboda: I don't know. I have only been here couple hours, so
+[2:26:53] Ian Lurie: you have yet to see any dim light here. Let's put it that
+[2:26:58] Rikterr: way. You know this one time. Why don't we just take the direct approach? Let's check some of these crates, and if they have the contraband, we knock on the front door and we stop the operation.
+[2:27:18] Mossy Oak: You gonna go get it from the fire Salamander.
+[2:27:23] Rikterr: Sure oak. He said
+[2:27:25] James Svoboda: it with confidence. I'm following in. Okay,
+[2:27:29] Mossy Oak: can we tie up the fire steed somewhere? Um,
+[2:27:35] Ian Lurie: yeah, actually there's so there's a series of posts across the front. And now that you say that there actually are this sort of Motley mix of steeds and vehicles. So there's, there's a couple of carpets that are just sort of floating gently in front a couple of the posts. There's a couple other fire steeds that are there. There are, there's a couple other creatures that you don't even recognize. One just looks like a big ball of fire with a saddle on it, and they're all attached to those posts as well. So yes, you can just tie them up there.
+[2:28:14] Rikterr: How many fire salamanders were there?
+[2:28:18] Ian Lurie: I You didn't really get a good count. You can give me a quick Perception check though,
+[2:28:27] Unknown Speaker(s): 12. Okay,
+[2:28:29] Ian Lurie: you think there's probably three or four? They're pretty large. They're, you know, they're about nine feet tall. They don't appear to be armed. They are really just carrying boxes back and forth.
+[2:28:46] Mossy Oak: Okay, just go to one of the boxes they've unloaded and open it up. What's in there? You're
+[2:28:52] Ian Lurie: just gonna walk over
+[2:28:54] Mossy Oak: like, there's the sentiments. Are sitting them down, right?
+[2:28:57] Ian Lurie: They're carrying them out to the to the barge. But yeah, they're setting them down outside the barge. Yeah. So you walk over to one, you go to open it, and one of the salamanders says something that you don't understand, but it sounds like, Hey, um, and starts coming over your way.
+[2:29:16] James Svoboda: Uh, would Sango, uh, understand him if
+[2:29:19] Ian Lurie: you're using your power, yes,
+[2:29:20] James Svoboda: it's on all the time. It's just a thing.
+[2:29:22] Ian Lurie: He says, Hey, and starts coming up, going over
+[2:29:25] James Svoboda: there. He doesn't seem
+[2:29:27] Ian Lurie: particularly hostile. Just,
+[2:29:32] James Svoboda: Oh, hey, how are you?
+[2:29:36] Ian Lurie: What are you? You can't go over there.
+[2:29:39] James Svoboda: Why not? I didn't see a sign that said no entrance or no, no nothing or other. We're just looking
+[2:29:46] Ian Lurie: because this is a IO property, and you can't be here, but
+[2:29:51] James Svoboda: this is what property
+[2:29:52] Ian Lurie: you're trespassing.
+[2:29:53] Rikterr: Rikter pulls a piece of iron out of his pocket. He takes it and he throws it towards the salamander and cast hold person.
+[2:30:08] Ian Lurie: Okay, what's the save?
+[2:30:13] Rikterr: Wisdom, 18.
+[2:30:18] Ian Lurie: He says, You, and then his features kind of start to lock up, and he looks extremely unhappy about it, but he can't do anything else.
+[2:30:29] Mossy Oak: Still dig into the box.
+[2:30:32] Ian Lurie: Okay, let's see Daniel's
+[2:30:35] James Svoboda: just gonna sit there and talk to him for a minute,
+[2:30:38] Mossy Oak: not realize he's frozen. Yeah.
+[2:30:43] Ian Lurie: All right, you pry the box open, and inside it, there is a stack of weapons. There's some armor. There are bolts of cloth that looks almost they look almost like they have metal woven into them. So all sorts of items of some kind. You don't know if these are supposed to be protective or not,
+[2:31:09] Mossy Oak: but go off at it or no. Well, the compass
+[2:31:12] Ian Lurie: is pointing into the building, but you're not sure. He didn't. He said that the compass points at the person who's doing this. He didn't say it was pointing at the
+[2:31:21] James Svoboda: items. Maybe you should put a couple of those in your bag and then put the crate back together and we can go inside and chat. Yep,
+[2:31:36] Mossy Oak: bag holding
+[2:31:38] Ian Lurie: you. You turn back and there's now four of those same kind of salamander workers, but they're all keeping their distance.
+[2:31:51] Rikterr: Rikter just looks at them and says, you don't want to be here right now.
+[2:31:59] Ian Lurie: They sort of back up a little bit, and they kind of slither slowly inside the compass points directly into the building. Do you want to go in through the warehouse, or do you want to go around and in the front?
+[2:32:18] Mossy Oak: Let's go into the warehouse. Okay,
+[2:32:22] Ian Lurie: so in the warehouse, there's these four or five salamanders moving about, and they just all seem to be well, they were clearly working at loading all this stuff. They stop now that you're there. They are no longer doing anything. And at the other end of the warehouse there's a pretty simple, plain door, and it's actually a jar, and you can see on the other side what looks like, you know, a large room with a few low tables and benches, a higher desk, kind of at one end, with maybe an azer sitting at it, you're not sure. And then two flights of stairs that wrap around and go up behind that desk.
+[2:33:14] Mossy Oak: I'm just walking following the compass, I assume,
+[2:33:18] Ian Lurie: so it points directly at that desk and to that azer. And the azer is doing something, and looks up and says, Yes, good afternoon. Can I help you something?
+[2:33:32] Rikterr: You are selling counterfeit fire protection material, and we're going to need you to stop
+[2:33:43] Ian Lurie: Oh, you'll want to talk to Aardman. Got it one second.
+[2:33:47] James Svoboda: He
+[2:33:50] Ian Lurie: pulls out a tube, like a clear tube of some material. He lifts there's a little bucket of fire next to him. He lifts out a little, one little thing of fire, and he whispers to it, and he puts it in the tube, and then the tube, he puts the tube into a larger tube, and then it goes, and it's gone. He says, One One moment, and then you hear a voice come from they just pointed at him. It was now it seems to be pointing in a slightly different direction, and from the top of the stairs behind him, you hear a voice say, Yes, may I help you all? Please come. Let's meet.
+[2:34:39] Rikterr: Okay. Walk up the stairs,
+[2:34:41] Ian Lurie: you look up and there is a large bipedal cat striped fur wearing what looks like maybe a blue robe of some kind, and maybe purple, really gorgeous purple pants, and has these green bracers on, almost has tiger striping on him, and then wearing some kind of armor, armored breastplate. You're not sure exactly what he has, huge, big, fluffy paws. And as you walk up the stairs, you see he also has, you know, very large kind of clawed feet. He's about the same height as Mossy, but much thicker build? Is he to back? Safe? No, you don't think so.
+[2:35:52] James Svoboda: How does, how do? How does hands look? They
+[2:35:59] Ian Lurie: look like hands. I mean, they look like paws, you know, kind of like, kind of like mossys.
+[2:36:15] Mossy Oak: If I drop down goggles, what does he look like?
+[2:36:19] Ian Lurie: Looks exactly the same. There is, though, I should say there is an aura around him when you drop the glasses down. Well, everybody has some kind of aura. Actually, I shouldn't it's nothing remarkable, but it is kind of shot through with black, which you have sometimes seen with, you know, well, Faye and fiends both.
+[2:36:46] Mossy Oak: Well, hello, you are not what you seem. Hello,
+[2:36:51] Ian Lurie: I'm not. Yes, I am. I'm exactly what I seem.
+[2:36:57] Mossy Oak: Look as somebody who's best, he's a Fairy Dragon. You are not what you've seen.
+[2:37:02] Ian Lurie: I Okay. I am ardman ardmon ingus. He holds out his hand and gives a little bit of a bow. And I am meeting who exactly
+[2:37:26] Rikterr: I never know when I'm supposed to speak. I'm Richter Shepherd. This is Mossy Oak. That is Jack no gaylos, and that is Reed sangoma, and we are collectively known as Notorious RBG, and that's not going to matter to you one bit. All we've come here to ask you is to stop producing the counterfeit fire protection.
+[2:37:52] Ian Lurie: Oh, okay, I know. I understand now, all right, come with me. Let's go to my office and we can talk. And he immediately turns and starts walking, and he's talking at the same time. And he kind of occasionally he talks to you, but then every now and then, a little fire elemental will pop up next to him, and he interrupts whatever he's saying to you. And he then turns and talks to it, and then it goes flitting away, and then he turns back he starts talking to you. Talking to you again. And he shows you into an office where all around him, you see there's all these photos on the wall of him with other people, all these other different people. And you're not even sure you know. You don't know who these who they are, but it's all these illustrations of him and just you're not sure what they are. And he, he motions to some chairs in his office, and he pulls this really, really fancy kind of flowy chair from behind his desk and sits back. It says, Please have a seat. I have to do
+[2:39:06] Mossy Oak: something. Shove it a little bit farther behind him when he goes,
+[2:39:11] Ian Lurie: sit down. I
+[2:39:12] Mossy Oak: want to be petty right now.
+[2:39:16] Ian Lurie: Yes, you can. He actually just sits down on it. Normally, it's almost like he just shifts his weight back a little further, and he just settles right down. He's extremely dexterous. Yay, cat, like even he says, Sorry, we will talk. I just, I need to do something really quick. And he gets another tube that pops up out of his desk, and he grabs a little fire elemental and he says something to it, and he puts it back into the tube, says, He takes out this little, what looks like a glass jar. And by the way, it's cooler in this office. You're not sure why, but he takes out this glass jar, and in it are small containers that you'd swear have ice in them. He says, I have these flown in from the elemental plane of water. Not many people can do that. Do you want one? They're great. No, you should not come around here
+[2:40:22] Mossy Oak: now. Well, you still can, because your business is done, sir, you're sure.
+[2:40:29] Ian Lurie: Okay, well, all right, the problem isn't the business, it's the business model. See that that's, that's where he that's, I'm assuming this is all coming from searcher over the over that ways, right? He doesn't want us doing this.
+[2:40:45] Mossy Oak: Nobody wants you doing this. People who are trying to use weapons, I think, are fireproof. Don't want to find out they're melting. Yeah,
+[2:40:51] Ian Lurie: most of them don't. You know, most of them aren't using for that kind of stuff. They work well enough for them. No
+[2:40:56] Mossy Oak: Fox, sir. We could end this very cordially, or we have alternates?
+[2:41:03] Ian Lurie: Well, I mean, do we though here, let me show you the factory. Let me show you how we're making this stuff, and then
+[2:41:13] Mossy Oak: you line them up with fairy fire. Okay, it
+[2:41:20] Ian Lurie: doesn't work.
+[2:41:25] Mossy Oak: You are not what you seem. Do you want to talk straight, or do you want to keep bullshitting?
+[2:41:29] Ian Lurie: I am exactly what I seem. What are you talking about? Maybe you should ask me what I am before you just start flinging spells at me. I don't know
+[2:41:41] Mossy Oak: what are you?
+[2:41:42] Ian Lurie: I'm a rakshasa.
+[2:41:45] Rikterr: God. Bless you.
+[2:41:47] Ian Lurie: Give me everyone give me an Arcana. Check,
+[2:41:56] Rikterr: 1130,
+[2:41:57] Mossy Oak: 20. Okay. Thanks. Six,
+[2:42:05] Unknown Speaker(s): sorry,
+[2:42:06] James Svoboda: six, okay,
+[2:42:07] Ian Lurie: Mossy, you know that these are that a rakshasa is a devil, a kind of devil, and these devils are specialties. Are specialists at manipulation. They're great at, you know, kind of building and gathering power they Well, that's, that's really what you know about them. And they generally do look like cats.
+[2:42:40] Mossy Oak: Oh, okay, so what you care about is power. Here, you don't give a fuck about what you're making.
+[2:42:48] Ian Lurie: Well, no, I mean, I provide a service and I receive payment for it, how it's how the world works. I'm making a product, and people are happy with it, so they keep buying it. It works well enough for them. It's not my fault that it costs a ton more for them to make them over there, if people want the more expensive ones they can pay for them. I'm not stopping
+[2:43:07] Mossy Oak: them actually work, and you're just kind of making bullshit, but
+[2:43:11] Ian Lurie: make no problem. So as you're talking, he's actually stood up, and he's walking towards the door to the office. He says, Come on, I have to go check on some stuff. So why don't you just come with me and we can keep talking.
+[2:43:27] Rikterr: No, we're not going to follow you anywhere else. We're going to stay right here. We're going to solve this problem. You're not going to obfuscate anymore, sir.
+[2:43:38] Ian Lurie: Okay, then just wait right here. I'll be right back, but I have to go deal with this. It's a thing with some folks, and I got to do it. So
+[2:43:48] Rikterr: you have a thing with some folks right here in front of you.
+[2:43:54] Ian Lurie: Give me either a persuasion or intimidation check. I'm
+[2:43:58] Mossy Oak: going to use presentation when he says in front of you to make a bellow more, okay,
+[2:44:03] James Svoboda: can Can I insight, he seems shady, just
+[2:44:09] Unknown Speaker(s): dirty. 20 Alright,
+[2:44:12] James Svoboda: 21 on insight,
+[2:44:14] Ian Lurie: he's shady as he's a devil.
+[2:44:17] James Svoboda: Yeah, I was in particular about his reasons for wanting to leave the room. Oh,
+[2:44:24] Ian Lurie: no, he really does have something he has to go
+[2:44:26] James Svoboda: do. Okay, okay, it's you're
+[2:44:28] Ian Lurie: sure that with that role, um, he stops, uh, though. And he says, okay, okay, let's talk. But I really think you should hear my side of this, because all you're getting is from some evil giant that,
+[2:44:48] Mossy Oak: yeah, buzzes about things bigger than you. So in a reasonable way, if you had a product that was not bullshit, we could help you ship that we have means, why is my product bullshit? I'll take the cloth out and just burn it.
+[2:45:05] Ian Lurie: It actually doesn't burn. Smolders little, um, he says, I'm not saying it's completely fireproof. That's and that's not how I'm selling it. I'm just saying it's good enough for the people who are using it for their purposes. I mean, people call them cheap knockoffs, but people buy cheap knock offs all the time,
+[2:45:29] Mossy Oak: giving you reasonable options. Here, you can go ahead and sell this in a different way. You can make a different product, and you can be just fine without any of the trouble sitting in your office right now.
+[2:45:39] Ian Lurie: Okay, one second, another little fire elemental comes up to him, and he's like, talking to it, and then it leaves. Says,
+[2:45:46] James Svoboda: okay, and I'm listening to the what the little fire elements say. In
+[2:45:50] Ian Lurie: term, they're just coming to him and saying things like, you know, we carton, crate two is loaded on barge one, and then another one comes over and says, you've got a meeting in 10 minutes with the the head of the local sorry, with the manager of the loaders. It's just random little business messages going back and forth. And he says, Okay, let me put it this way. What I'm doing is the way of the future. All right, I got a machine down there,
+[2:46:38] Mossy Oak: but on your tombstone, I
+[2:46:39] Ian Lurie: take one item. It turns them into 10, and I sell them. If I don't do it, someone else is going to
+[2:46:46] Rikterr: so you have a machine down there that does all this well, yeah,
+[2:46:53] Unknown Speaker(s): show it to
+[2:46:55] Rikterr: us. Yeah, we would love to take this tour.
+[2:46:57] Ian Lurie: That's where I've been trying to go.
+[2:47:01] Rikterr: All right.
+[2:47:04] Ian Lurie: So he he walks you along, and the whole way down, he's walking past all these cases loaded with just random paraphernalia, like in one of them, there's just a stick. He says that, okay? So that stick? Do you know who gave me that stick?
+[2:47:23] Mossy Oak: Don't care.
+[2:47:26] Ian Lurie: The Druid of a Cedric gave me that stick. Do you know why? Because I said, druid, you gave me that stick. I'll help you make a new machine. What do you say? And the druid said, Yeah, cool. So, I mean, we're buds.
+[2:47:40] James Svoboda: Which, which, which, Druid of acidia. Uh,
+[2:47:44] Ian Lurie: you wouldn't know him. Um, he just keeps walking.
+[2:47:47] James Svoboda: Actually, I might, no, you
+[2:47:51] Ian Lurie: okay. He says the great druid. That was a really bad role, man. Friends engine,
+[2:48:04] James Svoboda: 29 on insight,
+[2:48:06] Ian Lurie: yeah, no, he's bullshitting. He doesn't. He doesn't know any dread. He's an utterly full of shit. He takes you down, and you go into this room, and the room looks like and we're going to end here tonight, but the room looks like that, and what you see is a Big workshop, and at one end of the workshop, there's what looks, for all the world like some toys and a gaming table, and there's like a little little like buffet set out and a bunch of drinks and stuff that people just occasionally stop by And and grab some food and whatever while they're working, and then in the middle of the room is this enormous workbench. Looks like it's made, probably, of some kind of metal with some kind of device in the middle and four poles that are providing some form of electricity or energy to the machine. And as you're watching, an azer carries some kind of Warhammer over, sets it on this side, then flips a lever, and there's a flash of some kind of magical light. And then over here appear a whole bunch of hammers, and they all look about the same, not totally the same, but about the same. And then one of these. And then not one of these, but a different fire salamander comes over and starts loading them up. He says, See,
+[2:50:03] James Svoboda: so you create knockoffs off of something that a searcher created.
+[2:50:10] Ian Lurie: You say, knockoffs? I say, I am bringing these items to the people, right? They have access now to all this stuff and that they couldn't do before.
+[2:50:23] James Svoboda: Doesn't the searcher have, like a trademark or whatever on these items, a what? It's a human word? It's hard to translate down here. So the way this was described to us is you're taking these items to the same markets that searchers items are going to, and you're making replicas of his items and selling them cheaper. And he doesn't really like that. Don't you have any other market in the world, in the in the planes, in the multiverse, that you could sell these to?
+[2:51:09] Ian Lurie: Um, so when you say that four, four of the armed and armored salamanders kind of gather up behind him, and he says, Well, I could, but that wouldn't be as much fun when he says that, when he says that the four salamanders just leap at you guys, and that's where we'll pick up next game. Trying to be You can't reason. You can't reason with tech bros. All right. Far as he's concerned, he gave his guys a foosball table. He's making lots of stuff, and that's how
+[2:51:50] Mossy Oak: look. I was trying to be polite and not interrupt on this, but Mossy has had shatter ready, and is it
+[2:52:00] Ian Lurie: will probably be a brief, messy fight, but an entertaining one. Rakshasa are pretty bad news, but they're not they're not that tough,
+[2:52:14] Unknown Speaker(s): awesome. I was
+[2:52:15] Ian Lurie: gonna sorry. I was
+[2:52:17] Rikterr: gonna say the only bad news we recognize is Percy's bad news.
+[2:52:23] Ian Lurie: I was going to name him peel Natal, but decided that was a little too heavy handed. So
+[2:52:32] Rikterr: Alright, everyone have a good night.
+[2:52:35] Mossy Oak: We'll see you next.
+[2:52:35] Ian Lurie: Yeah, oh, so, oh, we're not going to have a game next time. So we should figure out if we want to play, because James has some stuff going on, and I'll have just finished the the ride the hurricane. So just figure out if you want to have a game like the following week or something like that. Hell yeah.
+[2:52:56] James Svoboda: Awesome. Alright. Well, we got for two weeks. So, oh,
+[2:52:59] Ian Lurie: okay, alright. So actually, you know, it'll just be forward two weeks. All right, cool, okay, all right, talk to you guys later.
+[2:53:06] James Svoboda: Bye, everybody. You.

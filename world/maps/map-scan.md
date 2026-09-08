@@ -1,0 +1,16 @@
+---
+type: map
+title: 'Map: Scan'
+description: 'Map: Scan — 0.2 MB original in the source vault.'
+resource: file:///Users/i.lurie/praxia/_stories/the-leaning-leg/maps/Scan.jpeg
+status: draft
+generated:
+  by: recall/claude-opus-5
+  at: '2026-09-05T21:46:42Z'
+  method: read-and-extract
+confidence: stated
+---
+
+![Map: Scan](../../assets/maps/map-scan.jpg)
+
+*Thumbnail, 1200px. The full-resolution original is at `/Users/i.lurie/praxia/_stories/the-leaning-leg/maps/Scan.jpeg` — see `resource`.*

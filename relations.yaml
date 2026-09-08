@@ -1,0 +1,64 @@
+# The relation vocabulary — the verbs of the graph.
+# Derived from what the Praxia text actually asserts, not invented up front.
+# Each relation is recorded in ONE direction only; the reverse index in
+# review.md answers the other ("who works at X", "who hates X").
+located_in:    {label: "Located in",    inverse: contains}
+contains:      {label: "Contains",      inverse: located_in}
+rules:         {label: "Rules",         inverse: ruled_by}
+ruled_by:      {label: "Ruled by",      inverse: rules}
+founded_by:    {label: "Founded by",    inverse: founded}
+led_by:        {label: "Led by",        inverse: leads}
+member_of:     {label: "Member of",     inverse: has_member}
+former_member_of: {label: "Former member of", inverse: had_member}
+works_at:      {label: "Works at",      inverse: staffed_by}
+owns:          {label: "Owns",          inverse: owned_by}
+based_in:      {label: "Based in",      inverse: base_of}
+serves:        {label: "Serves",        inverse: served_by}
+ally_of:       {label: "Allies",        inverse: ally_of}
+enemy_of:      {label: "Enemies",       inverse: enemy_of}
+family_of:     {label: "Family",        inverse: family_of}
+mentor_of:     {label: "Mentor of",     inverse: mentored_by}
+captains:      {label: "Captains",      inverse: captained_by}
+crew_of:       {label: "Crew of",       inverse: crewed_by}
+killed:        {label: "Killed",        inverse: killed_by}
+killed_by:     {label: "Killed by",     inverse: killed}
+aspect_of:     {label: "Aspect of",     inverse: has_aspect}
+imprisoned_in: {label: "Imprisoned in", inverse: imprisons}
+guards:        {label: "Guards",        inverse: guarded_by}
+holds:         {label: "Holds",         inverse: held_by}
+seeks:         {label: "Seeks",         inverse: sought_by}
+participated_in: {label: "Took part in", inverse: participants}
+participants:  {label: "Participants",  inverse: participated_in}
+occurred_at:   {label: "Occurred at",   inverse: site_of}
+part_of:       {label: "Part of",       inverse: has_part}
+succeeded_by:  {label: "Succeeded by",  inverse: succeeds}
+authored_by:   {label: "Written by",    inverse: authored}
+about:         {label: "About",         inverse: subject_of}
+
+# Inverses, usable in their own right when that is the natural direction to
+# record (a tavern's owner is a fact about the tavern; a house's members are a
+# fact about the house).
+owned_by:      {label: "Owned by",      inverse: owns}
+staffed_by:    {label: "Staff",         inverse: works_at}
+leads:         {label: "Leads",         inverse: led_by}
+has_member:    {label: "Members",       inverse: member_of}
+had_member:    {label: "Former members", inverse: former_member_of}
+base_of:       {label: "Base of",       inverse: based_in}
+founded:       {label: "Founded",       inverse: founded_by}
+mentored_by:   {label: "Mentored by",   inverse: mentor_of}
+captained_by:  {label: "Captained by",  inverse: captains}
+crewed_by:     {label: "Crew",          inverse: crew_of}
+has_aspect:    {label: "Aspects",       inverse: aspect_of}
+imprisons:     {label: "Imprisons",     inverse: imprisoned_in}
+guarded_by:    {label: "Guarded by",    inverse: guards}
+held_by:       {label: "Held by",       inverse: holds}
+sought_by:     {label: "Sought by",     inverse: seeks}
+site_of:       {label: "Site of",       inverse: occurred_at}
+has_part:      {label: "Parts",         inverse: part_of}
+subject_of:    {label: "Subject of",    inverse: about}
+authored:      {label: "Wrote",         inverse: authored_by}
+served_by:     {label: "Served by",     inverse: serves}
+succeeds:      {label: "Succeeds",      inverse: succeeded_by}
+rival_of:      {label: "Rivals",        inverse: rival_of}
+depicts:       {label: "Depicts",       inverse: depicted_by}
+depicted_by:   {label: "Maps",          inverse: depicts}

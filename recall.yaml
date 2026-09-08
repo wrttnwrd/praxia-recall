@@ -1,0 +1,25 @@
+name: praxia-recall
+okf_version: "0.2"
+source: /Users/i.lurie/praxia      # READ-ONLY. Never written to.
+bundle: .
+concepts_dir: world
+
+# This bundle is not built by mapping source frontmatter. It is built from
+# graph.yaml, which was derived by READING the vault. Source frontmatter was
+# treated as a hint; the assertions come from the prose, and each carries the
+# sentence it came from in `evidence`.
+method: read-and-extract
+build: scripts/build.py            # graph.yaml + source bodies -> world/
+review: scripts/review.py          # -> review.md, index.md files
+
+# No tag layer. The graph carries the meaning: what a concept IS lives in
+# `type` (see types.md), how it relates lives in relations.yaml, and closed-set
+# properties (species, alignment) are plain frontmatter fields.
+tag_kinds: []
+attributes: [species, alignment]
+
+adapters: [obsidian-vault, otter]
+
+# otter: session recordings -> items/otter/<YYYY-MM>/ (cards) and
+# raw/otter/<YYYY-MM>/ (speaker-attributed transcripts). Cards link to the
+# session concept of the same date with `about:`.

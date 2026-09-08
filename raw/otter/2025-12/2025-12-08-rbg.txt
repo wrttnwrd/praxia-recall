@@ -1,0 +1,681 @@
+# Ian's Meeting Notes
+# Otter recording 2025/12/08 16:58:33 (2h 55m) id T6YDG4o3O3tAypwhQUOsxHKlqSM
+# https://otter.ai/u/T6YDG4o3O3tAypwhQUOsxHKlqSM
+# Speaker-attributed transcript, verbatim. Raw source for the card at /items/otter/2025-12/2025-12-08-rbg.md
+
+[0:01:54] Ian Lurie: VB, hello. Like the background,
+[0:02:06] Rikterr: I figured it was time for a change.
+[0:02:11] Ian Lurie: So that natural 20 really threw a cramp into my plans. Let me tell you.
+[0:02:18] Rikterr: I told my partner I was like, up. I'm gonna piss Ian off again, I wrote a natural 20, but the best thing is, I've already wasted it now, so the next couple of rolls you asked me for are going to be two.
+[0:02:30] Ian Lurie: That is my sincere hope. Hey, James, nice background. Jamar, thank you, brother. That's great. Brother, that's pretty cool. I said the same thing. That's why I was laughing.
+[0:02:49] Rikterr: Okay, now, in this new version is I don't like every time I mute and unmute, it makes a beeping in my ears, like that's gonna get annoying. Yeah, in my just talk to me.
+[0:03:01] Ian Lurie: Weird. Doesn't do that to me. Well, wait, I'm not muted. Hold on.
+[0:03:10] Unknown Speaker(s): No, you're lucky
+[0:03:14] Ian Lurie: I'm not wearing headphones that might make a difference, yeah.
+[0:03:18] Rikterr: Oh, good one. James.
+[0:03:22] Ian Lurie: Sango isn't lost. Sango has been relocated
+[0:03:27] Rikterr: the unfound.
+[0:03:28] Ian Lurie: Yes, Sango knows exactly where he is. Well, in a metaphysical sense, I I think the windstorm has died down, So we haven't lost electricity yet. We probably won't. I
+[0:04:29] Unknown Speaker(s): Okay, everything's broken. Is it working? Yeah, can hear you. I can't hear you. Pass, test,
+[0:04:43] Ian Lurie: yep, we can hear you. Can hear me. Oh, hey, what's up?
+[0:04:59] Unknown Speaker(s): All right, would not hear what Jamar said he was on mute.
+[0:05:06] Ian Lurie: Oh yeah, I wasn't. I wasn't looking right then, okay, get this shared. Wait for JP, he said he was on his way downstairs. So jelly. See Jasmine Crockett running for Senate in Texas.
+[0:05:42] Sango the Lost: Yeah, I saw that. Yeah,
+[0:05:46] Jamie Indigo: that's right. Sango Ian got himself banished.
+[0:05:49] Ian Lurie: Yes, he is banished,
+[0:05:51] Unknown Speaker(s): buddy, unless you have soup,
+[0:05:55] Sango the Lost: yeah, at least I have soup.
+[0:05:57] Ian Lurie: He's banished. The bigger problem is he's banished and there's no one there to help. Somehow you got to break that precinct.
+[0:06:04] Unknown Speaker(s): How he would have wanted to go,
+[0:06:07] Ian Lurie: Yeah, you're right. Permanently bent. No, there's no you can't be permanently banished.
+[0:06:11] Unknown Speaker(s): The pack of smokes went out for him.
+[0:06:14] Ian Lurie: Yeah, it takes Yes, exactly he can. When he reappears in a minute, though, he might be surrounded by Soho again, ready to just pummel him senseless. I don't know that would be the normal banishment tactic, right? You You banish something, and then everybody gets positioned right around the spot that they were banished from, and just gets ready to just wail on them the moment that they appear. You
+[0:06:45] Rikterr: it'd be so great if Sango could go in corporeal at that moment, and they all stab each other at any time.
+[0:06:50] Ian Lurie: And if anyone could do it, it would be a monk, right? I mean,
+[0:06:55] Speaker 1: I have faith in our monk's ability to stab. I believe in him. I making sure.
+[0:07:10] Unknown Speaker(s): Okay.
+[0:07:22] Jamie Indigo: Ian, you would have liked the Durham folk. It was, it was the old school kind of nerd, yeah, the
+[0:07:30] Unknown Speaker(s): Witch folk. Oh, the Durham, Durham event, yeah.
+[0:07:37] Ian Lurie: When Patrick invited me, I figured it must, must be the old school crowd, because he was doing the invites.
+[0:07:42] Jamie Indigo: So, yeah, I was like, oh my god, it's just all of my favorite people. This is delightful. And Giacomo just fucking nailed it. Man, his work about, like, computed layout and the DOM tree, like, I need to update like, four of my dev docs, and
+[0:08:01] Ian Lurie: that's, that's stuff that I I need to get better at. I don't know that much about it.
+[0:08:08] Speaker 1: I have a great cheat sheet, Doc, if you want that.
+[0:08:11] Ian Lurie: Yeah, that'd be cool. My technical knowledge stops right about at the DOM. Like, I understand how you know what the DOM does and how it fits into things. But if you ask me, like, what's being rendered, when
+[0:08:27] Speaker 1: my favorite part was shit, talking, not Microsoft shit. Oh, glorious.
+[0:08:37] Ian Lurie: There he is.
+[0:08:39] Speaker 1: Oh, we're so fucked here. Oh, Bob. So I kind of want to know what rikter's monolog has been this whole time while standing on the beach.
+[0:08:50] Sango the Lost: I'm pretty sure there's something like those motherfuckers left me over here to do nothing.
+[0:08:56] Rikterr: I've got a lovely bunch of coconuts. It, or that
+[0:09:05] Speaker 1: first chill out time the rikters had in moons.
+[0:09:13] Rikterr: Right now, he's not happy that he smoked his doob that direct gave him
+[0:09:20] Ian Lurie: watching all this shit unfold at a distance, not able to really get there. Yeah, okay, I probably don't have to do much of a recap. You guys kind of remember where we're at. Oh, wait,
+[0:09:35] Jamie Indigo: hey, DM, I realized that I did not like distribute out alchemy my morning's potions.
+[0:09:42] Ian Lurie: Okay, do that. Yeah, yeah, I'll let you. Let you write comment.
+[0:09:54] Speaker 1: Oh, God, I lost my notes in the tabs again. Please carry on while I okay.
+[0:10:00] Ian Lurie: So you guys remember where you're at. I believe we stopped at the top of the order. So. JP, that's track. You are down here. Surah is feared. She is running away. Whoops, and everything's blurry. No, she is feared and running away. You have the Sahu again, priestesses, weapon trying to trying to beat on you a little bit. And you've got these guys closing in. Five of them, you know, are typical warriors. Another one, you don't really recognize what he is, seems to also be very cautiously, kind of moving in on you, all right, and it's your turn.
+[0:10:48] JP Sherman: I have a wired headset this time. Oh, cool. Okay, I am not in Melee, correct with the priest, right?
+[0:11:05] Ian Lurie: With anybody? Yeah, this is the priestess, right, okay,
+[0:11:13] JP Sherman: okay, that's good. So I think for her, my my action is, is I'm gonna do a guiding bolt into her face, okay? And that's what I'm gonna do, okay?
+[0:11:40] Unknown Speaker(s): Does that make it a cold shot if you go for the face?
+[0:11:43] Ian Lurie: No, I don't think so. It's more of a,
+[0:11:51] Rikterr: yeah, don't you do it.
+[0:11:55] JP Sherman: I'm not doing it. I'm just, I'll be happy wherever the shot takes me. How's that? Okay? That would be a 22 to hit that just hits.
+[0:12:13] Ian Lurie: Hey, she's not. She's not. Doesn't have a ton of hit points, but he's dodgy.
+[0:12:21] JP Sherman: Yeah, no. And that is going to be a 5d six damage radiant. And that's going to be a not great, but 19 points of radiant damage.
+[0:12:44] Unknown Speaker(s): Okay, ouch, rude, all right, any movement, he kind of okay. That's a good,
+[0:13:06] JP Sherman: actually, no, I'm not gonna move. That was my magic action. I don't have any actually, dang it, I totally should have hunters marked her first. That's on me. So then So, and then I'm gonna pop a doctor's mark on her. Okay,
+[0:13:28] Ian Lurie: and that's, that's my round. She is duly marked. Okay. Up next, Sango, you're languishing, Levi, though you are trying to figure out what the fuck is going whoa, God, trying to figure out what's going on. This is you right here. This is what you can see from where you are.
+[0:14:02] Unknown Speaker(s): Look at you, Tiny Tim, tiny, levitating. Tim.
+[0:14:06] Sango the Lost: He just wants to how does he's got a pistol. What's the reloading every other round he can fire, I
+[0:14:13] Ian Lurie: believe so should be on your sheet.
+[0:14:15] Sango the Lost: Okay, yep, he's gonna reload. Okay, and then hide again.
+[0:14:19] Ian Lurie: Okay, give me a stealth check.
+[0:14:24] Sango the Lost: That is a 19 plus three. Okay,
+[0:14:31] Unknown Speaker(s): you are duly stealthed.
+[0:14:38] Ian Lurie: I'm gonna move things a little slower tonight so I can sort of keep up with my own brain. Because last time, we were jumping from one thing to the next so fast that I'm pretty sure I sprained something in my medulla. So I'm gonna try not to do that this time.
+[0:14:52] Jamie Indigo: I mean, Levi, it is a free action to hum spy music to yourself the theme song. The
+[0:15:06] Ian Lurie: Okay, so now on 18, let's see, mossy, you're not until nine. Jed on 18, I'm
+[0:15:24] Unknown Speaker(s): Jed. No. Jed is that our canon guy? No.
+[0:15:36] Ian Lurie: Jed is one of the Oh, I'm sorry. Yes, you're right. Jed is the doctor.
+[0:15:50] Jamie Indigo: That's Jamie's. Jamie, yes, okay, dr, Jed, last time we met, there people were panicking. Jed was not. Jed rallied them to go back at that away. How are we on the panic versus doing something useful?
+[0:16:10] Ian Lurie: The gun crews, a few of the gun crews are still running away. That's these guys. Just, you know, those are crews of people, these guys, and also these guys. Everyone who's facing away is running for their lives.
+[0:16:34] Speaker 1: I'm not gonna do shit for damage, but I want to try and get these, these men, to focus, because I am calm, so I don't know where are you going. I'm trying to cut off the ones who were manning the cannons and a run like chicken shits, because I need them back at the goddamn cannons.
+[0:16:51] Ian Lurie: Okay, well, the nearest one is right there. Okay, so let's see if you can get there. That would be just a hair under a hair over 30. Oh no, 30. I get you there, standing next to this group of guys. They look totally freaked out. You can see they're trying not to panic, but they are. They're moving with extreme focus towards the opposite end of the ship.
+[0:17:23] Speaker 1: This is no scarier than when I treated you all for the clap. Man up to get back to the kenns. That's my compelling speech to them.
+[0:17:31] Unknown Speaker(s): Okay, I'm not all for intimidation.
+[0:17:36] Ian Lurie: Yeah, I'm not sure how that's going to impact them, but I don't
+[0:17:41] Speaker 1: know what he would say. My brain's broken. Okay,
+[0:17:47] Ian Lurie: let's see if the creature, Ian's turn, look at her, does not want to cite to you. Oh, okay, well, look at that. Okay. They actually save. They're like, what the hell that's right, that was pretty awful. I can't be as bad as this. And they turn back towards their doesn't
+[0:18:10] Speaker 1: burn when you flee. It burns when you pee. Come on.
+[0:18:15] Unknown Speaker(s): Oh boy. Okay, okay, gonna be one of those.
+[0:18:21] Speaker 1: Yeah, my brain is done. Okay, it is goopy. Goopy cafeteria, scrambled eggs. Be nice to me.
+[0:18:28] Ian Lurie: Okay, let's see the High Priestess says, you know, I'm not totally unhappy with the way this is going right now, but and I don't see anyone really terrifying up here right now, so I'm going to dammit Action economy is really a pain in the ass because there's pretty much like nothing I can actually. Oh, wait a minute. There we go. She cast spiritual weapon. Ah, and the weapon will appear. Is it isn't
+[0:19:13] Sango the Lost: that concentration? Nope,
+[0:19:15] Ian Lurie: it is not.
+[0:19:17] Sango the Lost: Are you using the 2024, rules? God damn it. No.
+[0:19:23] Ian Lurie: He tried to do that last I did try it last time. You're right. It does require concentration, fine. So there's no spiritual weapons, so there's really, essentially nothing she can do. She's not stupid, so she's not gonna go running into hand to hand when she you
+[0:19:42] Unknown Speaker(s): roll for stupid,
+[0:19:44] Ian Lurie: no, but she doesn't to roll for stupid either.
+[0:19:48] Unknown Speaker(s): We all roll for stupid, sir. Wow,
+[0:19:51] Ian Lurie: what a stupid she's a stupid monster. I'm gonna rebuild these because everything she has is concentration, everything. So if she does any if she casts a spell and it works, that's it. There's no no more. Oh my god, what is wrong with you? She points and she says, Go get you.
+[0:20:13] JP Sherman: She and I are the same.
+[0:20:16] Ian Lurie: She she will just, she's going to try and find some place where she's not going to get shot a lot looks that looks terrible,
+[0:20:32] Unknown Speaker(s): that looks better, because
+[0:20:36] Ian Lurie: she kind of understands how this stuff works. Because, you know, she's a priestess, okay, we have got, let's see the Canon that's no longer freaking out is no longer freaking out. This one is running, as is this one. Run away. And I think that's it. Obadiah, you have a fully loaded, prepped cannon that is aimed at a ship, at one of the long ships.
+[0:21:08] JP Sherman: We shall fire that some bitch, as I say, you don't
+[0:21:11] Ian Lurie: want to fire, I'm sure. But okay,
+[0:21:15] Rikterr: wait, are we? We're pointing that the correct ships, though, right?
+[0:21:18] Ian Lurie: Yes, yeah, there's, there's, there's only a, yeah, there's only a. The only ships in the water right now, aside from the Albion, are enemies. So, all
+[0:21:25] Rikterr: right, let's do this. So that's going to be a dirty 20. Okay, that hits. All right.
+[0:21:38] Ian Lurie: Are you aiming for one that's already been lit on fire by Mossy. Are you aiming for one that's undamaged?
+[0:21:45] Rikterr: Oh, one that's already been lit on fire? Okay, there's going to be 47 points of damage.
+[0:21:57] Ian Lurie: Okay, nice. Cannonball strikes, strikes one of the long ships squarely amidships. It's still floating, but it slows to about a quarter of the speed that it was moving. You can see a bunch of the oars sort of shatter in all directions. There's this booming report of the gun as the smoke kind of shoots out of the side of the ship. When the ball hits the long ship, the long ship just splinters. And you can see, like I said, it's still floating, but, you know, the mast is kind of hanging askew a little bit. It has lost about half its oars on one side, the side that was hit by the ball. And you can actually see the huge dent made in the side, and you're a little shocked, because, you know, you fired these cannons so many times into other ships, like the Albion, and when you do, there's damage. But it's not usually like carving basically a Looney Tunes hole in the side of the ship and then just leaving tons of damage to the ship. So, but that's what happened here. So you and the crew are looking at and your crew are looking at it, and they let out a little cheer because they're, you know, they they like to see you guys always let our cheer when reason hits, and you know that that particular crew is now ready to listen to reason. So, okay, so that was Obadiah. Oh, shit, I forgot the deep diver. That's right. Okay, Mr. Deep diver, this one, so who, again, who looks a little bit different from the other warriors, who's a little bit beefier? Goes? How fast is he? Not very fast. He will advance to here. And then this one, actually, this one dashes right up to your drag. Then see that was 15. Who am I missing? That goes on goes after 15. I don't think anybody. So now we're on to the Sango again, warriors, just
+[0:24:23] JP Sherman: I don't know when Josiah goes. I don't know when Josiah goes, yeah,
+[0:24:28] Ian Lurie: he goes on one you didn't roll very well. Spiritual weapon on you. Track. I got a see here. 21
+[0:24:56] JP Sherman: does that it? I'm going to use my reaction. Can boost my No, okay, but I am going to use my reaction to do my finesse. So now my AC is 28 Okay,
+[0:25:12] Ian Lurie: so the spiritual weapon flails about somewhat helplessly. Can't seem to quite get a grip on anything. Okay, um, Now things get a little grim for you guys. So the Warriors compiling in
+[0:25:30] Unknown Speaker(s): to this group,
+[0:25:34] Ian Lurie: and as they charge up here, ah,
+[0:25:36] JP Sherman: yes, level one meet sure Captain
+[0:25:39] Ian Lurie: Cooper and his troops open fire. Wow, nice. Okay, they kill this one. These are just warriors. They're not quite as tough. This one takes a bullet in the head right from Captain Cooper. This one gets all the way up to them. This one runs in here, Obadiah, you've got some guys running in on you. Yeah, and then these two are moving up here, and as they move up, there's a rattle of gunfire from up on the up in the sheets, which damages one of these guys, but does not kill him. So you got two down. Another one hurt, badly. Hurt, all right, so coming around, that was 14. Mossy, you're up on the ship. I believe you've got several more rounds before you can fire the spell cannon.
+[0:27:08] Jamie Indigo: Yeah, so I did spell cannon, then regular cannon.
+[0:27:12] Ian Lurie: Ballista, yeah.
+[0:27:13] Speaker 1: Ballista, um, how long is it between ballista attacks. Can I attack again with that?
+[0:27:23] Ian Lurie: I believe that's every two rounds. Let me double check. No, that's right, there's a bunch. There's three ballistas on the ship. So I just have it. You can fire each round because they're reloading them.
+[0:27:46] Unknown Speaker(s): So, so I would like to ballista please. Okay,
+[0:27:51] Ian Lurie: do you want to shoot it one, shoot at the one that just got hit by the cannon, or do you want to shoot it a different one? There's another one that's on fire and another one that you damaged. I will go
+[0:28:02] Speaker 1: for the one that they just said with the cannon, because I'm assuming the ship see that one's a threat. So yeah. What is the modifier on this?
+[0:28:15] Ian Lurie: It is plus six ranged attack. I'm
+[0:28:22] Unknown Speaker(s): sorry, checking on a fee. Just,
+[0:28:24] Ian Lurie: just roll a d 20. I
+[0:28:25] Speaker 1: did. I did. I'm checking to see this feet.
+[0:28:29] Ian Lurie: You okay? Do you have a specific feet? That is, I cannot do it on there, so it's only a 12. I think I'm gonna miss. All right, so that Miss misses. You guys see an obody. You see this enormous, this like telephone pole sized piece of wood just go arcing into the water right next to it. It throws water up all over the deck, and it causes even more panic among the crew that are now running around because their ship got blown halfway to hell. Rikter on shore, the orcs are organizing. You see that two of the long ships now are maybe two rounds, three rounds from being in range and starting to fire. If you want to, I'm going to switch maps real quick, hopefully real quick. Yes, I did it real quick. These three groups that you see are four groups, 1234, they are your firefighting squads, and you can arrange them. These aren't this close yet. Don't worry. You can if you want to try to arrange them so that they are better positioned to deal with what's about to happen. The closest ships right now are on this side of the dock. They're over here. So if the rule rules hold, then you figure they're going to start to this side is going to come under fire quicker. You have four crews that you can move around.
+[0:30:21] Rikterr: Rikter is going to talk to is it pronounced rugorem or ruborum regorum regorum? Okay, I've been saying it wrong rugorem. And he's going to say, hey, I have some ideas. But how do you think that we should set up the people that we have to best address the situation we're about to be in?
+[0:30:40] Ian Lurie: You can have had that conversation with him before, but remember, he's all the way up.
+[0:30:44] JP Sherman: Oh, is he okay? I thought, yeah, because
+[0:30:46] Ian Lurie: he's protecting the he's guarding kids up across the town. Damn.
+[0:30:50] Rikterr: I thought he was here, all right, um, then I don't want anyone to get hit by any fire from the ships and lose people before they ever beach. So I want to get all the crews safely to one side right now and bring them over as needed as the ships get closer. And can't just fire point blank.
+[0:31:17] Ian Lurie: Okay, where do you want? Do you want them over, like here, or do you want them like, behind these set their
+[0:31:29] Rikterr: Yes, yes, behind those to shelter, okay,
+[0:31:36] Ian Lurie: all right, and this is the fire crew chief, and he actually stays with you. You know that he's not, he's not a fighter, he's not a warrior. Like these crews usually fight, you know, fires, stuff like that. They don't fight, literal ships coming to light them on fire, but they're ready their game, you know. And these are big dudes. I mean, you know, Orcs tend to be fairly large. They are, you know, if the bandits try to just come running on shore, if the Corsairs come running on shore, you know, they're going to have one hell of a reception. So that's not so much the concern as keeping the fires from catching.
+[0:32:16] Rikterr: Definitely. All right? And rikter is going to do one other thing, yeah, everyone close to him sees him put his hand over this rude etching he's made on the armor, and he just whispers to himself the word Protego, and he's going to use, what the hell is this thing called the metal shell ability on a grown as armor. So for 10 minutes he is immune to bludgeoning, piercing and slashing damage from
+[0:32:47] Ian Lurie: non magical weapons.
+[0:32:48] Rikterr: Nope, from all,
+[0:32:49] Ian Lurie: from everything. Yeah, I gave you that. What the fuck was I thinking? No, you
+[0:32:54] Rikterr: gave me it when it was non magical, but the update made it all haha.
+[0:33:03] Ian Lurie: I'll look at that after tonight, but for tonight, you definitely got that.
+[0:33:07] Rikterr: Oh, believe me, I've studied it so I wouldn't cheat you.
+[0:33:12] Ian Lurie: I'll have to take because that whole fight with her would have gone very differently. But yes, all right, cool tonight. You are invulnerable. You're feeling pretty damn good about yourself. All right, switch back to the other board. Okay? Now, all it is josiah's turn. And Josiah, I believe, no, that's Obadiah. Somewhere around you are in here somewhere, I will find you
+[0:34:06] JP Sherman: Josiah is near the top, like hiding behind a cannon on the right side of the ship.
+[0:34:22] Unknown Speaker(s): Say you Yes, that's you okay.
+[0:34:27] Ian Lurie: What would you like to do? Is it yes, this is you Okay, okay, that's right, because you ran, you saved, so,
+[0:34:39] JP Sherman: yes, okay, there I am. I am going to get a little further move a little further back, actually. No, I'm gonna hide behind a cannon. I'm just gonna hide behind a cannon there and continue to reload and then, yeah, yeah, all right. And then reload that.
+[0:35:06] Ian Lurie: You know you were really scared, but somehow, with the cannon firing, you got that smell of gunpowder now, and you know you're hearing before, it was all kind of quiet, with the just the hissing and the the casting of spells and all these sound you're not none of you are used to. I'll be on crew, but now, you know, you're starting to hear things that are more familiar, and you're starting to sort of settle into and also, you saw, you know that that the Marines could actually put one of these things down. It's not, you know, yes, you're fighting monsters, but you're not fighting unstoppable monsters. So you're starting to get a little bit more of a grip on what you need to have happen here.
+[0:35:48] Unknown Speaker(s): Yep, all right,
+[0:35:51] Ian Lurie: we are back around to the top. So drag.
+[0:35:56] JP Sherman: Oh, Ian's okay. I'm still, does Sarah get a wisdom check or sort of saving
+[0:36:08] Ian Lurie: she is still in line of sight. She cannot make her save until she can no longer see her. Or concentration, if concentration is broken, the spell goes down. Or if she dies, the spell goes down.
+[0:36:23] JP Sherman: Got it? Have the so one blessing, the Sango and who are, like the three, the group of three or four that I see down there, these, yeah, or five. Have they? Have they had their move?
+[0:36:37] Ian Lurie: Oh, well, they, I mean, yes, they've been moving up steadily. So I'm doing some they were spread away, further away. So I'm doing some stuff just to kind of try and compress things a little bit.
+[0:36:51] JP Sherman: Got it okay. As for my first attack, I am going to, you know what? So new round, I'm going to risk that attack of opportunity, and I'm going to close the gap with the priest and give her with it on the first attack with advantage the daggers after my holy spell. All right, I'm done.
+[0:37:39] Ian Lurie: The spiritual weapon hits you the deep diver, unfortunately does not, sorry, fortunately, that's not very nice.
+[0:37:53] JP Sherman: You're good. You're good, man.
+[0:37:55] Ian Lurie: You take how much damage, 12 points of horse damage as the weapon just kind of hits you on the back of the head as you're trying to swim away.
+[0:38:08] JP Sherman: Okay, I am out of temporary hit points, yeah,
+[0:38:14] Ian Lurie: moral victory. All right. You run up on on the priestess.
+[0:38:19] JP Sherman: All right. First dagger, and this is the one with advantage that would be a 26 to hit, yeah, that hits all right. And the that is 1014, points of damage total the Nick attack. A, okay, that is a 27 to hit.
+[0:39:10] Unknown Speaker(s): Yep, that that hits.
+[0:39:12] JP Sherman: Okay, I don't apply Hunter's Mark on this one. So that is a four, three and three, six points of damage.
+[0:39:23] Ian Lurie: You remember to roll with advantage on that first attack, right?
+[0:39:27] JP Sherman: I did, okay. I got a one and like an 18, okay? And then the last dagger attack, whoops. All right, and that is a 23 to hit. Also hits, okay, that's four, seven plus 512, points of damage.
+[0:39:55] Ian Lurie: All right, that she looks messed up. Now, you just ran up and basically quiz an order and she fails her concentration. Check so sure it turns around. She looks pissed. Good girl, yeah, she looks, she looks pissed. She looks she's not so much angry as disappointed, but she is unhappy. Okay, so drag now we are to the High Priestess. No, not the High Priestess. Yes, the High Priestess, okay, all right, I'm going to run this combat down here. So I'm going to run them through all their initiatives, and then we'll jump up just to keep things going a little bit smoother. So Ian's up here, the priestess, you are still not injured, though, right? You've lost all your temporary hit points, but you're not actually down hit points,
+[0:41:01] Unknown Speaker(s): correct, very important.
+[0:41:04] Ian Lurie: Let's see, but her concentration is down. She puts a curse on you. No, give me a wisdom. Save DC for DC, 14,
+[0:41:27] Unknown Speaker(s): okay, um, checking mine, all right, so that was a plus six. Come on. I'm
+[0:41:44] Ian Lurie: uh, 25 well, it doesn't do anything. You feel this brief chill run through you. Um, this kind of almost nauseating, sickening energy, but nothing happens. Um, all right, this deep diver comes up on you. Is flanking. Let's say
+[0:42:12] Unknown Speaker(s): 22 to hit, miss. Sorry,
+[0:42:16] Ian Lurie: I was 21 to hit, which still misses. I know how long? Oh, that's correct, because your AC is
+[0:42:23] JP Sherman: up, damn. Now with the melee attack, I can use my reaction and bump up to 28 this doesn't work if I'm ranged.
+[0:42:32] Ian Lurie: So got it? Okay? Well, all three attacks miss you. He it takes its shot at you with this long Glaive first and then spins around, tries to attack you with by actually biting you, and you manage to spin away from all of it. Spiritual weapon has already acted, but it's time to pile on to drag it.
+[0:43:02] JP Sherman: Chose to do this,
+[0:43:04] Ian Lurie: and they're really fast under our let's see. Can I fit anyone else in here? It can't quite
+[0:43:15] Rikterr: this would direct. Said,
+[0:43:21] JP Sherman: Okay, I feel like I need to take a screenshot of this
+[0:43:26] Ian Lurie: here. Hold on. I'll get everyone facing the right way. There you go. Okay, hold on. There we go.
+[0:43:49] Unknown Speaker(s): Got it. Thanks. Okay,
+[0:43:54] Ian Lurie: all right, so we've got a whole bunch of claw attacks all at advantage, so I'm just gonna, we're just gonna assume that they pretty much have to roll their plus three to hit. So I'm pretty much gonna have to roll in that 20. Oh, and I get a NAT 20. So there's one, one credit. How many do we have total? You total. We have 123455, of them, another Nat 20, and a one, by the way, in that same role. And that was it. So two Nat 20s. You take a total of 14 Points of slashing damage. It's like you're being attacked by piranhas. There's no other way to describe it. It's like you're getting all these little cuts and wounds, but nothing.
+[0:44:59] JP Sherman: We are now officially into my actual hit points.
+[0:45:06] Ian Lurie: Never rub the Ian's face and things like that. Never, ever, ever. Okay. Back up on the Albion Sango, you're still stuck. Levi, what you doing?
+[0:45:29] Sango the Lost: Levi, oh. Levi, Yep, he's right there. I guess he's close enough that he can reach out and stab somebody.
+[0:45:40] Ian Lurie: He can definitely could reach out and stab this one or this one. In fact, you could flank either one of them if you want to.
+[0:45:53] Sango the Lost: I meant like I'm at the top of the stairs or something, right? What's that? I'm above a hatch or something.
+[0:46:01] Ian Lurie: Oh, yeah, you are. You are standing up above. You're at the top of a flight of stairs.
+[0:46:06] Sango the Lost: Okay, I just want to peek out and stab somebody. Okay, go back down.
+[0:46:14] Ian Lurie: All right, so
+[0:46:15] Sango the Lost: that's a 19 plus some stuff. 19
+[0:46:18] Ian Lurie: plus some stuff does hit the warrior, yes.
+[0:46:20] Unknown Speaker(s): That is five points of damage.
+[0:46:30] Ian Lurie: You come up behind him, and he's already sort of wavering and bleeding everywhere from all the from gunshot wounds and everything else, and you just catch him in that perfect place, right on the jugular, and he's dead.
+[0:46:47] Sango the Lost: Go back downstairs. Yep.
+[0:46:52] Ian Lurie: Are you going to attempt to hide?
+[0:46:55] Sango the Lost: Can I just used an action? I don't think I can hide.
+[0:46:59] Ian Lurie: Right? No, you're right. You're right. You're not a full rogue, okay, so let's see that was 20.
+[0:47:10] Unknown Speaker(s): Jed, dr, Jed,
+[0:47:14] Speaker 1: how are my people around me? Looking anybody bleeding? Too bad.
+[0:47:18] Ian Lurie: No, no one's actually bleeding. Yet.
+[0:47:21] Sango the Lost: Syphilis is all gone, sir, yep, yep.
+[0:47:24] Ian Lurie: All the STDs have been STIs have been taken care of. Sorry, I have to use the new term.
+[0:47:29] Jamie Indigo: Okay, then I would like to shoot a fish, please.
+[0:47:31] Unknown Speaker(s): All right, there's one in a barrel. I would like that.
+[0:47:35] Ian Lurie: They are not in a barrel, but there are two right here, coming very quickly, and they're actually gonna get in the way of this guy, this crew, as they head back to their gun.
+[0:47:46] Jamie Indigo: Yeah, gonna try and shoot one and make room for the soldier. Natural fucking 20.
+[0:47:52] Unknown Speaker(s): Okay, so 24 and I need a d8,
+[0:48:02] Speaker 1: eight. Points, okay, oh, 10 points. No, wait, that's sorry, eight points, okay, it is. Its speed is reduced to 10 feet.
+[0:48:16] Unknown Speaker(s): That's right. Yes,
+[0:48:22] Ian Lurie: it basically gets shot right in the fin, right in the fin, like, square in the chest, and it just, it actually staggers. And it looks surprised, like, you're not sure how a fish, what a surprise facial expression on a fish looks like. But it looks scared like, like, that's not something. It's encountered before.
+[0:48:42] Speaker 1: And then, with my movement, I would like to move myself out of the way of the people returning and, like, get my back against something. If there's cover, that'd be swell.
+[0:48:53] Ian Lurie: Why am I having an issue here? Oh God, no, don't do that. Here we go. You want to move out of the way? So, yeah, so
+[0:49:02] Jamie Indigo: guys step back and I'm like, Yeah, I'm right there. Okay, all right,
+[0:49:10] Ian Lurie: that was Jed, this high priestess.
+[0:49:15] Speaker 1: Oh, wait no, it was an extra 26 we doubled the damage, so that was 16.
+[0:49:20] Ian Lurie: Oh, okay, I was wondering that seemed a little bit low. That smarts more, not good. All right, so Priestess is over here. I'm these guys all start turning around.
+[0:49:50] Unknown Speaker(s): He falls off. That is nothing if not an inspiration.
+[0:49:59] Ian Lurie: And your fellow crew members look also kind of angry, like they don't That was embarrassing, and they don't like being embarrassed. Simple, they're not, you know, they are extremely proud as a crew. They have never broken and run in front of any enemy. And now suddenly, granted, these are weird fish people who fire things out of their fingers and stuff like that. But still, they are pretty unhappy about that. So they all turn. They can't do anything this round, but they are now in a place where they can start attacking these sangoog Ian warriors. Run up to him. And I'm not going to run every single one of these fights, because it's, it's not exciting for you guys. These guys run up to here, this one though goes, Oh, I see what just happened, and heads for the top of the stairs and immediately sees you, Levi. We're just gonna do this theater in the mind. As much as I'd love to have show you the below decks and have you fighting down there, I don't, I don't think that that's really necessary. So this warrior comes up to you, and it is incredibly fast. You didn't realize it before, but this thing is on you and swinging at you in seconds, it gets a 16 to hit.
+[0:51:34] Sango the Lost: Oh, that's my AC
+[0:51:36] Ian Lurie: and a 15 so that one misses, you take four points of slashing damage, as this thing kind of just comes up to you and just very quickly drags its claws across you. And not in a pleasant way. These guys come running up here. They take their swings. Just do a quick general roll. Wow. They suck. Okay, here, Obadiah, one of them takes a swing at you, getting a 15 to hit. Hits. Okay, you take four points. So slashing damage, it's this guy right here. And you can, you can continue to aim your gun. You don't have to change what you're doing, but you do take that hit. You do also see, though, that there are other crew members coming up to protect the gun crew. Actually, this guy's not because he's got us. So who again, right in his face. So there now you can see, now there's a melee breaking out, like you can see the Marines here are into it with this guy. There's another Marine over here that's fighting with someone you know, various crew members all around you. There's, you know, so hoogan warriors and crew members you see in one corner, out of the corner your eye. In one place, you see four crew members use boarding pikes to pull one so hoo again, Warrior down on his back, and then they just, they basically just jump on it and go full on Lilliput and just start like hacking away at it with axes until it's dead. Another place you see one of the Soho again, take a swipe with its claws and take down a crew member. And then in another place, you see two of the Marines aim their guns and fire at another warrior that's charging them. It looks to you like given the numbers the Soo, again, can't win this they're not gonna be able to win this fight. He goes to hear the deep diver. Oh, God, what did I do? Did I just drop him to his death inside the ship?
+[0:53:56] Unknown Speaker(s): No, that him. Yeah, right there,
+[0:53:59] Ian Lurie: the deep diver goes right up to the captain and takes a swipe with this huge halberd that he's got, this huge Glaive, sorry that he's got. And the captain dodges back at the same time, and it misses. Then the deep diver swings again. The captain parries it with his smaller with his sword and starts to bring his pistol up, and that'll happen next round. All right, so that was all our fourteens and our sixteens. Obadiah. Do you want to spend this round Amy or gun, or do you want to deal with the guy that's kind of up in your face? It's up to you.
+[0:54:49] Rikterr: If Obadiah moves away with that. Mean that it will take an additional turn to reload and aim the guns
+[0:54:55] Ian Lurie: your crew will continue reloading and naming, but they will be down one member. So yes, it will take longer. Does that make sense?
+[0:55:04] Rikterr: No, no, it makes perfect sense. It's just okay, um, Obadiah would stay disciplined, reloading. Reason, so we're going to reload. Reason, okay,
+[0:55:23] Ian Lurie: you hear one of the Marines yell, I've got this one just as you're doing that down, and I'm going to keep everything on on the Albion, and then we'll switch to Richter on shore in a minute. Um, okay, Josiah, that's you right there.
+[0:55:55] JP Sherman: Okay, Josiah is going to take one rifle shot at looks like the closest one that the right. Yes, okay, come on buddy. That would be a dirty 20 that pits all right damage would be a, say, nine points of damage.
+[0:56:35] Ian Lurie: That one looks really hurt now, and that's the one that that Dr Jed shot as well. Yep. So it's got a couple of bullet wounds in it. Excellent. These things are durable, like, you know, you know that those two shots should have killed it if it was, if it were a normal, you know, quote, normal creature. So you're not sure what these serpents are, but they're definitely not something you've encountered before. I guess that's kind of obvious. You know what I'm saying? Okay, switching to the docks. Actually, I'm really sorry, Jamar, do you mind if I come back to the docs in
+[0:57:18] Rikterr: a couple? Oh no, no, go ahead. There's a lot more battle going on everywhere else.
+[0:57:22] Ian Lurie: I'm just afraid my computer's gonna melt if I keep switching maps. So what we're gonna do is we're gonna fast forward here, and then we'll rewind and go to the battle at the docks when it's when, when events have kind of caught up, like right now, the fact that the two fights are out of sync doesn't really matter, but it will in a few rounds. So, okay, going back underwater. Drag. You are
+[0:57:50] JP Sherman: completely surrounded. You
+[0:57:51] Ian Lurie: are Complete you're exactly where you wanted to be.
+[0:57:56] JP Sherman: Okay, I am gonna cast conjure animals, okay, which is in a 10 foot sphere centered at me like a five foot radius i summon. I'll just call them razor flies. And everyone that within five feet of me has to do a DC 18 wisdom saving or take full damage. What kind
+[0:58:27] Ian Lurie: of creatures are you summoning? I'm just
+[0:58:29] JP Sherman: gonna for flavor of like, Razor flies. Okay,
+[0:58:32] Ian Lurie: but it's just so it fits the environment. Though. You're not like summoning birds underwater and they all just die. Making sure that's not how the spell works.
+[0:58:39] JP Sherman: Yeah, yeah, let's say paras or whatever.
+[0:58:42] Ian Lurie: Okay, so all these, all these little teeny Barracuda up here and just start slashing the shit out of everything. Okay, yes, um, how much damage?
+[0:58:51] JP Sherman: DC, 18 wisdom saving for although, okay,
+[0:58:55] Ian Lurie: I'll just roll as a group for them. Nope, sucks, fuck. Fuck it up. The priestess saves, okay,
+[0:59:02] JP Sherman: the priest takes half damage, okay, of 18 points, okay, and everyone else takes 27 points of damage.
+[0:59:15] Ian Lurie: Priestess does not look good. In fact, the priestess looks badly fucked up. Okay, so that was that was you. So now the priestess,
+[0:59:35] JP Sherman: and then Sarah, oh, Sarah dashes to me.
+[0:59:39] Ian Lurie: Okay, how fast is she 60?
+[0:59:43] JP Sherman: But she does not have a swimming space, so it's probably half right.
+[0:59:46] Ian Lurie: So basically she can dash 60, which would put her right about there, yep. So the priestess has just been filet, and now she sees this giant angry dinosaur swimming towards her under the water. Okay, a bunch of things happen all at once. First of all, where are you? Where are you? Where are you? I meant to save this somewhere, and I didn't, sorry,
+[1:00:28] Unknown Speaker(s): these sharks appear.
+[1:00:31] JP Sherman: Oh, I just chummed the water, didn't I?
+[1:00:33] Ian Lurie: Well, no, the sahugan had this annoying power called Shark telepathy, where they can call sharks. One of them goes straight for Surrey. The other ones come at you from above.
+[1:00:49] JP Sherman: If they enter five feet, they need to do the wisdom saving God
+[1:00:52] Ian Lurie: damn it. Well, they're not very smart, so,
+[1:00:56] JP Sherman: all right, each of them will take 28 points of damage. Okay, well, that's
+[1:01:06] Ian Lurie: they strut and Fret their brief time upon this stage and they are immediately dead. That is the best thing I've ever seen. I just that is like, wow. Oh, and this one rolls a natural one and misses. So the the entire species of shark kind are now going to decide that they will never, ever answer a telepathic call from a Soho again, again, the High Priestess seeing that she is well within the realm of destination fucked. They're all gonna get okay. They all go into a frenzy because they smell your blood in the water drag and you see all of their pupils get bigger, and their faces kind of change into this, these almost angry brictuses, these kind of just their their teeth are twisted back. Their muscles seem to get a little bit bigger. The priestess takes two swings at you with their staff.
+[1:02:26] JP Sherman: So real quick, if they stay, okay, so if they stay within the emanation on their turn, if they don't leave, they take damage again.
+[1:02:35] Ian Lurie: Okay. And how big is the emanation?
+[1:02:41] JP Sherman: It is a five foot radius or 10 foot
+[1:02:43] Ian Lurie: spirit, all right? Well, they're all going to take swings at you first, and then they'll they'll all leave. So the priestess got a 22 and a 24 to hit.
+[1:02:52] JP Sherman: That'll miss. I'll use my reaction and She'll miss, right?
+[1:03:02] Ian Lurie: Nat, 20 Ouch, and a 25 miss. How many reactions do you have? Oh, no, you take the one reaction than that. Okay, got it. I get it. Yes, another 25 another net 20. All these roles at advantage, they start to add up. Yeah, miss, miss, and I'll do the I'll do the deep diver in a second. So that's two hits for 13 slashing each
+[1:03:47] JP Sherman: and they were crits,
+[1:03:49] Ian Lurie: that they were 13 because they were crits.
+[1:03:51] Unknown Speaker(s): Okay, got it? Yeah,
+[1:03:55] Ian Lurie: they are not showing direct their o faces. I am not even going to try it. I don't see now, I've got the fucking picture in my head. Okay, the deep diver. It's going to take two attacks with its Glaive. Those movies, come on. Nope. They all miss. Oh, and the spirit will open also misses. Then they all say, run away. This sucks. You said it's 10 feet. 10 feet,
+[1:04:41] JP Sherman: 510 feet total, five feet center, five foot radius. Centered on me,
+[1:04:46] Ian Lurie: five foot radius, okay, no imagination is not always good. All right, so they stopped about here then, okay, back up to the Albion. Up here the it is feeling more like a conventional shift to ship combat. Now, for everybody on the Albion, it's, I mean, clearly this is crazy, right? You've never in your worst nightmares. Imagine a situation like this, but it is starting to feel like, okay, these things can be hurt by bullets. They can be hurt by swords and pikes. We can win this. We're getting stuff organized. Also these. A few more of the guns start firing as some of the gun crews get set back up, and you see two of the two of the long ships just get blown to pieces. Both of them are ships that have been that were hit by Mossy previously just and Mossy, we'll get to you in one second. Don't worry. Ashley, Mossy, why don't you go ahead? I'm sorry. You still have three Ramos to go on the spell cannon so you can fire ballista if you want to.
+[1:06:11] Speaker 1: Yeah. Okay, so you just hear on the party line, because Mossy is not alone up there, going fair a Jaca dorme, and then you hear boom, because it's a crit as we go down. And I want to whatever one's closest to the ship is gonna get Kirsch planet. Okay,
+[1:06:42] Unknown Speaker(s): so what is the Ballista damage?
+[1:06:46] Ian Lurie: You should have it. But hold on, I might Ballista is 8d, 10 piercing. Sorry, you're at long range. So 5d, 10 piercing, 827,
+[1:07:14] Speaker 1: 29 times. 258, points of Kirk, crunch,
+[1:07:19] Ian Lurie: all right, that is another ship down, Obadiah. You watch as you're aiming your gun, and the one that you shot previously, where the the bolt fell right next to it, another one just hits it square amidships, and something had weakened it. The ship just splits in half. Everybody ends up in the water, where, ironically, some of the sharks that were telepathically summoned decide that this is a target that they can handle, and they start chowing down on some of the the blood Corsairs
+[1:07:55] Unknown Speaker(s): party line are those fucking sharks.
+[1:07:59] Ian Lurie: They are fucking sharks. There is no question about it, all right, High Priestess, I do not like where this is going, but I know that if I stop concentrating, that monster is going to come back. So I'm just going to stay right here and keep concentrating. Levi you have a Soho again, right up in your face. It is drooling, ravening just it smells like fish, ironically, and it is just slashing at you with these claws. It's right up next
+[1:08:39] Sango the Lost: to you. I'll try to hit him upside the head with my bling pin. Okay. Oh, that's only a nine,
+[1:08:47] Ian Lurie: okay. That misses here. Oh, we die. You're still aiming deep diver on the captain takes another huge swipe at him. The captain is a God, apparently, blocks it and discharges his weapon directly into the deep divers face, doing an immense amount of damage. The Deep diver is still up, but you can see this, you know, just sort of off camera, just this bloody wreckage where the gun went off in his face, and it kind of, it kind of jerks his head back and then turns towards him and lets out this bellowing roar. It's clearly pissed, although also clearly in bad shape. And it looks like there's someone else starting to draw a beat on it as well. And then all the warriors are all doing their things, doing warrior things. Obadiah, the one on you, gets a 14 to hit.
+[1:10:01] Rikterr: That's it. Okay?
+[1:10:03] Ian Lurie: So you take another four point slashing its claws basically rake across the back of your neck, but you twist a little so you take it in the shoulder instead. It hurts. It's not the worst thing that's ever happened to you, but it definitely hurts. Leave off. Levi, he gets a 12 on you.
+[1:10:25] Sango the Lost: That's a mess. Oh shit.
+[1:10:31] Ian Lurie: All right, rolling on these other guys. Well, the crew actually takes down two more. There are more wounded among the crew, but the Marines here are in hand to hand at this point, and they chop down another one, which whose place is immediately filled by this one. These guys do take down this crew member. He is dead. This one is readying a weapon, and these are starting to get a little more organized. Look out, doctor, it's not safe. Up here is what they yell at you. Jed, as they form the line. A few more of the cannon boom out, and we are down to Dr Jed, what are you gonna do?
+[1:11:28] Unknown Speaker(s): Okay, there's a bunch of enemies in front of me, huh?
+[1:11:33] Ian Lurie: There's a shit ton of them. Yeah. There is a wall of people between you and them now, but they do Okay,
+[1:11:40] Unknown Speaker(s): can I Is anybody down?
+[1:11:43] Ian Lurie: Um, there's one person down, but he is dead.
+[1:11:47] Unknown Speaker(s): Well, that's not gonna do me any good. A
+[1:11:49] Ian Lurie: bunch of these guys do have varying wounds on them, so you can, if you want to try to treat for him, example, for example, because he's taken about four hit points of damage, which is a lot when you're one of these guys, that's like a third of his hit points.
+[1:12:08] Unknown Speaker(s): He's down four. He said four. Yes.
+[1:12:14] Speaker 1: Okay, doctor took an oath. Doctor's gonna heal the oh, I don't need to roll for this. I can just do a field dressing every five rounds. Oh, that's not a d8 though. Okay, he is. He's healed six points. He feels better than before.
+[1:12:42] Ian Lurie: As he goes running by you. You slap a dressing on this slash he has on his arm that you think might be from a splinter or something. He says, Thanks, doc. And then keeps going, let's see so general chaos. You see these. You see another one of the Sahu again, dragged down and basically bludgeoned to death. You see these two gun crews set up and they start firing where they're supposed to. Josiah, you're you're partially deafened as a cannon goes off like right in your ear, and the crew says, Sir, you need to move. Gun jumps back quite a bit, you know
+[1:13:27] JP Sherman: what? I didn't hear you.
+[1:13:31] Ian Lurie: And we are back underwater, I think probably for one more round. And then rikter Dent over on the docks. You see now that three ships have slipped through with another one that's probably going to make it. One of the ships is sunk, and then two of them are already burning and moving very slowly. They're basically drifting. Hey, drag. What you going to do?
+[1:13:57] JP Sherman: Okay, I am going to use my swimming speed and just do a small circle, a small 55 foot circle, hoping to catch every single one of those in my swirling summon.
+[1:14:15] Ian Lurie: Don't they have to end their turn in the space I'm
+[1:14:19] JP Sherman: going to come to them.
+[1:14:22] Ian Lurie: Oh, so you're gonna, okay, so you're gonna start a circle. You're gonna, like, stop. Where do you want to stop this round?
+[1:14:27] JP Sherman: So in the center, yep. Basically swim 55 feet in the internal circle, yeah.
+[1:14:36] Ian Lurie: But you have to stop somewhere. If you just, if you just move by, then they're not going to end their turn inside the circle, and they're not going to take any damage.
+[1:14:46] JP Sherman: I am re entering them in my circle, yeah?
+[1:14:49] Ian Lurie: But they, they have to, all
+[1:14:52] JP Sherman: right, totally fair, yeah,
+[1:14:54] Ian Lurie: I'm pretty sure it doesn't work that way. So you have to, they have to be within it for their turn. I'm pretty sure what's the spell?
+[1:15:03] JP Sherman: Again, conjure animals or conjure woodland beasts.
+[1:15:09] Ian Lurie: Okay, let me look. Hold on, that's how we learn, not the legacy version, right, correct. All right, here we go. Let's see it is fourth level. Whenever the emanation enters the space of a creature, you can see, they have to make it known. Yeah, you can just swim in a circle. You are a Cuisinart. You just Cuisinart the fuck out of them. All right, this is another spell I'm adding to my ranger in the other game. All right, you just do a nice big circle. They all have to make saves. Wisdom, yep. Fail, fail, fail, succeed. My god, okay, that guy succeeds, fail, fail and fail. Conjure woodland beings.
+[1:16:12] JP Sherman: Is what it's called, yes. So the ones who succeed take 15 points of damage, okay, the ones who do not succeed take 30 points of damage.
+[1:16:30] Ian Lurie: So basically, what you are left with is this fine, drifting mist, vaguely red, floating in the water as everybody except the deep diver
+[1:16:49] Unknown Speaker(s): is killed. All right,
+[1:16:53] Ian Lurie: the deep diver it's too late to question life choices. I'm just gonna go for it. He says, all right. Oh, you probably have something else you want to do. Sorry, go ahead. Sura, oh, yeah, Sarah, that's right. Okay.
+[1:17:17] JP Sherman: How far is however, how far is she from the deep diver.
+[1:17:22] Ian Lurie: The deep diver was right there, so she's not very far. She will take intact for opportunity from the shark if she disengages.
+[1:17:29] JP Sherman: Okay, that's fair. Her AC is 21 okay?
+[1:17:43] Ian Lurie: I got a 22 on an 18. Look at me. I actually hit something, and you take three points of piercing damage as the shark takes a bite out of series haunch.
+[1:18:00] JP Sherman: Okay, and she is going to to attacks, okay, one bite, one claw, all right, okay, the bite is a, come on, that is a 23 then that it's as the damage
+[1:18:34] Speaker 2: is 19. Heck.
+[1:18:41] Ian Lurie: Okay, not looking good, but still up, okay?
+[1:18:48] JP Sherman: And then the claw attack, all right? That is a natural 20, okay, which is 18 plus five is 24 points to damage, all right? So, a nine, yeah.
+[1:19:05] Ian Lurie: So basically, Surrey Surah does some kind of like rat terrier rag dolling kind of thing, and just rips that deep diver limb from limb after you have softened it up a little bit. Yes, exactly like that. Okay, one more round on the Albion, and then things are going to start happening on the shore of our our at our Dune, or Dune, very, very quickly. So on the Albion, we've got the priestess who sees things are starting to go south, and she kind of starts going, you know, might have to leave and let the National Guard handle this one. And then, Levi, it's your turn.
+[1:20:02] Sango the Lost: Um, I will swipe at the guy with my club again. That is a 14 plus four is 18.
+[1:20:13] Ian Lurie: That hits
+[1:20:15] Sango the Lost: and that is one point the damage. Okay?
+[1:20:25] Ian Lurie: Take a little take a couple scales off chunk. Let's see. And then, Jed, it's your turn.
+[1:20:46] Jamie Indigo: Okay, I'm going to reload the pistols and move back into that position behind, yep, reload.
+[1:20:57] Ian Lurie: All right, cool. Um, Obadiah, you get a shot. Your your crew has been well here, hold on rope for this last item, yeah, you get a shot. There is one ship, one undamaged ship within your, your, visual range, there's a couple of them that look badly damaged and drifting, and then there's three others that are still in good condition and seem to be heading for the shore at pretty high speed. So
+[1:21:45] Rikterr: it okay. Can he hit any
+[1:21:52] Ian Lurie: of them? Definitely, they're actually all in range. You can and can basically reach all the way across the base. Did you say any of them were damaged? They all to them. Two of them are badly damaged and drifting, and then three of them are Tip Top headed for short, really high speed. Or the the damaged ones aren't going anywhere. Okay? They're just kind of Yeah,
+[1:22:17] Rikterr: Okay, then let's take out one of the existing ones. I set. That is going to be a 23 to hit,
+[1:22:29] Ian Lurie: okay, that hits, awesome.
+[1:22:39] Rikterr: And that is going to be 36 points of damage to it.
+[1:22:45] Ian Lurie: God, okay, that ball hits it again. Square midships. Little cheer goes up from the gun crew. It's not enough to slow it down, but it's, it's a significant hit. You can see the ship start. It's sort of, you almost knock it off course. A little bit. It loses some momentum. All right. Mostly, we have left all the warriors and the deep diver captain, the deep diver still going. The deep diver crits the captain. That could be bad for our captain, see so he takes, Captain takes 26 points of damage. I don't think quite kills him. No, he's still up the captain, Jed, you see this, the captain takes a horrendous wound, but follows up as soon as the deep diver hits him, and you see the deep diver takes this long spear like thing, and just sort of rams it underneath the left armpit of the captain, which you know is a really bad place to get hit. The captain at the same time, stabs the deep diver, wounding it equally, if not more mortally. And then one of the Marines stabs the deep diver, killing it, and the captain goes down on one knee. And then this is kind of a this is basically a stalemate over here. Do we have left? Josiah.
+[1:24:51] JP Sherman: JP, that's you. Oops. So I spent my last turn reloading, okay, and actually what I'm going to do is I'm gonna take out my saber and hit the hit the sag one on the left hand side.
+[1:25:09] Ian Lurie: Okay, so you run up, give him a slash.
+[1:25:12] JP Sherman: Okay, and that slash is a that is a dirty 20 how that hits? Okay? And that's four points of damage, okay,
+[1:25:37] Ian Lurie: these guys are all starting to break the Sango again, are they've seen a lot of their buddies go down. They just saw the deep diver, which is sort of a champion, almost go down. So they're starting to get a little freaked out.
+[1:25:48] Unknown Speaker(s): Now they're going to try and run away.
+[1:25:56] Ian Lurie: Okay, on shore, we're going to rewind a couple of rounds. This is what you now see. There are two ships still in good condition, and Mossy, you're gonna your theater of battle has shifted to near the dock now, as the waves at the wave serpent, as the villains, is content
+[1:26:33] Unknown Speaker(s): I can't fire line,
+[1:26:38] Ian Lurie: you're right for the spell cannon. Yes, you're right. That's right, correct.
+[1:26:42] Speaker 1: Well, because I'm all certain where drag is underwater, so we agree, yeah,
+[1:26:46] Ian Lurie: yeah, not to actually kill drag. That's that's a good point, and that seems very fair.
+[1:26:52] Unknown Speaker(s): Mossy is the considerate one. That's
+[1:26:57] Ian Lurie: always how we think of Mossy. All right. Rikter, you are standing out here, and you see these ships coming up. You see, give me a perception check with advantage. You're a warrior. You know what you're looking for here. You
+[1:27:27] Rikterr: that's a dirty 20.
+[1:27:29] Ian Lurie: Okay, you see groups of archers crouch down behind rows of shields drawing arrows, and you see that the arrows are burning. Do
+[1:27:43] Rikterr: rikter is going to turn his head to his left and just yell out to all the guys, wash your heads for arrows.
+[1:27:52] Ian Lurie: Okay, there is a you hear that kind of twanging sound of lots of bows and that rushing of air as a bunch of as a ton of arrows come down. Rikter, a few come for you and Miss completely, but one volley lands. Uh, here and sets a fire, and another one lands here and sets a fire. And you know that this is the real danger, right? Is that if they can do enough of this, it's going to actually start serious fires. And what they did is they combined oil with these arrows, so that the the fires are definitely a bigger problem than just sort of like a burning arrow fired into wood. You see, when they hit, they splash, and this fire starts to spread, and a few people in here are actually burned and wounded, and you hear some screams, but they seem to be staying on they seem to be staying on mission, but they they're clearly hurting, um, and let's see here. And that's it for them this round. So now you're running these firefighting squads. Now that the battle has started, they will go on 20 each round. So they go right now, and I'll tell you the things that they can do the firefighting squads can, I mean, they can just beat the shit out of things. But they can also do what's called a bucket relay. And with a bucket relay, or, sorry, a water discharge. So what you do is you pick a fire and then you roll a d 20 to hit. So you'd have to get them over to like, if you want to fight this one, you'd have to get these guys over here, just as an example. And apparently they're, there we go. So tell me which fires you want to fight and where you want each of these crews to these crews to be.
+[1:30:20] Rikterr: Okay? Um, that's weird. Um, I want a crew, yeah, to come fight this fire to the right of me and that crew that's close to that fire, take that one on.
+[1:30:36] Ian Lurie: Okay, all right, so give me a D 20 roll. This is basically your attack roll for each party.
+[1:30:46] Rikterr: Each just a clean D 20,
+[1:30:48] Unknown Speaker(s): yep, plus four, sorry,
+[1:30:50] Rikterr: okay, and two of them, one for each party, right? Or is it just one for
+[1:30:55] Ian Lurie: both? It's one for each okay?
+[1:31:00] Rikterr: So one is a 22 and the other one is poop.
+[1:31:06] Ian Lurie: Is poop. Okay, so one of them gets hit roll. Sorry, this first time I'm no problem a mechanic I came up with on my own. I There it is. Give me 46 All right,
+[1:31:34] Rikterr: and 4d six is 13.
+[1:31:39] Ian Lurie: Doesn't put it out, but it does keep it from spreading too far. This fire over here. Oh, yeah, that's right, when the water hits it, actually, you see it does, like thinking in D and D terms, fire is vulnerable to water, so it does double damage. So you actually did 26 to it, and it actually has to make a sanity, and it fails, it's safe. So this one goes out completely. This one though, spreads and becomes two fires, and it's almost like the oil splashes it as it hits the docks, and you can smell burning wood, and it is actually rikter. It is now your turn in the initiative.
+[1:32:55] Rikterr: How close is the closest ship? Let's see.
+[1:33:07] Ian Lurie: It is 70 feet away.
+[1:33:13] Rikterr: Rikter is going to be useless against the fire, but not against the ship, so he's going to eldritch blast that some bitch. Oh, okay, all right, so we've got 2417, and the third one's gonna miss.
+[1:33:36] Ian Lurie: Okay, both of those hit the only been 1815, awesome.
+[1:33:43] Rikterr: So going to be 14 points of damage.
+[1:33:58] Ian Lurie: So you hit it and you can see, do a little damage, but this is really sturdy wood that you're hitting, so you have to, like, there's almost that there is a damage threshold. Is the game mechanic. You have to get over that threshold to do damage to it. Okay, Mossy, you're up in the airship. Give me a perception check. Do 17, okay, you're just kind of looking down over the battlefield, checking for anything we were going on.
+[1:34:44] Unknown Speaker(s): How far
+[1:34:47] Speaker 1: are we away from the battle arena?
+[1:34:51] Ian Lurie: You're pretty high up. It's foggy, the wind's blowing, but you just got a quick check, and everything looks like it's going as well as you could anticipate.
+[1:35:04] Speaker 1: Okay, could we get within like, 60 feet of above them,
+[1:35:11] Ian Lurie: above these guys, the ships?
+[1:35:15] Speaker 1: Okay, I'm gonna order Lysander to do that, and then once we're 60 feet above. I can't tell how big in cubes we are right here. Talk to me. Talk to me.
+[1:35:26] Ian Lurie: Goose you mean, I'm not sure what you
+[1:35:31] Speaker 1: mean in square feet. So I do an effect of 20 square feet, and I want to see how many ships I can get in that
+[1:35:39] Ian Lurie: 20 square foot radius, diameter,
+[1:35:45] Unknown Speaker(s): 20 square foot cube, 20 square foot cube,
+[1:35:51] Ian Lurie: that would be about that big so you can hit one chip.
+[1:36:02] JP Sherman: Okay? Which, you know, yeah,
+[1:36:05] Speaker 1: no, that's, that's just the ores hitting, like getting both the oars wouldn't do me any good. Okay, um, well, I'm gonna do that on the front most ship, and hold there, because it's gonna, it's gonna make a deck Save. Now, I don't know if ships can make a deck save.
+[1:36:22] Ian Lurie: What's the effect and all, it's
+[1:36:24] Speaker 1: very fire. Oh, for me, advantage and attack.
+[1:36:28] Ian Lurie: There's no save from that for the ship, fantastic.
+[1:36:34] Unknown Speaker(s): The ship is litter up, boo.
+[1:36:40] Ian Lurie: The ship, sudden, suddenly starts glowing. Yeah.
+[1:36:44] Speaker 1: So all of your attacks, unless someone can break my concentration, are at advantage.
+[1:36:50] Ian Lurie: Enjoy. Okay on the Albion. Levi, give me another attack roll.
+[1:37:06] Sango the Lost: That's like a seven,
+[1:37:08] Ian Lurie: okay, you missed this thing is all over you. Um, you've taken now a total of 10 points of damage. Okay, how many hit points do you have?
+[1:37:21] Sango the Lost: One new one left? Okay,
+[1:37:25] Ian Lurie: this thing is just, it's slashing you. It can't do a ton of damage to you, because it's just using claws. And you have, like, your, your, you know, your climbing jacket on and everything. But every now and then, it's taking a pretty good chunk out of you. You hear all the running around up on deck. You hear the guns booming. Obadiah, you take another shot at one of the ships. Why don't you give me a D 20? This is a lot of time is elapsing here as we're so I'm fast forwarding a bit. I svobodaya, I thought you're rolling dice, so I was just waiting.
+[1:38:21] Rikterr: Sorry. I was eating um, D,
+[1:38:24] Ian Lurie: 20 for the can,
+[1:38:29] Rikterr: 17. Okay.
+[1:38:33] Ian Lurie: Wanna give me another damage roll then
+[1:38:34] Rikterr: user, this
+[1:38:39] Ian Lurie: is on one of the drifting ships at this point.
+[1:38:46] Rikterr: That's gonna be 41 points of damage, yeah, take
+[1:38:49] Ian Lurie: another big chunk out of one of them, and then the other, another gun crew, hits the same one and sinks it. You guys kind of look at each other like, that was mine. No, that was mine. No, that was ours. Um, all right, back, back to Ian Drac underwater, just so you know, you're just starting to figure out, okay, my fight's over. You see splashes and stuff. You see bodies flying off of the Albion. You see the guns firing up over your head, above the water. Then you do see a bunch of so who, again, jump into the water, start swimming away as fast as they can. Sango, you re materialize on the deck of the Albion, yes, and there's blood everywhere. There's a bunch of sohoogan corpses. There's a few injured members of the crew. You see Jed Pritchard, the doctor, kneeling over the captain, who's clearly badly wounded, and trying to tend to the captain's wounds. Jed, why don't you give me a medicine? Roll,
+[1:40:05] Unknown Speaker(s): Jamie, that's you. Oh, yeah, I'm Jed.
+[1:40:09] Ian Lurie: Last night they'll be running. Oh, that was Jed.
+[1:40:11] Unknown Speaker(s): Was also distracted. That was a one. Oh,
+[1:40:14] Ian Lurie: Jesus. There's a huge spurt of blood from the captain, Sango. You're not sure what's happening over there. Captain says, You idiot, Get your hands off of me. No, he doesn't say that.
+[1:40:25] Speaker 1: I went to say something, but then it spurted in my mouth. So jed's actually just like gagging instead of nice saving a dying man. Nice. I
+[1:40:44] Ian Lurie: so Sango, if you want to again, I'm running this like 10 rounds at a time, but you can go up to the captain and try and heal him. If you want to do the master tune thing and run across the bay at a bazillion miles an hour, you can do that. I don't know if anyone else here has ever seen ramo Williams, but
+[1:41:04] Sango the Lost: are there any more combatants on the ship?
+[1:41:07] Ian Lurie: No, okay, everybody's running
+[1:41:10] Sango the Lost: well, so he materializes, and the darkness comes with him, because it lasts for 10 minutes.
+[1:41:18] Ian Lurie: Everyone freaks out again, yep.
+[1:41:21] Sango the Lost: All right. Yep, all right,
+[1:41:23] Ian Lurie: well, so that'll be one round.
+[1:41:26] Sango the Lost: So he takes a quick look. He sees the captain. He casts a Healing Word on the captain, actually, actually, for seven hit points, he heals. Okay,
+[1:41:51] Ian Lurie: that stops the bleeding. Okay, so Jed, you're, you're there, and you're, you're working on him. You've, you've stopped, like, the most fatal of the wounds. You pulled a huge splinter out of his neck. What you think is a splinter, it's actually a piece of the claw of a claw on one of the Sahu, again, that was fighting him. And then you staunch that wound. But at the same time, the captain, kind of, he kind of jerks in pain, and he rips open a wound on his side that you hadn't noticed, but Sango comes up, and you're not sure. The skinny old guy comes up, you're sure where the fuck he's been, if he was hiding, if he ran away, or what.
+[1:42:30] Sango the Lost: But they can't see me because it's all darkness.
+[1:42:36] Ian Lurie: Oh, you okay. So you heal the one. Everything goes pitch dark. You hear lots of screaming, you smell soup, and we'll just stop there.
+[1:42:49] Sango the Lost: Well, no, then Sango doesn't see anybody, and I guess he's running across the bay, because he's still got that water walk, that drag has right, got 55 movements, so that's 110 around.
+[1:43:01] Ian Lurie: Yeah, that's gonna take Ian has to do maths. Hold on, okay,
+[1:43:12] Sango the Lost: unless it's realistically too far for him to actually contemplate it.
+[1:43:17] Ian Lurie: I mean, it's, you're a monk, you're so fucking fast you think it will take you about a minute to get across the entire bay.
+[1:43:27] Sango the Lost: Okay, so then this dark shadow thing just starts moving across the bay.
+[1:43:31] Ian Lurie: Okay, so, Jed, you're standing there trying to help the captain. Suddenly, everything goes pitch dark, just as the captain had jerked and ripped open this huge wound in his abdomen that you had missed when it's light again, the wound is is closed. The Captain is still in pretty bad shape, but not going to die, and you see this black beach ball, kind of bobbing its way across the bay
+[1:44:02] Sango the Lost: and a faint smell of chicken noodle as passes by.
+[1:44:09] Ian Lurie: Okay, so now that's a couple minutes here. Now we're going to come back to this fight here. One of the ships just rams the dock at full speed, and some guys leap off.
+[1:44:26] Unknown Speaker(s): It is that the lit up one?
+[1:44:31] Ian Lurie: Yes, now that you say that, would
+[1:44:34] Unknown Speaker(s): the people be lit up too? Is
+[1:44:40] Speaker 3: an area effect, yeah, oh, yeah. No, they're they're lit. Yes, well, they're
+[1:44:55] Ian Lurie: not going to jump into their own fire. So these guys come jumping down. These are each squads by dudes What am I? What is happening? The these people re materialized into decks, so these two ships immediately fire another volley.
+[1:45:22] Unknown Speaker(s): Okay, seriously, never questioned the gods, right?
+[1:45:34] Ian Lurie: Setting fires here, here, Jamar, unless you do you want to roll for all these guys, or do you want me to just sort of run them in the background? Go ahead and
+[1:45:47] Rikterr: run them in the background, just so we can keep everyone involved in the action, keep
+[1:45:51] Ian Lurie: everything moving. Okay? However, these guys come running over. There's five of them come running over, screaming, bloody murder and go to attack you as he apparently plunges into the dock itself. God damn it.
+[1:46:12] Unknown Speaker(s): He's phasing.
+[1:46:15] Ian Lurie: He just stops right there because he's afraid to move. All right, so these guys come running up to you, rikter, you take 10 points of force damage because one of the guys in this squad is a caster who hits you with Magic Missile, and then they all come at you and start slashing with these swords, getting an eight to hit on one and an 18 to Hit on the other.
+[1:47:00] Rikterr: That misses as well, yeah.
+[1:47:02] Ian Lurie: Okay, so they are right up in your face. What would you like to do?
+[1:47:10] Rikterr: All right? Well, first bonus action cast veil of the Raven Queen.
+[1:47:18] Unknown Speaker(s): You have advantage on all these guys too. Oh yeah, where you use up your stuff too much? Yes,
+[1:47:27] Rikterr: we're gonna do that all right? And then I'm going to pick one of them and attack it with bass, okay?
+[1:47:38] Ian Lurie: And basically, the way the source is you're attacking the group because it's they are basically a single unit. They're going to use a reaction called closed ranks, which would normally impose disadvantage, but in this case, just means you no longer have advantage. Awesome. They basically form up their shields and hunch down.
+[1:47:57] Rikterr: Well, sucks for them, because one of the roles is a Natty 20 for a 32 and the other one is a 25 so I'm guessing both of those hit. Oh yeah, yeah. Okay, awesome. And on top of that, since I hit, I'm going to use one channel divinity to cast sacred weapon on Bastion. Okay, did so that means, and so I'm going to say that everything, every damage that I do, is going to be radiant damage from now on.
+[1:48:51] Ian Lurie: By the way, guys, let me know if you use any of the quinary abilities, just so I can keep track.
+[1:48:59] Rikterr: That's going to be 42 points of radiant damage, and as soon as he is done with that attack, rikter turns invisible.
+[1:49:12] Ian Lurie: That's not that's sub optimal. How do I even describe that? You cut down three of the five guys just in a single sweep of bass from left to right. You just cleave through three of them. They are not ready for this. This is just these guys are thugs, okay? And I mean, they're, you know, capable thugs against normal people. They're pretty scary, but they're just thugs. He phases into the dock, and then once he's done phasing, actually pops out and he takes another shot at those guys. And we're just going to say that they're just dead. Right about then, rikter, you hear in your head a voice saying, Give me a perception check. Actually,
+[1:50:15] Rikterr: that's gonna be a 13. Good sir. Okay,
+[1:50:20] Ian Lurie: you don't so much hear a voice. You just get that sense that you sometimes get that something's not right, like something's going wrong. And you just turn to look up into the town, towards where regorum is watching everything, and you see what think might be a little bit of smoke rising from where he's guarding the children. Now at the same time, more of these guys come running up over the dock. So we'll get back to you next round, you can decide what you want to what you want to do. They come running up and over. This firefighting group does something you didn't totally expect, but you're not totally surprised. They did all have pikes. They form up and form a shield wall, and the Corsairs can't really penetrate the shield wall. They're kind of stuck. The only issue now is that they're not fighting these fires, right? They're busy with these Corsairs. These Corsairs come right at you because they didn't see what just happened. Okay? So coming back around, we're just going to come right back around to you again. So these two long ships, they sit back and they keep firing. They're just going to keep trying to get these fires going. And the crews here, they put out one of these, the other one spreads, and another one is set right there that these guys immediately go to take care of. This one also spreads again. Whoops, nope. Fuck this is really gonna start to piss me off.
+[1:52:36] Speaker 1: This map is incredible because we have not I'm sure that's not the first time you've said that with this map.
+[1:52:44] Ian Lurie: I you know I have, yeah, I will never run a combat like this. Again, I bit off way more than I could choose, but that's okay.
+[1:52:52] Speaker 1: This is how we learn. But if there's, if there's, like, a contest for the platform, you want us to nominate
+[1:53:01] Ian Lurie: you, you should see some of the shit other people do. You should see some of the shit that they're creating. It's astonishing because they're creating custom models and all that kind of things. But I appreciate that. Thank you. Okay, so back around to the top, these Corsairs come running up to you, rikter, and they were like, We got to help our friends. Wait, where are our friends? Fuck and they all miss completely because there's
+[1:53:28] Unknown Speaker(s): one standing there who just goes chunk.
+[1:53:31] Ian Lurie: I have not rolled higher than a five in the last two rounds on guys that are attacking hand to hand. I just want to say that, doing fine with my fires and with the arrows that are being fired from the ships, but that's it. Okay. So let's all right. So they're basically, they have fought this to a standstill here, but this, this fires are spreading. They do put out this one. This one stays the same, and they continue fighting it. So these guys go over to here, and then rikter, you're facing those guys. The fire captain looks at you for a moment as if to say, Can I do you got this? Yeah, go, go, go. He goes up there and starts getting stabby with those guys. In case you couldn't tell, this attack has been a complete cluster fuck for the Corsairs. They came here expecting just just to explain myself. You don't think this is incredibly lame. They came here expecting that the orcs had somehow pulled off a win against their fellow troops, and that they were going to get here and beat up the remnants and take over the town for a while. And instead, they got here and they found the Albion and you guys, so they still weren't ready for this. So rikter, these guys are on you. They do try to hit you with three scorching rays. Let's see if that does anything. Ooh, I rolled higher than a four. I got a 16 and a 23 to hit.
+[1:55:27] Rikterr: Well, the 23 would hit, except rikter is going to use a reaction for shield, and so it misses.
+[1:55:35] Ian Lurie: Okay, huge Lance of fire springs out from one of the members of the raiding party and bounces off your shield and goes shooting straight up into the air. I won't be a dick and have it go down into one of the fires and triple this the diameter of the fire or something. Okay. What do you want to do? You want to surrender. I think you should surrender.
+[1:56:02] Rikterr: No, we are getting our asses. Pete rikter is going to take off try and take out the Corsairs in front of him. Okay, so that's a, Oh, wow. Another Natty 24 a 37 and a 23
+[1:56:28] Unknown Speaker(s): Hey, those both. It awesome.
+[1:56:38] JP Sherman: One of these guys has three days to retirement.
+[1:56:42] Ian Lurie: No, no, he's getting married next week,
+[1:56:46] Rikterr: and that is going to be 33 points of radiant damage.
+[1:56:51] Ian Lurie: He's, actually, he's retiring. He's, he's got a baby on the way, and he's marrying as soon as he gets home. Unfortunately for him, that reduces this that reduces this group to very little, all right, but there's still a couple guys there. Okay, give me another perception check. Rikter,
+[1:57:20] Rikterr: that's gonna be a 19,
+[1:57:22] Ian Lurie: okay, um, something is definitely going on up at the top of the town. You take a second now, and there's the fire burning around you, and there's all this noise and stuff, but you actually look back up over your shoulder, and there's some kind of fight going on up at the top of the town, where
+[1:57:37] Rikterr: over the party line, Mossy, can you get to town
+[1:57:41] Unknown Speaker(s): on a bass what part of sound I imagine I can see the smoke when he says that.
+[1:57:48] Ian Lurie: Well, so now the you're gonna have to have the discontent climb a little bit so you can see up over the the hill at the top of the town, so you'll see what's going on down there, next up, going down, going on their next round.
+[1:58:06] Jamie Indigo: Do I have to stay in range for them to keep very far? It
+[1:58:16] Unknown Speaker(s): doesn't say that, but I
+[1:58:17] Ian Lurie: think it just it's just there, and it stays there. Okay? No, it is concentration.
+[1:58:29] Unknown Speaker(s): So your concentration, mean I have to be just, means you have to
+[1:58:32] Ian Lurie: maintain concentration. Oh,
+[1:58:33] Speaker 1: okay, cool. Well, you get to keep that, and on my turn, we'll do that.
+[1:58:39] Ian Lurie: Okay, so next round, the fires are starting to get put out by the crews. These fuckers actually break and run, because one of them turns back expecting to see a fleet of 10 ships about to pull up on the dock. Here. Instead, they see three ships, two burning wrecks, and nothing else. Then they notice the Albion out there, and they notice there's an airship flying over the town. At this point, all they want to do is get away. Rikter, it's up to you what you what you want to do with these guys as they try to get away,
+[1:59:27] Rikterr: they're getting away. Rikter knows something is going on in town. Okay, he's going to ask the fire captain, can you get these fires out? Yes, and he is just going to look into town.
+[1:59:39] Ian Lurie: Okay? Dragon, Sango, Sango, you're almost on. You've got another 30 seconds, actually, another five rounds to get on shore. Okay, drag, I'm assuming you climbed up aboard the Albion, or are you swimming towards the shore, or what? No.
+[1:59:58] JP Sherman: Okay. Drag is gonna mount Surah cast water walking and the Ranger share spells. We pop up to the top of the surface. Okay, and Surah is going to sprint 130 feet towards the dock.
+[2:00:18] Ian Lurie: Okay, just Sango. You're you're running across the water, and all sudden, you feel like an animal's breath on the back of your neck. After a couple of minutes, you're like, oh, shit, what's happening? And you look back and there's Sarah
+[2:00:32] JP Sherman: and like, Mossy is like, Oh, it's a Jesus litter. Holy shit. That's a really,
+[2:00:40] Ian Lurie: yes, exactly Mossy. All right. Fast forward. Rikter, you and Mossy arrive at the top of town at about the same time, and
+[2:01:00] Unknown Speaker(s): oh, my God, there's another rat ready. Holy shit. Ian,
+[2:01:06] Ian Lurie: what you see? And let me set the scene a little bit. Rikter, you come running up. You're just you are going full tilt, dash all the way up through town, knowing, just in your heart of hearts, something has gone badly wrong, and you hear someone bellowing The Battle Cry of the Raven Queen. You come running up into this area. That's the sort of a fortified ruin of this old temple, you know, and they put up Palisades and stuff to try to keep it blocked off. You see there is a pitch battle going on in the middle of it. As you run up to this door right here, it's the only way you can see what's going on. And when you look, you see this little knot of what are clearly bandits, maybe Corsairs, as well as a couple of so who again, surrounding regorum And one other orc. And at regorums feet are three dead bandits just bleeding out on the ground, as well as two Sahu again, deep Divers also bleeding out on the ground, and rogorum is wearing this heavy armor that you saw in his in his house, and he's got that big AX, and he's just sweeping it back and forth in this huge arc. You see magic glowing around him. You see the forms of crows, like hundreds of crows flying around and just shredding everything around him. The orc next to him also has, like, a halberd, like, or not, Halbert, a Glaive, a long spear, and he's using it. There's another one at the back where there's another so who again trying to get in through a back window here, and he's holding it off with a spear. The thing you're realizing very quickly, and you don't have to really realize that you knew it, but orcs are incredibly dangerous fighters on land. So you know, all these creatures that are trying to take the orcs, all these things that are trying to attack the orcs on the land, they don't do well, which is why this town has let survive so long. It's also why they struggle so much, because they don't have a navy. It's just not something you know, these are people who live in the mountains, right? For generations, they lived in the mountains. They're very good at this kind of warfare. So all that said, let's roll initiative for a new combat you
+[2:03:44] Rikterr: Oh, 14.
+[2:03:50] Sango the Lost: That was an 814, 22 I monster.
+[2:04:20] Ian Lurie: Hey, the bandits and all those guys are extremely fast. So this is rogorum right here, wearing his cool armor. This is the other orc. These are little or kids. Because, no, I don't have any good minis for little or kids. I just took orcs and made them smaller. And, yeah, that's vaguely racist, and I just didn't have any other way to deal with it. And then here's this, the remaining bandits. So the bandits go before you guys, Mossy and and rikter, Mossy, you I'm going to say that you have put down.
+[2:05:00] Unknown Speaker(s): Don't steal my guy
+[2:05:02] Ian Lurie: right about here. So you see rikter. You see his back to you, yeah, but that's, that's all you see right now. And you hear all the noise.
+[2:05:11] Unknown Speaker(s): So there is a roof on this building.
+[2:05:14] Ian Lurie: No, no, there's not this. It is exactly what you see here.
+[2:05:19] Speaker 1: I don't know that I would have gotten off the ship yet I have, oh, that's a good point.
+[2:05:24] Ian Lurie: That's that's fair. That's fair. You might have just jumped off the ship. Where would you like to? Well, actually start. Let me do all my guys first, and then you can tell me what you want to do. So let's see this. Who, again, goes in, is going to try and hit Ramos, who is bleeding from what looks like a dozen minor wounds, and he does not appear to feel them. He's just he is not frenzied. He's just relentless. At this point, he he misses. All right, so they're just, there's basically just total pandemonium going on over here. All right, so Drac and Sango, you have five more rounds before you get here. Can you keep count of that for me? Yes. Rikter, what would you like to do?
+[2:06:41] Rikterr: How many enemies can rikter see from where he is?
+[2:06:47] Ian Lurie: That is what you can see. That is what I can see, enemy, enemy, enemy, dead enemy.
+[2:06:59] Rikterr: And that one in the was it looks like a Bronze Armor back there. That's not an enemy. Okay, cool. Then rikter is going to walk up to the enemy in the back with the sword and what looks like a mask over its mouth with the top bun, yep, yep. And he's gonna walk behind it and hit it twice with bastard.
+[2:07:27] Ian Lurie: He says, it's not a bun, it's a top knot, okay.
+[2:07:37] Rikterr: Oh my god, you're gonna hate me. Ian, another natural 20.
+[2:07:40] Ian Lurie: Well, just, you know, I rolled regarrans combat here before we got together tonight, all of these guys are wounded. Nice. You're not the only Paladin of the Raven Queen who has rolled very well tonight.
+[2:07:53] Rikterr: Okay? Another 9020 and then a 21 Okay? Was both it awesome. That's going to be 31 points of radiant damage.
+[2:08:21] Ian Lurie: Okay, he goes down.
+[2:08:27] Unknown Speaker(s): Everybody turns they're like, What the fuck was that cute little cool ball? He gonna die?
+[2:08:39] Ian Lurie: Yeah, he's, he's, he's out of his depth. Okay, Mossy, where do you want to drop in?
+[2:08:45] Speaker 1: Okay, so quick question before I get off the ship. You know, we're like, like, 60 feet up. We're doing our thing. Do I see where the children should be?
+[2:08:55] Ian Lurie: Yeah, the children should be right in here. And you can actually sort of see, you see what's happening. You see this to hoo again here trying to get through this window and this orc fending the sahua again, because one on one, the sahua Ian's probably gonna win. They're big. The Soo again, champions are big. But that's where the kids are as well.
+[2:09:21] Unknown Speaker(s): Okay, okay, fantastic, so there's a thing I can do, yes.
+[2:09:41] Speaker 1: All right. Question has has asshole right there? Noticed me?
+[2:09:45] Ian Lurie: Which asshole are we talking about?
+[2:09:47] Speaker 1: The one that's going after the kids? I have faith in rikter. He's got that show there.
+[2:09:51] Ian Lurie: Yeah, got it? Okay, no, he has not seen nobody. They were all completely focused on the giant, angry orc Paladin who has murdered Five of them at this point. Okay, okay, so with
+[2:10:20] Unknown Speaker(s): I'm trying to find a thing.
+[2:10:31] Speaker 1: I you know what? Fuck it. This is gonna be funny. He is to he has to make it 18 con save at disadvantage. Fantastic. So his ass just got poly pocketed. He is now shrunk down, and I I've
+[2:11:01] Ian Lurie: been wanting to use this for so long, heal me. I gotta have fun with something. Okay. Now he's at the window. He's kind of going, oh shit. He nukes the entire building. There we go. He's like, hopping up and down in front of the window. Fantastic. The hell happened? God damn it, I'll stop.
+[2:11:31] Speaker 1: Okay, all right. Okay, then I'm going to use my reaction and boop on out. Okay, where
+[2:11:48] Ian Lurie: do you want to land? I want
+[2:11:49] Unknown Speaker(s): to land right behind Polly Pocket,
+[2:11:55] Ian Lurie: the lubue LuBu so who? Again?
+[2:11:58] Unknown Speaker(s): Yes, yes,
+[2:11:59] Ian Lurie: please, Morgan and everybody she works with at Northwest starting frame hate lubue with a passion, and they now have a Christmas tree that has lubue ornaments on it. And they're just like, Oh, fuck.
+[2:12:12] Unknown Speaker(s): Okay, dagger in my teeth, like, ah,
+[2:12:17] Ian Lurie: the orc on the other side doesn't look surprised, because he just it's he's hard to surprise, but he's wondering what the hell just happened? He's definitely confused. Suddenly he's fighting a green guild Hobbit. Okay, so the next round, bunch of things happen all at once. You
+[2:12:56] Unknown Speaker(s): Yes, the predator enters the arena. Oh,
+[2:12:59] Ian Lurie: boy, okay. Rikter, actually, you know what? 123, you 456, regorum, nope, two, okay, wait.
+[2:13:14] Speaker 1: Could I do one free interaction action when I landed, sure and pop the goggle down.
+[2:13:23] Ian Lurie: That's not a free action interaction. Sorry.
+[2:13:27] Unknown Speaker(s): All right, fine, no. Good
+[2:13:29] JP Sherman: try. That was a
+[2:13:30] Ian Lurie: good try, though. Yeah, flip. No. Okay. Rikter, you get critted by an assassin who appears here.
+[2:13:56] Unknown Speaker(s): You take
+[2:14:10] Ian Lurie: 52 points of damage. And give me a DC 15 con save.
+[2:14:18] Rikterr: What kind of damage? POISON?
+[2:14:21] JP Sherman: Awesome. Why did you say that?
+[2:14:27] Rikterr: Because it's better than yelling and screaming and acting an ass. And you said a con save, yeah, all right, that is going to be a 16,
+[2:14:41] Ian Lurie: okay, briefly, you start to feel all your muscles lock up as a paralytic starts to take effect. And then you save and it passes immediately. All right, that was my assassin. The champion comes up to you, Mrs. I'll get him, boss, don't worry. I got this two sevens. I'm just gonna tell you guys when I'm rolling so you don't think I just designed like this really lame combat take a swing at regorum. Might as well before I die. Actually hits. Hits regarm, stabbing him, sort of upwards from behind and regarm goes down on one knee, but hits back, just obliterating this guy. Christ, 20 points of damage in a single swing for an NPC is pretty high, all right. So we've got the assassin, the champion, and this champion, the mini champion over here. Mossy, your turn. Or I'm sorry, no, it's not. I got totally out of order. Rikter, it's your turn. We're at the we're now starting another round. So that's two rounds. Top of the second round. Awesome.
+[2:16:44] Rikterr: Okay, so Richter. First bonus action, he's going to recast his veil of the Raven Queen. And then action, he's going to attack the champion with bass, okay, I just realized
+[2:17:02] Ian Lurie: isn't your Didn't your armor protect you from that assassin.
+[2:17:06] Rikterr: It was poison damage. It's either bludgeoning, slashing or piercing. That's why I asked what type.
+[2:17:13] Ian Lurie: Okay, got
+[2:17:17] Rikterr: it all right. So 23 23 and a 35 to hit. I'm gonna guess both.
+[2:17:26] Ian Lurie: It does both it
+[2:17:42] Rikterr: 33 33 points of radiant damage, okay, and he turns invisible.
+[2:17:52] Ian Lurie: Okay, you're now invisible, and the the champion staggers. He that that was a huge hit. You take a big chunk out of his chest. He's still up, but he is, he is bloodied definitely at this point. Let's see. Okay. So now it's back around. So the assassin says and disappears again. Um, what do I do? What do I even do? I'm I'm three feet tall. Like dude, you know, what the hell he attacks. He goes full on feral Mossy, and he misses both times because that's just how I'm rolling, not even sure he can reach. But okay, Mossy, it's your turn.
+[2:18:54] Speaker 1: I had him on a little angle, biter head, and I duh, how would I like to fuck you up? Little one,
+[2:19:13] Ian Lurie: he is not in melee with someone else, so you don't get your sneak attack. Yes, do you not
+[2:19:22] Speaker 1: get sneak attack? Sneaky like but I have another, sorry, a new character who this, oh, fuck it. He's, he's right in front of me, so let's use
+[2:19:54] Unknown Speaker(s): my stab and dagger. Okay? 31 to hit that that hits.
+[2:20:14] Speaker 1: Unfortunately, these shouldn't do very much damage, if I'm not being sneaky, though.
+[2:20:19] Ian Lurie: No, I know I play a rogue in another game. I really don't.
+[2:20:28] Speaker 1: So that's four points of stabbing. Okay, is a big old bummer.
+[2:20:35] Ian Lurie: And then, well, okay, you get the idea. He now goes, moves into the window, so next, next time you will have that advantage. And he also takes a stab.
+[2:20:52] Unknown Speaker(s): Sorry, I was gonna stab him twice. Oh, go for it.
+[2:20:57] Ian Lurie: Go for it before I do my thing.
+[2:21:00] Speaker 1: Okay, that's a 30, but I'm sure that hit him as well. Oh yeah, and five points,
+[2:21:06] Ian Lurie: okay, and then I rolled an actual 20 for an NPC,
+[2:21:10] Unknown Speaker(s): yes, of course, him smoosh him now,
+[2:21:19] Ian Lurie: unfortunately, I am just an NPC. So as cool as that is, he's
+[2:21:24] Unknown Speaker(s): still up. Not looking good. Like to high five the ogre.
+[2:21:32] Ian Lurie: It's an orc work, sorry. But you can high five because you can reach right over your opponent Exactly.
+[2:21:39] Speaker 1: It's really this is also now about emotional defeat. We are being mean girls. Ever murder?
+[2:21:44] Ian Lurie: Absolutely. Okay. Now, a few things happen very quickly. Pay close attention. Rikter, you feel this rush of air right behind you, and then you feel this brush against your mind, almost. It's like someone tried to do something to you, and it didn't quite work, but these guys including regorum, all start to scatter. Mossy, give me a wisdom, save
+[2:22:37] JP Sherman: That's rude. I Oh no, I didn't start.
+[2:22:46] Unknown Speaker(s): What'd you get? A six? Oh, God,
+[2:22:51] Rikterr: if any of those guys were within 10 feet of me and had to make a save, they would have got a plus five from my aura.
+[2:22:59] Ian Lurie: Okay, even your opponents, your enemies.
+[2:23:03] Rikterr: Oh no, no. Okay, I was gonna say if they were allies.
+[2:23:06] Ian Lurie: Yeah, okay, because no, because all the guys within five feet of you were were enemies. I mean, you kind of say if you want, but hell not. Okay, Mossy, you just hear, and it makes perfect sense a command in your head to scatter, and you take that to mean leave the battlefield immediately. So you do, and it seems perfectly reasonable to you at that moment in time, because this fight's under control. The bad guys are all fleeing. You need to immediately go scout out the rest of the town and make sure that everything is secure. You just you know that in your heart of hearts, so you are immediately leaving the battlefield and heading to make sure that the rest of the town is safe. Rikter, with your fucking natural 20 save earlier this evening. Do not have to deal with that. And coming down and landing near you, flying down near you, someone lands right here and says quickly, things, something's gone terribly wrong in the town. You need to come with me. We need to save everybody. And it looks like, um, like a Dragonborn. You think? Give me a nature check.
+[2:24:41] Unknown Speaker(s): That's a six.
+[2:24:42] Ian Lurie: Okay, now you're not sure it's probably a Dragonborn, something like a Dragonborn, but it's flying, which is unusual for Dragonborn.
+[2:24:52] Rikterr: You can see me, even though I'm invisible. Oh, shit,
+[2:24:57] Unknown Speaker(s): hold on. Yes, it can awesome. It can fucking rock.
+[2:25:05] Ian Lurie: SHA, it's looking right at you, and it says quickly, something's wrong in the town. We need to get down there and help people inside. Check, this was all a distraction, okay, give me an insight. Check, I
+[2:25:23] Rikterr: Okay, oh, that's going to be a 17, okay,
+[2:25:28] Ian Lurie: at the same time as that, you realize something's not right. And then give me another wisdom, save DC 17.
+[2:25:42] Rikterr: I That's a 26 my brother, God damn it.
+[2:25:48] Ian Lurie: Yeah, no, something's wrong. This guy is not on the up and up. You don't know what's happening here, but this is fucked. And now that you look maybe a Dragonborn, but it is the most mutated looking Dragonborn you have ever seen, definitely draconic, definitely, by the way. JP, we're on, we just finished round three, definitely draconic. But other than that, you're not sure if this is Dragonborn. You've only seen a few Dragonborn in your life, but something's not right here. What do you do? What do you say
+[2:26:41] Rikterr: he's just going to look at the creature and just say, Who are you really and what do you want?
+[2:26:57] Ian Lurie: Kind of cocks his head at you very quickly. There's this long moment on the battlefield as nothing, it all goes silent for a moment, and then
+[2:27:25] Unknown Speaker(s): there's this
+[2:27:28] Ian Lurie: sudden cracking of of ozone and energy, and you feel the hair On the back your neck start to rise up. Um, a 29 to hit.
+[2:27:48] Unknown Speaker(s): Oh yeah, that is okay.
+[2:27:50] Ian Lurie: You take 64 points of lightning damage as a bolt of lightning falls from the sky and just hits you directly. You look up and there's another one of these draconic type creatures hovering in the air. Except this one looks nothing like a Dragonborn. It looks like
+[2:28:22] Unknown Speaker(s): this. Ass lizard, that thing, this
+[2:28:30] Ian Lurie: bolt, just just transfixes you on the ground as at the same time, the green Abishai, which is in front of you, sheds its rose immediately looks like this, unfurls its Wings.
+[2:28:58] Unknown Speaker(s): It is a predator.
+[2:29:01] Ian Lurie: Yeah, predators are kind of lame compared to these guys, actually. And it makes a grab for you. It's wearing a red cloak, by the way, and it just tries to grapple you. I probably not I got an 18
+[2:29:26] Rikterr: strength save or check.
+[2:29:29] Ian Lurie: I believe that that is a check, okay.
+[2:29:36] Rikterr: Oh, nope, close to being 9020 but instead, it's just a tune.
+[2:29:41] Unknown Speaker(s): Oh, okay, he grabs you,
+[2:29:55] Ian Lurie: and then you guys disappear. Oh, fuck, right off. Drag and Sango, you need to give me perception checks.
+[2:30:21] Unknown Speaker(s): It 19. Okay, that's a 27 Okay,
+[2:30:29] Ian Lurie: so Sango, as you're running up, and you're basically one round you're basically, if you think about it being one round away, right? So you're sort of coming up the curving road towards the ruins. You see this black draconic looking creature, blue draconic looking creature appear in the air, up over the the ruin and just do some kind of spell that just calls this huge spike of lightning down onto the ground, hitting something right? You don't know what's in there. Drag you're coming up, and you see the green Abishai, the green draconic looking creature, suddenly appear in the air like maybe 300 feet away from you, and probably 100 feet up in the air. And you see that in its arms, it holds a struggling rikter. Rikter, I'm assuming you still have plenty of hit points left. You're not unconscious or anything like that. Nope. Okay. Rikter, this, this creature grabs you. It doesn't feel super strong, but it took you completely by surprise. First of all, because it can see you. Second of all, because you know who the hell grabs you. Nobody grabs you. What the fuck? And then suddenly you're in the air, and you feel that that rush of displacement is if you've teleported and you're looking down, you can kind of give me a quick Perception check to orient yourself.
+[2:32:18] Unknown Speaker(s): 15, okay,
+[2:32:22] Ian Lurie: you sort of get a vague sense, you know, you figure out which way is up, which way is down. You see the ruins of the temple. You see the wave cert, the wave serpent, the villains discontent. Off to one side. You actually see Mossy still beetling her way off the battlefield. You see rogorn doing the same thing. You see the bandits all just running in utterly random directions. And you do see Drach and Sango coming up. The Abishai that has you says, snarls in your ear and says, Tiamat sends her regards, and then lets go of you. You're about three or 400 feet up in the air, and then disappears.
+[2:33:16] Speaker 1: The villains, discontent is still in the air. I jump down. Where's the airship right now?
+[2:33:21] Ian Lurie: Not, not close enough. Not close enough for that, if you are on the airship, maybe now there's a bunch of options here. Okay, first, there's this other Abishai that's flying around getting ready to do something horrendous. And he goes on a 23 so Drach, you will go, or Sango, you will go right after him. Might need a can opener. Might need a can opener. So let's see the blue Abishai, immediate. Immediately lets out a snarling laugh. You feel that ozone again, cast a lightning strike and misses. This is again. Oh, okay, misses twice, but on the third one gets three of these per round. I got a natural 20. So rikter, you take I'm not going to try and roll this by hand. You take 95 points of lightning damage as you start falling towards the ground. You guys see this happen. The blue Abishai immediately wheels and starts to fly away at incredible speed. They're very fast, and you see Richter. Are you still conscious?
+[2:35:23] Rikterr: For a second? Richter goes unconscious, and then he comes back, because he has every long rest, one use of the mode of the Undying, so he comes right back.
+[2:35:36] Ian Lurie: Okay, so you guys see rikter's charred body, and for a moment you see consciousness leech from him, just in slow motion. Here is that you are. You know when he goes limp and then he's awake again, but he is falling at incredible speed towards the ground. Few options here. If anyone has an inspiration point, you can spend it to make something good happen, and if you tell me what it is, you can try and use it to save Richter. Richter. You could just have me roll the fall damage. It might not just kill you outright.
+[2:36:10] Rikterr: I have one question, and it's at your discretion. Can I ready an action and when I get to 30 feet above ground, use a bonus action to cast Misty step to land safely.
+[2:36:35] Ian Lurie: I don't think that's how Misty step works. Okay, that's fair. Yes, I think you could use it. How far can you go with Missy step?
+[2:36:42] Rikterr: 30 feet. It's 3030, feet to an unoccupied space.
+[2:36:46] Ian Lurie: Okay, no, I don't think you can use Missy I'll look it up later, but I don't think he can use Missy step to do that.
+[2:36:55] Speaker 1: Question, am I saying this? And how far away am I
+[2:36:59] Ian Lurie: you are probably 100 yards away now, and you do see it. You're like, Yeah, but you're like, I gotta keep checking the battlefield. But wait a minute. No, that's not okay. And you turn around,
+[2:37:16] Speaker 1: how much time do I have before
+[2:37:19] JP Sherman: I have a and I have a crazy idea, too. Okay,
+[2:37:21] Ian Lurie: you have about one round before he hits the ground. You're not going to get there in time, unless you have something with the range to go 100 yards.
+[2:37:32] Mossy in the sky with diamonds: So I have my tobaccy feet that lets me double and then I also have the blessing of the zoom, the Zephyr strike, and then I have the dash action. So,
+[2:37:52] Ian Lurie: hold on. Zephyr strike lets you use a dash action so you can't use it and a dash action in the same term, okay?
+[2:38:12] Shadow Ball Z: How close is Sango from rikter's target on the ground?
+[2:38:19] Ian Lurie: Impact Zone. Impact Zone, yeah, okay, you are now right about there. I'm just going to put you guys on the map. Um, drag, you're right about here. The Richter, Splat Zone, we'll say is going to be right about here. Mossy, just for simplicity sake, we're going to say you're going to be here next round, because you are just that fucking fast.
+[2:38:52] Shadow Ball Z: Levi has an inspiration from the very first session he's had this whole time. Can he give that Sango,
+[2:39:03] Rikterr: okay, I have, I have one more question, yeah. Is that your discretion? Yeah, because I used the metal shell and fall damage is bludgeoning damage, I should be immune to this fall damage, correct? You can say no, again,
+[2:39:20] Speaker 3: no, no, no, no, no, you're not certain
+[2:39:27] Rikterr: that's fair. That is very fair.
+[2:39:29] Ian Lurie: You feel in your heart of hearts, as you're falling that, yeah, that should probably work. It's it's going to protect you from that. But as the ground rushes up towards you, you do have that moment of doubt, that moment of wow, if I'm wrong, this is this is gonna really suck. I don't know if this armors need to keep all my insights in.
+[2:39:49] Speaker 1: Okay, so I have if feeling agility helps me double my speed, if I bonus action. Dash, my walking is 30 bonus section. Dash is another 30. Am I just this is six you get doubled or only a 30 get doubled
+[2:40:16] Ian Lurie: for what? What are you using to double it?
+[2:40:20] Speaker 1: It's a tabaxi feat called feline agility that lets me double my speed for the round,
+[2:40:27] Ian Lurie: for a round, yeah, so you can double, you double your speed, and your speed is 30 feet, so you're doubling that, so you're going 60, and then if you dash, you can go another 60, because a dash lets you move your speed again. Does that make sense?
+[2:40:45] Unknown Speaker(s): Yes. Does that go 120 feet?
+[2:40:49] Ian Lurie: You can go 120 per round if you do nothing else.
+[2:40:53] Speaker 1: Does it put me within 60 feet of him?
+[2:40:56] Ian Lurie: It puts you right here. He's diagonally up. So no, not quite okay. If you wait until he almost hits the ground, actually, if you wait until he hits the ground, then you'll be all set. He'll be within
+[2:41:15] Speaker 1: 60 I don't know if this work, but I think Mossy is pretty fucking desperate right now. Could web work to cushion a fall?
+[2:41:24] JP Sherman: I have an idea.
+[2:41:26] Unknown Speaker(s): Okay, go ahead. All right.
+[2:41:32] JP Sherman: Sura can dash. I with my magic action can cast jump Sura and I can jump 30 feet into the air, and when we intersect with rikter, cast feather fall as a bonus action.
+[2:42:02] Speaker 1: What a one in this acrobatics, I will kill you myself. I'm gonna
+[2:42:06] Ian Lurie: have all this shit happen at once, because this is just too fucking awesome. So rikter Mossy and JP and Drac, all of you give me a D 20. Wow. D, 20 straight, D, 2013
+[2:42:27] Unknown Speaker(s): Okay, 17, okay.
+[2:42:41] Ian Lurie: And then you need to roll a d 20. Mossy, I did. I got a 10. Oh, I didn't hear you say that. Okay, so here's what happens, rikter, you're falling towards the ground, and you think I am pretty sure that my armor will protect me, but I am fucked up right now, so I'm really hoping that it does, because otherwise this I'm going to end up between the cracks, and that's what you're thinking. Just as the grounds rushing up towards you drag you come bounding up on Surrey, on Surah, and you leap into the air at just the right moment, casting feather fall. Feather fall is a it's just you, someone you see right? Or do you have to touch them?
+[2:43:30] JP Sherman: I have to be within a certain range.
+[2:43:32] Ian Lurie: Double check what's the range.
+[2:43:36] JP Sherman: Hold on. There we go. 60 feet. 60 feet.
+[2:43:41] Ian Lurie: Okay, so you get, you think, close enough to hit him with the feather fall, and you cast it just as Mossy cast web, which then completely wraps up rikter In this enormous wad of sticky webbing, which would not
+[2:43:58] Speaker 1: I was casting it like a trampoline at the bottom.
+[2:44:00] Ian Lurie: Yes, yes. Well, he falls through the trampoline, which then goes and wraps him up because no Webb won't really do that. Rikter hits the ground with a sickening thud. It sounds as if he hit the ground going full velocity,
+[2:44:18] Unknown Speaker(s): spare the dying,
+[2:44:19] Ian Lurie: and is completely still. You hit him with spare the dying you guys go running over. You're tearing all the webs off them, and when you're done, Richter's
+[2:44:30] Unknown Speaker(s): immediately so difficult terrain.
+[2:44:34] Ian Lurie: Rikter, you are lying on the ground having just been simultaneously webbed, dropped, almost feather falled, lightning bolted and then slamming the ground. But your armor did indeed protect you.
+[2:44:46] Shadow Ball Z: Sango is going to do produce flames to burn the webs off of rikter.
+[2:44:51] Ian Lurie: Okay, they're already gone. I know I'm just messing. I'm just messing rikter died.
+[2:44:57] Shadow Ball Z: I wanted to see Jamar. He's
+[2:45:00] Ian Lurie: prone. He takes two death saves, yeah. Rikter is lying on the ground. You are bruised, beaten, electrocuted and everything. It's not looking it is not good. But for the first time in what feels like hours, everything goes kind of quiet,
+[2:45:21] JP Sherman: and then we hear the screaming or children getting traumatized.
+[2:45:25] Ian Lurie: You hear all these children screaming and being traumatized.
+[2:45:29] Shadow Ball Z: The Flying Dragons go away. They are gone.
+[2:45:33] Ian Lurie: You saw the last one, the blue one also Banff out of sight, just as you just as you came running up.
+[2:45:42] Rikterr: You guys see rikter on the ground, and all he does is he tries to move his hand, to tap the light that sparks to try and cast he along himself. Ian, you said you wanted to know if we use one of the quinary that's Richter trying to use one of the quintery, it fails.
+[2:46:04] Ian Lurie: Nothing happens. It doesn't work.
+[2:46:10] Rikterr: And you guys more in the back of your mind than out loud, because he can't really enunciate you just hear in in Angry anguish you've never heard out of rikter. You just hear him scream,
+[2:46:28] Speaker 1: okay, I got a potion of greater healing going down the gullet.
+[2:46:36] JP Sherman: Oh, Fifth Level cure works,
+[2:46:40] Rikterr: you know, Mossy, roll a perception check for me, I'm
+[2:46:43] Shadow Ball Z: showing good berries in his mouth.
+[2:46:46] Ian Lurie: You guys are like 18
+[2:46:51] Rikterr: Mossy, you know that the anguish is not from physical pain at what's happened to him, it's pain of frustration that is just going through him right now. All right.
+[2:47:06] JP Sherman: Richter, 56 points Nope. 61 points of healing.
+[2:47:16] Shadow Ball Z: Rikter, two points of goodberry healing, and you have a hard time talking. 2019,
+[2:47:29] JP Sherman: points now,
+[2:47:44] Unknown Speaker(s): 1717, voids of healing. Okay,
+[2:47:47] JP Sherman: that may have been the first time I've ever cast a fifth level spell.
+[2:47:55] Rikterr: You okay? There. You guys hear over the party line, just a tiny voice rikter saying thank you, and he passes out.
+[2:48:10] Unknown Speaker(s): Okay, so I'm
+[2:48:16] Ian Lurie: going to wrap up the night here, because I'm honestly kind of exhausted. Just some quick wrap up stuff, and then next session. Will, will, will be, you know, the aftermath of all this. You guys do find regorum. He's unconscious, but alive. The firefighting crews did put out the fires two of the Corsair ships got away, and when you get when you return to the town, the Albion is gone. For the crew of the Albion, you feel that same snap, darkness, concussive sensation that you had when you showed up here, you reappear in the middle of that battle against the Z Bax that you were fighting, but instead of being out of powder and badly damaged with no sails and no rudder, you now have a functioning ship, so you literally shoot out from between the Z Bax come about and just destroy them to the water line. So your time spent on praxia gave you time to repair your ship and save yourselves in that fight. You no one in the village really knows. No one in return knows really what happened to the Albion, but given how suddenly it disappeared, you're assuming that whatever brought it here sent it back.
+[2:50:01] Bass-O-Matic 2000: Crazy. Do we still have, like, monster fish heads sitting on the
+[2:50:08] Ian Lurie: on the deck? You have as many monster Yes, yeah, no, when you come back through the other side, actually, you guys can decide if you want to keep the monster fish heads, you certainly can. People bring all sorts of weird shit back from long sea journeys in the age of sale. And some of it's fake. Some of it's not. And no one ever totally knows.
+[2:50:34] Speaker 1: I just imagine that those soldiers look like Arab Ian arapine, you know, but the ones I mean, aerophane, actually, no, they're amazing. Also, my cat has not let me put her down since I got home. I
+[2:51:08] Ian Lurie: The other thing I'll tell you for tonight is everybody levels up, whoa, yo.
+[2:51:14] JP Sherman: That was a hell of a fight, man. I worked up a sweat. Ah, sorry,
+[2:51:23] Ian Lurie: Sango, you guys all split up so there was no one to deal with her if she succeeded, which she did, there was no one to knock her break her concentration. I
+[2:51:58] Shadow Ball Z: so I assume when rikter gets back on his feet, he will let us know that he tried to use the quinteri and it didn't
+[2:52:05] Unknown Speaker(s): work. Yes, yes,
+[2:52:09] Shadow Ball Z: that's part of it. I suppose Sango would we would all try to try them out, see if they work.
+[2:52:16] Ian Lurie: So which power did you try to use? Rikter?
+[2:52:20] Unknown Speaker(s): I tried to use heal,
+[2:52:22] Ian Lurie: which is what level. Let me double check.
+[2:52:34] Rikterr: It's the when three items exist.
+[2:52:37] Ian Lurie: Yeah, okay, yeah, so it does not work. I
+[2:52:55] Unknown Speaker(s): Yes, that's a real fish.
+[2:52:57] Shadow Ball Z: Okay, so basically, the sailors come down, came back with a tall tale fish story.
+[2:53:02] Ian Lurie: Yes, they did. They come back with a tall tale fish story. And that is sort of what they look like, actually. So here's what you figure out with the quinary, any of the basic powers, the powers that work with fewer than four items work anything requiring four or more, anything that requires a group of items, does not work. And we can talk about that next, next game. And Jamar, I'm going to research the armor. I believe that that's probably I don't think they changed the way the armor works. I think that they changed the way that they were damage types in the new in the new rules. But I'm not sure
+[2:54:00] Rikterr: what did matter, because everyone had other type of damage tonight,
+[2:54:03] Ian Lurie: yeah, and the only reason I say it is because all the all items that that are supposed to give you invulnerability, none of them say non magical. They all just say you're invulnerable. And I don't think that they meant that, like a potion of invulnerability and everything else would all give you invulnerability to all kinds of damage. I mean, if so you know, again, if you guys have it, my guys have it. But I
+[2:54:32] Rikterr: think, well, that's why I spent, like, a couple of hours of research, because I was like, again, it's like, this seems to be written in this way. And I want to see other people are like, Hey, what are we doing?
+[2:54:41] Ian Lurie: Yeah, yeah, no. Good eye. Good eye. Show me and do me a favor. Send me the stuff that you research too, so I can Awesome. Take a look at it, because I'm awesome, make sure.
+[2:54:49] Rikterr: But hell yeah, cool. All right, y'all, have a good evening. Take care y'all. I guess, bye.

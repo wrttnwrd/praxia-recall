@@ -1,0 +1,815 @@
+# Ian's Meeting Notes
+# Otter recording 2025/03/03 16:58:43 (2h 27m) id pkF0Byph9is3EGnaiSTcejN7HX0
+# https://otter.ai/u/pkF0Byph9is3EGnaiSTcejN7HX0
+# Speaker-attributed transcript, verbatim. Raw source for the card at /items/otter/2025-03/2025-03-03-rbg.md
+
+[0:01:25] Ian Lurie: Ian Ian
+[0:05:34] Unknown Speaker(s): Oh, hello, recording in progress. Hey,
+[0:05:40] Speaker 1: I have some heavy brain fog, so I'd be ready for bad choices,
+[0:05:46] Ian Lurie: getting over some
+[0:05:48] Speaker 1: Yeah, I spent all weekend In the just yeah,
+[0:05:59] Ian Lurie: I'm still not physically 100% from the flu. Two weeks ago, I hear you. Hey, James,
+[0:06:14] Unknown Speaker(s): you had the flu to a, yeah, it was bad.
+[0:06:20] Ian Lurie: Officially tested blue a so
+[0:06:25] Unknown Speaker(s): probably tomorrow, if I'm still
+[0:06:30] Ian Lurie: not feeling great,
+[0:06:35] Unknown Speaker(s): I came down with it on like Thursday, two weeks ago, only last the weekend for the most part, but that's just, that was just sort of hanging around the last little bit. Yeah,
+[0:06:47] Ian Lurie: yeah, I was down for a full week. But even now I get on my bike and, I mean, I'm just hammered. It's just, it's insane how hard it is. But,
+[0:07:00] Unknown Speaker(s): yeah, my son had had that one too. I think he was out for a school for a week. And
+[0:07:08] Speaker 1: I don't know what one this is, everything hurts, um, the fog is amazing. Yeah, there's a real good Yep,
+[0:07:16] Unknown Speaker(s): feel or Yep.
+[0:07:17] Ian Lurie: That was Yes, yep, oh,
+[0:07:20] Unknown Speaker(s): that was my son. Yeah, I got
+[0:07:21] Ian Lurie: to carry a little inhaler around for for two weeks. Yeah, I
+[0:07:25] Speaker 1: have mine from last time I had the flu and my anaphylactic. They're like, we should give you an inhaler.
+[0:07:30] Ian Lurie: No, I burned right through mine. It's, it's all gone. I'll need another I'll need another hit if I need another inhaler. Every time I got on my bike, I was like, just sucking on the thing so I wouldn't cough up along, literally or figuratively.
+[0:07:48] Mossy Oak: Yeah, no, I feel very weak. I don't think getting on a bike would work, because I would forget how balance is. Yeah,
+[0:07:55] Ian Lurie: no, I finally had to, because it was my only path to sanity. It was just I, I got sick, lost my voice got better, went to New York, came home, got the flu, was down for you know, like I said, a week, yeah. Anyway,
+[0:08:18] Unknown Speaker(s): hey, Jamar, Hey, Bobby, does everything hurt on YouTube?
+[0:08:26] Rikterr: No, I am actually pretty good. I feel bad. I'm just sitting here, just listening to, do y'all all get Noro or something? Yes,
+[0:08:34] Unknown Speaker(s): oh, I have, but it hurts.
+[0:08:37] Ian Lurie: It's the the flu that's been going around this year, officially called flu a. That's the actual name. When they tested me, they came back and they were like, congratulations, you have flu A. I was like, That's so fucking great. Thank you so much. Kiss my ass.
+[0:08:54] Unknown Speaker(s): I'm probably just an F student, so I probably got flu F, right, right?
+[0:08:58] Ian Lurie: Well, there is a flu B, apparently, I was not lucky enough to get because that one goes away more quickly. But
+[0:09:05] Unknown Speaker(s): yeah, that's probably what I had. I probably had a last year. Last year I was knocked out for a week. It was, yeah, not fun. But hey, it's the good news. Jamar doesn't have it, so I'm happy for happy for you, bud.
+[0:09:20] Rikterr: Yes, I'm happy that I usually around the holidays get something, but luckily, this year, I was able to escape most of it. So I'm like, All right, let's get those fingers crossed.
+[0:09:32] Ian Lurie: I am. Yeah, I I even got vaccinated this year. I don't always get the flu vaccine, but I did it this year and it didn't really,
+[0:09:42] Unknown Speaker(s): didn't help me to figure out a way to piss off my relatives more next year. So I don't see anybody for the holidays. Tell
+[0:09:49] Ian Lurie: them you're shedding vaccine. Apparently, that's a new expression, your vaccine shedding. I didn't know that that was a thing, but it's a big anti, anti Vax thing that for some period of time after you get vaccinated, you shed vaccine. That sounds pretty creepy. I think it's all the all the computer chips, they're sort of coming out. Am I
+[0:10:13] Unknown Speaker(s): going to get better reception? Now?
+[0:10:17] Ian Lurie: Absolutely, 5g across the board. Well, I'm, I'm pretty hammered too, so we'll today might be a short game. We'll see. We'll see how things go while we're waiting for JP, just the real quick rundown. If you remember you guys had your little bar and Brawl. You chased down skit. You realized that he is not he was not actually the real skit. He was actually a shadow archive gloom weaver who killed the real skit and took his place so that he could let a Nosferatu into the Haddad compound, where the Nosferatu then killed one of the Haddad you know that the portal is in the basement of a temple, a ruined temple of shar in the mists at the outer circle of salmur. You think it may be too late the portal may have closed because it was open on the night in the new moon, which was last night. It's now the first night of the first day of, what the hell day is it? Hold on. I don't know what day it is.
+[0:11:38] Unknown Speaker(s): Time, man, yeah, the first
+[0:11:39] Ian Lurie: day of high sun, the first day of the rest of ISIS, is life. She looks so excited, doesn't she?
+[0:11:50] Unknown Speaker(s): Oh, baby, do
+[0:11:52] Ian Lurie: you notice that the fur on her leg has still not grown back? Holy? Yeah, it's because she's old, my hair isn't growing back
+[0:12:05] Unknown Speaker(s): either. What's your do?
+[0:12:08] Ian Lurie: Jamaria, I get it no after I have my scalp surgery. It just never grew back. It's just gone. It's I was afraid that was going to
+[0:12:22] Speaker 2: happen. I does
+[0:12:33] Ian Lurie: anyone watch the Oscars? No
+[0:12:36] Unknown Speaker(s): Don
+[0:12:38] Ian Lurie: had come and so I had to, kind of, I had it sort of in one had one eye on it the whole time,
+[0:12:47] Unknown Speaker(s): maybe an hour of it. I
+[0:12:49] Ian Lurie: just know that Adrian Brody set the record for the longest acceptance speech in the history of the Oscars, five minutes and 38 seconds. Yo.
+[0:12:57] Rikterr: They were playing off a lot of other people, and they let my man talk, and he talk, talk, talk.
+[0:13:06] Unknown Speaker(s): What did he win that before? Was it Best Actor? He won best
+[0:13:09] Rikterr: for the brutalist. Brutalist?
+[0:13:12] Ian Lurie: Yeah, that's
+[0:13:13] Unknown Speaker(s): on my list. I want to see that. Yeah,
+[0:13:15] Ian Lurie: he was the only one they let go. And he basically they started playing him off. And he was like, no, no, no, no, I've done this before. Stop the music, and they actually listened. They they turned off the mic on another guy. I was like, Damn Why couldn't you have done that with him? But oh, well, I
+[0:13:47] Rikterr: if you haven't seen it, Colin clave is a really, really good movie.
+[0:13:50] Ian Lurie: We watched it last week. It was, I don't know what I expected. It exceeded all expectations, the everything about it, including the ending, was just mind blowing. Have either of you seen it? No, yeah. It's, it's worth it.
+[0:14:10] Unknown Speaker(s): Who's in that one?
+[0:14:12] Ian Lurie: Ralph fines, John Lithgow. He's
+[0:14:15] Unknown Speaker(s): like a Catholic priest or something. Yeah, yeah.
+[0:14:18] Ian Lurie: Isabella Rossellini, Ian whole bunch of old people,
+[0:14:27] Rikterr: family, Tucci, yeah,
+[0:14:29] Ian Lurie: that's right, that's right. Hey,
+[0:14:34] Drakomancy: hey everyone.
+[0:14:37] Ian Lurie: How's it going? I shouldn't ask anyone that question right now. It's going shitty for pretty much everybody. I get it I do in the middle of
+[0:14:47] Unknown Speaker(s): a hostile government takeover.
+[0:14:54] Ian Lurie: The only news I'll bring up is that the Trump administration, as of a few minutes ago, officially paused all aid to to Ukraine. So there you go.
+[0:15:06] Unknown Speaker(s): We have a Russian foreign agent in the way, yeah, yeah, cross North Jesus, because he was disrespectful, yeah, yeah, yeah. Told him to Yeah.
+[0:15:19] Ian Lurie: That was, this is all, it's all orcas. I mean, this was all
+[0:15:22] Speaker 1: dropped our defenses for cyber attacks from Russia. Yeah, and Trump is called for the denuclearization because Russia wouldn't do anything. Yeah, we have a puppet in the White House. We have a foreign actor. And it's a whole thing. The
+[0:15:36] Ian Lurie: only thing is that he's got two people's hands up his ass, right? He's got Ian and Putin. That's got to be uncomfortable. But anyway, I can't even look at it anymore and say, Well, if he dies, we'll be okay, because clearly, Vance is every bit as horrible. Yeah, somebody
+[0:15:51] Speaker 1: need to check him for the murder, the beast that is Damian, grown up.
+[0:15:57] Ian Lurie: Oh yeah, yeah, yeah. I call him dime store. Damien. There you go. Yes, yes. Okay, so, but let's, let's go for the fun things. All right, let's just, let's just fuck all this other stuff off. So JP, the real quick rundown. I just gave everybody you had captured Skiff. You interrogated him. I don't remember what you did with him. Did you leave him with soroya and the Haddad combine? We
+[0:16:28] Drakomancy: did, and we said, we said, we are not going to kill you. And weird, they
+[0:16:35] Ian Lurie: might, yeah, okay, you are now, so you have a few things you could potentially do now. You could head for the destroyed temple of shar in the mists. I know you had talked about going down there and cleaning it out. And then there's also possible, you know, there's a few other things you could potentially do. You could try and find other ways to get to the shadow fell, all sorts of possible options, but I'm assuming that that was the that was the first order of business. So, yes, no, yes.
+[0:17:17] Drakomancy: So I think so draks Definitely gonna take, at the very least, draks me grab the twins while he's up with the Dodd, okay, yeah, he's not going anywhere like this. Okay,
+[0:17:42] Unknown Speaker(s): pocket dimension to store the kids in.
+[0:17:48] Drakomancy: Oh, if one of the ways is death, that'll probably be super traumatizing for the twins.
+[0:17:55] Ian Lurie: If, what
+[0:17:58] Drakomancy: if one of the ways to get to the shadow fellas, oh, is
+[0:18:00] Ian Lurie: to actually die, die.
+[0:18:03] Drakomancy: Yeah, I'm not going to do that to my to the tour. Ian, do we
+[0:18:06] Speaker 1: just send somebody in and then resurrect him? I
+[0:18:09] Ian Lurie: I'm going to suggest that some preparation might be in order, if that's how you're going to go. Yeah. So yeah, we
+[0:18:16] Unknown Speaker(s): found the great mage cowork. Ian, right,
+[0:18:19] Ian Lurie: right. Exactly, exactly. All right, so it, it is the next morning, we're just gonna say you have gotten you have dealt with skith. You dealt with felbro. Felbro is seriously considering the error of his ways, or at least seriously considering waiting until he is 99% sure that you guys are never coming back to some year ever again.
+[0:18:47] Unknown Speaker(s): And so many cousins I have, I'm a Bucha.
+[0:18:53] Ian Lurie: And you head for the mists. You go out through all of the you know, through each succeeding ring of the city, you actually passed by the clever luck, which is very quiet right now because it's the next morning, and you get to the outer gates, where did
+[0:19:08] Rikterr: we get a long rest? Yes, you
+[0:19:10] Ian Lurie: did. Yeah, everyone got a long rest. And you go back through the same kind of, same barricade that you went through with felbro last time. And you kind of squeeze the twins through. They sort of figure it out and shoulder some stuff aside. And with that, you're in the mists. And you do see, there's a few people, you know, the mists are not deserted. You see, you know a little kid who was clearly fishing around looking for stuff, you know, just for food or whatever. She sees the the twins, and lets out this little squeak and kind of runs away. You see a few adults that are just kind of moving around. You're not sure exactly what they're doing, but they're poking around in the rubble. And you know that the temple of Shar is next to the Temple of nick them, which, you know, Mossy, exactly where that is, so you head over that way. And funny thing that, before, sorry,
+[0:20:12] Speaker 1: could I? Could I ask Kiki to pop over the fae and see if she can tell nick them were coming? I uh,
+[0:20:25] Ian Lurie: I wish I could do stuff
+[0:20:26] Unknown Speaker(s): them via Kiki, yeah, I
+[0:20:29] Ian Lurie: wish I could just sort of pop over to the Fay room, but that's not really okay, kind of above my pay grade. But I mean, Nick them is not a Fae, least, I don't think he is. I wish we could take credit for him Fair enough.
+[0:20:45] Unknown Speaker(s): Is there a way we can communicate with Nick them?
+[0:20:47] Ian Lurie: Well, you can go to his temple and pray and see if you can get in touch with them, or you can just stop and pray here. That's That's one logical way to get in touch with the deity.
+[0:21:02] Unknown Speaker(s): I We have a map to lead us there, too, first floor in the basement
+[0:21:14] Ian Lurie: of the temple. Yes, of the
+[0:21:15] Unknown Speaker(s): template, yeah. So
+[0:21:19] Ian Lurie: you're going to follow the map. You're going to go to the temple of nickname. Well, they're right
+[0:21:24] Unknown Speaker(s): next to each other. They
+[0:21:24] Ian Lurie: aren't right next to each other. Yeah, I was
+[0:21:26] Unknown Speaker(s): just saying that so we that we know we're not going to get lost, right? Okay, yeah, is the mists like dangerous, like Jack the Ripper kind of thing? Or what's the it's
+[0:21:36] Ian Lurie: just destroyed. It's the, you know, it's the outer ring of the city, mostly facing towards the water, and it was destroyed by a tsunami, so it's mostly flattened. There are people there, but it's not really dangerous, particularly for the five of you, plus the twins. There's like gonna so
+[0:21:52] Unknown Speaker(s): like outer Berlin, 1945 we're sneaking through looking for Nazis, sure,
+[0:21:59] Ian Lurie: something like that. Mean, if
+[0:22:01] Speaker 1: we're going to be sneaky, I can throw it past without a trace. What are we feeling here? Do you want to try and talk to nick them and see if we can get some aid?
+[0:22:11] Drakomancy: Absolutely. Do you mind if I do, like, a survival because, like, based on what you said, like, it doesn't seem super dangerous. But do you mind if I just, like, spend some time, kind of look around, do a little bit of range re survival stuff? I'm gonna go
+[0:22:27] Unknown Speaker(s): talk to the cute animals again, if,
+[0:22:29] Ian Lurie: if any of you lived on the coast in like, the 1970s or 80s, this is kind of what the outskirts of Newark and elizabeth new jersey look like. Seriously, just falling over buildings, you know, nothing. There random trash in places. People don't necessarily realize how bad it really looked at that point, but that's what it looks like.
+[0:22:54] Drakomancy: Yeah. I mean, Mossy has got it. I mean, I'm gonna go animal friendship. Speak to animals, okay?
+[0:23:00] Rikterr: And
+[0:23:03] Drakomancy: just do a little bit of like talking. Okay,
+[0:23:07] Ian Lurie: you, you cast the spell, and you hear this, and this little creature comes out, and it's, it's sort of rat shaped, but much bigger. The rat tail on it, kind of a pointy snout. It's got like, four babies clinging to its back. It's a possum. Oh,
+[0:23:32] Unknown Speaker(s): and
+[0:23:33] Ian Lurie: it says, Yes,
+[0:23:37] Drakomancy: I go my pocket. I just bring out, like my, my small bag of of nuts, and I just kind of have some notes.
+[0:23:46] Ian Lurie: Oh, thanks, of course. Uh,
+[0:23:49] Drakomancy: hey, I'm new to the area. Like, are there any things I need to be worried about? Like, any nasty predators, you know, generally, things that you run away from, things that stink bite.
+[0:24:02] Ian Lurie: Uh, the Cobras are pretty bad.
+[0:24:06] Drakomancy: Yeah, cobras, Ian's again,
+[0:24:07] Ian Lurie: yeah, Cobras
+[0:24:08] Drakomancy: and dicks, yeah,
+[0:24:10] Ian Lurie: yeah, cobras aren't great. The there's some seagulls that are just total assholes. But I mean that they won't hurt, they won't hurt you. They're just annoying.
+[0:24:23] Unknown Speaker(s): Alright,
+[0:24:26] Drakomancy: yeah, cuz just, thank you. Thanks for letting me know. Is there anything you need? Like you gotta, you gotta, you got a good place to say you got? Oh,
+[0:24:35] Ian Lurie: yeah, no, I'm I'm good. I'm good. Oh, there is what? There is a puma wandering around somewhere, uh, only at night, which is when you know we're all out and but I can, I can see it coming a mile away, and honestly, it comes near us, and we just, and then she doesn't make a sound. She just kind of goes and falls over dead. And you're for a second, you're like, oh God. And then she gets up again. She says, it's not really a problem for us. So if you see the Puma, that's my recommended strategy, just fall right over. Just it. It works every time.
+[0:25:10] Drakomancy: I will take that into advisement. Roll in some
+[0:25:13] Ian Lurie: garbage first.
+[0:25:15] Drakomancy: Well, I mean, you got, if you're, if you're gonna be out here in the woods like this, like you're gonna smell, you're gonna, you're gonna have some funk on you. I mean,
+[0:25:22] Ian Lurie: I'm a rodent, and I still know I don't smell too good, and that's why the the Puma just doesn't figure it out. Because, you know, they're
+[0:25:30] Drakomancy: always clean of themselves. That's
+[0:25:32] Ian Lurie: right, there's, yeah, they're, they're a
+[0:25:36] Drakomancy: bunch of fancy providers that they're
+[0:25:37] Ian Lurie: sort of OCD, yeah, it's really true. It's really true. But one of the, I know cat kinds, one of, one of the baby, one of the babies kind of looks up, says, Mom, can we go back to sleep? I'm tired. Okay, okay,
+[0:25:54] Drakomancy: okay, take off a little, a little a tiny statue of like walnuts and peanuts and things like that, just like, you know, let them. Let them drag it back their place for a later snack. Okay,
+[0:26:07] Ian Lurie: another big Ian. He grabs him and says, Okay, take care
+[0:26:12] Drakomancy: of yourself. Watch out for the Puma. You too.
+[0:26:18] Unknown Speaker(s): Hey, Boss Man, what, uh, what did the rat say?
+[0:26:22] Drakomancy: Yeah, the rats are basically like normal wilderness predators, Pumas, cobras, seagulls, nothing, nothing out of the Army, nothing that smells like death or, you know, I think we're good in this area, right, which is also kind of encouraging, because how close are we to the Temple of Shar?
+[0:26:53] Ian Lurie: Uh, you're, you figure you're about a 10th of a mile, okay?
+[0:27:00] Drakomancy: Because these things are nocturnal, and if there's like death porn out of the temple, you know that they they know about it. All right, they seem pretty normal for possums, for
+[0:27:21] Ian Lurie: possums, yes, yeah.
+[0:27:22] Drakomancy: The
+[0:27:24] Unknown Speaker(s): one thing you tell the
+[0:27:25] Mossy Oak: possum they were adorable and perfect and that I wanted to pet all their babies. I
+[0:27:29] Drakomancy: did they. They were very concerned about the Puma, the Prima Donna Puma, but they said that the one strategy works for them is just to kind of roll over, stick your dog out and pretend you did that you're dead.
+[0:27:46] Ian Lurie: Yeah, yeah, exactly. Okay. So
+[0:27:52] Drakomancy: I think we're good. I think we're good.
+[0:27:53] Speaker 3: Do you want to try and be stealthy? We don't have to. But
+[0:27:59] Ian Lurie: with the twins, it'll be hard to be visually stealthy. You can be very quiet, but
+[0:28:05] Unknown Speaker(s): trace. I can summon all the shadows to wrap around us, right,
+[0:28:07] Ian Lurie: right, right, right. Then there'll be this big blob of shadow moving down the street. They're so you know, they're big enough now that you know there's really no structure left here that's taller than one story, and there aren't many of those. So it's, it's very hard to hide to gigantic lizards.
+[0:28:30] Drakomancy: In my head, I see them as, like, like, the size of a war horse, and not, like, actual, like, the 30 foot.
+[0:28:36] Ian Lurie: No, they're not full 30 foot. Okay. No, they're now, they're definitely war size, but still, you know, sneaking a war horse in some place isn't so easy, either. True. All right,
+[0:28:52] Drakomancy: okay, so, yeah, should probably clean out this temple. All right,
+[0:28:59] Ian Lurie: so you pass by the temple of nick them first. And it's one building that is sort of okay. It has that car, the dual carvings of the Mongoose on it, and that kind of low, squat stone structure that you saw last time. Do you want to go in there first Mossy, or do you want to just head straight for the Temple of Shar. I'm
+[0:29:22] Speaker 4: just gonna pop in and say hi. I'm really do the bird thing, but I'm gonna pop in. Do you want to try to come catch up with our old pal? Okay,
+[0:29:32] Ian Lurie: you walk in and why don't you do this for me? Give me a give me a religion check.
+[0:29:40] Unknown Speaker(s): I am oddly good at religion, but not today. That's an eight. Okay,
+[0:29:50] Ian Lurie: you go inside. It's deserted. There's nobody in there. There's, you know, there's some candles that are not lit that clearly have been burned recently. Seems pretty quiet. There's a little offering plate with nothing on it, and then the statue of the Mongoose that you saw last time.
+[0:30:11] Speaker 1: There's nothing like the candles have been recently, you
+[0:30:14] Ian Lurie: know, just they're melted, so they're not untouched candles. Someone definitely, and you know, just given the conditions here, the candles would be gone if you know, they were months old. So okay,
+[0:30:38] Drakomancy: we should leave it off, right? Yeah, I
+[0:30:41] Mossy Oak: have this tiny joke book that I kind of stole from the library. I feel like trickster that he is. He was like this, this tiny joke book that I've pilfered. So I'll put that in. Okay,
+[0:30:56] Ian Lurie: you leave a tiny joke book for Nick then, yes, somewhere, he nods approvingly. It's like, yeah, all right. Jokes, I get jokes.
+[0:31:11] Mossy Oak: Oh, great, Nick them, mighty Lord of trickery. And for jokes, we're in the neighborhood, and we really thought we should stop by because your neighbor kind of has a swap problem.
+[0:31:27] Unknown Speaker(s): Are you booping and I love you.
+[0:31:32] Ian Lurie: You don't hear anything. Yeah, you don't hear anything back. But you think you might feel a little bit of a warm breeze for a second. You're not sure.
+[0:31:48] Drakomancy: Well, I mean, when you're at the God of farts, I mean, that's bound to happen.
+[0:31:53] Ian Lurie: It it didn't. It wasn't a
+[0:31:55] Unknown Speaker(s): fragrant breeze. So that's good. I
+[0:31:56] Ian Lurie: mean, the mists don't smell good at all. But no, it wasn't that bad. The mist smell like everything rotting, because that's basically what it is, right? It's all the wood, anything that can biodegrade. Has been biodegrading here for, you know, six years, seven years now. All right, you guys, exit. You go one door down the Temple of Shara is there. It is. There's just the first story with no roof. Or actually, parts of the roof are still there, but most of the roof is gone so it's open to the outside. There's huge wooden double doors with large iron rot knobs on them. There's the doors are actually standing ajar right now. Inside, it's, you know, if you just sort of look in the door, you can just see there's patches of sunlight coming in because of the the holes in the roof. I what you
+[0:33:15] Drakomancy: kind of do, Rita Ford,
+[0:33:16] Speaker 1: this is your thing, go, go Polka God or something.
+[0:33:24] Drakomancy: I'm gonna go do a perimeter check. Can we go around? I'm gonna look for storm sellers, shifty looking wells
+[0:33:36] Ian Lurie: inside or out on
+[0:33:37] Drakomancy: the outside, I would see different areas to get in, or where things can get in, or where things can get out, okay,
+[0:33:47] Ian Lurie: um, you move all the way around the building. Uh, give me a give me a survival check, and also a perception check.
+[0:33:59] Drakomancy: Survival. Survival that would be a 28 okay? And a perception that will be a 16,
+[0:34:08] Ian Lurie: okay, that survival is not quite high enough. You're in trouble. No, um, you, you pick your way around the building pretty quickly, looking for, you know, gaps in the wall, anything like that. And the walls on this temple were pretty substantial before, before the fall. They are solid stone. There's no windows. There were no windows previously. So there are no windows now. There are a few places where the wall has crumbled a bit. And you think if someone really, you know, worked hard to clamber over it. They could, but it's not exactly an easy, easy way to get in and out. As you walk around the building, you do find some evidence that there have been humanoids of some kind walking around the building. There have definitely been, there's been signs of there are signs of life. Here. You also find that in one of the places where the wall is partly collapsed, there is evidence that someone has climbed over that not, maybe not an hour ago, but pretty recently. You also find some like bits of discarded survival gear, like, you know, a water skin. You know, bits of a water skin, a roofed up piece of bedding. You know, just things that you notice as you're moving through the environment that most people wouldn't notice. But because you're, you know, you are who you are, you just see all kinds, you know, you see evidence that someone skinned as a small animal out here just as you're coming back around the corner. And that's really it, though that's, that's what you find.
+[0:35:50] Drakomancy: I relay that to the to the group, okay, the so real quick that the foot, the footprints, were they going towards the temple or away from the temple. They're
+[0:36:01] Ian Lurie: kind of moving all about. There's some moving in out there, some just going around the temple. Just lots of evidence of activity, though. Okay,
+[0:36:09] Drakomancy: cool.
+[0:36:22] Ian Lurie: So rikter, are you going in?
+[0:36:25] Rikterr: I've been shoved in so much.
+[0:36:26] Ian Lurie: Whoa. Give me a perception check when you go inside. I
+[0:36:44] Rikterr: 17,
+[0:36:49] Ian Lurie: when you look inside, you see something that looks like Ian. I'm looking for the gigantic dragon figure. No, I'm kidding. You see that? So it's this kind of, you know, it's the inside of a temple with no roof. I turned up the exposure just so it's easier to see stuff. But you can see there is a lot of evidence of some kind of encampment. Here you see tents, you see some fireplaces. You see lots of bed rolls and sleeping gear, some cooking gear. Clearly, some folks took advantage of the partial shelter that this place offered. And as you look more closely, you realize that those people did not fare very well, because they are there are corpses throughout this room. There's dismembered parts of a body up on the dice here as you move in. Sorry, hold on as you move in. You know, the temple smells of mold and rotting vegetation, right? And it's, it's really humid, and the floor actually gives slightly as you walk because it was, it was some kind of wood over stone. The wood is mostly rotted at this point, so it kind of squelches as you walk on it. There's this thin mist of vapor rising off the floor. And you see the circle and circle symbol everywhere of the goddess of loss, right? So this is you're in the right place. This is the temple of Shar. You see all those tents, you see cooking utensils, just all the things that the less fortunate carry with themselves when they're just trying to survive. There's pieces of furniture in here that clearly do not belong in a temple of Shar so someone tried to set up, you know, some kind of place to stay here. I I'm but as you look around, you do see five or six bodies. You see dismember parts of a body up on the up on the dice and and it's totally out of place. You see this desk with some kind of printing equipment on it, and piles and piles and piles of leaflets or something all around it. You're not sure what that is, but as you look at it more closely, you realize, oh, wait a minute, those look like the leaflets that you found that have been handed out all over the city, but that's all you can see standing from standing from the the doorway, basically
+[0:39:46] Rikterr: gonna tell everyone party line. So drag adhere to what I see in there and say, You guys want to go in together, or you want me to keep looking around myself.
+[0:39:58] Unknown Speaker(s): Mossy has snuck up behind you like you're talking to Bardo. I'm like, Yes,
+[0:40:07] Rikterr: all right, let's go,
+[0:40:10] Unknown Speaker(s): go in and to the right. Hug the shadows.
+[0:40:18] Ian Lurie: You guys go in some of your hugging shadows, some of you aren't Drak. Are you just kind of walking with the rest of the party? Or
+[0:40:27] Speaker 1: I'm gonna go team shadows. I'm gonna He's going right, I'll go left.
+[0:40:30] Drakomancy: Yeah, I'm gonna have a echo posted at the door, kind of guard. And Sarah and I are gonna go inside. Okay,
+[0:40:41] Ian Lurie: when Sir is walking in there, you know, that kind of thumping sound of her her feet on the wet floor is, it's, it's a very weird sound. You know, you were hearing the kind of squelching as you guys are walking on it. But when she's there, it's, it just sounds like something much heavier, thumping into almost, you know, the building almost feels like flesh because of how kind of damp and springy The floor is. You work your way around the walls Sango and you know, you don't really see anything that different from what I described. There are. There is the bed rolls, the bedding. You think there are probably the remains of eight or 10 people here. They've all had their throat tripped out. And then there's, you think probably the dismembered parts of at least two or three bodies up on the dice. And there is no blood anywhere.
+[0:41:46] Speaker 1: Do we see anywhere that appears to be an entrance to the lower level?
+[0:41:51] Ian Lurie: You do there's a kind of a staircase?
+[0:41:57] Drakomancy: Oh, should we check? Check the bodies for I letters or some sort of identification, or,
+[0:42:08] Speaker 1: yeah, I can give any families closure. Okay,
+[0:42:17] Ian Lurie: why don't you give me a perception check as you go over the bodies
+[0:42:23] Unknown Speaker(s): who's making that?
+[0:42:28] Drakomancy: Yeah, this is not something Drak is good at at all.
+[0:42:32] Speaker 1: I'm pretty perceptive. See my this loves me tonight. I might not
+[0:42:37] Drakomancy: perception. Yes, invest, oh, yeah, no. 25
+[0:42:41] Ian Lurie: okay. I Yeah, no, they don't, most of them, they don't seem to have any forms of ID on them. They have, you know, lots of knick knacks. They have some, you know, beat up knives and cutlery, cutlery, things like that. They all bear, actually, none of them bear any indication of dying violently, except that their throats are torn out. There's no evidence of a struggle. There's no evidence of broken bones, bruises, anything like that. Are
+[0:43:13] Unknown Speaker(s): these humans humanoids? These are
+[0:43:16] Ian Lurie: humanoids. They're a mix. So there's some humans, there's some gray elves, some high elves, um, there's even a tiefling in amongst them. What
+[0:43:30] Speaker 1: about that stack of it looks like books. So books and papers, sir,
+[0:43:34] Ian Lurie: yeah. So you go over and look at that. Cover
+[0:43:37] Unknown Speaker(s): me. I'm going in.
+[0:43:38] Ian Lurie: And those are actually, you see it very clearly now. These are the leaflets that were being handed out in and around the city. And underneath the table is some very basic equipment that would at least make it a little bit quicker. So you're not handwriting all of them, basically big stamps, so no printing press, but just some kind of large ink stamp that they could use to turn them out pretty quickly. The other books appear to be just random books. There doesn't appear, you know, there's nothing. You don't see any tomes of unusual value. If you want to take some time and investigate, you can do that if you want. Can I
+[0:44:15] Unknown Speaker(s): just show them all the bag of holding? Sure
+[0:44:21] Ian Lurie: think you got enough room. Oh, yeah, clear.
+[0:44:23] Speaker 1: We cleared out a lot of the bag of holding by putting stuff back in the bastion.
+[0:44:30] Ian Lurie: Think you took a dead body out of there too, which freed up a lot of weight. Do
+[0:44:34] Unknown Speaker(s): we have a body in there? I think you did.
+[0:44:37] Ian Lurie: Didn't you have a body in there? That
+[0:44:39] Drakomancy: doesn't surprise me. I can't remember which body, yeah, but it doesn't surprise me. No,
+[0:44:43] Ian Lurie: I mean, it just, it seems like you would, but,
+[0:44:46] Speaker 1: I mean, yeah, I've met Mossy, it does seem Yeah, but it's not in my inventory,
+[0:44:52] Ian Lurie: all right, maybe not, maybe not. So you as you move through the temple, you do see that there's a a curtain and a small chamber. And when you look through the curtain, you realize that there's actually stairs down in that chamber.
+[0:45:15] Unknown Speaker(s): The before we go down the diocese, is there anything particular about that, other than the dismembered pieces. Well,
+[0:45:25] Ian Lurie: I mean, the skulls are pretty disturbing, but they're pretty typical.
+[0:45:30] Unknown Speaker(s): Does the does it look like a, like a, like a sacrificial ritual type of altar scenario?
+[0:45:38] Ian Lurie: No, it's, it's definitely, this is all char temple stuff. So there are prayer pillows here. These two big cabinets, you don't know what's in there. And then these two large skulls up against these two pieces of fabric that ignore what's on there. It actually has the circle in circles, insignia of of char.
+[0:46:14] Unknown Speaker(s): Okay, so other than the papers and the stamp, is there anything else that we find in the room that may indicate a particular group or people or that might have taken interest in this place, other than like, Maybe people that are just squatting here or whatever.
+[0:46:44] Ian Lurie: I mean, you're not from salmure, so you're not really sure, but the mists, there's nobody, nobody lives in the mist because they want to any. People that were down here or here, because they have no place else to go, and they were pride. They're picking the buildings that they feel offer the best shelter. The Temple of Shar is certainly, you know, it's certainly got four walls that are more solid than most of the buildings that are left in the mists.
+[0:47:18] Unknown Speaker(s): Do we have any idea how long the bodies have been dead.
+[0:47:22] Ian Lurie: Someone give me a medicine roll if you have proficiency,
+[0:47:30] Speaker 1: Mossy looks at the bones and go it dead. They
+[0:47:40] Ian Lurie: are definitely dead. They are dead as shit. But the truth is, with the humidity and everything here, it's hard to tell how long they've been here. They're already kind of bloated, you know, basically nasty. If you want to give me a medicine check at disadvantage, you could sort of, you know, use what you learned on TV.
+[0:48:09] Unknown Speaker(s): A natural one, okay? And a 13, okay.
+[0:48:21] Ian Lurie: You have no idea. You have absolute, like, no clue. They could have been here for a year. They could have been here. They may have died a few minutes ago.
+[0:48:36] Drakomancy: He's dead. Jim, he's dead
+[0:48:37] Ian Lurie: Jim, yeah, so
+[0:48:39] Unknown Speaker(s): then you said there's no blood. Does that mean there's, like, no blood stains anywhere, either correct, okay, so no late blood, like, leaked out of the body later, or when their throat was slashed, or,
+[0:48:50] Ian Lurie: you know, parents, you're not sure, but they, there's no indication, based on, you know, the inspection you guys have done, that there's any blood, any blood pooled anywhere or anything like that.
+[0:49:04] Unknown Speaker(s): Greg and picks up a stick. It just pokes a body that it
+[0:49:07] Ian Lurie: sits up and attacks you. No anybody
+[0:49:09] Speaker 1: else feel like we should have worn scarves for this kind of like,
+[0:49:15] Ian Lurie: like a little tiny Harper and leave League of Extraordinary Gentlemen. Yeah. You poke the body with a stick, it kind of squelches and actually, ooh, nasty, yeah, when you poke it, these bodies are pretty bloated because of how warm and humid it is, and it actually kind of pops and sort of deflates little as all this nasty stuff comes out.
+[0:49:47] Speaker 3: You made a gooby. I don't think we
+[0:49:50] Unknown Speaker(s): should do that again, Boss Man.
+[0:49:57] Ian Lurie: Interestingly, there's no flies in here,
+[0:50:02] Speaker 1: all right, I think it's time to go into the deep, dark, scary basement. Who's ready?
+[0:50:08] Drakomancy: Hold on, hold on. I got one thing. I'm taking my knife and on the the wood carving kit. I'm carving something like a, oh,
+[0:50:20] Unknown Speaker(s): I threw that all in the bag. I'll take it out for you. Okay,
+[0:50:22] Drakomancy: yeah, cuz, listen, I'll call roll our car. I'm going to carve a stupid little joke. So if it, if they print another piece of paper, it's going to say, what's a vampires favorite fruit? A nectarine. I reading,
+[0:50:43] Ian Lurie: wow, give me a performance check. Make sure you don't actually cut a finger off while you're carving this team. Okay, all right. It's very well done. Actually. It's very tastefully carved.
+[0:50:57] Unknown Speaker(s): Reagan loves a good dad joke. HE CHUCKLES a little,
+[0:51:00] Ian Lurie: yeah, and you can spell neck, any, any, C, K, so it's very good. Yeah.
+[0:51:09] Unknown Speaker(s): There we go. Okay,
+[0:51:13] Ian Lurie: so you head over to the stairs, and the air from the basement is damp, but cooler as it's coming up the stairs at you, you part the curtains, and you do indeed see down into this very dark room. I will not speak for anyone. Do you want to go down the stairs? Do you want to what's what's the plan here?
+[0:51:41] Unknown Speaker(s): Yes, yes,
+[0:51:42] Drakomancy: I've got echo on guard duty up the top floor. Okay, I'm taking Sura down downstairs with me. Give me
+[0:51:52] Ian Lurie: marching, a marching order. Yeah, I don't
+[0:51:54] Speaker 1: think you should be in the front with Well, maybe you should be in the horn that I saw. I thought up to you, how you feeling?
+[0:51:59] Rikterr: Rikter, front track next
+[0:52:10] Drakomancy: Mossy at the back. Can I
+[0:52:12] Unknown Speaker(s): ride on the back of sir? Will you downstairs?
+[0:52:15] Drakomancy: Sure? Okay,
+[0:52:16] Speaker 1: does that go standing guard? Sir is coming with right?
+[0:52:21] Drakomancy: Yes. Okay, I'm
+[0:52:24] Speaker 1: just gonna hop up on Sarah's back. He's on my shoulder, okay?
+[0:52:33] Rikterr: And with the then Sango and crangan pulling up the rear,
+[0:52:40] Unknown Speaker(s): can assume saying goes there.
+[0:52:45] Speaker 1: Do you want to send kick Ian first invisible and see if she can see anything?
+[0:52:53] Rikterr: Sure, smart idea.
+[0:52:56] Unknown Speaker(s): Geeks. You up for it?
+[0:52:58] Drakomancy: Yeah, sure, boss.
+[0:53:01] Unknown Speaker(s): Do you think
+[0:53:04] Ian Lurie: she disappears? She she flies down the stairs. She says it is creepy. AF down here, boss, I gotta tell you, there's a mirror thing over on the other side that's got this kind of glow coming through it. And i i Hang on. I think I see something, and then she just goes silent,
+[0:53:32] Speaker 1: go, go, go, go. He saw something, but she's not responding, and it scares me, go.
+[0:53:38] Unknown Speaker(s): I'm taking
+[0:53:39] Rikterr: upstairs to it. Okay,
+[0:53:41] Ian Lurie: so you're the first one down. Rick, okay, so you get down the stairs. This is what you see. Move all your minis on here. Let's see if I can move the minis tonight without breaking everything. I'm guessing, no, but I'm gonna really
+[0:54:01] Speaker 1: silly DM building beautifully elaborate digital battle maps.
+[0:54:08] Drakomancy: This is amazing. This
+[0:54:10] Ian Lurie: tales fire is yeah, I tried to use it on my Steam deck because I was like, Wow, this would be awesome, but you really need a mouse, all right. Rikter, sorry, I've still got your, your spiffily Dressed version, but Okay, so it's sort of this order. Do I have this, right? Rikter, Rick and
+[0:54:36] Drakomancy: Drak. Okay,
+[0:54:39] Speaker 1: rikter and Drak, then I'm I'm on sir is back stairs.
+[0:54:44] Unknown Speaker(s): Zango would hug the wall to the left.
+[0:54:47] Ian Lurie: Yeah. Okay, and let me just find a couple other things that I think we need here. I I have a dinosaur? This is the question, yes, we do. Oh, think that's actually a velociraptor, but that's okay. I Okay, there you go. Oh, wait, there's one other figure we need. Oh, no, I'm I see, I think we'll have to just don't, don't freak out. Okay? That this, that's not real. Okay, not real.
+[0:55:58] Unknown Speaker(s): He young, steroids, yeah,
+[0:56:02] Ian Lurie: Kiki is lying right about here, but she is down. Something has, you're not sure what, but something speared her big time, and she is lying on the ground bleeding.
+[0:56:25] Unknown Speaker(s): Don't you touch my Fairy Dragon,
+[0:56:29] Ian Lurie: and then you see these shadow shatter. Kai here. Rikter, give me a What would this be? Give me a Dex, Dex check, so Dex plus Dex modifier,
+[0:56:59] Unknown Speaker(s): 12. Okay,
+[0:57:01] Ian Lurie: you are moving past, and then you feel this ripping pain in your side as this creature pops into view next to you and just rips its claws into you. You take I'm so disorganized tonight, but I am really disorganized tonight. There we go. You take 18 points of slashing.
+[0:57:49] Rikterr: Okay, so half thanks to a grown as armor.
+[0:57:59] Ian Lurie: And now that was the surprise round, so we can all roll initiative.
+[0:58:09] Unknown Speaker(s): 616,
+[0:58:14] Drakomancy: 3020, okay, hold on, hold on.
+[0:58:20] Ian Lurie: I got windows and shit all over the place. Geez, not shit, not shit, shit, just, you know what I mean. All right, so who?
+[0:58:29] Drakomancy: Metaphorical shit? Yeah,
+[0:58:31] Ian Lurie: metaphorical shit. All right. So Mossy. You're there. Track. What did you roll? 3020,
+[0:58:40] Speaker 2: 3020, yeah. There.
+[0:58:45] Ian Lurie: Rikter, did you get a six? Is that what you said? Okay. And then Sango,
+[0:58:50] Unknown Speaker(s): 20 total.
+[0:58:53] Ian Lurie: And then Cregan, negative
+[0:58:55] Unknown Speaker(s): one, negative
+[0:58:57] Ian Lurie: one. All right, hold on, I gotta go back and get Cregan. Wait
+[0:59:03] Unknown Speaker(s): all the shutter guy rolled higher than a 16. I'm feeling good about my initiative, damn it.
+[0:59:10] Ian Lurie: They're speedy. They're they're not that substantial, but they are speedy. Hello. What? I'm trying to get you into the it's all right. I got this. I got this. Aha. There we go. Okay, so the Nosferatu, which is indeed what this is, immediately follows up on you. And it actually, no, it doesn't. It goes like this. It moves to here, not breaking out of melee, its jaw kind of distends and it lets out this. It just kind of vomits forth this flood of blood that hits, let's see.
+[1:00:37] Rikterr: Yeah, so that
+[1:00:39] Ian Lurie: hits. Rikter, Drak, rikter and Dr, oh, just out of range. Yeah, just out of range. Um, so you both need to make dc 16 con saves
+[1:00:52] Rikterr: at a plus five direct, since you're in 10 feet of me, thank
+[1:00:57] Drakomancy: you. That will be a 16. Okay,
+[1:01:04] Rikterr: that will be a 17. Okay,
+[1:01:06] Ian Lurie: damn it. One of these days it's gonna work. Okay, you both take nine points necrotic, and that's it. You don't, you don't get hit with the really nasty side effect. I All right, and then the shadow Kai say, Holy shit, this must be what happened to Skiff. I I don't really want to do do that, but I see what you're like, and I don't think it's a good idea for me to, like, stand around while you stick me full of arrows. So we're just going to do that. He goes to there he goes, 123456, they're all pile on the Paladin, quick. Paladin, bad. Paladin, very bad. So the two shadow client either side of you, they will not form into some giant creature. I promise you that the two shadow Kai, one of the two shadow Kai, they're both at advantage. One of them rolls a 16 to hit. No, yeah. Ah, the other one rolls 2030, 20. Nope. No, wait, that's not what I meant. I'm your biggest fan. I'm the DM. I'm the DM. This is a collaborative storytelling experience. And then Drak, the one on you, gets a 23 to hit. That's 25 to hit,
+[1:03:02] Drakomancy: that'll hit. Okay,
+[1:03:04] Ian Lurie: you take seven points piercing. And when the spear pierces, sort of your side, you feel this freezing cold pain, like it's cold down here anyway, but this is like ice inside your body, and you take 26 points of necrotic.
+[1:03:26] Drakomancy: Two six, yeah,
+[1:03:28] Ian Lurie: two six.
+[1:03:30] Unknown Speaker(s): Got it. That sucked.
+[1:03:38] Ian Lurie: I just realized they each do this three times. Wait,
+[1:03:41] Unknown Speaker(s): hold on, where did you roll? That you failed, that I didn't
+[1:03:45] Drakomancy: feel anything. It's just, there's no
+[1:03:46] Ian Lurie: save, okay. It then gets a 22 to hit and a natural 20
+[1:03:57] Unknown Speaker(s): silvery barbs, they
+[1:03:58] Drakomancy: all hit. Okay,
+[1:04:00] Unknown Speaker(s): silver barbs in the natural 20, okay,
+[1:04:02] Ian Lurie: so you take, well, hold
+[1:04:04] Drakomancy: on. You don't have to, because I have the stone that prevents a critical today. Okay,
+[1:04:12] Unknown Speaker(s): then redact.
+[1:04:15] Ian Lurie: So you take 18 piercing, and then you take, because I know I roll like shit, so I'm gonna roll.
+[1:04:28] Drakomancy: This doesn't look like shit so far. Well,
+[1:04:31] Ian Lurie: I so usually I just use the average damage when I roll. I decided not to do that here. Okay, so you take 15 necrotic and then another. Another 21, necrotic. Okay, I'll just give you the average
+[1:04:54] Unknown Speaker(s): next time. Okay,
+[1:05:01] Ian Lurie: and then the two on you rikter, because I forgot multiple texts missed dramatically once get a 21
+[1:05:15] Rikterr: oh, well, that would hit except I'm going to use a reaction in cash shield, yeah.
+[1:05:20] Ian Lurie: Okay. A 23
+[1:05:26] Rikterr: now that shields up, nope, and a 24 now that shields up, nope. My God,
+[1:05:31] Ian Lurie: you are the tankiest of the tanks. Okay, they're there. So you guys, watch these. They are blindingly fast, and they run up to you with these spears, and in the space of, you know, six seconds, they get three really good jabs at each of you, you know, Drak, you take it pretty badly, because you're, you know, you're not a melee guy, let's face it, and it's you're all taken by surprise. But somehow, rikter, you're just like that. You just are batting them off, and you're kind of jumping back, and they're just barely missing you. They look kind of frustrated. Actually, they sort of do okay. You do see? No, that's it. So whose turn is it next? It is. What have I done?
+[1:06:32] Unknown Speaker(s): Think it's me. Yes,
+[1:06:33] Drakomancy: Chuck had the 20.
+[1:06:37] Ian Lurie: Oh, yeah, track, sorry.
+[1:06:40] Drakomancy: So okay, there you go. Okay, that hurt me a lot. Yeah, so the first thing I'm going to do is Hunter's Mark, which fortunately no longer can be no longer is dispelled by a concentration checks. So I'm going to take out my daggers, and I'm going to attack, Nick, attack. And those are all three, three separate holes. So the first one is, it's, uh, nine plus 1019, to hit, yeah, all right, this is for the Nick, 16 plus 1026,
+[1:07:34] Ian Lurie: who is Nick, and why are you dedicating these blows to him? No, sorry. Okay, you hit.
+[1:07:40] Drakomancy: And the third attack is a 24 hit. Okay, you
+[1:07:46] Ian Lurie: notice, by the way, they don't appear to be wearing much in the way of armor. They're basically wearing leather vests. You hit all three times. Okay,
+[1:07:55] Drakomancy: so with hunters, Mark, that is a 14 damage for the first Okay, that is a seven damage for the neck, okay, which doesn't have Hunter's Mark. The second attack is 11 points of damage, and then sura. I don't know if Mossy is still on Sura,
+[1:08:29] Ian Lurie: but Mossy would have had to have gotten off. Otherwise she would have gotten scraped off coming down the stairs because sir is too big.
+[1:08:36] Speaker 1: And sir, yeah, I jumped off to yell, don't touch my fury dragon. And
+[1:08:41] Drakomancy: Sura is going to take two bites. Yikes. All right, that is a 19 to hit that
+[1:08:49] Ian Lurie: hits and
+[1:08:50] Drakomancy: a critical to hit.
+[1:08:52] Ian Lurie: Little boy, the shadow Kai, looks concerned as this dinosaur basically picks him up and starts ragdoll.
+[1:08:59] Unknown Speaker(s): Okay. Love you sir. Three, I'm Sarah, three
+[1:09:02] Drakomancy: plus one plus five, nine points of damage, nope, so no honors mark 110, points of damage, and this is and this is the correct seven plus five is 1224, 29 and then the hunters mark is a four, 829, plus eight is 37 points of damage. Okay,
+[1:09:37] Ian Lurie: so Drak turns into this weird looking elvish heart and slices this thing up a million ways from Sunday. And then the shadar Kai is preparing, you can see it's about to do that annoying power where it disappears and moves away, but Sura comes over and literally grabs the shadar Kai by its arm and just shakes it until its arm comes off and it immediately dies. They immediately die. That down, that that's that that's a little stunning. The rest of them are like this is the problem with having a not great armor class. Sango to your turn,
+[1:10:25] Unknown Speaker(s): the shattered guy from the fey realm.
+[1:10:28] Ian Lurie: No, they are from the Shadowfell. Oh,
+[1:10:31] Unknown Speaker(s): are they considered Fae? No,
+[1:10:34] Ian Lurie: they are not. They are neither feign or fiend nor undead. They are elves who lived in the Shadowfell. Either were born there or lived there for so long that the shadow fell has sort of changed on or they're just goth elves, you know, just depends on who you ask.
+[1:11:02] Unknown Speaker(s): The Okay, wow, I'm gonna do it anyway. I'm gonna sneak my way up right behind rikter, then make him away. This is only going to help a little bit, but I'm going to cast protection from good and evil on him, so that way the Nosferatu at least has disadvantage attacking him, and then I'm going to shadow step my ass to back out of there, back to where it was.
+[1:11:40] Speaker 2: Yeah, that
+[1:11:47] Unknown Speaker(s): is my turn.
+[1:11:52] Ian Lurie: All right now, no siratu, he watched what just happened and he said, Oh, fuck, okay, this is not what I planned on. I need to get out of here. He turns and he skedaddles, 12345, you notice that the mirror is bathed in blood, like there is an incredible amount of blood on this mirror, and it is still glowing, and you assume that that is the portal, and the Nosferatu leaps into it, and so I
+[1:12:27] Rikterr: did an attack of opportunity. Yes, you do. Do
+[1:12:32] Ian Lurie: you have something really annoying, like Sentinel?
+[1:12:38] Rikterr: It hurts that you would think that anything I would do, would be annoying, no, unfortunately, I don't have that that's going to be a 19 To hit
+[1:12:49] Ian Lurie: that on. That hits,
+[1:13:00] Rikterr: all right, so that's been so long. What the hell is the I don't know where anything is anymore. There we go. It's going to be 13, seven points of regular damage and six points of radiant oak.
+[1:13:35] Ian Lurie: Now I'm really leaving dives through and the mirror kind of it kind of almost does that matrix, sort of watery effect where he dives into it, the mirror kind of almost looks like it has surface tension as he goes through it. And then it goes these two shadow Kai look kind of pissed, actually. Um, I they
+[1:14:08] Drakomancy: feel betrayed. They feel
+[1:14:10] Ian Lurie: betrayed. You know, it's like they they hung out with an undead monster crime lord and thought that they weren't going to be betrayed, which is kind of embarrassing if you're them actually. But you know what? They have a job to do. So they will continue battering away.
+[1:14:31] Drakomancy: But before they do that,
+[1:14:36] Unknown Speaker(s): wait is that their turns again? It is
+[1:14:38] Ian Lurie: because that was a surprise round Uh huh,
+[1:14:40] Unknown Speaker(s): but that
+[1:14:41] Ian Lurie: was supposed to make this, you know, oh so horrifying for you guys. Oh, well, one of them, one of them, does something, and you can't quite tell what, and then the other one makes a motion with their hand, says a word, and everybody needs to give me a DC, 16 wisdom, save and Let me just make sure everyone's within the circle. Yes, you're all within the circle. Everyone within
+[1:15:26] Rikterr: 10 feet of me, add plus five, and you're
+[1:15:29] Ian Lurie: all at disadvantage.
+[1:15:34] Drakomancy: So this is for Sura
+[1:15:42] Unknown Speaker(s): 12. 12, okay,
+[1:15:45] Drakomancy: this is for track. 26 okay,
+[1:15:54] Rikterr: you said wisdom, right?
+[1:15:55] Ian Lurie: Yeah.
+[1:15:56] Rikterr: So, uh, dirty, 20, okay,
+[1:15:59] Unknown Speaker(s): nine, okay,
+[1:16:02] Rikterr: was that with the plus five? Yeah, close enough. Oh, wow,
+[1:16:07] Speaker 1: that was with plus five. Boo, we just here. We're here
+[1:16:12] Ian Lurie: Sango, Sango and Cregan,
+[1:16:15] Unknown Speaker(s): Sango
+[1:16:18] Ian Lurie: with disadvantage. Remember, yep,
+[1:16:19] Unknown Speaker(s): disadvantage, it's a 10 plus six plus five is plus one is 22 and Craig and total of 10. Okay,
+[1:16:31] Ian Lurie: so everyone who failed lower than a 16, give me a roll me a D, 10, 09, and five, okay, digging
+[1:16:46] Unknown Speaker(s): through my Math rocks, 10, Okay.
+[1:16:55] Ian Lurie: So Mossy and Sura, you're both. Everything is suddenly, everything around you is suddenly swirling and twisting in weird ways. And you're just you're befuddled. You cannot figure out what is going on around you and but you know, you sort of know, though, which way to move and how to move. So you have some vague semblance of control over your bodies. Cregan, though you are frozen, you're confused, and you're frozen in place until next turn. So and then each turn, for those of you who are confused, you will make another wisdom, save and then you will do another D, 10, if you fail, if you if you succeed, then the effect is gone. All right, the other shot. Archi,
+[1:17:58] Drakomancy: you know what? Fuck these
+[1:18:01] Ian Lurie: dice roll two twos at this advantage with advantage, and now I rolled two fives. Those dice also go into the pod. All right, let's, let's see how quickly I can go through all these dice.
+[1:18:15] Speaker 1: My guys show can be a very big industrial complex.
+[1:18:20] Ian Lurie: Ah, a 26 does that hit you? Rikter,
+[1:18:24] Rikterr: that just hits me
+[1:18:25] Ian Lurie: and it and another 26 Look at that. Wow, I saw brooch, but it actually that was the I'm an advantage, not disadvantage. Okay, you take and this time I will do the average, because that didn't work out so well. Last time you take 14 piercing and a total of 52 points of necrotic damage, as those Spears just dart around you at a million miles an hour, I
+[1:19:03] Rikterr: Hi, cool, and
+[1:19:09] Ian Lurie: that's it. I'm I'm done.
+[1:19:14] Speaker 1: Oh, are you done now? Yeah, I'm done now. Okay, so how am I limited? What am I? What am I going to do here?
+[1:19:20] Ian Lurie: You can move. You can move and act normally. Everything is really weird right now, but you can move and act normally.
+[1:19:28] Speaker 1: Okay, so first thing I need to do is bonus action,
+[1:19:32] Speaker 3: healing. Word on ki he okay.
+[1:19:39] Unknown Speaker(s): So that is going to be d4, plus five, six, okay,
+[1:19:48] Ian Lurie: she, um, sort of wobbles upright, but doesn't really do much else. She's just kind of like, a little bit trying to figure out what the hell just happened to her. Um, okay.
+[1:20:03] Unknown Speaker(s): Then I would like to
+[1:20:08] Speaker 1: one of which shot or Kai is is currently just beat up. Rikter. Real good.
+[1:20:14] Ian Lurie: This one,
+[1:20:15] Speaker 1: okay, that one I would like to dagger, please. Yep.
+[1:20:21] Ian Lurie: Ah, so cute. Okay,
+[1:20:22] Speaker 1: that was a natural 19 plus. That's 13, yep. Cap, so I need lots of D fours because he is engaged in combat, I'm gonna use my sneak attack. Yep, you
+[1:20:34] Ian Lurie: do get sneak attack. Is it really still a d4
+[1:20:37] Speaker 1: it's first, sorry, uh, yeah, the dagger itself is the d4
+[1:20:41] Ian Lurie: Yeah, but that is 4d
+[1:20:43] Speaker 1: six, yeah, yeah. Of Sneak Attack Damage there on top of it.
+[1:20:49] Speaker 4: Okay, so did you Oh? Two sixes? Where 17, 1819, points of damage. Yeah,
+[1:21:06] Ian Lurie: he goes, disappears and reappears over here, actually, no, he disappears. You don't know where he goes.
+[1:21:15] Speaker 1: I would like to use my movement to get up on top of those, those barrels right there. Yeah, is this a time, or would it be an action to drop down goggles?
+[1:21:34] Ian Lurie: That's that's a bonus action. So as long as you don't try to hide or anything, you can do
+[1:21:40] Speaker 1: that. Well, I bonus action, Healing Word already. Oh,
+[1:21:44] Ian Lurie: then, yeah, no, so you can't do it. Okay, all right, rikter,
+[1:21:50] Unknown Speaker(s): that's great. You get a turn
+[1:21:52] Ian Lurie: you do right after? Rikter, yeah, I remember it was actually, this is actually the first round. It's still the first round. We're still on the first round. Okay,
+[1:22:04] Unknown Speaker(s): save my dragon.
+[1:22:07] Rikterr: Rikter is going to attack the Shatter Kai right in front.
+[1:22:14] Ian Lurie: Yeah, and
+[1:22:15] Rikterr: since I have called the attack, I am going to use one of my channel, divinity points to make Bastion a sacred weapon, which gives me plus five to attack rolls. And I'm going to stipulate that all my damage is going to be radiant damage, because I can either choose Normal or all radiant. I'm gonna say all radiant. Okay, all right. So let me roll to attack. It's going to be a 26 Yeah, and a 24 Yeah.
+[1:22:53] Ian Lurie: That also hits, all right. I'm I don't think I'm doing this. Sorry. Go ahead. Oh no,
+[1:23:17] Rikterr: that's going to be 45 points of radiant damage.
+[1:23:21] Ian Lurie: Go on. Okay, he says. And then, sorry, go ahead. What else do you
+[1:23:31] Rikterr: do? Um, no, if he is, he going to do something like
+[1:23:35] Ian Lurie: he's gonna, well, he's gonna use his reaction and do the, you know, the Banff thing. Of course he
+[1:23:40] Rikterr: is, well, let him do that, and then I'm going to use my Where the hell is Drak is? He's right there. Okay, yeah, so I'm going to use my movement to get close to Drak, and then I'm going to use my bonus action. How many hit points in your down track.
+[1:24:03] Drakomancy: Okay, so most of it is necrotic.
+[1:24:09] Rikterr: The better question is, how many hit points can I heal you?
+[1:24:14] Drakomancy: Okay, meta gaming, a little bit,
+[1:24:17] Ian Lurie: I believe. 14 piercing,
+[1:24:20] Drakomancy: yeah, 14 piercing. Yes, I can be healed. 14 Points.
+[1:24:27] Rikterr: Jesus, dude. I mean, oh, God, damn, okay. Oh,
+[1:24:34] Drakomancy: dude, it's bad. They're
+[1:24:36] Ian Lurie: squishy, they they're squishy, but they do a lot of damage. Um,
+[1:24:41] Rikterr: then I'm going to go ahead and I'm going to use my bonus action for lay on hands and heal you that 14 points.
+[1:24:53] Drakomancy: Okay, thank you,
+[1:24:55] Ian Lurie: Mossy. You see the mirror. You don't see anybody, but you see the mirror do that thing again, two more times, like something just left through the mirror.
+[1:25:08] Unknown Speaker(s): Call out, chicken just bolted.
+[1:25:11] Ian Lurie: Ki. He says, boss, there was a thing. And look out. And then she kind of stopped. She goes, Oh,
+[1:25:19] Unknown Speaker(s): she does this. Run, over, scoop up. I'm so
+[1:25:22] Ian Lurie: sorry she does this pretty human imitation of patting herself with her little teeny paws.
+[1:25:30] Unknown Speaker(s): You were invisible, and they still got you.
+[1:25:34] Ian Lurie: They could see me, I guess.
+[1:25:36] Unknown Speaker(s): Okay, we learned an important lesson today.
+[1:25:42] Ian Lurie: There are lots of spells that will let them do that, including, of course, true scene, which you also know about. So
+[1:25:49] Speaker 1: Sun me out of combat right now, I will drop down goggle and look around. Okay,
+[1:25:56] Ian Lurie: you don't see well. Let me stop this is what you see. You see this kind of basement. There's nothing down here that doesn't look like it belongs, except this massive glowing mirror. There's literally like there's a game board. There's some random, you know, just the kinds of things that you find in the cellar of a temple to the goddess of loss and death and loss. So pretty grim shit, but nothing out of the ordinary,
+[1:26:33] Unknown Speaker(s): teddy bear, you know? Yeah, I don't
+[1:26:34] Ian Lurie: know. I stuck that there because I thought it was funny. All right,
+[1:26:37] Speaker 1: who wants to see if we can fit a creepy mirror in the bag holding.
+[1:26:45] Drakomancy: Should we go follow them?
+[1:26:49] Speaker 3: I mean, you are not looking great. Well,
+[1:26:56] Drakomancy: yes, I know. But should we still go follow them? Okay,
+[1:27:07] Unknown Speaker(s): we don't know how much longer the mirror is going to stay open. Does anyone have greater restoration? I do that can get rid of necrotic? Yes, you can. I have that too,
+[1:27:23] Speaker 1: if you want to, if you want to heal drag, because he, yeah,
+[1:27:27] Rikterr: if you hit him, I can hit my heavy dose of necrotic. Yeah. Rikter
+[1:27:31] Ian Lurie: is looking pretty messed up too.
+[1:27:33] Unknown Speaker(s): Okay, I'll do one. You do one.
+[1:27:36] Drakomancy: Yeah, Jack got down to like a third of his hit points. I
+[1:27:48] Rikterr: shut our time.
+[1:27:50] Ian Lurie: Shut our Kai are their masters of ambush. That is their thing, and they have this nasty ability, burden of time that causes disadvantage on saves, except for elves, which I have to remember. The other thing that I screwed up is the misty escape power they use when they get damaged is a reaction. So actually, the first time they got damaged, they would have gotten away. So the one that got its arm ripped off by Sura would have actually gotten away, because the first time you hit it, it would have banned away,
+[1:28:27] Unknown Speaker(s): give sir some pocket bacon,
+[1:28:29] Drakomancy: sir. And didn't get hurt, but she got a little woozy, so I'm over there, kind of giving her some scritches, yeah,
+[1:28:36] Ian Lurie: and creating it wears off for you too. For a couple of minutes, you sort of for, not for a couple seconds. You sort of walk in random directions, and then you're fine and Mossy. When you get up on top of the barrels, you do feel very confused for a moment, and then it goes
+[1:29:00] Speaker 1: away. Yeah, if we can get you two back from being a little woozy. Hey, Craig and can you feed Kiki some some berries. Maybe help out.
+[1:29:14] Unknown Speaker(s): Yes, angles got some good berries here. How much do you guys down?
+[1:29:28] Rikterr: I just used the rest of my Lay on Hands pool to heal myself. 46 so I'm down. What's that about? 31 hit points. What about you? Dre
+[1:29:45] Drakomancy: so I am going to burn a one of my own fourth level Cure Wounds. And do let's see what I get. All right, 43 hit points.
+[1:30:10] Unknown Speaker(s): Do some more. I can do some.
+[1:30:12] Drakomancy: Oh, I'm I'm close, but I'm not full.
+[1:30:18] Unknown Speaker(s): So I got some healing word I can throw on you.
+[1:30:25] Drakomancy: Yeah, I'm still about 25 down.
+[1:30:28] Unknown Speaker(s): We also have potions here.
+[1:30:34] Drakomancy: You know I'm gonna, I'm gonna burn a third level. I
+[1:30:37] Speaker 1: don't want you to burn your all your spell slots, though, because if we're about to go in there,
+[1:30:42] Drakomancy: okay, that's, that's probably a good point.
+[1:30:46] Speaker 1: Okay, look, I gotta, I got a potion of greater healing. Why don't you take that up?
+[1:30:51] Drakomancy: Keep it because I've got my own
+[1:30:54] Unknown Speaker(s): okay, but thank you. I Okay, cool. Before we go in there, I would like to cast aid, and I'm going to put it on rikter, Jack, and are you saying go or Craig, and right now, either one. What does a do?
+[1:31:39] Speaker 1: It just it bolsters you up five, your hit point maximum and current hit points increase by five. Oh, Sango, if I would take that, okay, then Sango and
+[1:31:53] Unknown Speaker(s): that last eight hours, I
+[1:32:03] Drakomancy: Okay, Doc's looking so much better now,
+[1:32:18] Ian Lurie: ISIS is dancing on My keyboard, and I'm not kidding, she just, like, made so much move around randomly on this map. Okay. Anyway,
+[1:32:28] Drakomancy: so Mossy, do you know of anything and rikter, like, Do you know anything that prevents or helps with this kind of damage? Because, like, it's nasty.
+[1:32:41] Speaker 1: I feel I'm pretty well versed in Arcana. Can I make a role on that?
+[1:32:45] Unknown Speaker(s): Yep, get my Mossy day. 23 okay,
+[1:32:58] Ian Lurie: you don't know that there's any specific protections against necrotic damage. You can, you can you can be undead. There are certain clerics that can be immune to necrotic. See what else is there out there? Ian's having to dig pretty deep into the deep into the lore, only from necrotic. You actually don't know of anything else that will render you immune to necrotic. There are potions of restoration, right? Yeah.
+[1:34:19] Drakomancy: Oh, well, okay, yeah. Cuz
+[1:34:21] Speaker 1: echo from upstairs, Mr. Mayor is coming to Yeah,
+[1:34:25] Drakomancy: cuz Drak can help with like lightning, acid, natural types of damage. But
+[1:34:38] Ian Lurie: it's this, yeah, undead magic is so bad. Yeah, I mean, you should
+[1:34:48] Drakomancy: go ahead. Sorry, I just
+[1:34:49] Ian Lurie: say you could be granted a boon by a deity.
+[1:34:53] Unknown Speaker(s): Nick them. Yeah,
+[1:34:56] Ian Lurie: you could take a shot at it, but he doesn't appear to be around right now. You may not be in his favorite place. Yo calistra,
+[1:35:05] Drakomancy: thoughts and prayers. Thoughts and prayers,
+[1:35:07] Ian Lurie: exact, yes, thoughts and prayers, I'm thinking of you right now.
+[1:35:15] Unknown Speaker(s): See, this is why I think God's are overrated. How
+[1:35:23] Drakomancy: I know their place just not here, apparently.
+[1:35:27] Ian Lurie: Well, there is a guy who has a place here, but she did. She really, she's 100% behind the whole necrotic damage content,
+[1:35:40] Speaker 1: okay, based on the books and the portal, because I did an insane amount of research on this, what can we expect to see when we cross over here?
+[1:35:50] Ian Lurie: Well, the shadow fell is different for everyone. For every dread domain is different. Every dread domain has its own unique properties. The shadow fell in general. You know that if you spend a long time there, you start well, mechanically speaking, you start making roles. Eventually, if you're there long enough, you forget where you're from, and you will become some form of shadow archive.
+[1:36:17] Speaker 1: So we really need to make sure we know how to get back to this mirror well.
+[1:36:21] Ian Lurie: And also, you know, you have to make the roles. You have no idea how hard those roles are. It's possible you could be there indefinitely, and it wouldn't impact you. I mean, you guys are heroes. You also know that in most dread domains, food, water, wine, things like that. They taste odd, or they don't taste at all. Some versions of the shadow fell are just riddled with undead, and some versions are not. So you know, they can vary widely. There's nothing in the books you read about necrotic like everything, not you know, everything in the shadow file can't just automatically do necrotic damage or anything like that. You did learn about the shadow archive. You know, there's different kinds with different levels of power given what you read, give me, give me an Arcana check. This is to recall some of what you read.
+[1:37:28] Speaker 3: Oh, that's so many, 20, no, 30,
+[1:37:32] Ian Lurie: okay. Um, you are pretty sure that the the shadow archive you have fought are called gloom weavers, and they are among the most powerful shadar Kai. They are the shock troops of shadar Kai, and they aren't necessarily all evil. Clearly, these did not have the best of intentions towards you, but they aren't necessarily all evil. I
+[1:38:12] Speaker 4: so we could make some friends in here. Everybody got their pocket bacon. We ready to go.
+[1:38:19] Speaker 1: This really does feel like a time to put up some Pass Without a Trace, though.
+[1:38:24] Unknown Speaker(s): Yes,
+[1:38:29] Speaker 1: me a lot easier, and the shadow fell, because there's a lot of shadows I can call on there. They're very friendly.
+[1:38:37] Ian Lurie: Yeah, you don't know if the shadow fell is more shadowy, actually? Oh, might be, but you're not sure.
+[1:38:45] Drakomancy: We've never been there. I'm
+[1:38:47] Unknown Speaker(s): gonna throw it up.
+[1:38:48] Ian Lurie: There are stories of the shadow fell where it's brightly lit. There are stories the shadow fell where it's not brightly lit. There are parts of the shadow fell when it's, you know, just totally, utterly dark. Again, every dread domain is a little different. You know the stories of one particular dread domain called barovia, where it's eternally rainy
+[1:39:15] Speaker 4: strud, yeah, right, yeah. Okay. Well, I'm gonna pop this up. Who, who would like to go first? I
+[1:39:28] Drakomancy: will do a nature's veil, which allows me to go invisible, and if they're waiting for me on the other side with another ambush, I mean, maybe I'll have more luck than Kiki. But I think,
+[1:39:54] Mossy Oak: you know, it's a great idea, yeah, disguise self like a shot or cry. Okay?
+[1:40:03] Drakomancy: So, so I hop then I help them. You do? Yep, all right, so nature's veil pop through.
+[1:40:13] Speaker 4: Okay? Shadow Kai face hop through. Okay.
+[1:40:16] Unknown Speaker(s): Saying goes invisible pop through, as long as it's shadowy or dim light on the other side.
+[1:40:24] Rikterr: Gregor, just walking through.
+[1:40:27] Ian Lurie: Rikker strides
+[1:40:28] Drakomancy: through. Follows rikter.
+[1:40:32] Unknown Speaker(s): We're leaving Echo.
+[1:40:34] Drakomancy: Echo is on guard duty at the top floor.
+[1:40:39] Unknown Speaker(s): We let the guard for a while because they're going through like another realm. You don't want to bring echo. I don't know if we're going to pop back out. Here is the thing, yeah.
+[1:40:50] Drakomancy: Well, okay, I'll, I'll get, I'll get echo. Okay,
+[1:40:56] Ian Lurie: all right, hold on. I'm getting everybody positioned. So you step into the mirror, and it's a really weird sensation. Um, the moment you step into it, you feel this wrenching drop. It's so abrupt, it's as if you just stepped off a cliff. There's no warning. The smell of lightning and gunpowder, you know, cordite and ozone just fills your nose, and you wince like you're expecting to land on the ground, you know, to hit the ground really hard, and instead, you just find yourself standing on solid ground surrounded by the sea of gray mist like you can't see anything. You can't see each other, either. And then the mist slowly resolves itself into solid shapes, and you're standing in this dimly lit room that looks really familiar. This is how Ian gets two maps for the price of one. Hold on. You are unfortunately all kind of bunched together, but could be worse, so you appear in another basement of what appears to be another temple of Shar but this basement, this temple, is much more together. The tables are lined up. There's stools around them. There's no trash or broken crates anywhere. This place appears to have been used more recently, and it is intact. It's not, you know, it's not trash, it's not damp. Down here, it is cold. It's bitingly cold. And all colors down here are very muted, like there are still colors. You can still see the green of Drax armor and all that. But it's, it's very, it's exactly like you see it here, right? So it's just it's not quite as brightly colored, and you immediately realize that sound is also kind of muffled a little bit. It's, you know, you can still hear things clearly. There's no disadvantage on on hearing roles, nothing like that. It's just sounds somehow damped down, and as soon as you come through, everybody gets to roll initiative again, because you're not surprised, because you fully expect there to be something bad over here.
+[1:43:36] Rikterr: And I rolled another goddamn six. It was meant
+[1:43:40] Ian Lurie: to be. Please don't take this the wrong way. Echo, but I'm using a different mini
+[1:43:47] Unknown Speaker(s): differentiate, yeah, that goes fine.
+[1:43:49] Drakomancy: That way. I know which one is my defense and which one's my offense. Yeah,
+[1:43:52] Ian Lurie: yeah. 26
+[1:43:53] Drakomancy: initiative,
+[1:43:56] Unknown Speaker(s): all right, 10. All right.
+[1:44:01] Ian Lurie: So hold on. I don't know why I always do this. So wrong. Rikter, you got a six. Got a 26 for Drak Mossy, you got a 10. Sango, would you get
+[1:44:15] Unknown Speaker(s): a 16? Okay, so
+[1:44:16] Ian Lurie: that's right. And Cregan, 16.
+[1:44:20] Unknown Speaker(s): Wow,
+[1:44:21] Ian Lurie: damn. All right, let me roll for my guys. All right, well, not gonna go quite as well for them, are you rolled a six? Rikter,
+[1:44:36] Rikterr: yes, sir,
+[1:44:40] Ian Lurie: this is not going to go quite as well for them. Okay? So you pop through, they are just starting to move. And from everything you can tell, it looks to you like they're not. Looks to you they are. They're starting to walk away. They're like, whew, we made it. We're out of here. And then you guys all BAMF in right around the mirror, and they immediately turn around, and you see a mix of shock and dismay and even anger on the face of the Nosferatu. But these two are definitely, they're kind of like, what the fuck they just followed us here? So let's see we are going to start with, track.
+[1:45:27] Drakomancy: Okay, I am going to hit him hit No siratu with a Hunter's Mark. Okay? And 1234, so how? Many feet between Sura and Nosferatu? It looks like 20. Should put him. 1234,
+[1:45:54] Ian Lurie: yes, 20,
+[1:45:55] Drakomancy: fantastic. So this is the first time I could do this. Sura is going to pounce. She is gonna run 20 feet, pounce. Automatic, no save prone.
+[1:46:13] Ian Lurie: Wow. Okay. He the Nosferatu goes prone,
+[1:46:19] Drakomancy: damn. All right, and that gives a sir advantage on her two attacks. That was be a 23 to hit, yeah, that hits, and a 27 to hit also hits. Okay, okay.
+[1:46:45] Speaker 3: 1014, okay,
+[1:46:54] Drakomancy: and then 22 and then drag is going to close the district distance and do his dagger. Dagger, dagger, Nick, dagger, okay,
+[1:47:10] Ian Lurie: not to be confused with Mick Jagger. No, okay,
+[1:47:15] Drakomancy: okay, so first dagger that would be a 19 to hit, all right, the Nick,
+[1:47:24] Ian Lurie: oh, wait, the 19 misses. Sorry, okay,
+[1:47:25] Drakomancy: the Nick is a 21 to hit that hits. And the second dagger is a 20 to hit,
+[1:47:38] Ian Lurie: it also hits. Okay,
+[1:47:43] Drakomancy: okay, the Nik attack does 10 points, the second dagger, or the Nick tank does 10? Does 10? The second dagger does
+[1:48:06] Ian Lurie: 12, right? And
+[1:48:11] Drakomancy: that is, that's it, okay.
+[1:48:15] Ian Lurie: Oh,
+[1:48:16] Drakomancy: I should have done advantage on another prong, but I'm not okay.
+[1:48:21] Ian Lurie: That's done. You could see, you know, you cut some pretty good slices into him. He did not appreciate that at all. All right, Sango, I
+[1:48:40] Unknown Speaker(s): and say, who is going to throw a it's going to throw a produce at the one next to drag. Okay. It. That is a 19 to hit.
+[1:49:06] Ian Lurie: That hits, there's my shit armor class, and it is shit. All right. That is
+[1:49:15] Unknown Speaker(s): 20 fire damage. Ow,
+[1:49:17] Ian Lurie: the fuck. All right. That hurt. He looks kind of messed up now. He sees crispy. He already had big slashes on him from getting attacked by rikter before. Now he's toasty and slash he
+[1:49:40] Unknown Speaker(s): and they're sassy. It's all together, nasty. Yeah,
+[1:49:44] Ian Lurie: right, exactly. Do you move?
+[1:49:49] Unknown Speaker(s): No, he's just gonna hang back. Craig is gonna cat throw up his Twilight sanctuary. It's a 30 foot radius, okay? I everybody gets 14 temporary hit points. Love it.
+[1:50:18] Ian Lurie: Does that move with you? Yes, by the way, temporary hit points are a great way to deal with necrotic damage, because they just layer over top.
+[1:50:39] Drakomancy: Although that, Sura gets extra
+[1:50:45] Ian Lurie: Mossy. What do you do? All
+[1:50:47] Speaker 1: right, so we have three baddies, right? I see two up here. Where's the third hiding? It's
+[1:50:54] Ian Lurie: It is currently. He's currently lying down underneath sura. Ah,
+[1:50:58] Speaker 1: that's a great place for him to be. I'm a fan of that one. All right, I'm just gonna look at one that's over to the side of Draken point. I'm like, don't fuck with my fairy dragon and cast fireball.
+[1:51:15] Speaker 4: That wasn't me, he says, but go ahead. 27 that hits
+[1:51:25] Speaker 1: four. Damn. It wasn't a great role. 10 points of crispy, crispy damage. All
+[1:51:29] Ian Lurie: right, he looks bad now.
+[1:51:33] Speaker 1: Okay. And then, for my movement, I want to, I want to de bundle us a little bit here. So I'm gonna go run over and hop on this table. That's it. Well, assuming that table doesn't give them a tax opportunity, that's a great table if I
+[1:51:52] Ian Lurie: wanna know. I mean, what's your movement?
+[1:51:54] Unknown Speaker(s): Movement is 30.
+[1:51:57] Ian Lurie: Okay, so you wouldn't quite get there unless you use a dash. If you use dash, you can go 60 feet, but 30 feet would get you.
+[1:52:07] Speaker 1: I meant the table to the south. Oh, okay, so that, yeah, important, like, you can see me,
+[1:52:17] Ian Lurie: all right. And normally I'd say it's another five feet of movement to get up there, but it's, it's a low table, so you just kind of step up there. Well,
+[1:52:24] Speaker 1: actually, I think I want to use my, my cunning action to to hide. Okay,
+[1:52:31] Ian Lurie: give me a stealth check,
+[1:52:37] Speaker 4: see if I can do some cool road. Where's my Mossy day? Oh, my brain fog is real. That's it. There we go.
+[1:52:46] Speaker 1: Oh, wasn't a natural one. So that is oh and I can I do? I use paso natric too.
+[1:52:55] Ian Lurie: If you have it up, I put
+[1:52:58] Speaker 1: it up before we went in. Yeah. So that is a 25
+[1:53:03] Unknown Speaker(s): okay, I rolled the two.
+[1:53:08] Speaker 1: Wasn't a natural one. Praise be, right.
+[1:53:15] Ian Lurie: Let's see here. Okay, so up now.
+[1:53:18] Speaker 1: Kiki is on my shoulder like wrapped in my clothes. Yeah,
+[1:53:21] Ian Lurie: yeah, key. He's key. He's like, No, fuck that. I'm out. Peace, okay, the Nosferatu flies into a rage and seems somehow bigger and stronger here than it did on the prime material plane, there's something different about it, and it will try to throw Sura off of it, getting a Natural 20 Jesus,
+[1:54:00] Unknown Speaker(s): for a
+[1:54:01] Ian Lurie: total of a 30, the
+[1:54:04] Unknown Speaker(s): whole hit. Well, no,
+[1:54:06] Ian Lurie: that's to get Sura off. So Sura basically gets flung back. Is there
+[1:54:10] Drakomancy: a saving throw?
+[1:54:12] Ian Lurie: No, it's this was escape grapple. Got it if you can roll higher than a 30, try it actually see if you can roll higher than a 30. Okay. Do
+[1:54:24] Drakomancy: Uh, nope. What
+[1:54:26] Speaker 1: did you get? Uh, dirty. 20, what's the modifier? Oh, wait, no, that's dirty, okay. 30, okay,
+[1:54:34] Drakomancy: yeah, 15 plus a string for five plus five.
+[1:54:39] Ian Lurie: He oops, sorry, sorry,
+[1:54:44] Unknown Speaker(s): leaps up,
+[1:54:47] Ian Lurie: lets out this hissing, shrieking sound. You notice that the wounds on his, the wounds where Sura scraped him, actually close a little bit, and he jumps on Sura and just starts ripping at sura.
+[1:55:07] Drakomancy: Yeah, get an act to come with opportunity, no,
+[1:55:10] Ian Lurie: because he stays within contact with you. Fair. He gets a 21 to hit that
+[1:55:20] Drakomancy: is exactly her armor gloss, okay,
+[1:55:26] Ian Lurie: wow, he, he kind of sucks at this. I take 13 points of piercing and seven necrotic
+[1:55:39] Drakomancy: All right?
+[1:55:42] Ian Lurie: And because I just blew all of my actions, that is it. I'm just standing there now.
+[1:55:47] Drakomancy: Okay, fantastic. Thank goodness for some of that temporary hit points. Yeah, thanks.
+[1:55:55] Ian Lurie: Cricket shot. Akai goes to here, it's going to attack you with advantage getting a natural 20 on the first
+[1:56:08] Unknown Speaker(s): glute reverbs,
+[1:56:10] Ian Lurie: okay, so not, not a crit. Then getting okay, my dice are heating up noticeably here, I apologize. Hits twice. Hits twice. So you take 52 necrotic and 14 piercing, fuck me.
+[1:56:41] Unknown Speaker(s): I got rid of the natural 20
+[1:56:45] Drakomancy: some of that was absorbed by the temporary hit points.
+[1:56:52] Ian Lurie: This one throws, this is kind of weird, but it takes the spear and throws it three times in rapid succession. So basically it flies at you. Rikter, it flies at you once, flies at you twice, flies at you three times, missing every fucking time. Yes, rolling atrociously badly. I am, yeah, okay. JP, apparently the dice are just have it in for you tonight, and they do not have it in for rikter,
+[1:57:26] Drakomancy: I am the sponge tonight. Apparently, Yeah,
+[1:57:28] Ian Lurie: apparently you're the tank. You are the Walmarts. And then it goes, 1234, I uh, nostra two says something like, get over here. And the shot archive says, No, I'll stop over here, but thanks. Um, all right, rikter, it's your turn.
+[1:58:00] Rikterr: All right, I'm going to use my movement to go over to the Nosferatu
+[1:58:10] Ian Lurie: there. Yep,
+[1:58:11] Rikterr: bonus action. So you guys see rikter Put his hands out to the side, and all of a sudden, you see all these spirits come out of the wall, and they're all just glowing brightly. And he's going to spend a third level spell slot to cast spirit shroud. I'm going to say that all the extra damage I'm going to do is radiant. Okay, and so I'm gonna go ahead and now attack the Nosferatu twice with Bastion.
+[1:58:47] Drakomancy: Nice
+[1:58:51] Rikterr: and oh, goodness me. What happened here? Do I see a natty 20? I do okay. What's What were you gonna say
+[1:59:01] Ian Lurie: again, when you roll, when you roll your damage, if you roll any ones re roll them, okay?
+[1:59:11] Rikterr: And so seriously, and this one is a 33 to hit, so I'm gonna guess that hits too,
+[1:59:20] Ian Lurie: that that also hits, all
+[1:59:22] Rikterr: right, so I'm gonna Need, I'm
+[1:59:28] Unknown Speaker(s): gonna need,
+[1:59:34] Rikterr: all right, so go,
+[1:59:42] Unknown Speaker(s): right. So
+[1:59:59] Rikterr: that's going to be 51 points of radiant damage, cool.
+[2:00:05] Ian Lurie: You feel the hand of the Raven Queen closer than ever like you have never felt a connection like that. As Bastion flares to life and you all are momentarily. I mean, not not mechanically, but it's almost like you're blinded by this huge flash of light. Bastion comes down, slams into the chest of the Nosferatu, cleaves the Nosferatu bites probably a solid six inches. The Nosferatu is still alive and roars in pain, but you just did a lot of damage, obviously, to this creature. And
+[2:00:46] Rikterr: thanks to the spirit shroud, it cannot heal any it can't regain any hit points until the start of my next turn.
+[2:00:53] Ian Lurie: Oh, fuck. Okay. Anything else?
+[2:01:00] Rikterr: Nope. That's pretty damn good on its own. The
+[2:01:02] Ian Lurie: Nosferatu says, Yeah, you know what? Nope, and it take the attacks of opportunity. 12345678, and is out of there. Oh,
+[2:01:16] Drakomancy: hold on, hold on, because he's got Sura and Drak, yeah,
+[2:01:21] Ian Lurie: I know you got your attacks of opportunity. All right, so
+[2:01:24] Rikterr: that's 28 to hit from rikter on the attack of opportunity, hey.
+[2:01:39] Drakomancy: Drak hits a 24 it also
+[2:01:42] Ian Lurie: hits. It's going to
+[2:01:44] Rikterr: be 27 points of radiant damage from rikter,
+[2:01:47] Ian Lurie: okay, 12
+[2:01:48] Drakomancy: points from Drak. All right. And come on, certainly not bad. 22 to hit for Sarah,
+[2:02:00] Ian Lurie: yeah, it's all right,
+[2:02:04] Drakomancy: six, a 10 and 622, points of damage from sir. Okay,
+[2:02:12] Ian Lurie: you guys just hammer into it and it, it staggers, but does get up the stairs. It's getting the fuck out track. It's your turn.
+[2:02:29] Drakomancy: Do I see him?
+[2:02:31] Ian Lurie: No, he's upstairs.
+[2:02:35] Drakomancy: Yeah, he's upstairs. Okay. Okay. Yeah, drag is not going to be tactical. Tactically stupid, okay, drag is going to going to address the shadow Kai behind him. So bonus action Hunter's Mark transfer to this guy. Now, to
+[2:03:01] Ian Lurie: this guy, the other one,
+[2:03:06] Drakomancy: to this guy, yes, sir, is going to hit, twice
+[2:03:12] Ian Lurie: hit. Which one, the one that
+[2:03:13] Drakomancy: I just hunters marked okay, and that is a 21 to hit. Also
+[2:03:20] Ian Lurie: hits
+[2:03:21] Drakomancy: and a 19 to hit. Oh
+[2:03:24] Ian Lurie: yeah, he's fucked. Okay, uh, roll edge, just for games, all right, 914,
+[2:03:36] Drakomancy: and then drag is, I guess he's gonna, he's lost the bonus action, so we can't hunt as much the other guy but scooch over and just dagger, dagger, Nick, dagger. Okay,
+[2:03:50] Ian Lurie: so sir runs over to this one and bites another arm off. Apparently that's becoming a her signature move. All right.
+[2:03:58] Drakomancy: All right. 23 to hit. Hit, hits. All right, the Nick is a 25 to hit. He 17 to hit.
+[2:04:09] Ian Lurie: He disappears. Once again. I forgot that fucking ability. I don't know why I keep doing that, but,
+[2:04:18] Drakomancy: all right, he
+[2:04:19] Ian Lurie: vanishes. All
+[2:04:20] Drakomancy: right, I turns over. Okay, unless I want you know Drak is going to use his movement and and follow him up the stairs. Okay, so, but I'm not going to be actually get to him.
+[2:04:40] Ian Lurie: No. Well, how fast are you drag 35 so you go, Well, you already moved 10. So, yes, 1520, 2530 35 so you stop right about there on the stairs,
+[2:04:58] Drakomancy: yep, yep,
+[2:04:59] Ian Lurie: yeah, and you can't see him. He's invisible. Got it? Okay? Anybody else? You're all still down in the basement.
+[2:05:13] Unknown Speaker(s): Are we out of combat? Are we still in trouble?
+[2:05:15] Ian Lurie: If you chase, you're not out of combat. If you don't chase, you are out of combat? Yeah,
+[2:05:19] Speaker 1: I'm gonna break out feeling agility. So I'm going to move 16, follow suit, okay,
+[2:05:25] Ian Lurie: and
+[2:05:26] Speaker 1: drop my goggle down in the process, 2345,
+[2:05:32] Ian Lurie: 678-910-1112, so you get right to there. You're looking. You're basically looking out through the curtains. Yeah, you see the Nosferatu right about there, and you see the shadow arcai right about there.
+[2:05:57] Speaker 1: Okay, so party line. They're invisible. Thread up here in front.
+[2:06:04] Ian Lurie: Got it? Give me a perception check,
+[2:06:13] Unknown Speaker(s): nine. Okay,
+[2:06:17] Ian Lurie: so let me see when you get up there, I'm uh, Sango, are you staying in the combat
+[2:06:33] Rikterr: you hear over the party line go, I got this.
+[2:06:38] Unknown Speaker(s): Is that guy still alive? No,
+[2:06:41] Rikterr: everybody didn't hear shit
+[2:06:45] Unknown Speaker(s): gone. I says you he did, yeah, okay, all right, all right, I guess a second was gonna follow.
+[2:06:59] Ian Lurie: You can move it like 500 or something, right?
+[2:07:03] Mossofancy: Oh, hey, since we were in kind of order, I have a question for you, because I used my movement a feature to do extra movement. Put my goggle down. Can I do some presentation while I'm right there?
+[2:07:16] Ian Lurie: No, that's a lot. That's, that's a lot of what's also, I just realized I put you out of order. You shouldn't have gone yet, but that's all right.
+[2:07:22] Unknown Speaker(s): Oh, okay, because
+[2:07:23] Ian Lurie: you guys are chasing so it's fine. All right. Sango, where you going? I I lost him. Apparently he's going away.
+[2:07:50] Rikterr: I thought he was in really deep thought
+[2:07:52] Ian Lurie: there. Yeah, right, oh, I think he sent it. He sent something on Discord. Laptop, crash, be right back. Okay. So Sango dies.
+[2:08:04] Unknown Speaker(s): Fucking Sango, fucking Sango.
+[2:08:08] Ian Lurie: All right, let's, let's skip past Sango. Wait. Let's skip past Cregan too, and we already did Mossy, so, all right, we'll just wait until he comes back.
+[2:08:22] Drakomancy: Sir would also be in tow.
+[2:08:24] Ian Lurie: Okay. Well, you guys do sorry,
+[2:08:28] Drakomancy: her speed is 60 so, but she's not going to go ahead of
+[2:08:33] Ian Lurie: me. Yeah, okay, Drak you and Mossy actually hear a yell upstairs. This guttural voice says, out of the way, and that's, that's all you hear. And you think you may hear some screaming, look out. Where'd it come from? What the fuck is no no one says, What the fuck is that? That's right. This would not be a surprise, but they would say, look out. I I think we're actually going to shift to theater of the mind after this. Should we let him in? I guess I did let him in. I swear. There he is.
+[2:09:42] Unknown Speaker(s): Yeah, just crashed on me. Okay, yeah.
+[2:09:44] Ian Lurie: Okay, so Sango, what are you Where are you going? We're switching to theater of the mine because we're it's about to, I don't have a map for the the upstairs of the Temple of Shar on the shadow fell side. So, okay,
+[2:09:54] Unknown Speaker(s): so sango's got a movement of 50, so he's gonna go over 50. Okay, well, then he's good to share those how far does that get? Does that get him up the stairs? That
+[2:10:08] Ian Lurie: would get you up and just to the top of the stairs? Okay? And you should give me a perception, Perception check when you get up there.
+[2:10:19] Unknown Speaker(s): 17. Okay.
+[2:10:22] Ian Lurie: You notice that upstairs is not the same upstairs that you saw when you came into the temple. It's that same kind of washed out color. First of all, second, this appears to be a fully functioning temple. There's acolytes, there's worshipers, and they are all screaming and scattering as this gigantic Nosferatu goes running through their midst, and the the Nosferatu is yelling at them out of the way as it goes tearing up. So okay,
+[2:10:58] Unknown Speaker(s): how close to them, to the Nosferatu, I You
+[2:11:02] Ian Lurie: are about 30 feet away. Okay.
+[2:11:13] Unknown Speaker(s): Okay, then I'm gonna shadow step up to him, yeah, and take Pop. Pop. All right, I'll get advantage because of the shadow stuff
+[2:11:24] Ian Lurie: and I couldn't heal. Oh, this is bad. Okay,
+[2:11:27] Unknown Speaker(s): that's 27
+[2:11:31] Ian Lurie: Okay. To hit. Hit,
+[2:11:32] Drakomancy: yep, to hit.
+[2:11:39] Unknown Speaker(s): Well, that is nine damage, okay,
+[2:11:51] Ian Lurie: let me just check something. I'm
+[2:12:05] Unknown Speaker(s): uh, I'm going to spend a key point to try to study strike it Okay. Was it DC, 18,
+[2:12:20] Ian Lurie: he saves, that's a con, right? Let
+[2:12:24] Drakomancy: me check it might be,
+[2:12:32] Unknown Speaker(s): yeah, it's a con, yeah, okay, yeah. He says, okay, so that'll second hit 22 okay, that hits is 15 damage.
+[2:12:56] Ian Lurie: Okay, so you basically, it turns to face you, and you basically literally punch through its face. It was, it was pretty destroyed, and you just go and put your fist right through its skull, and it just crumbles to dust on the spot. Up
+[2:13:11] Unknown Speaker(s): goes the face bones. Yep,
+[2:13:16] Ian Lurie: everyone in the everyone upstairs here, just kind of freezes, stunned as Sango is standing there, holding his fist up martial arts style in the air, where there used to be the skull of this eight foot tall, freaky looking vampire monster. The rest of you guys go upstairs,
+[2:13:43] Drakomancy: yes, because we still have one shot archive to
+[2:13:44] Ian Lurie: take care of. Yeah, now there's only one person who can see that shot archive. Okay, okay, and that's Mossy. Mossy. You see that shot archive just pelting for the door. It's dashing. It's moving 80 feet per round.
+[2:14:02] Unknown Speaker(s): Is it? Can I do anything?
+[2:14:04] Ian Lurie: Um, I'm just thinking about the turn order, yeah, it's right at the door. And then you can act
+[2:14:20] Unknown Speaker(s): it's right at the door. I know there are other people in the way. There's
+[2:14:23] Ian Lurie: people everywhere. There's people milling around. So there is a chance. I mean, basically, you're at a minus four to hit because he's got cover, because of all the people, yeah, huh,
+[2:14:40] Speaker 1: and he's booking it. Do we want to kill him or we just want to capture him? You
+[2:14:58] Unknown Speaker(s): think it's gonna be true? Okay? I don't know. I feel like this could be pretty fun.
+[2:15:14] Speaker 1: He's right at the door right now, so maybe that's not a great idea. I
+[2:15:25] Unknown Speaker(s): so fuck, we don't know what to be on that door, right? Is the door open?
+[2:15:35] Ian Lurie: Yeah?
+[2:15:38] Unknown Speaker(s): And there's lots of people around
+[2:15:41] Ian Lurie: inside the temple, yeah, inside. I mean, lots, you know, there's 20 or 30 people, but it's not a huge space, so
+[2:15:50] Unknown Speaker(s): we're just trying to stop this one guy. You know what? It
+[2:16:02] Speaker 1: could be pretty funny. Someone try it.
+[2:16:05] Drakomancy: Got Your Back. We got your back. Mossy, yeah, do what you do.
+[2:16:15] Speaker 1: Can Can we go ahead and make a crime save it's gonna be an 18 I'm
+[2:16:27] Ian Lurie: Ah, he only gets 12,
+[2:16:29] Unknown Speaker(s): fantastic. He is now shrunk.
+[2:16:36] Ian Lurie: He's running for the door, and he goes, Yeah, and you hear this little teeny voice say, shit. So still, no one else can see him. For me, he's about 70 feet.
+[2:16:58] Unknown Speaker(s): He's at 70 feet. Okay, okay,
+[2:17:11] Speaker 1: so then I am going to hold on here. The brain fog is thick. Thank you for your patience. You
+[2:17:20] Speaker 2: cool, you,
+[2:17:50] Speaker 1: No, it wouldn't make sense to do that here. Oh, talk about log is again. Brain fog is heavy. Strike would not be my friend, because I've already used my action, so I can't hit on that.
+[2:18:02] Ian Lurie: Yeah, there's only a few things you can do now. You can move, yeah,
+[2:18:07] Speaker 1: and you gonna move and use my cutting action to dash. So I'm gonna go 60 feet. And can be behind him, and he's tiny now,
+[2:18:15] Ian Lurie: yep, all right, you're right behind him. So you guys get to the top stairs. You see Miss, you see Misty, you see Mossy running over towards the door. What are you?
+[2:18:26] Speaker 1: Oh, I'm mostly gonna yell the party line. He's 10 feet in front of me, and I shrunk him. I
+[2:18:32] Unknown Speaker(s): shrunk him like a wool sweater.
+[2:18:37] Drakomancy: Whose turn is it? I'm
+[2:18:38] Ian Lurie: losing track, to be perfectly honest, I believe. Let's see, it's Mossy. So actually, I think it's the shadow Kai's turn. Okay, so the shadar Kai looks well, has looked put out, angry and scared for the last two minutes, so makes a motion with its hand. This little portal appears under its feet. It steps on the portal and it disappears. He cast Arcane gate.
+[2:19:22] Speaker 1: I'm not even mad. That was a really cool way of escaping. Yeah,
+[2:19:29] Drakomancy: he knows he's not gonna get paid, so
+[2:19:32] Unknown Speaker(s): he's also stuck tiny for the next hour.
+[2:19:37] Drakomancy: He goes to the sugar
+[2:19:41] Ian Lurie: okay? And with that, you are out of combat. All right,
+[2:19:50] Drakomancy: we take a look at the vampire, seeing if he's carrying anything interesting, detailed plans of
+[2:20:00] Ian Lurie: everything he was going to do. No. There's
+[2:20:03] Unknown Speaker(s): monolog script.
+[2:20:04] Ian Lurie: There's sort of a ratty looking robe, and that's
+[2:20:08] Drakomancy: Live Journal.
+[2:20:13] Unknown Speaker(s): My life is a nose for that too. Yeah,
+[2:20:16] Ian Lurie: no, that's it. There's just a ratty looking robe. It was, he was actually even barefoot.
+[2:20:26] Unknown Speaker(s): Everybody gets one more round of 14 temporary hit points. If you're down any, okay, they'll last until your next long rest. So
+[2:20:36] Drakomancy: that is helpful. So you
+[2:20:41] Unknown Speaker(s): just want to drag the Shatter guy body back like we fixed it. Tee, he
+[2:20:50] Ian Lurie: gonna go back to the portal,
+[2:20:52] Unknown Speaker(s): sort of masking the party.
+[2:20:56] Drakomancy: I think, I think we should stay here, because is this where we're supposed to be.
+[2:21:02] Ian Lurie: Well, so Right, no, for
+[2:21:04] Unknown Speaker(s): a two, but if you remember,
+[2:21:05] Ian Lurie: soroya had asked you to stop, to find the source of and stop the attacks on the city, right? You know, find whoever it is that's trying to undermine the city and then stop them.
+[2:21:20] Speaker 1: I mean, we've got their entire printing press, and he'll fit in the bag of holding. So give
+[2:21:28] Ian Lurie: someone give me an intelligence check
+[2:21:31] Drakomancy: where I can do that, not Track,
+[2:21:35] Unknown Speaker(s): track. So pretty, 21 okay,
+[2:21:40] Ian Lurie: it you are not totally certain that that that one Nosferatu, doesn't seem like they had the resources to to do everything that has happened. Oh
+[2:21:55] Speaker 1: yeah, no, we've got to go find noctress. And, yeah,
+[2:21:59] Ian Lurie: you remember you're supposed to find kazani Noctis and and stop her. And this was not kazani Noctis is not a Nosferatu. She is just, she is a traditional vampire, so you have not killed her, okay, or got her to stop, or bought her off, whatever it's going to take, right?
+[2:22:22] Speaker 1: I'm just going to shove the nose for us too, in the bag holding because I think it's funny, there's
+[2:22:27] Ian Lurie: no Nosferatu left. There's dust. So you can scoop up the dust, though, it's decent pile.
+[2:22:33] Speaker 1: Okay, I have assorted vials, okay,
+[2:22:39] Unknown Speaker(s): um, custom item, vial of dead Nosferatu.
+[2:22:42] Drakomancy: I'm gonna, I'm gonna be around the temple of shar, like the the Acolytes and the people who are just like, What the fuck is happening? It's okay. We know what we're doing,
+[2:22:50] Ian Lurie: actually. Because yes, so a cleric of Shar walks up to you all while you're doing this, and says, I'm sorry. What is the meaning of this? This is a holy place.
+[2:23:02] Unknown Speaker(s): Oh, yeah, you had a Nosferatu here. Did you know about that?
+[2:23:07] Ian Lurie: No, but you cannot be fighting here.
+[2:23:10] Speaker 1: We didn't choose to. It just kind of happened. My apologies. Can I interest you in some Nosferatu dust?
+[2:23:16] Drakomancy: You are the you're like your worshipers are sure, right? The Lady of loss, yes, he just lost,
+[2:23:31] Ian Lurie: Greg. Give me a persuasion check on that one. She's about a millimeter from calling any security she could find. I Oh,
+[2:23:40] Unknown Speaker(s): my God, mustache, no,
+[2:23:47] Ian Lurie: no. She just looks at you. She's like, leave now, or I will call the guards,
+[2:23:56] Drakomancy: sorry. Or too soon, I recognize it was just too soon I'm gonna go that way. Now.
+[2:24:05] Speaker 1: Does she seem? Well, I just looked at a shadow guy, and they live here, so it's not a big deal, right? Yeah,
+[2:24:10] Ian Lurie: actually, she's human.
+[2:24:12] Speaker 1: Oh, okay, no. I mean my appearance doesn't because I didn't disguise self. Yeah,
+[2:24:18] Ian Lurie: no, you just look like a shadow.
+[2:24:21] Drakomancy: Kaira, Echo, we're being kicked out again. They
+[2:24:24] Ian Lurie: come up the stairs, and everybody's like, What the fuck. And they everyone kind of gets out of the way. They're like, Whoa. Okay, no, that don't see that here every day. And you guys walk out of the temple. When you get out, you are standing on a street that is intact. So you're not this is no longer a destroyed city. That is not what you're standing in. You are now standing on a street in front of a temple of Shar on either side of you are huge statues of the goddess of loss. And she's, you know, tall, thin woman clad in chain mail, carrying two, two swords, or not, swords like Psy, you know, the weapons that Electra carries. Yeah, carrying those crops across her chest. And the statues are about 10 feet high. Again, colors very kind of dampened, sound very dampened. Don't really smell much here. You know that you looking around. You think you're in a you know you're in a town or a city. It's hard to tell exactly which there's people passing you by, some with horses, some with carts. Some are just walking. Everyone's kind of subdued until the two dinosaurs walk out the door, and then people start speeding up and maybe even panicking a little. And you are, you realize after a moment that this is a much smaller city. If it is a city, the street is cobbles, but it's also mud. The buildings are a little bit run down, but obviously they're not destroyed. The crowds aren't as big here. It is cold. It is bitterly cold here, and you look up and down the street and you see the street there's at least two more temples, one on each side of you, across the street, there's a bunch of you know, maybe shops, maybe homes, you're not sure. The street is just wide enough for two carts to run next to each other. And I think, um, Mossy, looking at at at your, your player's condition, this might be a good time to end the game early. Um, because you're not looking so great. I'm
+[2:26:59] Unknown Speaker(s): fine.
+[2:27:02] Ian Lurie: Um, and why don't we? Why don't we pick up here in two weeks now that you are now in the in the shadow fell.
+[2:27:09] Unknown Speaker(s): Sounds good. Okay, yeah, awesome.
+[2:27:13] Drakomancy: Cool. That was fun.
+[2:27:15] Ian Lurie: Thanks, guys. That was fun. Everyone.
+[2:27:17] Rikterr: Have a good night. Get better, everyone. Yeah.
+[2:27:21] Drakomancy: Bye. All. Bye. Oh.

@@ -1,0 +1,39 @@
+# The Praxian calendar, derived from the vault rather than stated anywhere in it.
+#
+# Sessions are recorded in real-world order and their `game_date` advances
+# monotonically, so the month sequence falls out of sorting sessions by their
+# real date. Eight months are attested that way. Three more appear only in prose
+# ("7 Deepwinter, 4 FR", "35 Winterclaw", "9 Winterfade"); their position is
+# inferred from season words and from the arcs they belong to, and is marked so.
+#
+# Years are Fall Reckoning (FR); negative years are Before Reckoning (BR).
+# Day numbers run past 30 (e.g. "35 Winterclaw"), so months are longer than
+# thirty days; the exact length is not stated anywhere in the vault.
+
+epoch: FR                      # year 0 = The Fall
+months:
+  # attested by dated sessions, in observed order within year 07
+  - {name: Stormclaw,   order: 4,  season: spring, confidence: stated}
+  - {name: Thaw,        order: 5,  season: spring, confidence: stated}
+  - {name: Flowering,   order: 6,  season: spring, confidence: stated}
+  - {name: Summertide,  order: 7,  season: summer, confidence: stated}
+  - {name: Highsun,     order: 8,  season: summer, confidence: stated}
+  - {name: Fading,      order: 9,  season: autumn, confidence: stated}
+  - {name: Leaffall,    order: 10, season: autumn, confidence: stated}
+  - {name: The Rotting, order: 11, season: autumn, confidence: stated}
+  # prose only — order inferred from season and from arc chronology
+  - {name: Deepwinter,  order: 1,  season: winter, confidence: inferred}
+  - {name: Winterclaw,  order: 2,  season: winter, confidence: inferred}
+  - {name: Winterfade,  order: 3,  season: winter, confidence: inferred}
+
+aliases:
+  Leafall: Leaffall
+  Claw of Storms: Stormclaw
+  Claw Of Storms: Stormclaw
+
+notes:
+  - "'the first week of The Fading (early autumn)' fixes Fading in autumn."
+  - "The Engine runs 7-20 Deepwinter, 4-5 FR; the Flayed God runs Winterclaw into
+     Winterfade; the Thargorax arc runs 23 Stormclaw 07 to 1 Summertide 07; the
+     Fivefold Brand runs 15 Summertide 07 to 4 The Rotting 07."
+  - "A twelfth month may exist; none is attested."

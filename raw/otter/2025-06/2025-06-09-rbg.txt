@@ -1,0 +1,1020 @@
+# Ian's Meeting Notes
+# Otter recording 2025/06/09 18:47:21 (3h 11m) id AO1Z_-6HnMhA9EOdNMncc55uM8E
+# https://otter.ai/u/AO1Z_-6HnMhA9EOdNMncc55uM8E
+# Speaker-attributed transcript, verbatim. Raw source for the card at /items/otter/2025-06/2025-06-09-rbg.md
+
+[0:00:32] Ian Lurie: I could guess that you were deserves an error with My name on it. Call me crazy.
+[0:00:41] Unknown Speaker(s): It's, it's, it made me giggle when I saw it again. Ah, I have, how do I put this? I consume news twice a day now, because there are things that I cannot ignore.
+[0:01:06] Ian Lurie: That's, yeah, that's where I'm at at this point. Yeah, I'm checking news way more than twice a day, unfortunately. But yeah, the last, the last time the Marines were deployed in Los Angeles. Fact, in the continental US, 60 people were dead. There were active gun fights happening in Koreatown in downtown Los Angeles, and $1 billion in damage in 19 $92 had been done. That was during the the riots after the Rodney King verdict. This, this is not that. No, this is a few 100 people dancing in downtown. That's, it's, yeah, anyway, yeah, I'm trying to distract myself, but it's not working.
+[0:01:55] Slik Rik: I understand,
+[0:02:00] Unknown Speaker(s): Yep, I've got a bunch of friends out there who were part of part of the group, and they are being smart, and they are marking their locations, and they are sharing they're doing what they need to be doing. And this is, yeah, it's almost like we said this is going to happen,
+[0:02:30] Ian Lurie: right? That's, you know, I kind of look at them, like, for all the people who said, you know, this wasn't what you voted for, this is exactly what you voted for, okay, don't, don't even try. Yeah.
+[0:02:42] Unknown Speaker(s): You Yep. Although I did just post on the on the discord, I had been spending way too much time tonight looking at, like, chat, GPT recommendations, because, like, for like, because apparently, like, we've got, if I, if I keep going Ranger, which I plan to, yeah, I Get another feat and a boon. And I'm like, because Because right now, like, some of the feats just aren't, like, they don't really capture me. Yeah, well, like, but you know what? Sarah might might want a boom or not a boon, but a feat.
+[0:03:35] Ian Lurie: Yeah, giving your giving your beast companions, feats, is an interesting, interesting twist, interesting addition you can make to the game. Yeah,
+[0:03:49] Unknown Speaker(s): and like, in my head, because, like, there's no spiritual, there's no Fe there's no primal magic associated with this. I guess I like, I still have fun. I still have fun with this set.
+[0:04:12] Ian Lurie: I'm just looking at some notes here. Yeah, I look like I'm looking off screen. That's why
+[0:04:19] Unknown Speaker(s): That's okay. I'll just take it personally, like you, like you just like, I'm deliberately
+[0:04:23] Ian Lurie: ignoring you. Yes, yeah, it's
+[0:04:24] Unknown Speaker(s): like, like, doing something else. Like, just, like, okay, Jason, just keep talking. All right. My son has completed his meal prep. So Grayson's. Grayson's with us during the summer. Okay, he is working, and he's in so much better right now. It is meal pep prep, and it's really fun watching him be like, experiment with flavors. Because, like, he's sitting there, like he's he made this, like, macaroni, ground chicken, like, you know, really high protein, lots of veggies, and he's typing us. It needs something. I took a bite. It needs something acidic, pickle juice. And he's, like, we tried a little testing. I hate when you're right, Dad, just it just brightened everything up, just a little bit, like you don't taste the pickle, but you just taste that bright acid. So it is, is really fun having him in the house. I'm cool. He's a different he's a different person completely.
+[0:05:41] Ian Lurie: Yes, first year away, yeah, Yep, absolutely. I remember that,
+[0:05:46] Unknown Speaker(s): yeah. And next year he's moving away from the barracks and into the school apartments. So he's gonna have three roommates. Grayson, you're gonna have three, three roommates of the village, right? Wow, you're gonna have three roommates in the village, right at the village next, next, next year. Are you getting three roommates? Four roommates plus you?
+[0:06:18] Speaker 1: Yeah, so, yeah, five person. But we all have our own room, our own bathroom and a kitchen. All right, yeah, they were all friends. So MIT makes it a big plus. Love it. He's
+[0:06:30] Unknown Speaker(s): clearly the one who gets asked to cook. But
+[0:06:32] Ian Lurie: yeah, I got that.
+[0:06:34] Unknown Speaker(s): Hey, James, hey, hey, that sounds pretty good. Nari had a situation where she had her dorm had she had three roommates. They each had their own room, no kitchen, but they shared a little living room, a bathroom, separate toilet and a sink area. So, I mean, that's pretty good compared to what you normally get. Hey, Jamar, yeah, so he gets, he gets four roommates, and they have a kitchen. Four roommates each have their own room and a kitchen. And yeah, like, yeah, because his like, he wants to see barracks, but like his dorm, two person, real small, just like it felt like, like a small army barracks with a roommate.
+[0:07:33] Ian Lurie: They weren't literally barracks, right? They're just, but it just seemed like it, yeah,
+[0:07:39] Unknown Speaker(s): yeah. My, my first experience in Fort Bragg was some old World War Two barracks with, like, original land in the asbestos. Did you have to pay extra for that?
+[0:07:54] Ian Lurie: Yeah, that was the premium military upgrade.
+[0:07:57] Unknown Speaker(s): Well, I joined army plus,
+[0:08:02] Ian Lurie: yeah, that's the
+[0:08:05] Unknown Speaker(s): plus was cancer. It was
+[0:08:07] Ian Lurie: a subscription fee. So Jamie said she's going to be a few minutes late because they're still waiting for their food. I have no idea. You know, like, is there a Door Dash in Costa Rica when you're in a deserted tree house? I don't, I don't know. I don't. I'm picturing sloths bringing bags of burgers to her or something. Oh, no, wonder they're late. Okay, so where we left off last time you guys had nearly engaged in a huge knockdown drag out, but didn't, and instead, has started negotiating a transplanar peace agreement between sound mirror and shadowmir where you left off was that you were going to travel back to Aventine, use, I believe, use the Bastion as a neutral ground, and have, in some way, representatives of the two cities meet with each other and work out how they could best support each other and maybe not end up and maybe stop Shadow Mirror from meddling in Samir. Does that sound sounds right?
+[0:09:25] Unknown Speaker(s): Yeah, did we actually make it back to sell mirror and talk to saroya?
+[0:09:33] Ian Lurie: Yeah? Yes, you did, yeah, and she agreed.
+[0:09:38] Unknown Speaker(s): Sorry. I'm pretty sure she's okay with the sandwich shop idea too. I'm pretty sure I remember that 100%
+[0:09:44] Ian Lurie: that's, yeah, they were absolutely okay with it. But like I said, that's a problem because you did bring up the idea of a sandwich or, I think mossy may have with some random person when you were up in the wards, and they they may or may not have taken that idea and run with it. You never know. Although Shadowfell sandwiches, you know, everything kind of tastes wrong. It's just, yeah, it's like, everything's a week older than it should be, basically.
+[0:10:15] Unknown Speaker(s): So a couple of bit salads are great,
+[0:10:18] Ian Lurie: yes, yeah, right, that's right, they they taste even more like cardboard. Grape Nuts, though don't taste any different, as it turns out, one more reason I like them so much. So soroya says, okay, then what's our next what's our next step? Do we? I would prefer to meet with kasani Noctis herself, obviously, rather than a representative.
+[0:10:49] Unknown Speaker(s): Well, think she can leave per se without there being a lot of trouble. So we're probably gonna have to go through surrogate, okay. Okay, yeah, so I think, I think we can transport saroya on the ship. She's been there. She's been there. She's familiar with it. She knows the crew. And if there's any kind of like strange attempts, like we are familiar enough with the crew that we'd be able to spot it fairly quickly. Another idea would be to me, meet the surrogate at the house, because it because I think it might be like, I don't know how comfortable or helpful it would be to have the surrogate on the same ship.
+[0:12:07] Ian Lurie: There's also the question of how the surrogate gets there, like you got to use the portal, but as soon as you came through the portal, it was gone. And they you did talk to them about that. And, you know, the the, if I'm remembering right, the conversation was, yeah, we're going to figure that out. Once we figure the rest of this out, there's a number of ways to get one person from the shadow, you know, someplace in the shadow fell to the Prime Material. The problem is taking a number of people or doing it consistently in the same place, or being able to take equipment or anything else with you, that's why those stable portals are so valuable,
+[0:12:48] Slik Rik: right? And why don't we keep the number of people in this diplomatic meeting as small as possible? It keeps the number of people we've got to watch and bodyguard for and against down. And also it shows every party in here that's negotiating they're either the top level or someone speaking for that top level. So anything that gets decided in that room, everyone's going to know it has that theft of this is the big Boston decision. And then we don't have to worry about the second, third, fourth person coming through that portal, either not working, something happening, and then diplomacy breaks down because we didn't plan on the magics messing up. Right? Someone
+[0:13:34] Ian Lurie: could do a straight up teleport, for example. Now they'd have to be well, do you have a teleport circle in the Bastion
+[0:13:46] Slik Rik: to the bastion? Yeah,
+[0:13:48] Unknown Speaker(s): so we've got a circle, but for what we do, like my assumption, maybe my assumption is wrong. Like anyone who has a teleport spell can teleport into our teleporting circle. But because we don't have people with teleportation, we have a point to point teleport. They
+[0:14:06] Ian Lurie: also have to have the sigil for the circle that you can't just teleport into any circle anywhere, right? You have to have the sigil to be able to use it. But once you have the sigil, then if you have the teleportation spell, you can teleport to a circle with 100% accuracy, yep, that's, that's the big difference, right? Otherwise, yeah, if you have two circles that are linked, you can use them. You all can use them. Not anyone can, but you can write to,
+[0:14:34] Unknown Speaker(s): would it be safe to, like, have the the symbol the teleportation sign on the on the ship, sort of hidden so that somebody can't just bring some chalk and paper and trace it and,
+[0:14:50] Ian Lurie: well, it's also, though it's not quite that simple, like there is a process for learning the sigil, so even if they saw it on a piece of paper, it's not like They can then take it and and immediately start, you know, popping into your teleportation circle. There's a ritual they have to be given information by. You think of it as public private encryption, right? There's the public part, which is the nice, obvious sigil, and then there's the private part, which is where you all teach them something, or they have to study the circle, or something like that
+[0:15:28] Unknown Speaker(s): one too, because otherwise no one
+[0:15:31] Ian Lurie: would ever have teleportation circles. And
+[0:15:34] Unknown Speaker(s): Richter, Richter owns the teleportation circle. Okay, so if that So, in my head, it doesn't work. Yeah, I don't know. I don't know. I've never had a character that could, that could actually teleport.
+[0:15:54] Ian Lurie: Well, it you can assume that, you know, if Richter is willing, he can make sure that everyone in the party can use the teleportation circles without any any issue. So you all can, you know, jump into the teleportation circle on the ship and materialize at the bastion and vice versa. That's not a problem. What gets trickier is getting someone else access to either of those teleportation circles. And all it really means is they have to spend some time studying with one of you at the circle, receiving information. They need to permanently, basically inscribe the sigil, both magic and and not in their memory, so that they can then teleport there. But they still have to be able to cast teleport. They can't just do it. Basically, they have to be made in our RBG party member for that, and it's a, I haven't really, let's just assume there's some kind of ritual secret handshakes, and we can figure that out if we ever need to.
+[0:16:53] Unknown Speaker(s): It's a drinking contest. Yeah, that's all. Arson may be involved in that too, we're not,
+[0:17:00] Ian Lurie: yeah, yeah, probably so.
+[0:17:03] Unknown Speaker(s): So the other, the other idea is, some of us could meet the representative in a specified place and then run an escort, like, if, for example, like, if this, if this person can do like, like, if there's a secret Shar temple in Aventine,
+[0:17:27] Ian Lurie: there's a public temple in Aventine, even better.
+[0:17:32] Unknown Speaker(s): And if there's like a, like a, like a shard of Shar transport, then, then two of us could potentially teleport from the ship to home, meet them at the char Aventine and then transport them provide security up all the way up, provide
+[0:18:00] Ian Lurie: them with security from the temple to the Bastion, correct? Okay, um, that, that could certainly work. You'd have to, obviously, you'd have to speak to, you don't know if those kinds of conduits exist, or how, how you would jump from one. You know, how you would jump from temple to temple like that, but you could certainly talk to someone. Um, no clerics in your party. And I I'm afraid, Richter, this is not a paladin thing, knowing how to do that. Um,
+[0:18:36] Unknown Speaker(s): so cleric. Greg is a cleric. Oh, Jack's a cleric level one.
+[0:18:43] Ian Lurie: Yeah, let's, let's assume more than level one. So Craig, and if you want to, if you want to take a shot at this, give me a religion check.
+[0:18:55] Unknown Speaker(s): Is slightly better at religion than Dex. Oh, good is religion is he's not proficient for a cleric. So that's a 15 total.
+[0:19:10] Ian Lurie: This sounds like really complex magic. You certainly don't know of any instances where you don't know of any way that temples are just sort of by default, connected to each other. You don't know if there's no kind of Temple nitus network. As far as you know. There may be something else that you've never learned. There may be something specific to certain gods and goddesses, and you certainly don't know anything between the Shadowfell and the prime material plane. Again, though, this is all kind of new to you, right?
+[0:19:46] Unknown Speaker(s): Is there a in in some year in the the the place that's not sort of decrepit. Now, there was that temple in there where we found the one way to the shadow fell. That
+[0:20:10] Ian Lurie: was the Temple of char. That, yes,
+[0:20:12] Unknown Speaker(s): the temple of char. That's what I meant. That's exactly what I meant. That's a, that's like a 30 day lock on that door, though, right,
+[0:20:21] Ian Lurie: correct. It only opens every 30 days. You're only about you'd have to wait 10 to 14 days. And if you remember, Noctis did give you a deadline. You've only got a couple days to send her a scroll saying, here's how we're going to do this.
+[0:20:42] Unknown Speaker(s): Okay, so I think that we should use the scroll and ask for information, such as, can your representative like the place that we're meeting is going to be in Aventine? How close can your representative get to Aventine in in the shortest amount of time from an comma? From that point, we can provide security during their trans during their travel to the best, okay, Hey, Boss Man, that's a really long sentence, right there. You might want to this stuff is silly. It's gonna wrap around. It's gonna look really long and chunky. It's gonna be hard to read. I believe in her, I believe in her ability to read a long sentence. You just hit upon one of my pet peeves that my brother does all the damn time, big blocks of messages. Sorry,
+[0:21:47] Ian Lurie: no good type setting. You know you need to, you need to write for scan ability.
+[0:21:51] Unknown Speaker(s): The kerning is way off. The
+[0:21:53] Ian Lurie: kerning is way off. No sub no subheadings. So you write all this on the scroll, and you haven't used this particular scroll pace case before. So you're right on the scroll. You drop the parchment into and it the scroll case came with a special piece of parchment. So you write on that parchment. You put it in there, you close it. There's almost this little burst of static electricity, like you almost get a little bit of a zap in your fingertips. And you wait a moment, and then there's another zap, and you open it, and you take out the scroll inside, and it says, no easy way to no known way to appear in Aventine. I 17, not familiar with the city. Send someone to other options. Question mark, send someone to teleport us. To teleport, send someone to us or transport us from samure.
+[0:23:15] Slik Rik: Two questions. One, does Sorolla have anyone in her retinue who can do teleport to if not? How long would it take to teach her the sigil so she could teleport from ship to Bastion?
+[0:23:35] Ian Lurie: She would have to be a wizard of some kind to use your teleportation circles because she didn't, she wasn't involved in the creation of them. As far as you know, there's only a couple of mages on the planet that can actually reliably cast teleport and reliably is a loose sort of term when applied in these circumstances, there's, there's actually, there's four or five of them, you know, two of them, and then the rest of them, you know of because they're just exceedingly powerful and well known. But they're not necessarily, they're not an amateur or solemnur. And then also the Druid of the druid fell, can do transport via plant, which you've seen them do, but you don't know how that works, like how you would use that to get from the Prime Material to the shadow fell, or what. And they could, you know, someone could transport themselves to sound mirror the same way you got here yesterday.
+[0:24:44] Slik Rik: So then maybe we might just have to, have to have the representative come from shadowmir to salmur, and then we take both them and saroya on the ship, and we're just going to have to keep the peace there, or this could be a chance for them to get to know each other, break the ice. So once we get to the Bastion, they're friendly, they're ready to negotiate, and things go a little bit quicker and smoother.
+[0:25:13] Unknown Speaker(s): I would agree. I think that's the best case scenario, mainly because the other options in terms like, again, this is, this is the range you're talking like, like, I know how. I know how scrolls work, but I don't necessarily know how wizard scrolls work. Like, I don't know if I'm of the right level to cast a to or any of us would love to cast a teleportation scroll, or a planar shift scroll, or something like that. And I feel like that would also add a level of time that we that we don't really have. And I I think that the the burden of the burden that we need to carry is providing transportation security and, yeah, I Why? Why does it have to be in Aventine at the bastion? Because it's a secure place that we can control.
+[0:26:36] Slik Rik: That's what we told kazani that we would do. And she agreed, okay,
+[0:26:43] Unknown Speaker(s): it is easy. How many days has magic production as well? Sure? How many days, uh, travel is it by airship, from some year to Aventine is like three days or something like that?
+[0:26:55] Ian Lurie: It's three to four days.
+[0:26:56] Unknown Speaker(s): Three to four days. And do we have enough time for that? How much time do we have that you just said we have two days.
+[0:27:05] Ian Lurie: You had two days to tell her that, yes, talks are on. Now you told her talks are on. Oh, okay, now you just don't know. I mean, it's, it's however long it takes for her to get impatient
+[0:27:16] Slik Rik: that, yeah, that's why I'm saying sooner rather than later getting them because at least on the airship, we get to talking. And if we have, let's just say we have two weeks. If it takes four days, then that's 10 days to negotiate. Keep kazani Noctis up to date, send that scroll back and forth and show her there's progress. Rather than, hey, we're going to get talks started, and then we're futzing around with how to get people every which way to Aventine,
+[0:27:45] Unknown Speaker(s): yeah, yep. So then that brings up the question, Will saroya be okay with that, and how many of her retainers and guards, more importantly, have to be on the ship for this to happen. So she's traveled with us incognito before, without guards or security,
+[0:28:15] Diplomatic Draknev: and at that point, she did trust us to be kind of like her security. I also think that, if so, Roya is traveling with a entourage of 10 folks,
+[0:28:30] Unknown Speaker(s): the representative will probably demand a similarly sized retinue of her own security, and that. And I think that that like, while it could increase the complexity and chaos of that trip, I would prefer to keep like Drak. Would prefer to keep the numbers low, mainly for security and control. And then again, it's also like, it's not just security there from some year to Aventine. It's also from Aventine to back to some
+[0:29:20] Ian Lurie: or however they're gonna get back. Yeah, right,
+[0:29:27] Unknown Speaker(s): oh, uh, so maybe we should talk to soroya about this plan and see what she thinks. Yes, okay, I'll get the this. Let's, let's talk to saroya, get her buy in, see if she needs an entourage. And then we'll transmit the, we will transmit the plan to the shadow film. If like your your representative can have up to the equal amount of of entourage with them and Diem roughly. How many passengers can we take on the airship?
+[0:30:18] Ian Lurie: Um, I don't quite remember, but if they're real cozy, I think you can take 1010, total, yeah, or if they want to sleep on the deck,
+[0:30:36] Unknown Speaker(s): Sarah snores,
+[0:30:40] Ian Lurie: sing alongs.
+[0:30:49] Slik Rik: All right, are we good?
+[0:30:57] Unknown Speaker(s): You guys tell me,
+[0:30:59] Slik Rik: yeah, let's go talk to saroya. Okay, yeah,
+[0:31:04] Ian Lurie: all right, you're actually staying on the ground at this point. I think she's not willing to necessarily let you out of her completely out of her sight. So she speaking
+[0:31:17] Slik Rik: up. Did we get a long rest between one week? Okay, yes,
+[0:31:20] Ian Lurie: long rest with snacks and whatever else you guys need.
+[0:31:31] Unknown Speaker(s): Definitely some of the salarian coffee,
+[0:31:36] Ian Lurie: something with flavor. Sounds really, really good. That's not a bug, that's, you know, that's not going to have any unexpected hallucinogenic effects. Seems like a real, real bonus for you guys. Yeah, she meets with you in one of the many sort of unofficial meeting areas on the palace grounds. This one's actually outdoors. It's just sort of a set of marble benches and pillows and things. You all organize yourselves. Her, her lieutenant, Aurora is there, her personal bodyguard. And she says, So tell me what what response did you get?
+[0:32:20] Diplomatic Draknev: I share the willingness like, yes, they will. They agree that she's gonna, she cannot leave the shadow fell, but she will be sending a representative who will be able to make all the decisions that she will be able to make. Two we reconsidered. We thought about like the location. We still believe that that our our place now ant is, is the safest neutral place to hold these conversations. The third part is transportation, because we all, we all have a vested interest in making sure that this gets quickly, without a hitch, without a lot of complications or chaos, or even honestly, commu communication to the outside. So balancing the speed versus security, we've recommended that their their representative arrives in Samuel, and then the entire party leaves, leaves some year, goes to Aventine via our ship, meets, meets at the Bastion, and then departs,
+[0:33:33] Unknown Speaker(s): and then departs in the in the best way possible. We the one question we have is, would you be traveling with an entourage?
+[0:33:48] Ian Lurie: I find an entourage attracts attention such that your entourage is never large enough to protect you. I believe all I would need is Aurora to come with me. Aurora nods,
+[0:34:01] Unknown Speaker(s): okay. Too small to protect too large, too large to be subtle. One
+[0:34:08] Ian Lurie: You should prepare yourself for the fact that kazzani may not be willing to her, her proxy may not be willing to come here with only one protector. I'm willing to do that because you are all basically my protectors as well. But kasani Noctis may not trust you quite that far yet you you've only known her very, very briefly. So think about what would be acceptable for you within your Bastion. I for 1am, comfortable with them bringing four or five additional people, since I know you'll be there as well, but that also means, then that Noctis would have to be comfortable with you all being there during these negotiations.
+[0:34:59] Unknown Speaker(s): Right? I will put out the request for four, the representative plus four, and we travel. And we all travel together. If there is a stinking, if there's a sticking point in where, how they want to travel. We do have a plan B, but it's not going to be the fastest way. And correct me if I'm wrong. Richter Plan B would almost be like, we would use, like the teleportation circle, and then it's like, poof into the house from the ship, like, like, like, the shadow fell entourage would show up on the ship and then bam, to the home.
+[0:35:53] Slik Rik: Yes, but we would have to make sure we found a mate who can do teleportation and getting
+[0:35:59] Unknown Speaker(s): but that's our point. That's our point to point. Can
+[0:36:03] Slik Rik: we do that? I thought you said we needed someone to cast, okay, okay, then there we go the end. Then you're, yeah, totally right with the plan B, okay,
+[0:36:10] Unknown Speaker(s): okay, I'm not going to offer the plan B unless they balk. Yeah,
+[0:36:15] Ian Lurie: you do have that as an express subway, right? I mean, at any time, if you accompany someone, they can just step from the teleportation circle on the ship to the teleportation circle at the bastion.
+[0:36:26] Slik Rik: Okay, awesome, if
+[0:36:27] Ian Lurie: they show up there without you, bad things could happen. But yes, you can always, you can always do that.
+[0:36:35] Unknown Speaker(s): What are the chances that could have happened?
+[0:36:37] Ian Lurie: Nothing or maybe hard times. Nothing bad has ever happened.
+[0:36:41] Slik Rik: We have, we have, what, eight Capybara and eight onion brothers. What could go wrong?
+[0:36:48] Ian Lurie: What's the, what did you guys name the Bastion
+[0:36:53] Unknown Speaker(s): Drax, big wood? No, no, that was an that was one of the ideas we were pulling around. I think you say we as in. It was a collaborative. There
+[0:37:04] Ian Lurie: was a name for the bar and the bastion. And I don't want to have to go through my notes. So if you guys want the lady in the room or something like that, ah, yes, yes, yeah, was the bar. That's
+[0:37:15] Unknown Speaker(s): the bar. Yeah. Wildwood
+[0:37:19] Ian Lurie: sounds right. Jamie, hey,
+[0:37:23] Unknown Speaker(s): you're muted.
+[0:37:26] Ian Lurie: You're still muted, muted, you're muted.
+[0:37:29] Unknown Speaker(s): To go to there. Welcome to
+[0:37:31] Mossy Oak: my tree house here. That
+[0:37:33] Ian Lurie: is the best setting, right for D and D I have, arguably it's our best
+[0:37:38] Unknown Speaker(s): year. It
+[0:37:39] Ian Lurie: is you're living in the
+[0:37:40] Mossy Oak: nasty and right now.
+[0:37:41] Unknown Speaker(s): That's the best zoom background I've ever seen. Yeah, right,
+[0:37:45] Ian Lurie: right, right. It's so lifelike. Okay, if a sloth shows up, you must point your camera at the sloth. Yep.
+[0:37:51] Mossy Oak: Uh, I mean, Carol and Charlie were not there this morning, but we think the howler monkeys might be moving through so when the howler monkeys come in, the SPAS migrate.
+[0:38:03] Unknown Speaker(s): Awesome, awesome.
+[0:38:08] Ian Lurie: Yeah, I feel like this is a place maybe, maybe someday we have a game there. I don't know. Can you imagine it
+[0:38:15] Mossy Oak: would be amazing?
+[0:38:16] Unknown Speaker(s): Yeah, yes, yes. Airfare
+[0:38:18] Ian Lurie: would suck, but the
+[0:38:20] Unknown Speaker(s): experience would be,
+[0:38:22] Mossy Oak: I used Amex miles to get our flights. Ah, nice,
+[0:38:27] Ian Lurie: nice. And it's just how
+[0:38:30] Unknown Speaker(s): quickly my son could get his pilot's license, right,
+[0:38:32] Ian Lurie: right? It was just Central time, right? You're just in the Central Time Zone.
+[0:38:36] Mossy Oak: Yeah, I'm in the same time zone right now.
+[0:38:38] Unknown Speaker(s): That's cool. It's almost like
+[0:38:41] Mossy Oak: on a kayak tour today through the river, and then had a fantastic our our tour guide was like, so they're calling you a taxi. I'm just, do you want to ride safari in the back of the truck back through town? And we're like, yes, yes, we do.
+[0:38:55] Ian Lurie: That's what that picture okay,
+[0:38:56] Unknown Speaker(s): that's cool. That's awesome.
+[0:38:59] Mossy Oak: We saw a Jesus Lizard run across the river.
+[0:39:04] Ian Lurie: Oh, the got it? Jesus Lizard? Yes, I it took me a minute. For a minute, I thought it was a lizard so big, you look at it and say, Jesus, but then I realized what you were talking about.
+[0:39:12] Mossy Oak: No, they're here too.
+[0:39:13] Unknown Speaker(s): Yeah, of course. So the Jesus like, one for the father, one for the son, one for the
+[0:39:19] Mossy Oak: Holy Ghost. Exactly. Exactly.
+[0:39:21] Ian Lurie: So why don't you guys catch Jamie up
+[0:39:28] Unknown Speaker(s): here? So we're in summer. We just got to the point where we are talking to saroya, and the plan is we're going to meet the representative for the Shadowfell in Samir. They're going to hop on, they're going to board the ship, and then Banff to the bastion. Soroya and her entourage can also do the same thing. Yeah, because we had that all set up, um, and then from that point on, because I guess we just kind of figured, we just kind of figured out
+[0:40:14] Mossy Oak: we didn't. We already explained to Soria how she is a bestie she doesn't know about yet. Like, same energy, same vibe, ready to go. Yeah, have
+[0:40:22] Ian Lurie: you explained that to her?
+[0:40:24] Unknown Speaker(s): No, because
+[0:40:26] Slik Rik: they were not going to meet. So I at least Richter was just like, maybe it's best not to say anything, so as not to make it super weird. I mean,
+[0:40:37] Mossy Oak: if soroya meets Auntie soroya, I
+[0:40:40] Unknown Speaker(s): but she can't come.
+[0:40:45] Ian Lurie: Yeah, she can't safely leave. At least, as far as you know, you could probably, you could figure it out. If you went and talked to enough wizards and stuff, you might be able to figure it out. But as far as you know, it's not it that would not be trivial.
+[0:40:58] Unknown Speaker(s): Yeah, so I was just about to send a message in the Message scroll.
+[0:41:08] Mossy Oak: Can you hear the sassy frogs right now?
+[0:41:14] Unknown Speaker(s): Sorry, no, I was gonna use the sending scroll to kind of detail the plans. So I'm going to write, you know, bold letters transportation plan. I should
+[0:41:39] Ian Lurie: have given you guys a word limit, just to make this really funny, but that's okay. But that's okay. You're doing quite well on your own. Continue
+[0:41:45] Slik Rik: gesture the fuck out of it.
+[0:41:47] Unknown Speaker(s): Oh, my God. Are you pooping? Are you my father? Transportation Plan, the representative, plus up to five security slash entourage will use our ships teleportation circle to send you to our bastion in Aventine. What is that that looks amazing.
+[0:42:21] Mossy Oak: It's a seafood Alfredo. Oh, please be stopped at the gentleman, um, speaks seven languages, and we had a very lovely conversation. He had a cat named Daniela. He was his favorite employee,
+[0:42:36] Unknown Speaker(s): and then he
+[0:42:39] Mossy Oak: kept pouring me wine. So we're here now
+[0:42:41] Ian Lurie: for a second, I thought it was moving, and I was, I mean,
+[0:42:45] Mossy Oak: it was, I almost spilled my food on my Okay,
+[0:42:47] Ian Lurie: all right, but I meant moving of its own volition. Yeah, okay,
+[0:42:56] Unknown Speaker(s): yes. So we had the transportation plan. I was up to five, security slash entourage
+[0:43:04] Slik Rik: that was including the representative, correct?
+[0:43:07] Unknown Speaker(s): Yes, Representative plus five. Okay, full transparency.
+[0:43:17] Mossy Oak: Where are we right now? In
+[0:43:19] Unknown Speaker(s): sell your in the the lovely marble Park in well,
+[0:43:24] Ian Lurie: in the in the palace, yeah, yeah.
+[0:43:31] Unknown Speaker(s): Full transparency, because we have worked with saroya before. She's bringing her personal guard and including us as quote, unquote security. Maybe
+[0:43:46] Slik Rik: we don't specify that to our shadow mere friends, so as not to make them feel like we're not neutral parties in this negotiation, because then it could feel like they're negotiating. Yes,
+[0:43:58] Unknown Speaker(s): that's a good point. So she'll just, she'll simply be bringing her one security card or one personal card, and you have the option to bring it up to the representative, up to five. You will you will all have rooms. You will have access to food. You'll have have access to whatever you need while you're there, as well as as well as magical and physical protections from any outside, outside security issues. Do you have any questions before we negotiate the time of departure?
+[0:44:49] Ian Lurie: Okay, you send it, you get that little bit of static electricity again, after which you actually wait for a couple hours, and you're starting to wonder what's going on. And then you get that little zap, and you open it, and it actually just has one brief sentence. It says, this is two sentences. This is acceptable. We'll send a single representative.
+[0:45:20] Unknown Speaker(s): Okay. Response,
+[0:45:22] Slik Rik: good ass, negotiating direct,
+[0:45:25] Unknown Speaker(s): well, with mossy gone, like I have to figure out what I have to say before I actually say it. Where
+[0:45:31] Mossy Oak: am I? Am I not there. Oh,
+[0:45:33] Unknown Speaker(s): you're you're with us, you're there.
+[0:45:34] Ian Lurie: You were just, you're sort of, you're having a nap or something for a few minutes, there you were
+[0:45:38] Unknown Speaker(s): waiting for dinner, carrying two plates. Of snacks.
+[0:45:43] Mossy Oak: I mean, mossy fell asleep on the ride home, so y'all let her nap in the car for a minute. Thank you.
+[0:45:53] Unknown Speaker(s): I'd say that Grayson, yeah, confirmed. Next line and say tomorrow at tomorrow, at dusk, we can meet at the salarian castle, and then we can all move as a group toward to the to the ship. Here's a question, how do they know what time dusk is? If they're on a different plane of existence. It's all dusk. I guess my assumption is that if they're sending somebody who can interact in the primer material plane, they know what dusk is, but it's like maybe different time zone. Go ahead, Jamar, I
+[0:47:08] Slik Rik: was gonna say, maybe we can ask when they can send the representative over, instead of being prescriptive. So that way they just say hey, even if they just say hey, five minutes and they're there. But then we can leave as soon as possible.
+[0:47:23] Unknown Speaker(s): Okay, that definitely works. We are, we are ready at your can. We are ready to for departure at your convenience. But I'm also going to check with saroya Like, when can, when is? When is the when? When can she go?
+[0:47:40] Ian Lurie: Do you send that? You send that message first? No,
+[0:47:43] Unknown Speaker(s): okay, before we send the message, I want to make sure that, like, confirm the timing for soroya, because she's like, I'm ready now, or it's like, giving you give me two days to prepare.
+[0:47:57] Ian Lurie: Uh, soroya says this is right now. This is my priority. So the sooner, the better understood,
+[0:48:04] Unknown Speaker(s): particularly if
+[0:48:05] Ian Lurie: it means what's been happening will stop happening for a while. Okay,
+[0:48:14] Unknown Speaker(s): I'll message we are ready. We are ready to depart at your convenience, so
+[0:48:20] Ian Lurie: you get that little static he feeling again, and then actually you're sitting there, and you've never been there. When this happens in front of you, there's this almost, it almost looks like a small distortion in the air, like a thin piece of glass that's really clean has been moved, moved past you, and then that same kind of it appears as if this pane of glass goes horizontal, and then when it pops up again, there's A figure standing in the glass, and the figure steps out. Now, Aurora was not aware this was about to happen, so she immediately draws her two.
+[0:49:13] Mossy Oak: Oh, no, love, it's okay. Um,
+[0:49:16] Ian Lurie: yeah. She She still does it, um, and she just immediately interposes herself between soroya and the figure. And the figure that steps out is looks like they're about a 16 year old boy, extremely pale, dark, black hair, really big, almost unnaturally large, eyes that are normal white. The whites are the normal white, but then the pupils and the retinas are a solid black, wearing a robe and on a belt around the robe, there's a whole bunch of Wands in the belt. And he steps out of the portal and gives a small bow, and he says, greetings, you are.
+[0:50:22] Unknown Speaker(s): Drak is gonna start with a like, like, kind of do a half curtsy, and then remember, he bows like, Oh, I'm being fancy. Now just
+[0:50:35] Mossy Oak: gonna kick Drax leg out as he's curtsying to make it lower, getting
+[0:50:42] Ian Lurie: it down. Dex role drag.
+[0:50:44] Unknown Speaker(s): I'm good at this. All right. First rule of the game, don't fuck me. Gil. 22 okay, you're fine.
+[0:50:56] Mossy Oak: All right, so pull off. Gil fucked him.
+[0:51:01] Unknown Speaker(s): Uh, thank you. Thank you for your promptness. Uh, my name is Draknev galos of RBG, and allow me to be the first to welcome you here. Please let me know if there's anything you require, and we will do our very best to to serve you. And I'll back off, and I'll let everyone else do whatever they do, checking to see if, like Sango and there, or one or both are invisible, or no, they're both there. They're both normal looking. I like, I like to check now, because I just can't assume if you're, if you're seeing anymore.
+[0:51:50] Mossy Oak: True. We can't. Mossy will give a very deep bow.
+[0:51:53] Unknown Speaker(s): Okay.
+[0:51:57] Slik Rik: Um rinr will put his fist on his chest and just nod at the emissary. Okay,
+[0:52:06] Unknown Speaker(s): Sango starts looking around for some soup. Uh, Craig and Isabelle. Okay, I'll
+[0:52:13] Mossy Oak: see. We'll smack Sango to get him to bat. Uh,
+[0:52:22] Ian Lurie: the boy says it is an honor to meet you all. I am Magog. I am the first vice year to kazani Noctis Ian. He looks over at soroya, sort of mid sentence, and his eyebrows go up and he says, so interesting. I'm
+[0:52:53] Mossy Oak: gonna cast message to soroya and explain because Annie looks just like you in a weird way, she you can respond to this message.
+[0:53:12] Ian Lurie: She says, you hear very dryly, if a voice could be dripping with sarcasm in your head, you hear, thank you so much for telling me that. And she stops there. She actually here, let's, can
+[0:53:27] Mossy Oak: I do an insight check on that? Then on that dry leg is someone looking exactly like her. I would like to insight check, please, sure. Oh, that's a natural 20 for a 26 she is
+[0:53:46] Ian Lurie: extremely unhappy that no one told her that before, and she's covering it up with extreme sarcasm while she successfully hides the fact that someone just spoke into her head while she's creating a diplomat from a foreign nation. Message
+[0:53:59] Mossy Oak: that's fair. My bad I was napping.
+[0:54:08] Ian Lurie: Mag August, Sora says, mag August, there anything you require? If not, I suggest we leave the city and get on the ship as quickly as possible, as we will certainly be safer there than here.
+[0:54:29] Unknown Speaker(s): Before we leave. Is there any is there any resistance or concern about me casting a spell that would allow us to be more to move through the city, more stealthily.
+[0:54:46] Mossy Oak: Message you're gonna cast pass with a trace, because I can just do that without costing the spell slot.
+[0:54:51] Unknown Speaker(s): Oh, because
+[0:54:53] Mossy Oak: I feel like people I was trying to
+[0:54:55] Unknown Speaker(s): be useful for. You know, you're very
+[0:54:58] Mossy Oak: useful. You sometimes I
+[0:55:00] Unknown Speaker(s): feel like I'm kind of like, I'm just like, sometimes I just feel like I'm, hey buddy,
+[0:55:04] Mossy Oak: we love you, but I can do a spell slot, so I would love to, is that okay?
+[0:55:11] Unknown Speaker(s): Okay? Greg just mumbles, I'm just really nervous around these powerful people. This is not what I'm comfortable with. Greg just mumbles, God, their lips are still moving.
+[0:55:23] Mossy Oak: I cast message, not party line so you can't hear me.
+[0:55:28] Unknown Speaker(s): You can still see your lips moving. Okay, that's
+[0:55:35] Slik Rik: you guys, as you guys can just see Richter like he looks like he's about ready to throw up, but he's just trying to hold it down right now. Well,
+[0:55:47] Mossy Oak: B, what's going on? Party line?
+[0:55:53] Slik Rik: Being this close to an undead it's not painful, but it's unpleasant.
+[0:56:04] Ian Lurie: And this is the undead, undead you have ever been near. You know, you have fought ghouls, you've been with a van, you know, you've hung out with vampires, you've done all sorts of stuff. But this is something entirely different.
+[0:56:18] Slik Rik: It's just eat. It's hard to fight the instincts.
+[0:56:24] Mossy Oak: I'll make you some of the good tea later for your tummy.
+[0:56:29] Slik Rik: Okay, that's why I love getting sick.
+[0:56:32] Unknown Speaker(s): I'll bring you some soup too. Hey
+[0:56:34] Ian Lurie: guys, give me a give me one second. I'll be right back.
+[0:56:39] Slik Rik: No, I don't want to have to go to the Mushroom Kingdom again. You leave your super
+[0:56:45] Unknown Speaker(s): that was Sango. That was Sango, not Craig, and
+[0:56:49] Slik Rik: never tell really neat
+[0:56:52] Unknown Speaker(s): Jack Ian, need to go to the druid fell again, to a little bit of gardening,
+[0:56:58] Mossy Oak: another druid fell. J absolutely right.
+[0:57:00] Slik Rik: So
+[0:57:01] Mossy Oak: who speaks seven languages and made our food? If I don't get to eat this swordfish garpa again before we leave, I will die. Oh, my God. If you've ever wanted to go to Costa Rica, I will put you into Topo. This place is magical. And this is a blood tree. Her SAP actually looks like blood. This is a sacred tree here. It's amazing. There's tiny, red, poisonous dart frogs that are breeding underneath the walkway. There are these. They're called agooties, and they look like a copy bearer, but they're not. They're so fucking precious. There was three slaws in the tree yesterday. It's
+[0:57:51] Unknown Speaker(s): amazing. You're literally in the chat, and the druid fell. Yes,
+[0:57:55] Mossy Oak: correct. It's true, and I love it also. The food here is amazing. We've had the best liquid tour tour guides, so, um, mochismo is a thing here, and a lot of like when I went to shake people's hands like the men would get offended. And then we met Evelyn, and Evelyn's a local tour guide who was, like, actually certified by the government, and she's hooked us up people since then. Oh, do you want to come here? I have the best people for you to talk to. All right, it
+[0:58:31] Unknown Speaker(s): is on my list. Cool, yes,
+[0:58:36] Mossy Oak: if we get your son to fly us here, that would be so much better than the final destination highway.
+[0:58:42] Ian Lurie: Do we get to choose the plane, though? Because I don't feel like I want to spend 13 hours in a Cessna. I'm just
+[0:58:49] Unknown Speaker(s): Oh no. By the time he's flying to Costa Rica, he'll be flying like 760 sevens. Perfect,
+[0:58:53] Ian Lurie: perfect. Hey, you know the the nation of Qatar may have an air airplane to lend us. Um, just thinking, yeah,
+[0:59:06] Slik Rik: yeah, none of our conversations really matter, so we'll be safe.
+[0:59:11] Ian Lurie: That's right. If they bug it, they'll be sitting there like, What the fuck are these people talking about? Why is
+[0:59:17] Slik Rik: this Jamar character so obsessed with his D and D,
+[0:59:22] Unknown Speaker(s): but to be fair, I'm sure it's much more interesting than talking about the late great Hannibal Lecter.
+[0:59:31] Mossy Oak: No, I've been so happy to be here and away from all this. Yes,
+[0:59:35] Unknown Speaker(s): I
+[0:59:36] Mossy Oak: made a backup of my phone. I'll make a backup before I leave to have when I get there, because I have to wipe this thing before we go back to the customs.
+[0:59:44] Ian Lurie: Yeah, probably a good thought. Yep,
+[0:59:49] Mossy Oak: hi. I love America. Yeah,
+[0:59:51] Ian Lurie: I might be doing that coming back from Canada. We'll see. Um, yeah, you're
+[0:59:55] Mossy Oak: going through customs right now. Yes, wipe everything, make a backup, restore it.
+[1:00:00] Ian Lurie: Especially, you know, since I'm probably not going to stop posting to threads like like I am now, every social
+[1:00:06] Mossy Oak: media app should be deleted before you with customers right now, yes,
+[1:00:10] Ian Lurie: that's probably a good idea. All right, yeah,
+[1:00:12] Mossy Oak: not kidding.
+[1:00:13] Unknown Speaker(s): Noted, noted, yep,
+[1:00:18] Ian Lurie: although part of me wants to be the test case for the 55 year old white Jewish guy who gets thrown in Gitmo because of something on his phone.
+[1:00:28] Unknown Speaker(s): Think of how much anti semitism you could throw in their face for that one,
+[1:00:32] Ian Lurie: right? I could, I mean, it would be like, it would be like they I can't. I have
+[1:00:40] Mossy Oak: to fall back on Tucker Carlson made me the devil. Didn't mean likeness rights.
+[1:00:47] Ian Lurie: Yeah, see, not me. Where's
+[1:00:49] Mossy Oak: my bag?
+[1:00:51] Ian Lurie: I'm like, at the top of the harmlessness spectrum
+[1:00:55] Unknown Speaker(s): for for 90%
+[1:00:57] Ian Lurie: of the people in power right now, they just look right past me,
+[1:01:00] Mossy Oak: I apparently live like 130 pounds of domestic terrorism.
+[1:01:05] Unknown Speaker(s): Yeah, yeah.
+[1:01:08] Ian Lurie: Okay, so all of you should actually give me per se charisma. Checks.
+[1:01:19] Mossy Oak: Checks, not saves correct,
+[1:01:25] Slik Rik: 1914, okay,
+[1:01:35] Unknown Speaker(s): 14 for Sango, 18 for Craig and
+[1:01:41] Ian Lurie: I, yeah, um, you all do find Magog to be a little or Magog, I should say, to be a little disconcerting to be around,
+[1:01:53] Mossy Oak: um, mag going to be very disconcerting to be around,
+[1:01:55] Ian Lurie: yeah, you know, it's a 16 year old body, but this is clearly, you Don't know how old this person is, but they clearly carry significant experience with them.
+[1:02:06] Mossy Oak: Can we make an Arcana or an insight check on that?
+[1:02:11] Ian Lurie: What are you trying to discern?
+[1:02:14] Mossy Oak: Is this 16 year old body, actually 16? Or what's going on here?
+[1:02:18] Ian Lurie: Do you have medicine?
+[1:02:22] Mossy Oak: I do, and actually my my goggles would recharge, because it's been a night, right? Yeah, can I if I popped on a goggle? What do I see? Hmm,
+[1:02:31] Ian Lurie: look. Hold on. I Yeah. Okay, so this is, this is for effect. So I just want to make sure you understand that this won't always work, yeah. But when you pop the glasses down, you look and this, this child is maybe five foot five. Yeah, and you see the faint, Misty shape of a tall, thin, possibly woman, maybe six foot six. Um, hi,
+[1:03:18] Mossy Oak: as kazani,
+[1:03:22] Ian Lurie: as what, I'm sorry, the same
+[1:03:24] Mossy Oak: height as kazani, no
+[1:03:25] Ian Lurie: taller than that, much taller, um, long, black hair, but kind of ratty looking. At first, the features on this figure look really beautiful, really attractive, but then you realize that the flesh is kind of tattered. There's no nose on the face. The eyes are actually these almost fleshless sockets with the eyeball still in them staring out at you. The hands are these kind of longer, thin fingers with long nails on them, limbs that are also, you know, really long. Not not like you know, hag, like, you know, 12 feet long, long, but definitely long and thin, exceptionally lean figure, the hair as as this figure turns towards you, the hair actually disappears, and you just see, then, just the skull with this flesh drawn tight on it, tied over it with sort of the tattering of the flesh.
+[1:04:34] Mossy Oak: This is an ancient implying like illusion magic is built on top of this. This
+[1:04:37] Ian Lurie: is an ancient, ancient figure that you're looking at right now. You're not sure what it is, because, you know, you're not a specialist in the undead, but it's definitely this. This is a strange, older creature.
+[1:04:56] Mossy Oak: Also, if you come here, I have the best restaurant recommendations. Cool.
+[1:05:03] Unknown Speaker(s): Sorry, just like code switching from from game to real life. I like, yeah,
+[1:05:07] Ian Lurie: it's like, wait, wait, what would
+[1:05:09] Unknown Speaker(s): they want? I'm sorry.
+[1:05:10] Mossy Oak: I'm eating, like, the most stupid, delicious Italian food made by an actual Italian in the middle of Costa
+[1:05:20] Ian Lurie: Rica. I Okay, so what would you guys like to do? So
+[1:05:27] Unknown Speaker(s): Roya asked if, if he needed anything.
+[1:05:31] Ian Lurie: He said, I am, I am prepared to travel whenever you are,
+[1:05:37] Unknown Speaker(s): or what,
+[1:05:40] Mossy Oak: um, what was the ambassador's name again,
+[1:05:43] Unknown Speaker(s): Magog. Magog. Magog.
+[1:05:47] Ian Lurie: And his voice, by the way, is almost kind of syrupy. It's just so kind of very modulated and calm. Bless
+[1:05:57] Mossy Oak: your heart, or like share
+[1:06:02] Unknown Speaker(s): auto tunes. Not
+[1:06:03] Ian Lurie: share, not share. He says, You know, I am, I am at your service.
+[1:06:15] Unknown Speaker(s): Very well, Mossy, but drop pass that trace, yep,
+[1:06:22] Mossy Oak: I'm going to use rogues blessing, pop up, pass that trees. Okay,
+[1:06:32] Unknown Speaker(s): do you want to? Do you want to scout ahead? Oh yeah, I'll leave. I'll leave the entourage with the twins and you kind of, actually, you know,
+[1:06:45] Mossy Oak: run up and report back. I'm gonna ask Kiki to help out. Okay, invisible up in the air to go, if
+[1:06:51] Ian Lurie: it's, if it's all right with you all, I would like to follow, but invisibly,
+[1:06:59] Mossy Oak: sorry, say is that Magog
+[1:07:01] Unknown Speaker(s): Sango, yeah. No, yeah.
+[1:07:06] Ian Lurie: So Magog says one moment, and he waves and says something, and just disappears. But then you each feel a touch on your arm, and he appears again for you all,
+[1:07:21] Mossy Oak: okay, so we can see him, yes, so as long as you stay within 60 feet of me,
+[1:07:32] Unknown Speaker(s): 6120 Hold on. I
+[1:07:35] Mossy Oak: think it's 60 okay. So Mossy is going to be 60 feet ahead. Okay? I
+[1:07:47] Unknown Speaker(s): and past that trace works at 60 feet, right? Yes,
+[1:07:51] Mossy Oak: okay, great,
+[1:07:52] Unknown Speaker(s): cool, cool. So
+[1:07:53] Mossy Oak: I'm I'm no more than 60 feet away from the further person back, and I am up ahead, using all of my to backs of stealth,
+[1:08:03] Ian Lurie: all of the stealths got it okay, and I guess Sango is invisible by given how his name just changed in zoom. But Sango does not do the touching everybody thing so that they can all see him. And given the way, I just said that, it sounds dirty anyway. So never mind. You all, let's see. Why don't y'all give me stealth checks, just in case?
+[1:08:33] Slik Rik: Just one, just
+[1:08:35] Unknown Speaker(s): one. Oh, did
+[1:08:36] Slik Rik: you cash Pass Without a Trace on us?
+[1:08:38] Mossy Oak: So plus 10, I'm at 31 so
+[1:08:43] Unknown Speaker(s): natural. 20, I'm at 33
+[1:08:49] Mossy Oak: I am correct. Dirty.
+[1:08:50] Slik Rik: 20, okay.
+[1:09:03] Ian Lurie: Invisango and Cregan.
+[1:09:13] Unknown Speaker(s): You're muted, yeah, 36 for Sango and a natural 20 for 17 for cragan. Damn. Wow. Um,
+[1:09:22] Ian Lurie: okay,
+[1:09:23] Mossy Oak: was that dirty 20 for Rikki, with or without? Pass Without a Trace?
+[1:09:29] Unknown Speaker(s): Oh, that was
+[1:09:30] Slik Rik: with. I also have to roll disadvantage because of a grown as armor. Okay,
+[1:09:38] Ian Lurie: yeah, Aurora and Soraya have no problem. You all pass through the city, and it's, it's not so much that you have to be super stealthy. It's more just kind of avoiding notice, if that makes sense. So, you know, Sorolla put on a very simple cowled robe. It's getting into the evening. So it's not that unusual to see people wearing something like that. And Magog just sort of drifts along next to you. He's walking. I mean, you can see that he's walking, but it's just it's almost sort of gliding along. And you get to the villains discontent without incident, and walk onto the ship,
+[1:10:21] Unknown Speaker(s): double check that the staff we have is the right staff.
+[1:10:28] Ian Lurie: Everybody's on board, everyone who should be is on board. Actually
+[1:10:31] Mossy Oak: drop a goggle and just do a quick look at every member of the staff. Yeah,
+[1:10:36] Slik Rik: so DAST, that's us up, bro, yeah,
+[1:10:39] Ian Lurie: right. You'll never trust anyone again, ever, probably just as well. I am so proud right now. I could I could cry. I'm so fact
+[1:10:47] Slik Rik: that I remembered it and could pronounce the dragon name too.
+[1:10:53] Unknown Speaker(s): That shit is right.
+[1:10:55] Ian Lurie: It's burned in your brains.
+[1:10:58] Mossy Oak: I still have a printout from the time that I ruined an entire thing by catching the baddie invisible
+[1:11:06] Ian Lurie: frame. Yeah, that was even that was even better. In some ways. That was hilarious. I guess that was, that was my trauma. That one was my trauma.
+[1:11:16] Slik Rik: Rave, the fucking howl, yeah,
+[1:11:18] Ian Lurie: yes, yes, Ray the howler, and
+[1:11:20] Mossy Oak: we spoke a jawbone and we made a thing.
+[1:11:25] Ian Lurie: So you climb on board. Lysander is there as a spend law, everybody is everybody appears normal. Kiki's like, man, it's good to be back on the ship. And the twins, I'm assuming you bring the twins on board too. Oh
+[1:11:40] Unknown Speaker(s): yeah, yeah. They
+[1:11:41] Ian Lurie: also, they're just kind of like, and it's interesting, because, you know, walking through the city, you'd think that would be a problem, but it really isn't just nobody. I mean, people do notice, but they don't notice. I mean, there's even other dinosaurs, right, traveling through the city. And as the ship makes ready to leave, and Lysander says, are we ready to go? Are we waiting for anything.
+[1:12:03] Unknown Speaker(s): We're going to be using the the circle, ah, of
+[1:12:08] Ian Lurie: course. And what are your orders for us?
+[1:12:14] Unknown Speaker(s): I would say, I think, I think part of is like, because they were doing some trade runs. And if you, if you are ready to go back to Aventine and start offloading some of the supplies, things like that, just like your general commerce run, however I was, I would, I would ask you not to leave Aventine until we we are done with this particular diplomatic mission. Okay?
+[1:12:47] Mossy Oak: And after we go get drinks Roxy. Yes,
+[1:12:50] Unknown Speaker(s): I gotta film
+[1:12:51] Mossy Oak: on Roxy with so much
+[1:12:54] Ian Lurie: are you gonna teleport the twins as well? You can lead them on
+[1:13:00] Unknown Speaker(s): the ship. I If there are no restrictions, they can
+[1:13:05] Ian Lurie: fit, okay,
+[1:13:06] Unknown Speaker(s): then, then, yeah, they're going to come with,
+[1:13:08] Ian Lurie: it's any willing creature, if it's a if it's a solid object, if it's an object, it has to fit within a 10 foot cube. But any willing creature, I would say, you know, if it's huge or gargantuan, I'm not going to let you do it, because a tarrasque can't teleport by sticking one toenail inside a teleportation circle. As entertaining as that would be for me, we're not going to do that.
+[1:13:33] Unknown Speaker(s): Hey, boss man, which one of us? Boss Man, Jack, I'm right in front. I'm looking right at you. Man, I'm right here. I'm not invisible,
+[1:13:48] Mossy Oak: right here. Point. You're mostly invisible because, sorry, you were talking to drag. My bad. What do you need, bud?
+[1:13:56] Unknown Speaker(s): Uh, maybe we should leave the ship here. Uh, case we case. So we have a quick way to get back here in case we need to get saroya back. That's That's not a bad idea. Thank you. Change of orders, um, hang out here, because we may be popping back in with saroya and her and her guard, makes
+[1:14:33] Ian Lurie: sense. All right, we will remain here.
+[1:14:38] Unknown Speaker(s): All right. Thank you. I once we vamp, I'm gonna have the twins be on the lot. It's like they're they're kind of like they're assisting the capybaras with security. And just if you smell something, say something,
+[1:15:02] Ian Lurie: okay, the copy bars look pretty happy when the twins show up. By the way, they all start running around on the grass. When you appear in the teleportation circle, the onion brothers are there. Well, they aren't there. Then you pop in, and as you're all kind of getting organized and everything, right? Because the twins pop in, you know? They come running in the door, blades drawn. They're like, Oh, What? What? What's going on? Oh,
+[1:15:32] Unknown Speaker(s): we're good. We're good. You've
+[1:15:33] Mossy Oak: grown up so much since we saw you last maybe
+[1:15:36] Ian Lurie: we should come up with sort of a signal or something.
+[1:15:40] Mossy Oak: I mean, feel like two dinosaurs is pretty good signal. But what do you want? Um,
+[1:15:45] Ian Lurie: a signal that doesn't make us go poopy pants, thinking that someone just invade attacked us from the inside, and we're going to get fired.
+[1:15:54] Mossy Oak: Cast message, don't poop.
+[1:15:58] Ian Lurie: Perfect, perfect. That'll be the signal
+[1:16:01] Unknown Speaker(s): got. It also kind of feels like it's a dumb problem.
+[1:16:09] Ian Lurie: So you head out of and I can't remember, the teleportation circle is actually in the chapel to the Raven Queen. Am I right? Richter in some Europe, no, in Yes,
+[1:16:24] Slik Rik: it is at the
+[1:16:25] Ian Lurie: Bastion, okay, yes, the home one. Okay, yeah. So you all proceed out of the out of the chapel and into the main room and then out into the yard, and Sorolla is kind of looking around, uh, Magog. Magog just follows pretty impassively. Doesn't seem that, you know, surprised, impressed, angered, or anything at any given time, my
+[1:16:53] Slik Rik: man is she in full color for the first time, and he's non plus, I like this dude.
+[1:16:59] Mossy Oak: We offer him bacon like not gray bacon.
+[1:17:05] Unknown Speaker(s): Uh, once Are we all already heading to the to the bar?
+[1:17:11] Ian Lurie: Well, as you're going though, Sorolla looks around, says you've made some upgrades.
+[1:17:19] Unknown Speaker(s): Retail. Isn't that lovely. And we have a full working kitchen and bar, and we are very proud of the work that we see
+[1:17:36] Mossy Oak: my library.
+[1:17:37] Ian Lurie: And you should be. You should be. This is fantastic. Aurora says sparring room, yeah, no, I'm on duty right now, maybe later. Okay, so where do you take them?
+[1:17:59] Unknown Speaker(s): So we take them to the lady in the room. Okay, I remember correctly we had some of the like in my head. I've been calling them like the COVID, the some of the people from the like, the people from the green slot, no, the coven.
+[1:18:24] Mossy Oak: Oh, that's right,
+[1:18:28] Unknown Speaker(s): I am a cleric of Celestia, celestria, yes, some sort of cholesterol meditation,
+[1:18:36] Mossy Oak: the goddess who makes you poop a little bit. Yes,
+[1:18:39] Ian Lurie: cholesterol is. Who were
+[1:18:41] Unknown Speaker(s): cholesterol talking about,
+[1:18:42] Ian Lurie: yes, if
+[1:18:43] Unknown Speaker(s): I remember correctly, like they're the ones who are kind of working the bar. And we've got the whole like church thing as well. I feel like we should take them to not in the bar, but like in one of our
+[1:19:06] Mossy Oak: secret love Do you want to take them in their party line, or
+[1:19:17] Slik Rik: hold on just Yeah. What's the biggest room we have in here.
+[1:19:26] Unknown Speaker(s): I'm double checking. Okay, okay, I've got it. I've got a place called the sacristy, which is roomy, and
+[1:19:49] Ian Lurie: this is all part of the the extra dimensional parts of this. Yes,
+[1:19:53] Unknown Speaker(s): okay, we could do the Saed the library, and then we have a secret library. So I think maybe the library is best.
+[1:20:03] Mossy Oak: Yeah, my library is off the alchemist lab, if you want that one.
+[1:20:07] Ian Lurie: But that's, that's physically part. Remember to always think about the parts of the Bastion that are physically located in the prime material plane. And then there's all the extra dimensional spaces. And it's on you guys to make sure that you know, I don't think you've given me a map of all that yet, but so are you going to locate a space that's extra dimensional, or are you going to stay on the Prime Material and use one of the rooms that's on the prime material plane?
+[1:20:34] Unknown Speaker(s): I feel like, I feel like Prime Material is fine. Okay? And we are not far from any extra dimensional spaces, so we can either pick the library or the sacristy. Okay, go
+[1:20:54] Mossy Oak: to the library. Yeah, yeah,
+[1:20:56] Unknown Speaker(s): let's do that. It makes us look smart. I give me Richter
+[1:21:11] Ian Lurie: and Sango. Give me wisdom checks. I
+[1:21:25] Slik Rik: 16, okay.
+[1:21:30] Unknown Speaker(s): 24 okay,
+[1:21:32] Ian Lurie: you both realize that you're about to have a meeting of foreign dignitaries. I in a city state without having talked to the authorities of the city state, and realize you might want to let them know.
+[1:21:56] Mossy Oak: Lurie, on that count,
+[1:21:59] Slik Rik: we're in Haven. Yeah,
+[1:22:04] Ian Lurie: yeah, remember samurai and Aventine are completely different city states, different nations, different everything. Yes, they're allied, but it's you wouldn't necessarily have Vladimir Putin and, I don't know, Justin Trudeau unexpectedly show up in Texas to talk about power sharing. And I
+[1:22:27] Mossy Oak: mean, maybe you would these days, my well,
+[1:22:30] Ian Lurie: okay, but that alone should tell you. That alone should tell you why it's not a good idea, right. Okay, so what would you guys like to do?
+[1:22:39] Mossy Oak: Let's go into another plane then, because then we're not in the city state as we negotiate this, and we don't have to worry about it. Am I wrong? It's still neutral territory.
+[1:22:50] Slik Rik: That was perfectly, perfect,
+[1:22:53] Unknown Speaker(s): Mossy, perfect
+[1:22:54] Slik Rik: Mossy answer. That was beautiful. I'm not laughing because ridiculous. I'm laughing because you stuck in character, and that was beautiful.
+[1:23:08] Unknown Speaker(s): Don't tread on my international interdimensional space. I
+[1:23:12] Slik Rik: say we can do both. We can go to an internet interdimensional space so we can create something a little bit more dignified for the dignitaries, but also maybe send a message to our friends and higher up, saying, Hey, this is what's going on in our Bastion. Ask forgiveness, not permission, kind of thing.
+[1:23:33] Mossy Oak: Okay, so let's go into there's my lab, and where else is there? That's inter planner
+[1:23:42] Ian Lurie: extra demand memory. It's a TARDIS, right? So there's all these other rooms you go out through a specific portion of the bar, the tavern, and then there's all these other rooms there, and you haven't really mapped them out. So if you want to have a meeting room, that's totally fine, and you can arrange it as as desired.
+[1:24:06] Mossy Oak: We'll go to my lot. I will, I will lead us through a library, and then there's a sequence of things I do, and then we walk on to my lab. Okay,
+[1:24:14] Unknown Speaker(s): are there, like, explosive things in there we need to worry about, just not
+[1:24:19] Mossy Oak: at the moment.
+[1:24:20] Unknown Speaker(s): Okay,
+[1:24:23] Mossy Oak: well, not at the moment. They're not.
+[1:24:28] Unknown Speaker(s): Never led me astray. I'm gonna, I'm gonna, man, okay, I'm just going to do it. I'm going to go to Magog and say, Are there any refreshments you would appreciate?
+[1:24:51] Ian Lurie: I do not require refreshments at this time.
+[1:24:54] Unknown Speaker(s): Would you be offended if the other folks had refreshments? No, of course, not. Wonderful. Peace. Thank you. Okay, I'm gonna go get with the staff real quick and get a selection of breads, fruits, wines, things like that.
+[1:25:13] Ian Lurie: I'm gonna
+[1:25:14] Mossy Oak: cast a quick message over to Roxy and say, Hey, can you go let some of the diplomatic folk know that we're holding peace negotiations. It's kind of here, but mostly interplanar, interdimensional. Oh, it just felt like it'd be nice to let them know. Roxy
+[1:25:34] Ian Lurie: says that's not really my department, dear. I can if you want, but
+[1:25:42] Mossy Oak: you're the ones who to tell. You know who to ask. You don't have to clue yourself. I really don't
+[1:25:47] Ian Lurie: actually know.
+[1:25:54] Unknown Speaker(s): Okay, Hey, boss man. Hey boss man. Mossy, I'm right here. I'm looking straight at you.
+[1:26:04] Mossy Oak: At this point, I've just kind of stopped noticing you, because typically you're not there. But okay,
+[1:26:10] Unknown Speaker(s): I thought that was Sango. I'm always here. Yeah,
+[1:26:13] Ian Lurie: this is Cregan right now, I'm pretty sure.
+[1:26:15] Mossy Oak: Okay, yeah. Hello, turtle. James.
+[1:26:18] Ian Lurie: Is James's job here is to sow chaos.
+[1:26:24] Unknown Speaker(s): If you, if you'd like boss man, I could, I could send a message to who ever you would like me to that I've met before, and relay them so that Roxy doesn't have to, oh, you've met
+[1:26:41] Mossy Oak: the prince of a team before, right?
+[1:26:45] Unknown Speaker(s): Yeah,
+[1:26:46] Ian Lurie: you met zavis. You certainly met zavis, if not the prince,
+[1:26:50] Unknown Speaker(s): yeah. Oh, message
+[1:26:52] Mossy Oak: back. Roxy, never mind. Love you. Okay,
+[1:26:55] Ian Lurie: thanks, dia, welcome back.
+[1:26:59] Mossy Oak: We'll be in later for the good treats. Okay,
+[1:27:04] Ian Lurie: so many voices I will consistently do, but Roxy is definitely one of Roxy's
+[1:27:08] Mossy Oak: is the best. I love Roxy, my Beholder from Jersey.
+[1:27:18] Unknown Speaker(s): Okay, I come back with a plate of, like, I'm trying to slyly eat a strawberry that I just took off the top of the fruit plate. So I'm just like, bringing in some wines and some breads and cheeses. So
+[1:27:31] Ian Lurie: Drak, you take a bite of the strawberry. And, I mean, you know, it's a good strawberry, you know, it's fresh and everything, but it has almost sort of an ashen taste to it. Um, single
+[1:27:45] Unknown Speaker(s): tear, yeah,
+[1:27:46] Ian Lurie: it's just not quite right. Something's faintly off about it, but you sort of shake it off. Well, maybe you don't. What do you do?
+[1:27:59] Unknown Speaker(s): Plain Sango, Okay,
+[1:28:01] Ian Lurie: that's fair. That's good.
+[1:28:02] Unknown Speaker(s): You say that you see a big bowl of soup hovering in the air, come bouncing into the room, of course.
+[1:28:12] Mossy Oak: And my perception, so I noticed you eat the strawberry
+[1:28:16] Unknown Speaker(s): single tea. Like, like, I'm trying, I'm going to try to play it off as like, this is the best strawberry I've, I've ever had, but I'm really just kind of dying inside.
+[1:28:26] Mossy Oak: Okay, well, I got a natural 20 in that perception. So I'm absolutely messaging or party lighting. You mean, like, what's wrong with the strawberry?
+[1:28:33] Unknown Speaker(s): Okay, hold on, I'm going to roll my deception. You said that again, natural 20. I got
+[1:28:39] Mossy Oak: an actual 20 in perception. So
+[1:28:41] Ian Lurie: what is that? What's the total? A
+[1:28:44] Unknown Speaker(s): nine does not beat your natural toy. Can I? Can I?
+[1:28:52] Ian Lurie: FUCK IS THAT? God damn it. Jesus guys, it's strawberry. This is amazing, though he continue.
+[1:28:58] Unknown Speaker(s): Can I silvery? Barb's Mossy. Is 20?
+[1:29:02] Ian Lurie: No, you can't, because you don't notice it happening. Oh,
+[1:29:04] Unknown Speaker(s): damn it. Okay. I was pulling for you, Drak. As part of I'm going the after effects like it's affecting it's affecting the simple pleasures of third is that
+[1:29:21] Mossy Oak: how Shadow Fall works? I don't
+[1:29:24] Unknown Speaker(s): know if. I don't know if I brought it back with me. I definitely brought it back with me. I don't know how long it's gonna stay. Is this a thing that fades? Do you have a cough in your chest at all? I'm not sure how those two sentences relate.
+[1:29:41] Mossy Oak: Okay. Connor wise, would I know if that's gonna linger or some
+[1:29:46] Ian Lurie: foot give me an Arcana check I can do that. 21 you don't have a lot of experience with this. Yeah, you're not sure that going to and from the Shadowfell would do this, or, if so, how long it would last.
+[1:30:06] Mossy Oak: Hey, Jack, let's keep an eye on that. I'm not sure.
+[1:30:10] Unknown Speaker(s): Yeah, yeah, this thing fun.
+[1:30:14] Slik Rik: Okay, Drak, Do I have your consent to try something?
+[1:30:21] Ian Lurie: Oh, come on. It's Drak. You wouldn't even ask you to be like, yeah, sure, generally,
+[1:30:24] Unknown Speaker(s): yes, but maybe let's focus on the the summit. It's just
+[1:30:31] Slik Rik: just real quick. Do you want to taste this damn strawberry? I really
+[1:30:35] Unknown Speaker(s): want to taste the strawberry. Okay,
+[1:30:37] Slik Rik: so Richter puts his hand on tracks head, closes his eyes and uses the ring to cast greater restoration,
+[1:30:49] Unknown Speaker(s): damn. Okay,
+[1:30:52] Ian Lurie: Drak, you feel this kind of rush of cool energy over you. You can almost hear the sound you think you hear the sound of Raven's wings flying by in the background, and you feel great. Yeah.
+[1:31:08] Unknown Speaker(s): Alright, so I'm gonna put put a little bit of little cheese on some sourdough. Okay? And and a grape is have that.
+[1:31:21] Ian Lurie: It tastes really good, but you you get a very faint whiff of sulfur when you take a bite this time,
+[1:31:32] Unknown Speaker(s): it mostly helped. Let's just hope that it fates The further away that we stayed in
+[1:31:39] Slik Rik: the shot of elbow, and maybe the further away we did from Magog too, yeah,
+[1:31:47] Unknown Speaker(s): yeah, yeah, okay, because we
+[1:31:49] Slik Rik: didn't leave all of the shadow fell behind.
+[1:31:53] Unknown Speaker(s): Yeah, I gotta check on the I gotta check on the twins later. Okay,
+[1:32:03] Slik Rik: all right, Labby time,
+[1:32:06] Ian Lurie: yeah, so at that point, Magog looks at soroi and says, Well, I I know we came here quickly, but I have traveled extensively, and looks at the rescue as well, and says I could do the rest before we begin negotiations. If that's all right, can we are there quarters? Yes,
+[1:32:38] Mossy Oak: I feel like we should have made a guest room.
+[1:32:40] Unknown Speaker(s): We, yeah, we, yeah, you probably have
+[1:32:43] Ian Lurie: guest rooms plural, yes, yeah. I
+[1:32:48] Unknown Speaker(s): just haven't drawn them all yet, but, but yeah, we definitely have guest rooms, yeah. And I think our personal, our personal rooms are inter dimensional, and I will invite, I will invite the delegation to to stay in in my in my quarters. Okay. However, I also think that, like, maybe Magog, no, I got guest rooms ass, maybe Magog. Maybe they shouldn't all be in the same Personal Room areas. So like, I'll say Magog, I will show you to your inter dimensional space guest room. I That sounds
+[1:33:43] Slik Rik: very baby. It's cold outside.
+[1:33:49] Mossy Oak: Is drunk about a six seduce a 16 year old.
+[1:33:56] Unknown Speaker(s): No.
+[1:33:57] Ian Lurie: Inspiration point, if you could make this one work. Inspiration point,
+[1:34:03] Unknown Speaker(s): no, it's not worth it. No, no,
+[1:34:11] Ian Lurie: the DM says he will not run this particular scenario.
+[1:34:14] Unknown Speaker(s): And track has standards, yeah,
+[1:34:19] Slik Rik: we finally found one
+[1:34:23] Unknown Speaker(s): nerd. At least Drak has standard.
+[1:34:28] Ian Lurie: Okay, so you show Magog to his room. I'm assuming someone else gets soroya and Aurora set up in a set of rooms, it is getting close to nighttime at this point. So if you wanted to, you know, if you wanted to take a rest and get everything organized for the next day, you could certainly do that. Now, yes,
+[1:34:51] Slik Rik: let's do that. Yeah,
+[1:34:54] Unknown Speaker(s): like Lou, my head can, my head can is like my area looks like what's behind Moxie right now, absolutely,
+[1:35:09] Ian Lurie: all right, so you get them settled in. The Onion brothers are going to handle, you know, just kind of keeping an eye on everything, making sure they they're safe. But right now, no one even knows you're there. I mean, you're pretty secure. Who is talking to zavis?
+[1:35:28] Mossy Oak: Who is zavis? Zavis
+[1:35:29] Ian Lurie: is the head of diplomacy, trade and internal affairs, working for the prince of the city. He's the guy with lots of really white teeth, who runs, who handles? He's basically the spy master. You know him well, and he knows you guys very well.
+[1:35:50] Unknown Speaker(s): You can't see me though, my fingers on my nose. Richter
+[1:35:53] Slik Rik: will go do it. Okay,
+[1:35:54] Unknown Speaker(s): all right.
+[1:35:58] Ian Lurie: You actually you just get someone to take a message up to xavis saying that you're here describing, I'm assuming, just basically describing what's going on. Yep. Um, all right. And then, do you guys do anything that night, or are you just gonna bed down?
+[1:36:15] Slik Rik: Richter wants to walk around and just sort of check things, see where there could be any sort of breaches, and just make sure that he's ready in case things happen.
+[1:36:26] Ian Lurie: Okay, all right, so you're just checking the grounds, and are you actually going out into the city, or you're just checking the grounds, and the just checking
+[1:36:33] Slik Rik: the grounds, and he's also just trying to get the hell away from a Gog to stop that feeling, because he just Yeah. He just needs a reset, yeah, so he doesn't keep hearing the nails on chalkboard. Feeling that
+[1:36:46] Ian Lurie: totally makes sense. Why don't you give me three perception checks? I
+[1:37:03] Slik Rik: nine, nine and five.
+[1:37:05] Unknown Speaker(s): Everything looks good.
+[1:37:08] Mossy Oak: Mossy is gonna burn the last four minutes of goggle time today and staying in the in the tree. Check a perimeter. Okay,
+[1:37:19] Ian Lurie: you also give me three perception checks,
+[1:37:29] Mossy Oak: 13,
+[1:37:32] Unknown Speaker(s): 1816,
+[1:37:36] Ian Lurie: okay, um, so Richter you're looking around but and you're kind of so happy to not be right around Magog, you know, and also you're just kind of happy to be back in Aventine. You're a little surprised at that, right? Because, I mean, you're from salmur, but being there was nice, but it kind of brings up a lot of stuff, and being back here kind of breathing the cooler air, and, you know, you just feel kind of good. And you go over and you see the capybara. So you get them a little scratch, and they come over to you. The twins are walking around so, you know, but everything really does look safe, Mossy. You're looking around, and everything looks pretty good to you. You don't see anything out of place. There's nothing, you know, nothing secret. You know. There's nobody hiding. There's nobody who doesn't look like they should. So everything looks pretty, pretty good.
+[1:38:27] Mossy Oak: I'm so excited to go climb in my hammock
+[1:38:32] Unknown Speaker(s): getting ready for a good nap. Sango is going to actually, I don't think I can do that. I
+[1:39:00] Mossy Oak: uh, also being here at sundown is the best bat show, because the bats take care of all the mosquitoes. And if you lay in the hammock right here and watch the show, they are just aerial artists,
+[1:39:13] Ian Lurie: and they're really helpful, because no mosquitoes, exactly.
+[1:39:18] Mossy Oak: There was a one star review this place. It was like, there were bats. And I was like, that's a five star, and you're too dumb to know.
+[1:39:26] Ian Lurie: I just got a text message from my wife that two friends of ours and their cat were just evacuated from their house in clay Ellen because a fire just broke out, and it's already burning 200 acres so, and that's that happened in clay Ellen, just up in the mountains from us, like 90 minutes away. Sorry, I don't usually, I don't want to interrupt the game, but that means that fire went from nothing to 200 acres in 45 minutes.
+[1:39:52] Unknown Speaker(s): Wow.
+[1:39:56] Ian Lurie: But apparently they're they think it's going to be okay. So
+[1:40:02] Unknown Speaker(s): So Craig, and we'll walk around to do a little perimeter, like, because he sees everybody else doing he's like, not a better day. And he's gonna burn some uses of detect magic along the way, okay, looking for anything that wouldn't have been there before. Yeah.
+[1:40:15] Ian Lurie: Why don't you also give me three perception checks.
+[1:40:24] Unknown Speaker(s): All right, so eight, all right, so that is a 17, a 25 and a natural 20 for 28
+[1:40:39] Ian Lurie: Okay, um, you're walking around the grounds, and you almost don't hear it, but there's a really faint like behind you. And you turn around, and you look, and there's a sparrow dead on the ground, and as you look, there's another and then three more times until there's five sparrows on the ground, all dead. They just fell out of a tree or out of the sky or something. You're not sure
+[1:41:17] Unknown Speaker(s): he'll go take a look at them to see what caused them to be dead,
+[1:41:24] Ian Lurie: okay, give me uh medicine or nature.
+[1:41:35] Unknown Speaker(s): Uh, 22 for nature, okay? Um,
+[1:41:43] Ian Lurie: hmm, they all look like they were stunned and fell because they were stunned, and then the fall may have killed them.
+[1:41:52] Unknown Speaker(s): And where am I at when I see these?
+[1:41:56] Ian Lurie: You are right out front the lady in the room,
+[1:42:02] Invisango: like outside the building, yeah. Okay, I party line this to everybody and let them know that this is weird. Anybody ever seen this before? The only time I've seen it was a sunny day and a bright, bright sunny day in a clean glass window. This doesn't look like that.
+[1:42:31] Mossy Oak: Gonna make an Arcana.
+[1:42:34] Ian Lurie: You're snoring and drooling in your hammock.
+[1:42:40] Unknown Speaker(s): Jack's gonna come down and take a look. And first I'm gonna check off, check the the menagerie of Calaveras. Like I don't, I don't have Hold on just second, check my spells real quick. Do those birds look like they were carrying any messages or anything?
+[1:43:09] Ian Lurie: No, they just you've seen this sometimes. You know birds die. You've just never seen five of them fall like this at the same time,
+[1:43:21] Unknown Speaker(s): but I, but I heard a little noise. Well, it was
+[1:43:24] Ian Lurie: the sound of them hitting the graph. Oh, Okay, gotcha, yeah. It wasn't the anti it wasn't the sparrow anti aircraft system. It was just,
+[1:43:33] Unknown Speaker(s): yeah, I don't yet have the spell commune of nature. Can I go over and try CPR on them? I sure that's just James fucking with you, yeah,
+[1:43:48] Ian Lurie: if you want, you can definitely try CPR. You push too hard and you squash
+[1:43:59] Mossy Oak: them all five. Jesus had enough. They're so hard.
+[1:44:04] Unknown Speaker(s): Can I find one of the surviving birds, like one of the
+[1:44:10] Ian Lurie: surviving sparrows,
+[1:44:11] Unknown Speaker(s): like find another Sparrow that was in the same area? Give
+[1:44:15] Ian Lurie: me a nature check. So you guys are all gathering now in this little area. Richter, are you still hanging out with the copy bar? Or what are you doing?
+[1:44:25] Slik Rik: I'm no walk over and see what's going on. Okay,
+[1:44:28] Unknown Speaker(s): it's a 17. Okay,
+[1:44:31] Ian Lurie: you do find a there's a couple more sparrows, you
+[1:44:35] Unknown Speaker(s): know, burn a Speak, speak of animals? Yeah, it's
+[1:44:37] Ian Lurie: dusk, so they're flying around, eating bugs.
+[1:44:41] Unknown Speaker(s): Okay? I'll burn one of my speak of animals.
+[1:44:46] Ian Lurie: Hey, how's it going? Hey,
+[1:44:47] Unknown Speaker(s): good. Can I got some I got some snacks for you?
+[1:44:50] Ian Lurie: Oh, sweet, thanks. Hey,
+[1:44:53] Unknown Speaker(s): I this is probably super bad news, but, like, I just noticed that a couple of early friends, just like passed out, fell on the ground, and now they're dead. Did you hear anything that happened? So? Did you see anything?
+[1:45:08] Ian Lurie: No, I've been catching bugs. I mean,
+[1:45:11] Unknown Speaker(s): as you should, but like, from from your perspective, like, so sparrows just die randomly, like, five of them. Like, that's clearly super rare.
+[1:45:27] Ian Lurie: I feel like you're really putting some you're anthropomorphizing us a little bit, because we don't all know each other. See, there's one or two of us, like, I know her because we've had we've raised chicks together, right? But I don't know them pointing down at the sparrows on the ground any more than you might know someone who lives really far away from
+[1:45:52] Unknown Speaker(s): here. It's a very it's a very fair point. But like you all, you all sing to each other. You all seem to communicate Diem. Could you describe how the sparrow points down at the other ones? Just so I'm clear on that, with a foot,
+[1:46:08] Ian Lurie: with a foot, because it's right now it's sitting on Drax hand, eating the bird seed. So it just goes and points a foot down towards the ground.
+[1:46:18] Unknown Speaker(s): Well, just but how long does speaker valence last check in quite a hard 10 minutes, or
+[1:46:31] Speaker 1: a direct maybe. Give me a sec. Where is it
+[1:46:41] Slik Rik: tonight? RBG does everything but diplomacy.
+[1:46:47] Ian Lurie: You can do bad diplomacy. It does happen. I
+[1:46:50] Unknown Speaker(s): think we're doing it right now. Actually,
+[1:46:54] Mossy Oak: you don't have any cards,
+[1:46:58] Unknown Speaker(s): okay? Duration, 10 minutes. Okay, Drak, maybe you could hold, hold, hold, hold, hold, hold, hold, hold, hold. I'm talking with this animal here, so kind of what I was about to say, boss, man, I got a limited time, buddy. You got like, nine more minutes,
+[1:47:18] Ian Lurie: yeah. But and sparrows just sitting on your hand now, tilting its head at you. I
+[1:47:23] Unknown Speaker(s): pull out some more snacks for it, like this time it was
+[1:47:26] Ian Lurie: some sourdough bread. Oh, thanks, man.
+[1:47:29] Unknown Speaker(s): Um, okay, so I am suspicious that something bad is happening, if something bad, if you feel that something bad is happening, if you can find me and let me know I may not be able to speak to you again, but
+[1:47:49] Mossy Oak: please let me know I'm poop on I'm hell no.
+[1:47:52] Ian Lurie: I mean, yeah, your food's great. If I say anything I will, I will come talk to you right away. No problem, no worries. Hey, he chirps over in the other direction. You don't recognize it, but the other Sparrow comes and lands and starts eating the food in your hand too. We will we are on it. We are on it. We are together. We are We are your Sparrow lookouts,
+[1:48:14] Unknown Speaker(s): man, we might have some snacks inside for these guys to like, bribe them with helping us so you could bring your little buddies inside and and feed them some other snacks. Okay, but I want them scouting too.
+[1:48:40] Ian Lurie: What? What is the giant, hairless, featherless? What is the giant featherless? Never mind. I don't know what that is.
+[1:48:52] Unknown Speaker(s): Just, you know. Just let me know. Let me know if you if anything spooks you? If anything? Nope,
+[1:49:00] Ian Lurie: yep, on it, on it. Thank you. Got it. Salute. Affirmative, I am totally on this. We are on the case. We will start patrols immediately.
+[1:49:13] Unknown Speaker(s): Sorry, take some, like, crushed cashews and just like, toss them on the ground. Oh, geez, kind
+[1:49:21] Ian Lurie: of flaps off your hand goes down to the ground. This is the best you get. The sense you have two loyal, two loyal guardsmen now, at least for a little while, until
+[1:49:33] Unknown Speaker(s): they forget, yeah,
+[1:49:34] Ian Lurie: least as long as the food holds out and the memory, yes, I
+[1:49:47] Unknown Speaker(s): Well, I can't report like the animals haven't seen anything strange, and maybe this is just coincidence, but I don't really believe in coincidences. Usually, mossys here, sniff and stuff. and stuff out, do you think we should get her.
+[1:50:07] Slik Rik: Sheila heaping Do you want to wake her up and.
+[1:50:22] Ian Lurie: Uh, significantly worse, maybe, yeah,
+[1:50:26] Slik Rik: yeah. Also, this might be just like your taste, not being fully back. This might be another side effect of Magog being here.
+[1:50:39] Unknown Speaker(s): Yeah. All right,
+[1:50:43] Slik Rik: let's, let's just go to bed and let's get this diplomacy over with. The sooner we get him out of here, the sooner our spare friends stop falling out of the sky. Yeah,
+[1:50:56] Unknown Speaker(s): yeah, let's do that. Sengo krigan, Y'all good with that. You got it, boss man. I don't know where Sango is, but you got it.
+[1:51:07] Slik Rik: Follow the bowl of soup.
+[1:51:15] Mossy Oak: Um, trail of alphabet soup.
+[1:51:21] Unknown Speaker(s): All right, I'm going to spend the night in my sacristy, okay, doing that elfin, elven meditation shit, yep, but also, like, I want to be connected to the divine powers in the house, okay, all right,
+[1:51:40] Ian Lurie: everybody else, what are you all doing? You just going to bed for the night.
+[1:51:43] Slik Rik: Yep,
+[1:51:44] Mossy Oak: the hammock above the bastion and like the top branches above the end.
+[1:51:53] Unknown Speaker(s): So go ahead. Where is soroya and Aurora? Ian, nah, I don't know. Aurora. Aurora, just Aurora, Aurora, where is soroya and Aurora? That's a ton to I
+[1:52:08] Ian Lurie: did not mean to do that, but, yeah, sure, Aurora
+[1:52:11] Mossy Oak: and Aurora, soroya and Aurora,
+[1:52:15] Unknown Speaker(s): where they stay, like in proximity to our little boy, I
+[1:52:23] Ian Lurie: would say pretty close. I mean, you know, couple rooms down, but same general area, that way the onion brothers can keep an eye on everybody at once.
+[1:52:32] Unknown Speaker(s): Okay, is there a Is there, like a room in between those two, so that they're not right next to each other? Yeah, okay, Craig, and it's gonna be in there at night. All right, so go ahead. I'm sorry you don't know where Sango is.
+[1:52:52] Ian Lurie: Sango being Sango. So that night, you all curl up in your beds and your hammocks, and you know, just kind of happy to be home and fall into a pretty dreamless sleep, except that partway through the night, you all have this really vivid dream, and there's not much happening in it. It's just you're each standing on a stone on an oily Lake, like the water barely moves. It's almost like the lake is made of something thicker than water, and you can almost hear whispers in the back of your minds. And just when you feel like you're about to hear the voice, you know a voice emerge from the whispers, you wake up with a start and it's morning. Mossy, give me a well, okay, so Kiki's in the room. Give me an animal handling check I
+[1:54:04] Unknown Speaker(s): uh, 18, okay, um,
+[1:54:09] Ian Lurie: Kiki is at the opposite end of the room from you. Normally. She sleeps curled up, kind of with you. Um, she's actually the opposite side of the room perched on a little stool that you have, or, sorry, the opposite, she's on a branch opposite you kind of curled up sleeping on the branch instead. And you're not quite sure why. It's a little weird, but Kiki,
+[1:54:32] Mossy Oak: everything, okay, oh, all the way over there last night. Everything? Okay?
+[1:54:39] Ian Lurie: I think so. Yeah, just chilling. Yeah.
+[1:54:44] Mossy Oak: Just checking. Do you want to go see if breakfast is going? Hell
+[1:54:48] Ian Lurie: yeah.
+[1:54:50] Mossy Oak: All right, we're down the tree and okay,
+[1:54:56] Ian Lurie: but you guys all wake up. You stretch you, you know, kind of do your whatever your morning routines are you gather for breakfast in the meeting room, and as you're doing that, one of the Ian brothers comes in and says, there's someone at the door.
+[1:55:13] Unknown Speaker(s): I think one of you should
+[1:55:14] Mossy Oak: then someone,
+[1:55:18] Ian Lurie: the head of the entire city guard
+[1:55:22] Unknown Speaker(s): is it the door?
+[1:55:25] Mossy Oak: Can you just tell them we're not home?
+[1:55:28] Ian Lurie: They said something about some kind of diplomatic meeting and needing to talk. I don't
+[1:55:39] Mossy Oak: Okay, fine. Mossy, I'll grab a cup of coffee and walk outside in her hilariously fuzzy footy slippers on top of the paws. Hello.
+[1:55:57] Ian Lurie: So standing there is a half elf, maybe middle aged looking. This is someone who just looks extremely solid, someone who never you know, just, they're just, they have a sense of calm about them that is so great. It's almost imposing. And you recognize him. You've only seen him from afar, but his name is Kalin Garrus. He is the head of the entire city guard. He's pretty famous in the city. He has seen the city through some pretty terrible times. And with him is a silver dragon born. And Kalin says, I was, yeah, here I'll James, good, good looking out. These are all in the phone book, by the way, Kailyn says. He gives a small bow. He says, Mossy Oak. I presume I am Kailyn Garris zavis sent me saying that there's some kind of diplomatic, highly diplomatic heads up. So he requests that my adjutant and I be permitted to sit in
+[1:57:20] Mossy Oak: just to observe, like I need you to not freak out about poke from Shadow Mirror. Can you do that?
+[1:57:27] Ian Lurie: I don't know what Shadow Mirror is, but I haven't freaked out in actually. No, he the Dragonborn says, Nah, he's good. He, he's already had his freak outs for the day, and Kalen says it's, it's fine. I'm I've been asked to be here, and we've been asked to observe.
+[1:57:54] Mossy Oak: Okay, come on. But if you freak out, I gotta send you home.
+[1:58:03] Ian Lurie: Uh, the silver dragon board says you hear that, sir, don't freak out. By the way, I'm uh, my name is yes, stilllis, that's the Dragonborn. They stick out a a claw to shake your hand.
+[1:58:19] Mossy Oak: Mossy extends a paw. We're gonna have breakfast. Do you like bacon? I'm
+[1:58:28] Unknown Speaker(s): not gonna turn down bacon. Okay,
+[1:58:32] Ian Lurie: you think of female Dragonborn? It's hard to tell with Dragonborn, but
+[1:58:37] Mossy Oak: it's not my business. What's in your cloak?
+[1:58:42] Ian Lurie: I'm sorry, what? No, he's thinking out loud again. So everybody kind of collects together in the meeting room. A breakfast is set out. Caitlin introduces himself, and Sorolla says, of course, I know you by reputation. You still says. You still actually doesn't say anything. You still stays one step, kind of back behind Kalin and very respectful the whole time. And the talks begin, we don't, I don't need to run through the all the details of this, but there are certain moments when you know RBG should probably be engaged. So for each of those times, I'm going to have you roll group, oh my god, I just totally lost the word. That's terrible insight. That's it. Group, Insight checks. So why don't you all give me an insight check for the first One?
+[1:59:48] Mossy Oak: One at 417,
+[1:59:59] Unknown Speaker(s): nine and 18. Okay.
+[2:00:03] Ian Lurie: 19, okay, so plenty more than enough, so Magog. Magog says, well, we wish only some form of influence in Sal Muir, and it doesn't have to be a great deal of influence, just enough that we know what's happening there. And there's no mystery for us, because it is the mystery that has led kazani to do some of the things that she has done. And she is young, but she is correct in being very cautious.
+[2:00:46] Mossy Oak: We've already explained to Sorolla about them being denizens of okay, cool, yeah,
+[2:00:52] Ian Lurie: um, and sororia says, I completely understand. But if you're going to have a foothold in samure, then we must have a foothold in Shadow Mirror, and they go back and forth like this for a while, and they seem to be getting a little frustrated. You can tell they're getting frustrated, let me put it that way, and you're starting to feel like someone needs to step in, someone needs to say something, or even maybe just say it's time for lunch. But you need to, you need to do something to to kind of slow the discussion.
+[2:01:26] Mossy Oak: It's time for tiny cakes. Oh
+[2:01:28] Unknown Speaker(s): yeah, bring in, like the platter of charcuterie
+[2:01:33] Ian Lurie: board, okay? And one they, you can see there's still some simmering discontentment between the two of them, particularly soroya, seems very perplexed, vexed. Vexed is the better word you can sort of tell, you know, with those roles, you can tell she's kind of like, well, you know, of course, I understand what you want, but, you know, she's not understanding what we want. You know, that's kind of the sense you're getting from her is sort of low level frustration, like, Well, what do you know? How do we do this? Then, how do we make sure that I you know? Anyway, she just seems frustrated
+[2:02:14] Slik Rik: as Drak and Mossy get things kind of broken up for lunch, Richter's gonna grab two beverages, take one over to saroy and just kind of lead her as if he's walking talk. And just say, hey, you know, I get what you're saying, and I understand why you want to put hold and shadow mere, but understand that what happens in some your can have supreme effects in shadowmere, where, unless denizens of shadowmere Come over, there may not be that much effect. So you can see how you're asking for a foothold in their realm seems can seem to be an act of aggression versus what they're asking for.
+[2:03:02] Ian Lurie: Give me a persuasion check, sure, see if you can be slick.
+[2:03:11] Slik Rik: 23
+[2:03:12] Ian Lurie: shit. Yeah, okay. She says, Thank you. I do understand that, but thank you for reminding me. I wonder we're more worried about knowing what's going on there than we are about a true foothold,
+[2:03:30] Slik Rik: and that's why having someone from shadowmere on the council will be great, because they will also be in contact with kazani Noctis and people who are running things for her, you'll be able to use them as a go between and show how much that you trust them and how much that you're willing to show them. Hey, we're all in this together. And again, if you need anyone as a go between, you can always call on us, and we've built that trust with you. We've built that trust with them, where, if we have to, we can go talk to them as well. But again, the most important thing is trust.
+[2:04:09] Unknown Speaker(s): Sango comes in and offers some soup. Milady, would you like some soup? We haven't formally met, but my name is Sango. Would you like some soup?
+[2:04:18] Ian Lurie: That is wonderful to meet you. Sango, no, I'm I'm okay, okay,
+[2:04:24] Unknown Speaker(s): I do. You know, I couldn't help but overhear your conversation, because I was eavesdropping. But it sounds like what you want is like an ambassador kind of a thing, right? Like, because every city state kind of has ambassadors, so why don't you just ask her, them for like, you can have an ambassador live there and and whatnot, your
+[2:04:43] Mossy Oak: ambassador is going to suffer ill effect if they're not prepared to go though. So keep that in mind, it has a a physiological and psychological effect on someone being there.
+[2:04:58] Unknown Speaker(s): Yeah, the food tastes like crap too. But also, yes,
+[2:05:01] Ian Lurie: I've heard that. I've heard that you've given me an idea, and I think, I think it will be agreeable for both parties. So the snack break wraps up, and you guys all sit down again. And Soraya says to Magog, I understand what it is that you're saying. I don't think we're ready to exchange ambassadors yet. But what if we exchange spies? And Magog kind of raises an eyebrow and says, I see, basically they say, Okay, I see what you're saying. Really what we want to know. We just want to know what's going on in each side. And we're going to be spying on each other anyway, so this way, we're going to do it and be obvious about it. And that seems to make Sorolla much happier. The next sticking point is around the seat on the combine. And they get past that pretty, pretty easily. It's it's not that, it's not that big a deal. Then they start talking, though, about trade, and Magog says that, you know, part of the goods that they want to trade are drugs. They make some exceptional versions of some of the drugs that are consumed in cellmur, and they want to be able to sell them. And everybody knows that they're taking those drugs in cellmur. And in fact, they're not even illegal in selling her and Sorolla, you know, for a minute that's, that's a hard No. But then Sorolla brings up the idea of, okay, let's do that. But there has to be a certain amount, and we have to get, you know, we have to be able to tax your sales of drugs and all this stuff. But again, they sort of just get stuck on the numbers. So you can tell this time again it's easier this time, you can tell that they're sort of hitting a point where they're really not, you know, there's nothing to be gained by them continuing to discuss or, you know, or someone needs to bring them an idea. What if
+[2:07:18] Mossy Oak: we brought a a tier. So at first there's a very high tax from salmiur, but as it becomes viable and stable, we set out a road path to bring that tax down.
+[2:07:33] Ian Lurie: Give me a either a persuasion check or a straight up intelligence check, either one. So I'm
+[2:07:42] Mossy Oak: going to go with intelligence. No, that's a 10.
+[2:07:48] Ian Lurie: Okay, well, that's not terrible. They start thinking, you know, that basically gets into the maths. You stop them, you give them enough of a pause that they stop for a second, and they figure out how to basically do a sliding scale. And again, I'm not going to get all the way into the ridiculous details of
+[2:08:11] Unknown Speaker(s): it all. Jack's Jack's gonna kind of like, as he's listening to just just to make sure that propose a kind of like sample testing to make sure that what they're bringing in, oh yeah, is either like, like, the least detrimental, or like, or if something goes wrong, we already know what what's been tested, yeah, so it's not automatically blamed on the drugs, it's, let's go
+[2:08:44] Mossy Oak: for a harm reduction model. Yeah, yeah.
+[2:08:49] Ian Lurie: Okay. One more. One more insight. Check from everybody,
+[2:08:58] Slik Rik: 1730, 20, okay.
+[2:09:04] Unknown Speaker(s): 10. 10 and a 29 Okay, nine, you see,
+[2:09:13] Ian Lurie: yes, still is kind of starting to go like this. And you realize it's been, it's been like three hours, and maybe, maybe there should be sort of a larger break.
+[2:09:26] Unknown Speaker(s): I had the kitchen stuff,
+[2:09:28] Mossy Oak: larger break. And I will, with Rikki, run two Lumpkins and get a sandwiches. Hmm, nice.
+[2:09:41] Ian Lurie: Sorry. Okay, so while you're doing that, you guys are, you know, getting things set up. I'm assuming, are most of you just hanging around in the room, or,
+[2:09:53] Mossy Oak: well, I stole Richter. You
+[2:09:55] Ian Lurie: stole Richter? Yes, yeah.
+[2:09:58] Unknown Speaker(s): Greg and is kind of the sort of de facto additional bodyguard for sorolle,
+[2:10:03] Ian Lurie: so Cregan, you stilllis comes over to you and and says, retainer, huh, I'm sorry. What? Sorry. I don't mean to presume, but you got kind of the same vibe that I do, which is, you know, you're, you're not quite, you're sort of an employee, but not quite an employee, like you're here just keeping an eye on things, but you're not quite sure what you're supposed to be doing. Sorry, sorry, just trying to strike up a conversation. I am totally sorry. I'll just go back over, over here.
+[2:10:43] Unknown Speaker(s): Oh yeah. I thought you were talking about that mouth thing that the dentist gives you. But
+[2:10:47] Ian Lurie: oh no, no. My tea, she kind of goes like this, my teeth are all good. Yeah. Do you have teeth?
+[2:10:56] Unknown Speaker(s): You know? I don't know. No such there's such a creeping answer. Yeah, right. Anyway, yeah. So something like that, I got these boss men that I work for, and, you know, they're, they're, they're, you know, they're, they're boss, bossmen. They're, yeah,
+[2:11:18] Ian Lurie: well, good. I'm, you still as I'm, uh, I'm second in command for the captain of the guard. So anyway, nice to meet you.
+[2:11:28] Invisango: That's got an important title. I'm My name is Craig, and I work for these guys. And, you know, kind of pretty much do what, what they tell me do. And I kind of fix the ship. You know what I should show you, the suggestion box I made one time. It was a real big hit YouTube.
+[2:11:44] Unknown Speaker(s): And, you know, every once a while I get this voice in the back of my head that's telling me something. I just have to ignore it. So, so, yeah, I should show you the suggestion box in time, because it's some of my my better work. I'm pretty proud of it.
+[2:11:58] Ian Lurie: Sounds. Sounds cool. Yeah, I gotta say, I know all you guys. And little hurt, I'm a little star struck here. I mean, you're, you know, notorious. RBG, I mean, you've done so much for the city. So anyway, it's an it's an honor to be here and meet you
+[2:12:17] Unknown Speaker(s): all. And yeah, me too. It's an honor for me to be here too, because, you know, eventually I'm gonna get paid these guys. They're not very timely on their their payments, but eventually, you know,
+[2:12:28] Mossy Oak: you're still paying off the deposit, the things you broke in the tree house.
+[2:12:33] Unknown Speaker(s): Yeah, um, Drak is gonna invite soroya, aroya and Magog to do a tour of the grounds. Okay? Like check out the garden. Check out the menagerie. If they're interested. More go into the history of a tree, but kind of get it. Get them out into fresh air if maybe likes that kind of thing.
+[2:12:55] Ian Lurie: When you go outside, the twins kind of come over to you, you know, as you go around one side and they, everybody loves the grounds like they so enjoy it. And Sura comes over, and you know, you give her a small piece of meat, as you often do when they come over to you. And then echo comes over. And when you hold your hand out with the meat, he actually shies away. He actually kind of tilts his head and shies away a little bit, and then sort of you slowly coke you can get, actually, give me an animal handling check,
+[2:13:30] Unknown Speaker(s): 27
+[2:13:31] Ian Lurie: okay, you coax him back over. No problem. So you're not sure what that was. Are
+[2:13:36] Unknown Speaker(s): you doing the same thing with the food? Like just food tastes weird. Actually, I'll burn an animal. I'll speak of animals. Okay. It's kind of kind of like, Hey buddy, how you doing?
+[2:13:49] Ian Lurie: I'm I'm okay.
+[2:13:52] Unknown Speaker(s): Does the meat taste weird? No,
+[2:13:57] Ian Lurie: you smell weird.
+[2:14:00] Unknown Speaker(s): I do. Yeah. Like, like, differently, like, what do I smell like now? Um, like,
+[2:14:19] Ian Lurie: like, sharp, like, sharp smoke. I um,
+[2:14:30] Unknown Speaker(s): thank you for letting me know I didn't I didn't perceive that on myself, and I'm really, really happy that you were able to tell me how I smelled. Thank you. Please let me know if I start to smell better.
+[2:14:45] Ian Lurie: Okay, thank you. You smell. You smell okay, now,
+[2:14:50] Unknown Speaker(s): good. Thank you. Thanks for the meat. It's good. Love you, dude. You too. All right, um, I I go into like, like, how we that? Like, how they we I leave. I edit the story of how I found, how I got them, like we were doing a robbery on that side of the house.
+[2:15:18] Ian Lurie: Sorolla loves that part. Magog asked tons of questions about the nature of this place, like, how is it created? You know, asking, it's, like, fascinating. So you have an entire extra dimensional space behind this, and this grew out of the ground. That's, that's amazing. I've never seen anything like this in all my years,
+[2:15:43] Unknown Speaker(s): I kind of go into the quick version of how we met the ants. And then, you know, I said I have other as part of what I want to do is I want to start building these, these living networks.
+[2:15:59] Ian Lurie: Yes, yes, yeah. We have something similar. We do. It's fungus, it's not trees, but we do have something similar in our world.
+[2:16:07] Unknown Speaker(s): I will have to, I will have to do some research on that, because that is phenomenal.
+[2:16:14] Ian Lurie: Most from the prime find it disturbing, but yes, it would be worth study. I think Jamie is either being abducted by a monkey or is trying to show us something.
+[2:16:32] Unknown Speaker(s): Maybe one of the monkeys took the laptop.
+[2:16:34] Ian Lurie: Took the laptop. That's got to be it. I'm not sure what I'm looking at there, but sorry,
+[2:16:40] Mossy Oak: I thought I was I thought I was off of mute. I wanted to show you around the tree house. Oh, awesome. We're in the highest balcony right now, which I can't see down there, but that's where the sloths live.
+[2:16:56] Ian Lurie: Awesome. Oh, I can see the stairs now. That's
+[2:16:58] Unknown Speaker(s): Yes. Oh, my God, that's cool. I want one,
+[2:17:03] Ian Lurie: and it's so appropriate for this whole discussion. So Richter, Richter and Mossy, you're walking down to Lumpkins. You're just getting a bunch of sandwiches. When you get there, Lumpkin is thrilled to see you both. Of course, you just get a big tray of sandwiches. Do you make small talk or anything? Are you just looking to get back up
+[2:17:25] Unknown Speaker(s): Absolutely. Oh, okay, all right.
+[2:17:29] Ian Lurie: London says, Oh, it's so good to see you. You know it's been, it's been so long have you been? How your travels gone?
+[2:17:38] Mossy Oak: We went to a land with no bacon. I do not recommend doing that
+[2:17:42] Ian Lurie: sounds horrible. There's
+[2:17:44] Mossy Oak: actually like No, no colored food. Everything was gray, and it tasted like gray.
+[2:17:53] Ian Lurie: Gracious, that's, it's like, so it's, it was basically a place where people are punished, yeah, kind of I understand. I mean, I don't understand, but I do understand. I am a halfling, so I don't understand
+[2:18:08] Mossy Oak: Paul. And there was this thing, and people got zapped, and they went to this place, and there wasn't really labor or color
+[2:18:17] Unknown Speaker(s): or
+[2:18:18] Ian Lurie: so for you, this was Thursday.
+[2:18:24] Mossy Oak: I uh huh, sorry, I didn't this
+[2:18:26] Ian Lurie: kind of thing seems to happen to you all the time. Oh,
+[2:18:29] Unknown Speaker(s): okay, yeah, yeah, yes, I think
+[2:18:32] Mossy Oak: it was Tuesday, but yeah.
+[2:18:34] Ian Lurie: Ah, sorry, my bad. Wrong day of the week. Um, he he's getting on your sandwiches organized while he's talking to you. And it's always amazing to watch him, you know, a true craftsman, right? He's not doesn't even realize what he's doing. He's putting the sandwiches together, and he whips up a platter of them. Says, well, please tell the rest of your friends you know. Richter, it's great to see you again. Tell everybody else. I look forward to having them come down here and we'll see you soon.
+[2:19:06] Slik Rik: As Richter's holding the tray, he's just bear with me. Would you mind just taking the little piece and putting in my mouth? I want to test something.
+[2:19:20] Unknown Speaker(s): Okay.
+[2:19:21] Slik Rik: Does Richter also taste ash and fire and brimstone?
+[2:19:28] Ian Lurie: You get faint notes of smoke? Yes, and ash definitely. Mossy
+[2:19:34] Mossy Oak: is gonna raise an eyebrow and take a little bacon rose and put in her own mouth.
+[2:19:39] Ian Lurie: Yeah, maybe you're not sure, Ashley, it almost, when you bite into it, it almost, it tastes like ozone, almost,
+[2:19:56] Slik Rik: kind of like I never want to Go to Shadow Mirror again.
+[2:20:02] Unknown Speaker(s): It's, freaking awful.
+[2:20:05] Mossy Oak: Okay, once we're out of the shop, though, as we're walking back, I am going to so notice twice now, and I just want to make sure everything's okay and you're good with it. But when we've come into a real rough situation, your eyes have gone black for a second.
+[2:20:22] Slik Rik: My eyes have who in the where? Now
+[2:20:24] Unknown Speaker(s): your eyes went black.
+[2:20:27] Slik Rik: That's not possible. I Are you sure you saw that?
+[2:20:32] Mossy Oak: Oh, okay, Jamie might be mistaken.
+[2:20:35] Slik Rik: No, no, no, no, Jamie's not mistaken. Richter has no idea.
+[2:20:41] Mossy Oak: Okay, yeah, so twice now, um, when we've been in a in a real rough situation where things look a little little dire, your eyes have a flickered black before you've done incredible things, like it was right before you sent away the the boss demon, he was it was fighting the twins. But if I thought you should know
+[2:21:05] Slik Rik: that I, I It's not that I don't believe you. It's just not there's, I did notice it. It's not anything I'm doing on purpose and like it. There's no like, gaps in memory. So
+[2:21:19] Mossy Oak: guys and I look at them a lot, um, I don't know if it's related to the armor or something we need to keep an eye on, but so you know, and I tell them about the two time has happened, the circumstances, everything else.
+[2:21:35] Slik Rik: This is what I want you to do, yeah, tell Drak, tell Sango, tell Craig, have them also watch for it too. Also tell Drak he knows which arrow he knows what to do if I flip
+[2:21:55] Unknown Speaker(s): Richter Marie,
+[2:21:57] Slik Rik: no, I'm just saying I'm just saying it. I'm not noticing these, these black eyed blackouts and Drak and I had a drunken conversation once where we both pledged, if one of us turns of
+[2:22:11] Mossy Oak: everything around them, you remember,
+[2:22:14] Slik Rik: I remember that big guy was in there, and all of a sudden I just, I, since he was one of the undead creatures, and I was just like, I need you to send you away like I I don't have any blackout moments, which is, again, why I'm just, I have no idea, okay. But again, track knows it was a drunken conversation. I'm sorry I didn't tell you about it. But he said, if he has anything where he turns he wants me to and I said, You know what, man, you too, because I trust you, and that's exactly how I said it. And I'll have one more, so hard
+[2:22:50] Mossy Oak: to kill. It'll take all of us.
+[2:22:53] Slik Rik: I mean, all we have to do is call some of those fake creatures and their cousins, and we don't have to do any of the work the
+[2:23:00] Mossy Oak: whole there's a whole Fae family mafia of pigs ready to kill him.
+[2:23:06] Slik Rik: You would not believe some of the mail that I've gotten from them. It's supposed to be addressed to him, but they don't know that it's him.
+[2:23:19] Mossy Oak: Okay? Little peck on the cheek. We carry the sandwich back towards a
+[2:23:25] Slik Rik: Richter, even with all of his armor clanking and all the sandwiches, he just kind of skips happily,
+[2:23:35] Mossy Oak: little jaunty.
+[2:23:41] Ian Lurie: Um, so the rest of the day goes pretty pretty uneventfully. The sandwiches are a huge hit. Everyone enjoys them thoroughly. The afternoons, meetings go by pretty quickly. The next day, the plan right now is that the next day they're going to put all this to paper and sign it and move forward from there, there hasn't been a great deal of controversy. There's, you know, it's interesting how close these two cities came to an all out war, when really it's pretty easy for them to figure out how they're going to work together like they do. Each have things they can offer each other. You know, clearly, Sal Muir could send a lot of goods into Shadow Mirror as well. The biggest sticking points seem to be about kazani Behaving herself. You know, kazani not killing people arbitrarily. Kazani Maybe not being a crime lord for too much longer. You know, stuff like that. They're trying to figure out, but they think they figure out that, you know, the rough outlines of an agreement and enough to keep bad things from happening. So that night, they actually asked if they could have a get together, just like everybody sit down for drinks and not talk about diplomacy
+[2:25:00] Mossy Oak: for a few in the rooms ready for it. All right.
+[2:25:07] Ian Lurie: Do you guys want to do it in? Yeah, you want to do it in? Lady in the room, anything specific you'd like to do. Or do you just want to have kind of a regular everyone just sits down and enjoys some hail. Well, I think
+[2:25:18] Mossy Oak: we want to invite Roxy to be our guest bartender.
+[2:25:21] Unknown Speaker(s): Hmm, okay. All right.
+[2:25:25] Mossy Oak: And then there's some musicians we'd like to hire, saying, Go, if we let you play, do you promise to not do that thing where it sounds like you're murdering your violin?
+[2:25:42] Unknown Speaker(s): You can't see it, but I'm giving you the symbol for probably, maybe yes,
+[2:25:49] Mossy Oak: this invisible bastard. I'm gonna take that as a yes.
+[2:25:56] Unknown Speaker(s): I'm gonna, I'm gonna have to start carrying like, little bags of like, all purpose flour to just
+[2:26:02] Ian Lurie: throw on him. Yeah,
+[2:26:03] Unknown Speaker(s): throw on him.
+[2:26:06] Ian Lurie: So a couple hours later, everyone's had a chance to refresh and, you know, change into their evening clothes or whatever. You know, it's the after conference get together, right the after party. So Roxy comes drifting up, and she always get second looks. She's very well known in Aventine at this point. Obviously, there's only one of her. When she drifts into the bar, it's the first time you see Magog. Look surprised. Magog actually looks to does a double take. It's kind of interesting. Nothing, nothing hostile, just kind of like what Roxy comes
+[2:26:47] Mossy Oak: in, says, Roxy, a giant hug.
+[2:26:49] Ian Lurie: Yes, yes. Roxy says, Hello, dia, how's it going? It's so good to see you all. Oh, it's so wonderful. We have
+[2:26:56] Mossy Oak: so many important guests, and we have great snacks.
+[2:26:59] Ian Lurie: Oh, important guests. I'm sorry. I'm sorry. And kind of all the eye stocks sort of move around randomly and and she kind of does the, what you think is the beholder version of a bow, you're not sure. And then she, she says, Okay, let me I'll get to work back here. What drinks? What drinks? Give me some waters.
+[2:27:24] Mossy Oak: Oh, the Manhattans you make.
+[2:27:26] Ian Lurie: Okay? She she gets, she gets to work in Manhattan. No problem. So she gets to work and she's mixing drinks. Sango, why don't you give me a per Are you is single playing with someone else? Sango, are you gonna play with someone else or just
+[2:27:38] Mossy Oak: the other musicians that Sango played with before?
+[2:27:40] Ian Lurie: Okay, so Juan Tate's. Juan Tate's is there?
+[2:27:43] Unknown Speaker(s): Yeah, mom, Tates,
+[2:27:45] Ian Lurie: so give me a performance. Jackson, yeah,
+[2:27:48] Unknown Speaker(s): can I give a little guidance?
+[2:27:51] Ian Lurie: Yeah, absolutely. This is a perfect time for guidance.
+[2:27:57] Mossy Oak: I cast. Don't fuck up, okay?
+[2:28:01] Unknown Speaker(s): And guidance, that's d4 right? Yep, I've got a plus zero to performance, so that's great. But I do I get, I am proficient in the violin? Do I get proficiency bonus for
+[2:28:24] Ian Lurie: that? Yes. Do you would get your proficiency bonus then? Yes,
+[2:28:27] Unknown Speaker(s): okay, so then with, with that and Drax guidance, that is a 23 okay,
+[2:28:38] Ian Lurie: so you and Juan put together a pretty good, pretty good performance. It's very professional. Everybody's impressed. Soroya, even Soraya, who is kind of put off by the style, I think, a little bit, but even she kind of gets nodding in time. Magog is completely impassive. Does not seem to notice any I mean, yes, observes the music, but doesn't seem to really be that impressed you still is clearly enjoying it. She's tapping her, tapping her claws on the table in time, and everyone else just seems to, seems to enjoy you. Still is actually, would she do this? Yeah, she would do this. She said, she said, she leans over Mossy to you, and she says, I, you know, I don't want to intrude, but I've never had a chance to do this. I'm a pretty good drummer.
+[2:29:40] Unknown Speaker(s): Oh, get up there. I
+[2:29:41] Ian Lurie: would punch I would literally light myself on fire if I didn't ask, because it's RBG, and you could
+[2:29:47] Mossy Oak: not light yourself on fire, but get up there, that would be stellar. Okay,
+[2:29:53] Ian Lurie: okay. She, she looks over at Karis and Karis Kaylin, I mean, and Kaitlyn kind of goes, gives her the Are you serious? Look? And she she goes. She goes up there,
+[2:30:05] Mossy Oak: look, and then grab you still listen, drag on stage, as if you still didn't want to.
+[2:30:11] Ian Lurie: So this massive silver dragon born goes up on stage and no one has a drone. So she just takes, she just asks. She actually goes behind the bar and looks around for a minute. She finds a pan, and she joins the group, and she is, she is a pretty skilled drummer, and it puts it. They put together some pretty good music, and, you know, probably go on for a solid hour, and when they're done, she comes back and she is breathless. She is so happy. You can just tell she's like, beaming. She's like, you can just, she's not saying it, but you can just practically hear her saying, I play for notorious. RBG, I just play for notorious. RBG, she doesn't even care about Sorolla. She's like, I just played for notorious. RBG, this is the best thing ever
+[2:30:59] Mossy Oak: gonna give you, still as a fist bump. She comes down,
+[2:31:04] Unknown Speaker(s): Jack's gonna go behind the bar real quick, and I want to take use the the summer, the the fresh some Ian coffee that we just imported, add some vodka, like a simple syrup, and basically make some espresso martinis.
+[2:31:23] Ian Lurie: And I should point out you still is clearly an incredibly talented warrior. She has, you know, she's wearing mail. She has an enormous, great start on her back. So the whole thing is very, it's very strange to see this massive figure, this excited about this kind of thing, but she is clearly extremely excited and happy. So
+[2:31:47] Unknown Speaker(s): making a note by drum like so I'm going to go to soroya Aurora, his hand each, all, all the guests, each and Espresso Martini. Okay?
+[2:32:06] Ian Lurie: They all take them,
+[2:32:09] Unknown Speaker(s): kind of like, have Roxy like, next to me, like, so that she can learn how to how to make them. And just generally, Drax just wants to be social and just a little socially lubricated.
+[2:32:21] Ian Lurie: It works. Everyone's pretty happy. And the night kind of, unless there's something you want to you specifically want to do, the night kind of winds to a close, given how well things went, and thanks to singles roles, I would say tomorrow, you'll have advantage on one of the one of the diplomacy checks if you need to make one.
+[2:32:41] Unknown Speaker(s): Very nice.
+[2:32:46] Ian Lurie: And with that, Magog, Magog excuses himself and says, I'm sorry, but I I should rest before tomorrow. It's an important day. And Sorolla also says that that's probably a good idea. And she and Aurora get up and leave.
+[2:33:02] Mossy Oak: I'll escort My God back to their room, and I was wants to escort for him.
+[2:33:07] Ian Lurie: Okay, you guys want to do anything else?
+[2:33:13] Unknown Speaker(s): Jack's gonna check the around the chair the tree where the sparrows fell, to look, look, look around.
+[2:33:25] Ian Lurie: Nothing unusual there. Give me a perception check. 21 Yeah, no, okay, couple of feathers, you know. I Richter as you go to leave Roxy, you feel an eye stalk on your shoulder, um, and Roxy speaking in her normal Beholder voice, not her, in your mind, not her, her Roxy voice says, um, are I just want to check. Are you all okay?
+[2:34:15] Slik Rik: What are what are you feeling? What are you sensing? I
+[2:34:20] Ian Lurie: it's almost as if a shadow clings to you, not not of the grave or the abyss, something ancient and tyrannical. You've been marked by something, something vast and vast and vengeful. Beware. I know you've made your enemies, but I've not seen like
+[2:34:47] Slik Rik: Well, that might be the reason why food is tasting like shit lately, we just spent more time than we wanted in shadow fell, and We might be no pun intended, feeling some fell effects that
+[2:35:07] Ian Lurie: Roxy goes, I see what you did there, but in your head you hear that could very well be it. Just be mindful. That's what I would say.
+[2:35:19] Slik Rik: We will thank you. Thank you for the warning, right?
+[2:35:22] Ian Lurie: Thanks, Diaz. This was really fun. I got to get back. I need to get some sleep, some shut eye eyes. You know what I mean?
+[2:35:34] Slik Rik: Over the party line, Richter tells everyone. Over the party line, Richter tells everyone what Roxy just told him.
+[2:35:44] Mossy Oak: Okay, I'll be right down. Don't let Roxy leave yet. I want to get
+[2:35:50] Ian Lurie: a hug. You make it down a ton Roxy gives you a hug all the eye stocks. It looks horrifying to anybody else. It looks like a face hugger, a giant face hugger, has grabbed you.
+[2:36:02] Mossy Oak: Cast message, you you smell it or see it. What is it? Oh,
+[2:36:09] Ian Lurie: this is, this is the kind of sense that I think only my kind have, maybe the illithid as well. But, um,
+[2:36:20] Mossy Oak: no, Kiki was acting weird this morning too. I think she can smell
+[2:36:23] Ian Lurie: really, yeah, yeah. No, that there's, there is, well, maybe we all sense it differently. Might be a better way to put it. There's just something not quite right? I don't know what it is. It's not. I don't feel like something's going, you know, something bad is going to happen right now. I just, it just feels like, and it, it very well may be because you were in the Shadowfell. How long were you there?
+[2:36:52] Mossy Oak: How long were we there? Four days. No,
+[2:36:54] Ian Lurie: it was like a week. Actually, a week. Okay, she says you might want to seek I some kind of purification ritual.
+[2:37:08] Mossy Oak: Gotta go turn to one of the god people, yeah,
+[2:37:10] Ian Lurie: maybe in a temple. So
+[2:37:15] Unknown Speaker(s): it's probably about the I walk in, yeah, just check to see if the the birds were, something goes up with the birds again. And Echo said, I smelled sharp, and like he he recoiled against me for a minute, like he was not comfortable with me being there. He said his words were, I smelled sharp,
+[2:37:42] Mossy Oak: Mossy. I'll shove a nose and drag snarpi. You smell normal that way. Sometimes you smell very sharp, but that one smells same,
+[2:37:51] Unknown Speaker(s): yeah, just a lot of little things are just off. Okay,
+[2:37:56] Mossy Oak: oskiky, I think she's already asleep, but yeah,
+[2:38:02] Ian Lurie: actually, you hear her voice your head. In your head. Did I hear my name?
+[2:38:06] Mossy Oak: Hey, yeah, come here.
+[2:38:08] Ian Lurie: Oh, hey, boss flies over. Lands.
+[2:38:13] Unknown Speaker(s): No, no, it's all
+[2:38:16] Mossy Oak: sharp or anything.
+[2:38:19] Ian Lurie: She kind of goes over to drag and she goes, gives us absurdly long, theatrical sniff. Nope, all good,
+[2:38:30] Unknown Speaker(s): okay, thank you. Yeah,
+[2:38:36] Mossy Oak: I might have to go and talk to a priest. Sorry. I
+[2:38:44] Ian Lurie: Yeah, so you all bed down for the night, I'm assuming, and you get a good night's sleep, nothing. It's a very uneventful night. You get up the next morning and the tree's on fire. No, I'm kidding. You head up the next morning and everything's fine. You get everybody together, the discussions start again. And why don't you all give me two insight checks? Remember, you can have it. You can all get advantage on one of them, if you want to. You should just do one of them with advantage. Let's put it that way.
+[2:39:36] Mossy Oak: Okay, 21 and 12, okay,
+[2:39:38] Slik Rik: 26 and 16, okay.
+[2:39:43] Unknown Speaker(s): 21 and 14 for the first one, and insight, yeah, uh, 23 and 22 on the second one.
+[2:40:01] Ian Lurie: I don't know why I bother. This is Team insight. You all as the day goes on and they're working out the writing, and it takes a long time that, you know, the day before you're thinking, Oh, this is cool. We'll be done by mid morning, because all they gotta do is write this down. No, like, every word makes a difference, right? And you know, ustillus is there, and she's trying not to fidget, but it's getting ridiculous, Aurora too. And by the way, the night before Aurora and you still, they were chatting with each other quite a bit, clearly talking shop. But you realize, as they're doing all this, that Magog is aware that kazani is really way out of her depth. And you this finally dawns on you as the day is going on, is that kazani is really an exceptionally powerful crime lord, but shadowmir is not a city, and you don't know what that implies for the long term, but for now, Magog is doing a masterful job of managing this process, not giving away too much, and doing just enough to keep saroya happy. And saroya is also a masterful diplomat, but Magog is really, you know, on another level, almost like she has centuries of experience. I don't know, but the day goes pretty well. You're all getting ready to wrap up. You've had lunch, you know, and some of the weird tasting stuff, but nothing too nothing too terrible. And everybody give me a charisma check.
+[2:42:00] Slik Rik: I rode my crap, but I'm gonna burn my daily heroic inspiration, yeah. Oh, that's so much better. 19, okay?
+[2:42:14] Unknown Speaker(s): Mossy, a five, seven and 10, okay?
+[2:42:22] Ian Lurie: Drak, you're you're muted,
+[2:42:26] Unknown Speaker(s): 22 okay.
+[2:42:28] Ian Lurie: Um, so Mossy, Sango and creegan, you're sitting there, and you think it's because you're just really tired, um, towards the end of the day, but you know, you're kind of rubbing your eyes literally. And you see everybody's doing that a little
+[2:42:42] Unknown Speaker(s): bit. Can I Rik on that? Yeah, I'm gonna, I'm gonna use my heroic inspiration from last session. Okay, yeah, it's not much better. I
+[2:42:55] Ian Lurie: feel pretty damn good when I'm making people do heroic inspiration on charisma checks, where absolutely nothing is happening. So,
+[2:43:02] Unknown Speaker(s): so, so, so Craig went up from seven to 10, okay, and Sango went up from 10 to 16. Okay,
+[2:43:15] Ian Lurie: okay, well, then actually, Mossy, it's just you. You are you just, you know, you're doing what cats do. Sometimes you're getting a little distracted, right? And you rub your eyes, and when you take your hands away, you're someplace else. You're standing on that same dark Lake, and the rest of you without rubbing your eyes. It's just like someone snapped their fingers. And you also are standing on this dark, oily Lake, and you're each on a round stone, and you can see each other, and there's some kind of indirect light filtering down from above, so there's this kind of reflection on this deathly still water, and you can see each other, but it's like you're all backlit no matter how you look at each other, and these five malevolent stars just flare into view really brightly right above You. One green, one red, one white, one black. You one blue Hello.
+[2:44:26] Mossy Oak: Is the Power Rangers
+[2:44:27] Ian Lurie: just searingly bright, and you hear this sibilant voice whispering, and it just echoes in your soul. It says you thought you won mortal idiots all of you before I plan to merely, before I plan to merely escape my prison. Now I shall carve my likeness upon the very rock of your world. My armies will raise praxia from pole to pole, and you, you shall be my banner. You should have killed me when you had the chance. And you feel this searing heat on your chest, absolutely searing. And you look down, and these five points appear on all of your chest, with little wisps of smoke coming up from them, one red, one green, one white, one blue and one black. And there's this snap, and you're back in the room, and you still drops her broadsword and says, and just shrieks for you, my queen, and leaps at soroya, so everybody roll initiative out of a match.
+[2:45:41] Slik Rik: I have no idea why I got so excited about tea and not cursing us. But damn you. Ian, thank you.
+[2:45:48] Mossy Oak: It's a 15,
+[2:45:50] Ian Lurie: okay. I rode like shit. So
+[2:45:52] Unknown Speaker(s): 218, okay. Oh, shit. Dragon. Reagan, you had a natural one for negative two. Okay, no fucking joke. Thing that did better than go got 2323 total.
+[2:46:18] Ian Lurie: Okay, I'm sorry, guys. Can everyone else give me yours as well? Again,
+[2:46:23] Unknown Speaker(s): 23, okay, 1518,
+[2:46:32] Slik Rik: how does a dungeon master deal with a negative
+[2:46:36] Ian Lurie: you just go last? I could do something truly awful, like, you know, you poop yourself and stand there for an hour. But we're not going to do that.
+[2:46:44] Slik Rik: Be hilarious. You just, you just miss your first turn.
+[2:46:47] Ian Lurie: No, we're not going to do that.
+[2:46:52] Unknown Speaker(s): Okay, so now we've got
+[2:46:56] Mossy Oak: Craig and tripped, hidden his shell, forgot where he was,
+[2:47:00] Unknown Speaker(s): took a nap, what? Slipped on soup.
+[2:47:05] Ian Lurie: Okay, so here's where we're at. So Sango and Drak, you're going first. You stilllis has drawn this gigantic, broad, great sword and is leaping across the room. Inc, with incredible agility totally belies her size, directly at soroya, who just looks stunned, shocked. She's just like what Nobody's expecting this Karis Kayla is just standing there. He's leapt up from his chair, but he's kind of frozen in place, you know, as or Kalen, sorry, I don't know why I keep calling him that I'm getting my own names wrong. Now, Kailyn is kind of leapt up from his chair and is reaching for his blade, but he's not even sure what to do. Mossy, give me a quick perception check. 124
+[2:48:02] Unknown Speaker(s): Kiki,
+[2:48:04] Ian Lurie: her eyes have turned blazing red, and she is stooping like she's going to attack Magog. And in your voice, you hear her head saying for you, my queen, as she swoops towards Magog. So, okay, Sango and Drak, you go first. This is pretty small room. I mean, you're all within reach of each other. There's nothing real intricate as far as movement.
+[2:48:35] Unknown Speaker(s): Yep, Sango wants to do pop, pop. What's her name?
+[2:48:42] Ian Lurie: Yes. Tell us Yes.
+[2:48:44] Unknown Speaker(s): Uh, shit, that sucks. That's a 15 on the first one
+[2:48:49] Ian Lurie: that misses.
+[2:48:52] Unknown Speaker(s): Ooh and a 28 on the next one
+[2:48:54] Ian Lurie: that hits.
+[2:48:55] Unknown Speaker(s): Okay, that is a that is a 12 points of damage, okay? And I can't think right now, stunning strikes. Sorry, yeah,
+[2:49:20] Ian Lurie: do I get a save? I can't remember. Yep,
+[2:49:23] Unknown Speaker(s): 18
+[2:49:30] Ian Lurie: con she is stunned. She just stops where she is. She's kind of reeling back, you know, clearly still ready to strike, but unable to unable to move right now. Perfect.
+[2:49:49] Unknown Speaker(s): I'm sorry. Go ahead. No
+[2:49:50] Ian Lurie: track. It's i Well, Sango, do you do anything else? Or is that it?
+[2:50:00] Unknown Speaker(s): I think I can do I it's probably not a good idea to cast darkness in here. So I think I will just get between, you know, the Dragonborn and Sorolla.
+[2:50:22] Ian Lurie: Okay, yeah, Aurora is doing the same thing. Okay, Drak, your turn.
+[2:50:30] Unknown Speaker(s): I think so. Seeing saying, Go hit her. See the result, I'm gonna go for like, try to do like, a grappling disarm. So I'm gonna go for a grapple. Okay, my goal is to do the disarm, but I don't know how that works.
+[2:50:48] Ian Lurie: Okay, so, yeah, you Yeah, okay. Well, let's start with the grapple.
+[2:50:52] Unknown Speaker(s): And she's stunned. So, so would that be advantage?
+[2:50:57] Ian Lurie: It actually means you can just grapple her. She's not going to resist. Well, I used to, actually, you still have to. You still have to make a roll. Okay, so
+[2:51:10] Unknown Speaker(s): let's see here,
+[2:51:13] Ian Lurie: you replace an attack. So yeah, I just can't. Yeah, just give me a Give me strength or athletics or acrobatic. Strength or athletics? Yeah,
+[2:51:28] Unknown Speaker(s): okay, good. Better at acrobatics. I've got a plus 15.
+[2:51:33] Ian Lurie: You can only use acrobatics to escape a grapple. You can't use it to do a grapple. You have to
+[2:51:38] Unknown Speaker(s): use athletics. Yes, okay, so I've got a plus zero, so that's just a natural 18.
+[2:51:44] Ian Lurie: Okay, that's no problem. Um.
+[2:51:49] Unknown Speaker(s): So if they if I have a second attack, that would be like a rest the blade from her hand. Okay,
+[2:51:59] Ian Lurie: you don't, but you have her grappled. So next turn, you can try to you can try and target her weapon. Basically she will come on stun, but you can do that. Okay, so now we've got Richter, Richter and Aurora.
+[2:52:18] Slik Rik: Well, then, since still assists done and Drak has her grappled. I'm going to go ahead and try and take the weapon out of her hand.
+[2:52:28] Ian Lurie: Okay, um, so what you need to do is you need to give me. What are you going to try and do? You can try and damage her hand so she drops the weapon. You can try and just grab the weapon out of her hand. You it's
+[2:52:44] Slik Rik: a good ass question. I am going to try and, hmm, I am going to try and punch her hand to numb it enough that she drops the weapon. Okay, so
+[2:53:03] Ian Lurie: I'm gonna give you a few things that you have to do here. First, okay, give me an attack you're targeting her hand. So I'm gonna say that that's plus six over her AC. So give me an attack roll. I'm
+[2:53:27] Unknown Speaker(s): uh, attacks against them have advantage, by the way, yeah,
+[2:53:31] Ian Lurie: well, but it would have been disadvantaged because he's attacking a body part, which, if you, unless you have that skill you don't, you can't do so, okay,
+[2:53:40] Slik Rik: 19, okay,
+[2:53:43] Ian Lurie: you come down on her hand, but you it's not hard enough. She's she's got the sword, you know, she has the great sword and a two handed grip, and you give her a pretty good pop, but it's not quite enough to get her to let go of it. Aurora is grabbing Sorolla and just getting hustling her out of the room as quickly as she can this round. That means she's sort of gotten Soraya up. She's got Sorolla turned and she's steering her towards the door. They are not out of the room, right? Because it's like a conference room. You know what they look like, right? She can't just sort of run out of the room. So that brings us to 15 Mossy,
+[2:54:25] Mossy Oak: okay, I'm gonna use my, my freebie action, the party line, and say it's a possession. It's not them. Kiki's got it too. And then I'm gonna try and do it jump and, you know, to Maxi catch a bird with my beloved berry dragon.
+[2:54:43] Unknown Speaker(s): Okay, go for it.
+[2:54:44] Mossy Oak: Is that acrobatics or
+[2:54:47] Ian Lurie: no, that would be an attack. In fact, it would be a it would be a grapple. So it's just a strength attack against, against her attempt to escape.
+[2:55:02] Mossy Oak: Okay? So, no, that's a strength check. I don't want our strength check. What's strength attack?
+[2:55:09] Ian Lurie: Well, it's, no, it's, sorry, it's just strength. But if you have athletics, you can add that to the
+[2:55:14] Unknown Speaker(s): I'll do that then. Yeah.
+[2:55:18] Mossy Oak: Dirty 20,
+[2:55:19] Ian Lurie: okay. She rolled like shit. So she's like, for you, my queen, and he, you just got her completely wrapped up, and you have this infuriated. Just
+[2:55:34] Mossy Oak: she's like a white cat and a
+[2:55:35] Ian Lurie: Tasmanian, Tasmanian devil of a Fairy Dragon. Interestingly, she does not attack you. She is simply trying to escape your grip and get over to Magog. In fact, she seems to be avoiding attacking you. So, Cregan, it's Sorry. Go ahead, Mossy.
+[2:55:56] Mossy Oak: No, just you're
+[2:55:57] Ian Lurie: okay.
+[2:55:58] Mossy Oak: My very angry cat who's not trying to attack me.
+[2:56:01] Ian Lurie: Got it. Got it. So Cregan, what are you gonna
+[2:56:06] Unknown Speaker(s): do? Who's who's who's in the room? Everybody, no
+[2:56:16] Ian Lurie: one has left yet. Okay,
+[2:56:23] Unknown Speaker(s): I don't know. Well, I'm gonna cast sleep.
+[2:56:31] Speaker 1: Okay, at Fifth Level, okay, on how many hit points, that's the that's the thing,
+[2:56:42] Ian Lurie: yeah, how many hit points can you target?
+[2:56:47] Unknown Speaker(s): Five, d8 plus five, d8 plus 1010, d8 that's 15. D8 Okay,
+[2:57:01] Mossy Oak: Jesus,
+[2:57:03] Unknown Speaker(s): that's a lot. That's Fifth Level, 67 hit points.
+[2:57:09] Ian Lurie: Okay, and are you targeting anyone in particular, or, yeah,
+[2:57:13] Unknown Speaker(s): our dragon porn, Jesus, easy.
+[2:57:18] Ian Lurie: It has no, no effect on you. Still is
+[2:57:22] Unknown Speaker(s): okay. I was afraid that was good.
+[2:57:24] Ian Lurie: Okay, so we're back around to the top. Sango and Drak,
+[2:57:32] Unknown Speaker(s): go for it. Sango, yeah, we're let's see what a second probably just
+[2:57:37] Mossy Oak: gonna you're in the club. It's going down
+[2:57:42] Unknown Speaker(s): another attack. Okay, that is a 30 to hit
+[2:57:49] Ian Lurie: that that hits the shit out of her,
+[2:57:52] Unknown Speaker(s): or 12 damage plus stunning strike. Check her, because
+[2:57:56] Ian Lurie: she's grappled right now.
+[2:57:58] Unknown Speaker(s): Okay, so quill damage plus stunning strike.
+[2:58:06] Ian Lurie: And what's the Save again? I'm sorry,
+[2:58:09] Unknown Speaker(s): 18, come on. Okay.
+[2:58:12] Ian Lurie: She does save this time.
+[2:58:21] Unknown Speaker(s): Okay, so I'm gonna hit again. That is 29 Yeah, that that hits or 13 damage and another stunning strike,
+[2:58:35] Ian Lurie: she saves again, rolling much better, although it shouldn't take a dramatically good roll for her to save. I just, I rolled like shit first round.
+[2:58:46] Unknown Speaker(s): Okay, well, in that case, I am going to do an offhand attack with my bonus action. Okay, that's 18.
+[2:58:58] Ian Lurie: That misses,
+[2:59:01] Unknown Speaker(s): all right, and I'm done.
+[2:59:03] Ian Lurie: Okay, Drak, so Drak, you are behind her. Sango, you're kind of in front of her. Drak, you're behind her. You've got her kind of almost in a half Nelson. You're you're grappling here. She is incredibly strong. You are really struggling here. So what do you want to what do
+[2:59:33] Unknown Speaker(s): I think it makes sense if I took damage for this, but like, essentially, Like, arrests the blade from her hands. Okay?
+[2:59:43] Ian Lurie: So basically, what you're doing then is you're going to grapple the blade, and then next round, you do a contest of strength to see if you can pull the blade out of her hands. Okay, so you have to let go over and kind of slide around the front, and then you're going to grab the blade that's in her hands. So go ahead and do that as a grapple.
+[3:00:06] Unknown Speaker(s): All right, that's, uh, 19.
+[3:00:10] Ian Lurie: You out, rolled her. That's that strength check, and you still, yeah, you grappled her blade.
+[3:00:18] Unknown Speaker(s): All right? And
+[3:00:19] Ian Lurie: she's, you can see her face now, and her eyes. I mean, she is feral, like her eyes are gleaming red shirt, her teeth are bared. This is the exact opposite of the woman that you remember the night before, just happy out of her mind playing the drums and it's her turn, and as you do that, she opens her mouth wide and inhales, and you feel this blast of heat as she exhales her Breath weapon, which is a cone and gets you Sango, Aurora and Sorolla, all of you, so you all have to make DC. DC, 13 deck saves.
+[3:01:20] Unknown Speaker(s): Is she charmed?
+[3:01:23] Ian Lurie: No, no, it's not quite that, not quite that simple. I'm afraid,
+[3:01:30] Unknown Speaker(s): even with the plus five, that is an 11. Okay,
+[3:01:33] Ian Lurie: so you fail. I so Drak, you take 37 points of fire damage.
+[3:01:57] Unknown Speaker(s): Ouch. Sango got a 29 on his safe. Okay, so
+[3:02:01] Ian Lurie: you take half of that
+[3:02:03] Unknown Speaker(s): evasion. So, oh,
+[3:02:05] Ian Lurie: so you take none, actually, let's see it was the two of you. Aurora takes a full blast in the back, as does soroya In the front, but she's partly covered by the fact that Aurora has kind of thrown herself over her, and with that Mossy it is your turn.
+[3:02:33] Mossy Oak: Okay, my Fairy Dragon, right here.
+[3:02:36] Unknown Speaker(s): Go ahead. I'm sorry, real quick as a reaction, can I give resist elements to someone else. Can you
+[3:02:45] Ian Lurie: cast that as a reaction
+[3:02:48] Unknown Speaker(s): checking now?
+[3:02:50] Ian Lurie: And also, is it what's the what's checking? Okay, I
+[3:03:07] Unknown Speaker(s): Okay,
+[3:03:09] Slik Rik: no, that,
+[3:03:13] Unknown Speaker(s): okay, yeah. Um,
+[3:03:16] Ian Lurie: so Mossy, what do you you've got an
+[3:03:19] Slik Rik: doesn't Rik, there go before Mossy, I am
+[3:03:22] Unknown Speaker(s): sorry. Yes, you do. That's all good.
+[3:03:27] Slik Rik: Since we're trying shit, I'm going to try something. Richter is going to, once again, reach out to you. Still is his hand, but this time, he's going to close his eyes and cast remove curse and see if that helps.
+[3:03:46] Unknown Speaker(s): Interesting. Oh, damn, okay. I
+[3:04:01] Ian Lurie: yeah, I gotta go back to law school to figure this one out. You cast that on. You still us and
+[3:04:24] Unknown Speaker(s): it's she
+[3:04:29] Ian Lurie: she is about she is starting to lift up her blade and Drak. She is actually lifting you off the ground, like that. She is that much stronger than you, but you got a good grasp on it, so you know, you would still have a chance to rest the blade out of her hands. And then Richter comes over and casts remove curse, and her eyes go white, and she just collapses to the floor like, like a like a limp rag.
+[3:05:02] Mossy Oak: Don't lie, right?
+[3:05:05] Ian Lurie: Do you want to check
+[3:05:08] Slik Rik: unless her soul was,
+[3:05:12] Mossy Oak: I mean, yeah, I want to make sure she's still alive. So
+[3:05:15] Ian Lurie: you check her and she appears to be dead.
+[3:05:19] Mossy Oak: Oh, spare the dying. Okay?
+[3:05:25] Ian Lurie: Oh, my God, hold on. I got a screen cap. Okay, got it?
+[3:05:36] Mossy Oak: Throw the dying.
+[3:05:39] Ian Lurie: Okay, you cast spare the dying on her. She starts breathing. There's no other signs of any change. Her eyes remain white, but her chest is rising and falling slowly.
+[3:06:00] Mossy Oak: Oh, well, I have a Tiny Angry Fairy Dragon. Yeah,
+[3:06:03] Ian Lurie: very angry Fairy Dragon. She's kind of going, which would be cute, if it wasn't for what's been going on here. And she's still trying to get at Magog. And Magog is just kind of looking at her, not clearly, not, you know, not gonna, like,
+[3:06:20] Mossy Oak: personally, they were both just possessed by something and removing a curse killed our friend, but she's alive now. Yeah. Magog
+[3:06:28] Ian Lurie: nods slowly,
+[3:06:31] Unknown Speaker(s): curing wounds on Sorolla,
+[3:06:36] Ian Lurie: oh, curing wounds. Yeah, yes.
+[3:06:38] Mossy Oak: Could you book a he to sleep while we handle this?
+[3:06:44] Unknown Speaker(s): Greg, silver and removes curse.
+[3:06:47] Ian Lurie: No on Kiki. Okay. Kiki goes limp as a rag and okay. Now Kiki is also there with her little chest rising and falling slowly with her eyes to white. Kik I cheek, Kiki, no answer, just lying there.
+[3:07:09] Slik Rik: I just, I just want to point out that Craig got mad because Drak was gonna leave his churin in the shadow fence, and now Craig is just done. K, I, L, T, kilt, Mossy Turin
+[3:07:25] Unknown Speaker(s): with remove
+[3:07:26] Slik Rik: curse. Just want to point that out,
+[3:07:28] Mossy Oak: Greg and I need you to explain yourself right now, because my Fairy Dragon is
+[3:07:39] Unknown Speaker(s): I saw, I saw Richter do a thing
+[3:07:43] Mossy Oak: I would like to open hand smack.
+[3:07:46] Unknown Speaker(s): And I thought I would do the same thing, because that seemed to work.
+[3:07:54] Ian Lurie: He probably didn't see everything that happened there,
+[3:07:58] Unknown Speaker(s): but still, yeah, okay,
+[3:08:01] Mossy Oak: so open hand attack is what? Where do I? Roll back.
+[3:08:04] Ian Lurie: Yeah, make your roll. With that, the room goes horrifyingly still. You can smell burnt flesh and in the back of all of
+[3:08:19] Mossy Oak: your minds, 18. I don't know what my modifier is, but take some points, okay,
+[3:08:23] Ian Lurie: but in the back the room smells like smoke. The fight is over. Kalen is now on his knees next to still is trying to revive her. Just see what's going on. Magog. Yet, Magog is looking on hold, hold on, hold on um. Magog is just looking on, trying to figure out what's happened here. And in your minds, you hear these five whispers laughing at you, and that's where we're gonna end. The night
+[3:09:00] Mossy Oak: you killed my dragon.
+[3:09:03] Slik Rik: I I had two options that I was going to use. One of them I probably should have gone with, was casting protection from evil and good, or I removed curse. And I was like, this feels more like a curse, but that feels more like an ass choice.
+[3:09:22] Ian Lurie: Thanks. Ian, it is a curse. I will say that the curse is on all of you. So, yay. I That's why I had to play sort of lawyer there for a minute in my head and figure out, Okay, what's what does that all mean? That's why they are not dead, but they are somehow pickled. And I'd say that next time we play, we will have to figure that out. Two more slaps. Slap the DM, not the player,
+[3:09:52] Mossy Oak: slapping the player. Okay, all right,
+[3:09:56] Ian Lurie: just slap. Yes, slapping. Creak. I get it. Okay, so I get back from Newfoundland Sunday night before our game, 5050, whether I'll really be up for running something I desperately, obviously want to keep this storyline going. It's pretty significant. So let me just see how my travel day goes. That day I'm flying WestJet back, which means I could get back anywhere between Sunday night and the following Sunday night too, so that you know it's, it's absolutely the worst airline forgetting places on time. They're lovely otherwise. So yeah, hope that was fun for everybody.
+[3:10:39] Unknown Speaker(s): Yeah, was So
+[3:10:40] Mossy Oak: Craig and killed my dragon.
+[3:10:44] Ian Lurie: I love that. That's what everyone's taking away from tonight.
+[3:10:49] Unknown Speaker(s): I can't wait for the transcript of this to be released so and it covers the first 45 minutes of us trying to make a meeting.
+[3:10:56] Speaker 1: Yeah, yeah, yeah, yeah. Should be a pretty good
+[3:11:01] Unknown Speaker(s): one, but that is by far the best diplomacy ever, say, episode I've ever been involved in. So it
+[3:11:06] Ian Lurie: was a good one. Yeah, you guys, you guys. Hit all the hit, all the right points.
+[3:11:12] Slik Rik: I've never gone from triumph to tragedy more quickly than that fucking moment.
+[3:11:18] Ian Lurie: That's what she's been waiting for, seriously, that she was waiting for you guys to be in the room with Dragon folk, and she was waiting for a moment when you might not be totally aware of what's going on. Yeah, anyway,
+[3:11:35] Mossy Oak: kill a team. You're
+[3:11:37] Ian Lurie: gonna have to go kill a Tiamat
+[3:11:39] Unknown Speaker(s): run dragon. You're gonna die. All right, guys. Oh, good luck. Take care, very accurate guilty dragon.

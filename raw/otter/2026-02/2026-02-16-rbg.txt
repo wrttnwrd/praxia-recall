@@ -1,0 +1,801 @@
+# Ian's Meeting Notes
+# Otter recording 2026/02/16 16:55:15 (2h 55m) id iOn5CKOQDgLvDtMT9GYZnrt_n7Q
+# https://otter.ai/u/iOn5CKOQDgLvDtMT9GYZnrt_n7Q
+# Speaker-attributed transcript, verbatim. Raw source for the card at /items/otter/2026-02/2026-02-16-rbg.md
+
+[0:01:28] Ian Lurie: Ian how's it going? Can You hear me? I can't hear you.
+[0:02:07] Unknown Speaker(s): Hold on, just testing.
+[0:02:12] Ian Lurie: Yeah, my speaker's working. My mics working. Still can't hear you.
+[0:02:46] Mossy's gonna miss that darn Drak: Okay, I heard the recording. There we go.
+[0:02:50] Jamie Indigo: I can hear you now, perfect. Come here, take Yes, very graceful,
+[0:03:02] Ian Lurie: making his presence known.
+[0:03:08] Mossy's gonna miss that darn Drak: Anytime the camera's on, he's like, everyone must see how fluffy I am on
+[0:03:16] Ian Lurie: it. I really need is one monitor that's like 40 inches on a side for gaming, so I can have all my different windows open, yeah?
+[0:03:27] Mossy's gonna miss that darn Drak: But then you were to arrange them all in a single window.
+[0:03:31] Ian Lurie: That's true. That is probably that is a problem.
+[0:03:34] Mossy's gonna miss that darn Drak: Yeah, you're gonna go and hit like, expand, and it takes up the whole thing, and it gets, Yeah, apparently a Mac app. You can get to, like, make preset grids inside of it, but at that point
+[0:03:45] Ian Lurie: you can. I actually used to use one, but it wasn't. It wasn't worth it. It's, it's so much effort. You can now auto anchor windows in the Mac, but in on a Mac, but you can only do it, like two windows at a time. You know, left, right. Sorry, I'm driving for an hour and a half tomorrow to get a new bike, well, a used bike.
+[0:04:14] Mossy's gonna miss that darn Drak: I mean, it sounds like a very pretty bike. No, it's
+[0:04:18] Ian Lurie: a great bike. It's a surveil or it's going to be a foster bed. That's the way I look at it.
+[0:04:27] Mossy's gonna miss that darn Drak: This is like me looking at all the pit bull. So I brought it. It's like pitties and jammies. I We are weaning boo off of her steroids. Steroids are always fun, because it is like having a 80 year old with a mohawk who wants to change smoke Yeah, in the public restaurant and does not give a fuck yeah.
+[0:05:00] Ian Lurie: You ever watch land? Man,
+[0:05:02] Mossy's gonna miss that darn Drak: no, it just seemed like oil propaganda.
+[0:05:05] Unknown Speaker(s): No, it's, it's, well, it's, very well
+[0:05:10] Mossy's gonna miss that darn Drak: be wrong. I was judging about superstore too, because I thought it was going to be big box of ganda.
+[0:05:18] Ian Lurie: No, it is. I mean, it's about all the horrors of the oil industry, right? And you know, Billy Bob Thornton is this character who has to fix all the horrible shit that happens and do more horrible shit to make sure they make their money.
+[0:05:32] Mossy's gonna miss that darn Drak: There's the way of the white man's savior,
+[0:05:34] Ian Lurie: yes, but there is a, there's some stuff in it. There's a character in it, now played by Sam Elliott, who's supposed to be an 80 year old man. And he had an episode The lad the game, the one that we watched last night. He he becomes the Mohawk wearing 80 year old so it made me think of it.
+[0:05:58] Mossy's gonna miss that darn Drak: So JP, did we get to meet a new character tonight, we'll see
+[0:06:09] Speaker 1: that a story happened.
+[0:06:13] Ian Lurie: Yeah, things happened. There were, it was definitely. There were definitely things.
+[0:06:17] Mossy's gonna miss that darn Drak: Please tell me that you are stuck in a dragon's clue. Wake up with just your head sticking out and we've got to rescue the drag but plug.
+[0:07:05] Drak: Line, what I could have done this better. I could have done this better. I'm like, Why do I have to be so tired on
+[0:07:11] Ian Lurie: Wednesday, it was great. You did. You did great.
+[0:07:14] Mossy's gonna miss that darn Drak: It was, I just saw your come up with such good names for sessions, sir.
+[0:07:19] Ian Lurie: Oh, what's the name for this session? BBQ Ranger, short ribs. Oh, yes, I did see that. Okay, oh yeah, it's right there in front of me. Okay,
+[0:07:39] BBQ Ranger Short Ribs: also, so Ian and I talked about this. We are, I think we are officially deciding that because part of the crazy thing that happened last time was that I was kind of counting on the Bastion sanctuary to be able to use word of recall. It's kind of like my get out of get out of jail.
+[0:08:03] Sango / Cregyn: Free card of Dragon.
+[0:08:04] BBQ Ranger Short Ribs: Free card, however, however, we read it, and the rules are basically like, you have to be able to cast it to not be able to burn a spell slot.
+[0:08:19] Ian Lurie: Well, it's not quite that. It's you can use where to read. You can use it, but you must be able to cast it. Basically. What it gives you is the ability to use it without burning a spell slot. But you do have to be of appropriate level and an experience and class to actually cast a spell. Hey, Jimmy, consciousness would help too. I assume consciousness also helps a lot.
+[0:08:45] BBQ Ranger Short Ribs: Yes, hold on, hold on. I think I showed you all Kai made the mimic Valentine's
+[0:08:54] Sango / Cregyn: Day box. Oh yes. How'd that go over?
+[0:08:58] BBQ Ranger Short Ribs: He was like, he was, he was actually like, I can't believe he did people just like, wrote a box and put chocolate effect on, like, no effort into this.
+[0:09:07] Mossy's gonna miss that darn Drak: So, okay, not everyone is born a theater kid. I know it's in your DNA. It's in our DNA, right?
+[0:09:15] Sango / Cregyn: Yes, exactly. Some kids just do the minimal so that they because they know they're gonna get the same amount of Valentine's and they're probably gonna be CEO someday of something I don't know,
+[0:09:28] Mossy's gonna miss that darn Drak: didn't they do a study
+[0:09:29] Ian Lurie: on that? No, the kids who become CEOs don't get any Valentines. No, okay, I can tell you that from personal experience, and that is what it takes to become a CEO.
+[0:09:42] BBQ Ranger Short Ribs: So anyway, we changed the bass to the War Room, yeah, which is, which basically, remember, remember, Jack had this whole thing about he wanted to create, like a spy agency to aspire the maids.
+[0:09:55] Unknown Speaker(s): So we're basically doing the War Room. But
+[0:10:00] BBQ Ranger Short Ribs: building that idea was it I'm calling the hearth and honey, home.
+[0:10:06] Sango / Cregyn: Look homemaker service. No,
+[0:10:08] Unknown Speaker(s): we have the lady in the War Room. That's the pub. So, yeah, we have a war room and we have soldiers. It's led by a fifth level, a fifth level character, gloom
+[0:10:26] Ian Lurie: stalker, well, they're not soldiers, right?
+[0:10:28] Mossy's gonna miss that darn Drak: There is this the chart you sent earlier. It was Lilia, something. She's a fifth level. Gloom stalker, yes.
+[0:10:38] BBQ Ranger Short Ribs: And then she gets 10/3 level lieutenants, and then everything under is like a level one So,
+[0:10:50] Sango / Cregyn: but, yeah, anyway, the only thing missing from Drak repertoire is a is a woodland creature bark brothel at this point, like it's the only thing that's
+[0:11:03] Mossy's gonna miss that darn Drak: weird. You're weird. Funny. You mentioned that
+[0:11:05] Rikterr Shep'ard: crossover. He's had it before.
+[0:11:13] Mossy's gonna miss that darn Drak: Terrible at saving your life, great brothel.
+[0:11:20] Sango / Cregyn: Least you're a straight shooter, all right? You don't have any kids other than the twins that we know of, right,
+[0:11:28] Ian Lurie: that we know of, real GP or No, no, no, no, no.
+[0:11:36] Mossy's gonna miss that darn Drak: I cast Mori at a text paternity.
+[0:11:43] Ian Lurie: Okay, quick, quick recap where we left off last time you all killed a white dragon, and we're starting to feel pretty good about yourselves. When this red dragon showed up that was several orders of magnitude stronger than the white dragon. It's an ancient red dragon named Urus ghoul. And Urus ghoul proceeded to burn you, beat you, basically do all sorts of horrendous things to you as a party, starting with dropping a Meteor Swarm on everybody and then continuing on into attacking each of you, but particularly focusing on Drak. And as the fight proceeded, orish Ghoul focused on Drak downed. Drak picked him up and flew away with him, and that's where we left off. Last time the villain's discontent is damaged, but not destroyed and not immobile, has the ability to fly just fine. It got hit by one of the meteors. Suri is okay. Sura is okay because Drak fortunately had her run away from him at the beginning of the fight with the red Red Dragon, because otherwise the Meteor Swarm that hit you guys would have killed Surah instantly. So that was a good save on Drak Spartan. I just wanted to point that out. That's where he have left off. Oh, and that's right, and another member of the party has has shown up again, has returned, and I don't know if you guys know he's there or not, so you are on the battlefield. You are looking around in shock and disbelief, first of all, the destruction, second of all, at the fact that one of your member, one of your number, was just taken away like you've never had that happen before. Usually you're fighting a monster. It fights you all. It downs one of you, and it moves on to the next one. This has never happened before and over school is diminishing into the distance rapidly,
+[0:13:53] Unknown Speaker(s): while you're kind of picking up the pieces.
+[0:14:04] Sango / Cregyn: Sango cast does a wild shape and find familiar, creates another Sango Albatross and sends it
+[0:14:12] James Svoboda: after the dragon. Okay, drag it down. Make sure we know what, where it's going.
+[0:14:20] Sango / Cregyn: Goes over, goes over to sura. I uh, speak with animals. Uh, feeds it up, bacon flavored, good Berry. Uh, tries to calm her down,
+[0:14:35] Ian Lurie: seriously, right? When you're speaking with her, she's saying, Where, where did dad go? Where is Dad? What happened? Dad gone. Dad gone. Dad coming back like you know, sir is not a genius, but does understand what just happened.
+[0:14:56] Sango / Cregyn: Don't worry, we'll get that mossy over here to help explain it to you in sign language or puppet show
+[0:15:03] Ian Lurie: or something. Well, if you're using speak with animals,
+[0:15:06] Mossy's gonna miss that darn Drak: you just speak Surah lets out if he uses speak with animals. Can we all hear?
+[0:15:14] Ian Lurie: No, it's just him. Okay? Yeah, you hear Sura let out these guttural, kind of growling, snapping sounds that you've heard her make before, and you know she's communicating. Usually she's making them at Echo, though. And usually it's easier to keep in mind something like, you know, dumb shit. Stop doing that. It's pretty easy to tell that the tone and what she's saying this right now, it's much more complex
+[0:15:45] Sango / Cregyn: angles, much better suited for the fun grandpa role, not the Yeah, you
+[0:15:53] Mossy's gonna miss that darn Drak: know, mossy sees your face and is absolutely coming over to give to give sir a big hug. See, the thing is, that asshole thinks they have the upper hand right now. We've met your dad. He's gotten himself in
+[0:16:15] Unknown Speaker(s): Stranger situations. I'll be okay. Do
+[0:16:19] Mossy's gonna miss that darn Drak: you want to go back to the ship? Or do you want to actually,
+[0:16:23] Ian Lurie: we need to go back to the ship. Do you have speak with animals? No, I'm just speaking out loud. Oh, you transferred. Okay. I'm translating.
+[0:16:31] Mossy's gonna miss that darn Drak: Oh, okay, yeah, okay, no, I saw his panic face and came over. Got him. Got it. Okay, you and the the loving Auntie talk, got it, and we're gonna figure out what's gonna happen next. You're safe for now, and we all love you very much.
+[0:16:45] Unknown Speaker(s): Sort of says, Okay,
+[0:16:49] Mossy's gonna miss that darn Drak: let's go get dad. Okay, walk away from those two and just scream,
+[0:16:55] Sango / Cregyn: top of the lungs, sir. Turns to you over the party line. You all hear somebody smell fried elf the
+[0:17:04] Ian Lurie: so the whole place, like you guys are standing where there was, you know, at least there was greenery, right? There were living things on this island. Now, there's huge swaths of the island that are just burnt. You know, where you guys were standing that, you know, the area that took a direct hit, the areas that took a direct hit from his breath were actually, have actually been fused, like not quite glass, but melted. And the smell of burnt everything is really strong. It's there's even still residual heat coming off the ground from the places that were breathed on.
+[0:17:52] Sango / Cregyn: Take a ticket that between that and the meteors form to hit the island. It's pretty wreckage, most most of the place, right?
+[0:18:02] Ian Lurie: The island has been trashed. Yeah. I um, how are you guys all doing? Health wise, is everyone awake, conscious?
+[0:18:12] Unknown Speaker(s): Oh, yeah, I still have temp. Okay.
+[0:18:17] Ian Lurie: Well, yeah, mossy, you did. You did what rogue should do, which is stay the hell out of stay the hell out of breathing range.
+[0:18:27] Speaker 2: Um, I would like to go whitey. Go, what? Go, loot the dragon.
+[0:18:39] Ian Lurie: Okay, I was really confused for a minute. There. I was like, okay, loot the white dragon got it. I too, would like to loot Whitey,
+[0:18:48] Mossy's gonna miss that darn Drak: yes, yeah. I mean, who
+[0:18:50] Ian Lurie: would take your arm? I mean, let's skip on over and loot Whitey, I am surrounded by ice. You head over to the eastern side of the island and still in the water, fused in place, like frozen into the water itself. Is this the carcass of a dead white dragon, and it's it basically formed an iceberg around itself when it died, when it fell into the water and died. So you see the head, part of the neck and one wing kind of sticking up out of this huge blue, white, blue iceberg. And then you see maybe some of the tail sticking out the end. And other than that, it's a big it's a huge block of saltwater ice.
+[0:19:42] Mossy's gonna miss that darn Drak: How many pounds would you say the exposed bits weigh?
+[0:19:46] Ian Lurie: A afraid you're gonna ask me that, how much is a cow weigh? Roughly, nobody cows weight. Oh, cow. I think I think
+[0:20:00] Unknown Speaker(s): it's about like 1500 Yeah,
+[0:20:02] Ian Lurie: 1500 pounds. See, I knew someone in this group would just know 1500 pounds. So the head's about 3000 pounds with the neck. So we'll just say the exposed bits are around 4000 pounds.
+[0:20:21] Mossy's gonna miss that darn Drak: How much does a bag of Colding hold? Not that much. Okay, so we really have to go for the valuable bits it is. It is time to, I think, pull teeth and other assorted things.
+[0:20:35] Ian Lurie: Any Bag of Holding can hold 500 pounds or 64 cubic feet and 64 cubic feet. In fact, we probably should keep track of that with your existing bag. But just, you know that means you certainly two bags. Yeah, yeah, you certainly can't stuff 1000 pounds of meat into into the bag of Colding now.
+[0:21:02] Mossy's gonna miss that darn Drak: I mean, definitely, we should probably figure out how long will it take us
+[0:21:08] Speaker 3: to harvest stuff? I mean, it would take you a couple of hours. Probably
+[0:21:23] Mossy's gonna miss that darn Drak: okay. We just heard Craig into Hey guys, everybody, grab your favorite pliers and come meet in the dragon head. Let's strip resources and Sir, are you hungry while
+[0:21:33] Ian Lurie: we figure out what we're doing? Craig and what are you? What are you doing?
+[0:21:39] Sango / Cregyn: He's flying like Glenda the Good Witch, over to
+[0:21:45] Mossy's gonna miss that darn Drak: to the group. Can you see us?
+[0:21:48] Sango / Cregyn: Or can we see you? Yeah, he drops invisibility once Drak is out of sight. I don't know what you guys, you boss man, have it with this, but you have a thing for dragons, and it's a little starting to worry me. Do you
+[0:22:02] Unknown Speaker(s): want to choose or do you want to be sassy also? Hi. We missed you.
+[0:22:07] Sango / Cregyn: Missed you too. A tooth would be nice. Thank you. Toss you a tooth. He gets out his ax. He starts chopping away, helping out. Okay, so
+[0:22:21] Mossy's gonna miss that darn Drak: are we calling the airship? Are we what's the plan here, I would like to get the Ranger back. I've grown rather attached to him. See where I'm coming from.
+[0:22:36] Unknown Speaker(s): They're hard to replace.
+[0:22:39] Rikterr Shep'ard: I'm going to assume that we know where Drak is going, because that's where we were going. I don't think that Tiamat would put him in a different place than exactly where she is.
+[0:22:57] Sango / Cregyn: Sango grabs onto your shoulder and closes his eyes, and
+[0:23:02] Ian Lurie: they go into that direction. So the albatross is struggling to keep up, but is able to keep visual contact with Murch school, and sees that rush school is flying directly, is flying north west of you, whereas the gurges are directly west of you.
+[0:23:28] Rikterr Shep'ard: So, as I said, the dragon is taking Drak. Some were completely different,
+[0:23:35] Mossy's gonna miss that darn Drak: very keen insight, bravo.
+[0:23:39] Ian Lurie: So same, you know, not leaving a cedria, definitely. You know, anything that's Northwest,
+[0:23:49] Mossy's gonna miss that darn Drak: we have a handy dandy map.
+[0:23:51] Ian Lurie: Aroni, oh yeah, I guess I get to open the map here.
+[0:23:54] Rikterr Shep'ard: Hold on. I actually made it the back round of my computer, so I'm looking directly at it as I turn my head.
+[0:24:01] Mossy's gonna miss that darn Drak: Well, you're not screen sharing, so the rest of the class needs a hand.
+[0:24:04] Unknown Speaker(s): That's fair. It would be a big, great background. Now,
+[0:24:10] Ian Lurie: yeah, I'm seriously thinking about moving the map to behind me. You should what I'm doing,
+[0:24:18] James Svoboda: just make wallpaper out of it,
+[0:24:21] Mossy's gonna miss that darn Drak: full wall. Okay, you could actually take a projector and stencil it
+[0:24:28] Ian Lurie: onto your wall? Yes, no, absolutely, yeah. But the Devon room app is so gorgeous, the only issue is it's in a glass frame, so if I put it behind me, then on Zoom, it's just going to be like one big mirror. So maybe I do do that on the wall, I don't know. Okay, so villains, discontent is over here somewhere. Okay, these, you see these little, this little cluster of islands, the gorges, right that way. So it's almost due west. It appears, looking at a map that our school is flying
+[0:25:05] Mossy's gonna miss that darn Drak: this way, oh, to the crater, to the don't go there.
+[0:25:09] Ian Lurie: And, of course, knowing, you know, you know, the crater is basically an, is basically a caldera volcano. And they're, you know, if a red dragon is going to be somewhere, that's a good place for a red dragon to have their lair. Good.
+[0:25:28] Rikterr Shep'ard: Isn't that where we had all those other dragons trying to get us, and then Keanu and his friends came and
+[0:25:36] Ian Lurie: helped us out. That was on the field of bone, okay, which is, yeah, it's in that general area, but it's not in the crater itself.
+[0:25:44] Mossy's gonna miss that darn Drak: There most of those. This is a worse neighborhood
+[0:25:47] Ian Lurie: than the field of bone. Most dragons cannot live at the floor of the crater like a white dragon would die at the floor of the crater because an elf would too, not gonna not ideal for an elf, not an ideal elf environment. But you never know. You know, maybe he's a fire
+[0:26:06] Mossy's gonna miss that darn Drak: elf, and you never knew. It's like a goldfish. They need a bigger tank. How far would it take us to travel on foot?
+[0:26:21] Ian Lurie: That distance? That is a long ass walk. That's why my cat Sunday, my camera just kind of implode, probably right after I plunk down three grand on a bicycle. But you figure, let's see
+[0:26:40] Sango / Cregyn: that's that's like the distance from Aventine to to
+[0:26:45] Ian Lurie: Artemis or, yeah, that's like walking for it's further than walking from Aventine to sound mirror. Cool, cool, cool. So it's, you know, that's, that's at least we got to call the ship. That's at least a 10 day walk. So we
+[0:26:59] Sango / Cregyn: send them a flare, or whatever they
+[0:27:00] Ian Lurie: agreed on the so the discontent comes down, and you're a little shocked at at the state of it. It's it's clearly still air worthy. It's not having any struggles flying. But there's, you know, soot, and there's streaks of soot all over it. There's places where, clearly, fires were put out while the ship was in motion. Part of the rigging has been burned away and has been replaced with sort of temporary rigging. They clearly, they were very quick, like in 90 minutes, they had the ship back into, you know, fighting trim, but it has definitely been damaged.
+[0:27:42] Mossy's gonna miss that darn Drak: How much dragon goodies did we get in the bag of holding
+[0:27:46] Ian Lurie: before they came. Give me, let's see, Do you have medicine or nature? I have fairly good nature. Okay, why don't you do a nature? Or do nature? Wait? You have nature still? Never mind. Yeah, just roll. Just roll for nature.
+[0:28:06] Mossy's gonna miss that darn Drak: Okay, so pardon me. Come sit down so I can have my dice tray. Thank you.
+[0:28:16] Unknown Speaker(s): Okay, so
+[0:28:19] Ian Lurie: dirty 20. Okay, so you pull out, you know, half dozen teeth. You also extract one of the glands used to produce its freezing breath. And it's a blue, almost balloon looking object. It's about this big. It is freezing to the touch like it burns you to touch it. But if you want to. You can scoop it up. You can try and scoop it up and put it into the bag or do something with it. But you really can I mage hand that you
+[0:28:52] Mossy's gonna miss that darn Drak: can mage hand it? Yes, definitely. I would love to mage hand that into the bag of clothing. Okay, cool.
+[0:29:02] Ian Lurie: And then you said six teeth, yep. And you also got half a dozen scales.
+[0:29:10] Mossy's gonna miss that darn Drak: Does that include the one we
+[0:29:11] Ian Lurie: gave to Sango or a tossed, I think you tossed a tooth
+[0:29:14] Mossy's gonna miss that darn Drak: to cregn, so, cregn, okay. So five, five, white dragon
+[0:29:18] Ian Lurie: teeth, going five. Boy. Dragon teeth, six scales and one gland. Excellent.
+[0:29:32] Unknown Speaker(s): Thank you kindly.
+[0:29:38] Ian Lurie: As you go to leave the ice flow, you notice a few things. First, the ice flow is already melting. And second, there are already sea creatures starting to have a nice big lunch on the on the carcass. There's already, there's already sharks circling. There's, you know, some kind of very large crab that you've never seen before, already starting to crawl around on it. So this is not going to remain for very long.
+[0:30:06] Mossy's gonna miss that darn Drak: Oh, definitely wrote fuck Tiamat across whatever piece was still sticking
+[0:30:11] Unknown Speaker(s): out. Sure
+[0:30:14] Ian Lurie: the Avernus immigration bureau, though, may check to see what you've written on dragons before, before you're XOXO.
+[0:30:21] Mossy's gonna miss that darn Drak: Mossy, yeah, sign my goddamn work.
+[0:30:27] Ian Lurie: Okay, quick aside, did you see that Christy Noam is actually asking major social media providers, like meta for Yeah? So I immediately, I'm like, Yeah, I'm gonna be going on and doing some posting tonight. It's, it's my ambition to get on that list.
+[0:30:43] Mossy's gonna miss that darn Drak: But anyway, honestly, I'm gonna be upset if I'm not, if I
+[0:30:45] Ian Lurie: didn't do enough, right, right? If I haven't gotten any attention yet, yeah, I don't know what it's gonna take. Okay, so you guys, the discontent doesn't land, but you know, comes close to the ground, nearby, you can get on board very easily. It actually hovers next to a cliff lysander's there. Lysander has a bandage around his head and is actually missing a large patch of feathers on one side where you can see he's been burned. And his voice is actually kind of kind of gravelly, like, you know, he's probably been he was probably burnt. He probably inhaled a lot of smoke in the process. He says, Welcome back aboard. I'm glad to see most of you are okay. Where is, where's Drak albatross says, that way
+[0:31:47] Mossy's gonna miss that darn Drak: can we get Sarah some like hot cocoa or something, just somewhere to lay down and someone to hang out with her?
+[0:31:55] Ian Lurie: He he gets it right away. He says, Yes, of course. He calls over nail hammer the the ship's carpenter who, you know, has bonded pretty closely with Surah, and he steers Surah over to her well, where echo is first of all, because Echo's on the ship, right? Drak, no, that's right. Echoes back at the Okay. Steers her over to the big holding area for the twins, and just starts, kind of, you know, scratching her behind her ears and doing all the things that kind of relax her a little bit. She's a pretty intelligent creature though, you know, so she's upset, and it's not going to be easy to get her, talk her down, but she, you know, she at least feels safer here.
+[0:32:46] Mossy's gonna miss that darn Drak: In all fairness, she gets to be upset. Yeah, absolutely,
+[0:32:53] Sango / Cregyn: I gotta. I gotta check the suggestion box. The boss man, I'll be right back.
+[0:32:56] Mossy's gonna miss that darn Drak: Oh, wait, well, you do that party line? Drak, asshole, respond. Silence. Worth a shot
+[0:33:06] Ian Lurie: screaming, no, just silence. Just silence.
+[0:33:10] Sango / Cregyn: By the way, suggestion box is fine.
+[0:33:11] Ian Lurie: It didn't take any damage. The suggestion box is indeed fine. There is actually one envelope in it.
+[0:33:20] Sango / Cregyn: Reagan opens it up and reads it.
+[0:33:24] Ian Lurie: It says, No more total mechanics on ship. And then it says, haha, gotcha
+[0:33:35] Sango / Cregyn: signed. It was blank. It was empty.
+[0:33:38] Unknown Speaker(s): There's nothing new guys trial run.
+[0:33:45] Mossy's gonna miss that darn Drak: Okay, go to the big table at the mess hall. And I think Mossy's gonna take out every book from the bag of holding and just start doing the artificer nerdery. Also, we have that temu machine with us. How big is that thing?
+[0:34:05] Ian Lurie: The team of machine, yeah, you mean the, no, You never, you didn't take the actual machine.
+[0:34:12] Mossy's gonna miss that darn Drak: It was massive. Oh, okay, I thought
+[0:34:15] Ian Lurie: we took the machine. No, you took some of the, I think you took some of the items that were stamped, that were faked. But the machine itself was, this was a, you know, it was, it was a humongous box thing. I think, if I'm wrong, check your
+[0:34:31] Mossy's gonna miss that darn Drak: inventory, let me know. But I mean, my inventory says Tim machine.
+[0:34:35] Ian Lurie: Okay, all right, apparently you have the team machine. It's apparently it's not as big as I thought it was.
+[0:34:43] Sango / Cregyn: What would you like? She got the portable 3d version.
+[0:34:45] Mossy's gonna miss that darn Drak: That's right. That's right. Wasn't it? There were like three mini things.
+[0:34:49] Ian Lurie: Oh, yes, yeah, sorry, yes, you got one of the Yeah, you got one of them. Yes, you did. That's right. Okay, basically,
+[0:34:56] Unknown Speaker(s): got one of the printers
+[0:35:02] Mossy's gonna miss that darn Drak: with that in mind while we were figuring out what we're doing, good, I don't know. I put some gourd grenades or something in there. Start printing.
+[0:35:15] Unknown Speaker(s): You can try. How are you gonna turn it on?
+[0:35:24] Mossy's gonna miss that darn Drak: I haven't even figured out the bamboo one over here, man, so there's not a manual,
+[0:35:30] Ian Lurie: no. And you do know it needs a large
+[0:35:32] Mossy's gonna miss that darn Drak: power source. Okay, well, never mind my plan to just start making explosives while we figured out what we're doing.
+[0:35:41] Ian Lurie: Alas, what's everybody else doing? Rikter, what are you up to right now?
+[0:35:49] Rikterr Shep'ard: Rikter has just walked to the front of the airship, and you can see him. He keeps taking bastion and slinging it out as far as he can, and as soon as it starts to fall the air, he calls it back to his hand, and he just keeps doing that out of frustration, of of losing Drak and he because there's nothing here that he can destroy, there's nothing here that he can fight. So all he can do is this to get his anger out.
+[0:36:22] Mossy's gonna miss that darn Drak: Oh, honey, um, use brain rage with me Come let's scheme.
+[0:36:29] Rikterr Shep'ard: You can see the last time he throws it out, and you just see it start going out, and behind his back, he just does this, and it disappears, and he walks towards you to help you with the brain scheming.
+[0:36:42] Ian Lurie: If you guys can tell me specifically what it is you're trying to do with the brain scheming, I can help, you, know, guide you a little bit, give you roles and stuff. If you're just generally scheming,
+[0:36:55] Rikterr Shep'ard: I'm gonna we'll, are we trying to find Drak, or
+[0:36:58] Mossy's gonna miss that darn Drak: what are we trying to do? Yeah, I think we've got the map out, and we're trying to figure out where is the best position to come in at what we do take, we're talking about our spells, figuring out,
+[0:37:09] Ian Lurie: you know, okay, um, well, then what I would say is, you know, then it's you guys are gonna have a strategy meeting. I mean, it's not, you
+[0:37:17] Mossy's gonna miss that darn Drak: know, yes, brain raging with strategy, but it's brain
+[0:37:22] Ian Lurie: raging, I'm sorry, a little slow. Okay, you know Sango before we go any further, Sango and cregn, are you meeting with them as
+[0:37:30] Sango / Cregyn: well, or do you have your own stuff that Sango is cregn is fixing the ship. Okay, all right, I'm not gonna let you pull me into two conversations at the same time. That shits hard. It's funny, though.
+[0:37:50] Mossy's gonna miss that darn Drak: Oops, yeah, so all the books are out with lore about this area and everything else is relevant, and Mossy's presenting all of the things that are written down in context with the map, and going and then,
+[0:38:05] Ian Lurie: all right, so you guys, you know, you know you're facing a few different problems at once, right? You have to get there. You have to know where there is, right? You have to somehow find Drak. You have to get there safely. And you have to deal with the fact that there is an ancient red dragon that just kicked all your asses there as well. You're just, you know, get every rikter you in particular, actually give me a give me an insight. Check into your fight. You're basically recalling the fight with the dragon
+[0:38:49] Unknown Speaker(s): that's going to be a 21
+[0:38:51] Ian Lurie: Okay, so just based on your expertise, you know, because you are the trained warrior of this group, you know, you think with preparation, if you work, you know, if you have a plan, you might be able to take down this dragon. But it's not a sure thing, not by a long shot. You know that, you know you guys were one shot away from having multiple people die, but you know also that you were a couple of really good shots away from potentially at least driving the dragon away, because you did, you figure you did a couple 100 hit points of damage to it, and those dragons, you know, that's a good chunk of its health. So just you do know that much.
+[0:39:43] Rikterr Shep'ard: All right, rikker's gonna relay this to everyone and just say hey, we next time, if we get it, we need to have a solid plan so that we can whittle it down as quick as possible, because we were almost there. But on top of ambushing us, it knew exactly what it wanted to do and who it was going for, and that took us by surprise. But the next time, if we can get any little surprise on it, I think we have a chance.
+[0:40:13] Sango / Cregyn: We didn't we next time, hopefully there will be a white dragon we got to contend with first.
+[0:40:21] Ian Lurie: And remember, your single biggest source of range damage is currently in possession of in the possession of that dragon
+[0:40:33] Mossy's gonna miss that darn Drak: So, but I'm pretty good at being and sneaky.
+[0:40:38] Ian Lurie: Yeah, the main issue you all ran into there was range, right? I mean, it's the thing is so big and so fast that it could go in and out of range and attack you quickly. And the times when it was near the ground, it was near the ground in a place where your best ground based damage dealers couldn't reach it, because you guys were split by that. That land mass right by the by the island had that huge ravine through the middle of it. So So you understand that much? Um, Sango, you're kind of the the nerd in some ways of this group. What's, what's your nature? Uh, plus seven. Okay. And then mossy, what's yours plus five? And rikter, a plus one. Okay, so Sango, I'm gonna have you take the lead on this one. You're going through all those books, which is kind of your happy place anyway. And you know, Mossy's looking for stuff on sort of tactics and devices that can help rikter is kind of just digging into his own memory of, you know, strategy and Battlefield tactics. You're learning as much as you can about ancient Red Dragons. So give me a roll a d, 20, dirty 20. Okay, you know, first of all these, I mean, no one's seen an ancient Red Dragon on PRAXIA and lived to write about it in recorded history. So there is that, but people have certainly seen adult reds on PRAXIA. So that's what you're digging out of some of these books, and just your own memory as well. And the one thing you know is they are incredibly intelligent. These are extremely intelligent, cruel creatures, and they sorry one second. They are not the most intelligent of dragons, but they are very intelligent. They have layers. And as you really like onions, yes, yes, they have layers. Yeah, no layers. Layers. They may have layers, I don't know, but they have layers, and it's unlikely this dragon is just going to go
+[0:43:19] Speaker 2: someplace random. Hey, Sango, you seem really good at nature. I have a question for you.
+[0:43:30] Mossy's gonna miss that darn Drak: Are dragons immune to drugs?
+[0:43:34] Sango / Cregyn: Oh, that's a good question. Drugs would be a poison, and maybe they are very constitutionally, you know, they have good BMS and all that. So they would probably was totally worth it just to see rikter's face.
+[0:43:53] Ian Lurie: For me, it was like 5432, okay. Processing complete. Now I understand took me a while to compile.
+[0:44:05] Sango / Cregyn: Drugs might be hard to pull over on
+[0:44:13] Ian Lurie: so you're asking, you want to know? Yeah, why don't you give me a nature check?
+[0:44:20] Mossy's gonna miss that darn Drak: Because I was asking Sango, because he's better at it.
+[0:44:24] Sango / Cregyn: Yeah. Right about then cregn is walking by, and he get a natural 20 for a total of 28 on his nature check.
+[0:44:33] Ian Lurie: So okay, cregn, you hear them talking, and you know absolutely for certain that there's only one dragon that deals with poison consistently and is actually immune to it, and that's a green dragon.
+[0:44:48] Mossy's gonna miss that darn Drak: So a red dragon in theory could be affected
+[0:44:51] Ian Lurie: by drugs. Could, effectively, could in theory be affected by drugs? Absolutely.
+[0:44:56] Mossy's gonna miss that darn Drak: I'm gonna pitch you a crazy ass artificer idea. Okay, I have a copious amount of drugs, and I also have smoke grenades. If we wanted to ambush a Drak, it could we do it with drug lace smoke grenades.
+[0:45:23] Sango / Cregyn: Sango looks at ubatsi in a very serious expression on his face, and he just says, Drak, would be so proud of you right now.
+[0:45:34] Mossy's gonna miss that darn Drak: They're my drugs. Why is he proud of me?
+[0:45:45] Ian Lurie: I broke Ian, no, no, I'm letting you guys.
+[0:45:48] Sango / Cregyn: He's he's doing the math on how much drugs you would need.
+[0:45:52] Ian Lurie: I'm just No. I am being the good DM. I'm letting you guys talk out what you want your strategy to be. Let me ask you this, where's Where are you having the discontent? Go right now. Are you having it follow
+[0:46:09] Unknown Speaker(s): the path of the dragon?
+[0:46:13] Sango / Cregyn: That seems like a good idea, at least heading that general
+[0:46:15] Mossy's gonna miss that darn Drak: direction. It'll probably take a while. We're much slower, so it's gonna
+[0:46:18] Ian Lurie: take time. You're almost as fast, actually, as the right dragon. Okay, the villain's discontent is extremely fast. It's just not quite as fast as a red dragon, the albatross is also almost as fast. So you're kind of both. It's you, the Albatross and then the dragon, the Albatross and you, and the dragon is steadily drawing away from you and Sango, you know that it can what's the range on your on being able to see through the eyes of the albatross?
+[0:46:52] Sango / Cregyn: It doesn't say, but communication
+[0:46:56] Ian Lurie: is limited, okay, how? What's the range on the communication? Oh, it's like 100 feet or something. Oh, well, okay, then, yeah, then you certainly can't talk to it anymore. The albatross has dwindled to a tiny speck, as has the dragon. You are still able to maintain some, you know, some visual tracking of the dragon, but only through the Albatross and then using using lysander's Looking Glass.
+[0:47:30] Sango / Cregyn: And every couple of minutes, Sango closes his eyes, looks through the eyes of the albatross, looks for landscape points of interest, things like that, and then starts writing in a scroll kind of what he sees and where they're
+[0:47:45] Ian Lurie: going, and updates that as we go along, yeah, the albatross has just flown. I mean, the dragon is moving. The albatross has just flown over a small mountain that's kind of sticking up in the middle of this flattened, burnt, charred area. And it's barely able to keep sight of the Dragon at this point, you figure, looking at how fast the dragon is going, it will be out of sight in the next half an hour, it will get to the crater, if that's where it's going in the next couple of hours, and you'll be by the time it gets there. Actually, Lysander does the math. Poland, well, actually, I have taken a rather bad blow on the head and cannot recall exactly how fast we are going right now. He says he thinks it would be about it will take you about a day and a half to get to the crater. Okay, and that the Dragon will get there about a day ahead of you.
+[0:49:08] Sango / Cregyn: So the the instructions that Sango gave to the Sango trust before he left was just follow it's right. So nothing else
+[0:49:18] Ian Lurie: other than just keep following, right, right, right, don't, don't, not, you know, attack the dragon and bring it down at all costs, or anything like that. Yeah, okay, got it all right. What else you guys doing?
+[0:49:36] Mossy's gonna miss that darn Drak: Anything specific? Oh, yes, I would like to craft smoke grenade,
+[0:49:41] Ian Lurie: drug bombs, please. All right, so let's do this. What drugs are you using?
+[0:49:49] Mossy's gonna miss that darn Drak: So I have elf cap. I have eight
+[0:49:52] Unknown Speaker(s): of elf cap,
+[0:49:54] Mossy's gonna miss that darn Drak: okay, and then I have elf cap precursor, plus books, and I have a generically labeled drugs.
+[0:50:06] Sango / Cregyn: All right, hold on, that's the one you give to the narc when they ask, yeah, that's right.
+[0:50:09] Mossy's gonna miss that darn Drak: I actually think it is some that I stole from a narc at some point.
+[0:50:18] Sango / Cregyn: I'm just looking up what else. Fact, maybe it was that that was their guy in some year that I it. We tried to buy some drugs off,
+[0:50:30] Unknown Speaker(s): yes, yeah. I stole some from him, yeah.
+[0:50:34] Ian Lurie: So the stronger stuff, you know, is actually, or agar, which is the precursor that you have. I got some of that. Yeah. It's basically, it's a very powerful hallucinogen, right? It gives you it's it's basically acid. And so if you know you're taking it, you know it can be interesting. If you don't know you're taking it, it's very unpredictable. Predictable you would have to make. Well, let's see you're an alchemist. Roll me a D 20 and add your add your proficiency bonus. Hmm,
+[0:51:31] Unknown Speaker(s): and your intelligence.
+[0:51:39] Ian Lurie: 19, okay, knowing you know a person, a humanoid, takes of medium size, takes about this much and that that will, you know, from experience, that will send you into, you know, all sorts of alternate realities for maybe half a day. That's actually elf cap or a gar will hit you much harder, much faster, and then go away more quickly. You think, to affect something the size of an ancient Red Dragon, you would need maybe
+[0:52:19] Unknown Speaker(s): 30 pounds of oregar.
+[0:52:23] Ian Lurie: I have 30 pounds of Oregon. Okay, well, how much do you have?
+[0:52:29] Mossy's gonna miss that darn Drak: How many doses Do you know did okay? So I have doses on the elf cap, but the other one just says precursor in books. So when we rated the meth place, I grabbed theirs.
+[0:52:40] Ian Lurie: Okay, all right, so you have at least a pound. Okay, so then the only question is, can you somehow turn that pound into 30 pounds? I have a temu machine. You do have the Teemu machine. Not sure how well that would work on organic materials. I love where this is all going though.
+[0:53:05] Mossy's gonna miss that darn Drak: I stopped my hero adventuring and move to
+[0:53:09] Ian Lurie: street pharmaceuticals. You buy it, yeah? You buy a cheap motor home.
+[0:53:14] Sango / Cregyn: The natural progression of mossy at this point, I just, yeah, yeah. You and rikter are gonna live in a house together in the back room. Rikter's never going to be allowed to go into That's right. Don't ask me about my things rikter, my craft in my knitting room.
+[0:53:42] Mossy's gonna miss that darn Drak: What if we made the drugs into the suppository for Tory, sorry,
+[0:53:50] Ian Lurie: if you did deliver the drugs. You know, drugs delivered into a bloodstream will definitely, and this is rikter, will know more about this than you, because just his expertise with healing and things like that, but you, as an alchemist, know, generally, introducing a chemical directly into someone's bloodstream is going to have more of an effect than delivering it into, you know, like having them
+[0:54:14] Mossy's gonna miss that darn Drak: inhale it. Hey, what kind of range weapons you got? I got some darts, doesn't you can do that cool thing where you throw bastion and then Bastion comes back, right? You were doing that earlier? Yeah. Very snazzy. Yeah. Have you ever tried, like, attaching something to bastion for the throwing?
+[0:54:41] Rikterr Shep'ard: Usually the only thing attached to it is my anger. But we can test out some other things, if
+[0:54:46] Unknown Speaker(s): you'd like, what about anger and drugs?
+[0:54:52] Mossy's gonna miss that darn Drak: Like, if I take one of these glass vials here and we attach it to here so it breaks pun impact, would that work Ian, or do we need, like, a harpoon here?
+[0:55:04] Ian Lurie: If you're talking about doing what I think you're talking about doing, you'd need, like, need, like, a huge hypodermic, right? So, a harpoon, something that has the drug in it, and it goes in through the dragon's skin. I can't believe we're talking about this, and it injects the drug
+[0:55:19] Mossy's gonna miss that darn Drak: into the dragon. Okay, okay, hear me out. So I have a spell Mel's acid arrow. What if I took a normal arrow, put drugs on it, then use that
+[0:55:31] Ian Lurie: spell and firing it? No, not, not quite, not quite. You can't use it. You're not gonna be able to use, like a second or third level spell to introduce drugs into a nation. Red Dragon, sorry,
+[0:55:41] Sango / Cregyn: I think Cheech and Chong came up with that. What if, uh, what if, since you're sneaky, sneaky, you just got some rubber gloves and just inserted it. I'm
+[0:55:55] Mossy's gonna miss that darn Drak: getting any really big gloves. There is trying to catch this thing off guard. Drugs seemed like a perfectly reasonable way to catch someone off guard.
+[0:56:10] Ian Lurie: I I totally support the creativity. I could totally see it working. But you guys do have to figure it out. First of all, you have to figure out how you're going to get the quantity. Then you Hey, introduce it,
+[0:56:25] Mossy's gonna miss that darn Drak: beloved captain, talk to me about the Ballista we use and how that gets loaded.
+[0:56:35] Ian Lurie: Well, he takes you over there. He says, there's these huge he just shows you there's these huge, what looked like enormous crossbow bolts.
+[0:56:47] Unknown Speaker(s): He says, you load this, Hey,
+[0:56:52] Ian Lurie: the look you have on your face right now, I have to admit, it is scaring me just a
+[0:56:57] Mossy's gonna miss that darn Drak: little bit. That's fair. That is fair.
+[0:57:03] Ian Lurie: Here you are, sir one. Drak, um, these the bolts are made of a single piece of wood with a metal tip. They have a range of approximately, see what you have, 480
+[0:57:25] Mossy's gonna miss that darn Drak: feet, all right. DM, another artificial question, could I break out my little crafty Dremel tool, cut out a little section near where the metal is, put a glass cylinder that's wedge nice and tight or secured over that could break upon piercing a hide?
+[0:57:46] Ian Lurie: I so as a really good DM once said, you can certainly
+[0:57:50] Mossy's gonna miss that darn Drak: try. I want to fucking craft it. Okay.
+[0:57:56] Ian Lurie: Is anyone help
+[0:57:57] Unknown Speaker(s): mossy with this endeavor? Ribs or honey? Yes, let's
+[0:58:03] Ian Lurie: do this. Okay, so you're going to take one of
+[0:58:09] Mossy's gonna miss that darn Drak: the Ballista bolts, yes, with attention to balance and everything in the amount of weight being removed. All right, going to carve in a notch for it that fits the glass vial. I have many of them full of drug.
+[0:58:28] Ian Lurie: Okay, so I'm going to say there's actually three roles required here. First one is putting the drug into the glass vial. And I would say you, you do still know that the one pound is not enough, that you do need more than that. But the first role is to fashion a vial in such a way that you can put the drug in it and have it shatter at the right time, but not shatter like when you fire the Ballista or something else. So why don't you give me a roll for that? And that is an
+[0:58:59] Mossy's gonna miss that darn Drak: alchemist role, so you can and I'm going to use my mage hand for doing this, so in case it does break, there's safety protocols in place. I don't want to be tripping
+[0:59:07] Ian Lurie: acid and fighting a dragon. I'm disappointed, but I I laud your caution.
+[0:59:11] Unknown Speaker(s): Okay, all right. Um,
+[0:59:24] Ian Lurie: 19, okay, yeah, you you put the vial together, and basically you fashion something where it can screw and unscrew. You don't think you don't know that you could do it again, but you did get it put together pretty well with this particular vial. So you got that done. Now you have to figure out how it is that you could make
+[0:59:51] Mossy's gonna miss that darn Drak: more of this drug. I thought it was intravenous. The pound would be effective.
+[1:00:01] Speaker 2: No, I said it would require far less.
+[1:00:03] Ian Lurie: Oh, my, ruin. My but you're an alchemist. I mean, I
+[1:00:13] Mossy's gonna miss that darn Drak: don't have Xerox drug in my spell list.
+[1:00:17] Speaker 2: Reagan, can you Xerox drug? Listen to rikter, what?
+[1:00:22] Mossy's gonna miss that darn Drak: Study the drug? Make more drug. Oh,
+[1:00:24] Ian Lurie: can I study the drug
+[1:00:26] Mossy's gonna miss that darn Drak: absolutely cool.
+[1:00:28] Ian Lurie: What's that? That's straight up alchemy. So give me a role. It's Intelligence plus proficiency plus a d 20. You may actually have a particular skill, I don't know. If not, that's the way. There. Okay, that's the 13. Okay. You are you understand how what oregar is made from. You also know that elf cap is a concentrated version of urugar.
+[1:01:08] Unknown Speaker(s): You have another pound or so of elf cap.
+[1:01:15] Ian Lurie: You think if you could figure out how to UN concentrate it, you would have another maybe three to four pounds of oregard, or three, not gallons, not pounds, because pounds is that doesn't work.
+[1:01:31] Mossy's gonna miss that darn Drak: You think you can basically, can I just find the sketchiest cook in the kitchen and ask him?
+[1:01:39] Ian Lurie: Sure there's only one cook on the ship,
+[1:01:44] Mossy's gonna miss that darn Drak: wherever the sketchy people go used to line cooks being the sketchy ones. Find me the sketchy
+[1:01:48] Ian Lurie: looking line cook. The cook is pretty fucking sketchy. Do you take anyone with you? You're just going to find
+[1:01:56] Mossy's gonna miss that darn Drak: the sketchy cook. I can't rikter, I need you to stay here for this one, because you give off big Paladin vibes. Okay?
+[1:02:07] Ian Lurie: You find the cook. So the cook is this, you think he may be a half orc. You're not. No one's really, totally sure. No one really knows his name, either. And whenever they ask him, he says, So you he's in the kitchen. He's, you know, chopping up some thing. He's a pretty decent cook, so no one really complains. And he sees you come in, he just looks at you impassively.
+[1:02:38] Mossy's gonna miss that darn Drak: Hey, people underestimate you a lot, right? Yeah, that's what I thought. And you want a chance to be like the fucking hero right now, because I need to take these drugs and unconcentrate them. Can you help? Yes, I think, Oh, I love you. Okay, I'm gonna follow the cook's lead. Well,
+[1:03:07] Sango / Cregyn: moss, Mossy's doing this. Sango is running interference, keeping everybody out
+[1:03:11] Unknown Speaker(s): of the kitchen. Okay, what? What am I doing?
+[1:03:17] Mossy's gonna miss that darn Drak: Okay, we're gonna take this elf cap and we're gonna unconcentrate it, because I have to make enough drugs to fuck up a dragon.
+[1:03:26] Speaker 3: Is this a big dragon or a small dragon? It's a big dragon, big dragon. And you're gonna try to this isn't very much
+[1:03:37] Mossy's gonna miss that darn Drak: drugs, I know. I'm hoping I can unconcentrate to make more. Do you know how to make more drugs? Do you have extra drugs? I will. I will buy above market price, sir, we
+[1:03:50] Speaker 3: do have drugs, but I sell them for a lot of money. I don't, I'm not. I don't know that.
+[1:03:58] Unknown Speaker(s): I don't. Okay. How much money do you need?
+[1:04:02] Mossy's gonna miss that darn Drak: I respect you as an entrepreneur, Sir, you don't talk so fast. Mossy's gonna take 20 gold out.
+[1:04:13] Ian Lurie: He takes out drugs. He takes out this bale of drugs of some kind of leaf. And he says, dishes, dishes, the drugs I show for
+[1:04:29] Speaker 3: 10 gold. It's here. It just, it makes you happy.
+[1:04:36] Ian Lurie: It makes me very happy. No, I mean, it makes you happy. This, this makes you happy, if you,
+[1:04:42] Unknown Speaker(s): yeah, that's awesome.
+[1:04:45] Mossy's gonna miss that darn Drak: So if you were to inject a dragon with these drugs, how would you get it ready for that
+[1:04:53] Unknown Speaker(s): from somewhere else?
+[1:04:56] Ian Lurie: I don't dragons are pretty unhappy. I don't think this would be enough
+[1:04:59] Speaker 2: to make the dragon happy. We're just gonna throw everything we got in here. You know,
+[1:05:04] Ian Lurie: see what happens. I don't know that you, you're talking kind of fancy. I can, I can turn this into more of it, but I can't. I don't know anything about injecting and
+[1:05:17] Mossy's gonna miss that darn Drak: stuff like that. That's okay. How quickly can you turn it into more
+[1:05:23] Ian Lurie: dish? He holds up the elf cap.
+[1:05:27] Unknown Speaker(s): Give me probably take me a day if I'm being careful.
+[1:05:32] Mossy's gonna miss that darn Drak: Okay, we have a day left, right? Yes, you do okay, you can do it faster.
+[1:05:39] Unknown Speaker(s): There's more gold, okay, yeah, I don't think you want me to rush with this. That's also fair. Okay, I'll do what I can, and
+[1:05:51] Mossy's gonna miss that darn Drak: I will take the drugs that I bought from him, and we will thank you, nice lady.
+[1:06:00] Ian Lurie: Now he doesn't say actually, yes, he does say that. He does say that. Look, I came up with this guy just off the top of my head, right? No, no,
+[1:06:09] Mossy's gonna miss that darn Drak: you did a great job with the drug dealing
+[1:06:11] Ian Lurie: line cook. Thank you. Notice that one of his eyes is definitely slightly larger than the other, and, you know, his teeth are kind of scraggly and weird looking. And you think maybe he has a little more experience with this than he's letting on. And some of those experiences may not have gone perfectly. He sort of seems like Remy, you know the potion Brewer only maybe you know two more accidents this side of Remy or the other side of Remy. But he gets to work right away. He starts point you see him. He gets out a huge flask. Starts boiling stuff in it. He yells, up everybody hard tack for dinner tonight. Everyone says, Oh God, no, not again. Sorry, busy.
+[1:07:04] Mossy's gonna miss that darn Drak: I think we have sandwiches in the bag of cold and we can Yeah,
+[1:07:10] Ian Lurie: Okay, anything else you guys want to do? I'm
+[1:07:15] Mossy's gonna miss that darn Drak: absolutely going to tell rikter that we have a fantastic drug dealing line cook.
+[1:07:22] Rikterr Shep'ard: I only like that elf leaf we had that one time that was pretty good, right?
+[1:07:29] Mossy's gonna miss that darn Drak: If we survived this, we should go hang out in the druid fell for a bit.
+[1:07:34] Ian Lurie: The bale of stuff he gave you does look like some kind of smoking leaf.
+[1:07:42] Unknown Speaker(s): This is supposed to make you happy.
+[1:07:46] Rikterr Shep'ard: We need it for Drak. When Drak comes back, then we will avail ourselves of anything that's left over, or we can go and find some more. But I have to think of Drak
+[1:08:05] Mossy's gonna miss that darn Drak: Sango. Where do you think we should approach from?
+[1:08:10] Sango / Cregyn: Good question probably depends on where it is finally, like it's final, wherever we can track it down to, because if it's in the middle of Caldera, which maybe it is, because that seems like a hot place for hot dragon. Then maybe we go hot
+[1:08:28] Mossy's gonna miss that darn Drak: dragons near you. Oh, we can't fish the dragon. Someone set up Tinder.
+[1:08:33] Sango / Cregyn: There you go. We go around the north side. Maybe come in from the north. Keep it guessing. Although you know what, I don't know if it matters. Remember that that fucking thing tracked us down. It knew where we were. We lost it, and it still tracked us down. We were so fast. We were so fast. The gods had to nerf our ship. Okay.
+[1:08:58] Rikterr Shep'ard: Can rikter Do an Arcana check to Goddamn, I'm trying to do this with so Jamar is thinking that the reason that dragon was able to track us down is because the curse that Tia Matt put on it. Is there a way that rikter could do an Arcana check for that? Or is that too much
+[1:09:18] Ian Lurie: meta gaming Bible that is not meta gaming by any okay, yes, you can absolutely do that. Meta gaming. Love to assist you. Yeah, meta gaming is saying, you know, on page three of the DMS guide, it says, Okay,
+[1:09:31] Rikterr Shep'ard: again, I've just, I've just seen too many things where people try and get away with that type of shift. So I'm just, if I, if I'm seem too timid, it's because I want to play within the rules of the game and also respecting what Jamar knows versus what rikter
+[1:09:46] Ian Lurie: would know. I don't worry. I will let you
+[1:09:48] Mossy's gonna miss that darn Drak: guys know when you're just gonna ask to make drug bombs. Just tuck and roll. Man, right? Exactly, exactly. DMS manual does not cover drug bombs.
+[1:09:58] Rikterr Shep'ard: Once again, one of us has a stick up that's ass, and the other one is mossy, so that is going to be a 21
+[1:10:10] Ian Lurie: Okay, um, you don't think that would be enough. You think that might let Tiamat that definitely forms some kind of connection, but not enough of a connection that Tiamat will be able to pinpoint you down, to say a quarter of a mile, which was what would be necessary. I that sees time.
+[1:10:33] Unknown Speaker(s): I'm sorry,
+[1:10:35] Ian Lurie: I that sees okay. I was about to say rikter, what you do realize is that that would be enough of a connection that Tiamat could very easily scry on you. And so mossy, you put down the eyes that see, use up a charge and get true sight, assuming rikter, oh, yeah, assuming rikter says something, yes, good,
+[1:11:03] Rikterr Shep'ard: yeah, yeah, I tell mossy all, all of what I've divined.
+[1:11:08] Mossy's gonna miss that darn Drak: Okay, yeah, eyebrow cocks,
+[1:11:10] Ian Lurie: goggle down, okay, you put the goggles down, and you just sort of scan all the way around the ship. I'm actually doing this old school with books right now, because I just have all these gorgeous books, and I get really tired of looking everything up online. Oh, brother, you got to crease that spine exactly, although you made it sound wrong, but yes,
+[1:11:35] Rikterr Shep'ard: that's just the voice.
+[1:11:43] Mossy's gonna miss that darn Drak: Jamar, please. I put a bookstore with the slogan crease. That's fine,
+[1:11:46] Rikterr Shep'ard: please. Oh, you go, you know, it
+[1:11:50] Ian Lurie: decreasing spine. Okay, mossy, you look around the ship and you see up at the top of the mast is a small globe
+[1:12:06] Unknown Speaker(s): that almost looks like an eyeball,
+[1:12:09] Ian Lurie: and it's drifting there. It's clearly not it's not part of the ship. It's not part of the prime material plane. And as soon as you look at it, you rise. This should not be here. This is probably a sky Okay.
+[1:12:27] Mossy's gonna miss that darn Drak: Party line. Hey, y'all watch where my fingers pointing. Press the digitization, make a little little mark in the air. That's a scry thing, and it's watching us right now. Somebody, somebody kill it.
+[1:12:43] Rikterr Shep'ard: DM, what a dispel magic. Work on a scry spell, it would.
+[1:12:51] Ian Lurie: It might be a little tricky because of who cast it, but let me see fair. That's very fair, but I think it's pretty doable here. Hold on, let's
+[1:13:02] Mossy's gonna miss that darn Drak: just never she was being a lazy bitch and castle.
+[1:13:06] Ian Lurie: See, scry is a level five, I believe, yeah, level five. Dispel is automatic on level three, on anything above that. So you need to, you may need to make a DC 15. You What's your spell casting ability? Rikter. Is it wisdom or charisma? Charisma? Okay, so you need to make a DC 15 charisma check. Yes, sir. I just want to make sure I can't cast it higher. No, yeah, so just DC 15 charisma check. That's a 19. Okay, it's gone, as is any other magic up there, but that's the only magic that you know of, and the scrying the scrying sphere disappears.
+[1:14:09] Rikterr Shep'ard: All right, that's well, mossy, can you check and make sure that we're good? I tried something.
+[1:14:14] Unknown Speaker(s): It's gone. Yeah, high five.
+[1:14:26] Sango / Cregyn: Interesting. So now we know how it's been able to track us. So you know all that stuff I said about coming in from the north, let's not do that. Let's change. Let's do something else. Let's do something different.
+[1:14:42] Rikterr Shep'ard: Tonight's theme seems to be men. We are never wrong.
+[1:14:49] Mossy's gonna miss that darn Drak: Okay, so if
+[1:14:52] Unknown Speaker(s): we're like in the kitchen,
+[1:14:56] Mossy's gonna miss that darn Drak: go ahead, cry spell mechanics. If that thing was on the top of the mask, could it have seen what we were doing
+[1:15:05] Ian Lurie: in the kitchen that was just flavor, that was just and, you know, also, scry doesn't last very long, so the assumption you have to make is that someone has been repeatedly scrying upon you.
+[1:15:17] Mossy's gonna miss that darn Drak: Okay, so I feel like party line, we should only talk about plans on party line,
+[1:15:23] Sango / Cregyn: but if you can use your your goggles to see the thing.
+[1:15:28] Mossy's gonna miss that darn Drak: Yeah, I can only do it a couple of times a day, though.
+[1:15:32] Sango / Cregyn: Gotcha so. Cregyn knows sky. He can cast it so he's, he's aware of
+[1:15:38] Ian Lurie: the limitations of, you know, it lasts for, it lasts for about 10 minutes.
+[1:15:42] Sango / Cregyn: Um, do we know? Do we get, like, an inkling or a saving throw
+[1:15:50] Ian Lurie: to be screwed on? Depends on how it's being cast, okay, and what you are exactly what it is that you're trying to do so on a failed save, it creates an invisible sensor, if you but you can also target a location that you've seen, in which case there's no save and it can't move. So that, clearly, is not what was done here. But they can scry on anyone on this ship, if you think about it, or they can scry on anyone who has the brand. You don't know what the brand does to your ability to protect yourself from scrying.
+[1:16:35] Sango / Cregyn: Have we tried to dispel magic the brand? I don't think you have.
+[1:16:42] Unknown Speaker(s): Uh, hey, rikter, you want to a boss man, mind if I try something?
+[1:16:50] Sango / Cregyn: Oh, no, go ahead. Could you take off your your shirt, your your Arbor top, top part only please.
+[1:16:58] Rikterr Shep'ard: Rikter looks over at mossy and just raises an eyebrow.
+[1:17:02] Mossy's gonna miss that darn Drak: Mossy grabs popcorn from a comical pocket.
+[1:17:07] Rikterr Shep'ard: Ah, it. The answer is yes, okay,
+[1:17:12] Sango / Cregyn: and let's see Cregyn will cast dispel magic. I think he's got seventh level we could do it at.
+[1:17:21] Rikterr Shep'ard: Okay, not Damn. Hold up. Let me check, just to make sure. No, I'm sorry. I've got eight level
+[1:17:34] Sango / Cregyn: Well, you might want to, like, take your magic items and, like, put them away, like, somewhere too, just you just lose, in case this thing bounces off, and I don't know,
+[1:17:44] Ian Lurie: well, you just cast it on a person. So,
+[1:17:58] Sango / Cregyn: yep, seventh level of disco magic on the Olympic rings, on around
+[1:18:05] Ian Lurie: rikter's nipples. Okay, rikter, you need to give me an intelligence save. Well, actually, first, Cregyn, what do you roll? Give me that D 20 I have to roll, yep, and then add in the spells level. Oh, okay, or sorry, just roll me a D 20,
+[1:18:29] Sango / Cregyn: shit, that's a two plus
+[1:18:31] Unknown Speaker(s): whatever. Okay.
+[1:18:34] Sango / Cregyn: Plus nine is 11. Okay.
+[1:18:38] Ian Lurie: Rikter, give me a an intelligence save DC. Nine. I'm sorry. DC, no wait, nine plus two plus okay.
+[1:18:50] Rikterr Shep'ard: DC, 20, wow, nine.
+[1:18:56] Ian Lurie: Yeah, brains not working that well today. I don't know why.
+[1:18:59] Rikterr Shep'ard: No, that's actually funnier than had you got it right the first time. I love you, I'm gonna burn heroic inspiration, reload that shit, fuck that. Oh, come on, baby. Oh, god damn, that's gonna be a fucking 15
+[1:19:24] Ian Lurie: you take 20 points of side kick damage
+[1:19:28] Mossy's gonna miss that darn Drak: as Hey, can Can I use my last brain power thing? Oh, God, life, no flash of genius to add a plus five?
+[1:19:46] Rikterr Shep'ard: Yes, you can 3020,
+[1:19:49] Ian Lurie: okay, so then you take 10 points of psychic as all the brands on your chest, and you guys all see this just briefly. Incandesce Like and the heat you feel rikter. It's searing. It's as if someone is literally branding you. And you guys all see little wisps of smoke, and you smell burning flesh as each one flares in its different color, green, somehow, black, blue, red and white, and rikter, you kind of reel back and but you don't feel like anything changed. And Cregyn, you're looking at his chest, you don't really see that the, I mean, the brand is still there, gotcha?
+[1:20:44] Unknown Speaker(s): Was it supposed to do that, I don't know. I thought you would Okay.
+[1:20:53] Mossy's gonna miss that darn Drak: Um, well, he's kind of sizzling, and I don't feel like that normally happens when it works, right? Also, kind of a cool night light feature, I guess.
+[1:21:13] Unknown Speaker(s): Yeah, I don't. I don't
+[1:21:15] Mossy's gonna miss that darn Drak: think that it looked like it almost worked. What if you try it on, on,
+[1:21:22] Ian Lurie: I'm sorry that was just I don't. I don't think that worked. Rikter's literally standing there with like, blisters and smoke coming off his chest. I
+[1:21:39] Mossy's gonna miss that darn Drak: mean, we're about to have a long rest if we have the spell slots, rikter, I trust you. You wanna,
+[1:21:47] Sango / Cregyn: um, it. I'm at a seventh level, sixth level.
+[1:21:53] Rikterr Shep'ard: And yeah, if it didn't work at seventh level, it's not going to work at a what do I have? I have a third level.
+[1:22:00] Unknown Speaker(s): I thought you had an eighth level. No,
+[1:22:05] Rikterr Shep'ard: I wish, Oh, no. I was just joking that, like he that cregn was gonna say he was wrong about seven that he
+[1:22:10] Mossy's gonna miss that darn Drak: had an eight. Oh, I was really excited. I was like, you've had an eighth level remove. Oh, I wish. Did we try remove curse?
+[1:22:22] Ian Lurie: That's one you have. I think you've tried that already, and just nothing happened.
+[1:22:27] Rikterr Shep'ard: Yeah, okay, I tried that the first time. Well, you know what this means? Just gonna have to kill her. You realize how cool I could upgrade Bastion with, like, Dragon God shit. Like, I could make, like, the hilt out of like, cool ass fucking scale. I could, like, take the like, I could make dragon teeth for the blade. Oh, my God,
+[1:23:02] Mossy's gonna miss that darn Drak: let's do this shit. We got some teeth. We are ready. Ian, I need to make more roles for the for the drug Ballista.
+[1:23:10] Ian Lurie: Yes, you do. You need to make a role to actually hollow out part of the Ballista bolt without rendering it structurally unsound.
+[1:23:21] Mossy's gonna miss that darn Drak: Okay, for this part, I think I would like to go to cregn, who has lots of knowledge and ask
+[1:23:26] Ian Lurie: for his help. I believe cregn is also a pretty good carpenter, but I could be wrong.
+[1:23:31] Mossy's gonna miss that darn Drak: Yes, he's I am proficient in Carpenter's tools.
+[1:23:34] Ian Lurie: Oh, well, okay, fine then, but he can assist you.
+[1:23:38] Speaker 2: Yes, okay, so I wait, I
+[1:23:52] Mossy's gonna miss that darn Drak: have advantage, because you're assisting me, right? Okay, that DICE is gonna go to jail. She's grumpy tonight, and I still have not found my lucky D 20 kilos stole it.
+[1:24:07] Unknown Speaker(s): Check the litter box. Jealousy, okay, so that is a 16, okay.
+[1:24:20] Ian Lurie: You think you do, okay, you hollow it out pretty well. You don't, you know, the wood doesn't split. Cregyn, you're watching her do this, and it, you know, giving some guidance, and it seems like it goes pretty well.
+[1:24:38] Sango / Cregyn: Can cregn use his special feature called my wife is an artificer, and I'm going to stand over your shoulder and tell you everything I think I know about what she's done before.
+[1:24:50] Unknown Speaker(s): Please
+[1:24:50] Sango / Cregyn: explain, but really I have no clue, yeah,
+[1:24:53] Ian Lurie: please explain how that would work exactly
+[1:24:56] Sango / Cregyn: on PRAXIA. It's called mansplaining
+[1:24:59] Ian Lurie: as well. So just okay, well, that would give her a minus two. So let's not do that. Total splane. Haha. Okay, so it is starting to get dark. What is there anything else you guys want to work on? You know that the cook is working on, well, cooking, you guys are pretty beat up, not pretty beat up. You are very beat up. I mean, you did, aside from mossy, you all took significant amounts of damage. I think rikter went down twice, right?
+[1:25:39] Sango / Cregyn: Yeah, that's Sango. Sango still got those Max hit points, and this all those
+[1:25:44] Ian Lurie: temporary hit points. That's right, you guys with evasion, that's, yeah,
+[1:25:48] Rikterr Shep'ard: we're the only ones who got beat the hell up.
+[1:25:51] Mossy's gonna miss that darn Drak: Yeah, it's just, I mean, it doesn't help that everything, like that dragon farting, I would take damage. It's higher than my AC, although I do have fire resistance now,
+[1:26:07] Ian Lurie: so you guys break for the night.
+[1:26:10] Mossy's gonna miss that darn Drak: Yes, assuming we're gonna do the last roll in the morning, once we have the rest of the drugs
+[1:26:15] Ian Lurie: time for Okay, someone give me a D 20 roll. The one guy who's not there, okay.
+[1:26:31] Unknown Speaker(s): Oh, I thought, I thought, Okay, fine. No, that's not fair. You're not here. I'll do it, yeah, like, I'll let you suffer with my role.
+[1:26:40] Rikterr Shep'ard: Oh, fucking, that's a crit.
+[1:26:43] Ian Lurie: Oh, okay, you're all dead. No, yeah. I mean, that could be, you know, a 20 on that could be really bad. But as it turns out, it's okay. The night passes uneventfully, except that rikter Almost chokes to death. I'm sorry about that. That was not my intent.
+[1:27:00] Rikterr Shep'ard: Again, when you have perfect timing, sir, never apologize if I die. That would have been the perfect way to die
+[1:27:07] Unknown Speaker(s): on that good ass joke,
+[1:27:12] Ian Lurie: sun comes up. It's it's kind of pre dawn.
+[1:27:22] Unknown Speaker(s): Y'all hear something on the party line. Took you assholes long enough. Fuck you. The fuck are you? Look down. Okay, looking
+[1:27:42] Ian Lurie: down so you guys are now at the outer edge of the crater, right? So you're out here, which is, you know, bad, but not uninhabitable. It's just a charred waste, and it is very close to where you had your big fight at the end of the last adventure. And you see the vault beetle actually dug Partway into the ground, and Drak is standing at the entrance to it, waving up at you.
+[1:28:09] Unknown Speaker(s): Vault beetle,
+[1:28:11] Mossy's gonna miss that darn Drak: yeah, Mossy's just jumping off the airship with the feather fall party to lock and load
+[1:28:18] Ian Lurie: the vault beetle is the thing that you guys had made that digs Partway into the earth and gives you shelter. I No, you were there, Sango, I swear to you.
+[1:28:34] Rikterr Shep'ard: Oh, a single baby. I love that. Nah, son, we don't what
+[1:28:42] Ian Lurie: doesn't ring a bell at all. Okay. Oh, that's fine. Just there's a shelter have dug halfway into the ground.
+[1:28:48] Sango / Cregyn: Let's Hey guys, what's this? This looks familiar. This looks new.
+[1:28:51] Mossy's gonna miss that darn Drak: What is this? Oh, I'm off the ship. I am. I'm falling down to where Drak is right now, and I wanted to actually try and land on top of him. Like, what the fuck motherfucker.
+[1:29:05] Ian Lurie: So Drak looks poorly. He looks like he's, you know, he's healthy, but looks like he's had a rough go over. The last you know, 24
+[1:29:15] Drak: to 36 hours. Go ahead, Drak, yeah, these bruises have bruises, and everything hurts and holy shit, I have some things to tell you all, yeah, clearly,
+[1:29:37] Mossy's gonna miss that darn Drak: and they gotta land, though, and pick us up. Now,
+[1:29:44] Sango / Cregyn: what's the airship gets down there. Sango goes over to deck. Hey, do me a favorite? Tell me the first place we met.
+[1:29:55] Unknown Speaker(s): I ignore that and I go straight to Surah toggles down.
+[1:30:02] Ian Lurie: He it looks like Drak Sura comes over to you and sniffs and then is just ecstatic, sort of like, shoves you over on the ground at first, guys, you're not sure if surah is about to eat him or something, and you're like, Oh, God, this isn't Drak. But then surah is just like, nuzzling him and licking him and sniffing at him happily. Surah is very happy to see your Drak good, because she would, she would know too, yes, she, she certainly would be
+[1:30:30] Mossy's gonna miss that darn Drak: glad he's not a dragon, or I definitely would have died doing that.
+[1:30:39] Sango / Cregyn: Yeah, so how did you I
+[1:30:45] Speaker 4: Yeah, the big question is, how?
+[1:30:53] Unknown Speaker(s): Okay, so I swapped the party line.
+[1:30:58] Mossy's gonna miss that darn Drak: I'm going, I'm being scribed. Oh, I have goggles down, so it's still right there. Can I
+[1:31:05] Ian Lurie: just look up and see? Well, actually, now there's one of those little spheres, but it's right over Drak,
+[1:31:13] Unknown Speaker(s): but don't get rid of it just yet.
+[1:31:16] Speaker 1: Okay, so he brought me there to basically say
+[1:31:24] Drak: his job is to deliver us to her, but she doesn't want us arriving bull power. So his thought was for us to willingly go in there. He's going to mess us up a little bit and then deliver us.
+[1:31:45] BBQ Ranger Short Ribs: I was not the position to really argue at the point and I'm like, I'm we need to spend some time like we need to talk about this. I'm not okay with this.
+[1:31:58] Mossy's gonna miss that darn Drak: Let ourselves be captured by the dragon
+[1:32:01] Unknown Speaker(s): to be delivered, then get beaten up and then be delivered. Don't love this. Not a fan.
+[1:32:11] Drak: Nevertheless, I saw that was my way out. Tried not to piss him off too much. It was a very awkward ride out of the lair, but
+[1:32:27] BBQ Ranger Short Ribs: he dropped me off, and the the agreement was, I'll be right back guys, that
+[1:32:40] Unknown Speaker(s): we would go back
+[1:32:42] Sango / Cregyn: to the caldera. Hey, disguise, God, we can talk by now
+[1:32:52] Unknown Speaker(s): and then we would meet, meet up. I think we could take them.
+[1:33:03] Mossy's gonna miss that darn Drak: I mean, I don't we had craft night while you were gone. You're gonna love this.
+[1:33:11] Drak: I cannot wait, as I because I was always getting delivered out. I've been taking a look at the environment. I would look. I want to find some places where we could have some sort of technical advantage. Also my rope trick spell,
+[1:33:34] Speaker 4: it creates an invisible plane so you could pop in, not be of this plane, and pop out. Yeah, it
+[1:33:43] Mossy's gonna miss that darn Drak: sounds like you should have used that before you get kidnapped by a dragon. You know what? I was busy. Why did why did you
+[1:33:56] Speaker 1: like we all the time of the world for an after action review.
+[1:34:00] Sango / Cregyn: Your voice got a little higher when you said that. Just, you've got Drak,
+[1:34:08] Unknown Speaker(s): you've got tells, dealing with a lot of emotions,
+[1:34:15] Drak: and also have been burned for the past 48 hours. Like, do you know? Do you know what it's like being dragged over the ocean while trying to keep your intestines in all that salt.
+[1:34:31] Mossy's gonna miss that darn Drak: It's not fun. I mean, you were mostly unconscious goulash when we saw you get scooped up. So did he heal you? Just to drag you through the salt water
+[1:34:43] Unknown Speaker(s): Pretty much, yeah. Oh, it
+[1:34:45] Drak: was terrible. I mean, yeah, I basically looked like a hot dish out of Lutheran potluck.
+[1:34:59] Sango / Cregyn: There you go. Just hands you some good berries. He's,
+[1:35:03] BBQ Ranger Short Ribs: he's, he's up and rolling. He's just covered in bruises and,
+[1:35:07] Ian Lurie: yeah, messed up. There's, you actually see large parts of his legs where dead flesh is sloughing off and there's healthy flesh underneath, but it bears all the signs of someone having been healed from severe burns.
+[1:35:25] Sango / Cregyn: Yeah. These are, like, the these are, like, those cough drops that are full of sugar that taste good. They don't really help you, but they make you feel a little good. That's kind of
+[1:35:34] Ian Lurie: what this is right now. It's like the teething pills we used to give our kids that had, like chamomile, but more importantly, 32 teaspoons of sugar somehow crammed into a space this big.
+[1:35:45] Unknown Speaker(s): But it's the one that you give Surah, so it's like, wrong.
+[1:35:51] Mossy's gonna miss that darn Drak: Wait, so I don't mean to make this awkward, just covered in bruises, but is that
+[1:35:56] Unknown Speaker(s): a hickey on your neck? I did this.
+[1:36:02] Mossy's gonna miss that darn Drak: I did lawful, chaotic things,
+[1:36:09] Unknown Speaker(s): probes, yeah, yeah.
+[1:36:15] Mossy's gonna miss that darn Drak: So that's what he wants. He and I'm assuming, if we don't, he's just gonna come on after us.
+[1:36:25] Unknown Speaker(s): He doesn't want to kill us. I think he does
+[1:36:31] Mossy's gonna miss that darn Drak: his words when he fucking showed up.
+[1:36:33] Speaker 1: Then he How do I put this? He has been told not to like but,
+[1:36:47] Mossy's gonna miss that darn Drak: yeah, that's his plan. I think we need to fuck him up. Did you give you like, a contract in writing or something? Because these guys are notoriously awful.
+[1:36:57] Unknown Speaker(s): Oh, not this guy?
+[1:36:59] BBQ Ranger Short Ribs: No, yeah, these guys are chaotic at all. Also, there's a point where standing in front of his face, his eye is
+[1:37:11] Mossy's gonna miss that darn Drak: taller than me. Wait, so he expects us to just show up in right? Yes, he does. Oh, you're gonna love this, because if we can get a really close, then using a drug filled harpoon would be easier. Also, we can meet a drug filled harpoon
+[1:37:27] BBQ Ranger Short Ribs: the those three words may be the best three words I've ever heard in that order.
+[1:37:39] Unknown Speaker(s): So,
+[1:37:44] Speaker 1: yeah, I think, I think, I think the only question is,
+[1:37:50] Drak: do we play along and then spring the attack? Or we just give a big old middle finger
+[1:37:58] Mossy's gonna miss that darn Drak: and plan the attack? Oh, I think we like fly the airship, right, too. I mean, actually, we're playing along and then we we candy flip his ass.
+[1:38:08] Unknown Speaker(s): I like the way the things, yeah, let's do this. Are we all rested? Are we good?
+[1:38:16] Mossy's gonna miss that darn Drak: Well, you're clearly not, and you also gooped on the floor.
+[1:38:22] Sango / Cregyn: You need it. You need a mirror, a bath, some good food and some more.
+[1:38:28] Unknown Speaker(s): Do I need bandages? Lots of bandages.
+[1:38:32] Ian Lurie: You're also still at least several hours away from the lair Drak.
+[1:38:43] Drak: Time to meditate. All right, before I hop on the ship, I would undeploy the vault beetle.
+[1:38:52] Ian Lurie: Okay, it's, by the way, it was pretty cool. It was pretty comfy. And you know this, this wasn't avernous, but it wasn't exactly a nice, natural
+[1:39:04] Unknown Speaker(s): place to hang out either? Yes, it was
+[1:39:08] Sango / Cregyn: great to get that. Drak, where'd you get that? Drak, where'd that come from?
+[1:39:14] Ian Lurie: Artemis hasp, yes, Artemis made it for you guys. Man, he almost just, he did all this damage to the zupak Bazaar, and you guys saw the explosion in the distance and went running over there,
+[1:39:27] Sango / Cregyn: yeah, yeah, I remember that part. Yeah.
+[1:39:31] Ian Lurie: That's happened a few times, to be fair, but it fits all of us. Yeah, be cozy, but it would fit you all snug as a bug in a rug. All right,
+[1:39:53] Unknown Speaker(s): Drak is gonna like, he's gonna just make sure all of his Battle Rattle is ready. Okay, and I don't think he should have any exhaustion left, because he had a short rest and a long rest.
+[1:40:16] Ian Lurie: Did we get a long rest? Yes, you did. That was you spent the night flying over here. You saw Drak. Drak contacted you the next morning.
+[1:40:31] Mossy's gonna miss that darn Drak: Okay, I'm gonna go see a line cook about finishing harpoon.
+[1:40:36] Ian Lurie: Okay, so you go see the line cook his his eyes are still kind of like this, but you notice now that his pupils are huge and the whole kitchen smells a little bit weird. He says, I think I made the drugs for you. They're really good. And, yeah, he here the drugs. He just hands you this kettle that's about this big, and in it is this kind of black, syrupy liquid. He says, when you when you cook the drugs, this is what they look like. And then if you dried them out, they become like what you had already, if that makes sense, okay, I'm kind of I'm seeing like seven of you right now, so I'm not quite sure
+[1:41:31] Mossy's gonna miss that darn Drak: I you worked all night. You did such a good job, I'm going to give you five more gold on the condition that you never cook drugs in the kitchen again, or tell anyone I had you
+[1:41:40] Speaker 3: cook drugs on me. So I always cook drugs in the kitchen. I don't know.
+[1:41:45] Mossy's gonna miss that darn Drak: I know what normally doesn't smell like that.
+[1:41:49] Ian Lurie: Well, this is new. This is new stuff, okay? And I only tried a little tiny bit, and it's all good. Now I got the windows. You did good. You did good. Thanks. Just canonically, now I'm giving him like a 19 Alchemist in alchemy or something. I love it, specializing in drugs, specializing in controlled substances. Okay, so you now have several gallons of oregar, okay? And I mean, it is extremely potent. It is very hard to handle. But this is where you need to give me your last alchemy check, because you have to get it into the vial, and then the vial into
+[1:42:27] Mossy's gonna miss that darn Drak: the Ballista bowl. Okay, I have my alchemical proficiency with may chan. So would it be someone, someone who might help
+[1:42:39] Unknown Speaker(s): me? I'll provide the help action. Okay, thank you. In
+[1:42:47] Ian Lurie: 2020, 2024 does it give you plus four? Does it give you advantage? Advantage? I think, yeah. Okay, no, that makes sense. That that
+[1:42:55] Unknown Speaker(s): okay, cool.
+[1:42:56] Mossy's gonna miss that darn Drak: Okay, so that is going to be a
+[1:43:01] Speaker 3: 23 Oh, no problem. All right, I'm
+[1:43:08] Mossy's gonna miss that darn Drak: it, I am absolutely delighted to use the artificer powers for good
+[1:43:13] Ian Lurie: or chaos, as the case may be. You know that, God damn it, I knew I was stealing that voice from somewhere, and I just couldn't remember. And yes, that would be, is that Caddy Shack? Yep, yeah, I'm just going after you so you now have the bolt. Do you load it into a Ballista? Yeah, okay. You are almost over the central crater now, and it is not quite as bad as it was when you were here a year ago. The fires have definitely died down a little bit, but it is incredibly hot, and as you fly over the crater Drak, what do you want to do?
+[1:44:02] Speaker 1: So I actually dropped
+[1:44:05] Unknown Speaker(s): a tree there before we left. Okay, see this shit? I don't remember.
+[1:44:15] Ian Lurie: I gotta tell you, the DM doesn't remember this either. Oh, no, no, no, no, yes, yes, you dropped a tree. No, you dropped a tree that. That's, that's north of the crater that's in the field of bone. Yeah, that's in the fields of bone, not, not in the crater itself. That would have been very unfortunate, yeah, because you're pretty, you know, as a ranger, that it would not have survived.
+[1:44:36] Unknown Speaker(s): Okay, that's why. Okay, double check. Okay, thanks.
+[1:44:41] Speaker 3: But you were supposed to signal burr school through the sky. I'm gonna
+[1:44:48] Unknown Speaker(s): give him the thumbs up. Okay.
+[1:44:51] Sango / Cregyn: Wait. Do we want to did he we should back this up and have a conversation about over the party line. Where exactly are you supposed to meet him at? What are those conditions so that we're prepared with what you're supposed to know?
+[1:45:12] Unknown Speaker(s): So the thing is, I signal, and then he wasn't
+[1:45:22] Ian Lurie: terribly specific about or school said you have to deliver them to his lair.
+[1:45:27] Unknown Speaker(s): Yes, so we have to
+[1:45:29] Sango / Cregyn: go down into the layer. Okay, what's Do you can you give us a layout to what
+[1:45:36] BBQ Ranger Short Ribs: the layer looks like? I only got to see a small portion of it.
+[1:45:40] Unknown Speaker(s): Can you point to it on the map?
+[1:45:42] Ian Lurie: The Wire? Yeah, right there. Yes, you do show you do show them where it is on the map.
+[1:45:48] BBQ Ranger Short Ribs: I show that like there are, like it wasn't, remember, it wasn't really enclosed. So I did see stars. Okay?
+[1:45:57] Rikterr Shep'ard: And when we go there is the dragon supposed to mess us up before it takes us to the end? Are we supposed to be pre pureed before we go in there?
+[1:46:11] Sango / Cregyn: Jesus said, show up. Is it? Is he supposed to surprise us? Should we work on our surprise faces?
+[1:46:17] Ian Lurie: Drak, do you mind if I, if I relay some of the conversation? Yes, because I know, because I have it all written down, and I know it was a Wednesday night, and we're school. Said, basically, we can do this the easy way or the hard way. My instructions from my queen were that I must weaken you, but that I am not to kill you. She did not say anything like that about everyone else you know and love, bring you and your friends to me, and I won't go and burn Aventine to the ground, and I won't go and hunt down all of your friends and everyone you've ever held dear and destroy them, because I am not Happy about what Tiamat made me do now. He also said, he said that Tiamat is wants to be released upon the prime material plane so that she can take it back to this primordial time when the Prime Material plane was all dragons. There was nothing else here. It was just it was a paradise for dragons. Urus ghoul and a lot of the other chromatic dragons don't actually want that, because they sort of like having all these humanoids and other species to boss around and steal shit from so they can't disobey her. She is literally their queen, but but also their deity, but they don't necessarily want her to completely succeed either. So what he said to you is, I am supposed to weaken you.
+[1:48:01] Speaker 3: I can also offer to help you. Yeah, let's make a deal. But if you don't, I'm
+[1:48:13] Ian Lurie: going to kill everyone you ever loved and destroy waste to entire continents, which you're pretty sure he could do. You're pretty sure that would not. That's definitely not being on the realm of possibility. But well,
+[1:48:30] Unknown Speaker(s): yeah, that was
+[1:48:34] Ian Lurie: part that I totally missed on my I didn't know how much, well, yeah, I didn't know how much you wanted to pass along directly
+[1:48:40] Mossy's gonna miss that darn Drak: to everybody. I mean, that does put a damper on my drug the dragon, yeah.
+[1:48:48] Rikterr Shep'ard: Mean, let's keep the drugs for a celebration after just
+[1:48:53] Ian Lurie: a thought. I mean, you could kill the dragon. I mean, if you, if you kill We're a school, then you know that problem is solved.
+[1:49:04] Rikterr Shep'ard: I'm gonna assume Drak has told the whole party, yes, yes. Okay, so rikter's going to say, I normally wouldn't advocate for this, but I say we make a deal with this dragon. If the dragon and other dragons like it are not particularly happy with the let's make this Prime Material playing great again. Let's use that for our advantage. Let's make a deal. We either strengthen the chains or find another way to stop Tiamat, and depending on what the dragons want to do after that you take that next step, but I think that this is the perfect chance to walk the gray line to save As many people as possible.
+[1:50:04] Unknown Speaker(s): Think it's preserves the balance.
+[1:50:12] Sango / Cregyn: Did he say how he was going to get us to Tiamat?
+[1:50:16] Ian Lurie: Nope, he didn't even he didn't strictly sport. He didn't strictly say he's going to get you there. He said he would find ways to make it easier, right? That he would ease your passage to Tiamat.
+[1:50:32] Rikterr Shep'ard: Plus, if the dragon helps us too much, then Tiama might get suspicious rather than, yeah, if it looks difficult, if we look like everything is going she's going to as much as a Dragon Deity lets their walls down, gonna let her walls down, and then we can do what we need to do from there, yeah, but mossy, I hear you, and I like the drug thing, so maybe you can also Bring it, and if we need it against Tiamat, do
+[1:51:08] Mossy's gonna miss that darn Drak: you think you could fire a ballista from your bow?
+[1:51:13] Unknown Speaker(s): Probably not. I feel like that might be a although I do have proficiency in a spear.
+[1:51:22] Ian Lurie: It's it's too big to be a spear. It's a telephone pole. A blister bolt is the size of a small telephone. In fact, with your strength, you
+[1:51:31] Mossy's gonna miss that darn Drak: know? Oh, I definitely pictured it smaller than that.
+[1:51:33] Ian Lurie: Okay, it would be like a hobbit doing a Caber toss. It would not go well at all if you
+[1:51:38] Rikterr Shep'ard: tried to do that. Okay? So again, we might be these are celebration drugs, rather than dragon knockout drugs.
+[1:51:46] Mossy's gonna miss that darn Drak: I mean, the next time that a Dragon comes up on us, it'll be a fun surprise. True, it's in our party inventory, in the airship. LSD, harpoon. Nice. All right, all
+[1:52:00] Unknown Speaker(s): right. Well,
+[1:52:03] Rikterr Shep'ard: what's what do you guys think? Sango Cregyn mossy you down to make a deal, or you think we put another dragon head in our trophy room?
+[1:52:17] Mossy's gonna miss that darn Drak: How about we just tell the dragon that he needs to come talk to us, and we keep the Ballista within striking distance until we're convinced.
+[1:52:30] Sango / Cregyn: That means the airship is within striking distance of him.
+[1:52:42] Mossy's gonna miss that darn Drak: That happens, betrayed and attacked us. If that happens,
+[1:52:49] Sango / Cregyn: he's gonna attack us anyway. He wants to attack us. That's part of his plan, right? We're gonna have to fight him, even if it's with fake wooden swords or whatever he wants, but it's gonna be a battle of a mock that he's gonna have to rough us up, right?
+[1:53:06] Mossy's gonna miss that darn Drak: Haven't you ever written don't know. I haven't I was planning on drugging the dragon, my guy, I did not go beyond that.
+[1:53:14] Ian Lurie: Drak the dragon said, weaken you. Yeah, weakness.
+[1:53:20] BBQ Ranger Short Ribs: Drak is not a reliable who's not a reliable narrator at this point.
+[1:53:23] Ian Lurie: It's understandable. I mean, you're, you're kind of, you know, on fire.
+[1:53:34] Unknown Speaker(s): No, I think, I think, I think we should talk to him.
+[1:53:37] Ian Lurie: Where do you guys want to be while you're having this discussion? Like, how close to the crater Are you? Are you still approaching? Do you stop? Approaching.
+[1:53:50] BBQ Ranger Short Ribs: I feel like this is a conversation we've had as we approach. Okay,
+[1:53:57] Sango / Cregyn: so through the party
+[1:53:58] Ian Lurie: line, it's not,
+[1:53:59] Rikterr Shep'ard: yes, you're Converse. Let's, let's keep approaching. Just because if there's a scry on Drak and the dragon sees a stopping. It might make the dragon think we're trying to plan something, and the Dragon attacks us, rather than us having the advantage in this situation.
+[1:54:17] Mossy's gonna miss that darn Drak: Yeah, everybody in their relative corner doing a random thing, just talking to a party line.
+[1:54:22] Ian Lurie: Yeah, so right now you're about there, and where's the layer? I'm sorry, where's the according to Drak, the lair was right about the
+[1:54:34] Unknown Speaker(s): layer is there? The larger, yep.
+[1:54:40] Ian Lurie: Oh, my god, yeah. You can see where I'm Yeah.
+[1:54:44] Speaker 1: I also, there's also like fire ancient in the Lair that that may not I think,
+[1:54:57] Ian Lurie: remember, there was also a force field of some kind, so that you were not immediately incinerated while you were down there.
+[1:55:03] Speaker 1: Yep. Force field. There was rivers and rivers of lava.
+[1:55:08] Ian Lurie: Basically, it's on the floor of that crater, yeah, in fact, here I can just show you. This is not totally accurate, because this is all from memory, but this is kind of what it looks like. So Drak, the part that you know for certain about is over here. This is where you were, okay, okay, as you were carried out, you definitely saw something like this. Okay, okay, you didn't get a ton of detail, but that's basically what you saw. There's probably more detail to this, but you know, fire and smoke and all that, so it was hard to tell exactly what was going on.
+[1:56:03] Sango / Cregyn: Yeah. So this is the avatine equivalents of the floor.
+[1:56:10] Ian Lurie: Is lava, yes, yes. Well, there were hilarious, but you definitely don't want to be, you know, wading through the lava to get from one to the other. I mean, you guys are superheroes. Don't forget. So there's, you know, there's things that you can do that go well beyond what a normal person would be able to sustain,
+[1:56:30] Unknown Speaker(s): withstand, yeah, but immersion in lava is not one of them. Yeah,
+[1:56:41] Mossy's gonna miss that darn Drak: you're really not pitching this diplomacy to me, I tried diplomatic cakes was not
+[1:56:49] Unknown Speaker(s): not all it was cracked up to be. Yeah, I think is the best option.
+[1:57:04] Mossy's gonna miss that darn Drak: Can't it come out so we can talk? I really don't want to have negotiations in the lair of the beast.
+[1:57:16] Ian Lurie: So I'm just going to show you some concentric rings so that you know. So that's about a mile. Oops, that God, that's about 50 miles. You are currently about halfway in
+[1:57:39] Mossy's gonna miss that darn Drak: to the 50 mile radius. Okay, can I drop goggles down for a sec? I
+[1:57:48] Ian Lurie: we being scribed on. Well, it's, I mean, Drak is still, still has the scry, yeah, okay. We want to talk to you and hear you out. Give me an Arcana check. Oh, my so much Arcana, sir, yeah. Well, there's lots of Arcana going on. Okay, 25 okay, this scry has a different flavor than the scry that you saw up on the top of the mast. Different flavor, like different caster, like a different caster. This feels less powerful. It feels less the other one almost had a like a foul aftertaste to it. This one does as well, but less so.
+[1:58:40] Unknown Speaker(s): Ah, okay,
+[1:58:43] Mossy's gonna miss that darn Drak: look around the other one. Nother cool. She's not watching us being watched by you, and we want to talk to you and hear you out. But my guy, you cannot expect us to walk into your lava ridden lair. Come meet us. We're about 25 miles out. Ian,
+[1:59:08] Ian Lurie: yeah, so you stopped the ship at that point.
+[1:59:11] Mossy's gonna miss that darn Drak: Yeah, okay,
+[1:59:12] Ian Lurie: unless anyone objects. I mean, is that everybody's
+[1:59:15] Unknown Speaker(s): agreement? Yeah, yeah, yeah, we're good. Okay,
+[1:59:23] Ian Lurie: so you guys slow to a hover. Lysander says, what should we be expecting?
+[1:59:31] Unknown Speaker(s): Big Ass dragon, the big one says, All right, I
+[1:59:41] Ian Lurie: just want to remind everyone how that went last time.
+[1:59:47] Mossy's gonna miss that darn Drak: Okay, do you want us to go down the ground and y'all can scamper away we get
+[1:59:51] Ian Lurie: the sending stone, we'll call you. Yeah, I don't I mean, I will do what you order me to do. I'm just saying that I am not certain that this shit could withstand a full attack from the dragon.
+[2:00:05] Rikterr Shep'ard: Yeah, if the dragon fully attacks us, then we've done our job wrong. And, yeah, things are already so out of hand that withstanding that attack is going to
+[2:00:17] Mossy's gonna miss that darn Drak: be the least of our words, if it's coming towards you, try out the drug Ballista. The what? There's a bunch of hallucinogenic it's really powerful, and it's in a hypodermic format. So if you fire this blister right here and get it, you know, get in a good haunch somewhere, nice, meaty, they should be tripping
+[2:00:40] Ian Lurie: balls real fast. You are explaining to me that. You are telling me that I have a large chemical weapon on this ship right now, yeah,
+[2:00:51] Unknown Speaker(s): just checking very well,
+[2:00:53] Mossy's gonna miss that darn Drak: yeah, save that one for dragons. The
+[2:00:55] Ian Lurie: other boosters are fine. You are in charge. So I just wanted to make sure I understood.
+[2:01:02] Mossy's gonna miss that darn Drak: Look, if it's you against the dragon, having the advantage of the dragon. Not being sure what's happening is probably
+[2:01:07] Ian Lurie: in your favor. All right, that could work in my favor. It is true. Okay, he so you guys want him to set you down?
+[2:01:22] Unknown Speaker(s): Or do you want to? Yes, I think so. Yes.
+[2:01:25] Ian Lurie: Okay, so you guys kind of loop down.
+[2:01:30] Mossy's gonna miss that darn Drak: You do that immediately. I mean, Drak, Is there anywhere particular we should
+[2:01:38] Unknown Speaker(s): land a good clearing? Okay,
+[2:01:42] Ian Lurie: it takes you a little bit of time, but you do find an area that's not completely hostile, you know, it's all kind of ash and and dust here, but you find an area where there's actually, there's some growth happening. And, you know, it's not all sort of sharp lava rocks. So you can, you'll be mobile there if you need to be, and the discontent drops you off. That all takes about half an hour. And just as it takes off, you see a shape rapidly growing from the north west from northwest of you, and it quickly resolves into the size and shape of we're school, and the dragon swoops in, and you feel that that kind of hot, the heat of its breath. And even just when it flaps its wings, it feels like it's there's heat being shed from the dragon itself as it slowly sets itself down on the ground right in front of you, and the ground shakes a little bit as it lands. And it looks down at you all from its you know, the giant eye that Drak pointed out, you know, is as tall as any of you guys. And he says, You have says, i is, i do not appreciate
+[2:03:09] Mossy's gonna miss that darn Drak: being summoned little creatures. Yeah, same. Do a big curtsy. Nice to meet you. Heard we have some things of mutual interest. Would love the chat.
+[2:03:23] Ian Lurie: He turns from you mossy, to you Drak and says, Does this one speak for you? She, does she?
+[2:03:33] Rikterr Shep'ard: She and I are one mind. What was our deal
+[2:03:39] Ian Lurie: that we bring? Do we come to you, that you come to my lair? Are we in my lair right now.
+[2:03:46] Unknown Speaker(s): Is this not this? Is this not? Is this area not your lair?
+[2:03:51] Ian Lurie: Don't play words, word games with me. Little Elf, you know perfectly well, we are not in my lair right now. And disobedience has consequences.
+[2:04:00] Unknown Speaker(s): And as he says that
+[2:04:03] Ian Lurie: the villains is content, which is about a mile and a half a mile or a mile and a half away, bursts into flame, and you see four enormous, mean, just balls of fire just fall on it, just one after the other, and the discontent starts to list and slowly settle towards the ground, and in a matter of you're all standing there just in shock, and in a matter of five minutes or so, well, actually, those four huge balls of fire strike the ship. What if anything? Do you guys do? And he
+[2:04:45] Sango / Cregyn: just stands there and says, Craig, and raises cregn and raises his hands, she did. She did. She doesn't speak
+[2:04:51] Ian Lurie: for me, just we had a deal you broke.
+[2:04:57] Rikterr Shep'ard: Rikter in drakak just says in the most respectful tone that he can. And right after translates in the party line, please stop. Give me a persuasion check. Yes, sir. I that's going to be a 23
+[2:05:33] Ian Lurie: sir, okay. He looks down at you, and he can see, for the first time, he may actually be surprised. And he rumbles back at you in drakak that I did not expect, and for that you have my respect. I He says, I will. I have demonstrated my anger. I will stop. And you see the again. The villain's discontent is still on this slow trajectory down to the ground. There's there's smoke and fire just billowing off of it as it kind of slowly settles completely down onto the ground and is listing to one side, because it's not really meant to sit on the on hard ground. It kind of slowly leans over and is sitting there on its side, resting on the ground with smoke and fire pouring off of it. You see figures jumping off of it, and then the dragon steps between you and the wreckage, which is just a.on the horizon anyway,
+[2:06:46] Unknown Speaker(s): and looks at you, says,
+[2:06:51] Rikterr Shep'ard: for rikter, just slowly reaches behind them, pulls Bastion off his back and banishes it, and then he starts to bow to the dragon, and still in drakak and still translating over the party line so everyone else can understand them, says thank you for your respect, and in return, we give you ours. We are sorry for how we came out. We are used to handling things in a certain way, but we now understand the folly of our ways, and know that our ways are not your ways, and we will respect your ways. Going forward,
+[2:07:36] Ian Lurie: he kind of tilts his head and he says, This one is wise. Your ship will continue to exist because of his wisdom. You would do well to learn from him. I am not to be trifled with, and mincing words and splitting hairs does not work with me. So shall we to my lair where we can converse like civilized people very well. He he actually sets down, gets down on all fours, on the ground, and puts out one. It's his right fore leg. And you realize he is actually offering you a lift up all of you.
+[2:08:37] Unknown Speaker(s): All gonna get on it. Okay? You're on mute. I'm putting surah in the gym. Okay, mossy, you getting on? Mossy? Oh, you're thinking, okay,
+[2:09:11] Ian Lurie: ribs on it, yep. If you hesitate visibly, just let me know if you hesitate visibly.
+[2:09:19] Sango / Cregyn: Sango walks up, gets on behind rikter, okay, and cregn is still looking back at the air shipping, okay,
+[2:09:28] Mossy's gonna miss that darn Drak: but that he follows, just gonna flash rikter a look like, Are you sure about this?
+[2:09:36] Ian Lurie: So the brewer's ghoul sees you hesitate and Mossy and says, Oh, I understand your hesitation, but you really have no choice here, little one, if I wanted you dead, you would all be dead if I wanted your ship reduced to its component grains, that also would be done. Yeah,
+[2:10:08] Mossy's gonna miss that darn Drak: I wish all right, then always wanted to see blue dragon scales. Up Close. You say blue dragon scales? I didn't
+[2:10:19] Ian Lurie: mean you say blue cigarette. I was gonna say, Damn, what an opportunity.
+[2:10:23] Unknown Speaker(s): Okay, I'm to back. See we're colorblind.
+[2:10:29] Ian Lurie: I only see green, okay. He scoops you all up and flies off for his lair. Once you set down there, he puts you on Yeah, and just so you guys know, I created this map quite a while ago, so there's no particular like investment for me that there's, there does not have to be a fight here. Any, anything you all want to do to stay out of this fight is probably a good idea. So don't think you know map means combat. I just wanted to create the settings so you guys would be able to see kind of roughly what it looks like. You can see there are places that are not lava. You can see up here. This is you guys are here for scale. You can see up here. This is the cliff faces. And then this is where the Caldera, really, the caldera proper starts. He sets you down around this obelisk. This obelisk is blazing hot, like you all have to stand as far away from it as possible in order to remain up here, but you realize that this is probably one of the better places to be in this lair, unless you know Drak. You know none of the rest of you realize this, but Drak, you know that this actually is not the worst place to be, although it looks pretty awful. So he sets you all down up there, and he says, so I must hear this. What's your plan?
+[2:12:29] Sango / Cregyn: Are you going to? We were going to, we were going to, we were just going to come in here and sort of punch you in the face and knock out a couple teeth, get you to surrender, and then we were all going to go home happy
+[2:12:47] Ian Lurie: that that's amusing, he says, but I was actually talking about your plan for Tiamat. Oh, but thank you for sharing.
+[2:12:55] Unknown Speaker(s): The plan was to restore the magical restraints,
+[2:13:04] Ian Lurie: the chains of Gleaner. But how are you? How would you get there? How would you do that?
+[2:13:09] Sango / Cregyn: Party line x, they on the Ian chain nay, Plan A
+[2:13:16] Rikterr Shep'ard: Well, we've already threatened him multiple times, so I've been us not doing anything to piss the dragon off has already left the station.
+[2:13:36] Speaker 4: So like, how to get like he's asking us how we're going to get there. Yep, she shit. What was that city's name?
+[2:13:51] Ian Lurie: The Gurges, okay, or sorry, Silgorin.
+[2:13:54] BBQ Ranger Short Ribs: Silgorin, we were on our way to the Gurges, and we're going to go through a Silgorin, and we've done plenty of research to look at the maps, such a topography, the environment of Avernus. I see there are the meringue Ian. The meringue Ian the miranaleth, the Miranda lofts.
+[2:14:26] Ian Lurie: You. He says, so I want to understand this. You have turned the mumblings of an old man and some scribbles he made on a piece of parchment decades ago and turned that into the plan for how you will reach the lair of the queen of dragons.
+[2:14:55] Sango / Cregyn: We didn't say it was a good plan. I'm
+[2:15:03] Ian Lurie: sorry. Goggles down. Okay, you actually see that the that other scry ball, the one that you saw on the mast on the ship, the one that's from someone else directly over feeling
+[2:15:18] Mossy's gonna miss that darn Drak: or school's head party line Tiamat is watching scrying right now.
+[2:15:27] Unknown Speaker(s): Got you also
+[2:15:30] Ian Lurie: give me a perception check. Everybody here? No, just Mossy. 19, okay, you see some. You realize as you're looking around that you see some strange forms in the flames around you, that these aren't just flames. There's, there's little like as the flames, you know, burst and and shed little, you know, little puffs of gas and heat. Some of them
+[2:16:04] Mossy's gonna miss that darn Drak: almost seem like the fire ribs we saw at the Jimmy factory.
+[2:16:08] Ian Lurie: Well, they seem humanoid, but when they burst off, it looks like they're screaming. They don't look natural. They look like they're their hands are almost raised in supplication as they as the smoke and the fire is shed up from the ground. It's almost like with each puff there's, there's a person or a soul or something
+[2:16:32] Mossy's gonna miss that darn Drak: being tortured. You're not Yeah. Could I do an Arcana check to
+[2:16:35] Unknown Speaker(s): see if I understand? Sure,
+[2:16:39] Mossy's gonna miss that darn Drak: I do a nature check. Natural
+[2:16:40] Ian Lurie: 20, okay, yes, 37 so assuming that mossy points this out. This does not require a special play the goggles. The goggles made it easier for her to see it. But if she points it out, you can all see this.
+[2:16:58] Sango / Cregyn: 21 Cregyn, rikter, Drak
+[2:17:05] Rikterr Shep'ard: Richter is waiting to give back to diplomacy. So he's just, he doesn't want the dragon to see anything he's doing as threatening. He's just arms behind his back, just eyes locked on the dragon.
+[2:17:19] Ian Lurie: Okay, 16, all right, mossy, you're you're the one who probably realizes this. You think that the the barrier between between some other place
+[2:17:42] Mossy's gonna miss that darn Drak: is like one of the portals to the hell planes we read about
+[2:17:45] Ian Lurie: and researching. It could be one of those portals, and it could be that there are souls being tortured very nearby. And so what you're seeing happen here is part of that rush says, and he's speaking to you rikter as kind of the person that he he has decided is that the one to treat with. He says, Avernus has changed the fires there will burn you alive before you can speak. There's one thing and one thing alone that will keep your flesh on your bones,
+[2:18:29] Unknown Speaker(s): and that is my brand
+[2:18:33] Ian Lurie: you currently carry. And he takes an enormous claw and taps you rikter on the chest, says you carry the five fold brand. One of those five is my brand, and if I strengthen it, it will give you what you need to survive to meet Tiamat. In addition, I will take you through the Gurges, or sorry, I will take you from here directly to Silgorin and the Gurges without your ship, you're facing a two to three week walk across the wastes, across what's left of Essedria, up The Hell Girl and to Silgorin Insight, go for it. It's a whopping tin. This is a very alien creature. It's hard to know. Seems to be on the up and up. It doesn't have, you know, the the normal ticks you would see on a on a humanoid, for example, where you know you're very, very good at perceiving if someone's lying to you.
+[2:20:00] Rikterr Shep'ard: Before rikter addresses what he said, he looks at the dragon and says, My Lord Dragon, how may one of your lessers address you with respect,
+[2:20:14] Ian Lurie: give me we're only a D 20 on a plus charisma plus proficiency on well, we'll call it diplomacy, but it's also professional dragon ass kissing, because you're doing an extremely good job of doing what a red dragon wants to hear.
+[2:20:31] Rikterr Shep'ard: Okay, so I'm sorry one more time. What's the role with
+[2:20:35] Ian Lurie: D 20 plus charisma
+[2:20:36] Rikterr Shep'ard: plus proficiency? Okay, thank you. And this is just a check, correct?
+[2:20:42] Unknown Speaker(s): Yeah. Okay,
+[2:20:46] Rikterr Shep'ard: that is going to be a 27
+[2:20:50] Ian Lurie: Awesome, outstanding. Okay, he looks at you very directly and does not appear he's puffed up. He's, you know, like, like, when you're talking to someone at a conference, and they have high, high opinion of themselves, and you're catering to that opinion. He definitely has that look of, you know, yes, I am smart. You're right, and you're smart for knowing that you know where you just want to smack them in the teeth, but you manage. But not only do you restrain yourself, and everyone else is watching this, and you all are kind of like, wow. Ribs really good at this, because you can tell rikter is playing him just a little bit. And he says, you may simply call me ghoul,
+[2:21:37] Rikterr Shep'ard: my lord ghoul, we would love for you to bless us with this boon so that way we may walk safely through averness, and we were foolish to think that some writings in the book were enough, that we did not need a great dragon like yourselves wisdom to help us with this. That is our folly, and we apologize.
+[2:22:05] Ian Lurie: You are very small. He says, very well, to accept my brand, you must all for a few moments, hold on to the obsidian obelisk, and he turns and he points at the that thing that's just shedding so much heat in the middle of the in the middle of this little plateau. He says, do that, and you will become immune to the effects of fire for a fixed amount of time, a great deal of time. I cannot tell you exactly, but it would probably verge on a month or more.
+[2:22:56] Rikterr Shep'ard: There is a price saying, Is he saying this
+[2:22:58] Ian Lurie: in common or draconic? Common? Okay, cool. Actually, no, he's saying draconic just to you. Okay. He has
+[2:23:06] Rikterr Shep'ard: been rikter is keeping a running translation going through the party line.
+[2:23:11] Ian Lurie: He says,
+[2:23:12] Unknown Speaker(s): Now there is a price that you will have to accept,
+[2:23:21] Ian Lurie: but this is how you can make your way successfully
+[2:23:25] Rikterr Shep'ard: through Avernus to meet my queen. What? What's the price? I was gonna say, My Lord ghoul, can one as small as myself know the price so that I may share this information with my friends, so that they understand what we what small gift we can give to you for such a great boon that you're bestowing upon us.
+[2:23:52] Ian Lurie: He lowers his head down to the level of the the plateau. Puts his eye level with all of you, that gigantic lidded eye, and you can see into it. You know the depth, like you feel like you could almost fall into it, and you can see almost you think there's actually fires burning in the eye. Like, instead of just the the iris, that instead of an iris, there is actual flame. He says, you will give me a portion of your pride, some of your strength, some of your fortitude, perhaps some of your grace as well,
+[2:24:37] Unknown Speaker(s): and that also will last for as long as my brand persists. I
+[2:24:50] Rikterr Shep'ard: party line. Rikter says, So guys, what do you think?
+[2:24:56] Sango / Cregyn: Cregyn says, I don't have a whole lot of grace left to get but sure, I
+[2:25:10] BBQ Ranger Short Ribs: I feel it is the smart thing to do, and I hate it.
+[2:25:26] Unknown Speaker(s): Fuck him.
+[2:25:37] Rikterr Shep'ard: Is that? Fuck him as in, you're mad, but we should still do it.
+[2:25:46] Unknown Speaker(s): Unfortunately. Yes.
+[2:25:52] Rikterr Shep'ard: So rikter nods to everyone, just give them a small thankful smile. Turns to the dragon and says, My Lord ghoul, we are willing to give so that we we may accept very well,
+[2:26:19] Ian Lurie: I suggest that you shed your any items that you have that are not immune to fire. The obelisk is quite hot, and while I can protect you from being harmed and fix whatever harm you may take, I cannot protect your items.
+[2:26:39] Rikterr Shep'ard: Rikter's gonna strip down to his skivvies. Okay? Ian,
+[2:26:49] Unknown Speaker(s): mossy, your armor should be fine. Eyes up here. Drak,
+[2:26:56] Sango / Cregyn: Greg, it's like you go first, boss, man, I'll go after you.
+[2:27:02] Unknown Speaker(s): I will follow ribs lead. Okay, all right.
+[2:27:08] Ian Lurie: He waves an enormous clawed hand over the top of the obelisk, and it flares briefly and gets hotter, and then it seems to cool. And you realize Drak that it has not cooled. Instead, you are all enveloped in that same weird field that you were enveloped in when you were down on the surface of the crater, on the surface of the layer. And he waves as if to say, you know, step forward. And you all step up to the I'm assuming you all step up to the the obelisk. Um, hmm,
+[2:27:48] Unknown Speaker(s): and you
+[2:27:51] Ian Lurie: put your hands. You each put one hand on the obelisk, and as soon as you do, the field surrounding you interlocks, and you're actually frozen in place like you can't remove your hand from the obelisk and the brand, the Red Star, and all of your brands, flares to that white hot intensity, again, that rikter had up on the ship. But it's just that brand, just that one part of it, and the pain is excruciating. Everyone needs to give me a wisdom.
+[2:28:27] Mossy's gonna miss that darn Drak: Save and just let me know what you roll natural 20. I'm making fucking eye contact the whole goddamn time.
+[2:28:39] Unknown Speaker(s): Mossy's Just like 25 okay,
+[2:28:47] Sango / Cregyn: wisdom, Sango field, yeah, Cregyn has a 16, okay, and Sango has a
+[2:29:00] Ian Lurie: 27 Okay, so first 2323 okay, cool, mossy, with your natural 20. Just for effect, here you're basically, you're giving him the Wolverine stare. You're like, it hurts and you know,
+[2:29:17] Mossy's gonna miss that darn Drak: you know what her hair, yeah, it's going to hurt you more later.
+[2:29:21] Ian Lurie: It's, that's exactly what he's that's exactly what the message you're sending. And you can see he's almost kind of like, all right, all right, little cat person, you I give you respect. Your fur is actually curling and crisping around the brand, and you're just powering through it. And in your mind, you can picture like all the horrible things that have happened. You know, Kiki, with her eyes totally white, being tortured by Tiamat. You could picture what could happen to Aventine. Right the city in flames. You picture the villains discontent crashing to the ground in flames. Always.
+[2:29:59] Mossy's gonna miss that darn Drak: Picture a diagram of where I'm going to slice and dice his head up and fit in my
+[2:30:03] Ian Lurie: bag of holding on top of all of that. You picture you standing over the the body of this dragon, and you can tell that Urus ghoul knows what you're thinking in that moment. And Urus ghoul just sort of nods with respect, as if to a, you know, to some lesser creature in front of you that shows defiance. He's he's, he doesn't say anything. But just like he can see what you're thinking, you can see what he's thinking. Drak and rikter, you each hold on and and also, Sango, sorry or no wait, I'm sorry, which one of you rolled high? Sango, Sango, and also Sango. You're all holding on to this. And everyone except Cregyn takes 10 points of psychic damage from the what you think is the heat, but it's not
+[2:31:02] Unknown Speaker(s): cregn. You take 20 points.
+[2:31:08] Mossy's gonna miss that darn Drak: Silly question, did there temporary hit points from the feast? Thing stay?
+[2:31:13] Unknown Speaker(s): No, those are gone. We haven't you haven't even done the feast yet.
+[2:31:22] Mossy's gonna miss that darn Drak: No, we didn't think before we left. We had, like, a week long
+[2:31:25] Unknown Speaker(s): 85 points. Thing that was the demi plane. Yeah, yes. Am I mistaken?
+[2:31:34] Speaker 1: Because we have Hero's Feast as a scroll.
+[2:31:37] Ian Lurie: Oh, okay, okay, but no, but you did. You're right. You did have the demi plane because you spent the time. I thought that lasted for like a week. No, you do still have it, I'm sorry, and I think that you mossy, and you Sango, still have most of those hit points left Drak and rikter, yeah, the dragon blew through those in a hurry. When you
+[2:31:59] Sango / Cregyn: when you hit a long rest and DND beyond, it gets rid of all temporary hit points.
+[2:32:04] Ian Lurie: Yeah, well, but yes, but that's not, yeah, you have to manually tell it to keep the the 85 you do keep those 85 temporary for seven days after resting on the demo plan. I believe I'll double check that later, but so you have that searing pain, whether it burns away, temporary or permanent, doesn't matter. It's still searing pain. And then just when you think you can't hold on any longer, you kind of yank your hands back and you're done. And you look down and you you see on your chest, where that little, where that the five fold brand was even, you know, the colors were the same, with the same size for each color, the red now is about twice as large and almost looks like a star, like there's, there's five points coming out from it that are, that are dark, like almost charcoal. You know the effect? You know the effect of the sorcerers of dormamu in Dr Strange when they have the effect around their eyes. That's what it looks like around the red portion of the five fold brand now. He says, you now have my gift. I won't demonstrate it because that would destroy your equipment. But trust me when I tell you,
+[2:33:34] Rikterr Shep'ard: rikter bows deeply and just says, Thank you, my Lord ghoul. We know that we would normally be unworthy of such a boon, but we thank you for letting us use it in
+[2:33:47] Ian Lurie: this time of need. I I know what that our interests align to some extent. Everybody, give me a perception check. You look over to your towards your items, and something feels kind of weird.
+[2:34:14] Unknown Speaker(s): Drak him, 1032,
+[2:34:17] Speaker 2: natural, 20 or 31 Geez.
+[2:34:20] Ian Lurie: 24 Why do I bother you guys? Look over towards your items, and standing there is this draconic figure about your size, completely black, scales, like head to toe, and you realize rikter. You realize this is one of those the Abishai. It's not one of the ones that had you before. This one is black. It has two short swords in its belt, and it's standing there with its hands clasped in front of its chest, and it bows slightly too, and then just stands there impassively. Orish Ghoul hisses and looks at him and says, vaxeth, I told you to stay away from this place while we have guests, and you assume Vax, if that's the that must be the Abishai turns to Guru
+[2:35:34] Unknown Speaker(s): school and says, I apologize,
+[2:35:39] Ian Lurie: my lord, but I was not sure if you would need aid, And my queen has charged me with assisting you. And urush Gul says, Leave us. Do you guys do anything or
+[2:36:01] Mossy's gonna miss that darn Drak: context here, his name came up previously. He technically works for the Lord of the Nine Hells, but also seemed to facilitated the weakening of tiamats imprisonment.
+[2:36:17] Ian Lurie: Do I have that right? No, that this is someone new. Okay, you haven't met this person before. This is just, this this is a black Abishai. Well, sorry, all the Abishai do what you're describing. They all, they all serve the lords of the Nine Hells. Okay? They are not actually dragon folk. They are demon. They are devils. But they do also work very closely with Tiamat. So you know, they're following team moss orders the same way that we're school is
+[2:36:55] Mossy's gonna miss that darn Drak: maybe even more okay, burn another minute. Is it
+[2:36:58] Unknown Speaker(s): still up there? Yes, just over the party line, yes, it is still up there.
+[2:37:07] Rikterr Shep'ard: DM, Can I roll? Would it be religion or iconic to roll for rikter to know if an avid shy
+[2:37:17] Ian Lurie: understands draconic or not? Um, I would give you either. I would give you, actually, nature to understand that, or religion,
+[2:37:28] Rikterr Shep'ard: either one, okay, I was gonna say nature, of course. You choose the one that
+[2:37:34] Ian Lurie: for Yeah, cuz no, for you, it would be either one. That's right, okay, 17, okay, yes, they do speak drakak Nuggets, okay, and they do also speak abyssal, by the way,
+[2:37:52] Unknown Speaker(s): a silly question. Ian,
+[2:37:56] Mossy's gonna miss that darn Drak: so sorry. Well, you pointed that thought. But can dragons inherently see a scry?
+[2:38:03] Ian Lurie: Not as far as you know. I Okay, some of them may have magic that lets them see scrying. Some of them have true sight, but some of them don't, and it's you can't tell for sure. I can just you know. And for the sake of of transparency, our ancient Red Dragons do not have true sight, so okay, but they do have magic. So you know, he could cast detect magic or cast true sight, but it's not innate.
+[2:38:37] Rikterr Shep'ard: Rikter is going to look at the dragons say, My Lord ghoul, are you sure you can trust this one to be here in this moment now,
+[2:38:51] Mossy's gonna miss that darn Drak: gonna cast message real quick to the dragon and say, Lord Gould, there's a sky above you. It's Tiama.
+[2:38:58] Ian Lurie: So Gould turns to you, rikter and says, Oh, no, of course not. And Vax, if actually kind of grins, it sort of Leers, actually doesn't really grin, and says, Oh no, he most, I do not work for him. I work for our our queen to ensure that we are all moving towards the same goal, shall we say, I coordinate on her behalf. In your head, mossy, you hear, yes, I am quite aware she her eyes are Ever on me.
+[2:40:01] Rikterr Shep'ard: Well, that was rikter's play, so I
+[2:40:08] Mossy's gonna miss that darn Drak: I respond back to cool. She's seen what you've done. She knows your plan.
+[2:40:15] Ian Lurie: Probably yes, she she cannot watch constantly, but she would expect no less. It is the nature of our chaos.
+[2:40:36] Mossy's gonna miss that darn Drak: You know, we already beat her once you're stronger than she is. Why is she leading it?
+[2:40:42] Ian Lurie: Give me a we're gonna have you're gonna do another diplomacy. I am baiting an ego. That's what I Yes. So give me, give me another, give me the same role that rikter did. So it's D 20 plus charisma. D 20 plus charisma. You're not really a diplomat, per se, the way that rikter is, but
+[2:41:09] Unknown Speaker(s): is it a save or a check to check?
+[2:41:17] Ian Lurie: No, what'd you get? I got a four. Okay, cool. Looks amused, the smile sort of quirks one side of the huge dragon's mouth. He says,
+[2:41:39] Speaker 3: You flatter me, but I do not approach her level of strength,
+[2:41:49] Ian Lurie: what keeps her bound is power is far beyond mine or yours, or any scene on this plane,
+[2:41:58] Mossy's gonna miss that darn Drak: and one of the ways to strengthen those trains is to indenture her.
+[2:42:05] Ian Lurie: I The DM. DM question, What do
+[2:42:08] Mossy's gonna miss that darn Drak: you mean by indenture? That was from the riddle with Nick them about ways to deal with tmont. One was indentureship. Also I have to let my dog in, but I can hear you. I
+[2:42:41] Unknown Speaker(s): waiting for her to so I think, hold on, okay, thank you.
+[2:43:02] Ian Lurie: I think the thing that he said, Yes, was through indenture, that's right. And he says, well, perhaps, but not to me. She is truly in for a moment. He looks not sad, but he looks like he's trying to put to words something that is his fate. He says, unlike you, I am part of a rigid hierarchy, and while my queen lives, she is my queen, and I must do what she tells me to do. She is far more powerful than I. Perhaps you could place her an indenture of some kind, I don't know, but it is certainly not something that I am capable of.
+[2:43:59] Mossy's gonna miss that darn Drak: Nobody, anybody looking for a good, partially used monster. I
+[2:44:07] Ian Lurie: uh, he's so are you still messaging back and forth? Oh yeah, because he said, he says out loud, you should be careful how you speak of her little one, just because we don't, just because her, just because our goals don't completely align, doesn't mean I am not her loyal servant, and she's due far more respect than I. Try what you might plan as you wish. Do not try to bait me into doing something that I do not wish to do. And as she says that, as he says that there's, you know, a brief, just wave of heat up from the ground at the base of the pillar, and you're not sure if it could be a coincidence, like you're not sure that that that's really what just happened. But it almost feels like the layer grew hotter for a moment, just moving you guys here, because might as well, yeah, he says, I think our discussion here is at an end. Do you wish me to bury you to Silgorin, I do not think your ship will be up to the task for some time.
+[2:45:51] Rikterr Shep'ard: Yeah, yes, my lord ghoul made sure of that. So if you would not mind bearing our weight one more time, we would appreciate the ride. Of course,
+[2:46:06] Ian Lurie: just want to show you what. I want to show you what the average eye looks like, just so you have this for future reference.
+[2:46:19] Mossy's gonna miss that darn Drak: What has he been doing this whole time? Is he
+[2:46:24] Ian Lurie: just sitting there? You sure it's not vexif, yeah, yeah, I'm sure it's no, that's, that's his twin sister, um, he has just been standing there, hands clasped, but that's what, oh, God. That's what a black Abishai looks like. It's not the best mini ever, but so just think of a small draconic devil, basically, not a demon, a devil. So with that, they're lawful, right? They are lawful indeed,
+[2:47:08] Mossy's gonna miss that darn Drak: and he doesn't appear to have any reaction to cool betraying his queen.
+[2:47:19] Ian Lurie: Um, he again, they serve the Abishai, as far as you know. You know, a big part of their job is that they serve Tiamat, but they're all part of this very complicated game, right? A game you guys are only just starting to learn. But this, this game of demons and devils, and, you know, Tiamat and and the devils around her, has been played out for millennia, but as far as you can tell, no, he seems completely undisturbed by what's going on around him. With good insight, cough,
+[2:48:05] Unknown Speaker(s): well, you got a few of those.
+[2:48:12] Ian Lurie: You guys, gather up your stuff, put yourselves recombobulate vaccine steps off the edge of the the tower and flies off down to the base of the somewhere down in the base of the caldera, you're not sure where.
+[2:48:37] Unknown Speaker(s): And Urus ghoul
+[2:48:40] Ian Lurie: picks you all up again and begins the long flight
+[2:48:44] Unknown Speaker(s): towards Silgorin. Yeah.
+[2:48:45] Sango / Cregyn: We should probably use the sending stone to let the ship know what's going on and maybe get an update from them.
+[2:48:58] Rikterr Shep'ard: Go ahead, rikter, I was gonna say rikter, since cregn is back and cregns the one who's really good with the airship and everything. He hands the standing, let me rewind and do that in English. He hands the sending stone, nailed it the first try to cregn and assist. I would like for you to be in charge of communications with the airship. You know it well. The crew knows you well, and you have their respect in a way that someone who has not worked on the ship and knows it intimately can, if you wouldn't mind, you
+[2:49:36] Sango / Cregyn: got a bus man and it, I believe it is shending in drakak, like you suggested. So your pronunciation, I think, is, is
+[2:49:47] Ian Lurie: pretty good. Also in tortell, Ian, in tortal Ian, it's shendun. So no, it's totally spot on, Cregyn. What do you? What do you do? Who do you? What do you say?
+[2:50:05] Sango / Cregyn: Hey, it's Cregyn, we're alive. How are you?
+[2:50:13] Ian Lurie: How are you guys doing? So there's a moment of just nothing. And then Fen laws voice comes on and says, we are on the ground. The ship is repairable. We have many wounded and dead. It will be we are. We are currently figuring out how long it will take to repair the ship.
+[2:50:48] Sango / Cregyn: Good, good. Yeah, we're getting a ride from that big dragon to the place we were going to go to anyway. So it's like our own little Uber ride that we don't have to pay for. So that's kind of nice, but we're No. Probably shouldn't tell you that part that's that's pretty No. So how long till the you think, make sure you check the suggestion box once a day and take care of the crew. There is a line cook. Give him some space. He's kind of a nice guy. Talks with a little funny muffled other side as well. But he's a nice guy. I think Bill,
+[2:51:37] Ian Lurie: I'm I know him. Fen Lal says sounding Yeah. Fen law says sounding really confused now he is. He's all right. We are still trying to find Lysander.
+[2:51:50] Sango / Cregyn: Oh, oh, that's not good. Did he blow off the ship?
+[2:51:59] Ian Lurie: I don't believe so. If he had, he would have, we would have been able to find him. He was handling, he was at the con as we were trying to crash land safely. And when we landed, and many of us were thrown about, we will, we will find
+[2:52:18] Sango / Cregyn: him. He's, he is literally a tough old bird. You
+[2:52:22] Ian Lurie: can almost hear the chuckle and Fen laws,
+[2:52:25] Sango / Cregyn: yeah, yeah, I wouldn't say old in this face. Or no, no, I wouldn't recommend that either. Yeah, no. And tough isn't really you know, a word you like to use with poultry or whatever. So maybe avoid that one too. But we're going to that the gurgling Gurges place that we talked about on the map, they're gonna take us there. So maybe you guys, when you get operational, if you can, like, head there and hang out and try not to die, I would have fun and don't die. And then maybe we can meet you there couple weeks or month. I think it's gonna take us a little while, but that's probably the place that we might be. You got you got anything else going on? Is that okay with you?
+[2:53:16] Ian Lurie: I estimate a week before we buy in. Sure.
+[2:53:20] Sango / Cregyn: Take your time. Take your time. Get, get, get the ship up. Remember, once a
+[2:53:23] Unknown Speaker(s): day, check the suggestion box. No problem, okay, Brian, good luck.
+[2:53:32] Ian Lurie: Oh, sure, yep,
+[2:53:35] Sango / Cregyn: yep. Oh, you guys too, you guys. Do you guys too?
+[2:53:43] Ian Lurie: Are we done? Are we done? We're definitely, we're done. Cregyn, okay,
+[2:53:47] Sango / Cregyn: you hang up, over and out, over, out, out and over. Are you still there?
+[2:53:55] Unknown Speaker(s): I already hung up. He's gone. So
+[2:54:02] Ian Lurie: we're gonna, we're gonna wrap up there. I'm a quick camera shot as as we close out tonight's game, you see the villains discontent lying on its side on the ground and broken timbers and burnt bits of rigging everywhere and sticking out from under one pile of rope and and wreckage. You see one hand and a feathered wing underneath a pile of things that clearly fell, as the ship did,
+[2:54:43] Unknown Speaker(s): and then the camera zooms back out and
+[2:54:47] Ian Lurie: on that wonderful note, we're going to miss the next two games. Unfortunately, I realize, because I'm going to be in Chile next Monday, shit, how long am I gone?
+[2:55:03] Rikterr Shep'ard: Yeah, I have it in my thing. We reconvene in a month on March 16.
+[2:55:09] Ian Lurie: That sounds right, yep, yeah. I'm not home until the ninth. Not home until the seventh and the ninth. I'm not going to be I'm not going to be functional. So yeah, the 16th. If you guys have questions in the meantime, if there's anything we want to, you know handle on Discord, just let me know, and we can do that, and we will pick up next time in Silgorin.
+[2:55:34] Unknown Speaker(s): Sounds good. Thank you so much. Awesome. All right, everyone, have a good thanks, guys. You.

@@ -1,0 +1,1267 @@
+# Ian's Meeting Notes
+# Otter recording 2026/07/13 16:50:21 (3h) id un8IOlgqMR4HxFe7W8tC-jk3Crw
+# https://otter.ai/u/un8IOlgqMR4HxFe7W8tC-jk3Crw
+# Speaker-attributed transcript, verbatim. Raw source for the card at /items/otter/2026-07/2026-07-13-rbg.md
+
+[0:10:19] Ian Lurie (he/him): Hey.
+[0:10:21] Fancy Drak: Hello. Good to see you. Good to see you too.
+[0:10:26] Ian Lurie (he/him): I'm just working on some audio stuff here. Hold on, because you're really quiet, but it's me, not you. There, that should be better. I loved how helpful we were to Jamie today when she asked for some advice,
+[0:11:06] Fancy Drak: you kind of know what you're getting into. You
+[0:11:09] Ian Lurie (he/him): know, that's that's what I that's what I figured.
+[0:11:14] Speaker 1: But that requires there to be, yeah, it does what it says on the tin, and nothing in life does what it says on the tin anymore. or
+[0:11:22] Fancy Drak: like the meaty versions of Waldorf and Statler of the show.
+[0:11:29] Speaker 2: I'm all right with that.
+[0:11:35] Fancy Drak: Hey, Jamie. Hey, James.
+[0:11:37] Speaker 3: Hey guys.
+[0:11:46] Ian Lurie (he/him): Just working on a couple things here.
+[0:11:55] Speaker 2: Forgive the unglamorous camera off. I need to finish putting together my travel meds tomorrow because I'm going to New York to see my grandparents, and I'm gonna need those meds.
+[0:12:05] Ian Lurie (he/him): That's New York alone means you need those meds. Where do your grandparents live in New York?
+[0:12:12] Speaker 4: Um, it's a little town called Waverly. It's just south of Ithaca.
+[0:12:16] Ian Lurie (he/him): Okay.
+[0:12:23] Speaker 1: Technically, it's closer to Elmira. If you're a big fan of violence statistics, is that city violent?
+[0:12:31] Ian Lurie (he/him): I have not spent much time in that part of New York.
+[0:12:35] Speaker 2: Not really missing anything. Yeah, our hands. Been
+[0:12:40] Ian Lurie (he/him): to Albany a few times, always in winter. I don't recommend that.
+[0:12:45] Speaker 1: There's only like 60 days of sun a year in Albany.
+[0:13:27] Ian Lurie (he/him): All these people who are trying to say that Lindsey Graham was a father and a husband.
+[0:13:33] Speaker 5: He was a daddy.
+[0:13:39] Ian Lurie (he/him): Yeah, I just I don't think you guys fully understand what was going on there.
+[0:13:47] Speaker 2: I mean, I do think it's low key hilarious that the coroner confirmed the ladybugs. I did not know
+[0:13:55] Speaker 3: what the
+[0:13:56] Speaker 2: coroner's photos that were made available include. So there was a sex worker who alleged that Lindsay had a very distinct series of moles, and the coroner leaked a photo showing that sex worker was not lying. Oh,
+[0:14:12] Ian Lurie (he/him): I did not know that the coroner leaked a photo of that. That's really showing
+[0:14:20] Speaker 2: it a leak or it isn't publicly available data, but yeah,
+[0:14:24] Ian Lurie (he/him): I don't. Yeah, generally coroner's files are not coroner's records or photos are not publicly available, but you know,
+[0:14:40] Speaker 2: I mean, unless the unless the coroner did that little whoopsie doodle on complete purpose, in which case, respect.
+[0:14:47] Ian Lurie (he/him): Yeah. Oh, it had to have been on purpose. It's not like it's just an accidental click and drag from it being private to it being public.
+[0:14:57] Speaker 6: Yeah. So if you if you see any word threads asking you to explain jokes about ladybugs, maybe don't dive into them unless you want more detail.
+[0:15:04] Ian Lurie (he/him): Shudder.
+[0:15:05] Speaker 7: Yo, that's the most diabolical thing anyone has ever said about anything was the ladybug shit, and I'm sorry that I know what that shit is about.
+[0:15:12] Ian Lurie (he/him): Yeah, yeah, yeah. Right. So
+[0:15:15] Speaker 2: that there were leaked photos from the coroner's office that confirmed them.
+[0:15:22] Speaker 7: Oh, get. get the option, man! I I am all for the freedom of information, but sometimes that information some information free. Yeah,
+[0:15:30] Ian Lurie (he/him): some information should not be free, and that is definitely one piece of information that just doesn't need to be out there. I just like
+[0:15:37] Speaker 7: also I'm so torn between he's such a spiteful, hateful bitch, and deserves all this in life and in death. But also, we should not be out. We should not be outing people.
+[0:15:52] Ian Lurie (he/him): No,
+[0:15:53] Speaker 7: but also spiteful, hateful bitch.
+[0:15:55] Ian Lurie (he/him): Yeah, he was a
+[0:15:56] Speaker 6: spiteful, hateful bitch who had an opportunity to have a character arc, to become an ally to become a representative of this community, and we can grieve that that was lost because anytime someone doesn't get to have that truth, the only thing
+[0:16:08] Ian Lurie (he/him): I'll and the only thing I'll say in our collective defense is that outing him isn't exactly like an earth shattering revelation,
+[0:16:19] Speaker 2: right? He was pretty public about it early in his career.
+[0:16:23] Ian Lurie (he/him): Well, I don't even know if he was public about it so much as it was just so goddamn obvious. I mean, come on, who is someone really gonna? Anyway, yeah, I don't want to get into the the territory of stereotyping, but everything he did, everything he denied, every cruel thing he ever said about
+[0:16:45] Speaker 2: journalized homophobia. Yes, sir, you are correct.
+[0:16:48] Ian Lurie (he/him): Yeah, yeah, yeah.
+[0:16:53] Speaker 7: Well, rest in piss, you hateful bitch.
+[0:16:55] Ian Lurie (he/him): Yeah, pretty much. I'm reserving my truly hateful public comments for a couple of other people, but not sorry to see the other. My
+[0:17:04] Speaker 2: favorite roast was the grinder. The grinder flag is at half mast today.
+[0:17:09] Ian Lurie (he/him): Wow!
+[0:17:17] Speaker 3: I've seen lots of Republican boy
+[0:17:19] Speaker 2: providing my choice. I say that sucks. Where we got a big choice right now because I can talk a lot.
+[0:17:25] Speaker 3: Yep.
+[0:17:27] Ian Lurie (he/him): Yeah, I've seen a couple of folks say stuff.
+[0:17:31] Speaker 7: You're about to say something, James.
+[0:17:34] Speaker 3: Uh, yeah, and I forgot already. It's gonna be one of those nights. I'm pretty sure. You doing good, my
+[0:17:42] Speaker 7: brother?
+[0:17:43] Speaker 3: Yeah, all good, doing good. Just it's it's a Monday, but it feels like a Thursday.
+[0:17:48] Speaker 8: It has been a
+[0:17:49] Speaker 2: Monday ass Monday. It has been like an all caps Monday.
+[0:17:52] Speaker 3: Okay, not just made that up. Okay, you know
+[0:17:54] Speaker 7: what? I do have to say, rest in peace to the homie Sam Neil. Or yeah, Sam Neal. That yes,
+[0:18:00] Ian Lurie (he/him): Sam
+[0:18:01] Speaker 9: Neill.
+[0:18:01] Fancy Drak: Yeah, yeah. He seemed
+[0:18:05] Speaker 6: like a genuinely kind person.
+[0:18:07] Speaker 7: Also, he belied the myth of as you get older, you can learn new shit and you can turn the hate down because just like all the shit I'm reading about the stuff that he did, it's like wow, this was a dude who had a lot, and you didn't even really hear it because he's just like, "Yeah, just do this shit because it's the good shit, not because click, click, look at me doing. And it's just like it's, it's one of those things where it's like, I wish more had been made of it because maybe other people would be like, "Oh shit, if the Jurassic Park called me is doing this, maybe I can step up too.
+[0:18:39] Speaker 8: Yeah,
+[0:18:42] Speaker 3: yeah. I didn't want you to get the
+[0:18:44] Speaker 7: hateful stuff.
+[0:18:46] Ian Lurie (he/him): Yeah, I did not realize he was 70-eight.
+[0:18:49] Speaker 6: I'll take any kind of feed cleanse that you know isn't hateful. That's my joke. Yeah. Also,
+[0:18:55] Speaker 7: it sucks that he had just announced that he was cancer-free. Oh,
+[0:19:00] Speaker 1: that's a gut punch.
+[0:19:03] Speaker 7: Yep, he'd been dealing with blood cancer for a while, and he just got cancer free, and then, yeah, went to the upper room. Unlike that hateful bitch Lindsey Graham, who's in the lower room.
+[0:19:18] Speaker 3: I can't tell. Is this an uplifting conversation? I don't know. Which direction are we going here, guys? Lindsay's still trying
+[0:19:25] Speaker 6: to figure out if he's in Fire Island or not, so all bets are off.
+[0:19:28] Ian Lurie (he/him): Oh, ouch! My my entire compass for up and down is pretty much inverted. All
+[0:19:35] Speaker 2: bets are off.
+[0:19:36] Ian Lurie (he/him): Yeah, all bets are off. Morgan walked by the headline. this morning, because the headline was out this morning about Lindsey Graham, she walked by and she's like, "Hey, she just moved on and made her coffee. So
+[0:19:52] Speaker 6: just walks by room, yells "Liham. Yeah, pretty
+[0:19:55] Speaker 10: much.
+[0:19:55] Speaker 7: I was gonna say, speaking of up or down, Silgrim below.
+[0:20:00] Ian Lurie (he/him): Yes, yes, and. And the chains. All right. So I gave you the recap from last time. You guys are currently standing outside the entrance to the bunker. You've just escorted everyone inside. Brona gave her thanks and then also headed inside. And you had all decided, I think, that you were going to go to one of the four chain chain rooms. Chain.
+[0:20:28] Speaker 2: We were going to stop by a chain because we have to go buy one anyways.
+[0:20:31] Ian Lurie (he/him): Yeah, because
+[0:20:32] Speaker 2: we haven't entirely committed the turtle to missing his children's life. Yes, as I understand it.
+[0:20:39] Ian Lurie (he/him): Okay, so. the the bunker is over here. Can you see my cursor? I'm hoping it's
+[0:20:52] Speaker 11: a beautiful cursor.
+[0:20:54] Ian Lurie (he/him): Thank you. Thank you. A
+[0:20:54] Speaker 12: plus. The
+[0:20:55] Ian Lurie (he/him): dock where the where Voleth is waiting for you. Is here,
+[0:21:02] Fancy Drak: okay.
+[0:21:03] Ian Lurie (he/him): These are both chain stations that are sort of on the way. The one thing I'll point out that's inaccurate in this drawing is the chains don't like come down and then go out. The there's just these big anchors here, and then chains going down, and you don't know exactly where they go. They just sort of vanish underneath the city. So that's the only thing I would tell you. And there's small buildings around these these chains, so you can't actually see the chains themselves. This is just sort of to tell you, iconically speaking, this is where they are. So what you want to do then is you want to go to either number one or number two, or do you want to go to a different one?
+[0:21:51] Speaker 2: I think we wanted to go to number two because then we would have the church in front of us to act as a little bit of a barricade against the chaos.
+[0:21:58] Ian Lurie (he/him): Yep, yep, and that is currently the Temple of Asmodeus, and you know that having passed by, there is a line of people sort of snaking out of the front of the temple. They didn't show a lot of interest to you, even when the battle was going on with the Gothia blight here. So you're not sure if they really pay much attention to you now either. In fact, I think you spoke to someone in that line. Maybe no, you haven't spoken to anyone in that line, but you did walk right by them, and they didn't seem to really react. Okay, so
+[0:22:34] Fancy Drak: so do do you think we should just take a quick short rest? I don't. Why are you still bleeding? I mean, I'm fine.
+[0:22:44] Speaker 5: Are you fine, fine, or fine?
+[0:22:47] Fancy Drak: I'm totally fine, but
+[0:22:49] Speaker 1: okay. We should take a short rest. Just a group
+[0:22:50] Fancy Drak: check, group check to see if we need a short rest.
+[0:22:56] Speaker 3: Probably not bad.
+[0:22:59] Speaker 2: I still have some max left. Is there some temp left? So I could keep on going through.
+[0:23:05] Speaker 12: All right.
+[0:23:07] Speaker 3: Yeah, I do too. I guess I could.
+[0:23:08] Speaker 7: Yeah, short rest is not going to do much for my spell slots, so I could keep on going.
+[0:23:14] Fancy Drak: Yeah, I'll go. Okay. All right.
+[0:23:19] Ian Lurie (he/him): You're just moving on. Okay. So
+[0:23:22] Speaker 2: it's like a short rest is pre-K for you know the portals kids.
+[0:23:27] Ian Lurie (he/him): Well, and
+[0:23:28] Speaker 8: you know
+[0:23:28] Ian Lurie (he/him): you should think about passage of time. So they all said that they've been down here for several months, which means that a month down here. So
+[0:23:43] Speaker 2: time here is slow.
+[0:23:45] Ian Lurie (he/him): Time here is slower. Yeah. So down. So like a month or two down here is maybe a year or less up above a month down here. So it's not a huge time difference. There is a time difference. Time is passing faster. If you're down here for a week, it's I can't do the math in my head right now, but it's about a month or so, a month or two up above. But it's not like assuming assuming that time is passing for these people. Let me back up. For these people, it's been about one month per year, so a month down here is a year up above.
+[0:24:25] Speaker 6: Okay.
+[0:24:26] Speaker 4: Okay. Well, that means
+[0:24:28] Ian Lurie (he/him): we're a lot less stretcher
+[0:24:29] Speaker 6: time.
+[0:24:30] Fancy Drak: A season.
+[0:24:32] Speaker 3: So it's it's 12 times whatever.
+[0:24:34] Ian Lurie (he/him): Yeah. So it's actually just a it's one month down here is a year up above, so it's a 12th of a 12th of a year. So one month down, I should have done this math. Someone else do this math. I'm not going to do this math.
+[0:24:57] Speaker 6: No, no, it's like the PTO. We wish we had, is what I'm hearing. Keep
+[0:25:01] Speaker 7: doing
+[0:25:01] Ian Lurie (he/him): it. We're not
+[0:25:02] Speaker 3: helping you up, Professor.
+[0:25:03] Ian Lurie (he/him): No, you're the players. I think you have to. You all have to figure this out.
+[0:25:07] Speaker 6: Mossy takes out her pocket whiteboard and string.
+[0:25:11] Ian Lurie (he/him): There you go. Yeah, because the point is though, time for these folks, time is passing more slowly, but not. We're not talking like a day down here is 100 years up above or something like that.
+[0:25:28] Speaker 7: And you can say that this is not something either we above table or the characters would know. But is that a static thing or is that just right now? It's one month, one year has it. Like, do we know if it's changed before? Is it changing, or
+[0:25:47] Ian Lurie (he/him): you know, you know, it is the year seven in fall reckoning, meaning the fall happened seven years ago, which is when Silgrin ended up becoming Silgrin below. And everyone you've talked to down here has said it's been between six, between five and seven months. So, you know, yeah. Unless time has been speeding up and slowing down, which is always possible, but you know, there's no way to really know that. It it just seems like that's the average.
+[0:26:16] Speaker 7: Okay, thank you.
+[0:26:21] Speaker 2: I don't know. Sneaky DM is being oddly forthcoming. Time mechanics. Now I'm worried.
+[0:26:26] Ian Lurie (he/him): I'm just trying not to create even more complexity. That's all.
+[0:26:33] Speaker 7: You said it was six months before, and now it's six and a half.
+[0:26:39] Ian Lurie (he/him): That was two weeks ago, right? It's consistent. I'll just say that. So, if you want to sneak your way across the city, or take a 20-minute rest, or whichever you want to do, just let me know. Sneaking across the city, you need to tell me what your roots gonna be? Wait, before we go, can
+[0:27:04] Speaker 2: I just do an insight check on Trap? See how injured he actually is. Sure.
+[0:27:12] Speaker 3: Can I inside check the DM to find out what the real time is?
+[0:27:15] Ian Lurie (he/him): Absolutely.
+[0:27:18] Speaker 11: Okay, that is a 20-four, sir.
+[0:27:23] Fancy Drak: Oh yeah, I mean, he's-I mean, he's basically Bruce Willis and Die Hard after like the first two punches, but not quite near the end.
+[0:27:31] Speaker 5: Okay, yeah, yeah, cool.
+[0:27:34] Fancy Drak: So like a little battered, but like still, still punchy.
+[0:27:36] Speaker 2: Functionally fine.
+[0:27:38] Speaker 8: Yeah,
+[0:27:39] Ian Lurie (he/him): not plucking glass out of his feet yet.
+[0:27:42] Fancy Drak: We're not there yet.
+[0:27:43] Ian Lurie (he/him): Okay,
+[0:27:44] Fancy Drak: he's been there a few times, but not today.
+[0:27:46] Ian Lurie (he/him): All right, good to know. So, how do you want to sneak?
+[0:27:53] Fancy Drak: Sura is going to be in the gym.
+[0:27:56] Ian Lurie (he/him): Okay.
+[0:27:57] Fancy Drak: Oh, hi Ash. Um,
+[0:28:02] Speaker 5: I can do some pass by the trees if we want to be all stealthy together.
+[0:28:07] Fancy Drak: I feel like maybe a little bit of urban crawl instead of a outer ring crawl, because then we will have like building to building building to building cover.
+[0:28:18] Speaker 2: Yeah, who wants to run scout? Probably you should or Sango should Sango can be invisible, but I need to be close to give the plus 10.
+[0:28:28] Ian Lurie (he/him): Ash,
+[0:28:30] Speaker 3: this is the where are we at right now? Are we by number three or something?
+[0:28:35] Ian Lurie (he/him): You are right there.
+[0:28:38] Speaker 3: Where?
+[0:28:39] Ian Lurie (he/him): See the star.
+[0:28:40] Speaker 3: Oh okay. Oh okay, gotcha. That's not where I thought we were at. Okay. Well,
+[0:28:48] Ian Lurie (he/him): yeah, you had to take the the the tourist route to get there from from number eight, but
+[0:29:02] Fancy Drak: I mean, can can can can I do like a survival check?
+[0:29:07] Ian Lurie (he/him): Sure.
+[0:29:08] Speaker 7: All right.
+[0:29:16] Speaker 8: All right. This is just to
+[0:29:17] Ian Lurie (he/him): find the best route.
+[0:29:19] Fancy Drak: Yeah. I mean, yeah, looking for recover, concealment, fog, things like that. They'll be advantageous. Okay, that would be a 20-four.
+[0:29:28] Ian Lurie (he/him): Okay, you think from here at least that your best bet is to go something like that, because most of the fighting, you don't hear a ton of fighting over there, which means you have a you know at least there's less chance of getting with the 24 Actually, you're confident this is your best route because you don't hear as much fighting, and because remembering the route you just took, there was fighting there before, which means these areas have probably quieted down. There's not someone about to march in there, so something like this. You can cut through the buildings again with that 24 survival. You know, there's fires. There's random places where the the actual surface of the city seems to be decaying. The streets are at least more predictable.
+[0:30:23] Fancy Drak: Okay. Yeah. Let's. I kind of pull out the map and let's let's go this way.
+[0:30:28] Ian Lurie (he/him): Okay. All right.
+[0:30:30] Speaker 7: And to help with that, I'm going to use another channel divinity for divine sense. So for the next 10 minutes, Rikter consents celestial spins and up dead within 60 feet, so and know its creature type, so that way if something's coming, maybe we have a little bit of advance notice.
+[0:30:50] Speaker 11: Noise pass the traces on up. Cool.
+[0:30:55] Speaker 2: Mossy smacks Rikter's clanky ass.
+[0:31:00] Ian Lurie (he/him): All right, everybody, give me your first stealth roll. That'll get you along where what I've drawn.
+[0:31:10] Speaker 2: Remember, add plus 10.
+[0:31:12] Ian Lurie (he/him): And also, how fast are you guys going?
+[0:31:16] Fancy Drak: 40-four.
+[0:31:20] Ian Lurie (he/him): Your stealth was a 40-four. Yes, twins,
+[0:31:26] Speaker 7: 1818,
+[0:31:30] Speaker 3: You're cragging
+[0:31:32] Speaker 2: with your plus 10.
+[0:31:34] Speaker 3: Yep.
+[0:31:36] Fancy Drak: Nice.
+[0:31:36] Speaker 7: Have to roll with disadvantage,
+[0:31:40] Speaker 3: and then 23 per single.
+[0:31:44] Ian Lurie (he/him): Okay, the three of you think maybe you used to have two party members named Mossy and Drac, but you're not sure. Then you're startled when you realize that they're right there next to you. How fast are you guys all going? Are you going like sneaky speed, sneaky
+[0:32:02] Speaker 1: speed. Well, sneaky fast speed. Yeah, yeah. Think like a smile movie.
+[0:32:07] Fancy Drak: Carefully with a purpose. If only
+[0:32:12] Speaker 11: we all had clipboards and that.
+[0:32:16] Ian Lurie (he/him): Yeah, you have your own soundtrack playing.
+[0:32:20] Speaker 2: That's actually why Crim rolled so low because he kept humming.
+[0:32:23] Ian Lurie (he/him): Just like Kronk. If you've ever seen Amber's New Groove.
+[0:32:30] Speaker 2: Oh no, I frequently think of Crig and and Cronk
+[0:32:32] Speaker 11: as
+[0:32:33] Speaker 2: being
+[0:32:35] Fancy Drak: related.
+[0:32:36] Speaker 1: Yeah, they're kin. So,
+[0:32:39] Ian Lurie (he/him): JP, why don't you give me another survival check to figure out your best route from here, or someone else can do
+[0:32:48] Speaker 3: it. How about the survival guy do the survival check?
+[0:32:52] Fancy Drak: So yeah, do you want to do another survival survival
+[0:32:55] Speaker 3: check?
+[0:32:55] Fancy Drak: Yeah, yeah.
+[0:32:57] Speaker 3: He said he's not a ranger for nothing.
+[0:33:02] Fancy Drak: That is a natural 20. So plus 11, that'd be 30-one.
+[0:33:05] Ian Lurie (he/him): Okay. Just kind of keep threading that way. You get to here, and then you think going straight would make more sense, but there's an absolute like lake of demon icker across the street here, and you're pretty sure you don't want to go waiting in that if you can possibly avoid it. So you go this way instead. So everyone, give me another stealth check here.
+[0:33:44] Fancy Drak: 30-three. Okay.
+[0:33:50] Speaker 3: 1540. for Sandel.
+[0:33:57] Speaker 2: 30-five.
+[0:33:59] Speaker 3: And 20 for Craigan.
+[0:34:01] Ian Lurie (he/him): Okay. I am trying to move a window, and it just keeps. Oh God! It just keeps drawing on the screen instead. Hold on. There we go. Wow! What a mess.
+[0:34:19] Speaker 8: There.
+[0:34:23] Ian Lurie (he/him): Okay, so as you move through the city, it does seem weirdly quiet. Like that, there was that huge spasm of violence that that kind of followed along with you trying to move everybody from the armory to the bunker, but most of that fighting seems to have died down now that there's nothing to fight over, nothing obvious to fight over. So it does seem to be calmer. You do still hear the sounds of battle around you, but you're not in the middle of a battle. So Drac, give me another survival check.
+[0:34:59] Speaker 3: Hey guys, if we're over here by this number three already, should we take a look at that 117?
+[0:35:04] Fancy Drak: Okay.
+[0:35:10] Speaker 2: I mean, if we're going right by it, anyways, it depends on if there's battle near it.
+[0:35:16] Ian Lurie (he/him): You don't. You don't hear anything.
+[0:35:23] Speaker 11: Do you guys want to hunker down? I'll go make a sneaky exploratory peek.
+[0:35:31] Ian Lurie (he/him): Okay.
+[0:35:31] Fancy Drak: Yeah, that's good.
+[0:35:33] Ian Lurie (he/him): So Mossy, you're gonna head over kind of this way.
+[0:35:36] Speaker 11: Yep.
+[0:35:37] Ian Lurie (he/him): All right.
+[0:35:38] Speaker 11: I'm stealthing. Yeah. And when I get close enough, I'm going to drop down my goggles too.
+[0:35:43] Ian Lurie (he/him): Okay. Give me a perception check with those goggles down.
+[0:35:50] Speaker 11: Hold on, I'm going to switch. I think a different D 20.
+[0:35:57] Speaker 2: All right, that is a dirty 20.
+[0:36:00] Ian Lurie (he/him): Okay. the the first thing you notice is that there is a building here, right? As you know, as you've seen, and it's kind of a low sort of. It almost looks like a shed. It's a low kind of metal and and stone building with this massive door on the front, and there's all sorts of clanking sounds coming from inside. You're not sure exactly why, and then you go and you you kind of just look back with the goggles down and look around, and you see. A dragon-like creature. It seems to be about maybe 30 feet behind the party. It's a black abishai, and you actually recognize them. It's it's Vaxseth, the hand in the dark.
+[0:37:04] Speaker 11: Okay, tell him all over party line. Exactly what I see. You remember where it is?
+[0:37:10] Ian Lurie (he/him): You remember Urs Ghoul's assistant? That's Vaxith. Yeah, that's who's following you right now.
+[0:37:17] Speaker 2: You remember the creepy little fucker's assistant? The also creepy little fucker is that guy.
+[0:37:27] Fancy Drak: Well, this yeah, this was
+[0:37:29] Ian Lurie (he/him): this was the this was the servant of the ancient red dragon, Urush Gul.
+[0:37:38] Speaker 2: The ancient red dragon would be on the side to pull the city down, correct?
+[0:37:42] Ian Lurie (he/him): The ancient red dragon actually is kind of the one they
+[0:37:45] Speaker 7: pissed off, right?
+[0:37:47] Ian Lurie (he/him): Yeah, the one that you pissed off, who gave you a boon to make you immune to fire, but said that it also cost you something, and you still don't know what. And then this, I
+[0:37:57] Speaker 1: mentioned the debt too in the chat.
+[0:37:59] Ian Lurie (he/him): And this black Abishai was there throughout the entire ritual when you were in the the Red Dragon's lair.
+[0:38:11] Speaker 7: Oh, wasn't he the one that we figured out was like spying on all of us for Tiamat?
+[0:38:16] Ian Lurie (he/him): Yeah.
+[0:38:17] Speaker 7: Okay. Yeah. So
+[0:38:18] Speaker 2: if you
+[0:38:22] Ian Lurie (he/him): if you want to figure out where a red dragon would sit in all of this, give me a religion check.
+[0:38:29] Speaker 1: Okay, I've read a lot of books. 21
+[0:38:34] Ian Lurie (he/him): Okay, you don't think dragons would care?
+[0:38:39] Speaker 11: Okay,
+[0:38:39] Ian Lurie (he/him): like Tiamat might care because Tiamat lives in Avernus, and sir, and is at least in some way second to Zariel as one of the arch devils or beings that rules over Avernus. But on the whole, dragons don't care what happens down here. They consider themselves above all this. They don't. They they consider this war, the blood war, to be just absolutely not something worth their time.
+[0:39:08] Speaker 2: In my head, I picture this avalanche as a like a big evil moo shoe for Mulan. What is he doing?
+[0:39:19] Ian Lurie (he/him): Just right now, just up against the side of a building, kind of doing what you do when you're sneaking.
+[0:39:26] Speaker 5: Okay,
+[0:39:30] Speaker 4: should we have somebody move and see if he follows?
+[0:39:35] Speaker 3: Aren't you moving?
+[0:39:38] Speaker 2: Well, I'm also very stealthy, and he appears to be fixed on you.
+[0:39:46] Speaker 3: I mean, if he's been following us for like days now, he's probably not going to mess with us right now. I think maybe we keep this to ourselves to not let him on and see what happens.
+[0:40:00] Speaker 2: Right, we'll keep a passive eye on him. But task at hand is block.
+[0:40:07] Ian Lurie (he/him): Okay. So you go up to the building, and again, it's this kind of low shed-like building with the the massive doors on it. There's no windows on it. It's very simple. It's like someone just threw a structure together. You go up to the doors. I'm assuming you. Do you want to try and open them? Do you want
+[0:40:33] Speaker 2: to? There's banging coming from inside. Can I get a peek inside anywhere?
+[0:40:36] Ian Lurie (he/him): Yeah, there's banging and rattling. No, because there's no windows on the place, so there's no really good way to peek in that you can see.
+[0:40:44] Speaker 2: All right, I'm gonna tuck myself in a nice little hiding nook, and then I'm gonna use my mage hand, which can summon its own thieves' tools.
+[0:40:50] Ian Lurie (he/him): Okay,
+[0:40:50] Speaker 2: and we're gonna. I want to be tucked at an angle so I can see.
+[0:40:56] Ian Lurie (he/him): Okay.
+[0:41:04] Speaker 2: What would you like me to roll here?
+[0:41:06] Ian Lurie (he/him): What are you trying to do? Pick the lock, open the door, check the door for traps.
+[0:41:11] Speaker 2: I'm gonna turn over to the side. I'm gonna check the doors for traps, and then I'm gonna try and pick it open. I don't see anything.
+[0:41:16] Ian Lurie (he/him): All right. So give me a find traps, which is okay. I've got
+[0:41:20] Speaker 2: yeah, I've got rogues blessing up, so I get an advantage on that, which makes it so many. 35
+[0:41:33] Ian Lurie (he/him): Okay, door seems safe.
+[0:41:36] Speaker 6: Okay, and now I'd like to use my mage hand and try and pick that lock.
+[0:41:40] Ian Lurie (he/him): Okay.
+[0:41:51] Speaker 2: I'm proficient in thieves' tools. That means it's intelligence plus proficiency for a theater.
+[0:42:02] Ian Lurie (he/him): It's in no, it's dexterity plus proficiency plus you probably have expertise, so it's probably double your proficiency.
+[0:42:10] Speaker 6: Yeah. Okay.
+[0:42:17] Ian Lurie (he/him): Or sorry, double your dex modifier plus your proficiency bonus.
+[0:42:22] Speaker 2: Okay, so that is going to be 3020
+[0:42:27] Ian Lurie (he/him): Okay, you successfully picked the lock because it turns out the door was not locked, and you so you realize if you want to, you can just turn the latch and pull the door open.
+[0:42:40] Speaker 6: I'm going to use mage hand to do that.
+[0:42:42] Ian Lurie (he/him): Okay. So the noise inside as you open it is incredibly loud, and that's part of why none of the creatures in there seem to notice anything. And you can't see everything that's going on in there, but you do see kind of corner on all these shapes moving, small ones, and occasionally one moves right by the the little crack in the door. Because I'm assuming you've opened the door like this far.
+[0:43:16] Speaker 2: Yeah,
+[0:43:17] Ian Lurie (he/him): yeah.
+[0:43:17] Speaker 2: I have a mirror. Can I give that to my thief, my mage hand, and use it to look a little more. It's less than five pounds.
+[0:43:26] Ian Lurie (he/him): Yeah, I would say you could do that. There's a chance that they'll see this floating mirror, but you can definitely do that.
+[0:43:35] Speaker 2: Give it a shot. Go low.
+[0:43:36] Ian Lurie (he/him): Okay. Okay. With that mirror, you see that there is this little this swarm of small devils, you know, imps, which you know, and then these kind of wretched-looking semi-liquid creatures that are kind of oozing around, and they all seem to be working on something, and you can't quite see it because the door is only part way open, and you're looking in a mirror. But you can tell that there's something that they're all working on something in there, and they're very intent on it. You don't see anything bigger than them in there from this angle. You don't see big
+[0:44:18] Speaker 2: as a space
+[0:44:20] Ian Lurie (he/him): from the mirror. You'd estimate is about as big as the building, which would be about 20 by 20 by 20.
+[0:44:29] Speaker 2: Party one! I have an opportunity to do an amazing fireball right now. Explain what I'm seeing.
+[0:44:42] Speaker 6: Is that? everyone present, or is it me?
+[0:44:45] Speaker 3: No. Is how many people? How many beings do you estimate?
+[0:44:53] Ian Lurie (he/him): Think Jamie is having internet issues.
+[0:44:55] Speaker 2: No, no, no. I'm
+[0:44:56] Ian Lurie (he/him): okay.
+[0:44:56] Speaker 2: I don't know how many IC, so I'm waiting for the DA to tell me. Oh, okay.
+[0:45:00] Ian Lurie (he/him): From your angle, you think there might be 20 total.
+[0:45:06] Speaker 2: Okay, some of them are like icker, and there's
+[0:45:11] Ian Lurie (he/him): yeah, it's crowded in there. Yeah, they're not icker; they're like semi-liquid flesh. I mean, as players, you know they're called lemurs. I was gonna say,
+[0:45:24] Speaker 3: are these the are these the lemurs? Yes, these are the
+[0:45:27] Ian Lurie (he/him): lemurs. Yes, they're lemurs, and they they are the lowest form of devil. There is no lower form. Imp is the next form up. Okay,
+[0:45:38] Speaker 2: yeah. So like smaller than imps, they kind of look like those little dolls that Craigen has on his window sill with the crazy hair and the jewel in their belly. I feel like Craigen would absolutely have a sweet spot for a toy like that.
+[0:46:02] Ian Lurie (he/him): So, what do you guys want to do?
+[0:46:10] Speaker 3: Can you see the chain?
+[0:46:14] Ian Lurie (he/him): No.
+[0:46:18] Speaker 2: Negative Ghost Rider. Kind of wish I had an amazing little invisible dragon right now, but people are dicks.
+[0:46:30] Speaker 3: Well, I could, I could, I could, I could send you a little dragon, a little. Well, what if
+[0:46:36] Fancy Drak: we, what if we create a diversion outside, try to draw them out of the building, and leave you to sabotage things.
+[0:46:50] Speaker 3: I do like the fireball idea, though.
+[0:46:54] Ian Lurie (he/him): You can give me a an arcana check on that
+[0:46:56] Speaker 2: one. I'll I'll take an arcana check.
+[0:47:03] Speaker 6: 20-four.
+[0:47:05] Ian Lurie (he/him): All devils, pretty much without exception, are completely immune to fire damage.
+[0:47:09] Speaker 11: Ah.
+[0:47:10] Ian Lurie (he/him): There are a few exceptions, like ice devils, but most of them are completely immune to fire damage. Do I
+[0:47:16] Speaker 3: have any acid bombs or anything?
+[0:47:21] Speaker 2: I have smoke bombs. I have disco bomb or disco grenades. I have sorted other things.
+[0:47:28] Ian Lurie (he/him): You're pretty sure we
+[0:47:29] Speaker 2: could essentially make a what is it called in like military a shooting gallery, because they would all have to be coming out of this thing. So maybe y'all come hang out around. I throw a discriminate in there. They all run out to see what's happened, and we just we just do that.
+[0:47:47] Ian Lurie (he/him): And you know, there these are kind of punks. I mean, as far as you know, on the on the devilish on the fiendish hierarchy, they are truly at the bottom. in In player terms, they are CR one or lower.
+[0:48:03] Speaker 5: I feel good about our odds here. Yeah, come on down.
+[0:48:07] Speaker 7: How big is the building?
+[0:48:08] Ian Lurie (he/him): It's 20 by 2020. by 20 by 20.
+[0:48:12] Speaker 7: So if we don't want to fight these guys, what I can do is come over, and I can cast magic circle and trap them in this building.
+[0:48:25] Speaker 2: Yeah, but the chains in there, and I got to get to that.
+[0:48:27] Ian Lurie (he/him): Okay, I'm out. Yeah, because you, yeah, if you want to go in the building, that would trap them in there with you, which is still funny. But
+[0:48:36] Fancy Drak: yeah, I think we need to Samuel L. Jackson this, and we need to make sure we killed every single last one in the room.
+[0:48:43] Speaker 3: Oh, okay. Are there
+[0:48:45] Speaker 2: other exits around this building?
+[0:48:47] Ian Lurie (he/him): Not that you can see. This is a very simple structure. It
+[0:48:50] Speaker 2: was about to get real dark as I boarded them up. So thank you. Yeah. I do want to keep an eye on our evil Mushu. See if he follows when they move.
+[0:49:00] Ian Lurie (he/him): You have to keep your you have to keep your goggles up if you want to continue to see vaccines.
+[0:49:07] Speaker 13: Ocean activities.
+[0:49:09] Speaker 3: Yeah, he's gonna he's gonna follow up.
+[0:49:10] Fancy Drak: Surfing. Don't need to worry
+[0:49:12] Speaker 3: about that right now. Okay, he's gonna follow. Yeah, not right now.
+[0:49:15] Speaker 2: We got more pressing.
+[0:49:16] Ian Lurie (he/him): Okay.
+[0:49:18] Speaker 3: Okay, let's do it. Let's uh, let's go take him out. Sango is going to cast Silence, uh, on the entryway. Wait, how loud is it? It's
+[0:49:34] Ian Lurie (he/him): really loud in there.
+[0:49:36] Speaker 7: Okay,
+[0:49:36] Ian Lurie (he/him): it's, I mean, it's in you know heavy industry. You'd be wearing ear protection if OSHA were around. Okay, is it
+[0:49:46] Speaker 3: like is it is it the creatures screaming? Is there no?
+[0:49:50] Ian Lurie (he/him): It's some kind. It's this clanking smithy
+[0:49:52] Speaker 3: sort of a yeah.
+[0:49:53] Ian Lurie (he/him): It's a clanking sound. It's like metal hitting metal.
+[0:49:57] Speaker 3: Okay. Do we want to draw them out, or do we want to go in after them?
+[0:50:04] Speaker 2: Let's draw. If we can draw them out, then I can run in and start working on it.
+[0:50:08] Fancy Drak: So let's draw them out, and then I will cast entangle, which is hey,
+[0:50:15] Speaker 2: perfect,
+[0:50:16] Fancy Drak: like a 90-foot cube. Is it?
+[0:50:23] Speaker 2: Oh, and I can finally use a flashbang. I have a flashbang board. If
+[0:50:28] Fancy Drak: they uh, if they fail a strength check, they are entangled. They are not entangled. Um, restrained.
+[0:50:36] Speaker 14: Okay.
+[0:50:37] Speaker 2: Oh, it's perfect. And you can just go around bop them on the head.
+[0:50:39] Fancy Drak: Yep.
+[0:50:40] Ian Lurie (he/him): Yep. So, what's your distraction? How are you going to get them to come out?
+[0:50:45] Speaker 2: I'm gonna throw. I got a flashbang gourd.
+[0:50:48] Ian Lurie (he/him): You're gonna throw it in out. You're throwing it into the building.
+[0:50:56] Speaker 6: Yeah, I feel like that'll get the job done. Cops.
+[0:51:00] Speaker 3: Doors open. They'll have to come out, but yeah. So
+[0:51:05] Speaker 2: I'll use the well. Everyone, get over here and get into your position. Like set up your shooting gallery.
+[0:51:11] Speaker 3: Okay.
+[0:51:11] Speaker 2: Because once y'all get them out, I'm going in to start checking on the chains.
+[0:51:16] Ian Lurie (he/him): Okay. You got stats on that flashbang.
+[0:51:22] Speaker 2: Yep. hold these. It's an 18 deck save,
+[0:51:33] Ian Lurie (he/him): and what does it do?
+[0:51:35] Speaker 2: It makes like a bright, blinding light, and is very loud. So it deaf. The loud is going to help in the scenario, but you know it
+[0:51:44] Ian Lurie (he/him): deafens and blinds them. Is that correct? Okay,
+[0:51:48] Speaker 7: but how's yeah? How's that going to make them want to run out if they're deaf and blind and rolling on the floor in agony?
+[0:51:55] Speaker 3: Well, then we'll just shoot in, right? We could do that, right?
+[0:52:03] Ian Lurie (he/him): Yeah, I mean, you can always you can throw in the flashbang and then charge in and just wipe them all out.
+[0:52:08] Speaker 2: We have a nice shooting gallery set up. There's only one exit.
+[0:52:14] Speaker 5: We good?
+[0:52:16] Speaker 3: Yep, we're
+[0:52:16] Fancy Drak: good.
+[0:52:17] Speaker 2: Okay, use my little mage hand. Open the door more. Chuck it in.
+[0:52:20] Ian Lurie (he/him): Okay, I'm not going to roll 20 saves, so I will just roll for each group. What's the DC?
+[0:52:32] Speaker 5: 18.
+[0:52:33] Ian Lurie (he/him): Yeah, no, they all fail. You can't hear screaming, but you see all these little, little skinny devil-looking guys with wings kind of staggering around like this. Some of them come staggering out, and they're kind of going like this, and they're rubbing at their eyes. The lemurs just freeze. They just, they all just fall over, and are not moving. They're, they're literally just sitting. They they literally keel over on the floor where they are. As the imps come staggering, as the imps come staggering out, we can run this as a combat if you want. I will tell you that this is a slaughterhouse. These are you know basically you got a bunch of blinded squirrels. You know, things with squirrel hit points coming, running out.
+[0:53:27] Speaker 7: Remind me, are these creatures that if we kill them, they basically just come right back here, or are these, if we kill them, they are giggity gong?
+[0:53:37] Ian Lurie (he/him): They are gone. If you kill devils in Averness, they are gone, and these are all. I just
+[0:53:40] Speaker 7: want to make sure.
+[0:53:41] Speaker 3: Yeah, yeah. I like that.
+[0:53:45] Fancy Drak: I'm just gonna stand by the door, take out the daggers, and with a big old grin, and just cut them as they leave.
+[0:53:52] Ian Lurie (he/him): Okay. All right. So you guys pick them all off. After a few minutes, you realize that the most of the Lemures actually died from the flashbang because they were such low hit point creatures. So gotta
+[0:54:11] Speaker 5: make more of these.
+[0:54:12] Speaker 2: Damn. Yeah. So
+[0:54:14] Ian Lurie (he/him): you you basically did you cleared the building. Do you want to go in?
+[0:54:20] Speaker 2: Fantastic. Grab my little velvet tool case and skip on in.
+[0:54:26] Ian Lurie (he/him): Okay. All right. So you get inside the building, and it's what you see is this enormous metal cleat, like an eye bolt almost, and it's hanging down from the ceiling, and then attached to it is this enormous chain. I mean, one link in the chain is probably three feet long, and then that chain extends through a hole in the floor out of sight. So there's not a winch or something in here. The chain is just this is apparently just an attachment point, and it looks like what the imps and the lemurs were doing maybe were just they were just maintaining it because the chain keeps whipping around and it looks like if it did that long enough it would start to do damage. Excuse me to the to the either to the huge eye bolt or the structure or the floor or the chain. You're not sure, but it
+[0:55:19] Speaker 5: is
+[0:55:20] Ian Lurie (he/him): kind of vibrating and and and bouncing back and forth, and that's where the noise is coming from.
+[0:55:27] Speaker 2: Cool. So it's already broken. Can I can I nudge it a little bit more so it really flails?
+[0:55:33] Ian Lurie (he/him): It's not broken.
+[0:55:34] Speaker 2: Okay. It
+[0:55:35] Ian Lurie (he/him): does not appear. You're you're you're an artificer. You look at this. This in fact, yeah, I can describe this to you. This is an eye bolt with a chain. The chain goes through the floor of the room. It does not appear to be broken. What it appears to be is an immense structure under a great deal of stress. Like if you have a huge metal beam, right, in a really tall building, it's twisting and creaking and groaning, even though it's perfectly within the limits of that piece of metal. Okay. And would
+[0:56:01] Speaker 2: I know where the weak point is?
+[0:56:03] Ian Lurie (he/him): The weak point. Give me a give me an artificer check. So that's intelligence modifier. Natural
+[0:56:12] Speaker 11: 20.
+[0:56:14] Ian Lurie (he/him): Okay. The weak point is clearly where it attaches to the building. The eye bolt itself is clearly going to be weaker than the metal of the chain, because the metal is metal is metal, right? If you if you want to break that actual physical chain, you've got to somehow cut the metal.
+[0:56:33] Speaker 6: I do believe I have other explosives.
+[0:56:35] Ian Lurie (he/him): Yes, the bolt would pretty much be explosives.
+[0:56:39] Speaker 7: It's been a couple of weeks, so forgive me for maybe forgetting this. Did we talk about the sense of gravity, literally and figuratively, of what happens if we break all of these chains? Is Silgorin just going to then drop all the way down? Are we going to be able to lift it up? Have we talked about that? Well, the chains are pulling it down. Yeah,
+[0:57:02] Ian Lurie (he/him): the chains, the chains are definitely holding it down and pulling it down. So if you, if all the chains were broken, the city would definitely start to float. Well, would either stay where it is or float up. What you don't know is how fast, and you don't know how stable.
+[0:57:18] Speaker 2: But I am an artificer who just made a natural 20 and have a notebook that I can do some math on? So can I figure out what type of force it would take to dislodge
+[0:57:29] Ian Lurie (he/him): it? To well, you know, yeah, you have a very clear idea of what kind of explosives and how much it would take to break this loose, and you know, and by
+[0:57:39] Speaker 2: distribute what the the pressure that it's exerting? If I were to distribute that along the other, is we have an idea of how much total there is. I want to find out if we release one at a time, will it flip it like a pog?
+[0:57:55] Ian Lurie (he/him): You're pretty sure that if you release them one at a time, yes, the whole city will will lurch. Well, you you know that if you're sure if you released half of them, right, and you did the wrong half, the city would definitely flip. And at some point, you'll only have one, or you'll only have two. At which point, the city is like, you know, a gold coin suspended on a single piece of string, right? Even if it's attached, the coin is flipping around constantly, which would not be. Would
+[0:58:23] Speaker 2: I think that this indicates that not every one of these is a motor, and if there would need to be multiple motors?
+[0:58:32] Ian Lurie (he/him): Um, again, because you're natural 20. If they're all like this room, then there are no motors in these rooms, there's a motor somewhere else that's pulling on all these chains.
+[0:58:45] Speaker 2: Ah, slumber bitch.
+[0:58:47] Ian Lurie (he/him): There may be a single. There may very well be a single motor somewhere, but you know that it would have one way or another. All eight chains have to have tension on them pulling down. Yeah. Otherwise, the city would be pitching more and more, so all these chains may feed down to something, and you know that by looking at the chains, you can figure out where they go, right?
+[0:59:09] Speaker 1: Okay.
+[0:59:10] Ian Lurie (he/him): I mean, the chains meet somewhere under the city. Now, maybe it's all the way down on the surface of Averness.
+[0:59:16] Speaker 2: I have a map that someone gave us of here,
+[0:59:22] Ian Lurie (he/him): of here as in
+[0:59:23] Speaker 2: did was the retired dude who went through time and
+[0:59:28] Ian Lurie (he/him): well you have a map of Avernus that doesn't show you any of this this didn't exist when that when he was down here he was down here before the fall okay okay
+[0:59:42] Fancy Drak: so so Mossy, what what I'm hearing is, if we take this one down, the next one we need to take down will be like, let's say, number one, and then maybe near number eight, kind of because the force that's pulling this down, because like I'm, because Drac is thinking of it like like like the tension rot of of a like a trap on a tree, like a snare on a tree,
+[1:00:06] Speaker 8: and if
+[1:00:08] Fancy Drak: one of these things snap, it's going to distribute the the force around the rest of it. So every single chain is going to have to work just a little bit harder, and the more chains we, and so almost like an like an inverted triangle, we hit number three, number one, and number eight. That way, we we we kind of reduce the chance of it flipping or I think we need another
+[1:00:41] Speaker 2: data point to understand.
+[1:00:44] Fancy Drak: Yes. Yes. If we go over
+[1:00:46] Speaker 2: to the the next
+[1:00:51] Speaker 3: one, DM. If can you see
+[1:00:52] Speaker 2: anything over the edge?
+[1:00:53] Speaker 3: Dea, we've been we've been on this thing for like a day now, half a day,
+[1:00:58] Ian Lurie (he/him): about a day.
+[1:00:59] Speaker 3: Okay. Do we have any point of reference on how fast we think it's getting pulled down?
+[1:01:06] Ian Lurie (he/him): Not very fast,
+[1:01:07] Speaker 3: like inches at a time,
+[1:01:09] Ian Lurie (he/him): imperceptibly. In fact, thinking back, what you kind of remember is there was it's in jerks. So there was a moment that most of the time nothing happened, and then there was a moment when the whole city kind of rumbled, and you felt like it moved down about 10 feet, and then nothing has happened since then. So it's like the chains are being-I'll just describe it to you. These chains, whatever's doing it, these chains have a continuous pressure on them, and they're enormous. And every day or so, one additional link is pulled tight in the chain, and one link means the city moves down about six to 10 feet.
+[1:01:49] Speaker 2: Do we have an immovable rod anywhere?
+[1:01:54] Ian Lurie (he/him): I don't know. Do you guys have an immovable rod? No, I don't think
+[1:01:57] Speaker 3: our DM ever gave us one.
+[1:01:58] Ian Lurie (he/him): Yeah, I don't think the DM ever gave you one because they're subject to endless abuse. So what I'm thinking
+[1:02:05] Speaker 2: is if we could put something in there to jam like through one of the links and prevent it from passing through the keyhole, we're putting strain on the engine. So we're achieving that goal. We're at least doing something before we go get an additional data point to see what the behavior pattern is between the eight sites. Rikter,
+[1:02:26] Ian Lurie (he/him): what were you gonna? Sorry, bad timing. Oh no, no,
+[1:02:30] Speaker 7: no, perfect. Um, if we know that there's something or some things down on the surface of Avernus that is pulling it down, wouldn't it be quicker, safer, and more efficient to just go to the surface of Avenus like we originally planned. Find that thing and stop it, rather than trying to figure out which one of these eight things in what order we need to do in order to not maybe flip this thing and do what.
+[1:02:57] Speaker 2: You're totally right. And the second data point would let me feel really great about that decision. So maybe if we could just also check out number two on our way back,
+[1:03:06] Fancy Drak: and we also parked our boat up here.
+[1:03:08] Speaker 3: Yeah. So, so the question I was going to ask is, if if we take out a couple of these, would it slow the descent down a little bit, or make it much harder. You don't know, because there's eight of them, and it's only moving at six feet a day. You're
+[1:03:29] Speaker 2: really strong. Come jam something in one of these chains so it can't pass through the eyelet.
+[1:03:34] Ian Lurie (he/him): Well, well, again, the chain's not passing through the eyelet. The chain is fastened. It's clipped in the end. the the chain ends in this.
+[1:03:42] Speaker 2: Oh, I'm sorry, I have been misinterpreting. Yeah, it's like chain fed through the island. No, no, no. If this was an anchor, if
+[1:03:49] Ian Lurie (he/him): there were an anchor here, then this is the end of the anchor chain that's attached to the ship.
+[1:03:54] Fancy Drak: Oh, like a giant carabiner.
+[1:03:56] Ian Lurie (he/him): Yeah, basically.
+[1:03:58] Speaker 2: Well, I was thinking there could be motors at every other point. Then, if it had the two and it was working that way, that would make that dot.
+[1:04:04] Ian Lurie (he/him): Now, there is something somewhere, something under the city, and it could be under the city itself, all the way down. Okay, you don't know.
+[1:04:12] Speaker 2: Thank you. I thought a chain is passing through an islet and moving de.
+[1:04:15] Speaker 3: Yeah, yeah.
+[1:04:18] Speaker 5: Okay, you want to go to chain number two. Okay.
+[1:04:23] Speaker 3: Do you want to try to disable this one? Detach this one first. What? What? I guess maybe. I mean, if nothing
+[1:04:38] Speaker 2: else, it will cost them resources. Yeah, I got a couple grenades I can shove in there. Based on my yeah, you know it's going
+[1:04:46] Ian Lurie (he/him): to take a lot more than a couple grenades. You think you could figure something out? You'll have to give me an artificer, another artificer check, because you're going to have to figure out the best way to do this.
+[1:04:56] Speaker 2: I can do that.
+[1:04:58] Fancy Drak: And also remember that these chains are also conduits for the demons to to climb up on it into the city.
+[1:05:10] Speaker 6: 1919,
+[1:05:12] Ian Lurie (he/him): Okay, you're not sure exactly how much, but do you think if you drilled holes in the roof of the building around the islet, so the islet is anchored to the roof of this building.
+[1:05:27] Speaker 2: Yeah. If
+[1:05:28] Ian Lurie (he/him): you drilled holes and put in most of your explosives, most of what you have on you, in there, you could probably detonate them and break the islet loose.
+[1:05:38] Speaker 2: Hey, I have a funny hypothetical question for you. Wait, I just gotta check the conditions of this. It does say object. So, with the thought in mind that enlarge and reduce does contain object, could one shrink suddenly the islet.
+[1:06:02] Ian Lurie (he/him): Wow! I have to look up that spell.
+[1:06:10] Fancy Drak: I think you just won
+[1:06:11] Ian Lurie (he/him): D and D. You may have just won D and D. Enlarges or reduces a creature or object you can see within range. It must be neither worn nor carried. That's a tough one because, I mean,
+[1:06:39] Speaker 6: see, I have to ask.
+[1:06:41] Ian Lurie (he/him): I'm just thinking about this.
+[1:06:43] Speaker 2: Please do, please. I will trust your guidance in it, but it is a it is a tricky one. I
+[1:06:57] Fancy Drak: love it because we're getting into the well. There's no rule. It says dog de basketball territory. Physics
+[1:07:02] Ian Lurie (he/him): of D and D, yes. So here's what I would say. It doesn't really enlarge reduce is meant to be used on like something that's sitting on the ground. Like if this, if there were a link of chain just sitting on the ground, I would say yes, absolutely. But you would have to be able to enlarge or reduce the entire chain or the entire building,
+[1:07:30] Speaker 15: and it
+[1:07:30] Ian Lurie (he/him): doesn't it it doesn't work that way because the eyelet is is firmly anchored and built into the building itself. Go ahead. So just like you couldn't enlarge and reduce an entire building, you can't enlarge or reduce the islet. If the eyelet were sitting on the ground, I would totally let you do it. Phew! We did not, in fact, break the D and D universe.
+[1:07:57] Speaker 3: Well, that's disappointing.
+[1:08:00] Ian Lurie (he/him): Sorry.
+[1:08:02] Speaker 2: Okay, so I'm going to communicate to everyone. This is the amount of explosive I think it would take. This would be what we have to do to get into it. Would be exposed on the roof as we like bore into it to put the explosives in place.
+[1:08:15] Ian Lurie (he/him): You could drill on the ceiling. You don't have to drill from the roof down. You can drill from. Okay.
+[1:08:18] Speaker 2: You can drill on the ceiling.
+[1:08:21] Speaker 3: The problem is that's only one of them. You only have enough explosives for one.
+[1:08:25] Speaker 2: Yeah, exactly.
+[1:08:34] Speaker 4: Go see number two on our way back to see Volus.
+[1:08:37] Speaker 3: Yeah. Okay.
+[1:08:39] Speaker 2: Do we have names of who to yell at about this when we get down there? Slash, yell at with knives.
+[1:08:46] Ian Lurie (he/him): Who to yell at? I'm not sure what you mean.
+[1:08:49] Speaker 2: Rikter brought up earlier that if we could just find out who is responsible, I believe we have a name.
+[1:08:56] Ian Lurie (he/him): Who's responsible for what?
+[1:08:59] Speaker 2: The city being dragged out.
+[1:09:00] Ian Lurie (he/him): Let's. It's Asmosy.
+[1:09:02] Speaker 2: No, it's not Asmodeus. That's it. Is
+[1:09:03] Ian Lurie (he/him): it is it's Asmodeus and Zariel, the the arch devil in charge of of Avernus. I mean, if you want to go yell at them, you certainly can. Could have mixed results.
+[1:09:17] Speaker 2: Oh wait, so the guy in charge of this anchor point two is directly behind this temple. I'm just going to flag that real quick.
+[1:09:25] Ian Lurie (he/him): Yeah, yes. The actual the the Duke of the Nine Hells, Asmodes, the one who killed Amith. That this is his doing. What is happening to this city was his doing because he thought it was funny, not funny, but he he thought it was another piece of his revenge against he had the
+[1:09:46] Speaker 2: biggest temple, even though he didn't use gold paint everywhere.
+[1:09:50] Ian Lurie (he/him): Well, he took over. Really
+[1:09:52] Speaker 2: meant he could drag the whole thing to hell.
+[1:09:53] Ian Lurie (he/him): This used to be Amal's temple, right?
+[1:09:56] Speaker 2: Ah, there we go.
+[1:09:57] Ian Lurie (he/him): Asmodeus, Asmodeus took this temple.
+[1:10:01] Speaker 2: Okay, so it's a defiled temple, Rikter. Do you have any special powers in a defiled temple? That seems very paladiny.
+[1:10:10] Ian Lurie (he/him): What? Okay, I I feel like I need to get you guys on track a little bit here. What what are you? Why would you try to? Why would you do anything to the temple? Oh,
+[1:10:26] Speaker 2: we're just going by it. Yeah, with a chance of if that's their stronghold and headquarters, maybe going to two isn't a great idea.
+[1:10:34] Ian Lurie (he/him): Oh, yeah. Okay.
+[1:10:36] Speaker 11: Yeah, I
+[1:10:37] Ian Lurie (he/him): understand what you're saying. If Asmodeus is actually in there, yeah, that would be bad. But Asmodeus does not spend any time on the. You don't need a religion check for this one. He's he's at the ninth layer of hell. That's that's where he spends all his time. He's he's a CR 30 plus.
+[1:10:56] Speaker 3: That's pretty much South Florida.
+[1:10:58] Ian Lurie (he/him): Yeah, he's a he's a deity at this point, when he killed Amoth, he became a god. That was why he did
+[1:11:06] Speaker 5: it. Okay.
+[1:11:07] Ian Lurie (he/him): So, hopefully, he's not in that temple. If he is, all this is kind of moot.
+[1:11:17] Fancy Drak: Yeah. So let's go too. Cool.
+[1:11:19] Ian Lurie (he/him): Okay. So I need another survival check. My
+[1:11:24] Fancy Drak: desk. There. Okay. 26 Okay.
+[1:11:39] Ian Lurie (he/him): So you're actually going from here now, and you just go straight around to there without incident. Remembering that if any devils actually see you, they just ignore you anyway because you have the badger's ariel. So it's really only the demons that you're hiding from. Give me one more survival check.
+[1:12:08] Fancy Drak: Mine too.
+[1:12:09] Ian Lurie (he/him): Okay, so you go behind the temple, and you now see that there is this line of people snaking all the way around the temple, and they just seem to be waiting in line, and they move forward a few steps every now and then. It's like they're queuing up for the theater, so you're not sure what they're doing, but there they all are. You get
+[1:12:34] Speaker 2: the surrendering psychological damage, telling them that if they join the church, they'll be safe. Hypothetically,
+[1:12:40] Ian Lurie (he/him): yeah, that's a pretty good guess. They could be selling their souls, actually, because why else do you walk up to a temple of Asmodeus? Everyone, give me a perception check.
+[1:13:00] Speaker 2: 26 26 Can you tell my dice got a moon bath? They're very happy now.
+[1:13:10] Fancy Drak: All right, that's a 19.
+[1:13:12] Speaker 8: Okay,
+[1:13:13] Speaker 3: 24 and 20.
+[1:13:16] Speaker 16: Okay,
+[1:13:16] Speaker 7: 411,
+[1:13:19] Ian Lurie (he/him): Okay, um, and Rikter, yes, you're correct. He he would not be at the center point of the chains. That for him at this point, this is trivial. This is this is like a prank. This this is something that he did. That you know now this is Zariel's business. It's to feed more souls into the meat grinder that is the Blood War, and Asmodeus is simply not directly involved with us at this point. Now Zariel, even she is not directly involved. But if you wanted to go find her, you could. But again, she she is not Tiamat. She's not directly related to Tiamat. She even if you did somehow confront her and defeat her, that wouldn't change what's happening here. Okay, so all of you guys, as you come around the corner to the building, see five figures walk out of the building, and it's really strange. It takes you a minute to process this. You, they're walking backwards very jerkily, almost like in an uncoordinated way, and you look at them for a minute, and you almost blink, and then you realize that it's a turtle, it's an elf with a bow, it's a tabaxi, it's a human, and it's a paladin of unclear race because they're wearing full plate, and they're moving that really jerky way out of the building. And then they come out of the building, they turn away from you, and they just kind of disappear.
+[1:15:01] Speaker 3: Disappear as in like they just
+[1:15:03] Ian Lurie (he/him): they just move they you just can't see them anymore. The debris gets between you and them.
+[1:15:08] Speaker 4: Can I roll an arcane? What the fuck?
+[1:15:11] Ian Lurie (he/him): Yeah, roll for what the fuck?
+[1:15:15] Speaker 2: Ooh, 35 fucks.
+[1:15:17] Ian Lurie (he/him): Okay, it was you guys.
+[1:15:21] Speaker 2: Like it was us, us.
+[1:15:23] Ian Lurie (he/him): It was you, you. Probably either in the immediate future, or in some version of the future, or something. You're not sure. Something weird just happened with time.
+[1:15:38] Speaker 4: I would like to throw down the goggles for a minute at this point.
+[1:15:42] Ian Lurie (he/him): Okay. You throw down your goggles and you see sort of trailing through the air the this wispy pattern of the party as they would have walked out of the building or into the building. You're not quite sure which, and as you look, you also. I mean, based on
+[1:16:05] Speaker 11: the jerkiness,
+[1:16:07] Ian Lurie (he/him): based on the well, you're not sure what that meant, except maybe you were watching something that was recorded forwards being played backwards. That makes sense. Yeah, I
+[1:16:15] Speaker 2: mean the stepping backwards. Yeah, you described as jerky, so it makes me think it's a rewind.
+[1:16:20] Ian Lurie (he/him): Yeah, think of 10. Yeah, think of a scene in 10 It, right? Anyone who's moving. No, I didn't watch that.
+[1:16:25] Speaker 2: That sounded like too much.
+[1:16:27] Ian Lurie (he/him): Oh well, you should. Yeah, it's great. Um, but that's kind of what seems to be happening here. Is something weird is happening with time. Um.
+[1:16:39] Speaker 2: Okay. Well, I have the goggles down still. Is Alex? Valex in sight.
+[1:16:44] Ian Lurie (he/him): Valix is still yes. Vaxith is still there.
+[1:16:48] Speaker 2: Sorry, Vax. Damn it. And then those people-they looking all right, or is there?
+[1:16:53] Ian Lurie (he/him): Yeah. No, everything else looks normal.
+[1:16:55] Speaker 11: Cool. Thank you.
+[1:16:56] Ian Lurie (he/him): I mean, normal. You know, normal for being in a city that's suspended over the plains of hell that's being slowly dragged down, and if the river sticks, normal.
+[1:17:08] Speaker 4: Is there any type of spell that would do that recording trace thing?
+[1:17:13] Ian Lurie (he/him): Give me an Arcana check.
+[1:17:23] Speaker 5: 20-five.
+[1:17:24] Ian Lurie (he/him): Okay, the DM knows does not know the names of the spells, but there are certainly spells that will let you see what occurred in a in a place just you know recently. That's not what this was. You actually saw people; they were there. All of
+[1:17:44] Speaker 2: Mossy's hair is floofed out right now.
+[1:17:46] Speaker 3: Now, did it did it look like this reverse walking whatever thing when they came out of the temple? Were they
+[1:18:00] Ian Lurie (he/him): facing the temple, walking backwards. They were walking backwards. So, just imagine they backed out of the door. They came from inside the building.
+[1:18:11] Speaker 3: Yep.
+[1:18:13] Ian Lurie (he/him): Right. They walked backwards out of the building and disappeared around some debris, had nothing to do with the temple. They were walking backwards out of the building that holds. You assume holds another one of the eye bolts.
+[1:18:31] Speaker 2: Oh, okay. I'm sorry. I thought it was the the temple. I was really worried why we were marching our asses into the demon temple.
+[1:18:38] Ian Lurie (he/him): Yeah, no, sorry about that. They came backwards out of that building. The other thing you're realizing is they looked really beat up, like worse than you guys look right now.
+[1:18:56] Speaker 8: All right.
+[1:19:06] Speaker 3: That's cool.
+[1:19:08] Fancy Drak: Got shit to do.
+[1:19:09] Speaker 3: Should we skip this one? Go on to number one. Back by the boat.
+[1:19:24] Speaker 11: Rikter, what do you think?
+[1:19:29] Speaker 7: I think we should get on the boat and go and find where these chains link up and bust the shit out of that. Seems unanimous.
+[1:19:56] Fancy Drak: So my only problem with that is, like, here are things that we know, but the central chain, we don't. We have no information on that. We don't know if it's a central chain or multiple, multiple chains.
+[1:20:12] Ian Lurie (he/him): You know that the chains in the city lead down somewhere,
+[1:20:18] Fancy Drak: right? We don't know where the chains connect.
+[1:20:20] Ian Lurie (he/him): We don't know if they connect. You don't know anything. You just know they lead down somewhere. The only way to know where they're going is to either fly under the city or follow the chains.
+[1:20:32] Fancy Drak: Right.
+[1:20:33] Ian Lurie (he/him): Those are your only two options. There's no other way to figure it out, unless one of these other buildings, for some reason, has something completely different about
+[1:20:42] Fancy Drak: it, right?
+[1:20:44] Speaker 2: Can you summon a bird down here, Sango? Could you albatross and go off the side and scope it out? I feel like data is nice, and also we were real bloody just then.
+[1:20:57] Speaker 3: I cannot summon a bird.
+[1:21:03] Fancy Drak: Can you wild shape?
+[1:21:06] Speaker 3: Not in de.
+[1:21:06] Speaker 5: He had a bird friend one time. Did he not have a bird friend?
+[1:21:09] Fancy Drak: Yeah.
+[1:21:12] Speaker 7: Hold on. The
+[1:21:13] Fancy Drak: bird chased the dragon that carried me away.
+[1:21:17] Speaker 3: Oh yeah, you may be right.
+[1:21:25] Speaker 2: I can't remember my roles, but I can remember things you can do.
+[1:21:30] Speaker 3: It's a goddamn Monday.
+[1:21:33] Speaker 2: It's a Monday ass Monday.
+[1:21:35] Speaker 3: Monday ass my dad. It's the Thursday as Monday ever.
+[1:21:42] Fancy Drak: Thank you. I I don't want to volunteer or volunteer Kriegen, but can he fly, or does he even more of a hovering thing?
+[1:21:51] Speaker 3: He can fly. No, he can fly. He can fly. What? What? Why do we need to fly? I'm sorry.
+[1:22:02] Ian Lurie (he/him): Because the chains, you guys, you guys figure it out. Actually, I need to go make a bio break. So why don't you guys figure this out while I do that? Get yourself figure
+[1:22:12] Speaker 2: out. Get all of you on the same anchor.
+[1:22:14] Ian Lurie (he/him): Yeah, get you get all of you guys. Make sure you're all on the same page. Yes.
+[1:22:19] Speaker 2: Yeah. So we don't know if the chains all connect together into like one big winch, or if it's a bunch of little winches, that would impact the decision. If it's a single fail point below, that would be easier hypothetically than the eight in front of
+[1:22:35] Fancy Drak: us. Yes,
+[1:22:35] Speaker 2: hypothetically,
+[1:22:36] Fancy Drak: and it would solve the the the issue of uneven chain breakage, which could potentially damage the city.
+[1:22:45] Speaker 2: Hog. Why
+[1:22:47] Speaker 3: don't we? Can't we go ask our our boat keeper guy? Wouldn't he have seen this before? These chains have been here for a while, right? He's been down here.
+[1:23:00] Speaker 5: He would have good intel.
+[1:23:02] Speaker 3: Yeah, that's what I'm saying.
+[1:23:05] Fancy Drak: I wouldn't rely on it.
+[1:23:09] Speaker 3: You know, worst case scenario. I think we did
+[1:23:10] Speaker 2: insight checks on him, and he's pretty damn genuine.
+[1:23:13] Speaker 3: Yeah, he's kind of up and up with us.
+[1:23:16] Fancy Drak: No, no, no. I think if I think if he knows, he would probably tell
+[1:23:20] Speaker 3: us. Yeah,
+[1:23:21] Fancy Drak: I just don't know how frequently he's down here. I don't know if he's been this area lately. Like, I feel like if he knows, he'd probably tell us. I think he's just walk over the
+[1:23:31] Speaker 3: edge and look over and see which if the chains go under or out. You know what I mean? Like yeah, the the Ian's. Well, if it's on the
+[1:23:44] Speaker 2: ceiling, it implies it goes. But the thing is, the under part. So we were just in a building where it was up through the roof, and I'm assuming then through the ground. So we we can't see if that's a straight angle, right?
+[1:23:59] Fancy Drak: And and like Ian Ian said, so said that the only way to tell is to actually is to look from under the vantage point of the city. So I'm kind of I'm kind of leaning on that phrasing. So my my guess is that standing on the edge and looking down may not be may not give us enough information.
+[1:24:22] Speaker 2: Can anybody spider walk under the city, real quick? Hmm.
+[1:24:30] Ian Lurie (he/him): Some of you guys do have fly, right? Yep. Okay. Just just checking.
+[1:24:38] Fancy Drak: You know, I have a potion of fly, and it laughs.
+[1:24:47] Speaker 7: We can just trust our party member Craig in, who has fly, to do this thing, so we can include everyone in the plane.
+[1:25:00] Speaker 17: Yep.
+[1:25:01] Speaker 2: Hey, Ian. Question for you: This chain goes through the floor of the building we were just in.
+[1:25:06] Ian Lurie (he/him): The chain went through the floor of the building.
+[1:25:08] Speaker 2: How far was it to the edge of the city?
+[1:25:14] Ian Lurie (he/him): It was right on the. I mean, it was maybe 40 or 50 feet from the edge, but it's hard to tell because the edges of the city are all kind of cracked and broken, right?
+[1:25:22] Speaker 2: How would you feel about that, Craig?
+[1:25:29] Speaker 3: Yeah, it's fine. That's fine. I can do that.
+[1:25:33] Speaker 4: Anybody have an extra buff they can toss the turtles away?
+[1:25:42] Speaker 8: Only one
+[1:25:43] Ian Lurie (he/him): creature, right? A fly spell.
+[1:25:47] Speaker 3: Craigan's got his his cleric thing, steps of the night.
+[1:25:55] Ian Lurie (he/him): But it's just you.
+[1:25:57] Speaker 3: Yeah, I assume I can carry somebody with the normal he,
+[1:26:01] Ian Lurie (he/him): but you can go reconnoiter definitely. Yes, yeah,
+[1:26:05] Speaker 3: yeah.
+[1:26:06] Speaker 7: Just in case, Craigan, before you go, Rikter's going to walk over to you, and he's going to lean in, and he's going to whisper in your ear, "You got this, and he's going to cast protection from evil and good on you. So, if a creature tries to get you celestial, elemental, faith, fiend, or undead, if they try and attack you, they have disadvantage. So, that's a little protection I can offer you. Love that.
+[1:26:34] Speaker 3: Nice. Thank you, Bass Man.
+[1:26:40] Ian Lurie (he/him): And Rikter, I'm sorry, I forgot. You did detect all the little devils that were in that other building, and you know that there's similar devils in this building because you had the detect you had detection up right until now.
+[1:26:54] Speaker 7: Yes, sir. Yeah,
+[1:26:56] Ian Lurie (he/him): yeah. So you know that there's a similar group inside this building that you're just outside of now, as you found behind building number three or in building number three. Okay, Crian, you're gonna fly off the edge.
+[1:27:16] Speaker 3: Well, when you put it like that, yes. Yes.
+[1:27:23] Ian Lurie (he/him): Okay.
+[1:27:25] Speaker 3: And he's going to take his rope and attach it to something just to give him a little tether, just in case.
+[1:27:34] Ian Lurie (he/him): Okay. How long is the rope?
+[1:27:39] Speaker 3: Yeah, 60 feet, I think.
+[1:27:40] Ian Lurie (he/him): Okay, I'm just going to tell you now. You know, you know full well that will not get you far enough.
+[1:27:47] Speaker 3: Okay. Well, never mind that.
+[1:27:49] Ian Lurie (he/him): You can you can dangle off the edge, and then you'll just stop. You won't be able to look at anything. Okay. You can either fly off the edge and look, or not.
+[1:27:57] Speaker 3: Fly off the edge and look.
+[1:27:58] Ian Lurie (he/him): Okay. So you fly off the edge of the city, and the first thing you notice is just the expanse of Avernus. Like you, you haven't really gotten a good look at Avernus across everything. You know the the full expanse of it before, and now you can see the river sticks extending into the distance on either side. You see all the land below you. You see all the bursts of fire and the the battles of the blood war happening, and the city itself is this layer of rock, and it's about you would say between 50 and 100 feet thick. It's this enormous disk, sort of like in this picture, and you descend a little bit further. Why don't you give me a stealth check? I'm just gonna say you're you you know what's going on. You know you're trying to be someone inconspicuous.
+[1:28:53] Speaker 3: You guidance on myself for that. Okay. Throw that out there.
+[1:29:04] Ian Lurie (he/him): That good, huh?
+[1:29:07] Speaker 3: Okay, so I rolled a three on the guidance.
+[1:29:11] Ian Lurie (he/him): Okay,
+[1:29:12] Speaker 3: I have a negative three because of my dexterity.
+[1:29:15] Speaker 2: No.
+[1:29:18] Speaker 3: So that that puts me at a at a one.
+[1:29:21] Ian Lurie (he/him): Okay. Do you want to use an inspiration roll again?
+[1:29:25] Speaker 3: Oh, you know what? I can use my luck.
+[1:29:28] Speaker 6: Oh, thank God!
+[1:29:32] Speaker 18: Oh, that's and that's how we lost
+[1:29:33] Speaker 5: our turtle.
+[1:29:34] Speaker 3: So much better. That's five.
+[1:29:36] Ian Lurie (he/him): Okay. All right. Oh
+[1:29:39] Speaker 4: wait, hold up. No.
+[1:29:41] Ian Lurie (he/him): You can't. I can't.
+[1:29:42] Speaker 2: I can't see you. I can't do anything. I'm sorry.
+[1:29:44] Ian Lurie (he/him): No. Okay, you descend below the the level of the below the bottom of the city, and wow. So lucky for you, I too rolled like shit. If you can see that, but I rolled a three, so you're pretty safe. You loop down below the city, and you see suspended underneath the city all the chains come together, and then there's some kind of huge apparatus, and you can't quite see exactly what it is from here, but you can see there's some kind of enormous set of gears or something under the city, and it appears to be steadily tightening the chains. And then there's a number of chains that descend from that platform, from that apparatus all the way down to the surface of Avernus. So there's some kind of machine underneath this city, underneath Silgrim and below, that's that's pulling the city down the chains.
+[1:30:49] Speaker 3: Oh, okay,
+[1:30:50] Ian Lurie (he/him): okay,
+[1:30:51] Speaker 3: gotcha, gotcha, gotcha, gotcha. So it's like those things, those tie downs for the back of pickup trucks.
+[1:30:57] Ian Lurie (he/him): Yeah, gotcha. And then down at the down somewhere below, you assume the chain must be anchored to the surface of Avernus.
+[1:31:05] Speaker 3: Gotcha. Okay. Okay. Hey guys, party line. Well, this is what I see. Yada yada yada. Any questions?
+[1:31:18] Fancy Drak: That makes it clear. So glad I
+[1:31:22] Speaker 5: sent you down with a protractor. Yeah.
+[1:31:27] Speaker 3: Do I see any creatures manning the the tie down thing underneath the city?
+[1:31:33] Ian Lurie (he/him): You'd have to get closer. Right now, you're several 100 feet away.
+[1:31:37] Speaker 3: Nope. Nope. I'm good.
+[1:31:39] Ian Lurie (he/him): No, thank you.
+[1:31:41] Speaker 11: Respect that.
+[1:31:44] Speaker 3: Help me back up.
+[1:31:53] Ian Lurie (he/him): Okay, so what do you guys want to do?
+[1:31:56] Speaker 2: Based on this new information, does that change my artificing understanding of what would need to be done. The
+[1:32:03] Ian Lurie (he/him): chains are all anchored to the city around the edges, right, and in each of these buildings, and then they all feed down into a single machine underneath the city. So it seems like breaking that machine in some way would be a good way to get the city freed, or go all the way down to the surface of Aranus, cut the chain loose down there, if you can, and hope the city starts drifting upwards. But then the all the chains are still attached to the city. Yeah. So it depends on what you want to what you want to do.
+[1:32:38] Speaker 4: I would love to know how to walk up so dumb right now.
+[1:32:44] Fancy Drak: I think it was I think it was Kriegen or Rikter who said something like, "We could potentially pop on the boat, have the boat take us down to the base, and then destroy the base of the structure.
+[1:32:59] Speaker 2: Yeah. Sorry. Where is the river in relation. Wait, hold on, hold
+[1:33:02] Ian Lurie (he/him): on. When you say base of the structure, what do you mean? You mean down on the surface of Avernus?
+[1:33:06] Fancy Drak: Yes.
+[1:33:07] Ian Lurie (he/him): Okay.
+[1:33:08] Fancy Drak: Because basically, the two options are like a mid-air mechanical explosion, or an explosion where we we all have feet on the ground,
+[1:33:21] Speaker 7: and I don't think our contract says that Voleth of the Fog will take us anywhere else but to the final destination we agreed on, and so that does not include a chain in the sky.
+[1:33:33] Ian Lurie (he/him): Yep,
+[1:33:34] Fancy Drak: right. So, if this were an action movie, we could all find our way to the the connection point that's under the city, not on the ground.
+[1:33:56] Ian Lurie (he/him): But Voleth can't take you there.
+[1:33:58] Fancy Drak: Right, but we might find another way to get there,
+[1:34:02] Ian Lurie (he/him): or go down to the surface,
+[1:34:04] Fancy Drak: right?
+[1:34:06] Ian Lurie (he/him): Cut it loose there,
+[1:34:07] Fancy Drak: right?
+[1:34:08] Speaker 5: I I think yeah, Rikter brought up a great idea here.
+[1:34:12] Fancy Drak: Yeah,
+[1:34:13] Speaker 2: let's go down, and it's not going to be the guy. I was like, oh, but what if it's the guy down there? That's not going to happen. No, it's just somebody who's like, I just need health insurance because it's hell. All
+[1:34:26] Fancy Drak: right,
+[1:34:30] Speaker 5: we're off to see the bolif.
+[1:34:34] Fancy Drak: Yeah, let's. Yeah, let's. That's good.
+[1:34:36] Ian Lurie (he/him): All right. Um, so you head back towards the boat. Along the way, everyone, give me a perception check.
+[1:35:02] Fancy Drak: 20-420-520-five.
+[1:35:12] Speaker 3: eight and 13.
+[1:35:14] Ian Lurie (he/him): So you come upon this little opening in a set of buildings and. there's piles of ash and pools of icker everywhere. There are blast marks and arrows lying on the ground. There clearly was a battle here and recently, and in the center of it all lies an ultraloth. You remember Anthrax, that kind of faceless, how he was this kind of faceless creature. Well, there is an ultra loss line there, and in fact, it might be him, and he's lying on the ground with two huge wounds in his chest.
+[1:35:58] Speaker 1: Somebody who knows bite wounds well. Does that look like a particular predator, or maybe some stabby, stabby?
+[1:36:07] Ian Lurie (he/him): Can someone with a good medicine can give me a medicine check? But you got to walk up to him first. You can't just tell from a distance. There's just right now you just see him on the ground with these two huge ragged holes in his chest.
+[1:36:18] Speaker 2: Oh, he's still alive.
+[1:36:20] Ian Lurie (he/him): You don't know. He's not moving. Stage
+[1:36:24] Speaker 2: hand and poke him with a stick.
+[1:36:27] Speaker 7: Sure,
+[1:36:28] Speaker 3: possible.
+[1:36:30] Fancy Drak: Craig, are you are you skill? Are you have a like some diagnostic skill with this?
+[1:36:37] Speaker 3: I've got good animal handling.
+[1:36:42] Ian Lurie (he/him): I think Rikter might be your best at medicine. I'm not sure. I've got plus three.
+[1:36:47] Speaker 2: Yeah, you're better than
+[1:36:48] Fancy Drak: Drac's got a plus five for medicine. Okay, because it's wisdom.
+[1:36:54] Speaker 7: All right then. Before you walk over, Drac. Sorry, Kragan. I'm going to go ahead, and I'm going to hit you with the protection from evil and good, because I at least want to make sure that if he's feigning, that we have enough time to come over and chop his head off for the indignity of fooling you. Is
+[1:37:15] Speaker 1: this the one from the library? This is the
+[1:37:18] Ian Lurie (he/him): one in the armory, the one that was leading, the one that was leading people, the one that was pretending to be the head of the guard, people eight at a time to to have their souls sucked out. Remember him?
+[1:37:33] Fancy Drak: Yeah. Oh yeah.
+[1:37:36] Speaker 2: Hey, if the medicine check goes well, maybe you can defeat that, Shin. That's a great time. Uh,
+[1:37:47] Ian Lurie (he/him): so is someone going over there? Yes.
+[1:37:50] Fancy Drak: Drac. I guess Drac is.
+[1:37:53] Ian Lurie (he/him): Okay, I
+[1:37:54] Fancy Drak: will.
+[1:37:54] Ian Lurie (he/him): So Drak, go over there, make a medicine check.
+[1:37:57] Fancy Drak: Yeah, this is only for diagnosis. I'm not actually trying to help
+[1:38:00] Ian Lurie (he/him): him. I understand. You cure him. He stands up and kills you all. No, right. Congratulations.
+[1:38:07] Fancy Drak: All right,
+[1:38:07] Speaker 3: it's a new achievement.
+[1:38:10] Fancy Drak: 1919.
+[1:38:11] Ian Lurie (he/him): Okay. Um, he is dead. Utterly, completely, irrevocably dead. He has not turned to Ash or Icker because he is an ultra loth, which is not a creature of the nine hells or the abyss. He is different. He's they are mercenaries. They are frequently hired by devils and demons to do things. So he was hired by someone like Zareel to take people from the armory and lead them to the temple of Asmodeus and convert them to or corrupt their souls. That's what his job was. He is now on the ground. It's clear that he was ripped apart by some very large creature with very large claws.
+[1:39:02] Fancy Drak: All right. Well, since he's since he's dead, there's really only one thing to do is check his pockets for loose change. Okay. He's not mostly dead, irrevocably dead.
+[1:39:12] Ian Lurie (he/him): He's irrevocably, utterly dead. No. You could, I guess, try to do a revivify if you wanted to. Ah,
+[1:39:19] Fancy Drak: good. He's good.
+[1:39:21] Ian Lurie (he/him): Yeah,
+[1:39:21] Fancy Drak: I'm a loot.
+[1:39:23] Speaker 16: Okay,
+[1:39:23] Fancy Drak: is he carrying anything useful?
+[1:39:26] Ian Lurie (he/him): Um, he's carrying an iron stave that doesn't appear to have any unique properties. He has a pouch with maybe 10 gold in it, and he has three soul coins in his pocket.
+[1:39:46] Speaker 2: I saw the lin box.
+[1:39:48] Fancy Drak: Yeah. Hey. So, grab the cash, grab the stave, and come. I guess I'll take the soul coins and be like, Mossy, do you have the thing?
+[1:40:10] Speaker 2: I got the thing. The soul coins in the lid box because they give off a little signature. These fuckers love.
+[1:40:19] Speaker 19: All right, put
+[1:40:20] Speaker 2: that into party inventory. Yeah, that's going to super dead.
+[1:40:28] Speaker 3: Did that go in a bag of holding?
+[1:40:31] Speaker 2: Yeah, it's in the party bag of holding.
+[1:40:34] Speaker 3: That box in a in a bag of holding. Gotcha.
+[1:40:37] Ian Lurie (he/him): Yes, I believe I believe you guys now have four soul coins. Yes. Wait, where's the other soul
+[1:40:45] Speaker 20: coin?
+[1:40:47] Ian Lurie (he/him): What? It
+[1:40:48] Speaker 7: should be in the lead box. It should. Oh, lead box. The lady coignes.
+[1:40:52] Speaker 5: Yes. Cool. Yep.
+[1:40:55] Speaker 3: I think we only need one more for the whole set.
+[1:40:57] Ian Lurie (he/him): Mm-hmm. Mm-hmm. Complete collectible set.
+[1:41:04] Speaker 2: I like to imagine the lead box screams a little bit when we open it.
+[1:41:08] Ian Lurie (he/him): Yeah. Well. Yeah. We are we are all of a certain age here. All right, you guys head back to the boat from here.
+[1:41:26] Fancy Drak: Yes. Yep.
+[1:41:27] Ian Lurie (he/him): Yeah.
+[1:41:28] Speaker 3: Yep. All
+[1:41:28] Ian Lurie (he/him): right. You make it there without incident. Voleth is there, and interestingly, where before he formed the boat. If you remember, there is now a barge sitting there, and he is standing on it. And if if an Arcanaloth could look impatient, or a Mesolith could look impatient, you think that's the vibe he's giving right now. And as you come towards him, he says, "We agreed an hour. It has been 18 hours. This violates our contract, but I have waited anyway.
+[1:42:15] Speaker 5: We really appreciate you.
+[1:42:20] Speaker 1: Your void looks nice today.
+[1:42:26] Ian Lurie (he/him): Oh, this old thing, he says. No, he doesn't say that. Says, well, if if we can move on our way, I think it would be advisable.
+[1:42:39] Speaker 3: Is it really 18 hours?
+[1:42:41] Ian Lurie (he/him): Yeah.
+[1:42:41] Speaker 3: Did we do a long rest?
+[1:42:43] Ian Lurie (he/him): No party line. You did a lot.
+[1:42:46] Speaker 3: Oh, okay, okay.
+[1:42:47] Fancy Drak: Party line. Like, are we asking? And so we're asking. Are we asking him to take us to the to?
+[1:42:59] Speaker 1: Let's start with
+[1:43:00] Speaker 2: casual conversation. So, what about these chains? Feel like it's a good starting place.
+[1:43:05] Speaker 8: Again,
+[1:43:06] Speaker 7: I think since we have that contract that we have, we can only have him take us to whatever the final destination. Then we'd probably have to find our way from there.
+[1:43:14] Speaker 2: We can't ask our favors right now. Locus
+[1:43:17] Speaker 7: of the
+[1:43:17] Speaker 8: chain. We have four contact bar
+[1:43:19] Speaker 3: to be on the way. Yeah, but let's warm up the conversation. Our trip route and tip them a little bit more.
+[1:43:30] Speaker 2: So about these chains,
+[1:43:35] Ian Lurie (he/him): the chains on the city. He says,
+[1:43:40] Speaker 5: "Yeah. they
+[1:43:45] Ian Lurie (he/him): are definitely changed. Yes, how long have they been there? He he's in the meantime. He's trying to get you guys on the boat. Like he clearly. I'm sorry.
+[1:43:52] Speaker 1: I he clearly does
+[1:43:54] Ian Lurie (he/him): not want to be there anymore. He says, "Please, we can talk while we sail. It
+[1:44:03] Speaker 2: didn't feel like 18 hours in there.
+[1:44:05] Ian Lurie (he/him): Yes, it did. It did. You guys remember everything you did? You got to the city. You fought the Gothia blight. You went to the armory. You had a discussion there. And remember, in D and D, everything's kind of compressed, right? Then you led all these people through this extended battle sequence.
+[1:44:26] Speaker 2: Ian, ADHD. Okay. Yes. Then,
+[1:44:28] Ian Lurie (he/him): then you snuck. Then you snuck over to the one building. Then you snuck over to the other building. In between, you had a bunch of discussions. So, yeah, 18 hours is very reasonable.
+[1:44:38] Speaker 11: Well, then I retract that statement. I.
+[1:44:44] Speaker 5: So about these chains, huh? So how long have they been here?
+[1:44:50] Ian Lurie (he/him): As long as Silgorin below.
+[1:44:57] Speaker 2: Does that imply DM that the city was just popped out of reality by these chains.
+[1:45:04] Ian Lurie (he/him): Well, it was popped out of reality and tied down with these chains. Yes.
+[1:45:08] Speaker 5: Ah.
+[1:45:09] Ian Lurie (he/him): Remember, Asmodeus did this when he killed Amoth.
+[1:45:13] Speaker 8: Wow.
+[1:45:14] Ian Lurie (he/him): That was the fall.
+[1:45:15] Speaker 2: But the whole punch of it all is what is striking me.
+[1:45:18] Ian Lurie (he/him): Well, but that's what the fall did.
+[1:45:21] Speaker 6: Yeah.
+[1:45:23] Speaker 7: Okay.
+[1:45:24] Speaker 2: I'm appreciating it in a new way, sir. You've made a beautiful world.
+[1:45:32] Ian Lurie (he/him): Um. He says that the chains attach at the dock of fallen cities.
+[1:45:43] Speaker 2: Oh, we're going there. That's nice.
+[1:45:45] Ian Lurie (he/him): That is where we are going. Yes.
+[1:45:49] Speaker 3: You wouldn't. You wouldn't mind us taking a pit stop like down below a little bit, would you?
+[1:45:53] Ian Lurie (he/him): Well, that. Where would you like to stop?
+[1:45:57] Speaker 3: Where that. Where the tie down connects, the little city here.
+[1:46:05] Ian Lurie (he/him): That is where we are going. Yes, the DACA fallen cities.
+[1:46:11] Speaker 3: Yep. Okay. This is
+[1:46:12] Ian Lurie (he/him): not the first. This is not the first city that has been trapped in this manner.
+[1:46:17] Speaker 2: Oh, I think my turtle friend was asking if just get like a little drive-by scenic view of the underside of the city where the chains meet together on our way down to the dock.
+[1:46:30] Ian Lurie (he/him): Yeah, that that I will not take us underneath the city. No,
+[1:46:35] Speaker 1: okay,
+[1:46:36] Speaker 4: that's fair.
+[1:46:37] Ian Lurie (he/him): That is unsafe.
+[1:46:38] Speaker 2: Ah, it's a matter of safety, not a coin. You have you have
+[1:46:43] Ian Lurie (he/him): my my contract states that I must get you safely to your destination. If I take you under the city, that is almost impossible, and I will not breach my contract.
+[1:46:53] Speaker 4: I respect that.
+[1:46:55] Speaker 3: How many cities have fallen down below there?
+[1:46:58] Ian Lurie (he/him): I could not tell you.
+[1:47:02] Speaker 3: Like. five,
+[1:47:04] Ian Lurie (he/him): I 20 time pass time and events pass strangely here. I could not tell you. As
+[1:47:16] Speaker 2: as we're sailing, I'd like to take out my notebook and try and capture as much detail as I can, what I've seen, and as we pass.
+[1:47:25] Ian Lurie (he/him): Okay,
+[1:47:25] Speaker 4: please thank you.
+[1:47:26] Ian Lurie (he/him): Okay, give me a performance check.
+[1:47:32] Speaker 5: 20-four. All
+[1:47:34] Ian Lurie (he/him): right, you get a pretty good capturing, and as you're flying down, the ship has sprouted these sails that are sort of diagonally coming out from the the center of the barge. So they're not quite wings. They're not quite sails. And this ship is okay. Noted, Rikter. The ship is sort of spiraling slowly down, the and as it's doing it, it's you see it's taking a broad spiral that's basically looping around. It's taking the diameter of the city around the chain as it moves down, and what you notice as you fly lower and lower is you see. this enormous landscape, and across it, you see, as I said before, the river Styx, which doesn't so much flow as it oozes across the landscape. It's kind of purple, and. And yeah, it just oozes past as this purple ribbon, and you're hundreds of feet up still, and you see sparks flying off the landscape where there must be small battles or something else going on. You think at one point you notice one, you know, maybe Rikter, you look over the edge and you notice what looks like maybe large vehicles driving across the landscape. You're not totally sure, but you'd swear that's what you see. Drac, you look down and you see demons and devils flying and looping around each other in in aerial combat. You see what looks like a huge wagon train of some kind wheeling its way across down a road that leads from the place you're landing. Which movie has Picard in a cheap?
+[1:49:37] Speaker 4: It's like the fourth one. He wrote it into his contract because he was really into cars, and it looks ridiculous.
+[1:49:43] Ian Lurie (he/him): All right, you see again that line of vehicles, and then slowly coming into focus below you is a city, and it's not so much a city as a pile of wreckage that's organized in a grid-style format, but this is the dock of fallen cities, and it is literally an enormous mounting point on the surface of Avernus to which the chains up above lead, and if you picture the eye bolts that were in the ceiling of the four buildings on Silgorin below, this is one of those at 10 times the scale. This thing is the size of a six-story building with these enormous chains looping through it again and again and again, as if they're tied up to
+[1:50:47] Speaker 2: it. Yep, that's the one.
+[1:50:48] Ian Lurie (he/him): What the hell is that? That is
+[1:50:50] Speaker 6: Patrick Stewart off-roading a Star Trek movie.
+[1:50:55] Ian Lurie (he/him): I was feeling bad about my somewhat shitty description, but someone actually made that for real. I feel better now.
+[1:51:03] Speaker 5: He had it written into the contract for that movie.
+[1:51:05] Ian Lurie (he/him): Dune buggy Jean Lue. I'm glad I didn't see that movie. Anyway, and the city itself is. It's it's just strewn with wreckage, and when you look, you look carefully at the wreckage, and with all your perceptions, I'm not going to make you roll for this. You realize that what you're looking at is actually layers of wreckage, like over the centuries or the millennia, many cities have fallen here, and they have layered on top of each other, and what you see is all those wreckages in almost geological layers on top of each other. So this is not the first time this has happened. It's probably not the last time it will happen, and the enormous. enormous anchor bolt that's currently holding Silgrim below is surrounded with all this detritus of destroyed cities, but it itself is mounted on top of this mountain of rubble and ruin that is all the cities that have fallen, and as Voleth brings you down, true to his word, none of the there are all sorts of beings walking around in these cities. There is in these destroyed cities, you see devils moving among the buildings, right? You don't see any demons. What you do see are large patrols of heavily armed devils moving among these buildings. You get the sense that maybe demons had tried to come up here. There's huge piles and puddles of icker everywhere, but at least right now, there's no fighting going on here. You see other shapes as well. You see all kinds of figures wrapped in robes, tattered robes, tattered clothing that seem to be picking through the wreckage, almost looking like they're trying to to find stuff. They're just sifting through all the rubble, and right at the foot of the chain, where that huge eye bolt is, you see several groups of what you think must be heavily armed and armored devils, as well as more swarms of those those imps and lemurs working to keep this this whole thing lubricated and in good repair because you see now that as enormous as it is, it's hard to perceive, but it is under incredible stresses and forces, and you can see that it does move back and forth a little bit here and there, and you can hear this really low humming, kind of groaning sound that's like the world's largest beehive buzzing right in your ear. You can almost feel it in your breastbone and bullet. Sorry,
+[1:54:11] Speaker 3: our breast pump.
+[1:54:13] Ian Lurie (he/him): Breastbone.
+[1:54:15] Speaker 3: Breast
+[1:54:16] Ian Lurie (he/him): bone. Not your breast pump. That's a that's a turtle thing. Don't I don't want to I don't want to judge.
+[1:54:26] Speaker 2: No shade, you're glowing.
+[1:54:28] Ian Lurie (he/him): Right, right, right. Voleth says my contract with you ends here. I suggest you find an inn, and if you would like to sail along the River Styx, I of course can be hired. You may be better served traveling over land.
+[1:55:05] Speaker 8: I would love
+[1:55:05] Speaker 5: a little bit of time to evaluate those options. When do you think he'll be leaving?
+[1:55:11] Ian Lurie (he/him): I will be here in the city for at least a day. What is the
+[1:55:18] Speaker 4: best way to get a hold of you?
+[1:55:22] Ian Lurie (he/him): Come. Come find me at the inn called City's Ruin.
+[1:55:35] Speaker 6: Is it a reputable inn? Some of our travelers would be safe. It is
+[1:55:41] Ian Lurie (he/him): itself. It is acceptable. It is as safe as any place down here.
+[1:55:47] Speaker 5: Thank you.
+[1:55:49] Speaker 3: And why do you think we would be better suited for traveling across land instead of with you?
+[1:56:00] Ian Lurie (he/him): You are seeking Tiamat's lair, are you not?
+[1:56:03] Speaker 3: Oh yeah. You
+[1:56:05] Ian Lurie (he/him): know the river Styx does not flow to Tiamat's lair. It doesn't mean I couldn't get you closer than you are now, but I'm not sure it would be that helpful. Distances, distances, and and distances change here from time to time. So I could sail you, and the River Styx moves. I could sail you down the River Styx to where I thought it was close to Tiamat's lair, but then we would get there, and it would be twice as far. I don't know if that makes sense, but up above, you would use a map to navigate around Praxia. Yes.
+[1:56:39] Speaker 6: Oh yes.
+[1:56:39] Ian Lurie (he/him): And the map would remain accurate over time. Obviously, there
+[1:56:44] Speaker 2: sometimes
+[1:56:45] Ian Lurie (he/him): well, there are disasters and things, but the continents stay roughly the same size. The oceans remain approximately the same. Here, that is not true. The river sticks can completely move from one day to the next. So while I can safely transport you down the river Styx, and while it is anchored at each end by the same thing, it's always anchored at the same point. So the River Styx always ends at the the pillar of skulls at the other end, and it always starts here, but in between, it's like a snake whipping and thrashing about.
+[1:57:26] Speaker 5: DM question.
+[1:57:28] Speaker 2: In one of our research montages, we went to the library, and Mossy specifically was looking at passing through, and in one of the ways, it was like using a seal, and then there was some type of vague map in there.
+[1:57:45] Ian Lurie (he/him): The best map is that correct? Yeah, the best map you have though is the one you got from Rugarim, the the paladin.
+[1:57:58] Speaker 5: Okay,
+[1:57:59] Ian Lurie (he/him): and he also can we take
+[1:58:00] Speaker 4: that out and show it to him. Just be like, I'm curious. Like, how has it changed since this?
+[1:58:06] Ian Lurie (he/him): I many times, and Rigorim told you that too. He said, "Don't, don't, you know, trust. He said, "Trust what's on the map, but don't trust the distances.
+[1:58:18] Speaker 2: Yeah, we just can we maybe go to that inn and and have a drink at the tavern, and then you can. It'd be interesting. I'm I'm a nerdy type. I love seeing the changes and stuff. If you could show me how it's changed from this,
+[1:58:36] Ian Lurie (he/him): he does the closest thing you can think of to a shrug for this bizarre creature that's hidden, whose head is hidden in this robe, looks at you, kind of shrugs, and says, "We can take a moment. It will be very difficult for your minds to understand this.
+[1:58:56] Speaker 2: I love everything about that. I'm going to give him the journal and like a blank page to sketch out things as he explains it.
+[1:59:05] Ian Lurie (he/him): He holds up his hands, and well, first of all, you head over to the inn, which means you're walking through the city. And as you walk through the city, you see a lot of devils, and because of the badge, none of them give you any trouble. But you do see very disciplined, organized groups of armed devils, and this is something you know. Now that you walked through the, you know, you had to take everyone through that battle up on Silgorin below. It's very clear now that devils are the most disciplined soldiers you've ever seen, because you've all been through some kind of military conflict at this point. You've been through wars. They are incredibly well organized. They are incredibly well armed, but there are also more basic sort of citizens. I mean, they are also devils, but there are people just going on about there are devils going on about whatever twisted business they're going about, including smaller ones that are combing through all the rubble around you. And as you walk down what you assumed was just a normal street, you realize there are almost no buildings here. It's just heaps of garbage, heaps of stone, and heaps of of materials that might have been roofs at one point. You see twisted, unidentifiable chunks of metal, things that you know all of us here would above the table would identify as girders, but you all have no point of reverence for that, so you're not sure exactly what they are. You see pieces of enormous vehicles here, and in a few places you even see skeletons reaching out from not not moving. They're not like undead skeletons. There are you know bony skeletal hands that are frozen, reaching out from underneath the the bits of rubble here and there. You see several corpses, as if a city has just recently fallen here. And then you you remind yourself, no way, time down here can pass very strangely. And then you come upon the the inn of the inn of city's ruin, and this inn is basically built into the side of what looks like multiple layered destroyed cities, and each the the front door to the inn is clearly what is the crush remains of an ancient ancient building, and Boleth, without hesitating, just drifts through the door into the inn. Do you guys follow? Okay. Once inside, you see this very simple but very large room, like deceptively large. The doors did not do it justice. It's almost more of a hall than it is a single room. And in this hall, there are all of these round tables with low stools around them, and you see various devils of different types and sizes and shapes, and you've never seen this many different kinds in one place anywhere. All sitting at these different tables, you see some devils that are probably nine feet tall and are made of these huge spikes of ice that are sitting there, maybe communicating. You're not sure. You do see a table with a group of ultraloths, so arcane lots like Anthraxus, and even some boat drivers like Volath. You see these smaller, almost humanoid-looking devils that are bright red. They have hair. They're bright red. They're wearing clothing. You've seen multiple rakshasas, just like the guy that you killed on the plane of fire. You see them as well, and they're they all have plates and are eating meat that looks suspiciously fresh. Wait, the
+[2:03:22] Speaker 2: Timu guy?
+[2:03:24] Ian Lurie (he/him): Yeah, the Timu guy.
+[2:03:26] Speaker 5: He's still alive, though. He just left.
+[2:03:29] Ian Lurie (he/him): No, you well, you killed him, but he's he went back to the hells because you killed him on the surface of, you killed him someplace else. But this isn't necessarily him. It's just a bunch of other rashasas. Because they are a type of devil, so you see all these different devils as you walk in.
+[2:03:48] Fancy Drak: You know, sort of Mossy. They don't all know each other.
+[2:03:51] Ian Lurie (he/him): It's true. They don't all know each other. You look. Go ahead.
+[2:03:59] Speaker 3: Sango as the tongue of sun and moon can understand what they're saying. If if anything of importance catches his ear,
+[2:04:10] Ian Lurie (he/him): okay, okay. There's no clear sign of any kind of. Let me back up. At the far end of the hall, there's what appears to be a reception desk slash bar that you can, and Voleth leads you over to it. And behind the bar is actually an orc, not a devil. Definitely a a standard orc.
+[2:04:48] Speaker 3: Male, female.
+[2:04:50] Ian Lurie (he/him): Male. Bossy old
+[2:04:58] Speaker 2: elbow, Rikter. Like go be charismatic, make a friend.
+[2:05:03] Speaker 3: Just for clarity, this is called the Inn of Fallen Cities, right?
+[2:05:07] Ian Lurie (he/him): Called the Inn of Cities Ruin.
+[2:05:10] Speaker 3: Cities Ruin, and what is the name of the the place? The
+[2:05:16] Ian Lurie (he/him): place is called the Dock of Fallen Cities.
+[2:05:18] Speaker 3: Dock of Fallen Cities. Thanks. And the the town. Are we like when we walk through it, are we basically navigating the structure of what remains of the last city that fell here?
+[2:05:49] Ian Lurie (he/him): No, it's more like layers of cities that have collapsed on top of each other.
+[2:05:53] Speaker 3: Okay, so
+[2:05:54] Ian Lurie (he/him): it's it's not perfectly uniform. They didn't fall like pancakes, right? Yep. It's all twisting and undulating. So you're seeing many different strata, basically.
+[2:06:05] Speaker 3: And were there any sort of architectural types that we would have picked up on?
+[2:06:11] Ian Lurie (he/him): Well, you definitely picked up on some very alien-looking architectural types. Like I said, you saw those twisted girders and things like that. You saw some stone that would seem like you know a typical medieval type of city, and then you saw things you just can't identify. You're not sure.
+[2:06:30] Speaker 3: Okay, and then would we have any indication of whether a city from Praxia, other than Silgrim down below would have been pulled down here.
+[2:06:44] Ian Lurie (he/him): No, there's no way to know for sure.
+[2:06:47] Speaker 3: Okay.
+[2:06:53] Ian Lurie (he/him): So you walk over to the innkeep. The innkeep says, "Oh, don't see many humanoids, mortals down here. Can I do for you?
+[2:07:10] Speaker 3: That you, Rikter?
+[2:07:13] Speaker 2: I think we need to go.
+[2:07:16] Speaker 7: We need a couple of rooms, please.
+[2:07:20] Ian Lurie (he/him): Of course, it's one soul coin.
+[2:07:26] Speaker 7: Rikter's going to reach into his pocket, into the bag of holding, into the iron box, pull out a soul coin, put the iron box and the bag of holding in his pocket.
+[2:07:39] Ian Lurie (he/him): Okay, he takes the soul coin and gives you a pile of other coins that you can't really identify. You're not sure what they are. They ultimate
+[2:07:50] Speaker 2: tourist mode.
+[2:07:51] Ian Lurie (he/him): They don't scream in horrible, you know, that you don't get horrible despairing screams from them. So they're probably not soul coins. They're something else. He tells you where the rooms are. He says, "If you need food or drink, it's not very good down here. I'll be honest with you. If you have a way to create food and drink, you should do it and make sure you eat and drink it quick because it turns to sludge in a big hurry. It'll still give you. It'll still nutrify you just fine, but it's terrible.
+[2:08:27] Speaker 2: Nutrify.
+[2:08:29] Speaker 3: What's your name, good sir?
+[2:08:32] Ian Lurie (he/him): My name is Egilbraz.
+[2:08:37] Speaker 3: How do you spell that?
+[2:08:39] Ian Lurie (he/him): I just typed it in.
+[2:08:40] Speaker 3: Okay. Next. And how long have you been the proprietor here?
+[2:08:53] Ian Lurie (he/him): Oh, going on two weeks now. Managers don't last all that long down here.
+[2:09:07] Speaker 3: I see.
+[2:09:10] Speaker 2: You guys not union?
+[2:09:11] Ian Lurie (he/him): You either move up or you move down, if you know what I mean. Cool. So Rikter gets all you guys fed, and then I'm assuming you need to go recharge your spells, Rikter.
+[2:09:34] Speaker 7: Oh yeah.
+[2:09:34] Ian Lurie (he/him): Yeah. So are you guys all gonna take a long rest. What do you want to do? I know, Mossy, you wanted to talk to Boleth some more.
+[2:09:46] Speaker 2: Yeah, I know. We're just going to spend some quality nerding time because Mossy is. I think she's keen enough to pick up like structural elements that I may be alluding to or have a gist of things, and that's what she's really trying to get. I'm not planning to map out everything vertically, but just be a little bit more prepared.
+[2:10:07] Ian Lurie (he/him): Mean the gist of the layout of Avernus.
+[2:10:12] Speaker 2: Yes.
+[2:10:13] Ian Lurie (he/him): Okay. Okay. Make sure that I give you the right gist. Okay, so we're going to do a very quick lore dump here instead of just playing through the entire conversation. I think it's just easier. You sit down with Voleth, and he's actually pretty forthcoming. He's, you know, he doesn't really have any reason to deceive you. you, and he he says you want to that you want to get to a place called Archon's Tower. I just typed it into the chat.
+[2:11:01] Speaker 5: Thank you.
+[2:11:02] Ian Lurie (he/him): Archon is a draconic being whose job it is who works with Tiamat. Basically, he is Tiamat's lieutenant.
+[2:11:16] Speaker 2: Okay, so is that a name we would have come across in? We have not come across that name.
+[2:11:22] Ian Lurie (he/him): You have not come across that name before. What was
+[2:11:25] Speaker 11: it again?
+[2:11:25] Ian Lurie (he/him): Archon, A R K A.
+[2:11:28] Speaker 2: Because it's his tower.
+[2:11:29] Ian Lurie (he/him): Yeah, it is indeed his tower. He says, "But the tower will give you access to Tiamat's lair.
+[2:11:37] Speaker 5: Oh, dang!
+[2:11:38] Ian Lurie (he/him): That is the easiest way in. So you need to find that tower, and he describes it. The tower basically sounds like the Tower of Isengard. Seriously, it's tall, pointed at the top,
+[2:11:53] Speaker 2: like Lord of the Rings.
+[2:11:55] Ian Lurie (he/him): Yeah, like Lord of the Rings Ising. Okay, just just picture that in your mind. He says that is the most direct way in. Is
+[2:12:08] Speaker 4: that on the map that we were given by or org friend?
+[2:12:13] Ian Lurie (he/him): I believe so. Hold on. Let me just pull up that map. It's sort of off to the side. So here, let me let me share my screen. So you guys are way the heck down here.
+[2:12:49] Speaker 1: Okay.
+[2:12:49] Ian Lurie (he/him): Where the arrow points. Mm-hmm. Tiamat's lair is way the heck over there.
+[2:12:55] Speaker 2: Yeah.
+[2:12:57] Ian Lurie (he/him): And see this freaky-looking little tower over here. That apparently is one way to get into Tiamat's lair. Ignore the fact that it looks like a big dragon skull. It's not like you can just walk into the dragon's mouth and be in her lair. This tower apparently is an entryway. Now, what he can't say is how close this tower is to the river Styx right now, like like he said, all these distances change.
+[2:13:28] Speaker 2: What side of the river are we on?
+[2:13:31] Ian Lurie (he/him): You are on. If you look down here, you're on kind of the south side of the river. Okay. Tina's lair is on the northern side of the river, but so far from here. Well, assuming that this is all accurate.
+[2:13:46] Speaker 2: Yeah, but if if I'm reading the map right, if we're on the other side of it from where we are now, we would be able to just simply walk, kind of, to there,
+[2:14:00] Ian Lurie (he/him): assuming that the Sarlacc pit isn't as bad as it looks yet. Oh,
+[2:14:04] Speaker 2: that's that's truly there. That's not a smudge.
+[2:14:07] Ian Lurie (he/him): Well, you don't know, but it's you know Rugarm drew it onto the map, which means there was something there. Yeah.
+[2:14:14] Speaker 6: Okay.
+[2:14:16] Ian Lurie (he/him): There's lots of dreadful stuff. I mean, none of this looks. He's a really good
+[2:14:19] Speaker 5: artist.
+[2:14:20] Ian Lurie (he/him): Yeah. Right. None of this is terribly friendly. Voleth points, and there's some things he knows. He says, you know, this green here, this used to be a an arch demon, an arch fiend, who was wounded and imprisoned there, and has been bathed in the river sticks continuously, so they have now turned into this green slime. The bleeding citadel.
+[2:14:52] Speaker 5: Oh, there's a no. We still couldn't get through. There is a bridge over
+[2:15:01] Speaker 6: Dedengoo.
+[2:15:02] Ian Lurie (he/him): Where? where here?
+[2:15:04] Speaker 2: Oh, between the Bleeding Zedel and
+[2:15:08] Ian Lurie (he/him): oh, right there.
+[2:15:08] Speaker 4: Yeah,
+[2:15:09] Ian Lurie (he/him): yeah, that doesn't cross the River Styx.
+[2:15:11] Speaker 1: Yeah,
+[2:15:12] Ian Lurie (he/him): he says if you can fly or do something similar, getting across the River Styx, just don't immerse yourself in there. Don't don't go into the river sticks, and you can get where you're going. And I can sail you, as I said, for a price. I can sail you to the correct side. That's not hard.
+[2:15:36] Speaker 2: Brilliant. We don't have access to the attorney anymore. How would we go about modifying that contract?
+[2:15:44] Ian Lurie (he/him): That contract is now complete. You could simply pay me, and I do, of course, accept soul coins and souls. If you wish to trade or do me a favor, we of course can do that as well.
+[2:16:03] Speaker 2: Okay, so multiple payment options available. What's the soul coin conversion rate? One
+[2:16:10] Ian Lurie (he/him): soul coin.
+[2:16:12] Speaker 2: All right.
+[2:16:14] Ian Lurie (he/him): And for that, I would transport you across the river, and you would have to proceed on foot from there.
+[2:16:20] Speaker 2: Now, when it comes to favors, it kind of depends on what the favor is, you know. Like if you wanted to learn to play the violin beautifully, Sango can give you lessons. You want us to go do another evil mage part two, negotiable. Well, it was kind of a baddie land out here, so give me an idea of of what the what the asking rate is in favor payment.
+[2:16:48] Ian Lurie (he/him): He seems to think for a moment. I have competitors. I cannot. You have
+[2:17:11] Speaker 2: imitators. I've seen. Tell me about these competitors.
+[2:17:15] Ian Lurie (he/him): I cannot personally be seen removing them from competition, but obviously it would always be good for me to have fewer competitors.
+[2:17:27] Speaker 2: Okay, gonna imagine there's some physiological nuances in this process.
+[2:17:35] Ian Lurie (he/him): They all look and are similar to myself. guy,
+[2:17:43] Speaker 6: you don't look easy to murk.
+[2:17:46] Ian Lurie (he/him): I did not say it would be easy. You can also simply pay me a soul coin.
+[2:17:51] Speaker 2: Well, this is just friendly conversation. I really appreciate how how lovely you've been this evening.
+[2:17:59] Speaker 7: Yes. Do you want? Do
+[2:18:00] Speaker 2: you want some dwarven whiskey? I'm gonna pull up to flashy.
+[2:18:05] Ian Lurie (he/him): I do not drink or eat.
+[2:18:08] Speaker 5: There, it's very good.
+[2:18:11] Speaker 3: So when we want to leave, how how do we leave Lavernus? We get back to our Braxia.
+[2:18:21] Ian Lurie (he/him): Well, you can hire someone like myself to fly you out. There are, of course, spells, right? You can use, um, I mean, I, I think you guys know these spells, right? You can use gate. There are varying kinds of teleportation spells. Plane shift. Plane shift is probably the most common
+[2:18:53] Speaker 1: one.
+[2:18:54] Ian Lurie (he/him): I mean, you guys would know all this.
+[2:18:56] Speaker 3: Yeah, I was just asking him if there's you know some something some other way he would know of down either.
+[2:19:04] Ian Lurie (he/him): There is a place where there are hundreds of portals to other planes. They are not marked, and they change continuously. You could exit through one of those portals, but there's no knowing where you would end up.
+[2:19:35] Speaker 2: Well, I think some of the companions are asleep. I probably should go get a good night's rest myself. You're gonna be here for the next day. We'll convene with all this lovely insight.
+[2:19:49] Speaker 5: Yeah. But again,
+[2:19:54] Speaker 2: Sango can absolutely teach you to play a badass violin. You're interested.
+[2:20:00] Ian Lurie (he/him): I have no need for music, he says. Um. Okay, you guys go and turn in for the night. The night passes uneventfully. The next morning you wake up. Now I see that you have a few different routes you can take at this point. You can carry on with your journey. You. It sounded like you were thinking about ways to cut the chain loose from the city as well. You guys kind of need to tell me what what you want to do next. I
+[2:20:35] Speaker 3: think we want to do like a reconnaissance mission to see what's going on with the chain before we can maybe make a decision on that?
+[2:20:46] Ian Lurie (he/him): Okay, everyone agreed,
+[2:20:50] Fancy Drak: 100% what he said.
+[2:20:52] Ian Lurie (he/him): Okay, all right. Um, you guys don't have too much trouble moving about the city. You have the badge of Zerial. There's no demons here. You are free to move about the city as desired. So if you want to, you can just walk right up to where the city where the chain is anchored and look at it. You don't know how closely. Sorry,
+[2:21:17] Speaker 2: that's handy. Yeah.
+[2:21:19] Speaker 21: Yeah. Well, that's
+[2:21:20] Ian Lurie (he/him): that's why you went through what you went through to get the badge of Zeriel. I mean, that was there's a reason.
+[2:21:26] Speaker 6: It's a field trip day.
+[2:21:28] Ian Lurie (he/him): Yes. So you moved to the city, and it's more of the same. There is a small market. You're not even sure what's being bought and sold there, but you see soul coins and pieces of paper being handed back and forth. You see some what look like basically hollow. Does
+[2:21:44] Speaker 4: that paper match the paper that I found?
+[2:21:47] Ian Lurie (he/him): Give me a perception check.
+[2:21:54] Speaker 6: 19.
+[2:21:56] Ian Lurie (he/him): Yes, they look very similar. So they're probably buying. Mossy is
+[2:22:02] Speaker 4: kind of going to pause back by this booth inconspicuously and get a gist on what's going on.
+[2:22:08] Ian Lurie (he/him): It's an entire marketplace. There are multiple booths. Yeah, I'm just gonna pick
+[2:22:12] Speaker 2: one that seems
+[2:22:14] Ian Lurie (he/him): okay,
+[2:22:14] Speaker 2: like not run by observant people. I just want to back a second.
+[2:22:20] Ian Lurie (he/him): There's a there's a diminutive devil wearing a sort of formal suit with a an abacus sitting next to him on this table, and there's a line of other devils of all types, imps, you know, more senior devils, powerful devils, big ones, small ones, and they're all lined up, and they either have pieces of paper in their hands or they have soul coins, and they're coming up to him and they're haggling and they're getting either soul coins or those pieces of paper.
+[2:23:00] Speaker 2: Okay, so there's brokers for this.
+[2:23:03] Ian Lurie (he/him): Yes, you you. If I
+[2:23:07] Speaker 2: look at the piece of paper I have, is there a mark designating a particular broker?
+[2:23:14] Ian Lurie (he/him): No.
+[2:23:29] Speaker 6: Party line.
+[2:23:37] Speaker 2: I told y'all. Did did Mossy tell everybody about it? I don't think she did.
+[2:23:43] Fancy Drak: I don't remember her telling us.
+[2:23:45] Speaker 2: Okay,
+[2:23:47] Fancy Drak: I could be wrong. Mossy,
+[2:23:48] Speaker 2: yeah, Mossy's gonna go on on party line and say, "Hey, time out. Didn't seem like a good time to bring it up before, but you remember my auntie Vanity Luck. We stayed at the Clover look.
+[2:24:04] Fancy Drak: Yeah, she's great.
+[2:24:06] Speaker 2: So I'm walking by this vendor right now, who seems to be dealing in souls, and they're passing over these slips of paper, and they look exactly like a scorched piece of paper that I found on the battlefield, and it has Vanity's name on it, so I'm a little inclined right now to try to figure out what the fuck is going on and who I have to step to keep my aunt safe.
+[2:24:37] Fancy Drak: Well, yeah, if she's in trouble and and we're here, we should do what we can. At
+[2:24:51] Speaker 3: least look into it.
+[2:24:53] Ian Lurie (he/him): Yeah,
+[2:24:54] Speaker 2: I'll yeah, I'll walk over to where they are and like pass a slip of paper over so they can see. It looks like there's brokers. I don't see a badge or anything. I get we have stuff to do, but
+[2:25:10] Speaker 5: this is vanity.
+[2:25:11] Ian Lurie (he/him): You see a signature at the bottom of the piece of paper in some kind of abyssal script,
+[2:25:21] Speaker 2: shoving it into Sango's face. Read it. Read it. Read it.
+[2:25:27] Speaker 3: I can't read it. I can only hear people that talk.
+[2:25:36] Speaker 2: Hey, can you read abyssal? I'm just gonna turn around and ask someone.
+[2:25:41] Ian Lurie (he/him): Um. How
+[2:25:45] Speaker 7: far are we from the chains?
+[2:25:49] Ian Lurie (he/him): You're probably another 100 yards. I mean, the chains loom over everything, right? So you're standing in this market right now, and you just see the chains extending up into the sky. You figure you're. I think of it like a
+[2:26:02] Speaker 1: port.
+[2:26:03] Ian Lurie (he/him): You're maybe one or two, one or 200 yards away.
+[2:26:06] Speaker 7: Okay. While everyone's talking, Rikter's going to keep on walking to the chains.
+[2:26:11] Ian Lurie (he/him): Okay. Okay. Mossy, you and so Rikter, I'll come to you in one second. Mossy, you are talking to one of the. You just go to a random devil and say, "Can you read this for me?
+[2:26:33] Speaker 22: Yeah.
+[2:26:33] Ian Lurie (he/him): And the random devil says, "I'm sorry, and you are. And this is a short, kind of paunchy green devil with exceptionally long claws and fangs.
+[2:26:55] Speaker 2: I'm looking for someone to read those. You just say the words out loud. That's it.
+[2:27:00] Ian Lurie (he/him): I would require payment for that.
+[2:27:02] Speaker 1: All right.
+[2:27:09] Ian Lurie (he/him): He thinks one year of your life in service. No,
+[2:27:13] Speaker 2: no, no, no. That was all right. As in turning around and walking away. Oh, walking away. Okay. No, no. Okay. All
+[2:27:19] Ian Lurie (he/him): right. So you see Rikter heading for the chains, which means he's moving away from the Badgers area.
+[2:27:26] Speaker 3: So we need to stick together. So,
+[2:27:29] Speaker 5: yep. Okay, it's fine.
+[2:27:34] Speaker 7: No, you guys can stay. Rikter's going to do the mission that we talked about on the way down. If you guys want to do this? That's fine. Rikter is just going to keep on going head.
+[2:27:43] Ian Lurie (he/him): the The issue for you, Rikter, is as soon as you leave a certain radius of the badge of Zariel, you'll be an intruder in the city. Oh
+[2:27:51] Speaker 7: yeah, I get that.
+[2:27:52] Ian Lurie (he/him): Okay, all right. So you guys can catch up.
+[2:27:58] Speaker 2: Following them. You guys
+[2:27:59] Ian Lurie (he/him): are going to catch up with Rikter. Okay, you catch up with Rikter, and you get to the base of the chains, and what you see is four groups of devils, and these are those bearded devils that you've seen so much that seem to be the the kind of the primary foot soldiers, and with them are some taller, some of those ice devils with the long spikes of ice off of them, and they are all clearly guarding the base. And the base is this enormous hook that's bolted into the ground, and the bolts are each bolt is the size of Rikter, and there's 10 of them holding this enormous anchor down to the ground. You don't know how deep they go, but they are there, and they are definitely affixing this thing to the surface of surface of Avernus. And then the chains that you saw up above come from the bottom of the city. You look up now, and you can see the bottom of the city and the chain's trailing all the way down. And you know it's you know how sometimes if there's a really heavy line connecting something, it looks like it's loose. It almost looks slack, and it fastens down here. So the chain almost looks like it's kind of bending a little bit and snaking as it bends and attaches down here, but it is attached, and you hear that thrumming and vibrating. That's you know clearly indicating there's a lot of tension on this thing, and you see the swarms of of lemurs and imps all moving over it, and they all seem to be using various kinds of cloths and chemicals and and alchemical stuff to to repair little cracks that are constantly forming in the surface of the metal and lubricating where the chain rubs up against the metal.
+[2:29:58] Speaker 3: Mossy, what do you think?
+[2:30:03] Speaker 2: It's a big fucking chain. What can I make out of that?
+[2:30:09] Ian Lurie (he/him): Um, sorry, someone else was about to say something.
+[2:30:16] Fancy Drak: So over the party line, should we kind of distract the guards to see if you can sneak in and get a better look on the inside?
+[2:30:27] Speaker 11: I mean, it seems pretty exposed. Like it's
+[2:30:30] Ian Lurie (he/him): pretty exposed. You don't really need to distract anybody.
+[2:30:33] Speaker 2: No, no, no. I'm just watching it move, and can I do an artificing roll to see if I understand?
+[2:30:37] Ian Lurie (he/him): I mean, you're you have not walked right up to it, but you can certainly make an artificer check here and see what you learn. Yeah, see what you see.
+[2:30:45] Fancy Drak: Yeah.
+[2:30:50] Speaker 1: 30-two. Wait, no. Yes.
+[2:31:00] Ian Lurie (he/him): Okay. Um, this is iron. It's it's not terribly unique, and that may be why they're having to constantly fix it. This is simply iron, and it's under constant repair because iron is not ideal for this, but it must be the material that they have, and it's the the chains themselves are not iron, but this anchor bolt is, and if there's something that's vulnerable, it's definitely the anchor bolt because no matter how big it is, it's still just iron, and you know there's a number of ways to destroy iron, and you have a number of those ways at your disposal, right? Acid takes a very long time, but it could be used. Explosives could do it, and you're an artificer. You could come up. You know, if you want to tell me, Ian, a plan for an idea you have, I can tell you whether you can make it happen or not.
+[2:32:03] Speaker 2: Okay. Um, just to make sure I understand, mechan. It's it's like a wench down at the bottom.
+[2:32:10] Ian Lurie (he/him): No, it's just a huge bolt on the ground. Picture a cleat on a ship. Right, you're on a ship. I don't know
+[2:32:17] Speaker 2: what a cleat and a ship looks like. I'm sorry. Okay.
+[2:32:19] Ian Lurie (he/him): Um, here, hold on a second.
+[2:32:21] Speaker 2: Here, yeah, I can Google them.
+[2:32:25] Ian Lurie (he/him): Just do a search for eye bolt and chain.
+[2:32:30] Speaker 2: Oh, okay, yeah.
+[2:32:36] Ian Lurie (he/him): Here, I'm gonna find it for you. One second. Here we go. So imagine this, but anchored in the ground and really, really big. See this thing over here? That's what it looks like. This is the thing that's anchored on the surface of Avernus. This is the chain leading up to Silgrim below. This thing is made of iron. The chain you don't know what it's made of.
+[2:33:17] Speaker 3: Criigon will do detect magic and awareness, basically detect magic.
+[2:33:25] Ian Lurie (he/him): Okay.
+[2:33:26] Speaker 3: On the chain, just in general, I want to see if the chain's magical, the bolts bolt magical, anything that's magical.
+[2:33:32] Ian Lurie (he/him): Okay, the chain radiates magic. The bolt does not.
+[2:33:39] Speaker 3: Okay. Okay. Conflict.
+[2:33:49] Speaker 7: And there's only one chain, correct? Or are there multiple?
+[2:33:52] Ian Lurie (he/him): There's one chain.
+[2:33:54] Speaker 7: Okay.
+[2:33:55] Ian Lurie (he/him): You you think if you look up really carefully, you think what you see is a whole bunch of chains coming out of the city and coming together at a single chain that then leads down to the ground here.
+[2:34:13] Speaker 4: How can I get an idea on the current state of the bolt from here?
+[2:34:19] Ian Lurie (he/him): It is constantly deteriorating and constantly being fixed, and it looks like it's in good repair. But as an artificer, you're sure that if if there was no if there were no repairs being done to it, it would deteriorate rapidly. You don't know exactly how much. You don't know when it would fail. But at the the rate at which cracks are forming and then constantly being fixed, you're assuming that you know that this is happening,
+[2:34:47] Speaker 2: and this is clearly arcane engine powered for the fixes.
+[2:34:51] Ian Lurie (he/him): The fixes are being done by these lemurs and
+[2:34:55] Speaker 2: by lemurs, okay,
+[2:34:56] Ian Lurie (he/him): and the imps that are all swarming all over it. It's almost like watching army ants on something-they're just constantly running around on it and fixing things. It-it just never stops. And the imps all seem to have these little jars of stuff, and they have little tools and things. The lemurs seem to just ooze things onto it. You're not sure what they're doing, and then the imps are very quickly smoothing stuff in and adding chemicals and things like that.
+[2:35:23] Speaker 6: Is there additional guards?
+[2:35:26] Ian Lurie (he/him): I said that there's a there are you know three I think I said four or five groups of bearded devils with ice devils watching them.
+[2:35:39] Fancy Drak: So I have a couple of ideas. I wonder if so. One, like, are there changing of the guards? Like, are there shifts? Is is there is there a period of time in which one one group leaves and the other one comes in, and does that create a vulnerability time? Two. As a ranger, I'd be looking for any kind of like vegetation or plant or plants, because one of the ideas would be like, you know, do like a plant growth thing, not like the not like the you know ritual.
+[2:36:27] Ian Lurie (he/him): There's nothing alive in this city except devils and you guys.
+[2:36:32] Fancy Drak: Okay. The
+[2:36:34] Speaker 3: orc
+[2:36:35] Fancy Drak: and
+[2:36:37] Ian Lurie (he/him): and the orc, yes.
+[2:36:41] Fancy Drak: Potentially even maybe like a spike growth, where if if these things are kind of crawling over the area, like they just constantly being cut up and shredded.
+[2:36:53] Ian Lurie (he/him): Does spike growth require that there be plants?
+[2:36:56] Fancy Drak: Nope.
+[2:36:57] Ian Lurie (he/him): Okay.
+[2:36:59] Fancy Drak: Um. But then, I would even I would even say that like my biggest fear is that like if we if we take if we do a direct action, like it'd probably be a tough fight. But if they went and called reinforcements, we're screwed.
+[2:37:27] Speaker 4: Didn't so much as say they could make like a 20 by 20 by 20 foot little cup over this
+[2:37:35] Speaker 7: magic circle. Yep.
+[2:37:39] Speaker 3: How long does that take to cast?
+[2:37:42] Speaker 7: I would need one minute.
+[2:37:48] Speaker 2: I mean, some spiker other than a magic circle feels like it might take care of a good amount of that. Let me just. I don't see a way right now to go ahead and do this in public without immediately bringing all of this down upon us.
+[2:38:12] Fancy Drak: Right.
+[2:38:16] Speaker 3: Craigan would would I'm gonna I'm about to look through my deities Rolodex to see what kind of spells I got available. I'll let you know tomorrow.
+[2:38:28] Fancy Drak: Does anyone have any kind of like heat metal?
+[2:38:33] Speaker 3: That I do not.
+[2:38:37] Speaker 2: Silly question. Is there any theist can around these parts? It's a pier. There's always graffiti.
+[2:38:43] Ian Lurie (he/him): Give me a perception check. You haven't noticed any so far.
+[2:38:49] Speaker 2: Well, that's not very many perceptions. That's only 10 perceptions.
+[2:38:53] Ian Lurie (he/him): Yeah, no, you haven't really seen any. There could be rogues down here. You don't know, but
+[2:39:00] Speaker 2: these are everywhere.
+[2:39:02] Ian Lurie (he/him): That's true.
+[2:39:04] Speaker 3: Like rats.
+[2:39:05] Fancy Drak: Okay, I have an idea. What if this may be completely wrong, but the vault beetle digs down into the surface of of the ground, and then the only thing that's exposed is like a little door that that we can crawl in. What if we stealthily deploy the vault beetle near the base of the of the hook, and essentially kind of like loosen up the ground, and instead of breaking the the the eye, we soften up the ground, and it just goes yoink.
+[2:39:55] Speaker 2: I think the eye is the weak point. If it does have anchors, we haven't established what type of anchor you'd be using?
+[2:40:03] Fancy Drak: Well, judging by the picture, it's like we have like an eye, and then
+[2:40:08] Speaker 8: a
+[2:40:08] Fancy Drak: thing that goes. So if we weaken the ground, there's less material. You don't know how
+[2:40:14] Ian Lurie (he/him): long that anchor is, but yes, you're right. That's
+[2:40:16] Fancy Drak: fair. That's fair. Could loosen the dirt
+[2:40:18] Ian Lurie (he/him): around
+[2:40:19] Speaker 3: it. Yeah, what's the ground made of
+[2:40:21] Ian Lurie (he/him): stone girders. I mean, it's all rubble. Like I said, it's all sorts of stuff. What you're walking on right now is basically smoothed over, a smoothed over conglomerate of all these destroyed cities.
+[2:40:43] Speaker 3: Hold on, I might have I might have another idea. I figure this is going to take me at least a week to figure out what I can do.
+[2:40:55] Ian Lurie (he/him): I will just say you guys should look at your inventories and your spells. I am sure you have the means to do this. I'm not saying you have to do it. I'm just saying if you really want to do it, you are a 17th level party. You can definitely find a way to do this.
+[2:41:10] Speaker 3: And I'm kind of thinking that it might be a good idea to hire a ship to get us away fast after we do something like this.
+[2:41:29] Speaker 8: Good news!
+[2:41:30] Speaker 2: I know a ferry meant for hire, and we do have currency. It would cost the most goal point, or we have to mark his competitors.
+[2:41:48] Fancy Drak: Go ahead. The the
+[2:41:49] Speaker 3: the change we got back from the innkeeper. What is that? It's basically
+[2:41:58] Ian Lurie (he/him): they're small square kind of rough cut, and made of what appears to be either pig iron or lead. You're not sure.
+[2:42:08] Speaker 3: Okay, and that seems like currency down here.
+[2:42:11] Ian Lurie (he/him): Yeah, and there's on them is stamped an image of some creature, the bust of some creature or another. You're not sure.
+[2:42:20] Speaker 3: Mossy, that might be able to grease some palms to help find out who's on your scrap of paper. Okay, without giving up a soul coin.
+[2:42:36] Speaker 5: Oh no, I'm sorry. I meant for the ferryman.
+[2:42:40] Speaker 3: Yeah, no, no, I'm I'm I'm backtracking to what oh earlier.
+[2:42:45] Speaker 5: Okay, okay,
+[2:42:45] Speaker 7: Rikter's gonna start walking towards the Iron Chain.
+[2:42:48] Fancy Drak: Okay, talk to us, Rikter. What's your plan?
+[2:42:54] Speaker 7: My plan is to go kill these guys and then fuck up the chain.
+[2:43:00] Speaker 3: Maybe we could. That's not a
+[2:43:02] Fancy Drak: plan. That's more of a goal.
+[2:43:06] Speaker 3: Maybe formulate a little more. Maybe talk about some things a little bit more before we.
+[2:43:15] Speaker 2: Rikter,
+[2:43:17] Speaker 8: I
+[2:43:17] Speaker 5: get what you want to do. We need a long rest. Your head is not clear right now. Let's go talk.
+[2:43:26] Speaker 7: Can I ask a question? Why is it that everyone else can do chaos shit, and then when Rikter wants to do something, it's no? At this point, guys, I think I should leave the party. I am almost every week getting frustrated, and this is no longer fun for me. And it should be fun for me and fun for you guys. It's been an amazing four plus years. I appreciate all of this. Have a good night.
+[2:43:59] Ian Lurie (he/him): Okay, I don't know where that came from? Okay, I would say this is probably a good time to maybe process a little bit and come back and talk about this later. What do you guys want to do?
+[2:44:23] Speaker 3: Yeah, I agree. Maybe
+[2:44:24] Speaker 2: instead of leaving everyone raw, we just talk about that for a second because that stung a lot. Yeah,
+[2:44:29] Speaker 7: yeah,
+[2:44:30] Ian Lurie (he/him): yeah.
+[2:44:31] Speaker 5: Okay.
+[2:44:32] Ian Lurie (he/him): I mean,
+[2:44:32] Speaker 2: it's good to feel not alone.
+[2:44:34] Ian Lurie (he/him): Yeah, I mean, I'll tell you guys that you know Jamar has definitely expressed frustration with difference in play styles over time, he's never said to me that he was that frustrated. I'm not sure exactly what was going on there. It seems like he went from zero to super aggravated real quick.
+[2:44:56] Speaker 3: Yeah, Ian and I had a conversation a couple months ago. He. I think his frustration comes from the fact that Rikter is a straight-laced kind of a character, and Sango, Drac, and Mossy are more loosey-goosey, and he felt like Rikter doesn't fit in with that play style. And I told him, "Hey, you can you can do anything you want with Rikter. I don't think he realized that I literally meant that you could do anything with Rikter to not get stuck in that.
+[2:45:46] Ian Lurie (he/him): Could also create a different character, which he's talked to me. But he said at the end of this adventure, he does want to do another character, which I thought was great. I mean, I could. Yeah, there's all sorts of great dramatic ways to bring Rikter's arc to a close.
+[2:46:00] Fancy Drak: I think I think, but this was personal. This was not
+[2:46:04] Ian Lurie (he/him): about Rikter.
+[2:46:05] Fancy Drak: Yeah, what what struck me the most, honestly, is like I feel like it's it's kind of a violation of of the social contract that we all kind of sign into, and um. It's it's it's like yes, there's chaos in the characters, and I also feel like there's even like hierarchies of chaos. Like Mossy is the most chaotic, Drak is second, and well, Sango, sorry. Go ahead.
+[2:46:47] Ian Lurie (he/him): Just as the DM, I I'm feeling this particularly. You guys were definitely going in circles, and you do that sometimes, which I get might frustrate him. But again, that went from zero to I quit in a big hurry. And I know it wasn't zero. I know Jamar's been frustrated, and there's been stuff that he's you know he hasn't loved about the game and and everything. But and I could sense he was getting frustrated tonight. I could totally sense
+[2:47:29] Fancy Drak: it. No, yeah, I felt that too. There was a point in which I'm like, "Oh, I have a potion of lying. He was like, "I felt like he was snapping a little bit, specifically. And, but the problem is that like every problem I feel that he had with us could have been solved with communication, and
+[2:47:56] Ian Lurie (he/him): yeah, I just feel like maybe I yeah I don't know I don't want to make this about me. No,
+[2:48:01] Speaker 4: it's not making about you. That was a very stinging moment.
+[2:48:05] Ian Lurie (he/him): Yeah, yeah.
+[2:48:05] Speaker 4: And we all feel it, and it sounds like every one of us has reached out in some way.
+[2:48:10] Speaker 7: Yeah,
+[2:48:11] Speaker 2: like I really try to make an active actor be like, "Hey, Rikter, come do this.
+[2:48:17] Ian Lurie (he/him): I will tell you guys that that would not have gone well. Yeah.
+[2:48:22] Speaker 5: you
+[2:48:23] Ian Lurie (he/him): know, picking that fight in that moment would have been probably well. I mean, you know, there I probably would have found some Due Makana to keep you all from being completely slaughtered, but it wasn't going to work. And I think you all sensed that. I mean, you you were surrounded by you're literally in hell, surrounded by large numbers of devils, whose sole job it is to protect that that chain. That wasn't going to work. I mean,
+[2:48:48] Speaker 4: it stung me when he was like, "No, I'm marching off. I'm like, "Okay.
+[2:48:52] Ian Lurie (he/him): That well, sometimes that's just his way of of getting things moving. Like you know, I remember when you guys were outside one town or another debating how to go into the town, and he just started rocking into the town, and that got things moving, and that's fine.
+[2:49:08] Speaker 2: Yeah, but I'm saying it stung me because it was like this is an important thing to Mossy.
+[2:49:12] Ian Lurie (he/him): Yeah,
+[2:49:12] Speaker 11: just wanted a second to just tell the party about it.
+[2:49:15] Ian Lurie (he/him): Yeah, well, and that may you know maybe there's too many things going on at once. I don't know. Again, I'm just not sure that that took it from. Yeah. Anyway,
+[2:49:32] Speaker 2: I really enjoy playing with you all. I love role playing with you, Drak. Ian, dude, you build the most insane, incredible worlds, James are way too fucking tricky and clever for any room. Good, never know what your character has up their sleeves unless they're half burnt off.
+[2:49:53] Ian Lurie (he/him): Just 350 point attacks. No, and like like I love that
+[2:50:00] Fancy Drak: Sango and Craigen are like fully fleshed and complex, and simultaneously brilliant and infuriating.
+[2:50:08] Speaker 11: Yes,
+[2:50:09] Ian Lurie (he/him): I guess
+[2:50:11] Speaker 2: you commit to the bit, sir.
+[2:50:12] Ian Lurie (he/him): You know, ultimately people leave games and parties, and that's fine. And Jamar has talked to me about stuff like that in the past, and that's totally acceptable. What stings me here is that he just kind of flew off in the middle of a game and said, "That's it, I'm done, I'm out. Yeah, and at worst, he could have had that tirade with me later, not mid game, because as the DM, that's part of you know that is also part of the contract that you undertake. If someone's really unhappy and wants out, they can have out. You know, he has even expressed that to me in the past, but then changed his mind later on. This is not changeable. Just so you guys know, I probably wouldn't let him back in the game at this point, I'll be very nice about it, but I just don't feel comfortable when it gets this personal having him back in the group. So,
+[2:51:14] Speaker 7: yeah,
+[2:51:14] Ian Lurie (he/him): yeah, I'm not. I'm not sure what else to really say about that, but
+[2:51:21] Fancy Drak: I, I. I, I'll just be honest. I, I really, I feel like there's been a breach of trust. I feel I. It's raw, and so I don't want to be. I don't want to commit the feelings. Rough
+[2:51:37] Speaker 2: drafts are okay.
+[2:51:38] Ian Lurie (he/him): Something is clearly going on that we're not privy to here, and I am a little concerned about that. I gotta say, and what's going on in Jamar's head right now. But regardless, we're not going to figure this all out tonight. I, you know, I was talking about next. I just don't
+[2:51:59] Speaker 2: want everybody to go sing alone.
+[2:52:02] Ian Lurie (he/him): No, no, no, no, and I, I appreciate what I was about to say is I appreciate that because I definitely would have done that. Yeah, with all the other shit that's going on right now, I just I have very limited batteries left, like less than usual. Yeah, I felt like last game went really, really well too, and and he just took this. I mean, it felt like in the last hour and a half, he went from pretty happy to be here to just
+[2:52:30] Speaker 5: yeah
+[2:52:31] Ian Lurie (he/him): utterly miserable, and then hating it so much that he was out. Like I said, I know it didn't just happen tonight. I know it's been an you know I know it's an ongoing issue. I'm not sure what we could have certainly what I could have done about
+[2:52:50] Speaker 3: it. Not a good thing. Not a good thing. You know, he's he's a character that I keep coming back to this because I talked to him about it, and I mean that's probably not his issue tonight. But
+[2:53:04] Ian Lurie (he/him): no,
+[2:53:05] Speaker 3: he's got a character that is very combat focused, and if there's not a lot of combat, he doesn't. His character doesn't shine a lot. Like he's not an artificer. He's not a survivalist. You know he can't turn invisible, and
+[2:53:22] Ian Lurie (he/him): what what I don't then why not just make another character?
+[2:53:26] Speaker 3: Because I think the story's been going on so long. He wants to see it through to that. Has wanted to.
+[2:53:34] Ian Lurie (he/him): I can always
+[2:53:34] Speaker 8: just
+[2:53:35] Ian Lurie (he/him): yeah. Like I said, he he had expressed a desire to have his character's story end at the end of this campaign, which totally makes sense, but I mean, if it's if it's an emergency, if you're really just utterly miserable playing a character, you can always swap it out for someone else.
+[2:53:51] Fancy Drak: Yeah, yeah.
+[2:53:52] Ian Lurie (he/him): We even did that briefly, right? He was playing Garudo for a little while.
+[2:53:55] Speaker 8: Yeah,
+[2:53:56] Ian Lurie (he/him): that's always possible.
+[2:54:01] Speaker 3: That's just a. uh uh does does Jamar seem like the person who has who gets uh flustered uh
+[2:54:12] Ian Lurie (he/him): he
+[2:54:12] Speaker 3: regularly often sometimes well
+[2:54:16] Ian Lurie (he/him): in the jobs that he has had particularly the last one it seems like he went from happy to really unhappy in a hurry, and there are very toxic workspaces, so that's not outside the realm of possible. I mean, that may be what happened, but it does seem like this happens with him sometimes. I don't know. I don't want to generalize because I don't really know him outside of gaming.
+[2:54:41] Speaker 3: Well, I bring it up because my journey in the last year and a half of understanding how I get flooded and during stressful, frustrating situations, and that causes me to, you know, sort of what you what you saw with him. The
+[2:54:55] Speaker 2: cat is the terminology. It's where you displace anger and frustration from other things in life onto a single thing that can't really hurt
+[2:55:07] Speaker 3: you back. Yeah.
+[2:55:09] Ian Lurie (he/him): Well, and he was, you know, he was taking hits on the bong, and I have no idea what kind of weed. I don't know what everyone else is doing right now.
+[2:55:21] Fancy Drak: Oh, nothing. Just managing, just managing four boys by myself while my wife is
+[2:55:26] Speaker 7: right,
+[2:55:27] Fancy Drak: helping deliver babies literally
+[2:55:30] Speaker 8: for the last 25 I know we all have we all have
+[2:55:32] Ian Lurie (he/him): shit, right? That's that's the same. That's me.
+[2:55:34] Speaker 3: I'm perfect. I got nothing going on.
+[2:55:36] Ian Lurie (he/him): Yeah, same here. I got no sleep. Hey,
+[2:55:38] Speaker 2: Annie DeFranco prepared me for this. Nobody liked their job. Nobody got enough sleep. So just shut up and be nice. Yeah,
+[2:55:45] Speaker 8: right.
+[2:55:45] Ian Lurie (he/him): That's a very good point. Is I'm and I'm always the one who's like, oh, you know, oh, you don't know what's going on in their head, blah blah blah. But we all have that kind of shit, and we're all grown ups. So I mean, the thing is,
+[2:55:56] Speaker 8: it starts with communication.
+[2:55:57] Ian Lurie (he/him): Yeah,
+[2:55:58] Speaker 2: yeah, and the thing that stings is like the really fostered and developed relationship to suddenly go from that to I'm out.
+[2:56:06] Ian Lurie (he/him): Yeah, I mean it's he could have when I'm in games if something's going on I'm really not happy with, then either in game or out. Usually first in game I'll have my character say okay hold on a second everybody stop for a minute I'm really unhappy with the way this has been going on, or if I'm role playing it, I will role play it as I walk up and I start the fight. But then if the players talk me down, they talk me down, and then there's a conversation that follows after. But that's separate from the personal aggravation. Like in another game I'm in right now, there is a player who's really aggravating and is aggravating a lot of us, but we're kind of letting it go right now. We're just sort of like it's kind of funny, so we're just sort of like, yeah, you know what? She loves chaos. She's introducing maybe more chaos than we all want, but she's the DM's daughter, and she really has gone through a rough time in the last year or so. I mean, rougher than most of us, so we're just going to kind of let this one go. But if not, we would talk to the DM about it. We wouldn't just fly off the handle and quit. That's just not. I don't know. I just I can't get my head around that.
+[2:57:15] Fancy Drak: I really hope he gets what he needs because I know, I also know that he's starting school again.
+[2:57:23] Ian Lurie (he/him): Yeah,
+[2:57:23] Fancy Drak: in August.
+[2:57:25] Ian Lurie (he/him): Yeah,
+[2:57:26] Fancy Drak: and
+[2:57:29] Ian Lurie (he/him): well, I suspect I will hear from him.
+[2:57:32] Fancy Drak: Yes, in the
+[2:57:33] Ian Lurie (he/him): next day or two.
+[2:57:34] Fancy Drak: Yes,
+[2:57:35] Ian Lurie (he/him): I would be surprised if I did not. But
+[2:57:39] Fancy Drak: yeah, oh. I got feelings.
+[2:57:45] Ian Lurie (he/him): What'd you say?
+[2:57:46] Fancy Drak: I I have feelings, and yeah,
+[2:57:48] Ian Lurie (he/him): same, same. That felt very unnecessary, obviously, and very personal.
+[2:57:58] Speaker 2: I I know I play it dumb and wrong, but I have fun.
+[2:58:00] Ian Lurie (he/him): Yeah, yeah. Well, anyway, that there is no dumb and wrong. It's fucking Dungeons and Dragons. And if you read that, yeah.
+[2:58:09] Fancy Drak: No, there is dumb, but there's no wrong.
+[2:58:12] Ian Lurie (he/him): That's okay. That's fair. That's fair.
+[2:58:15] Speaker 3: That's a very that's very really right too.
+[2:58:18] Ian Lurie (he/him): Yeah, yeah, that's right. Sometimes it's so wrong. It's so wrong. It's right. So right. It's wrong. I don't know. Yeah, I admit I I will be I will be beating myself up over this for quite a while. Yeah. I don't have a good, you know. But
+[2:58:37] Speaker 2: I'm just gonna go ahead and I'm gonna put a little pish pin in the back of your head and go, hey man, you've given us like six years of joy and happiness. This was one shitty moment.
+[2:58:47] Ian Lurie (he/him): Yeah, but it
+[2:58:48] Speaker 2: doesn't change. An amazing game master you are. Yeah,
+[2:58:51] Ian Lurie (he/him): thanks. I appreciate that. I do. Yeah.
+[2:58:56] Fancy Drak: So,
+[2:58:58] Ian Lurie (he/him): well, everybody drink
+[2:58:59] Speaker 6: on three. Woo. Yeah,
+[2:59:00] Ian Lurie (he/him): and all that being said, we will be meeting again to play. If not in two weeks, then maybe three. But I got to see what my schedule is over the next two weeks. In two weeks,
+[2:59:12] Speaker 2: I will be on a flight. I have to go to Irvine for work. Okay. Yeah, sorry.
+[2:59:17] Ian Lurie (he/him): And the the Wi-Fi isn't good enough for that. All right, that's all right. We'll figure that out. I got to decide if I'm going to keep. I guess I'm going to remove Jamar from the server. I don't. I mean, just.
+[2:59:29] Speaker 4: Hey, nothing needs to happen, and I just take a pause.
+[2:59:32] Ian Lurie (he/him): No, no, it's true. It's true. It's very true.
+[2:59:37] Speaker 3: Yep, it's my my theory these days, right? Plan of action. If something happens, get stressed out, whatever, just sit on it. At least sleep on it. Yeah,
+[2:59:49] Ian Lurie (he/him): I'm gonna go take an edible and sleep on it personally, and I never do that. I never do that on a Monday night. But this, you have earned
+[2:59:56] Speaker 2: it, sir. I have been
+[2:59:58] Ian Lurie (he/him): on, I've been on no edibles duty for the last six days, so tonight I can get away with it. All right. Well, Randall, I
+[3:00:09] Speaker 4: love you all. I appreciate you so much. You'll bring me so much
+[3:00:12] Fancy Drak: joy. Thank you,
+[3:00:13] Ian Lurie (he/him): too, guys. All right, I will talk to you later. Thank you.
+[3:00:17] Fancy Drak: Bye.

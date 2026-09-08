@@ -1,0 +1,618 @@
+# Ian's Meeting Notes
+# Otter recording 2025/12/22 17:22:36 (2h 39m) id AEqXgvAOmRuH-lBlUytwoue6dxM
+# https://otter.ai/u/AEqXgvAOmRuH-lBlUytwoue6dxM
+# Speaker-attributed transcript, verbatim. Raw source for the card at /items/otter/2025-12/2025-12-22-rbg.md
+
+[0:04:41] Ian Lurie: Ian Yeah, we're off to one hell of a start tonight. Ian, I hadn't even signed on yet.
+[0:04:57] JP Sherman: Did I just say that like I am? I'm used to those jokes be pointed at me, so it's nice to be that they're pointed at you now,
+[0:05:06] Unknown Speaker(s): well done, James,
+[0:05:08] James Svoboda: I you took that where I wasn't going with them to say I,
+[0:05:13] Ian Lurie: I took it to the obvious, inevitable and horrifying.
+[0:05:16] JP Sherman: Oh, you know that it was a two lane road, dude, you know? I Oh, Britney Spears, I'm not yet. I'm so innocent
+[0:05:32] James Svoboda: man that just says that I've got a bad reputation.
+[0:05:36] Ian Lurie: We all do. Everyone in this group has a bad reputation. It's not just you, right? This is all of us.
+[0:05:45] JP Sherman: We have bad reputations and sharp wits. There's no combination of that is that is socially acceptable. No, I
+[0:06:23] Ian Lurie: finished my Christmas shopping. I am so fucking glad I just, I did not wait until the last minute. It's just, you know, it's always the stocking stuffers or that last minute seizure of insecurity where you're like, did I get enough for everybody? I
+[0:06:43] James Svoboda: I'm doing stocking stuffers right now.
+[0:06:48] JP Sherman: I made traditional fajitas so everyone's happy.
+[0:06:56] James Svoboda: I assume that's traditional in your house
+[0:07:00] JP Sherman: as of one year, yeah. So any excuse, I have to go outside have a beer and like, cook food with fire. I've literally grilled in the snow
+[0:07:17] Sango "Gump" Reed: the weather here
+[0:07:19] Ian Lurie: over the last three weeks. I mean, one windstorm after another you've probably seen on the news. I mean, eight inches of rain in a day, and it just started again. It was sunny last last week, last Thursday, I was cooking the potato lockers, which I always do outdoors, and failed my Well, no, I made my fucking deck check, luckily, because this huge, 50 mile an hour gust whipped through, picked up an entire aluminum sheet pan, aluminum foil, sheet pan full of hot oil and latkes, and just flipped it clean over. Like I mean, it wasn't hot, but it would have been gross if it had gotten on me, and I pretty much had to pressure wash the the outside of the house the next day. So we had to move everything indoors and do all of our all of our latke cooking indoors, which we never do, because it's a horrendous mess, but
+[0:08:17] JP Sherman: they turn out okay.
+[0:08:19] Ian Lurie: Yeah, it was my best year, that's for sure. And then we're supposed to have another windstorm on Christmas Eve. Biggest one yet. Wow. So we'll see Trisha Lee, and if suddenly things go dark, right now, it's because we're having another windstorm
+[0:08:39] James Svoboda: taking the kids to San Diego tomorrow. Oh, nice. We're gonna, well, we're gonna fly it, and then we're gonna go over to Yuma, because that's where my parents winter. Okay? And then go back to San Diego and spend a few days there. But it's pretty much all day today, lining up itinerary for right take them to a concert.
+[0:09:02] Ian Lurie: Oh, sweet
+[0:09:03] James Svoboda: Mumford and Sons. It's part of the festival, so that's cool.
+[0:09:13] Sango "Gump" Reed: Do maritime museums?
+[0:09:17] Ian Lurie: Do you know that in San Diego there is a scale we're up? Replica of the HMS surprise.
+[0:09:26] Sango "Gump" Reed: What's, what's this HMS surprise? It is
+[0:09:30] Ian Lurie: an age of sale warship. That is a pretty good it's, if you ever saw the movie, Master and Commander, hey, Jamar, the surprise is the ship and Master and Commander, okay, but it was also a real ship. But if you want to see something that sort of looks like the Albion, a very small version of the Albion, then go look at the HMS surprise, which is at the Maritime Museum there
+[0:10:01] James Svoboda: then, yes, I think we're gonna do the Friday or Saturday. Cool. That's cool. Just history enough for ARIA to be into it, and Jamie's okay with it.
+[0:10:14] Ian Lurie: So lots of guns, you know, do a lot worse than just seeing getting on a big ship. I found it appealed to all the teenagers in my family at the time.
+[0:10:25] Sango "Gump" Reed: Well, I showed my I showed my daughter a picture of the,
+[0:10:29] James Svoboda: there's another museum down there that's like, a aircraft carrier or battleship, or, you know, a modern ish, yeah. She was like, I'm not so much interested in that one, but I'll take the other one. So I figured that's a win.
+[0:10:42] Ian Lurie: I think that's part of the same Museum.
+[0:10:44] James Svoboda: There's two
+[0:10:45] Sango "Gump" Reed: within a couple of blocks of each other.
+[0:10:47] Ian Lurie: I mean, yeah, you know, big Navy seat, Navy town, Jamar and Jamie. I was just telling everybody we're having yet another windstorm right now, with an even bigger one coming on Wednesday. Yeah. I mean, you know, if you believe in this kind of thing, clearly, there's biblical shit going on in Seattle. We've had almost a foot of rain in the last two weeks.
+[0:11:15] Jamie Indigo: It's 70 today,
+[0:11:16] Ian Lurie: whatever all you who got 70 degree weather, or you're going to San Diego, or it's nice and snowy here. It's raining and windy and, I mean, not Seattle like at all.
+[0:11:28] James Svoboda: They get warmed up to 36 degrees here today.
+[0:11:32] Sango "Gump" Reed: Okay, then it froze, and the roads are slippery again.
+[0:11:35] Ian Lurie: At least you get slippery roads then, I mean, here we just have, I don't know that sounded wrong. Here we have everything submerging.
+[0:11:44] Jamie Indigo: Look at Keely. She fell asleep like this. So now, oh, my God, this arm the I
+[0:11:51] Ian Lurie: could use a cat right now. Because the other thing that's happening in Seattle right now, because of this unprecedented amount of rain, is toilet rats.
+[0:12:01] Jamie Indigo: Okay, I saw a what to do if you get a toilet rat thing. And I was like, Is this real? It's real.
+[0:12:08] Ian Lurie: You know, we're four or 500 feet above sea level in West Seattle, so we're okay. But a lot of the lower lying regions literally have rats popping up out of their toilets, which, I mean, you got to feel for the rats a little. It's bad out there.
+[0:12:27] JP Sherman: Anyway. I feel like there's a swarm keeper, Ranger joke in there somewhere. But I'm not, I'm not going down that road to find it.
+[0:12:40] Ian Lurie: No, I already, I set the bar pretty low for the night.
+[0:12:44] Jamie Indigo: So also, guess who realized I don't I must have been sleep keyboard, slapping my character sheet, put a mod in there, and my dexterity, it was like a manual override for a negative fork.
+[0:13:00] Ian Lurie: Why? Why would you you're a rogue, I don't know. And you're part cat, you're
+[0:13:06] Sango "Gump" Reed: a cosplay. It is Craig. And, yeah,
+[0:13:12] Jamie Indigo: it's okay. I've been doing the whole like, All right, let's rebuild in the new rules, because the Rogues also change.
+[0:13:18] Ian Lurie: Yes, everything has. It's it's really hard for me right now, because I'm running this game, and then I'm playing in a game that's still on the legacy rules, and I just keep screwing up. I just, I almost got my character killed last week. Okay, so just a quick you all saw the recap. I'll just run through it very, very quickly. You know, last game was this huge running battle with the blood Corsairs, which this the town of Verdun won thanks to RBG and the Albion. At the end of the battle, the Albion vanished, and while none of RBG knows this, the crew of the Albion knows it returned to Earth where, because it was re armed and repaired in the course of their time on praxia, when they emerged, you know, literally a heartbeat after They disappeared from Earth, they were fully armed under sale, ready to fight, and destroyed the last 5z backs and won the day there.
+[0:14:31] Sango "Gump" Reed: I assume that they're going to end up at the aquarium in San Francisco.
+[0:14:35] Ian Lurie: Absolutely, yeah, yeah, absolutely. Actually, they're on a mission to grab some whales now and take them to the future.
+[0:14:43] Unknown Speaker(s): So what do you say? Jamie to the moon,
+[0:14:50] Jamie Indigo: whalers on the moon, who carry a harpoon?
+[0:14:54] Speaker 1: I see I don't know that reference. Yes, you do.
+[0:15:01] Ian Lurie: I'm going Star Trek five here i
+[0:15:03] JP Sherman: but there ain't no whale, so We tell tall tales.
+[0:15:07] Ian Lurie: Oh, okay, okay, all right, all right. We are more of the nimity nominee crowd. So the blood Corsairs have been dealt a pretty resounding defeat, and the orcs are keenly aware that this won't, you know, there's going to be some time before the blood Corsairs try anything again. They've lost most of their fleet, so, you know. And this is all happening, you know, this is all kind of Ian's overview, but we can pick up right at the end of the fight. I just want to give you kind of the high level. I you know. RBG, some of you helped defend the harbor. Some of you helped deal with the fleet. Richter, you stopped the blood Corsair attempt to land in the harbor. You also, though, dealt with an attempt at hostage taking, where the blood Corsairs had sent some of their forces around the back of the village, which the town, which they've never done before, to the location where rogoram had all of the or most of the younger children in the village, you saved Rome, who you know was putting up a very good fight, but Probably couldn't hold out forever.
+[0:16:21] Sango "Gump" Reed: Don't Don't forget, some of us are at a marathon to Yes. Born Sparta,
+[0:16:26] Ian Lurie: yeah, yep, and yes, Sango, you actually did get your 1 million steps for the day. Apple at your watch was very happy, if confused. But at the end of the fight, some slightly weirder things happened. First, Richter was ambushed by a group of these draconic demons called Abishai, who did a fair amount of damage. I mean, they injured Richter pretty badly, and also used some kind of power that basically sent, well, I can tell you, they used a command. They used the spell command, and just sent everybody else on the battlefield, running in all directions. They just scattered everybody, friend and foe alike. So we're Gorham, everybody else, they just went running in random directions, just about when you guys showed up, actually, so, and I believe that a couple of you failed that role, and most of you did not so, or maybe one or two of you failed that role, not sure, but the fight ended with Richter on the ground, saved by his armor from being turned into Richter Stu inside his armor, or can Richter, I don't know. I don't know what
+[0:17:58] Jamie Indigo: you would call that in a can.
+[0:18:00] Unknown Speaker(s): Yeah, yeah, yeah.
+[0:18:07] Ian Lurie: And that is where we left off. You were all gathered around Richter, Richter's, come in account, yeah, millions of Richters. Richters. For me, that song ain't about peaches, at least as far as I know, it's not about peaches. I had to really explain that to my wonderful wife, who just assumes the best about everything. So you are all gathered around now you're in this ruin of a temple, you know, looking down at the towards the bluff. You know, you see smoke rising, but things seem to be calming down there. You don't see any more ships coming into the harbor. You do see the burning stumps of some masts. You see, you heard this kind of thunder clap as the Albion disappeared in the air, just rushed into that space. The A have retreated and are flying away very rapidly. Actually, they're flying and teleporting. So they're kind of, you know, disappearing, and you are all gathered around Richter, who I believe, Richter, you are conscious and not completely destroyed, but definitely feeling it a bit. And the children are all still there, by the way, they were not commanded.
+[0:19:46] Rikterr Shep'ard: If there are kids around, rikter Quickly puts Bastion away so that they don't get scared of him.
+[0:19:53] Ian Lurie: Okay, the kids are pretty freaked out anyway, but they clearly understand that you're one of the good guys. And actually they all have run over to you all, and they're kind of huddled around you almost, because they've seen you before, right? They sort of know who you are, and they know that the all the bad people ran away, but they know regarham ran away too, so they're a little confused, but they're kind of, they're they didn't run over to you and huddle, but they sort of moved over and kind of clearly, you know, they sort of have moved towards you as being the safer place to be, on the battlefield.
+[0:20:30] JP Sherman: How's his mobility? Is he able to stand up? Or is he just kind of like, weekend at Bernie rikter, yeah.
+[0:20:41] Rikterr Shep'ard: Oh no. He's, he's all right. He's just, he's just chilling for a second like that
+[0:20:49] Sango "Gump" Reed: is good berries they put in his mouth, yeah?
+[0:20:52] Rikterr Shep'ard: Like that. The last time something like that happened to rikter was a menopause. I
+[0:21:03] Ian Lurie: it, yeah, and you didn't know the armor was going to do that, so you had 300 feet worth of falling time to think about what was about to happen.
+[0:21:19] Jamie Indigo: I'm sorry my brain is clearly not working. How did you fall 300 feet?
+[0:21:26] Rikterr Shep'ard: One of the creatures grabbed me, took me up, hit me with thunder, killed me. Luckily, the moat of the undying brought me back just in time for him to unclench the jaw, the claws and drop me 300 feet.
+[0:21:43] Jamie Indigo: Yes, okay, because we just got pumped by the little fuckers. That's right, that was not the last one. And yeah,
+[0:21:51] Ian Lurie: and he also, she also said something to you when she dropped you. Do you remember that?
+[0:21:58] Rikterr Shep'ard: No, because I was too busy thinking about what my next character was going
+[0:22:02] Ian Lurie: to that's fair,
+[0:22:03] James Svoboda: completely fair.
+[0:22:05] Rikterr Shep'ard: Literally, I was like, Oh God, this is thinned. Yeah.
+[0:22:08] Ian Lurie: She said, Tiamat sends her regards, and then dropped you.
+[0:22:13] Rikterr Shep'ard: Yeah, there we go. So you guys just rikter's just staring off into the middle distance, just, yeah, shocked about everything that's just happened.
+[0:22:31] Jamie Indigo: Oh no, no, mozzie's right there. Mozzie is definitely all over you right now, you've got just band aids everywhere. Doesn't know what's happening. There's not a fix.
+[0:22:40] Sango "Gump" Reed: They're just band aids. Sango, around asking the kids what their favorite flower is, and using a staff of flowers to give them one. I'm going to put you down.
+[0:22:50] Ian Lurie: Some of them don't want to admit it, because they think they're too grown up, and they don't think that boys like flowers. But a few of them are just like, they're, you know, girls too. Some of them are like, I'm down flowers.
+[0:23:06] Sango "Gump" Reed: Soon as I get the vibe from some of them, hey, drag, what's your favorite flower? Lily? You got it bud?
+[0:23:15] Jamie Indigo: Just launch one out of the staff.
+[0:23:19] Ian Lurie: They all take them gratefully, even the ones who are acting kind of like they were too cool for it. There's one who you think is probably seven or eight, which would be the equivalent of a 14 year old. For a human who, you know, he was kind of like, like this, but when you gave it to him, he was kind of like, Thanks, and then he just sits there holding it. He doesn't he doesn't drop it or anything.
+[0:23:49] Sango "Gump" Reed: It's been half a century since Sango was a teenager, but he still remembers that awkward trying not to be cool part of life.
+[0:24:00] JP Sherman: You never go you'll never be cool. It's okay. Get over it. Jack's checking over Sarah, making sure she's right, because we probably smell really bad with all the different pieces of fish.
+[0:24:29] Jamie Indigo: That's I mean, you usually smell like this. It's not too noticeable.
+[0:24:34] Ian Lurie: You smell like dead shark. Sarah has a bunch of little like scratches and stuff on her, but she's, she's in pretty good shape.
+[0:24:48] Jamie Indigo: You cast queens in our own sharks. That was amazing.
+[0:24:53] JP Sherman: I saw the sharks. I went, oh shit. I went, oh shit, I've got the things going along. That was fun. Yeah. So I think maybe find Virgo, make sure he's okay, get him kind of a first day treatment that he's going to need. I blew my 1/5 level spell on rikter on the heel. Okay, and I'm happy to blow a cup burn a couple more off of a rig room to get him patched up.
+[0:25:34] Jamie Indigo: Okay, oh, rikter. Did you take the healing potion? Yes?
+[0:25:43] Rikterr Shep'ard: Again. Rikter, what's happening with him is not the day, not the physical damage. It's emotional, like mossy, you know, this above everyone else you know what's going on with him, like you saw, like he is just fucked up in a way that, yeah,
+[0:26:04] Jamie Indigo: well, mostly, I think also, is acutely aware that if you die again, we can't bring you back this time. So hence the 117 band aids on you right now. Yeah. Yeah, okay. So has anyone ever seen assuming we're talking to our friend, we were on our way to find him, because we need to ask him. He's ever seen shithead little, even dragon fuckers before. Come here.
+[0:26:41] Ian Lurie: So you guys go looking, and you find regorum. There's a few other orcs standing over him. He's lying on the field. He appears to be well. Someone give me a medicine check or whatever you want to do to check him out.
+[0:27:00] Jamie Indigo: Go to do it. There's too many band aids on my fingers.
+[0:27:07] Unknown Speaker(s): 1623, okay.
+[0:27:14] Ian Lurie: You're both pretty sure he will recover, but because of his age, he will need some time, like just healing him will ensure he doesn't die, but he needs he needs time. He needs rest in a bed until he awakens. And that assumes that you do heal and if you don't heal him, he's just gonna die, but
+[0:27:36] Sango "Gump" Reed: he's chewing on some good berries
+[0:27:38] Jamie Indigo: right by now. It is He chewing? Is he conscious enough to chew?
+[0:27:47] Ian Lurie: You know, we're just gonna say that he doesn't aspirate them and die. They just kind of melt in his mouth or something, because
+[0:27:52] Jamie Indigo: Sango kill like four villagers by just having berries.
+[0:27:56] Ian Lurie: Yeah, see? Because that just seems Yeah, so wrong. And there are some games where I might do that, but let's not do that here.
+[0:28:07] Sango "Gump" Reed: I will Healing Word him if, if he needs to wake up, okay,
+[0:28:11] Ian Lurie: he won't. I mean, you heal him and he does not wake up. He needs time in bed to recover and up. I so you guys carry him back.
+[0:28:28] JP Sherman: We could put, we can make a, like a makeshift kit, and, you know, strap them on the back of surah and like, okay, because he's, I picture him as, like, this meaty, beefy
+[0:28:42] Jamie Indigo: carry thingy for syrup. Yeah, I believe
+[0:28:49] Ian Lurie: in me. Regarm is was once this big, big guy. He's, you know, he's more wiry now, but he's substantial. You know, he probably weighs a couple 100 pounds. So yeah, you need to put him on surah and get him carried back into the village, and the other, the other orc that was helping fight off the blood Corsairs also find you the blood Corsairs that ran away. You don't know where they are. They probably kept going. That's, you know, they probably realized that this was not their fight anymore, and they kept going.
+[0:29:27] Jamie Indigo: It would have been helpful if you told us the blood Corsairs hung out with. What were those not? Who again? The mermaid demon
+[0:29:39] Ian Lurie: things, yeah. So who again?
+[0:29:45] Unknown Speaker(s): Yeah, wouldn't it would
+[0:29:47] Ian Lurie: have been super helpful. But where's the fun in that is what I want to ask you all. So you guys make it you. I mean,
+[0:30:01] Sango "Gump" Reed: honestly, that's on us for not asking, though,
+[0:30:03] Ian Lurie: really so well, you didn't,
+[0:30:05] Jamie Indigo: rikter. How far are you going right now? Oh,
+[0:30:08] Rikterr Shep'ard: rikter's Good. I also did lay on hands and a couple of second level Cure Wounds on myself. Okay, cool.
+[0:30:22] Ian Lurie: I mean, you did find out there were so who? Again, it's just you didn't find out until you went to scout, and that was only about two hours before the attack happened. So it was a little late at that point. You get back into the village, the the doctor, the town doctor, immediately comes up. He's treating a whole bunch of people who have burns and stab wounds and things like that. From the fight on the docks, the city, the town, got off pretty light, because most of the thing happened out in the bay. There's a lot of fire damage to the wharf, but that's as far as it ever went. So there are a few wounded, but not many. So the doctor immediately comes over to regorum and says, Let's get him to his house, get him in bed. I think he needs 24 hours before we talk to him. I'll have someone stay by him and watch him, unless you would like to. But he should be fine. He's he is a very hearty soul, as you know,
+[0:31:29] JP Sherman: I think we should be available or like nearby, but not sitting with them. Also, there's the other issue about how our weapons powers didn't work. Something's up with Helm. Temple of Helm.
+[0:31:51] Jamie Indigo: Can anybody we don't plan went away with the twirl? Wait? What? We don't have anybody. They can cast sending now. We didn't leave stones there. Anything we did?
+[0:32:15] Rikterr Shep'ard: Yeah, we have a sending stone that we can talk to someone in our bash, and they can go to the temple of him, if you think that, that's some place we should talk to Yes,
+[0:32:27] JP Sherman: yes, we've got our, we've got our, we've got our, what do we call them? Butler's too low of position. This little beard concierge, I don't know.
+[0:32:41] Jamie Indigo: I just call him. My homie seems to like that.
+[0:32:46] Unknown Speaker(s): Yeah, let's have a seneschal gazunite or castellan, yeah, one of those,
+[0:32:53] JP Sherman: yes, we can get. Let's get a runner to get what's going on with the Temple of hell, because there's a, there's a level of coincidence that I'm not happy with, with the appearance of these, the demon dragons, was aboleths, not aboleths.
+[0:33:17] Ian Lurie: No, they're called Abishai. Abishai. You have actually encountered them once before.
+[0:33:25] Unknown Speaker(s): Long time ago.
+[0:33:29] Ian Lurie: They weren't this tough, but you encountered some. I think they were red. Abishai, okay.
+[0:33:36] Sango "Gump" Reed: Where did we encounter them at
+[0:33:39] Ian Lurie: when you were crossing the fields of bone.
+[0:33:43] JP Sherman: Oh, yeah.
+[0:33:44] Jamie Indigo: Oh, wait, like the cute brain thingies that were nice?
+[0:33:47] Ian Lurie: No, no, those are forms that's very different, completely different. No, these are the, these are Demonic Dragon servants. That's all you know the Demonic Dragon servants. If you want to do research, you can learn more about them. Or actually, let's see who would know the most about this.
+[0:34:11] Jamie Indigo: I've done extensive research into the plains by now. To say, yeah,
+[0:34:18] Ian Lurie: why don't you all just give me a history check. Oh, am I good at history?
+[0:34:31] Jamie Indigo: Damn? 2519
+[0:34:38] Ian Lurie: Okay, so three of you, sorry, Sango, have differing, differing amounts of information. Rikter, all of you realize that these are draconic demons. So they're not dragon folk, and they're not dragon kin. They are actually fiends. Mossy you also realize that these fiends are demons. They're chaotic and they are not they're not all through the Abyss like there's not bazillions of them everywhere. Drac, you remember that they are the actual servants of Tiamat. They tend to Tiamat in her in her prison, and they do work for her.
+[0:35:41] Jamie Indigo: All right, okay, so little shit storms we met,
+[0:35:46] Unknown Speaker(s): yes, those
+[0:35:47] Jamie Indigo: are her versions of the other fuckers we met. Yes, so, course she did color coordinating bullshit.
+[0:35:59] JP Sherman: She's got to stay home brand somehow, but we need to know what happened to the Temple of Helm.
+[0:36:04] Jamie Indigo: This is unlicensed, okay,
+[0:36:13] JP Sherman: that's, I don't know. I feel, I think that who has, who has the the curse marks
+[0:36:20] Jamie Indigo: we all do? You
+[0:36:21] JP Sherman: all do. Oh, that's right, that's right.
+[0:36:25] Rikterr Shep'ard: Okay, so temple of Helm. Why are we contacting them again?
+[0:36:29] JP Sherman: Because that's where we left, the door, that the door,
+[0:36:33] Jamie Indigo: the door and the book, yes.
+[0:36:38] JP Sherman: And they were like, yes, of course, we can protect it. This is our job. This is what we do. I just want to say for the record. I just want to say
+[0:36:46] Sango "Gump" Reed: for the record that Craig and didn't like that idea, but he kept it
+[0:36:51] Ian Lurie: to himself. The book has nothing to do with the quinary, yeah.
+[0:36:56] Jamie Indigo: But mostly likes books. And I mean, it's, yeah,
+[0:36:59] Ian Lurie: it's a piece of history. And it does. It talks about the events, but it doesn't actually the tone, the tone of the first gods. Yeah, it's not actually related directly to the corner.
+[0:37:09] Rikterr Shep'ard: So we just want to have someone go over there and check to make sure that the door is still there.
+[0:37:15] Jamie Indigo: No, no. There should be very direct to very salty finger pointing questions
+[0:37:20] JP Sherman: about where yes,
+[0:37:23] Rikterr Shep'ard: do we know for a fact that the door is gone? Because I'd hate for us to piss off the people who are supposed to be protecting this thing for nothing other than we think
+[0:37:35] Jamie Indigo: the logic of our quenary is, when we have all of them, we get to do very fun, special things, but they didn't work. So the easiest way for them to no longer work is because some asshole lent it to a buddy. I don't know.
+[0:37:52] Rikterr Shep'ard: Well, maybe let's start with asking, and then if they say what had happened was, then we can do the aggressive
+[0:38:02] Jamie Indigo: concussion you're so worried about hypothetically offending someone right now, sir, you almost die. I am angry
+[0:38:10] Sango "Gump" Reed: over the party line. Sango says to drag, isn't it cute
+[0:38:17] Unknown Speaker(s): when they argue? We can
+[0:38:19] JP Sherman: hear you siding with mossy right now. Oh, forget about that.
+[0:38:25] Ian Lurie: No way drag siding with Mossy. Chaos, with chaos. I never would have suspected that as a DM, I am shocked. Sorry, that was sarcasm. So who, who's gonna send, who's gonna handle this?
+[0:38:42] Jamie Indigo: Oh, Mosley is walked up onto the sending stone and is doing it in the full salty means,
+[0:38:49] Rikterr Shep'ard: this is a
+[0:38:49] Ian Lurie: Karen moment. Everybody else that's okay with them. I'm not stopping. Okay? I'm just checking
+[0:38:58] Sango "Gump" Reed: you said that the way, like we should
+[0:39:02] Ian Lurie: or you want to do Okay, all right. So Moss, you send a message. What do you want? Reed laid to the Temple of Helm.
+[0:39:13] Jamie Indigo: Do you have eyes on the door that sees? Are you sure? Are you looking at it right fucking now? Are you sure it's authentic? Why the fuck isn't our shit working? When the fuck did this dragon start sending her little shit head color coordinated goons?
+[0:39:30] Ian Lurie: Right now, thistle beard just off camera, and I wouldn't usually give it, but thistlebeard is writing down dear friends politely request the status of the door that opens. Thank you.
+[0:39:46] Jamie Indigo: Thank you. This will be love you. I'm sorry I'm so grumpy right now.
+[0:39:52] Ian Lurie: Okay, so it'll take them a little while to get that message we're there and everything else. What? What do you want to do in the meantime? Anything you can. You could just go rest. I mean, it's towards the end of the day. You've all had your asses. I mean, you're all tired. This was a hard battle that took a long time.
+[0:40:11] Rikterr Shep'ard: Rikter's going to get up. He's going to just do his one use of the day of summoning his steed. He's going to call FINRA to his side, and he's just going to walk around. And he's also going to burn one of his channel divinity to be able, oh, Divine Sense, and he's just going to walk around with FINRA, and he's going to see if there's any more of these creatures or any more of the blood pack, just to make sure that things are safe one more time, and also just to get his mind around what's going on, he needs to take a walk.
+[0:40:57] Sango "Gump" Reed: Okay? Sango is going to turn invisible and go
+[0:41:01] Ian Lurie: with him. Do either of you speak orcish? I can't remember.
+[0:41:06] Sango "Gump" Reed: The Sango is tongue of the Sun and Moon. Can talk to anybody,
+[0:41:09] Rikterr Shep'ard: and Richter speaks orc Okay.
+[0:41:15] Ian Lurie: When Fenrir appears, rikter, one of the guards from the militia is there, and you hear him mutter to someone right next to him. First of all, they both kind of jump. And then he says, I think I just peed a little bit. That was a lot. What the hell? And then you guys head off.
+[0:41:43] JP Sherman: All right, Chuck is gonna, he is gonna find something to like, find something to eat, like, and probably about seven beers.
+[0:41:59] Unknown Speaker(s): Okay, it's fair.
+[0:42:01] JP Sherman: He is going to eat and he's going to share his just like one for me, one one for Sarah, one for me, one for Sarah, and he is going to start moving to crash,
+[0:42:16] Ian Lurie: as often happens in a town a lot of people come by to look at Sura, and, you know, particularly children, they they are very, you know, their their parents kind of keeping them at a distance because they can see you're eating, and they don't want to bug you. You can decide, though, you know, a couple of kids kind of come up and they're kind of looking at Surah, and they're looking at you, they're looking at Surah, and then their parents are like, leave the man
+[0:42:46] JP Sherman: Sora and I'll hand them like a bone from the pork, the from the pig, pulling from Okay,
+[0:42:56] Ian Lurie: give me a quick animal handling check. Don't worry, if you fail, it's not going to eat the kid that's that's not as fucking funny as that would
+[0:43:05] JP Sherman: be 13 plus 17 is 30, okay.
+[0:43:09] Ian Lurie: Surah, kind of gently, you know, comically, gently, takes the the bone from the kid. Rikter, give me a perception check while you're walking around,
+[0:43:30] Unknown Speaker(s): 19, okay,
+[0:43:35] Ian Lurie: as you're walking you see a raven land nearby, and it kind of cocks Ted at you, and then it flies off, and you don't think anything of it. And then a minute later, like two more ravens land nearby, and they cock their heads at you, and you notice they fly in the same direction
+[0:43:58] Rikterr Shep'ard: rikter's going to follow them. One is just, hey, that's cool. Three is like, Hmm, and I'm gonna fin rear Sango knows that you're here, but respects what you've done, and says nothing to rikter. So Richter does not know that you follow but, but fin Reed does, and yeah, it's not, not snitched on you.
+[0:44:23] Ian Lurie: In fact, Fenrir kind of goes in your direction Sango.
+[0:44:28] Sango "Gump" Reed: He could probably smell the soup, probably.
+[0:44:32] Ian Lurie: And then you're not sure, but you think this giant wolf may have just winked at you. You're not 100% sure. You guys, you follow rikter, you follow where these Ravens have gone. And you get to a group of nests, maybe four or five ravens nests, and there are 10 Ravens. There two pronounced and when you walk up, they all hop out of their nests. And you look into their nests, and you see, you know, first you look at one, there's five eggs in it, which is pretty cool, that's that's a good size clutch for a raven. But then you look in the other nest, every single one of them has precisely five eggs. And with that, the Ravens step back onto their eggs the you know, whichever one was doing the parenting at that point, and they cock their heads at you and just kind of go back to their business like they're no longer noticing that you're there.
+[0:45:41] Rikterr Shep'ard: All right, rikter just takes note of this and then just starts back on his patrol again.
+[0:45:51] Ian Lurie: Okay, when you give me another Perception check,
+[0:45:58] Rikterr Shep'ard: that's going to be a 15, okay,
+[0:46:01] Ian Lurie: you don't notice anything else. You do. Definitely see signs that the blood Corsair, some of those so who, again, did run. You know, they fled, but they kept going. There's no sign that they came back. You find some tracks leading down to the water, and that's it.
+[0:46:18] Rikterr Shep'ard: Okay, then rikter is just gonna head back and he's before he gets there, he's just gonna kneel down, he's gonna pet fin rear, snap his fingers and send him back because he saw the way that people reacted, and don't want to bring him back and scare them again. They've already been traumatized a bit too much today.
+[0:46:38] Ian Lurie: Yeah, it might have been the giant wolf creature appearing right next to them out of nowhere. But yeah, they'll probably appreciate that they're not used to being quite that scared Mossy. What are you up to? You just hanging out.
+[0:46:54] Jamie Indigo: I imagine I'm using my my crafting skills to help others assemble things. I didn't take damage in the thing. So I'm awake and good.
+[0:47:05] Ian Lurie: Yeah, the villains, discontent, by the way, is now moored right over the town, since they're not trying to hide anymore, and Lysander can help, you know, send supplies down or move things around, or whatever can help with repairing the village. But it's really only been a few hours since the battle ended, and people are they're still pretty shell shocked, like you know, this was, this was a huge victory for urdun, but they're still pretty shell shocked. Obviously this, this was a lot. So they're just kind of going around trying to clean things up. They're checking on each other. When the children come back, you know, the parents obviously are beside themselves, that the children are okay, as are the children, although, again, the teenagers kind of like, it's good. Glad so you're okay, Mom, you too, Dad, it's cool. I helped save rigor Ian, by the way, yeah, it's a big fight. But with that, everyone's pretty ready to just kind of settle in and get some sleep. There are no longer any fires burning on the wharf, by the way, that's all been taken care
+[0:48:31] Sango "Gump" Reed: of. Can I ask the group, just for clarity on a couple things? This is just totally unrelated, but I want to get out of the way, who has the bag of Colding mossiness, who's got the potion of gold terror.
+[0:48:44] Jamie Indigo: Those are all when I say I have them, they're all in the inventory, party, inventory,
+[0:48:50] Sango "Gump" Reed: okay, and then okay, I think Sango has the music box.
+[0:48:56] Ian Lurie: And where did you put the bag of holding?
+[0:48:59] Sango "Gump" Reed: In The Bag of Holding. Of course, nothing possibly wrong.
+[0:49:03] Ian Lurie: That's, that's what I was checking. Okay, just so long as you understand how ridiculous that is, I'm glad to Okay, well,
+[0:49:10] Sango "Gump" Reed: so we have this portable hole and we put it in that. I should move it
+[0:49:13] Jamie Indigo: under party equipment, because I put it in the bag of holding, just so it'd be easy, yeah, find it, because
+[0:49:19] Ian Lurie: I'd be really kicking myself at missing an invaluable
+[0:49:22] Jamie Indigo: equipment. There we go.
+[0:49:25] Ian Lurie: All your stuff destroyed. Okay with that, I think we'll say everybody settles in for the night. Gets a much needed long rest. I'm some of you have some interesting dreams. If you did, you already know about them, and I sent them to you.
+[0:49:53] Sango "Gump" Reed: Sango gets one of the best night's sleeps he's had in decades. He wakes up he's got a spry in his spring in his step, and you guys haven't seen ever.
+[0:50:04] Ian Lurie: Oh, that's right, because you're ageless now.
+[0:50:07] Rikterr Shep'ard: Jamie, I don't know if we ever stipulate this. Do rikter and Mossy bunk together, or do we still have them doing the Leave It to Beaver? Kind of separate bunks, not for anything other than what it might change something I do right now,
+[0:50:26] Jamie Indigo: I think tonight, for sure, mossy is going to be sharing a quarter with you.
+[0:50:31] Rikterr Shep'ard: Okay, then roll me a perception check, please.
+[0:50:36] Jamie Indigo: Oh, no, that's 11.
+[0:50:39] Rikterr Shep'ard: Oh, then everything is fine. Yeah,
+[0:50:41] Ian Lurie: everything's great. Just pointing out 11 is average. So something obvious happens in a Okay, just checking,
+[0:50:52] Jamie Indigo: I'm too distracted changing 117
+[0:50:58] JP Sherman: bandits. You know, you know what,
+[0:51:01] Rikterr Shep'ard: if you are up and check then you feel his body. It's clammy and sweaty, and you can hear him mumbling in his sleep, but you can't make out anything he's saying.
+[0:51:15] Jamie Indigo: Okay, goggles gonna go down. Nothing. I I generally mossy, don't sleep very well.
+[0:51:30] Ian Lurie: Shouldn't have that fifth potato locker or something. I don't know. It's just it affected his sleep.
+[0:51:36] Rikterr Shep'ard: Sango soup strikes again.
+[0:51:40] Jamie Indigo: Nothing can be worse than track soup.
+[0:51:49] JP Sherman: Y'all just like the refinement for a nice fungus soup,
+[0:51:54] Jamie Indigo: sir, I have no problem with, you know, some fungi, and I have no problem making them, making me see weird things? It's just, I don't want it to be a surprise after dinner.
+[0:52:09] JP Sherman: You don't buy it, you rent it. Nope, you're right. Dot, dot, dot. Underground soup was terrible. It was
+[0:52:20] Ian Lurie: that was a first attempt.
+[0:52:23] JP Sherman: Texture was just not okay, and
+[0:52:26] Ian Lurie: you were all you were all under the influence while you were cooking it, if I remember, right, but probably All right, so the next morning, dawns, just to point out, it is now the 10th day of leaf fall, the seventh year fall reckoning. So you are getting back into winter. Kind of got out of sync. So I can't do like a Christmas episode for Christmas, because it's not Christmas, but it's like Christmas because you save the town. So everyone's very happy, and the next morning, you all sleep in a little bit, unless you say otherwise. And when you wake up, you hear the activities of the town. You hear kind of excited voices, and, you know, happy voices people. You hear the because you're pretty close to the blacksmith. You hear the sound of the blacksmith working on things probably repairs. The sound of people doing a great deal of work, but not no sign of panic or fear. For the first time in a while, like when you even when you first got here, the whole village was kind of under there was a pall hanging over this village, and you can sort of tell now people are very busy. They have something to focus on, and it just feels like there's a certain amount of fear that's lifted, because this huge scary presence that's hung over them for so long does not seem quite as scary anymore. Yeah.
+[0:54:05] Jamie Indigo: Was there someone in the village who could identify things? Because we have stuff need to get someone magically,
+[0:54:18] Unknown Speaker(s): can't you guys identify things? Huh?
+[0:54:21] Jamie Indigo: The armor. We haven't had anyone look at that. We have the music box, the gold goop thing.
+[0:54:30] Rikterr Shep'ard: Wait, didn't we have you identified all that? Yeah, we had what's his name down in the hell
+[0:54:35] Ian Lurie: yeah, and
+[0:54:36] Rikterr Shep'ard: identify, yeah. There we go.
+[0:54:38] Sango "Gump" Reed: The other thing is the music box. It's the only thing that's been identified. Been identified yet. I don't think that's that's
+[0:54:45] Ian Lurie: because it's not magic. It's just a really nice music box.
+[0:54:51] Sango "Gump" Reed: Let me update my inventory right now.
+[0:54:58] Ian Lurie: Yeah, because you did have it identified,
+[0:55:02] Jamie Indigo: so there's nothing weird about the to backseat armor.
+[0:55:07] Ian Lurie: I already gave you the info on that.
+[0:55:11] Jamie Indigo: Oh, yeah, just don't want to get cursed. I don't know.
+[0:55:14] Ian Lurie: Yeah, it's not cursed. It is in I put it up on DND beyond. It's in there. That's the armor of it's the bronze scale armor.
+[0:55:26] Jamie Indigo: Yes, yeah, yeah, that's what I have. I just am changing my thing because I didn't have it on yet, because I forgot that we'd already made sure it wasn't gonna, you know,
+[0:55:35] Ian Lurie: no, Queen of a dog, yeah. You had everything. You had everything identified. The potion is a cursed potion of fear of gold. You drink it, and you're actually terrified of gold. Let me just double check the music box, because it's been a while, but I'm pretty sure yeah, there's also The Wand of fate.
+[0:56:38] Jamie Indigo: Can I still do the artificing? On the armor.
+[0:56:45] Ian Lurie: Do artificial thing on the armor. I'm not sure what you mean.
+[0:56:47] Jamie Indigo: Enhanced Defense is an artificial infused infusion.
+[0:56:52] Ian Lurie: Can you do that on magic items? And if so, how powerful an item can you do it on? Or does it not specify? If it doesn't specify, then yes, but
+[0:57:07] Speaker 1: sorry, please carry on. Okay, so what
+[0:57:13] Ian Lurie: do you guys want to do? You're up? Do you want to go get some breakfast? Do you want to just like, what's, your next step? Oh, actually, before we get to that mossy, you're awakened by a chime in your head. Excellent. Wake up.
+[0:57:37] Jamie Indigo: Who's there? Mossy?
+[0:57:39] Ian Lurie: More like a knock, knock way, because I think it's going to be, well, it's it's ascending, so actually, there's that chime, and then you get the message, okay, Corwin saying,
+[0:57:52] Unknown Speaker(s): this is Corwin temple of Helm.
+[0:57:58] Ian Lurie: Door that opens and tome are both safe and untouched.
+[0:58:08] Jamie Indigo: I respond to that. Yes, you can. Are you sure it's the real door that opens?
+[0:58:25] Ian Lurie: He responds right away. Says, I don't have unlimited spells, but yes, we are certain. Why? What has happened?
+[0:58:41] Jamie Indigo: Damn, have we already, we've already told them about the query. They
+[0:58:44] Ian Lurie: know. Oh, they know. They know everything about the quintery. Okay,
+[0:58:47] Jamie Indigo: I have 25 words, right?
+[0:58:55] Ian Lurie: Someone keep count for me,
+[0:58:56] Jamie Indigo: spells we get for full quintery not working attacked by Team Ian's tiny dragon shitheads. That's one word, by the way. Yeah, I kind of just check you
+[0:59:23] Sango "Gump" Reed: got 11 words left.
+[0:59:25] Jamie Indigo: Need way to stop.
+[0:59:35] Rikterr Shep'ard: Two words left.
+[0:59:40] Jamie Indigo: Help. Please. You pooping question mark.
+[1:00:00] Ian Lurie: Would need more than ascending to handle this.
+[1:00:14] Unknown Speaker(s): Not sure.
+[1:00:23] Ian Lurie: How we how helm would impact the quintery.
+[1:00:34] Jamie Indigo: But he knows the door is part of the quintery.
+[1:00:36] Ian Lurie: Yes, he does. He says the door, but he Yeah. He says everything there. But then also, as I said, the door is fine,
+[1:00:46] Jamie Indigo: as per my previous message, yes,
+[1:00:49] Sango "Gump" Reed: but do we have the other four on us?
+[1:00:52] Unknown Speaker(s): Hope so. Yeah,
+[1:00:54] Rikterr Shep'ard: everyone in the party has one, and then we left the door with them, because that's the one that, no matter what TMF could use to come fully through,
+[1:01:06] JP Sherman: is there some sort of proximity rule, like, it needs to be in our hands,
+[1:01:13] Sango "Gump" Reed: close within 100 feet of each other? Or something like, do all the quinter you have to be within close proximity to each other. Is that what you're getting at?
+[1:01:25] JP Sherman: Yeah, yeah, something like that, at least in the possession of one of the team.
+[1:01:36] Rikterr Shep'ard: You guys see rikter Just walking around the town. He doesn't have his armor on. He's just in one of his fancy dress outfits, and he's walking around trying to find the kids and just getting down each one of them, talking to them, trying to make a joke, just trying to trying to make sure that the next day feels a little bit better for them.
+[1:02:05] Ian Lurie: Mossy, you're kind of the Gadgeteer of the group. Why don't you give me an investigation check? Since you're specifically thinking about this, like, why would they not have worked? What's going on?
+[1:02:17] Jamie Indigo: Natural 20, okay,
+[1:02:21] Ian Lurie: you recall that you all have used some of the powers of the quinary in the last few days. So it's definitely not related to say the door being at the temple of helm or close proximity to each other, right? Because, if I remember, right, Drac used one of the quinary while on on the scouting mission, I believe I could be wrong about that. And Mossy you used the eye that sees right several times. In fact, even Partway into the battle, you used it. So it's probably not something that happened. It's not because you left the door that opens behind, because if you, if that were it, then there would you even on the plane of fire, right? Your items wouldn't have worked, but they did work, and then during the battle, they worked for a while, even though you were pretty far apart.
+[1:03:26] Jamie Indigo: So mozzie is is just gonna stay up in the room and has all of the assorted stolen notebooks and whatnot out and is looking through and trying to figure out hypothesis, could it have been because those little dragon shitheads were there and that negatively impacted it? Could it? Yeah, okay.
+[1:03:44] JP Sherman: Check our like, check our little curse marks. Have that? Have those changed? Have they gotten bigger? If one is one shinier,
+[1:03:54] Ian Lurie: give me a perception check. Everyone who's looking give me a perception check or an investigation, whichever one you're better at.
+[1:04:01] Unknown Speaker(s): Okay, 3020, 18, rikter, no Mossy.
+[1:04:21] Jamie Indigo: I was starting to look at it, and then, like housekeeping walked in and I was half naked, shrieked and
+[1:04:26] Ian Lurie: got it okay. All right, so Drac, you had the higher Well, actually, Drach and Sango, you both rolled high enough you think they're closer together.
+[1:04:42] Sango "Gump" Reed: They Jack, Jack, Jack,
+[1:04:44] Unknown Speaker(s): yeah, you invis. You visible. I'm visible.
+[1:04:49] Sango "Gump" Reed: Did your nipples get farther apart?
+[1:04:54] Jamie Indigo: That is peak Sango. Just
+[1:04:58] Sango "Gump" Reed: like did they? Did they move it? Just something, something's different.
+[1:05:02] JP Sherman: Just Sango, I let it not be said that I don't appreciate your attention to detail. Yep, yep. I, I No, did mine?
+[1:05:21] Unknown Speaker(s): No. I hope, but
+[1:05:29] JP Sherman: okay, we need to find rikter and we need to find lossy.
+[1:05:41] Jamie Indigo: Do this you find me walking out the door being like, show me your chest, because I want to trace it, and then the hair goes.
+[1:05:58] Sango "Gump" Reed: Bossy. Did his nipples move farther apart? I part,
+[1:06:04] Jamie Indigo: take out my artificer tools.
+[1:06:10] Ian Lurie: You've measured you've measured them before.
+[1:06:14] JP Sherman: I have you don't
+[1:06:17] Ian Lurie: I mean was drag in a flexed position when you measured them before? Or was he more?
+[1:06:23] Jamie Indigo: Just imagine all the crazy at some point I have made costumes for his nipples and had another distance apart.
+[1:06:31] Ian Lurie: Sure you know what? Not even hard to believe. Not even hard to believe he was going
+[1:06:38] Jamie Indigo: to a fancy orgy. He wanted to have a nice little chain made, yeah, the rough draft over here.
+[1:06:47] Rikterr Shep'ard: You guys hear over the party line. Rikter say, Hey, you guys mind meeting me down at the beach for a second? I have something I want to, want to share with you.
+[1:06:57] JP Sherman: Yeah, be right there, measuring nipples. I you
+[1:07:03] Rikterr Shep'ard: know, I find it best not to ask.
+[1:07:07] Ian Lurie: Strangely enough, you're not even surprised Sango, you don't ask because you're just like, okay, of
+[1:07:13] JP Sherman: course, that's what he's doing other day in the life.
+[1:07:17] Jamie Indigo: Look, I tried to do it myself, but then housekeeping walked in and I flashed a gnome. So,
+[1:07:29] JP Sherman: if I remember correctly, like the cursed marks were in a kind of a pentagram pattern or
+[1:07:38] Unknown Speaker(s): correct, and
+[1:07:40] JP Sherman: now they're a tighter pentogram, okay, correct. Oh, man, I know what this is. This is one of those single dot then we explode.
+[1:08:02] Jamie Indigo: We really should have gotten breakfast before today started.
+[1:08:06] Rikterr Shep'ard: I love how we went from sci fi to a James Bond movie.
+[1:08:14] JP Sherman: Okay. Well, you may not be, we may not be able to solve this right now. So Richter's probably waiting for us to do the beach.
+[1:08:22] Jamie Indigo: Oh, yeah, I imagined we were already meandering on down. Yeah. Now, Mr. Bond, I expect you to die.
+[1:08:35] Ian Lurie: Kiki's got the perfect look on her face for that too.
+[1:08:42] Rikterr Shep'ard: So you guys get to the beach, and you see rikter, and he's just standing there, and he looks at you all, and he says, You know what my favorite thing about the Raven Queen is, she's about action and not talk. And last night, she actually decided to talk to me, and I had a dream, and in my dream, I saw five diamonds in a pentagram form that were doing battle with another pentagram, but they were in five different colors, red, black, blue, white, green, and the pentagram with the colors seem to be getting tighter and closer together and the diamonds breaking apart. And I heard her voice in my head saying that, as the Pinto veronis, how we are is how the quinary is, she told me that we're in danger, and I'm not As learned as mossy or book smart, but I've been trained to read signs and the quanery breaking apart. There's something breaking apart in this group, and I believe it's fracturing us and our ability to use these gifts that were given us to fight this evil and if we don't figure out what's breaking apart in us, we're not going to be able to go up against Tiamat, and we're not going to win if she's talking to me when she rarely does. This is something serious. And yesterday, when I was walking along the beach, some ravens came to me, and I followed them, and each one of them was sitting on a nest, and each nest had five eggs in it, which five eggs were Raven. That's good, but all of them another sign guys, and he pulls down his shirt like it cannot be coincidence that these fives are coming to me in all these ways, and he pulls his shirt back up.
+[1:11:11] Sango "Gump" Reed: He dragged his nipples, got further apart too.
+[1:11:20] Rikterr Shep'ard: I applaud you for waiting until I was done with all that serious shit.
+[1:11:25] Jamie Indigo: All right, let's go kidnap Craig again.
+[1:11:34] Mossy: Mossy is not wise. That is entirely what she took away from this.
+[1:11:46] JP Sherman: Yeah, tracks like, Is Sarah, like a full fledged member now,
+[1:11:56] Ian Lurie: rikter just rikker's like, Oh, my God, I
+[1:12:06] Rikterr Shep'ard: think that we are more five in spirit than we are orgy.
+[1:12:20] JP Sherman: What's the problem?
+[1:12:22] Rikterr Shep'ard: Sorry, I just have, I just have it in my mind. When you said, orgy,
+[1:12:26] JP Sherman: what is the problem? And why is it? Sango
+[1:12:35] Rikterr Shep'ard: Richter looks at you guys, and he says, Actually, my name is Richter Shepard, and I think I'm the problem. When we were planning our battle, I never felt more distant. I felt that I wasn't part of the group that my input was not asked for or needed, and I think that I broke it. It's been we've been traveling together for a couple of years, and I don't know when I started feeling it, but I feel there's an RBG, and Sometimes there's an RBG and there's a rikter. And I think it fully, fully hit me during the battle and when I went to use the ring, I think the quinary sense that and would not let me tap into its powers, which is why I wanted us to be careful about the Temple of Helm, because we need all the friends we can get, and I didn't want us to poison the well with one friend when maybe I was the poison in our well.
+[1:14:20] JP Sherman: So can I? Can I ask you a couple questions?
+[1:14:24] Rikterr Shep'ard: I mean, that's one down, how many more you got?
+[1:14:27] JP Sherman: Okay, so two. So I know that
+[1:14:32] Sango "Gump" Reed: lower two total.
+[1:14:34] JP Sherman: Mossy and I have been having running this, running this game, for a long time, and so I know that, and I know that she and I, like her, we feed on each other's energies, and Then something usually catches fire and and I also think that sometimes, like, you know, maybe we I get too excited and I don't think about how other people are contributing. And I maybe I just kind of like, make decisions and and I think I need to acknowledge that. I think that, I think that each of us have different dynamics, and maybe maybe there are things that, maybe there are things that I am doing that is hindering how you feel, your integrate, your integration into the group, into us as as as A unit, as a family, as a as a cohesive force for good.
+[1:16:30] Mossy: Okay, you're not that powerful Princess, though. Okay, all right. So here's the deal, rikter, I fucking love you. You know this, I need you to speak the fuck up. If you have been put in the plans you want to go with it, you don't have to wait a turn on this. This isn't a sit back and be polite thing. This is there is a fucking challenge coming, and I need your words. I need to know the ideas in your brain. I need you to be goofy and dumb and silly with us, and then when it matters, I'll go shut the fuck up for a second, because I have an idea that's going to work. You can't expect me to read your mind, baby. I'm good at many things.
+[1:17:09] Rikterr Shep'ard: I spoke up about how to write to the Temple of hell, and you both told me no. So when I speak up, it's also important to hear me and use some of my ideas, because if I speak up and I'm shutting down because you
+[1:17:23] Mossy: almost just died. I was riled up and it was having a bad morning. Didn't sleep good. You were very cold and split wedding last night.
+[1:17:33] JP Sherman: That is a fair point. Rikter, we did do that, and I
+[1:17:44] Unknown Speaker(s): and and how do we okay?
+[1:17:49] JP Sherman: Maybe this isn't something for you to solve. Maybe it is something about i
+[1:18:03] Ian Lurie: Let me drag is actually taking psychic damage because he's exercising empathy. And it's yes, it's really hard for him. It's actually blood coming out of one nostril. Continue, I am
+[1:18:15] JP Sherman: deeply uncomfortable. Both things can be true. Rikter, we need just okay, Richter, we need to speak up and when you do, tell like, let us know that like
+[1:18:39] Unknown Speaker(s): I will, however,
+[1:18:46] Rikterr Shep'ard: I'm actually legit worried that real blood is going to come out of
+[1:18:49] JP Sherman: your day. Because I'm trying. I'm trying to figure, like,
+[1:18:55] Mossy: you know, if I'd known that way, just saying, Mossy is frazzled.
+[1:19:18] JP Sherman: Let me think about this, because I think what you're I want you to know that I hear what you're saying and I find what you're saying is important and not because it's just, it's imbalancing some mystical, magical thing that we have. I don't want to, I don't want, I don't want to do better, because it makes a magic thing work better,
+[1:19:48] Unknown Speaker(s): And
+[1:19:55] Speaker 1: I'll shut up. Every once in a while i
+[1:20:04] Rikterr Shep'ard: i think it is not about anyone shutting up. I think it is all of us listening more, including myself. Because again, while you say it is not about our magical trinkets working. If they don't, this world might stop working. And I believe that's just as important.
+[1:20:38] JP Sherman: Sango, do you have any thoughts on this,
+[1:20:44] Sango "Gump" Reed: I love you all. Thank you for showing me what on several sides of this, conversations between me and my wife have been like lately. I it. Communication is fucking hard. It's hard to pick up on clues, it's hard to validate everybody's opinion. It's hard to ask the questions that you missed asking you. But the important part is to keep trying, keep asking The questions, keep listening. You.
+[1:21:58] JP Sherman: There so as JP, I always appreciate your vulnerability. And you know, love you see, dude,
+[1:22:17] Sango "Gump" Reed: sorry that was that was shit so timely that conversation you all just had.
+[1:22:23] Rikterr Shep'ard: Hey, that's one of my favorite things about D and D is, yeah, just because it's make believe, don't you fucking tell me, is this shit ain't real like this is also why I love wrestling. Like that shit is scripted, yes, but that shit hits some real deep shit. Sometimes I have cried more at wrestling than I have at some sappy movies, because sometimes that should hit you in a place you didn't even know it is so. Thank you for sharing.
+[1:22:56] Ian Lurie: John Cena has actually made me messed up. I will say that much I it.
+[1:23:12] Sango "Gump" Reed: Normally, I try to come up with some witty Sango ism right now, but I got none.
+[1:23:18] Rikterr Shep'ard: Rikter just reaches his hand out and says, I'm only going to ask this one time, can I have some soup? Yes, sir, he takes it, and it's not a cold day, but you can just see that he's he didn't want the soup to eat. He just wanted to hold it for the warmth and the comfort. So what should we do next? What about that wish thing we still have to figure out what the hell to do about that. And where is it?
+[1:24:08] Unknown Speaker(s): They have it.
+[1:24:10] Ian Lurie: Voda, the mayor, has it. Yeah, so
+[1:24:33] JP Sherman: I don't know that is, that is a hard question, and I never expected ever to be in a position to have the ability to influence what a wish would be like.
+[1:24:51] Rikterr Shep'ard: Do we ask if we can use it in our fight against Tia Matt? Because having something that can give us a wish could be a really good weapon, but we also saw that someone used it and It had a, shall we say, really bad effect.
+[1:25:22] JP Sherman: Yeah, yes, I think that. I think there are two interesting and parallel threads that that we need to top, that we need to figure out, is that we I think that, I think that we can be a better team. We can be better connected. It so that we don't so that, so that we don't drift to I think that if we use this wish we need to we're going to have the ability to bend reality to our request, but be really, really careful about how sharply we bend that reality to minimize the negative effects, because we saw like the mayor's wife died, using it, if it comes down to it, I Will 100% make that sacrifice, if that's what it takes,
+[1:27:04] Ian Lurie: you're not even sure she died. You're not sure what happened. You just know that she's gone. She's gone.
+[1:27:12] Unknown Speaker(s): But I bet you
+[1:27:18] JP Sherman: that if we don't, if we don't work together better as as a team, that no matter what wish we do, is going to have some sort of fracture point. So if we solve one thing, it probably saw the other thing. But if one of those things is broken, then the other thing is going to break too. I mean, that's just what I see in nature all the time without examples.
+[1:27:56] Rikterr Shep'ard: Well, let's go talk to the mayor and see what she can tell us while we're not getting attacked by merfolk and pirates. Yeah,
+[1:28:19] Ian Lurie: you guys head back up into Sorry. Go ahead.
+[1:28:21] Sango "Gump" Reed: Anybody else want any soup? This is a special breakfast soup I got going on today.
+[1:28:29] JP Sherman: I've had enough chowder in the past couple days. I'm good. Appreciate it.
+[1:28:33] Ian Lurie: He may never have fish soup again.
+[1:28:36] JP Sherman: Drag is like no, please. Okay?
+[1:28:44] Ian Lurie: You guys head back up into town. And actually there, when you get up there, there are actually tables set out in the middle of the town square. It's, you know, it's chilly today, but not as bad as it has been. And you can see they're putting together food for everybody in the town, kind of, you know, they're not trying to, like, recover from anything, right? It's, it's more that they're just being after this battle. Everyone feels a need to be together. They feel like there's a healing there's a healing nature, almost to that. So they are making this enormous feast. And if you ask anyone, they tell you that this is going to be people are going about their work all day. There's a great deal to be done, but they will be able to stop here and and feed and eat and drink when they need to. So this isn't like a specific like sit down feast. It's more just, it's a kind of a tradition for them that when something of great import has happened, the best way to restore a sense of community, or to shore it up, or to remind everyone that the community is there to help, is not to have a specific event, but instead to have everybody have a central place for people to gather as they need to while the work that needs to be done is being done. So they are going to be doing this all day. And if you want, you know there is food being set out now, if you would all like to eat there. And in fact, the mayor is there as well, and she has sat down on one of the tables and is chatting with people while she eats an early a late breakfast.
+[1:30:46] Sango "Gump" Reed: DM, know that Sango doesn't need to eat food. Does he still digest it? Is that? Am I gonna have any issues?
+[1:30:54] Ian Lurie: No, no, you don't. You don't physically need it, but you can. You can physically process it as normal. And, you know, emotionally, sometimes you still want food, right? It's just,
+[1:31:05] Sango "Gump" Reed: you know, yeah, just
+[1:31:06] Rikterr Shep'ard: think of it like Superman. He don't need to eat the earth food, but, you know, makes him feel like a man, yeah,
+[1:31:12] Ian Lurie: you know Superman
+[1:31:14] Sango "Gump" Reed: emotional support suit, yeah?
+[1:31:15] Ian Lurie: Superman, s, o, u, p,
+[1:31:17] Rikterr Shep'ard: damn it. Ian, it was right there for me.
+[1:31:21] Ian Lurie: You just lobbed that right over home plate, and after the whole silver pole incident, I sort of felt like I had to make up for it. So do you all sit down with actually vote emotions you over and she, when you do, you sit down with her. I mean, I should ask that. Okay? She looks at you all. She says, you know, I haven't had an opportunity to say thank you for everything you've done. We would not have, we might have survived, but we would not have won this battle the way that we did, if you had not been here to help us. And I just want to say you know that the town of Verdun owes you a debt. I do, however, have one more favor to ask of you. She takes out the astrolabe, and she sets it down on the table. And it is, you know, this beautiful platinum astrolabe. It's, you know, clearly, and Mossy, you in particular. You look at this thing, and it is one of the most beautiful pieces of engineering you've ever seen. Like this thing is built so flawlessly that it will work for hundreds of years, and has worked for hundreds of years because it is in perfect balance. The gears are perfectly ground a mere touch sets it spinning the way you want it to, and she says, as she sets this thing on the table, I after what happened to my life, this thing is painful to look upon for me, and while I know it has great power to protect us, I am no longer comfortable using it or having it here. I don't know what happened to all the brave men who came here on that great ship. I know that they were brought here out of time and then hopefully sent back at the whim of someone who said some words, and that same person has, as far as we can tell, been wiped from existence. This town is our hope for the future, not this device. I would ask that you take this find a better use for it, destroy it, do whatever it is that you see fit. But this is something that is beyond me and beyond anyone I know, and honestly, beyond the the artisans who created it in Craig McGough, I imagine
+[1:34:19] Sango "Gump" Reed: it's already halfway into Mossy bag.
+[1:34:26] Mossy: No, I'm looking around. Ian,
+[1:34:33] Sango "Gump" Reed: okay. I mean, it's valuable. I mean, worst case scenario, we could sell it for some platinum,
+[1:34:40] Mossy: right party. Ian, it also has the wish spell that we could potentially use just place TM on yada yada yada.
+[1:34:47] Sango "Gump" Reed: But, yeah, forgot about that.
+[1:34:50] JP Sherman: And before, before I jump in enthusiastically, what are the implicit like, I'd look at you, rikter, and we're like, what are the implications of this? This is something I am no familiarity with,
+[1:35:06] Rikterr Shep'ard: and I roll a religion or Arcana. Check DM to see if rikter knows anything about this.
+[1:35:12] Ian Lurie: Yeah, whichever you're better at, you're going to be the one who knows
+[1:35:20] Rikterr Shep'ard: dirty 20, okay,
+[1:35:24] Ian Lurie: you know what this magic is. You know that this is what is called a wish. You know that wishes? Do they change reality like they they actually, I mean, you can use them for more limited things, but when used the way they were used just now, or, you know, before this battle. They are changers of reality. They are actually rearranging the path of people through this universe and others. And because of that, because of that tremendous power, they are incredibly dangerous. And you don't know what Ian Buddha's wife said when she took out the astrolabe and used it, but you know from from your teaching and from your studies that these this magic is something you use with great care and only in the greatest need. It is not something that you use lightly or even, you know, you don't even use it in a matter of life and death. It has to be beyond that.
+[1:36:38] Rikterr Shep'ard: We're just going to look around and say, You remember when I had that call of the Raven Queen way back when? And someone basically told me it was a use it only in the most dire situation, situation, I was gonna say direct looks, helicopter fees like, no, it's just stimulated. This feels like that even more so I think we should take it, but it should be we're all about to die, then use it.
+[1:37:21] Ian Lurie: And Jamar above the table. Anything you know about wish, the wish spell, you rikter knows with that role, so,
+[1:37:28] Rikterr Shep'ard: oh well, that's great, because Jamar above the table. Don't know shit about oh, okay, yeah.
+[1:37:34] Ian Lurie: I mean the wish spell can the wish spell is basically a direct request to the universe that something happened. You are it is the most powerful piece of magic you can use, and it can be used to literally change the course of history. You know you could, in theory, say, I wish Tiamat were gone,
+[1:38:01] Unknown Speaker(s): were destroyed. You know, but
+[1:38:07] Ian Lurie: the more you rock the boat, the bigger the chance of the capsize. So, you know, it's, it's definitely, it is a, it's not even a two edge sword. It's a 500 edge chainsaw that is capable of doing some amazing things, like, for example, refashioning the chains that Hold team on place, just as one totally random example,
+[1:38:45] JP Sherman: I think you're right. Rikter, yeah, like, I don't have any plans for I was just like, I just, I gotta agree with you,
+[1:39:06] Ian Lurie: rikter, the really scary thing to you is that this town of you know, very intelligent and experienced orcs who were sent here to start a new community, you know, we're clearly the elite of the orc. The orc nation, nevertheless, were ill equipped to have this magic and how they were given it, or who gave it to them. I mean, you know, that seems incredibly reckless, and you know, you don't know what to make of that. Knowledge is just, it's, you know, someone put a nuclear weapon in the hands of an average person on the street, and just hope that with no understanding, you know, without telling them what it would do, just said, you know, when in danger, push red button.
+[1:39:55] Rikterr Shep'ard: Rikter's going to look at the mayor now. Do you know how this object came in to the hands of this town
+[1:40:04] Ian Lurie: when, when we left. I mean, I led the expedition that came here when we left. Craig McGough, the elders of the city gave this to us and said, this was made for us to use in times of great need. They showed us how to what to do, to activate it, and said, but only in times of the greatest need. They said, You know, it can be used thrice. It has been used once in the entire history of our people take that as a warning. And because of that, I never used it. I mean, I never, never touched it and really didn't plan to my wife did what she thought was right. I'm honestly I am sad, but I am thankful that that that was all that went wrong.
+[1:40:54] Rikterr Shep'ard: Party line. Is there any one of our allies that we could show this to that we could trust wouldn't try to take this out of our hands and put it somewhere like The Temple of hell.
+[1:41:20] Mossy: Animus would be the best garden.
+[1:41:31] JP Sherman: You know, the the some of the, I can't think of a single person in aber teen who wouldn't be tempted to use it for their own game, except maybe blonde.
+[1:41:54] Rikterr Shep'ard: This isn't true. I just want someone who can tell us more about this, but who then would not say, and I'll be putting this in better hands.
+[1:42:07] Unknown Speaker(s): That's a good point. I think this last
+[1:42:12] Mossy: time we tried better hands, there was a toasted mage that we thought was Fizz, bang.
+[1:42:18] Rikterr Shep'ard: That's yeah, another, yeah, another consideration. Well, then I guess this thing is like
+[1:42:30] JP Sherman: our burden to carry, yep,
+[1:42:35] Rikterr Shep'ard: hopefully it doesn't become our new gym of Sue. I
+[1:42:46] Ian Lurie: Well, someone added to the party inventory. Then it's called the astrolabe of three wishes. One charge left.
+[1:42:53] Sango "Gump" Reed: I think this music buck is my, is my
+[1:42:55] Rikterr Shep'ard: new one or two.
+[1:42:57] Unknown Speaker(s): One also
+[1:42:58] Rikterr Shep'ard: has been used twice.
+[1:42:59] Ian Lurie: Yeah, it was used once in once, many, many centuries ago. Then it was used once just a few days ago. So there's one charge left
+[1:43:17] Rikterr Shep'ard: Astro label who wear now. It's just
+[1:43:19] Ian Lurie: called the astrolabe of three wishes. It's not in DND beyond. It's just, you know, it's, it's basically a ring of three wishes. But I thought National League was cooler.
+[1:43:38] Sango "Gump" Reed: All right, so we take this off their hands. Do? Um, was there some? Was there a reason we came to this town
+[1:43:47] Unknown Speaker(s): to talk to rigor,
+[1:43:49] Sango "Gump" Reed: to regora, oh, because he's been to the nine at Avernus, yeah, and we already did that, and he gave us some information that I did, make notes if I remember that now, yeah.
+[1:44:00] Ian Lurie: Yeah, you got a map. He gave you a map. He told you about how time passes differently there. He told you basically that it's an awful, horrible, horrifying, fucking place. But he also gave you a badge of zariel, which you need if you're not going to get jumped by every devil in sight the moment you show up. And he told you a few ways to get there. He told you how he got there. You all have learned other ways to get there as well. Zerdahl, the head of the town militia, comes over to you all while you're all chatting, and says, Madam Mayor, I'm sorry, but I just wanted to pass since you're all here, we are considering putting some kind of barrier, erecting some kind of barrier at the mouth of the bay. This would be a large project, and I just wanted to get your permission before we start, because we will have to build some kind of chain, or something else that will let us block the mouth of the bay. So okay. Voter says, yes, that's fine, but we will have to see how much it's going to cost and how we will do it. And then he turns and walks away. Good idea. Well,
+[1:45:50] JP Sherman: well, I guess for us, I feel like I feel like we should stay until river room gets on his feet, and that will give us enough time to say our goodbyes, plan our next steps, because we have the the flyers like, like, do we track them down?
+[1:46:19] Sango "Gump" Reed: Do we kind of think that they're going to find us again, right?
+[1:46:27] JP Sherman: Did they originate some of our partners and come here and just mess with us?
+[1:46:33] Ian Lurie: Well, they're from Avernus. We're from the Nine Hells. They came from tiamatts lair. You know that?
+[1:46:40] Rikterr Shep'ard: Yeah? Would the curse and the symbols on us make us traceable to TMS, like, basically, essentially, any it's Jamar saying this, it's on site. Anytime she scries on us, she's sending something to whoop our ass.
+[1:47:01] Ian Lurie: Give me a religion check. And rikter, if you're thinking out loud, then drag and Sango, you can also give me religion checks Mossy Arcana, if you want
+[1:47:16] Speaker 1: 15, okay, nine, okay. 14, okay, 26 All right,
+[1:47:30] Ian Lurie: for Mossy, that, you know, it is our con and not religion. So Mossy for you, you know, I mean, there are magical ways to basically bug people, right, to make them traceable. Rikter, you think you have been marked, you have been literally branded by a demigod. And you think that, yes, that may create some kind of connection. You don't think she knows exactly where you are all the time, simply because you know your knowledge, as a tactician and an experienced battle leader, is if she knew where you were, she would have sent those guys to kill you in your sleep or do something else, and she hasn't done that yet, but it must make You easier to track.
+[1:48:14] Rikterr Shep'ard: Rikter tells everyone this, what
+[1:48:22] Sango "Gump" Reed: if? Wonder if we can get somebody who knows a bit of magic to identify the rings on our chest. I don't know if that's how that works, but maybe they can tell us more about it. I don't think we ever tried that direct. Did you ever have your nipples identified?
+[1:48:47] JP Sherman: I mean, more times than you can count. But I think these like, if I, if I'm describing them right, like they're like, are they rings like, there are the like embeddings in our chest.
+[1:49:05] Ian Lurie: They are, at first, they felt like they were basically burned into your chest, right when they first appeared. You had searing pain in your chest. Yeah. Now, since then, they seem to have become small, hard tattoos, almost. It's almost like there are bits of gravel or something embedded under your skin. But, you know, you can't dig them out.
+[1:49:32] Unknown Speaker(s): Okay? They're growths, basically. Yeah, okay.
+[1:49:55] JP Sherman: So, so I guess like we should probably, I
+[1:50:07] Unknown Speaker(s): sure. Laser, you know, yeah,
+[1:50:11] JP Sherman: should we make our leave from the from the from the table and let the mayor know thank you for everything like or a little like, do we need to take time to kind of do a team model,
+[1:50:29] Rikterr Shep'ard: the DM, the guy who came in asking about setting up the defenses. Did he leave leave the building we were in, or did he go back to his seat?
+[1:50:38] Ian Lurie: This is all outside, so he just he went back to wherever he was doing his work. You're not sure. Okay,
+[1:50:50] Sango "Gump" Reed: we're gonna stay here till the Ruger rim. Rutabaga, is he when he's back on his feet?
+[1:50:57] Rikterr Shep'ard: Yeah, yeah. I would have bet $5 you were gonna call him Rubik's Cube.
+[1:51:02] Unknown Speaker(s): I like rutabaga.
+[1:51:06] Ian Lurie: And actually, when you if you mentioned that in front of voda, she says, yes, regorum actually is awake and had requested that he that you come and see him before you leave,
+[1:51:21] Unknown Speaker(s): Of course, okay,
+[1:51:38] JP Sherman: yeah, I think for our safety, and honestly, for your communities, we should be leaving soon. We should wrap up some of our loose ends, because, if we like, we know that we have been marked and it's going to be easier for our enemies to find us if I were a evil petty queen,
+[1:52:10] Sango "Gump" Reed: Don't sell yourself short track that
+[1:52:16] JP Sherman: was objectively good. I um, I, I wouldn't go after them directly. I would go after the people that they've helped. And so the longer we stay here, the longer we paint a target on this Community thoughts.
+[1:52:58] Rikterr Shep'ard: If we yeah, we have to leave soon. I wanted to try and leave that gentleman some money to help with the setting up the defenses, just so we're not always here and always defending them so they can stand on their own, but so we're not leaving it worse than how we found it. You know,
+[1:53:23] JP Sherman: Jackson had pull out his bag, put his little visor on, pull out some my notes.
+[1:53:39] Sango "Gump" Reed: It's amazing. You got a spreadsheet on paper. It's
+[1:53:45] JP Sherman: pretty incredible. Okay?
+[1:54:01] Sango "Gump" Reed: I guess maybe Sango would like to just talk to them about their plans for defenses and things like that. Now that rikker's said this, and he is going to make some notes in his scrolls about what they're planning, and then at some future date, when, when, when we've got some of time available, he wants to get some supplies that they're going to help them bolster their defenses. It could be weapons, it could be, you know, armor, it could be rope, could be anything. I don't know, but he's going to go around and ask them what their plans are, and then make notes, and then send them a shipment at some point.
+[1:54:58] Ian Lurie: Oh, you mean, send them a shipment from Aventine. Yes,
+[1:55:02] Sango "Gump" Reed: got it, and it could be just a bunch of knick knack stuff that gets scrounged up, but things that he thinks that would help them along the way.
+[1:55:13] Ian Lurie: Well, I mean, the main thing they're going to need, you know, is a massive amount of Ian's. Yeah, yeah, it's not so much about that. That's that's a good you know, giving them gold is a good idea, but what they really need is raw materials.
+[1:55:33] Rikterr Shep'ard: Well, if we can drag, if we can start setting up your little supply distribution system. This could be a stop along that route where we set up an economy. We can help them and make them a part of the larger community, while also, you know, making you a little coin on the side, which I know daddy likes.
+[1:55:57] JP Sherman: Well, Daddy's, Daddy's always happy to make a little coin.
+[1:56:05] Unknown Speaker(s): I would say that, how about this?
+[1:56:16] JP Sherman: We can, we can set up. We can set trade network now that, now that they don't have as many problems with security, I think that the trade should probably, can probably flow a little bit better, and we can do a deal for like, raw material, raw materials at cost, and like, like, we would not charge our cut, our transportation cut,
+[1:56:52] Sango "Gump" Reed: yeah, if we help them turn this place into a stable hub, then trade will flow, yep.
+[1:57:00] JP Sherman: And that that investment, that investment, God, I sound like a politician, that investment security will Reed dividends.
+[1:57:10] Ian Lurie: So what's Greenland? This is going to be Greenland. I think
+[1:57:15] Sango "Gump" Reed: you put your stock broker visor on instead of the Accountable one.
+[1:57:18] JP Sherman: No, it just goes on this end. Does that end just
+[1:57:22] Ian Lurie: switches around. Also
+[1:57:25] JP Sherman: has Stein's on the side.
+[1:57:28] Rikterr Shep'ard: The Royal may owe us a favor too. So if we drop a hint that we have some friends in a far off location that could use some security help for a while, maybe she sends a couple people over to help as they're setting up, and we just make sure that this community is able to lift itself up, but isn't left to fin for itself in a way that it may not be able
+[1:57:51] JP Sherman: to, right and then so, so once the investment of the of the raw materials is done, then trade resumes at a normal at a normal pace, like I'm not, I'm not going to get go into the like profits and margins and shit like that.
+[1:58:10] Ian Lurie: But your DM, thanks here
+[1:58:15] Sango "Gump" Reed: to waste that visor
+[1:58:18] JP Sherman: now because of the sideways i i think, I think that is a that is a non shitty way to to help this organ, this this community, get A good a good foot. And, you know, without imperializing All of them.
+[1:58:51] Rikterr Shep'ard: Also, Sango, did we, oh, no, drag. Did we drop one of those trees anywhere nearby? Do you have any more of those seeds?
+[1:59:01] JP Sherman: I do have more of those seeds.
+[1:59:03] Rikterr Shep'ard: Is this a place that you feel is worthy of dropping the seed?
+[1:59:10] JP Sherman: You know what? God damn it.
+[1:59:14] Ian Lurie: I kept a stray face until James started laughing. Okay, I
+[1:59:17] JP Sherman: legit didn't hear what I was saying until
+[1:59:19] Sango "Gump" Reed: I know that's why it made it so funny.
+[1:59:26] JP Sherman: DM, I'm going to spend some time and meditate in this area, okay, and once, if they're willing, I am willing, but I also want to meditate in the area like because I don't want to plant a tree and then joint your their, right, don't have a bay now you have a tree. They, uh, what does it do? I don't know, yeah,
+[2:00:03] Ian Lurie: so you need to, do you want to do that before you talk to rugarm? Or do you want to go talk to regarm? And then
+[2:00:12] JP Sherman: I'll do, I'll do a quick meditation, quick meditation. And being like, if I were to drop a giant, a big ass tree, where would I drop this big ass tree? And two, is this a good place? Because, okay, this might be a JP thing or a drag thing or the same thing. But like, I try to strategically place these trees in areas that aren't too close but aren't too far. So like, I've got one in Aventine, and if I do the calculations of, like, Is this too too close or too far, or something like that, it's
+[2:00:51] Ian Lurie: a reasonable distance. Actually, the one that's on Nova zeros is much further away, yeah, but it's, you know, that's literally a flying city a bazillion miles from here.
+[2:01:03] JP Sherman: But and then we have the the dark one, where we planted on top of where we defeated Tiamat, yeah, yeah.
+[2:01:11] Ian Lurie: And that actually, actually, when I think about it, the distances are kind of they're sort of similar. I'm just looking at the map on my wall here. They're actually not that dissimilar. So these two would, these two would be much closer together.
+[2:01:30] JP Sherman: But, okay, yeah, basically, like, 5000 years from, from this point, I want people like, we don't know we. There's a symbol here, there's a meaning here, there's a pattern. And we, I don't know aliens.
+[2:01:44] Ian Lurie: Well, the other thing you know is that each tree looks completely different. Yes, so unless someone was really thinking about it like the one in Aventine is a massive tree, the one on Nova zeros is a completely different kind of tree, the one where Tiamat fell. Doesn't even totally look like a tree. I mean, it looks like a massive piece of bone. So who knows, you know? Yeah, who knows how they all look. Give me a religion check. Okay, basically, you are talking to calistra right now.
+[2:02:22] JP Sherman: Come on religion.
+[2:02:25] Unknown Speaker(s): That's an 18 Okay,
+[2:02:31] Ian Lurie: so you know, Callister doesn't talk to you in complete sentences. It's not like, it's not like Richter's connection to the Raven Queen, which is unique. It's much more sort of general impressions. And you get this feeling of sort of the feeling of warmth when someone you really don't like says something really insulting to you, turns across the street and falls flat on their face into a huge pile of horse done like that's the kind of happy feeling you're getting right now, which you know from calistra is perfect, like that. That's, that's what you want. That's calistrar's Happy Place is sort of violent shot in Florida. So, you know, she, she gives that to you. And you get the sense, okay, somewhere around here would be a good place to put it. You also get the sense it could be of service here. Like every place you planted one of these seeds, it has been of service. And you sort of feel like maybe it could be of service here as well. Okay.
+[2:03:36] JP Sherman: Rikter, mind if I go like y'all, y'all go take care of rigoro. If the mayor is give me the thumbs up on the plant, I'll go. I'll go cast that. I'll do the eight hour ritual. Okay, we got it all right. So Drax out.
+[2:03:58] Unknown Speaker(s): Okay, meditating.
+[2:04:02] Ian Lurie: Um, all right. So actually, do you guys mind if we do drag first? No, go ahead. So we're going to put this out of sync, but Drac you, you go and you do your eight hour ritual, and you end up planting the tree out on one of the two arms of land that forms the bay, and the eight hours goes very smoothly. There's no disturbances, nothing. In fact, you feel very connected to this place, like when you did the one by Tiamat, where Tiamat was that, you know that that was where you fought thargaraks. It's an unnatural place. It was a real struggle in Aventine, you know it was easier, but there was many distractions here. You felt more at one with the land here than anywhere else. And as you're planting, you picture all the things that have happened to you here. You know the battle under the water, the ships trying to get into the bay. And when you plant the seed and finish the ritual, there's this total silence. There's no rumbling, there's nothing. And for a moment, you're looking down where you put the seed, and you're thinking, This isn't right, because there's nothing coming out of the ground. And then you hear this kind of rumbling vibration, but it's coming from the bay, and you look out over the bluff, because you're up on this high cliff above the bay. You look down from there, and you see shooting across the bay is these thick, sinewy strands of some kind of seaweed that's growing straight across the bay, and in a matter of moments, and you see spray shooting up as if some it's as if it almost looks like there's a there's a porpoise swimming across the bay and doing these dives like this. And it arcs across the bay, and in a matter of, you know, 60 seconds or so, it is completely closed the mouth of the bay, and it forms sort of this vertical net that towers about 15 feet up from the surface of the water. But you know instinctively it also goes down, probably to the bottom, and you also know instinctively that there is a command that can be uttered to make this thing lower or raise, to prevent the passage of ships or creatures through the mouth of the bay.
+[2:06:30] Sango "Gump" Reed: And call that a safe word.
+[2:06:32] Ian Lurie: There's a yes, there's a safe word. But you realize that, you know, just as all of these other seeds have been served a purpose, this one too, serves a very specific purpose. Here. It is part of the landscape. It is part of nature here, but it will serve to protect the things that live in this bay. Fantastic. How many of these do you have left? I can't remember I have.
+[2:07:07] JP Sherman: I think I was given seven? Yeah, no, thank you. Were given
+[2:07:16] Ian Lurie: five or six. It's not that critical right now. I just, I'm just, yeah, I'll
+[2:07:20] JP Sherman: see we can find my notes. But I've got, I've got 1234, this is number four. Okay,
+[2:07:33] Ian Lurie: I think you have one or two more. Okay, I'm pretty sure
+[2:07:38] JP Sherman: I'll go back to the mayor and I'll let her know the command word.
+[2:07:44] Ian Lurie: She She kind of cocks her head and she says, You all are the most surprising group of people I have ever met. I am glad to have left my my home to come to this place, simply because of meeting you. That's a cool sweatshirt, by the way. Jamie, he, she, she says, Well, that's, we'll come back to that later. But she basically, again, says, you know, they owe you a great debt. It increases by you know, every time you do something here, the debt increases, so please, yeah, get the fuck out. No, she doesn't say that.
+[2:08:27] JP Sherman: Well, they don't have to do the chains anymore, I guess
+[2:08:31] Ian Lurie: that's right. They don't. They have something better than chains, because these won't rust. You're welcome, yeah, that's and that's what she means. She's like, Jesus, okay, you guys go to meet regorum. Regorum is, you get to his small house, and there's a ton of people coming and going from the house, not a ton. But there's like 10 people milling around outside. There's, there's several people. That are bringing in food. There's a the doctor's assistant who is sitting there with regorum. There's an elderly female orc sitting next to his bed who seems very solicitous of regorum. And regorum doesn't seem to know quite what to make of that. But she keeps trying to feed him and keeps asking him things. As you're walking up, he's lying there, saying, Can I can I change your bandage? You know, are you okay? And he says, Yes, woman, I'm fine, my God, but he sees you come in, and he sits up immediately, and you can see he's got bandages across his chest that are still a bit bloody, but he looks much better than he did yesterday. He looks, you know, he's a conscious, alert creature, as opposed to being, you know, nearly, nearly dead when you saw him yesterday, and he says, Ah, my friends, it is good to see you. I'm glad you had the time before you left.
+[2:10:05] Unknown Speaker(s): You are all well. I hope
+[2:10:10] Rikterr Shep'ard: we've we've been better, but things heal given time, things heal or given time you die.
+[2:10:24] Ian Lurie: That's very astute, spoken like servant of the Raven Queen.
+[2:10:31] Sango "Gump" Reed: Sometimes you get a little more time you come back to life too.
+[2:10:38] Rikterr Shep'ard: You see rikter Just muttered, Don't I know it, regardless.
+[2:10:42] Ian Lurie: Regroup. Says so I feel a bit foolish having been magicked away from the battle yesterday Ian, my younger years, that would not have that would not have happened to me, but fortunately, you showed up when you did the appearance, though, of those Abishai, you know, I didn't think that I remembered much of my trip to Avernus, and most of it's passed from my mind, But those Abishai, they tickled the back of my brain. There's something that I recalled, and so, and he lifts up this journal, and it's got all these ripped pages in it, and there's notes sticking out of it. And you can see there's what looks like, you know, there's some kind of red fingerprints on the cover, like, you know, someone grabbed it at some point who was either bloody or had red ink on their hands or something. And the woman who's sitting next to him, he tries to hand it to you, and he kind of winces, so she takes it, and she hands it over to you, and he kind of smiles at her. Says, thank you. And he says, Look at page 10. And on page 10, there's a note that reads, today we observed a separate battle above the desperate, roiling struggle of the plains. A detachment of powerful fiends sought to storm tiamats lair that itself was not unusual. We saw that happen a great deal during our visit here. But these creatures actually breached the upper gate, and when they did, the Dragon Queen herself rose from the ruin and even chained. She terrified us. She towered over them. She let out a great roar from each of her hideous heads, and everything within earshot was stricken with fear. Her assailants and the combatants nearest the mountain fared the worst. They've just fled shrieking, demons and devils who had been trying to tear each other tooth and claw, ignored each other and just tried to slither, run and fly away as fast as they could. It was as if the fight simply stopped and they all just started running. But some the strongest lieutenants of whatever demon Prince sent them, I suppose some of them remained. And I say this, and you realize now as you're reading this, this is not regorum Who wrote this. It just doesn't sound like him. I despise these malignant creatures even more than I do devils. But if I could have pitied any demon, it would have been these. They didn't stand a chance. Most were dead in moments, consumed by cold, poisoned fire, acid and lightning that came from each of those, each of the mighty heads of that dragon. Spells did not affect her, and weapons did little. Those she didn't destroy with her breath, she tore to pieces. It was over in moments. He says that was written by the wizard in our group while he still lived. And I brought this. I brought this out of out of amarnas with me, and lost most of it to time, but there are a couple of pages that are still legible. One was the map that I gave you, and another one was this,
+[2:14:14] Rikterr Shep'ard: do you have any more need of this book?
+[2:14:18] Ian Lurie: He says it needs to be used. That's the need that I have of it.
+[2:14:23] Rikterr Shep'ard: I know someone who would love to get their hands on this book.
+[2:14:31] Ian Lurie: He nods, please.
+[2:14:36] Unknown Speaker(s): I would. He says,
+[2:14:41] Ian Lurie: if you go to fight her, go with my prayers, because I cannot think of any opponent like her. She is not of this world. She's not even of this universe. She pre exists. She pre existed, it and the way she dealt with those demons,
+[2:15:14] Unknown Speaker(s): it was a it was something to behold.
+[2:15:21] Ian Lurie: But enough of that. He he looks at the woman who's standing, who's sitting right next to him now, and he says, Dear, would you be would you be lovely and bring me some tea? And he kind of pats her hand, and she just almost swoons on the spot, and says, Yes, of course. And she goes rushing out to get him, to get him some tea. And he says, I have a small favor to ask. The children are all heading back to school tomorrow morning. The teachers feel it's important that they get back to a routine. They would love to see you. They have all been here asking about you. Could you visit them in class before you leave tomorrow?
+[2:16:15] Unknown Speaker(s): All of us, yes,
+[2:16:19] Rikterr Shep'ard: I think. Let me talk to everyone and make sure that's okay, but I will try my best to make sure
+[2:16:27] Ian Lurie: that happens. I didn't want to ask while Grisha was here, she's the teacher, and she would be completely embarrassed, but I know the students have been asking,
+[2:16:37] Rikterr Shep'ard: Well, don't promise anything to the students, and if we can, it'll be a nice surprise for them.
+[2:16:45] Ian Lurie: Perfect. He holds out his hand. He says, Richter,
+[2:16:49] Unknown Speaker(s): it has been an honor,
+[2:16:52] Ian Lurie: and I am glad I got to wield an ax on the same field of battle as you
+[2:17:00] Rikterr Shep'ard: well, if it makes you feel any better, as you were running away, I was grabbed and dropped from on high. So both of us have done things on the battlefield that we haven't done before and hope to never do again.
+[2:17:14] Ian Lurie: Yeah, no, I did see some of that. It was very strange too. I was not afraid. I mean, I know what the spell was. I know what was done to me. I've never had it happen before. It was so it was like I was looking at myself. I just like I had to do this thing. It was very, a very strange compulsion.
+[2:17:34] Rikterr Shep'ard: Every time you think about that moment, I want you to remember all the faces of the kids in that classroom, and remember that that little bit of embarrassment was worth all of those lives. So don't let yourself ever get too down about it.
+[2:17:49] Ian Lurie: Oh, I am 80. I'm an 85 year old orc. I have had far more embarrassing moments than that.
+[2:17:57] Rikterr Shep'ard: Trust me. Rikter says, Okay, if we do this favor, I want one favor from you. Okay, if you get to the Raven Queen before I do, just tell her, get a comfy spot ready for me, because when I'm go, I want to be relaxed. I will let her know, and I will do the same for you, but I hope to see you down the road, both of us living, both of us relax, kicked up with a nice drink, and maybe watching Direct try and pour himself around to his embarrassment and our enjoyment,
+[2:18:42] Ian Lurie: he is a strange one, I have to tell you. I don't I can't quite get my head around him, like your friend Mossy. I mean, she is tabaxi, so that totally makes sense to me. Your friend Sango is almost never around, but drag he is. He is a very strange one.
+[2:19:07] Rikterr Shep'ard: I thought so too, and then I realized he might be the most sane of us all in a world where people fight and claw and scream and rage at each other, he's trying to have the most fun. And honestly, isn't that the best way to live through this crazy ass world? Like I've got these marks from the dragon on my chest and I'm scared as hell, but that man is just always smiling, and don't tell him I said this, but I envy the hell out of that.
+[2:19:55] Sango "Gump" Reed: And Ruger rim hears in his ear. I'm always around.
+[2:20:08] Ian Lurie: He jumps a little, but not too much, and he doesn't have a coronary, so you should feel good about that. He says, Why am I not surprised? Awesome. Okay, Mossy, what are you up to? Are you there with them, or are you off doing your own thing,
+[2:20:27] Mossy: hanging back and helping repair stuff more around I imagine got blown up.
+[2:20:33] Ian Lurie: Oh, there was much blowing up of shit. Yes, you're probably down on the wharf. You're probably helping with a lot of lifting equipment, because that's the kind of thing that you're good with. That's as far as that, you know. I mean, you could
+[2:20:50] Mossy: levers, yes,
+[2:20:51] Ian Lurie: you could just be helping, you know, put buildings back up. But, you know, they've got plenty of people to do that, so you and the blacksmith are working on repairing some of these, these pulleys and levers and gadgets that do what they do. Why don't you just give me a quick Intelligence plus proficiency bonus role?
+[2:21:25] Mossy: A 19,
+[2:21:26] Ian Lurie: okay, you do not lose any fingers. And in fact, you probably help people do some pretty cool shit that they weren't totally sure they were going to be able to make happen. So awesome, unless you guys have specific other things to do, actually, Mossy, you're down there helping work on stuff. When you see that that sheet of spray go shooting across the mouth of the bay as that seaweed kind of loops around and forms that barrier, and at first, everyone's kind of freaking out, like they're seriously worried that something awful is about to happen. And then you see drag walking back from the the top of the bluff and realize it must have had something to do with him.
+[2:22:16] Mossy: It's okay, everyone. I was just drag planting a seed. I it,
+[2:22:24] Ian Lurie: they all look at you blankly. But since you're not gonna
+[2:22:27] Mossy: be cool, just give it a minute. It's fine. Usually
+[2:22:32] Sango "Gump" Reed: it takes a couple minutes, so
+[2:22:40] Ian Lurie: unless there's other specific stuff, there's so many places I could take this, and I'm not going to, because I'm the DM and I'm not supposed to do shit like that.
+[2:22:51] Mossy: Who says I was pretty sure the whole thing was, like, you don't even need a rule book. If people are having fun, go with it. Yeah.
+[2:22:57] Ian Lurie: No, that's I don't Yeah. Okay, so unless you guys have other stuff to do, we'll fast forward to the next day. The Town does have, you know, they have a thriving agriculture so they can help restock the Ian's discontent, which actually you kind of low on fresh food stuffs, because you've been flying around a lot and not stopping for very long anywhere. So they spend the rest of that day helping you with that. You spend time, you know, helping with repairs and, you know, drag you spend the day planting your seed, and you're exhausted afterwards and need an app. So the next morning comes. Rikter, do you tell them all about going and seeing the students or so?
+[2:23:51] Rikterr Shep'ard: Yeah, just just asking hey. I made no promises, but the children wanted to see us, and they're back in school, and if their school is anything like mine, having a little injection of fun could really help them get through the day, no pressure. Of course, I
+[2:24:15] Mossy: haven't taught any kids how to start fire in a long time.
+[2:24:19] Sango "Gump" Reed: I can bring some with flowers. I hours.
+[2:24:23] Mossy: Didn't we start like a little rogue summer camp at the orphanage?
+[2:24:30] Ian Lurie: That's right. Yes, you did. Cregan is cursing you right now, guarantee you he is cursing you. Okay. You head over anyway. I'm sorry
+[2:24:44] JP Sherman: it would be anyway.
+[2:24:46] Ian Lurie: Well, yeah, that's true. Oh no.
+[2:24:47] Rikterr Shep'ard: In between cursing is God, of course,
+[2:24:53] Ian Lurie: you guys head over to the school, and the school is actually a cluster of small buildings the size of with the size of the town, the school has to be able to handle about 100 students at any given time. But most of the time, they are all together in a large open area in the middle of the school yard, and then they separate out into different rooms for different classes. And right now they're all out in that school yard, and you can see today, you know, you're not sure if this is what it's always like, but they're all doing different activities, where you've got younger orcs with older ones working on various lessons, but they're kind of just milling around having fun like you, either you're there at recess, or maybe this is a different kind of day, or you're not sure, but as soon as you walk in, a few of the students look up at you, and then they all look up at you. And the teacher who's there, and this is Grisha, this is the you recognize her as the woman who was with regorum. She seems to be sort of in charge. There's other teachers walking around, but she immediately comes over and says, Oh, I am so glad that you could make it. The students would love a chance to ask you some questions, and they've been through quite a bit. Obviously, they don't really understand what happened yesterday. Anything you could do to help them understand it without scaring them would be greatly appreciated, because I can tell them things, and they believe me, but you live this kind of thing, and as far as they're concerned, you go around praxia doing nothing but rescuing children from horrible demon sea creatures. So your opinion would probably be valued far more than my own. Would you mind answering a few questions for them.
+[2:27:05] Rikterr Shep'ard: Party line, you guys
+[2:27:10] JP Sherman: track just mounts from Sura
+[2:27:16] Sango "Gump" Reed: rikter, here is in his ear. I'm always ready and I'm here.
+[2:27:22] Mossy: Sura is really not that eloquent, but she can try. She doesn't pull tricks.
+[2:27:29] Rikterr Shep'ard: Yes, ma'am, we would be happy to answer your students questions.
+[2:27:35] Ian Lurie: Thank you so much. Thank you. She claps her hands. Says, Everybody gather and the students immediately all arrange themselves in sort of a semi circle around you, in a bunch of rows with the oldest kids in the back the youngest kids in the front, and they're all just kind of looking up at you. And Grisha says they basically they ask a whole bunch of questions of you, and you answer some of them part way through it all, one of the students, the teenager, actually raises a hand and asks, Do you think this will happen again?
+[2:28:17] Unknown Speaker(s): Are we safe? And all the
+[2:28:20] Ian Lurie: other kids around him get kind of serious and they look they look up at him wide eyed, and he writes He's the oldest one who
+[2:28:30] Rikterr Shep'ard: wants to take this question.
+[2:28:36] Sango "Gump" Reed: Sango. Sango, sort of old man limps his way forward, leaning on his staff, says, you know, son, the world is a big, wide place full of lots of good people, strong People, friendly people, and lots of not so nice people, and you have a chance your schoolmates do to become any of those people that you want, strong, fierce, brave, just like and I point out some of the villagers that I saw defending and by name, and it's so while it's never certain that something this, like this won't happen again. You have good people around to help you and help you become the good people so that someday when you're older, not not as, not as old as me, but older,
+[2:29:59] Ian Lurie: he kind of goes, yeah, without even, without even sort of thinking about it, in that typical teenage drive, a drive a spike through your heart kind of way continue. So when
+[2:30:10] Sango "Gump" Reed: you're older, you can be the person that can help your friends and your family, and you can teach the next generation of children that'll be here, sitting in here listening to you again.
+[2:30:26] Ian Lurie: Yes, so can I ask my parents for a sword?
+[2:30:31] Sango "Gump" Reed: Then you could ask,
+[2:30:33] Unknown Speaker(s): like, a starter sword?
+[2:30:35] Sango "Gump" Reed: Mossy is right, maybe ask for a starter sword first,
+[2:30:38] Mossy: like, get the wood ones, because then you can't cut yourself when you're figuring it out.
+[2:30:42] Sango "Gump" Reed: Great advice. Professor Mossy, and then Sango goes on to tell a story to the kids about these group of adventures that flying high in an airship, and another airship came along and was attacking them, and saw two brave adventurers run across the lines To the other ship to stop them from attacking us, I tell story about one of them face great amount of evil. It cost him his life, but the gods favored him to give him a second chance so that he could be here to help you all. And there was one about drag, nope. I can't tell you that one. There was no Nope. Can't tell you that one.
+[2:31:56] Unknown Speaker(s): He He's,
+[2:31:57] Sango "Gump" Reed: listen, he's pretty and he's really good with a bow, and you guys should learn how to use the bow as well. It tells a story about drag heroics with his bow. Grisha kind of goes, ask your parents first get a starter set. He pulls out a little a little, a little ball. He says it's someday you might be able to create one of these, like our friend Mossy did. And he sets off. This is going to freak the teachers out, but he sets off mossy's Disco bomb ball and lets it go.
+[2:32:57] Ian Lurie: Okay, Mossy, what does this ball do when he lets it go,
+[2:33:01] Mossy: it plays music and it has disco lights. It's a distraction, more than a bomb cool.
+[2:33:10] Ian Lurie: The kids were like, Whoa,
+[2:33:13] Sango "Gump" Reed: and Sango disappears.
+[2:33:18] Ian Lurie: They immediately forget all of the scary shit that's happened, at least for the next few minutes. They're just watching that like, that's cool. And even the teachers are kind of like, okay, that was that was good. And Grisha kind of turns towards you and leans over to everybody and says, Thank you.
+[2:33:35] Mossy: Slip the teacher disco ball. Hmm.
+[2:33:41] Ian Lurie: She takes it. She said, this is the same kind, right? It's not, yeah, okay, just checking. And with that, she shows you out as you walk by one of the classrooms, Mossy, give me, Mossy and Sango, both of you give me perception checks because you happen to be Sango. You're invisible, so you're just kind of wandering around Mossy. You're right next to the teacher, because you gave her the disco ball. 3020, okay. 26 Okay. You guys peek in one of the classrooms and what you see at first, you just glance in. You're like, oh yeah, that's cute. And then you keep going. Then you stop, and you look in again. And this must be one of the the little kids classrooms, because all of them have paper and charcoal on their desks, and they've all been drawing. And you know how little kids do drawings, right? You got little stick figures, and they've got like, three fingers, or two fingers and one enormous thumb. And so they all have those kinds of drawings. You think, Oh, how cute. And then you look at one of them, and you realize that whatever they drew has five heads and wings drawn a very kid doodly style. And then you look at another desk, and they've drawn a different version of the same thing. And you look at another desk and they've all drawn the same thing, and there's a word scrawled underneath, do either of you speak abyssal?
+[2:35:15] Mossy: The new version of Mossy does this? One doesn't?
+[2:35:19] Ian Lurie: Well, if the new version does that's fine, because you are the new version, so I
+[2:35:23] Mossy: haven't changed it over the character sheet yet. Okay,
+[2:35:26] Ian Lurie: okay, actually, you don't have to speak. You just have to read it. But nobody, okay,
+[2:35:35] Rikterr Shep'ard: Sango, if you have that whatever, don't you read it.
+[2:35:39] Sango "Gump" Reed: Just talking. And
+[2:35:47] Ian Lurie: then you look up at the chalkboard in that room, and again, drawn as if by a little kid. Is a similar five headed dragon with wings, but this one is standing in an enormous cavern. Again. It's all drawn like little kids drew it so it's you don't know why you can make this connection so easily, but you can. And you can see chains holding that dragon in place, and that same word scrawled underneath it.
+[2:36:20] Mossy: Notebook out, copying, drawing, writing, downward.
+[2:36:23] Ian Lurie: Okay, and with that, you leave the village of Verdun. I mean, unless you want to stay and practice an extra, you know, do an exorcism on all those kids or something.
+[2:36:34] Mossy: But think we would get detail on the class,
+[2:36:39] Ian Lurie: just it's the first through fourth grade class, or, sorry, the kindergarten through third grade class. So little kids,
+[2:36:50] Mossy: I'm assuming the teacher didn't give them a, you know?
+[2:36:53] Ian Lurie: Yeah, let's all draw TM at children. No, it was not a it was not a homework assignment. In fact, the teacher doesn't even recall those being drawn.
+[2:37:10] Mossy: Well, in that case, can we take them?
+[2:37:14] Ian Lurie: Ah, sure. I mean not the chalkboard, but you can
+[2:37:17] Mossy: take on the chalkboard, but the rest of them, more data. Yoink,
+[2:37:28] Ian Lurie: yeah, and later, you know, you've said your goodbyes. You're on the airship, you're flying away. And Mossy, you have a, you know, you have some kind of translation book or something that will let you figure out what that word is, and the word, which is written on every piece of paper, just says, soon,
+[2:37:54] Mossy: I think with that, we're gonna they fit together like a flip book. No?
+[2:37:58] Ian Lurie: Sorry, it's not an animation, yeah, if you flip it just gets bigger and bigger and bigger and bigger comes out of the page at you. I wish I had thought of that, but no, I think that's a good place to stop. Is everyone around January 5?
+[2:38:16] Mossy: No, I got this thing at the Capitol. Nice.
+[2:38:24] Ian Lurie: Okay, assuming no revolution between now and then. Go ahead, James,
+[2:38:29] Sango "Gump" Reed: yeah, I'm sorry. Okay,
+[2:38:31] Ian Lurie: cool. Yeah, I'm around. Then the the next game, I'm supposed to be in New York, and I won't be able to do anything. But okay, so let's assume we're gonna get back together on the fifth.
+[2:38:48] Unknown Speaker(s): Sounds good. Okay, cool.
+[2:38:51] Rikterr Shep'ard: Good night.

@@ -1,0 +1,727 @@
+# Ian's Meeting Notes
+# Otter recording 2025/10/13 17:10:46 (2h 35m) id ZUS4rDBxPCJAprj8e29u2weKHs8
+# https://otter.ai/u/ZUS4rDBxPCJAprj8e29u2weKHs8
+# Speaker-attributed transcript, verbatim. Raw source for the card at /items/otter/2025-10/2025-10-13-rbg.md
+
+[0:00:00] Doctah Mossy: Ian's you say can and will be used against you.
+[0:00:05] Ian Lurie (he/him): Hey guys, hey, I'll be I always love finding out about projects that I'm working on
+[0:00:21] Unknown Speaker(s): through a slide deck that's that's
+[0:00:24] Ian Lurie (he/him): happened to me several times in my career. My
+[0:00:28] Doctah Mossy: career was like, Oh, look, you're mentioned there. And I'm like, No, yeah, it turns out I am the expert technical resource. And I have two days to turn around a whole epic for it. I
+[0:00:46] Ian Lurie (he/him): was just gonna say plenty. You've got plenty of time. I mean, you know, it's not, you know, I all of Seattle has gone baseball crazy. It is a sport for which I have zero appreciation. I mean, I'll watch the occasional game, but more than 45 minutes and I'm going out of My skull.
+[0:01:42] Doctah Mossy: Mossy, I got Doctah Jed, we are ready.
+[0:02:10] Ian Lurie (he/him): Sorry, I'm just going through notes here.
+[0:02:13] Doctah Mossy: No, all good, all good. I told you all about the AI mandate that went out, right?
+[0:02:21] Ian Lurie (he/him): Yeah, that was amazing. And I by amazing, I mean awful, but
+[0:02:30] Doctah Mossy: very thankful for my boss, because the spiciness of that one on one, yep, do? I was
+[0:02:43] Ian Lurie (he/him): looking at stuff like that. I'm like, who wrote this? Who thought this was a good idea? Who thought this
+[0:02:51] Doctah Mossy: for the throat on it? It was like, yeah, that 30% metric is bullshit. Tell me where it comes from. Oh, anyway. Oh, it's FOMO, yeah.
+[0:03:01] Ian Lurie (he/him): Well, anyway, it doesn't even, it's just, yeah,
+[0:03:04] Levi Ransom: it's FOMO. There needs to be, like, a business version of that. It's, it's Pomo, okay, well, that's, that's better Ian's tofu.
+[0:03:19] Doctah Mossy: Think it's fucking stupid. But how do we make an acronym out
+[0:03:22] Ian Lurie (he/him): of that? Both of his fear of fucking up, right? So everybody jumps all over stuff because they don't want to be the ones who missed it, and if everyone else is jumping on it, of course you must, you know, it makes total sense. Heck, I'm just wrapping our
+[0:03:34] Doctah Mossy: marketing campaign is, if you don't, yes, Ian's, we'll leave you behind. This is the next, next world.
+[0:03:40] JP Sherman,Levi Ransom: If you don't make a new acronym out of it, that's
+[0:03:43] Unknown Speaker(s): what, that's what SEO is target. It's a bro
+[0:03:45] Levi Ransom: Ian's targeting. Listen, I don't know if you've guys heard about this thing that's happening these days. It's all the rage. It's, it's mobile optimization, change marketing. Oh, have
+[0:03:57] Doctah Mossy: you heard about voice optimization? Man, oh
+[0:03:59] Ian Lurie (he/him): my God, oh, my god. Do you I remember people giving, you guys
+[0:04:04] Doctah Mossy: are optimizing for the metaverse right now. Like, there's not even links, calm your tips. I
+[0:04:09] Ian Lurie (he/him): remember people doing entire presentations on how to how to appear in a voice result. Like, what do I have to do to make sure that I, you know I'm, I am, you know that I'm cited in a voice result. Now I will tell you all, because you're going to laugh at me, but tomorrow, I'm publishing a massive blog post on using AI to do content workflows, and everyone's going to be like, oh, there goes. Ian jumping on the bandwagon.
+[0:04:36] Levi Ransom: So it's a tool. It's a to Ian's. It's, it's not going to replace, like, legitimate marketing, like the kind that you have to understand customers and
+[0:04:50] Doctah Mossy: but rabies now lives on my desk. This is rabies the Furbies. This is how I explain the mechanics of chat.
+[0:04:58] Ian Lurie (he/him): JP, nice,
+[0:05:10] Unknown Speaker(s): you can't have any. But
+[0:05:12] Doctah Mossy: the bright side of all the chaos is my local dispo has a really nice live rosin gummy right now. So Whoo. I I
+[0:05:24] Ian Lurie (he/him): gotta admit, I thought about chomping on one right before the game, but I don't think that would somewhere around two hours in, I would just become completely incoherent.
+[0:05:35] Doctah Mossy: So Ian, yeah, my brain is really that's a full sentence. Messaging Jamar, I managed to not have to go to an on site this week in Atlanta. Hallelujah. But like all of my team is is down in Atlanta, and I'm getting texts about how fun that is,
+[0:06:11] Ian Lurie (he/him): if you like and if you like an on site or an off site or whatever they call it. Now, I guess it could be fun, but
+[0:06:16] Doctah Mossy: I'm not going to Atlanta right now. There is too much collaboration and too many loose lines on what makes someone arrestable? Yeah, I'm not even getting likeness rights from this bullshit. I don't care if you make me the devil, just give me my check. I
+[0:06:44] Ian Lurie (he/him): Hey, Jamar, so if you remember last time a couple things happened, we ended the night with the Albion suddenly appearing in the middle of the bay, outside of or west of Verdun, mid salvo. So for everyone who was on the Albion, you had just like Obadiah, you had just touched the slow match to the cannon. It was just discharging when the ship seemed to leap underneath you, and everything went completely dark. It felt like a solid 30 seconds of you just suspended in darkness. I don't
+[0:07:41] Doctah Mossy: think I made my concentration save then, because I was in the middle of the Hang on, sailor. But that's, oh,
+[0:07:50] Ian Lurie (he/him): that's it felt like that. But the time doesn't actually okay, it's how, it's just sort of how some of you sensed it. And then the next thing you know, the ship has ground to a halt on what most you can tell pretty quickly. It's a sandbar, just from having spent so much time on on sailing ships. It wasn't rocks. You didn't hit another ship. It was that kind of wet grinding when the ship just grinds to a halt and all the cannon discharged at the same time. You're just you're wreathed in smoke. You hear screaming all around you, and hear the sounds of bits of wreckage settling to the surface of the scene around you. So it's as if you know, it's the sound that you would normally hear if you scored a very lucky hit on an enemy vessel and it detonated right and you would then hear all the little pieces of wood as they kind of settle to the sea, which some of you have heard before, but doesn't have them very often. I so let's see who was above decks. We had Levi Josiah, and then Obadiah, you were right at the portal anyway. So you were, you would have seen everything. Jed your
+[0:09:20] Doctah Mossy: I was right at the top of the stairs, trying to keep the That's right,
+[0:09:23] Ian Lurie (he/him): that's right, yeah, so you're up there as well. And who are you keeping alive? I can't remember. Was
+[0:09:30] Doctah Mossy: it the captain? No,
+[0:09:32] Ian Lurie (he/him): no, it wasn't the captain. It was. It was the head of the Marines. That's right, okay.
+[0:09:38] Doctah Mossy: He was an important dude. I don't know.
+[0:09:40] Ian Lurie (he/him): Yeah, yeah. I might have been the bosons mate, yeah. I think it was, actually, it was Gideon. So you're working on Gideon, when this all happens, and when you come, when you sort of whatever happens, when the world resumes around you, you're still there. You're in exactly the same places as if no time has passed, you're still working on Gideon. You feel the ship jerk to a halt. I didn't
+[0:10:09] Doctah Mossy: like punch him in the trachea, trying to hold the wound. Yeah.
+[0:10:11] Ian Lurie (he/him): No, you don't. You don't punch him in the trachea. You know, you've worked under some pretty rough conditions, literally and figuratively. And the ship is kind of rocking side to side in a really weird motion, like, again, like it's stuck on something. You hear this crash as the mizzen mast, the rear mast, mast, falls slowly to the side on the ship, because the ship suddenly came to a stop, right? It was starting to fall now it just it settles towards the bow of the ship, and the smoke sort of slowly starts to drift away. And you're, everyone's kind of stunned. Your ears are ringing. You're just you're just trying to figure out what just happened. And the smoke starts to drift away, and you notice a few things right away. You're now on completely calm water, right? You were in the Mediterranean. There were waves, you know, it was three to 10 foot seas. It was, it was, you know, not beyond manageable, but it was pretty rough. Here it's, I mean, by comparison, it's almost glass. It's like you're clearly in some kind of protected harbor or Bay, but you don't even know that right now. You're just trying to think, well, maybe the explosion was so large that it calmed the seas around it, because that can happen. The light is different. Everything around you is lit a little bit greener than you're used to. So where you know, just everything just looks a little bit like it's through a green filter, and you don't really have the vocabulary for that or the point of reference, but just the light does look different. As the smoke clears away completely, or almost completely, you look around and all around you in the water are, is the wreckage of the wreckage of ships, but small ships, like not, not the same size as the Z Becks that you were fighting a few minutes ago. Which are, which were, you know, smaller than the Albion, but not that much smaller. Now it looks like you there's just the wreckage of dozens of small craft, right? Ships that could, you know, boats that could carry 10 people, 20 people. In fact, some of them are the size of long boats that the Albion carries as as lifeboats. You see people splashing around in the water, some of them really feebly. Some of them, you know, trying to cling to bits of wreckage. Some of them are just swimming, for sure, or in the other direction, you know, just swimming in random directions. There is some screaming from the people in the water. They they're clearly people have been badly wounded, and as near as you can tell, there are no ships left to float, except the Albion at this point. And let's see everybody roll me a D, give me a perception. Roll.
+[0:13:15] Doctah Mossy: Everybody. Are we sailors on
+[0:13:21] Levi Ransom: the scene. No as sailors.
+[0:13:23] Doctah Mossy: We're sailors on the moon. We carry a harpoon.
+[0:13:36] Levi Ransom: 4914, okay,
+[0:13:42] Ian Lurie (he/him): um, Obadiah, you look towards the shore, and you're kind of used to spotting things at a distance right, and ranging and making sure you know how to you know what it'll take for a cannon to hit. And you think about 100 yards. To starboard. There is what looks like a small town where you were in the open ocean before there was no land within sight. Actually, there was land within sight, but very distant. Now, you know you're maybe 100 yards from shore. You know you're right there, in terms of a ship this size, much closer than you would ever want to be to shore, unless it was done very intentionally. And you see figures running back and forth on the shore, you're not quite sure. And you see also some people that are just like that clearly fell over and are starting to get up. You see some damage to the shore, maybe, but the architecture is really unfamiliar, so it's kind of hard to tell this. This is just, this is all very different from what you're used to seeing. It just, it's very hard to place what's going on. The captain. So for a minute, everybody's just kind of stunned, and then everybody, no one, starts talking, but everyone starts kind of moving around, you know, going to damage control, doing all the things that they would normally be doing. And the captain calls out to you. Jed says, Dr Pritchard, here, Captain, you're you're bit of a naturalist. Am I correct?
+[0:15:31] Doctah Mossy: Am I still holding a neck closed?
+[0:15:34] Ian Lurie (he/him): I know we'll say you've got that bandaged up, and Gide Ian's being carried below by some of your assistant, then,
+[0:15:40] Doctah Mossy: yes, we'll come out and wipe my bloody hands on my butcher's smock that I'm wearing. How can I help? Captain,
+[0:15:52] Ian Lurie (he/him): you're a bit of a naturalist, right?
+[0:15:56] Doctah Mossy: Yes, sir. Does
+[0:15:58] Ian Lurie (he/him): any of this look familiar to you? I
+[0:16:04] Doctah Mossy: uh, do I make a roll? Well?
+[0:16:06] Ian Lurie (he/him): He gestures around. And you know what you see, what I described to Obadiah, although your eyes aren't quite as good as his, you know, you're in some kind of Bay. There's two arms, you know, two arms of rock, kind of projecting outwards and protecting, protecting the bay. That's what makes it into a bay. That's deport to starboard is this village or town or city? It's hard to tell, pretty built up, pretty elaborate structures, none of which look familiar to you at all. You look around and your eyes, you know, just your automatic, your first instinct when you're someplace is to look at the wildlife and see
+[0:16:51] Doctah Mossy: like an orc running off in the distance.
+[0:16:53] Ian Lurie (he/him): Well, it's too far. You can't make them out yet. Okay, okay, the true Madness has not begun yet. But you do look around, you're looking for seabirds and things. But given what just happened, there's not a whole lot of seabirds just flying around. You see a couple things that might be but I see
+[0:17:10] Doctah Mossy: land right there, and I see,
+[0:17:12] Ian Lurie (he/him): oh, yeah, no, there's a village. I mean, you see the town right there?
+[0:17:16] Doctah Mossy: Risk of sounding hysterical, Captain. This is not our ocean,
+[0:17:19] Ian Lurie (he/him): well. And the lighting, like I said before, the lighting is very weird. Like, actually, you're not sure if you're injured or what. In fact, you may even assume that you're injured. Kevin, I hate
+[0:17:33] Doctah Mossy: to ask, but does everything have a green, greenish glow to you right now?
+[0:17:39] Ian Lurie (he/him): Yes, I wasn't going to say that, but it does for you as well. So it's
+[0:17:42] Doctah Mossy: important to assess to make sure we don't have any traumatic brain injuries.
+[0:17:46] Ian Lurie (he/him): Well, if we do, we have the same ones. He says. So he says, well, things we control? What's the Butcher's Bill?
+[0:17:58] Doctah Mossy: Was able to stabilize Gide. Ian's gonna go take a sweep now, because I think people are gonna need my help. You'll pardon me, sir, yes,
+[0:18:07] Ian Lurie (he/him): of course, Levi, you were kind of wrapped up in the mizzen when it came down, and you're you, when everything jerks to a halt like that. The mizzen kind of almost it doesn't it never pinned you down, but it kind of slides away from you. And you're looking around now, and you're seeing what I've described to everyone else, including the slightly greenish coloring you see. You see Josiah across the way. He's very quickly reloading his his rifle. And Josiah, you're kind of looking for other things to shoot.
+[0:18:58] Speaker 1: I'm sorry, Josiah was he failed the dex roll and is smashed under a mast.
+[0:19:05] Ian Lurie (he/him): That's right, you see Josiah nearby, smashed under a mast, still reaching for his rifle, as if he's looking for things to shoot at. Because, you know, that's Josiah.
+[0:19:17] Levi Ransom: What sort of role do I need to make to see if I like Josiah or not.
+[0:19:22] Ian Lurie (he/him): We'll assume that, since you're all on the same crew, if you didn't like each other at this point, someone would have gone overboard. Okay, 400 of you in very little space, everyone, at least supports everyone else at this point. And Obadiah, you're actually looking out and you see Josiah, I'm gonna assume the four of you sort of know each other better than you know better than average on the crew, just for the sake of all of our sanity, but especially your DM sanity. You You look out the portal and you see the very familiar boot and arm and part of the head of Josiah, kind of hanging part way off the ship. He's sort of flailing around a little, and you see his rifle moving around. Josiah, the mast has kind of pinned you up against the gunnel, and you're hanging out through the scupper, which is those huge, these huge, almost sort of portals, but on the top deck of the ship, so water can flow out. So you're lying there in the scupper with blood and sea water and everything, kind of flowing past you off the deck of the ship as the ship rocks side to side. And you can sort of look down, and you see Obadiah right there. You see the mouth of reason, and then you see Obadiah right behind it, looking at you. And Levi. You see the other side. You see josiah's Other arm and leg and the other half of his head just above the scupper, kind of hanging part way off the ship.
+[0:20:53] Levi Ransom: Okay, I ran over to him, grab a part of his body to keep him from falling off the ship, maybe bring him back in a little bit. Yeah, hey, Josiah, you got, you got any money in your pocket? We might need some help. And I don't want you to go over coins hard to come by these days,
+[0:21:11] Unknown Speaker(s): Ian's negative 15 hit points. Yeah,
+[0:21:13] Ian Lurie (he/him): he's helped. Yeah, he's out. So if I kind of flopping around, so what
+[0:21:18] Levi Ransom: kind of sleight of hand check do I need to make to Check his pockets.
+[0:21:21] Ian Lurie (he/him): Then, you know what? Just give me a well, you really got a
+[0:21:24] Doctah Mossy: gold earring to pay for his funeral costs. You don't
+[0:21:27] Ian Lurie (he/him): really need to make a slight a hand check.
+[0:21:29] Levi Ransom: I'm just kidding. I'm gonna, I'm gonna bring him back on.
+[0:21:32] Ian Lurie (he/him): Sherman, you pull him back on board. He's clearly taken a pretty bad shot.
+[0:21:40] Levi Ransom: Doctah, I need some help, doc
+[0:21:46] Doctah Mossy: I imagine I hear and
+[0:21:47] Unknown Speaker(s): yes, you do on
+[0:21:50] Doctah Mossy: over and I will help. He's he's out. So I gotta do the full hang on sailor.
+[0:21:56] Ian Lurie (he/him): Yeah, you need to do a hang on sailor.
+[0:22:00] Unknown Speaker(s): Or yeah, no, that's really, that's really it,
+[0:22:09] Doctah Mossy: yeah, Ian's like, you almost got bifurcated. So I don't think field dressing is
+[0:22:12] Ian Lurie (he/him): gonna Yeah, no, and there's, there's another Yeah. There's no role to make you just need to spend four rounds, which is easy here, because there's no battle gun. I
+[0:22:20] Doctah Mossy: will slap him and go, hang on, sailor, and that's my next forearm.
+[0:22:23] Ian Lurie (he/him): He actually you have to put a tourniquet on his leg, because I take
+[0:22:30] Levi Ransom: off my Ascot and hand it to Doctah,
+[0:22:34] Doctah Mossy: piece of broken ship mast, and crank it on up.
+[0:22:37] Ian Lurie (he/him): Yep, yep. And the his femoral artery is no longer spurting blood everywhere. He took a really bad wound to his right thigh. It's hard to tell exactly from what it might have been from, you know, a spear, it might have been a splinter, hard to know for sure whatever it is. It was bad. And then it was compounded by the fact that, yes, you know, the mizzen then rolled over him, basically. So, Josiah, Josiah, you are now at zero. Actually, you're at one, I guess. Okay, so he's at one one hit point now. So he's kind of feebly, waving around trying to figure out what the hell's going on. You can get him below golden,
+[0:23:29] Doctah Mossy: I'm sorry, doing CPR to Kpop Demon Hunters golden.
+[0:23:33] Ian Lurie (he/him): I need to, I still haven't seen that show. It's so good. Oh, my God, okay, I need to check it out. Um, you you're not. Sailors don't always come back from this kind of injury, like keeping them from dying from the injury is pretty doable, but infection, treatment, nutrition, you know, keeping gangrene from setting, and those are all incredibly difficult to do,
+[0:24:06] Doctah Mossy: his ass is the only thing saving morale on this ship. I'm going,
+[0:24:08] Obadiah Carter/Rikterr Shep'ard: okay, all right,
+[0:24:14] Ian Lurie (he/him): probably wait for JP to come back, but in the meantime, Obadiah, your view is getting clearer now. And you're looking out at the shore, and you're looking and you just think, there's something weird about a lot of the people on the shore. You're not sure what. And then you're looking in the water, and Levi, you are too. See some of the people swimming around, you're like, there is something really weird about those people, and it's not some of them, and it's not so much. It's things you can't quite put your finger on. You don't quite trust your judgment and your vision at this point, because weird shit happens in battle, you know. So you know that your eyes get messed up. You're you're hearing Obadiah, you know. You know. You're pretty much in a state of concussion from the beginning of a battle until the end. But there is something, something strange in even all this, the wreckage of all the sailboats doesn't look quite right. It just doesn't quite look like what you'd expect. And then Levi and Obadiah both, you give me perception roles with disadvantage?
+[0:25:24] Levi Ransom: Are there? Are there? That's a 12. I'm also looking to see if any of our sailors landed up in the water.
+[0:25:38] Ian Lurie (he/him): Give me another Perception check disadvantage? No, this one's regular, 10, okay. JP, you're at one, yes, a six, okay, yeah. Now you guys don't really notice anything else, just it's just weird. The lighting is weird, you know, all the same stuff I've been describing. You don't see any crew members in the water, and no one was particularly close to the railing at the when everything happened, because you were repelling boarders, you weren't boarding. So there was nobody, you know, kind of leaping from one ship to the other. There's also no wind right now, which is just as well, because you're sort of, you're going by feel now, Levi, you especially, and you are certain the ship is aground. It's been caught up on something you're not sure what. And there's
+[0:26:39] Levi Ransom: still two mast that are up. There's
+[0:26:40] Ian Lurie (he/him): still two, yeah, the main mast and then the fore mast, I think is what it's called.
+[0:26:46] Levi Ransom: I'm gonna climb the main mast and get a better look.
+[0:26:50] Ian Lurie (he/him): Okay, so you climb all the way up the the main mast, and you're looking out. Nothing looks familiar. Nothing makes sense. You're starting to get a little bit in fact, you need to give me a wisdom, save that's a 10, okay, you're feeling a little panicky now, because this is real. I mean, there is nothing right about this. So you're looking off into the distance. You see this town that's on sort of three levels. There's this wharf area right on the water. There's sort of a mid area that seems to be lots of buildings and things like that. And then there's a higher area with more buildings. None of the architecture makes any sense to you whatsoever. You've never seen anything like any of this. Now, you'd never been to Europe, you've never been to places like that. So it could be you're just someplace really different. But none of this adds up, and none of it was there a few minutes ago. Even more, something that has you questioning whether you have taken a really bad knock on the head is as as you look into the distance, you see, and it's hard to tell the size, but what appears to be another vessel hovering above the town, which just doesn't, it's not something you've ever seen before. You've definitely and it's really, it's it's small, it's like a little speck. So you know it's a few 100 yards off. But you know you've never, certainly you don't. No one has told you of any instances where they have seen things that look like ships flying in the air, except when you know a ship has been snatched up by supernatural forces and was never seen again. And you have heard stories like that. Obadiah has told you stories like that. So has Silas Barrett. In fact, Silas Barrett has told you many stories like this, of genies and sea monsters and things that fly through the air and and grab ships and then drop them in other places. And then you look back down at the the wharf, and you see all these people down there, and you realize that some of those people are really weird, looking like they do not look anything like some of them. You're not sure where you are, but this is not the Mediterranean anymore. Yes, right? Josiah is like witchcraft.
+[0:29:38] Levi Ransom: Hey, Captain, we might have found some sea monsters or something I don't
+[0:29:41] Ian Lurie (he/him): know, actually, right about then you hear from the captain Levi report, and then you can call down, what do you see?
+[0:29:51] Levi Ransom: Crazy ass sea monsters? I don't know. And I'm gonna, I'm gonna put my hands on my head and see if there's a bump at all,
+[0:30:03] Ian Lurie (he/him): nothing more than usual. He says a moment. And actually, the captain comes climbing up the shrouds, which is, you know, happens sometimes, but not that often. He gets up there, and he has a telescope, and he takes it out, and he starts looking around. He pales a little bit. His mouth gets set and a really hard line, he says, All right, let's get back down. We're going to have to go inshore and see what we can see, what we can see, and I need a full damages assessment. Can you what have you seen of the rigging so far? And you know, it's what I've described.
+[0:30:44] Levi Ransom: Yeah, it's, it's a mast captain. But before we go down, are you seeing over there? What I'm seeing over there might describe what I'm seeing.
+[0:30:54] Ian Lurie (he/him): Think it's best not to comment, but I am seeing some things that are strange. Yes, absolutely.
+[0:30:59] Levi Ransom: Okay, all right, I'll check the rest of the rigging.
+[0:31:04] Ian Lurie (he/him): So, yeah, you find the rigging is a mess. But the truth is, I mean, it's not the worst thing, the worst you've ever seen. I mean, the the Albion has repaired far worse damage than this on its own at sea, including re stepping a mast and putting everything back together. So the ship's actually not in terrible shape from where you are, and Obadiah, same is true for you. You know the ship. You know it looks like you've been in a really tough battle, but the ship is still intact. And you're not sure how that is, because if you had received those two bracketing broadsides that should have badly damaged, if not crippled, the ship. The Captain has a meeting with the midshipmen, and none of you guys are midshipmen, so you wouldn't have you wouldn't necessarily hear this, and then comes back and says, Well, he calls a big chunk of the crew together, and you guys are part of that group. Josiah, you're not there, obviously, but you can just sort of hear this secondhand. He says, Altman, I am not sure we've been in a battle. I can tell you the things that I know we've been in a battle. We fought well. We quitted ourselves quite well against the Z backs. You all fought admirably. See somewhere during that battle, something befell us, whether it was a storm or an explosion, I do not know, and we now find ourselves in a very different location, and I don't know exactly how it is that that happened. I don't know where we are yet, but we're going to find out. So he just points out a few people, and says, we're going to go inshore and check things out I need, let's see, I'm going to need two Marines. And he points out a couple of people, Mr. Ransom due to come along. Dr Pritchard, I will need you. And then Obadiah, I need you and your knowledge of weapons and gunnery to figure out where we are.
+[0:33:37] Levi Ransom: Check my pistol, make sure it's loaded. I
+[0:33:47] Ian Lurie (he/him): Josiah, you're, you're still, you're going to be in sick bay. You're about two courts low, so you're kind of healing things up. Somebody
+[0:33:55] Levi Ransom: get that man a red shirt Exactly.
+[0:33:58] Ian Lurie (he/him): Jed, your, your, your assistants are taking care of him.
+[0:34:02] Doctah Mossy: I got, I got the one with the least syphilis to be a blood bag for you, so you should be fine.
+[0:34:07] Ian Lurie (he/him): They weren't doing transfusions at this point. But yeah, the one with the least syphilis falling off onto him. Yes, someone who washed their hands in the last two weeks, let's say that. Um, you guys lower one of the surviving longboats into the water, and it's you and some Marines. Also, the coxswain is there and steering the ship inshore. And you're paddling, you know, you're rowing through all this wreckage, and you see some of the the bodies and the survivors still swimming around. You know, get climbing onto wreckage, doing whatever, and swimming in the water just as you put the just as you lower the long boat in, you see swimming nearby, a figure who immediately starts swimming towards you, and the captain says, Let's help them out of the water. Are you
+[0:35:22] Doctah Mossy: injured? I'm a doctor.
+[0:35:24] Ian Lurie (he/him): You know that? You know, typically, you would fish wounded out of the water from any ship. So you but at this point, everyone's so stunned. You're just all trying to figure out what the hell is going on. But this person you bring up out of the water.
+[0:35:42] Levi Ransom: I pulled my bling pen behind my back, just in case I need to put them over the head. Good thinking.
+[0:35:49] Ian Lurie (he/him): This is this looks like a person, like you guys, but they're probably six feet tall, which is far taller than your average height. Incredibly strong looking, but pretty badly wounded, actually, no, not. Pretty badly wounded, very banged up, clearly ended up in the water, not totally sure what's going on. Just sits in the bottom of the shit and the bottom of the long boat, just gasping for a few minutes, no weapons on them, you know, only, only pants, no no shirt, no armor, no nothing. Just kind of sits and also very pale skin, kind of sits in the sits in the bottom of the boat, just gasping for breath.
+[0:36:57] Doctah Mossy: Are you okay, man? Do you forgive me. Do you normally look like this?
+[0:37:07] Ian Lurie (he/him): He looks up at you and says, Who are you people, and where did you come from?
+[0:37:24] Doctah Mossy: We're not quite sure of that yet, and we'll figure it out all together. But right now, are you okay? Do you need medical? Wounds tended?
+[0:37:33] Ian Lurie (he/him): My all my friends are dead, and my boat was blown out from under me. But other than that, yes, I'm just great.
+[0:37:42] Doctah Mossy: Okay, excellent, we'll get you to shore. Keep the hysterics to a minimum.
+[0:37:46] Ian Lurie (he/him): He says, No, I can't go on shore.
+[0:37:52] Unknown Speaker(s): Why is that? They'll
+[0:37:53] Ian Lurie (he/him): kill me if I go on shore. Who is they?
+[0:38:00] Doctah Mossy: Everybody? Are you saying that there was a pre existing conflict in these waters before all of this?
+[0:38:11] Ian Lurie (he/him): He looks at you and he just stops talking, and he has that look of, I'm going to stop talking now, because I think I've already said too much kind of stopped talking.
+[0:38:24] Doctah Mossy: I slap him no hysterical silence.
+[0:38:31] Levi Ransom: I pull out my club. Listen buddy, you better. You better ask answer jed's questions.
+[0:38:42] Doctah Mossy: We need to help people who are hurt, and if I know there's a conflict, we can avoid getting shot ourselves.
+[0:38:47] Ian Lurie (he/him): Give me an intimidation check. Levi with disadvantage, because you weigh like 100 pounds, soaking wet. I gotta
+[0:38:56] Doctah Mossy: Ian's bloody as fucking asking this though, can that level? It out that's
+[0:39:00] Levi Ransom: a nine. Nine.
+[0:39:03] Ian Lurie (he/him): Yeah, he just looks at you.
+[0:39:07] Levi Ransom: Can I get advantage if I crack him once?
+[0:39:14] Ian Lurie (he/him): If you crack him one, describe this cracking of one that you're about to you're about to do.
+[0:39:22] Doctah Mossy: It's like with pistachios,
+[0:39:30] Levi Ransom: yeah, and it's, it's not pretty.
+[0:39:32] Ian Lurie (he/him): You hit him with a blank pen. Is that what we're saying here? Yep. Okay, give me an attack and then roll me down.
+[0:39:42] Doctah Mossy: I imagine Levi standing behind the Doctah. So the doctor does not see this coming.
+[0:39:49] Levi Ransom: That's a 15 to hit.
+[0:39:50] Ian Lurie (he/him): You hit. He's just sitting there.
+[0:39:54] Levi Ransom: This is non lethal, by the way. That's three damage
+[0:40:00] Ian Lurie (he/him): plus four. I know you're right, just three, yes. Okay, you hit him. It's a good shot, like he's he is rocked back. But it's interesting, because you know that most people, if you hit them like that, they die. There'd be blood, and they'd be freaked out. He just kind of looks startled and glares at you. Give me another intimidation check.
+[0:40:26] Levi Ransom: Do I get advantage this time?
+[0:40:28] Ian Lurie (he/him): No, but you know, I'm disadvantage eight. He looks at you and he says, I'll admit you hit harder than I would have expected.
+[0:40:44] Levi Ransom: For captain. I think this one needs to go back overboard.
+[0:40:48] Ian Lurie (he/him): The captain, actually, right about now, has been reaching out towards you, saying, Mr. Ransom, that's quite enough. You got a captain, and the ship continues to row in shore. The figure in the bottom of the boat says, Those people on shore are my enemies. If they see me, they will kill me.
+[0:41:15] Doctah Mossy: You're rather important in the face of a mast disaster, sir, either shut your mouth or give us something useful, Daffy, but dame,
+[0:41:23] Ian Lurie (he/him): he just sits. I'll be right back. Guys. I will tell you that you're about two minutes from being on shore, and things are looking stranger and stranger. So you might want to talk amongst yourselves about exactly what you want to do. The Captain has a plan, but I will let you guys kind of lead the captain will, you know, he'll be off conversing, but you guys should be ready to do something when you get off the boat.
+[0:41:51] Levi Ransom: I can hit him again. I can I can hit him again. I can hit him harder. Next time,
+[0:41:56] Speaker 1: track is sitting at an overwatch position, position, using the party line. But y'all, it's a mess over here, semen everywhere.
+[0:42:08] Levi Ransom: Thing go, guys, I thought I saw a coxswain too.
+[0:42:14] Obadiah Carter/Rikterr Shep'ard: I was proud that Ian said Cox, and none of us did anything. We just let that pitch go by. And I was like, look at that. That's gross.
+[0:42:27] Speaker 1: Because we're mature. We've matured over this over this experience
+[0:42:32] Obadiah Carter/Rikterr Shep'ard: also, okay, I don't know a lot about this time, but wouldn't a crew be deferential in this moment to let the captain lead in any negotiations with strangers. I
+[0:42:43] Doctah Mossy: mean, probably, but captain's not a speaking role right now, so the Doctah,
+[0:42:49] Levi Ransom: I think none of us picked the captain, so
+[0:42:53] Doctah Mossy: nobody wanted that responsibility.
+[0:42:55] Obadiah Carter/Rikterr Shep'ard: Well, I'm sure I'm trying. I'm trying to make sure that I'm role playing it correctly. And not just like taking what we would do as RBG and just putting it over these people because they're different, but also, like,
+[0:43:14] Speaker 1: I'm just trying to play it within 10 believability believability units.
+[0:43:21] Doctah Mossy: Oh, this doctor got to start by digging up the neighbors. I don't know what you want from me.
+[0:43:27] Levi Ransom: I How was I gonna say?
+[0:43:33] Doctah Mossy: Also, I have no charisma. So yeah,
+[0:43:37] Ian Lurie (he/him): so
+[0:43:38] Levi Ransom: I appreciate how this, this guy speaks English.
+[0:43:42] Unknown Speaker(s): Well, that's just hold on
+[0:43:50] Ian Lurie (he/him): your DM, had you covered? All right, I've thought this through as the ship, as the Longboat gets closer and closer to shore, you the some of the other men on the long boat start kind of talking to each other, and the captain finally says, All right, no chatter, no weapons, No weapons out. Assume we are visiting a new land, and we are not here to start a fight. Before that, though, a couple of the guys were saying, a couple of the crewmen were saying, I heard story. I've heard tell of parts of Africa, where there's people like this, or maybe India, could we be maybe off the Antarctic? Because I've heard of some pretty I've heard bizarre creatures there, you know, things that walk on land and have the have tusks like a walrus, but, but they're they walk on two legs, and they speak and strange tongues. And then a couple of the other ones are like, maybe we got, you know, maybe it's genies. You get all this random, weird shit. Go ahead, Jamar, you look like you're gonna say something I was
+[0:45:12] Obadiah Carter/Rikterr Shep'ard: gonna say. Obadiah just looks at that first guy, just side eyes and like, just looks his hand just goes not yet.
+[0:45:26] Ian Lurie (he/him): Another one says, maybe near Drake's passage. I don't know. You know, I heard someone sailed through a cloud in Drake's passage and ended up in a totally different place. And that's when the captain says, All right, that's enough. No weapons. But as you pull on shore, you see
+[0:45:44] Levi Ransom: Captain, these people don't look like us. They not like us.
+[0:45:50] Ian Lurie (he/him): They not like us. Yeah, yeah, okay. It's gonna be a long night. I can tell
+[0:45:56] Doctah Mossy: you love us.
+[0:45:58] Ian Lurie (he/him): I do. It's true. It's true. You see onshore, first of all, we'll start with the architecture. The buildings here are incredibly intricate, very not ornate, but very elaborate, very pointed roofs, really fine stone and woodwork by your standards. None of the kind of really blocky, flat roofed kind of stuff that you would see, you know, on like haste, none of the hastily built structures that you know some of you grew up in, or you know that some of you built after the revolution, just as a place to live or whatever this is. This is a city. I mean, this is a proper city by your standards. The the wharf is all stone, which is very unusual. That's not something you see very often. The stones Jed and Obadiah, you two in particular look, and you immediately see these stones are fitted, like, flawlessly, like, it's hard to describe how perfectly built this Wharf is. Jed, you're looking at it just from the point of view of architecture, as you have traveled all over the world. Obadiah, you're looking at it just from a construction standpoint, because, you know, you're also a carpenter's mate on the ship. So you know how this stuff is put together. Levi, you are looking at the people on shore, and they are literally all different shapes and sizes. There are people who
+[0:47:35] Doctah Mossy: new forms of racism about
+[0:47:37] Ian Lurie (he/him): to come out. Oh, this is going to be so interesting, so interesting. There are, you see a couple of people who you think might be at most four feet tall, but are incredibly muscular. They might be two feet wide. They almost look like walking cannonballs. It's hard, it's hard to describe them. Otherwise you see some people that look like, you know, for want of a better word, humans, the kinds of people that you spend, you know, a lot of your days with, but they are a much wider range of builds and heights. There are some who are clearly well over six feet tall. There are some who are your size. There are some who are smaller. And then you'd see some people who are so thin it looks like they shouldn't be able to stand up. They're six foot five, you know, six foot two to six foot five. Very, very thin, very pale skinned, and a couple of them have their hair short, and you see that their ears are they come to some kind of strange point. And then the last group you see is, and this is most of the people on shore. Is a heavily armed group, and they're wearing what looks like incredibly elaborate armor made of maybe leather, and some of them even armor made of metal like you would have expected to have seen, you know, in the middle ages or in history books, these people Are, none of them are shorter than six feet. They go anywhere from extremely fine featured to very kind of rough hewn, you know, blocky featured. They are all even with the weird greenish lighting here, their skin is tinged a bit greener than everybody else, and they all have differing degrees of either large canines or something else that project below their lips and above their lips, and they look angry Like you don't have to know much. It doesn't require a degree in diplomacy to understand that these people are not happy. And there is a woman also with the greener skin and the larger canines in front of them all. You all can tell almost immediately she's in charge, and the long boat pulls up to the wharf, the Marines have their muskets and their rifles, but they do not, you know, they follow Captain Cooper's orders, they do not start pointing them at people. The captain steps off the long boat, but everybody else, and then the Marines and the rest of you, He motions to you to stay on the boat for now. Okay, so switching back to RBG, hmm. There's this massive explosion. You guys are thrown to the ground. You have never heard a sound like this. You've heard louder explosions. You've heard, you know, louder noises. You've never heard a sound like this, because it was this massive Concussive Blast, and then splintering of wood like you haven't really heard, you know, you've heard a fireball, right, which is a massive blast. You've heard lightning bolts and disintegrations and things like that. Those don't sound like this. This was somehow this felt more physical. And as you sort of pick yourself up, you pick yourselves up, and you look out over the bay. You see the wreckage of all of the Corsairs. You see this floating fortress in the middle of the bay that looks like it's run aground on on a sandbar or something. You see all kinds of damage to the wharf. None of it looking serious, but looks like the wharf got hit by, you know, a lot of solid objects of some kind. And you see, you know, the guard, the city guard, which is mostly orcs, all kind of picking themselves up and getting their weapons organized. Everybody down on the wharf was knocked flat by the blast, and they're all kind of slowly picking themselves up, and Voda is down there as well.
+[0:52:36] Doctah Mossy: Okay, I had been in a sprint in front of them. Does that change anything?
+[0:52:41] Ian Lurie (he/him): Well, we're still okay. So I should say we're still about this is about 30 minutes before Captain Cooper and the rest of the crew come in. This is right after it's happened. Okay.
+[0:52:55] Doctah Mossy: Then, for humor's sake, mast turns back around and starts running back. It wasn't
+[0:53:02] Obadiah Carter/Rikterr Shep'ard: me. I Yeah,
+[0:53:05] Speaker 1: drunk. Gonna keep a good like, 20 foot distance, like, I don't want to be perceived as like, the point, but therefore the support, okay?
+[0:53:15] Obadiah Carter/Rikterr Shep'ard: Rikter looks around and is trying to find anyone who needs help is injured,
+[0:53:20] Ian Lurie (he/him): okay,
+[0:53:22] Doctah Mossy: spare the dying right now. Okay,
+[0:53:24] Ian Lurie (he/him): yeah. You see, there's a fair number of people who had been hit by arrows and stuff before the explosion. No one seems to have been wounded by the explosion again, just everybody was knocked flat. And you see, the ship is probably 100 yards away.
+[0:53:39] Doctah Mossy: One of y'all was right by home girl when she was holding up the fancy scimitar and chanting, it
+[0:53:46] Ian Lurie (he/him): was an astro. Well, you're not sure what it was. It was That was good, by the way, that little, yeah, it was an astrolabe. But you didn't really get close enough to see exactly what it looked like. But it was a round disc with a whole bunch of different gears and stuff on it. Everybody, give me a perception check.
+[0:54:10] Doctah Mossy: Oh, I'm so perceptive. 2222
+[0:54:16] Levi Ransom: 23x
+[0:54:20] Unknown Speaker(s): okay, rikter
+[0:54:22] Doctah Mossy: tripped on a shoelace. Yeah, you know,
+[0:54:25] Ian Lurie (he/him): those of you who everyone, apparently, except rikter, you see the object that that person was handling on the ground. You do not see that person anymore.
+[0:54:42] Speaker 2: Mossy, Mossy, Mossy, bag of holding. No, no, no, no, do you know what it is?
+[0:54:48] Doctah Mossy: I don't know how to tell what it is the other guy, the turtle, that left us the
+[0:54:54] Doctah Mossy,Josiah, but in his dying era: label. Oh, is
+[0:54:56] Doctah Mossy: there a label? I will inspect for a label.
+[0:54:59] Ian Lurie (he/him): There is no label. There is, however, it is clearly an astrolabe. You do know what that is, and it's something that would be used to locate planets and stars based on the time of year. It's ice cold to the touch right now. I mean, Vinyl
+[0:55:17] Doctah Mossy: Magic, magic will have this thing going.
+[0:55:19] Ian Lurie (he/him): Yes, it glows intensely. It's so cold that, you know, there's ice crystals on it right now, and it's not that cold out, okay? It's 60 degrees. It's 50 to 60 degrees out right now. But this thing is, is an ice cube. Basically, it feels like it
+[0:55:41] Doctah Mossy: Did anyone lose an astro globe? No, okay, putting in the bag of holding, this seems important, and we can't find who was just using it.
+[0:55:49] Ian Lurie (he/him): Nope. Um,
+[0:55:51] Doctah Mossy: oh. Rikter, your shoes and tile. Bend down. Tie his shoe.
+[0:55:58] Obadiah Carter/Rikterr Shep'ard: He Thank you, but he's faced down in the sand, so he just gives a thumbs up.
+[0:56:05] Ian Lurie (he/him): Drag with your vision. You look out towards the ship the fortress, and you do rise. It is a ship. It is rocking back and forth. You see figures running around on it.
+[0:56:20] Ian Lurie (he/him),Josiah, but in his dying era: Eyes weren't you just a minute
+[0:56:22] Ian Lurie (he/him): you were gonna say I was and I stopped. You look and you can't make out a ton of detail, but it appears the ship is filled with humans. That's as near as you can tell right now, the destruction around the ship is total. You figure there were probably 100 people in those boats, and you can see maybe a handful at this point.
+[0:56:55] Josiah in reovery & denial: Yeah, party lines is like just a bunch of humans on that boat. Nothing good ever comes when humans are all about to get so.
+[0:57:05] Ian Lurie (he/him): Sango, you see everyone down on shore, kind of forming back up into a line. No one appears to be firing any arrows or anything. They're just trying to figure out what's going on. What do you guys want to do?
+[0:57:27] Levi Ransom: Probably head down to the water. What time of day is it right now? It
+[0:57:30] Ian Lurie (he/him): is getting towards evening.
+[0:57:33] Doctah Mossy: We were just talking with someone important from the town, right?
+[0:57:37] Ian Lurie (he/him): You're talking to Ruger, Ian, the orc that you were, that you the palette
+[0:57:41] Doctah Mossy: is rikr in there with us.
+[0:57:43] Ian Lurie (he/him): He is, he is there with you. He is also picking himself up a little more slowly than you guys.
+[0:57:49] Doctah Mossy: Okay, gonna help him up and ask him, Have you ever seen an astrolabe, and can it do things like this?
+[0:57:57] Ian Lurie (he/him): I know very little of such things. I know this is an astrolabe, but
+[0:58:04] Doctah Mossy: you Okay, asking the orcs
+[0:58:10] Ian Lurie (he/him): can't hear you guys. Hold on, someone. Say something, hi. Oh, there we go. I don't know what that was weird. That was really
+[0:58:19] Doctah Mossy: weird. Okay, cool
+[0:58:21] Ian Lurie (he/him): glitch in the Matrix.
+[0:58:21] Doctah Mossy: Perplexed face there for a second I was like, is is the orc? Okay, yes,
+[0:58:26] Ian Lurie (he/him): yes. He appears to be okay, although he does look at you a little bit like I was just looking at you, because this whole situation is a little perplexing for him. Somewhere over his head, there's a bubble that says, I have seen some shit. This is not shit I have seen before. But he says, I understand what an astrolabe is. I know not what this one is, but
+[0:58:57] Levi Ransom: I hope that. I hope that
+[0:59:04] Ian Lurie (he/him): I didn't see what I think I saw, which was vote his wife using this item and then vanishing for say,
+[0:59:14] Doctah Mossy: yeah, that's pretty much what we saw, too. So
+[0:59:21] Ian Lurie (he/him): I don't, I don't know what are in you would have been doing with this. I she, you know she, she was not, she is not a wizard or a sorcerer or anything like that. I don't know.
+[0:59:36] Doctah Mossy: With us,
+[0:59:38] Ian Lurie (he/him): Voda is down on the wharf right now, trying to get everyone organized. She went straight down there when the alarms started going off. Okay,
+[0:59:53] Doctah Mossy: okay, so let's keep running and go help.
+[0:59:56] Ian Lurie (he/him): So you get you get down on the shore. You start treating wounds. You guys are very good at this. You've seen this all before.
+[1:00:06] Doctah Mossy: Say the word you're not gonna die. And
+[1:00:11] Ian Lurie (he/him): after a little bit, after a little time, you do see a boat put into the water, and everyone on shore says, or someone on short says, look, there's a boat. And you do indeed see the long boat heading over towards shore. And after a few minutes, voda, they look
+[1:00:31] Doctah Mossy: like
+[1:00:32] Ian Lurie (he/him): they look like people. They're dressed kind of weird. None of them are wearing armor. You notice that right away, none of them appear to have blades, at least not the type that you would normally see. None of them have bows. Some of them do have what you recognize as some form of gun, some form of black powder weapon, but you're not sure exactly what you know for you as an artifice or Mossy, or like, Ooh, that looks interesting. But
+[1:01:03] Obadiah Carter/Rikterr Shep'ard: can rikter Roll a perception check to see if he recognizes whether they're dangerous to the party or
+[1:01:10] Unknown Speaker(s): not? Yes, absolutely.
+[1:01:12] Levi Ransom: Sango leans over to Mossy, what? Um? He's got a pistol and a bling pin if he tries anything, I'm going to knock him into tomorrow.
+[1:01:22] Doctah Mossy: I think the one covered in blood must be the Warlord 1313.
+[1:01:30] Ian Lurie (he/him): Um, kind of hard to tell, because everybody's pretty freaked out, and they look pretty freaked out too, but none of them are brandishing weapons or screaming. Okay,
+[1:01:39] Obadiah Carter/Rikterr Shep'ard: then rikter is going to take a second. He's going to snap his fingers to put bastion in the pocket dimension. Just he's already intimidating enough with the armor. He wants to make sure that this starts off as diplomacy. Not we're going to shoot and gut each other.
+[1:01:55] Ian Lurie (he/him): Yep, when the boat gets
+[1:01:58] Speaker 1: in a 30 feet range, Drax gonna use some druid craft and have flowers sprout from the wooden parts of the boat.
+[1:02:07] Doctah Mossy: I'm just gonna use disguise self and be like twitchy humans. Don't make me comfortable. Let's just try and
+[1:02:14] Ian Lurie (he/him): flowers blooming from the boat. Yeah. Okay, just checking. Voda says to everyone as the ship, as the boat pulls up, says, we don't know who they are. We don't know if they've we don't know their designs. We do know that they just destroyed the Corsairs, so we should wait and listen to them, don't we're not here to start another war. And then you do what you do, and
+[1:02:43] Levi Ransom: the people on the boat,
+[1:02:48] Ian Lurie (he/him): like three of them, let out screams and leap into the water, one of them a man with a the only one with a sword, actually, with a proper sword and two black powder pistols, and wearing what looks to be, you know, a fairly elaborate uniform, he starts and jumps back and almost almost falls into the middle of the Boat, the the one who you think is the warlord Mossy, just looks like, what the and then everyone else on the boat too, they're just like looking the really skinny dude who you're pretty sure was was trying to beat up an elf with a blank pin. But you're not totally sure, because it was still pretty far out. He just, he just sort of moves to the middle of the boat as far away from the flowers as possible. And the three guys that are in the water just start swimming, for sure, as fast as they can. Actually, no one of them turns around, starts swimming back to the ship, then realizes it's too far, turns around and starts swimming back to shore. Do? Shore. And then the boat bumps gently up against the wharf, and the captain stands up, and he kind of, you know, does that, and gets his uniform, kind of, somewhat in order. Everyone else leaps up out of the boat like as quickly as they can, everybody's out. Whatever Captain Cooper had said a minute ago about not leaving, doesn't matter now, Mossy, are you? Did you use mast? Did you? Are you thoroughly
+[1:04:34] Doctah Mossy: trust? Yeah, twitchy human, so I made my little Mossy cunning role, and Mossy decided to disguise self, looking like a generic version of them. Okay?
+[1:04:45] Ian Lurie (he/him): And disguise self like the spell disguises? Yeah, okay, all right. Good, good,
+[1:04:49] Doctah Mossy: good. Not like a drag mustache. No,
+[1:04:52] Ian Lurie (he/him): no. Okay, just checking, because you know you have a tail and that would it's hard to hard to hide. So you I told you
+[1:05:01] Doctah Mossy: about my cousin, right? Eric Trump got him. Now he's in the he's in the bedroom, just as a rug.
+[1:05:08] Ian Lurie (he/him): As they get out of the boat. You realize a few things right away. These are all humans. They are pretty small for humans. You know, they're all between five, five and 510, maybe there's a couple that may push six foot, but that's it. They all have varying kinds of weapons, none of which look particularly well made. The sword that the apparent leader has, you know, looks like something an average warrior would have, except for the guns, the guns look incredibly well made and Mossy you in particular notice this. They are flawless. You have not seen metal worked quite that perfectly into into a tube before
+[1:06:03] Doctah Mossy: even though mast no longer has to backseat ears, you could, you swear you could still see them perk.
+[1:06:12] Ian Lurie (he/him): It's not to say that you know that you think that these are particularly great weapons. It's just that the craftsmanship is is far better than the craftsmanship of all the varying other weapons that they have. And by the way, the weapons they all have, it's random stuff.
+[1:06:24] Doctah Mossy: One of them, Mossy is a sim for craft, craftsmanship.
+[1:06:28] Ian Lurie (he/him): Yeah, yeah. And then also, in the bottom of the long boat, you see an elf. And when that elf sits up, the orcs an angry mutter kind of goes through the orcs, but voter raises a hand, and they actually stop, and the man that looks like their leader steps forward.
+[1:06:58] Obadiah Carter/Rikterr Shep'ard: Can we see that the elf is injured?
+[1:07:02] Ian Lurie (he/him): The elf looks like he has been hit rather hard on the side of the face with a blunt object, definitely not in danger. The captain, the leader, steps up onto the wharf and looks around as if trying to figure out who to talk to. And rikter looks straight at you and says, and in common says, I am Captain Samuel Cooper of the United States Navy. We are not sure where we are, and please you are
+[1:07:44] Obadiah Carter/Rikterr Shep'ard: well, I am rikter Shepard, but I am not the leader here. I would direct you towards lady Voda.
+[1:07:53] Ian Lurie (he/him): My apologies, my apologies. He got a one. All right, he got a one. He couldn't figure it out. I um,
+[1:08:06] Unknown Speaker(s): point out voda, yeah,
+[1:08:08] Ian Lurie (he/him): yeah. But they, they converse for a minute, pretty standard greetings. And he, he's, let's see how good a job is he doing. He's doing a good job. He's doing a good job of keeping his shit together. You know what I'm gonna have, Jed Levi and Obadiah. You all need to give me wisdom. Saves. Oh,
+[1:08:46] Levi Ransom: 10, okay,
+[1:08:49] Doctah Mossy: four,
+[1:08:51] Obadiah Carter/Rikterr Shep'ard: six, it's gonna be that kind of night.
+[1:08:54] Ian Lurie (he/him): This shit is just all too much for you guys, for everyone except Levi, you are all just you are back up against the edge of the wharf. You don't want to get back on the boat because, you know the boat's evil. It just sprouted flowers for no apparent reason. You don't know if you're about to sprout flowers. In fact, Doctah Jed, you have actually heard of varying diseases that can cause flowers to sprout from a person's anatomy right before they die,
+[1:09:24] Doctah Mossy: holding a cloth over my face.
+[1:09:26] Ian Lurie (he/him): Yeah, it could be plague. You're not sure. Obadiah. No clue. You have no clue what the fuck is going
+[1:09:32] Doctah Mossy: I'm holding a cloth of Obadiah his face. Yeah.
+[1:09:35] Ian Lurie (he/him): One minute, all these morons around you are trying to say that they've just landed in Africa, and you're just looking at them like, What the What are you talking about? The next minute, you're looking at these creatures who you think are some version of human, but you're not sure.
+[1:09:50] Unknown Speaker(s): Look hurt.
+[1:09:52] Ian Lurie (he/him): Any of these guys, actually, they all look pretty banged up. The Captain has a the captain who you now know. His name is Sam Samuel has a long crease on his head. The the man in the apron is covered in blood, like his hands are covered in blood. You're not sure what happened.
+[1:10:18] Speaker 1: Okay, so Jackson, like he's gonna look directly at the one cut the butcher. And just like, I mean you no harm. May I apply some healing to your wounds. You seem very cut up.
+[1:10:37] Doctah Mossy: This isn't mine, but thank you. Can you are these the flowers that happen with the plague? Are we safe?
+[1:10:44] Speaker 1: No, it was a symbol of welcome and we intend peace.
+[1:10:49] Doctah Mossy: My God, they sprout from your genitals before you die when you get typhoid.
+[1:10:55] Speaker 1: That's new. Also, where does this happen? I would like to go.
+[1:11:02] Doctah Mossy: Well, I've only read about it in the medical journals, you see, and the journals are on the ship and the ship just, I don't think this is our ocean anymore, sir, what
+[1:11:11] Speaker 1: is your and what is a United States?
+[1:11:18] Ian Lurie (he/him): We actually said US Navy, and what is it us, the captain. The captain hears all this, and he's talking to voda, and they just, sort of, you guys, sort of get pulled into the circle, because, I mean, your RBG, you're, you know, you're truly authority figures, so you're now in this little discussion with Captain Cooper and Voda and a few other people from the village, including the captain of the guard. And the captain says, us is the United States of America a new country.
+[1:11:57] Unknown Speaker(s): And what is that? A new country, okay, yeah, you're
+[1:12:02] Doctah Mossy: in praxia. Now, do you do you know praxia?
+[1:12:07] Ian Lurie (he/him): I've not heard of praxia. What
+[1:12:11] Doctah Mossy: practice a major on board
+[1:12:13] Ian Lurie (he/him): praxia Is the country, the continent.
+[1:12:16] Unknown Speaker(s): The continent,
+[1:12:17] Ian Lurie (he/him): actually the continent. Solydia, the planet is praxia,
+[1:12:20] Levi Ransom: right?
+[1:12:22] Ian Lurie (he/him): He's now completely fucked. They're lost forever because you guys, you guys name all the cities, wrong?
+[1:12:28] Speaker 1: So the doctors doesn't look wounded. Ian's turn my attention to the the small, wiry guy, yeah, I'm going, can I help you with your wounds? Yeah,
+[1:12:41] Ian Lurie (he/him): Levi has a nasty gash down one arm, and Levi, you have for want of a better for want of a better strategy. All of you guys are now very close to the captain. It looks like everyone's protecting the captain, but really, you know, this is a massive group of people who are, you know, he is their authority figure. He is the person they trust. Therefore, they're like, Okay, we're gonna stay closer to you.
+[1:13:06] Levi Ransom: No, I'm fine.
+[1:13:08] Doctah Mossy: I have someone on. How do you heal? My we're worried about an infection he may have, he may have shattered the bone, and it's going to lead to gangrene.
+[1:13:18] Speaker 1: Ian's painless. It's quick. It's painless. I that's not my I channel the energy of the healing energy through through the worship and devotion of a goddess
+[1:13:37] Josiah, but in his dying era,Levi Ransom: of revenge.
+[1:13:39] Ian Lurie (he/him): Captain Cooper. Captain Cooper,
+[1:13:45] Doctah Mossy: make a constitution say for the captain.
+[1:13:49] Ian Lurie (he/him): He says, I must be completely honest, none of what you said to me a moment ago made any sense whatsoever, but it is click, but clearly we are not all going to kill each other.
+[1:14:05] Doctah Mossy: Can you heal? Can you heal our prisoners wound? Well, not our prisoner. Well, he got hit in the head by accident. Can you show me how the healing works on him?
+[1:14:16] Unknown Speaker(s): Sure. Sure.
+[1:14:19] Doctah Mossy: Doctah now bloody notebook out Voda
+[1:14:22] Ian Lurie (he/him): actually. Voda actually puts up a hand and says, do not heal him. Clear.
+[1:14:27] Speaker 1: How about the captain's wound? Captain, can I show you?
+[1:14:36] Ian Lurie (he/him): He says, he looks at Jed and he says, no offense, but yes please, because Anything's better than getting stitches.
+[1:14:44] Levi Ransom: I don't know about that, because I think we might be in so I think we might need be near India, because lots of
+[1:14:52] Josiah in reovery & denial: guys put my hands on you, Ian's put my hands on you and and I say, I
+[1:15:04] Speaker 1: him, the goddess of vengeance, needs you to keep into the fight. Keep in the fight, and I cast Cure Wounds at level two.
+[1:15:13] Ian Lurie (he/him): Okay, um.
+[1:15:15] Levi Ransom: Levi cocks his pistol just behind his back, but he's not sure what's going on.
+[1:15:22] Ian Lurie (he/him): You're all about weapons behind your back. Yeah, so the captain almost he sort of jerks back when you do that. He says, it's cold, and then he puts his hand up and takes his hand down. And of course, his wound is gone, which is totally normal to you all, but he's stunned. He's like,
+[1:15:47] Doctah Mossy: the doctor is immediately up in the head wound. Like, this is remarkable.
+[1:15:52] Ian Lurie (he/him): Well, so and I this is really weird, because I'm like, DMing for two sets of characters at once. So bear with me, guys. If this gets really stupid, just tell me, because it'd be really easy to just focus back on RBG, dude,
+[1:16:06] Unknown Speaker(s): I'm having so much fun.
+[1:16:08] Obadiah Carter/Rikterr Shep'ard: If you stop this from getting any stupider I'm getting
+[1:16:17] Ian Lurie (he/him): so Obadiah and Levi you both need to make charisma checks. Um,
+[1:16:27] Obadiah Carter/Rikterr Shep'ard: question, Does this have anything to do with fear? Because he has a special where he has advantage on saves versus fear?
+[1:16:35] Ian Lurie (he/him): Yes, it's superstition. It's it's wick. You know, you think you may have just witnessed witchcraft, Jed, you don't this is you're, you're just not as prone to those kinds of flights of fancy. So you're not sure what to make of this shit.
+[1:16:53] Obadiah Carter/Rikterr Shep'ard: 19, okay,
+[1:16:56] Levi Ransom: five,
+[1:16:57] Ian Lurie (he/him): okay, um, Obadiah, you don't know. You think you may have witnessed a miracle or just something really weird. Maybe the wound wasn't as bad as you thought. You know, maybe the the weird little dude with the pointy ears and the bow taller than you are, maybe he just wiped some blood off him or something. You're not sure. Levi, second
+[1:17:20] Obadiah Carter/Rikterr Shep'ard: you see obadiah's hand go to his scar, and he touches it and looks at Drach, but then shakes his head and puts his hand
+[1:17:27] Ian Lurie (he/him): down Levi he clearly called upon the powers of Lucifer to to damn the captain to eternal hell. Actually, no, you know what? That's not quite true. This was clearly witchcraft, and he clearly is attempting to suck out the captain's soul. But you're surrounded by these Mossy so you don't think you can do anything. You're just you're terrified beyond all reason at this point I'm
+[1:18:02] Levi Ransom: going to ask you, good sir, not to touch the captain again.
+[1:18:07] Unknown Speaker(s): He complied.
+[1:18:08] Ian Lurie (he/him): Give me a, you know what? Give me a Hmm. Give me a wisdom check before you say something that coherent after witnessing something like that.
+[1:18:19] Levi Ransom: That's a 12.
+[1:18:21] Ian Lurie (he/him): All right, I'll say, you know, you manage something that's understandable, and you haven't peed yourself yet, but, but it probably comes out more like, keep your hands off the cup. Probably, so Drac, you see a few of these men are looking at you and your ears, and they seem to be continuously drawn to the ears, and then they're looking around them all the time, all the time. I don't even know what that means.
+[1:19:11] Doctah Mossy: Golden turned into a rug for his hunting. One
+[1:19:13] Ian Lurie (he/him): rugged, see, that's, I thought it was some kind of horrible anyway, kind
+[1:19:19] Doctah Mossy: of Drake ism, come on. I
+[1:19:20] Ian Lurie (he/him): was like, this is some kind of term that Gen Xers just don't know. Now I'm gonna have to use it that way in a sentence, but the captain says, I'm Ian's what nation is this? Antifa does the rugging. All right, we all know that. Can I ask what nation, what kingdom I'm in?
+[1:20:01] Obadiah Carter/Rikterr Shep'ard: Actually, I have no idea where the hell we are right now.
+[1:20:04] Ian Lurie (he/him): On the map, you are on solidria. You are not in any particular I'm looking at the map now up on the wall, you are not in any particular country. You are north of kamadan, and you're in the town of urdun.
+[1:20:18] Obadiah Carter/Rikterr Shep'ard: Tell him all that. Yeah.
+[1:20:19] Ian Lurie (he/him): He says. He looks very, even more confused,
+[1:20:23] Levi Ransom: Captain, I read about that. I think that's near India. I
+[1:20:26] Ian Lurie (he/him): don't know of any I've never heard of any continents called
+[1:20:32] Doctah Mossy: I have a I have I have maps, I have journals. I have great detailed things. But I think it might be a good idea to continue the conversation out from here. There's a lot that needs to happen right now.
+[1:20:43] Ian Lurie (he/him): Who's talking right now? Is this Mossy, or is this Jen? This
+[1:20:47] Doctah Mossy: is Mossy. Okay.
+[1:20:50] Levi Ransom: I thought it was good.
+[1:20:53] Ian Lurie (he/him): I just wasn't sure. The captain says, agree, and I appreciate that. I do need to get back to my ship, my my men are going to be this is all very unusual. They need me aboard.
+[1:21:10] Unknown Speaker(s): Understood. Do you need food?
+[1:21:15] Levi Ransom: Don't take a cabin. It's probably poisoned.
+[1:21:18] Speaker 1: You mentioned one other person who was seriously injured.
+[1:21:23] Ian Lurie (he/him): He turns to Jed, and then he turns back to you, and he says, we have many seriously wounded. Yes, we were, we were in a we were in a pitch battle against 5z Becks, and we have many Splinter wounds and gunshot wounds. At least two people who have lost limbs,
+[1:21:45] Speaker 1: Ian's Ian's great herbalist as well. And we would like to create a level of calm and trust between was clearly a difficult and unusual situation. And if there are ways that we can help you, we avail ourselves of that. Is that like a persuasion thing, or
+[1:22:16] Ian Lurie (he/him): you can do persuasion check with advantage? Okay? And I'll explain why in a second.
+[1:22:20] Obadiah Carter/Rikterr Shep'ard: Rikter walks up to vote and says, What's to happen to our elven friend there?
+[1:22:27] Ian Lurie (he/him): Not sure. I'm still thinking about that. If we if he gets off that boat, My people are going to tear him to pieces.
+[1:22:35] Obadiah Carter/Rikterr Shep'ard: If we make a deal to get him a place on the ship with these humans, would that be amenable to your people?
+[1:22:44] Ian Lurie (he/him): I think for now, anything you can do to get him out of here would probably be better,
+[1:22:49] Obadiah Carter/Rikterr Shep'ard: okay, and break
+[1:22:53] Ian Lurie (he/him): drag he it's he is easily won over, especially with that role, because, from his perspective, he has a ship of almost 400 people, so he doesn't see how letting a handful of you guys onto his ship is any risk at all, plus you've shown no ill intent. Voda says I can send a few additional healers as well.
+[1:23:22] Obadiah Carter/Rikterr Shep'ard: Rikter is going to look at the captain that says, I do have one request, though, it appears that this elf was injured in your hands. I would ask that you give him room aboard your ship to sleep, because I don't know how safe that he is here, and we want to make sure that we don't have him on the land where our friends won't take him, but I do not want to see him harmed.
+[1:23:49] Ian Lurie (he/him): He turns to one of the he turns to the midshipmen that's on the long boat, who actually was soaking wet, because he's one of the people who jumped in. And he says, he turns to you, he says, of course. And then he turns to the Midshipman and says, Enter his name in the roles. You have no idea what that means, but Right. And with that, he says, The captain says, I'm gonna we're going to go back to the ship. Now, you can join me on the Longboat, or if you have your own transport, you can meet us there.
+[1:24:31] Doctah Mossy: I don't think are there boats that haven't been destroyed.
+[1:24:34] Ian Lurie (he/him): There are a few fishing craft, okay, that weren't out in the bay, weren't out in the harbor. You guys, yeah, I guess, no, actually, you guys, plus the healers, could fit in the Longboat, because longboat can seat like 30 people. So if you wanted to, yeah, you could all crowd on there. Yep, track
+[1:24:57] Unknown Speaker(s): has the foldable boat. Okay?
+[1:25:03] Doctah Mossy: Yeah, we'll use, yeah, we'll handle our own transport. I mean,
+[1:25:07] Levi Ransom: so we've had that since, like, level three, yeah.
+[1:25:12] Speaker 1: So remember, Jack has an intelligence of 10. He is not the smartest person, and even he knows I should not bring out the twins.
+[1:25:22] Ian Lurie (he/him): That's a safe bet. Yes,
+[1:25:24] Doctah Mossy,Josiah, but in his dying era: yeah,
+[1:25:25] Ian Lurie (he/him),Josiah, but in his dying era: but in
+[1:25:25] Unknown Speaker(s): front of a magical boat,
+[1:25:28] Ian Lurie (he/him): yeah, you throw the boat out, and it immediately expands into something about half the size of the long boat that's pulled up and again, I mean, you know what? Jed Josiah, je head, Obadiah and Levi, you all need to give me wisdom checks again,
+[1:25:50] Levi Ransom: 17 617,
+[1:25:54] Obadiah Carter/Rikterr Shep'ard: as well.
+[1:25:55] Unknown Speaker(s): Y'all I've been waiting to pull out this book.
+[1:25:59] Ian Lurie (he/him): Levi, you leap back into the long boat. And in fact, if there had not been a long boat there, you would have ended up in the water, because you just jump back from that as quickly as possible. As the the pointy eared person with the enormous bow took out a little block of wood, threw it into the water, said something, and it went and turned into a full size robot.
+[1:26:24] Speaker 1: Sorry, I need to. I need to communicate these. I forgot, I forgot. I need to communicate these things before I do this. My apologies.
+[1:26:33] Doctah Mossy: And also, so nobody else jumps. I'm a jivacsy and Ian's guy self.
+[1:26:41] Unknown Speaker(s): Oh, Jesus,
+[1:26:46] Levi Ransom: I'm gonna give myself disadvantage.
+[1:26:47] Ian Lurie (he/him): Yes, I think you all get disadvantaged on this
+[1:26:51] Unknown Speaker(s): one, then
+[1:26:53] Obadiah Carter/Rikterr Shep'ard: it's a three.
+[1:26:54] Doctah Mossy: I was fine with that. I rolled a 19 and a 20.
+[1:27:00] Levi Ransom: I got an 11 I'm gonna roll a disadvantage. Ian's still better.
+[1:27:05] Ian Lurie (he/him): One of the one of the Marines brooched, and immediately says, Jesus Christ, what's that
+[1:27:14] Unknown Speaker(s): you're from? The boat starts to bring
+[1:27:18] Ian Lurie (he/him): his rifle up, but the captain sticks his hand out very quickly and stops him.
+[1:27:23] Obadiah Carter/Rikterr Shep'ard: You see rikter just pointed the guy snap his fingers and bashed and comes back. He's like, watch yourself.
+[1:27:30] Doctah Mossy: I'm just trying to keep you from jumping.
+[1:27:34] Ian Lurie (he/him): Okay, the panic is so complete, about half of the party of the sailors scrambles back into the boat. The one Marine who had lost his composure for a minute calms back down, but looks at Bastion for all the sailors, the guy in the full armor, the plate armor, which you've never really seen, by the way, in real life before. Just pulled out an ax that looks like a weapon from Zelda. And this is something that you guys as DND characters, RBG just assumes, right? That, of course, it's normal that we have, I have a great sword that's as big as me, right? These guys are, like, he just pulled out an ax with a six foot long haft
+[1:28:27] Levi Ransom: from nowhere, from
+[1:28:29] Ian Lurie (he/him): nowhere, even, even assuming the nowhere thing is normal, like the size of this weapon, like you could use it to cut the long boat in half. And they're just looking at this. They just, they have no idea what the hell to make of that. And yeah, they all just step back in the boat.
+[1:28:43] Obadiah Carter/Rikterr Shep'ard: Rikter sees the fear, and he snaps and bash disappears. He's like, I'm sorry. I apologize. That
+[1:28:52] Ian Lurie (he/him): doesn't help.
+[1:28:53] Obadiah Carter/Rikterr Shep'ard: I'm just very protective.
+[1:28:55] Ian Lurie (he/him): Yeah, when it disappears again, I
+[1:28:56] Doctah Mossy: have a pet dragon who's really cute. She's not here right now, but if you hang out long enough.
+[1:29:01] Unknown Speaker(s): Oh, boy. Window, God, if
+[1:29:03] Obadiah Carter/Rikterr Shep'ard: only we could euphoria breath
+[1:29:04] Ian Lurie (he/him): them. That might be
+[1:29:06] Doctah Mossy: very handy right now.
+[1:29:08] Unknown Speaker(s): Oh guys,
+[1:29:10] Levi Ransom: sengo like hobbles up next to everybody. It's weird that I'm the normal one, and he gets in the boat, in the long boat with everybody, and just sits down. They
+[1:29:21] Ian Lurie (he/him): all make room for you, because they're like, God, the old man needs a place to sit.
+[1:29:26] Levi Ransom: Pulls out some good berries, starts eating them, and hands a few out.
+[1:29:30] Ian Lurie (he/him): You know, a few of them eat them, and they are very appreciative. Like, it's not like someone casts magic on them. They eat them, and they just suddenly get this sense of well being. One of them says it's almost like coca leaf.
+[1:29:45] Obadiah Carter/Rikterr Shep'ard: Oh, you rikter as a sign of goodwill. He reaches into his little pocket and he pulls out the one reefer joint that Jack rolled for him a year ago, and says, gentlemen, I don't know if you have this in your United States, but this is very calming, and I just want to offer it as peace. And so he just snaps his fingers and does the they all
+[1:30:16] Ian Lurie (he/him): freak out. Eldritch
+[1:30:19] Obadiah Carter/Rikterr Shep'ard: blasted lights it and just starts passing it around. The Doctah
+[1:30:22] Doctah Mossy: is so Ian's like, this tastes like Benjamin Franklin's head.
+[1:30:26] Ian Lurie (he/him): So then the boats are already putting off from the shore, but we'll say that, you know, you handed it to them, and a couple of them take puffs, and then the captain says, Belay that we appreciate it. But perhaps now is not the time for tobacco.
+[1:30:46] Obadiah Carter/Rikterr Shep'ard: You call it tobacco. I call it fun, and rikter just takes it in. Yeah, yes. Puffs sits back. Puffs keeps eyeing the guy who insulted Mossy.
+[1:30:56] Speaker 1: Are you? Like, I'm like, I am so I am having so much fun with these poor little humans. They're Doctah. Like, do you see the whole little wire man? I just want to boop him.
+[1:31:07] Obadiah Carter/Rikterr Shep'ard: Rikter says, Is this what I look like to to y'all these things you
+[1:31:11] Doctah Mossy: did make the same face when you pooped that
+[1:31:13] Speaker 1: one time you you like, look, I love y'all. But all you humans, like, you go through these like, five stages of acceptance,
+[1:31:26] Josiah, but in his dying era: and when you get to, like, when you get to, like, a level of enlightenment, then you're not terrible. These guys, like, they're just adorable. I mean, like,
+[1:31:39] Doctah Mossy: they have witches. Their world can't be that different. I'm assuming we're on the boat now going towards their ship. Yeah, but
+[1:31:46] Unknown Speaker(s): I can, can you imagine how you treat them? They treat them.
+[1:31:48] Doctah Mossy: God, we have to go back to the stone fell. Maybe
+[1:31:52] Unknown Speaker(s): we could go to this United States. I bet we could do some good there.
+[1:32:00] Doctah Mossy: You saw how they freaked out. Sir
+[1:32:03] Levi Ransom: Sango is handing his cup of soup around to everybody too.
+[1:32:09] Obadiah Carter/Rikterr Shep'ard: Oh, Mossy, pull out that to Flexi
+[1:32:12] Doctah Mossy: Ian's Yeah, they're, they're having soup. We're having Dwarven whiskey.
+[1:32:17] Ian Lurie (he/him): And yeah, they are appreciative of the soup, actually, and soup is something they can get behind. Soup is something they recognize. They're like, Oh my God, an old man with soup. This is so comforting. They're not
+[1:32:30] Doctah Mossy: questioning how there's more soup, no matter what.
+[1:32:32] Ian Lurie (he/him): He doesn't have tusks or anything. He's almost our size, okay, so the Longboat pulls up to the ship. RBG, you all climb on board about the same time, and a few things hit you right away. One is this ship
+[1:33:00] Unknown Speaker(s): reeks.
+[1:33:03] Ian Lurie (he/him): It smells. I mean, the navies of the time were pretty good at keeping their ships clean, but this ship has been at sea for six months. It's its bilge is just filled with what bilge is fill with. Its decks are slippery with blood. You have never been like you the worst, the worst parts of the city of the dead may have smelled like this, yeah, Reagan
+[1:33:38] Levi Ransom: would have been so disappointed with this place that's over the party line.
+[1:33:44] Ian Lurie (he/him): And the other thing is
+[1:33:46] Doctah Mossy: it just it smells like
+[1:33:48] Unknown Speaker(s): what a human smells better.
+[1:33:53] Ian Lurie (he/him): And then the scale, the scale of this is you just never seen. I mean, even the old stone ships of the Elves were not this big. Everything about this ship is out of scale that the one of the masts, the main mast, is the size of a tree in the druid fell, and the other two are bigger than any of the mast on any of the airships you've ever flown on, the number of guns present, assuming they are guns, is almost eye watering, and as you're walking across the deck, It seems like everybody here is sick, like everyone's either missing some teeth, or they have a cough or they're wounded, it just they just don't seem that healthy. Mossy, give me a perception check.
+[1:35:01] Doctah Mossy: Ooh, 24
+[1:35:02] Ian Lurie (he/him): okay, you see a flintlock pistol sitting on the ground about 10 feet away. Do you want to just go pick it up? Or do you want to try to make sure no one else sees you do it? Or do you want
+[1:35:26] Doctah Mossy: to do? Oh, this is gonna be a no one else sees me do it. I'm opening the bag of holding and using mage hand.
+[1:35:33] Ian Lurie (he/him): Okay, give me a slight a hand check with disadvantage, because there are guards all over. The Marines are very, very much in evidence.
+[1:35:41] Doctah Mossy: Oh, well, I rolled a 22 in perception. If I knew that, that'd
+[1:35:45] Ian Lurie (he/him),Josiah, but in his dying era: be a distraction somehow, like I can just be direct
+[1:35:49] Doctah Mossy: distract people.
+[1:35:51] Unknown Speaker(s): I go into Queen of the Desert mode. What she's making
+[1:35:59] Ian Lurie (he/him): flowers block. Describe this. Describe this to me, describe Queen of the Desert mode.
+[1:36:04] Speaker 1: Okay, so using druid craft, like as I walk onto the ship, I want flowers to follow me, like and just like, releasing some of the smells that are not human sick.
+[1:36:26] Ian Lurie (he/him): So there's many exclamations of dismay and amazement as the crew kind of falls back away from here
+[1:36:34] Levi Ransom: that you're the slim one from from the Longboat earlier. It's my track,
+[1:36:42] Ian Lurie (he/him): and the captain leans over towards you drag and says, is that a voluntary action or a reflex of some kind?
+[1:36:52] Unknown Speaker(s): So, stress reflex, okay,
+[1:36:55] Ian Lurie (he/him): because it might be better if there was less of that. I will try
+[1:36:59] Unknown Speaker(s): to call my emotions.
+[1:37:05] Ian Lurie (he/him): Yeah, give me a you know what, sure, and I keep anything at this point but
+[1:37:12] Unknown Speaker(s): eight, okay. He
+[1:37:16] Ian Lurie (he/him): says, Well, if we could avoid these involuntary once for a bit, most understood, most of the men. None of us have ever witnessed anything like this. Most of these men are incredibly superstitious.
+[1:37:35] Speaker 1: Understand and this is this is normal for us. This is completely normal and mundane, even. DM, so as I'm doing this,
+[1:37:48] Doctah Mossy: do I get a straight roll?
+[1:37:49] Ian Lurie (he/him): Yeah, yeah.
+[1:37:51] Doctah Mossy,Ian Lurie (he/him): 23
+[1:37:52] Ian Lurie (he/him): era, you sweep that gun up. No problems.
+[1:37:54] Levi Ransom: DM, do these cannons look similar to the spell cannon making concept,
+[1:38:03] Ian Lurie (he/him): no, they look nothing like the only reason you know you think they're canon is because they are tubes with large holes with bores down The barrel, and because you see a few cannonballs nearby, you also see some chain, which you're not sure how that's used. And you do see some slow matches, which you know some people do use to fire off canon, but you're sort of putting it all together based on what, based on context, right tube with bore with cannonballs sitting around it. But for one thing, these are far bigger than any Canon you've ever seen before, including the spell cannon. Like the the um, like the the villains discontent couldn't carry two of these. It probably could only just barely carry one. The doctor immediately. Just says, if you could come help below, I'll take you to the or lip and you can, you can perhaps see to our wounded.
+[1:39:36] Speaker 1: I I respect the captain's wishes, and I don't stress out these people.
+[1:39:44] Doctah Mossy: You feel a mage hand fist bump you, though, letting you know the deal is done.
+[1:39:52] Ian Lurie (he/him): So you guys, do you guys all go below.
+[1:39:54] Doctah Mossy: Oh yeah. Open people. Spare the dying spirit the dying. Yeah.
+[1:40:02] Ian Lurie (he/him): So and I'm assuming rikter, you're you're doing similar rikter. You go up there, there's one guy who is missing part of his arm, like his arm was was severed, or had to be removed, had to be amputated, or something right at the elbow. It's an ugly wound. You know that you can completely heal it. I mean, a basic healing spell will will give him the arm back and everything. What does healing look like when you do it? I
+[1:40:43] Obadiah Carter/Rikterr Shep'ard: before he followed the Raven Queen, it was just, it wasn't the brightest of lights, but it was a light that sort of made the person turn away, and they didn't feel a burning heat, but just like as if a stove was just turned on a little bit and just started that kind of heat. But ever since he started following the Raven Queen people, whenever he heals them, they feel something envelop them, like it's feels like a mother's arms and also wings at the same time, and it's more of a loving embrace. Now someone is nurturing, someone rather than sort of that burning healing sensation.
+[1:41:29] Ian Lurie (he/him): Okay, so Jed, the the man who's missing his forearm is his nickname is little bob. He's about five foot two, so he is actually little. It's not ironic. And he watched rikter Go heal someone else, where a wound just stitched closed magically. And at this point, you're just kind of like, it's working. These people aren't dying, gonna let it happen, taking
+[1:42:05] Doctah Mossy: notes,
+[1:42:06] Ian Lurie (he/him): yeah, we'll figure out how this worked later. And as rikter turns towards little bob, little bob starts kind of whimpering and saying, No,
+[1:42:15] Speaker 3: it ain't Christian. It ain't Christian. Doc, doctor, it ain't Christian. I don't want to do it, this doctor. I mean,
+[1:42:24] Ian Lurie (he/him): you think he's being a moron, but
+[1:42:28] Doctah Mossy: you're delirious from a great wound. Little Bob, we care about you greatly, and the priest will be available after,
+[1:42:38] Ian Lurie (he/him): okay, give me a persuasion check.
+[1:42:42] Doctah Mossy: I don't know how persuasive this guy is, Ian's pretty persuasive. What modifier is that?
+[1:42:54] Ian Lurie (he/him): Oh, charisma. If you have one,
+[1:42:55] Doctah Mossy: oh, there has no charisma, but a 16,
+[1:42:59] Ian Lurie (he/him): okay, well, that's fine. That's plenty. He
+[1:43:02] Doctah Mossy: he doctor, he comes
+[1:43:04] Ian Lurie (he/him): down, he says it's the name Christian. And then rikter, you do your healing. You tell me how many points you heal?
+[1:43:14] Obadiah Carter/Rikterr Shep'ard: How many would I need to rikter thinks about it for a second and knows that he shouldn't, because they've already caused so much fear, but he's also looking at this man and looking how miserable his life has already been, and it's just he just wants to do him this kindness and to be damned with the fear so however much I'd need to fully heal his arm back.
+[1:43:40] Ian Lurie (he/him): I um, one or two Cure Wounds should do it.
+[1:43:49] Levi Ransom: Sango is going to the people that are less injured, that are just, you know, banged up a little, but, you know, could also suffer from gangrene or whatever. Right,
+[1:44:07] Ian Lurie (he/him): curvy
+[1:44:08] Levi Ransom: and he, he serves them each a cup of soup with a bland but salty good berry in it. Each one as he goes about,
+[1:44:22] Ian Lurie (he/him): okay, all right. Rikter, you how many points did you? 926? Okay, all right, his arm just goes boop and grows right back. And he was struggling for a minute, and then he just kind of stops, and he sits up looking kind of nervous, like a little spooked. He's like, but he, you know, and Jed, you just saw him. I mean, he just grew an arm back. So it takes you guys about an hour or two to do all this. You pretty much exhaust your spells doing all the healing. They The Captain is waiting for you above decks, and actually, the decks have already been cleaned off quite a bit. They apparently have some kind of pump on the ship, and they used it to to hose the decks off. And he says, Would you join me for a drink in my quarters? So that we can I need to understand more of this place before I talk to anyone else on my crew.
+[1:46:06] Doctah Mossy: Good news, I've got the good Dwarven whiskey smile, you know, fangs.
+[1:46:12] Ian Lurie (he/him): He's holding in his hand, by the way, this instrument, it almost looks like an astrolabe, actually, but it's a triangle with a part a semi circle below it, and some kind of, maybe a site or something on it. And he, he takes you to what you assume is his cabin. It's pretty large. It's at the stern of the stern of the boat. It's there's a set of Windows, most of which are shattered, looking out over the water, and you can actually see the town. Now through those windows, it is completely dark. At this point, it is past dusk. This sailor comes in with what you recognize as some kind of beverage serving set, and there's a bottle of something in the middle of it, and he pours everyone a glass and offers it around and says, well, to to newfound allies. He raises his glass and takes a sip.
+[1:47:30] Doctah Mossy: Follow suit, you're on mute.
+[1:47:35] Ian Lurie (he/him): JP, you're muted.
+[1:47:37] Unknown Speaker(s): Sniff and then sip.
+[1:47:40] Doctah Mossy: You bougie bitch,
+[1:47:42] Unknown Speaker(s): it's pretty respectable.
+[1:47:45] Ian Lurie (he/him): It's a respectable red wine. It tastes very different. You know, it's not something you've tasted before, but you you know, eight out of 10 would drink again. He sets down his, oh my God, His sextant. On the table, I forgot what it was called for a minute. And on the table, also, you see a set of a large paper map that, I mean, you don't recognize any of it, obviously, right? It's it's Earth, yeah, and it's Earth, but it's a map that was drawn in like, the year 1700s so it really doesn't make any sense.
+[1:48:29] Doctah Mossy: Mossy is showing the assorted maps from the bag of holding. We have quite a few in there at this point.
+[1:48:35] Ian Lurie (he/him): Well, so he says, I've looked at the stars. I recognize nothing.
+[1:48:42] Doctah Mossy: Yeah, that would track. I don't think you're in your stars anymore, buddy,
+[1:48:46] Speaker 1: although I do find it interesting that it looks like you your world and our world may be more similar than we thought, because in this section over here, says, Here Be Dragons. We have the same problem.
+[1:49:02] Doctah Mossy: Yeah, and you've got witches too, although your soul sound is nice, ours sometimes can be pretty cool.
+[1:49:11] Ian Lurie (he/him): Witches and dragons are, well, I would have said before today, aren't real things like magic and monsters. You know, those are stories we I was told as a child that's healing wounds with a wave of a hand. I mean, these are things that in my
+[1:49:37] Doctah Mossy: can't believe in wave my hand and make the sun wind chimes
+[1:49:41] Ian Lurie (he/him): in my world, I've never seen the like. In the last two hours, I have seen things that I could not explain. If I had a lifetime, excuse me, a lifetime to attempt. So what is, what is this place? What? Tell me a little bit of, let me tell you a little bit of me and my part, and maybe this will help. I am Captain Samuel Cooper. I'm the captain of this vessel. This vessel is part of a navy of a country called the United States, a nation called the United States. We have been at war with pirates for some time. Oh
+[1:50:33] Doctah Mossy: us too. Well, these guys, we just kind of showed up.
+[1:50:38] Ian Lurie (he/him): Our mission was to take the war to these pirates, and hopefully, after fighting for a short time, negotiate peace. But to make it clear, they could no longer prey upon American shipping, we were in the midst, and
+[1:50:57] Doctah Mossy: he blew up our pirates. Well,
+[1:50:59] Ian Lurie (he/him): he tells you the story of what happened, and he says, so we must have appeared here just as we were firing that salvo. So whatever brought us here probably saved us, because we were moments from being bracketed. And that would have been even for this ship. That might have been too much.
+[1:51:22] Speaker 1: Do to kind of equal your like, to give you a perspective of ours, we live in a world where there are varying levels of types of sentient beings. As you've seen, some of us look like our friend Mossy, some of us are human. I am not. I'm neither. And we have more, we have more types of people who belong on this world. We also have the the true and provable knowledge that there are different gods. There are gods of different types. There are gods of light and love, there are gods of vengeance, there are gods of death, and they have their own politics. And generally on our plane, we are pawns and play things. In their politics,
+[1:52:19] Josiah, but in his dying era: they grant us. Some of them grant us powers, and others of us, we study our lives in books and equations. It's like it's a very energetically applied mathematics,
+[1:52:35] Speaker 1: and this ability to change the natural world creates environments I kind of go off on, like how it affects nature of sometimes trees become monsters Trump. There are aberrations. There are influences of other things, and this is the world that we live in. And the dangers here are because honestly, like people, like us, like versus the things that are much more powerful we are but mere ants, and sometimes we have the ability to forge our own destinies and protect others.
+[1:53:20] Levi Ransom: Dango is he's got his scrolls out, and he is copying the maps. And he he's wondering if they have any any star maps. And then he turns the drag, hey, don't forget to tell him about your sex cult. He goes back to copying
+[1:53:39] Ian Lurie (he/him): the captain. Sort of opens his mouth and closes it, and then he opens it again, and he says, where we're from. As far as I know, there are only humans. Humans are the ones who are made into our God's image. And there is one God, and we all there are differences. Some of us are darker skinned, some of us are lighter skinned, but we are all basically the same. Certainly there are none like the mayor of that town. There are none like you. There are certainly none like You. And he nods to Mossy, we if, if my people had seen your ilk in our world, they probably would have attacked you on site, just I'm here, yeah, out of sheer Ian's I we will at some point need to figure out how to get back, but I think that before we can do that, we need to figure out how we got here. And you're starting to get the sense that Samuel Cooper is a keenly intelligent person, keenly intelligent he he really has, you know, you can tell he's he's absorbing knowledge at a very high rate, and he's showing an adaptability that most people Probably wouldn't like the rest of the crew, wouldn't
+[1:55:25] Levi Ransom: he says,
+[1:55:27] Ian Lurie (he/him): I think we have a few I have a few problems I have to deal with right away, one or my wounded, which you have already helped me with. And I thank you for that. The next will be, how I get the ship floating again, and then figuring out what we do from here. How do we how do we get home? I just, I'm not, I'm not even sure where to start thinking
+[1:55:57] Doctah Mossy: about we will help on that. How you get home, thing. Just focus on mending your ship. Stay Stay yonder. Don't shoot anyone.
+[1:56:08] Ian Lurie (he/him): We are fur. That won't be a problem, he says, with a smile. He says, We are completely out of powder. We could not we could not fire so much as a musket ball. And he says, that's not really true. Some of my men still have powder for their own weapons, but we are completely out of powder for our Ship's Cannon. Very well.
+[1:56:34] Levi Ransom: You have any books that or scrolls you want to trade Carter for? I
+[1:56:43] Ian Lurie (he/him): uh, the documents on this ship I cannot they're, they are the possessions of my government. Stop
+[1:56:50] Doctah Mossy: embarrassing him. Do you have
+[1:56:52] Ian Lurie (he/him): possessions of my government? Not of mine? What
+[1:56:54] Levi Ransom: if I could copy them?
+[1:57:01] Ian Lurie (he/him): Perhaps we can discuss that later. Okay,
+[1:57:06] Doctah Mossy: we can make arrangements. We have maps you'll probably need. We're also, again, going to be your best bet at figuring out how to undo this thing. So stay here, fix your boat, don't shoot people. Is good.
+[1:57:24] Ian Lurie (he/him): You are very strange, if you don't mind my saying beyond your appearance. But yes, that is fine,
+[1:57:31] Doctah Mossy: sir, only one of us smells like poo, and it's not me.
+[1:57:36] Ian Lurie (he/him): Point taken. Yes, it's true. A ship six months at sea, this is about as good as a ship smells. I'm not sure. How do you actually, that is a question before you leave. How do you cross oceans? I mean, I assume you have them. There's a bay here. I see an ocean out there. How do you do you cross oceans?
+[1:57:59] Doctah Mossy: I mean, we prefer to take the airship, but you can take the water if you want.
+[1:58:04] Ian Lurie (he/him): Airship is that literally?
+[1:58:07] Doctah Mossy: Yeah, like this, but up there
+[1:58:11] Speaker 1: they fly. Interesting. We and we also use arcane methods, or magical methods. Are you ready for like? Can I demonstrate? No? Look like
+[1:58:24] Ian Lurie (he/him): No, no, no, Most assuredly not, perhaps later, another time, but I have quite enough for
+[1:58:34] Unknown Speaker(s): one day. I got processed for one day.
+[1:58:39] Ian Lurie (he/him): As you guys turn to leave, Mossy and Sango and rikter, if you're there, why don't you all give me intelligence or wisdom checks? Actually, you too direct, whichever your better is
+[1:58:55] Unknown Speaker(s): wisdom or what, or
+[1:58:57] Ian Lurie (he/him): intelligence, not intelligence.
+[1:59:01] Levi Ransom: 19. Okay,
+[1:59:03] Unknown Speaker(s): 25 oh, I failed,
+[1:59:06] Doctah Mossy: but I'm going to go with wisdom because it's funnier.
+[1:59:08] Ian Lurie (he/him): 317, okay, you guys see a shelf with what you realize are books on it. But then looking at them, you realize you cannot read the writing on the books. And then you realize also, same thing with the map. You couldn't actually read anything on the map in spite of the therapy dragons thing you just saw that, you know, the classic drawing of the sea serpent, and assumed that that's what that meant. So you can't actually read any of the writing, assuming it's writing on things like the books. You can't read it. It's in some kind of the symbology is different.
+[1:59:58] Levi Ransom: It's a cipher, it's a code, or it's
+[2:00:01] Ian Lurie (he/him): just another language. I mean, you know, you can't read Dwarvish either, or some of you can.
+[2:00:11] Doctah Mossy: What you got here, scribbles.
+[2:00:14] Ian Lurie (he/him): Those are books.
+[2:00:16] Levi Ransom: What language are these? Written in
+[2:00:20] Ian Lurie (he/him): English, English, what we are speaking,
+[2:00:24] Levi Ransom: we're speaking common, interesting.
+[2:00:28] Ian Lurie (he/him): I wonder why we can understand each other, or perhaps common. Your common is our
+[2:00:35] Unknown Speaker(s): English.
+[2:00:38] Speaker 4: Maybe it's unified worlds. I a
+[2:00:46] Ian Lurie (he/him): strange but then everything about I would
+[2:00:50] Doctah Mossy: like to borrow one of your people to help read one of these out loud, and then I'll have what it is in both versions, and that will be a good starting point for us,
+[2:01:02] Ian Lurie (he/him): perhaps tomorrow, my crew have been through quite a bit today,
+[2:01:07] Doctah Mossy: that one guy has an arm again, and it's hilarious
+[2:01:13] Levi Ransom: week like he hasn't been working out in a while,
+[2:01:16] Unknown Speaker(s): with it either limp, I think you have to grow your bones
+[2:01:19] Doctah Mossy: over. Did it? He seemed a little taller on that side too.
+[2:01:27] Ian Lurie (he/him): Okay with that. You guys head back into town on your folding boat, on the ship. Just a quick overview, I'll tell you that the ship is a ground but has taken no hull damage, so it's not taking on water. So the primary things that you guys will have to figure out, and you could certainly do this with the help of the the orcs and the the other people on shore, is you just have to get it refloated. It's very firmly stuck in a sandbar because it's massive and a deep water harbor for Prax Ian's is not a deep heart or deep water harbor for age of sale.
+[2:02:13] Doctah Mossy: Shift search the prisoner before we put him in the break, right? Just
+[2:02:16] Ian Lurie (he/him): yeah, okay. And in fact, they don't even put him in the break when he comes on board, they ask him his name, they write it into what you guys know are the ship's roles, which is like a list of all the sailors on the ship. They ask him some questions, like, Do you know how to do this? You know how to do this? Do you know how to do this? And basically, that time they're done, the person who's who's right in the middle of the role, says, Yeah, captain, he doesn't really know how to do anything. Just make him one of the hands. And then they say, All right, we'll show you your bunk and your mess. And they lead the guy
+[2:02:55] Levi Ransom: off. Levi asked him several questions related to witchcraft, whether he knows how to do any and may or may not try to shank him in the middle of night. He's not sure yet, so we'll see.
+[2:03:09] Ian Lurie (he/him): He looks blank when you say witchcraft. He says, I have some basic skills. I mean, I
+[2:03:22] Unknown Speaker(s): do it all day. I'm not sure what you mean. He says,
+[2:03:29] Levi Ransom: can you make flowers appear?
+[2:03:35] Ian Lurie (he/him): If you give me seeds,
+[2:03:39] Levi Ransom: you heal people with your hands.
+[2:03:44] Ian Lurie (he/him): If I have bandages and medicine,
+[2:03:49] Levi Ransom: this is the elf guy, right? Yeah, okay.
+[2:03:56] Doctah Mossy: The elf guys just got this gangly teenager up in his face. You beat him in the face earlier.
+[2:04:03] Ian Lurie (he/him): He says, um, I can also do this. And he puts out his hand, and this bright light fills the room. Is that what you mean? And they close his hand. The light goes away. He looks
+[2:04:15] Levi Ransom: around see if anybody's looking. Is there anybody else in the room?
+[2:04:18] Ian Lurie (he/him): Well, you're out on the deck. So, yeah,
+[2:04:20] Levi Ransom: okay, we're out on the deck, actually,
+[2:04:21] Ian Lurie (he/him): no, you're below deck, but you're in the main crew area.
+[2:04:24] Doctah Mossy: So this is like 50 of your bunk mates. Shiver. Do it? Do it?
+[2:04:31] Levi Ransom: He looks around. Is there is the captain around? Or?
+[2:04:35] Ian Lurie (he/him): No, he's up on deck.
+[2:04:38] Unknown Speaker(s): This is gonna call, it's called a blanket party. You know what that is?
+[2:04:45] Ian Lurie (he/him): Is that like bars of soap and blankets and you're beating the shit out of someone.
+[2:04:49] Unknown Speaker(s): That's a blanket party.
+[2:04:58] Levi Ransom: I stab him.
+[2:05:00] Ian Lurie (he/him): Seriously, Okay,
+[2:05:03] Levi Ransom: seriously, that's good, yep, that's Give
+[2:05:05] Ian Lurie (he/him): me, give me an attack roll.
+[2:05:10] Levi Ransom: That's a 19 plus, whatever.
+[2:05:12] Ian Lurie (he/him): Oh, Jesus, okay, you hit him. Roll damage
+[2:05:18] Levi Ransom: just with the dagger. Seven.
+[2:05:21] Unknown Speaker(s): Okay, he
+[2:05:25] Levi Ransom: which, which? He
+[2:05:27] Ian Lurie (he/him): looks surprised. It's like, what are you doing? He, he kind of pulls the sword, the dagger out. And by the way, he is clearly much, much stronger
+[2:05:40] Levi Ransom: than you are. Leave the dagger in him.
+[2:05:43] Ian Lurie (he/him): Well, he doesn't let you. He just Yoink. He pulls it back out. And what does he do?
+[2:05:54] Unknown Speaker(s): Which, which he
+[2:05:58] Levi Ransom: I'm calling everybody else, which, which.
+[2:06:00] Ian Lurie (he/him): Yeah, everyone's coming over, but it's all happening in blocks of six seconds. He punches you,
+[2:06:18] Unknown Speaker(s): you take um,
+[2:06:25] Ian Lurie (he/him): you take 12 points of damage from the punch, and you need to give me a constitution. Save
+[2:06:37] Levi Ransom: that's 14. You are stunned. He's a monk, you just
+[2:06:50] Ian Lurie (he/him): kind of go. Everyone else comes running over. Wow. He says, Okay, I don't know what's going on here. Not here to hurt anyone, but if you do that to me again, I'm going to kill you. And which, there's a lot of there's a lot of yelling and stuff going on in the Marines come downstairs and they're like, All right, everybody, break it up. They're doing what Marines are supposed to do on these ships. They force everyone into opposite corners. He says, I am not a witch. I know some witches, but I am not a witch.
+[2:07:33] Levi Ransom: You just did witchcraft. Light.
+[2:07:38] Ian Lurie (he/him): Light is not witchcraft. Light is something that almost all of my people can do.
+[2:07:46] Levi Ransom: You're all witches
+[2:07:48] Ian Lurie (he/him): and you're all morons, but I guess too much. What's a moron is that a witch? He looks around and he looks at the Marine Captain. He says, Am I going to be safe? Because I don't want to have to hurt people. The Marine says, Come up on deck. We'll have to figure this out new. He turns to you, Levi says, report to your Lieutenant tomorrow morning. Which you may or may not get flogged for that you're not sure, but it's definitely not. It's not considered good form to stab a member of your crew. Let's just say
+[2:08:38] Unknown Speaker(s): which he's a witch.
+[2:08:40] Ian Lurie (he/him): Maybe.
+[2:08:44] Levi Ransom: It's, it's weird how all these roles led to this.
+[2:08:49] Ian Lurie (he/him): Yeah, yeah. I
+[2:08:50] Levi Ransom: wasn't planning on going
+[2:08:52] Ian Lurie (he/him): to that drive. Nope, nope. I didn't plan to crit you either. He's only like a third level month. Okay, so back on shore, you guys get off the boat, and Voda is there waiting for you with regorum and a couple other people you don't recognize. She says, Do you have have a moment Sure.
+[2:09:25] Doctah Mossy: Of course, probably have things to catch up on. Have you seen your wife?
+[2:09:32] Ian Lurie (he/him): That's funny, because I was going to ask you the same thing, no, I have not seen her.
+[2:09:37] Doctah Mossy: Oh yeah, we got, I got things to catch up on.
+[2:09:41] Unknown Speaker(s): Oh, crap. What if she's there?
+[2:09:47] Doctah Mossy: Well, they definitely think she's a witch. Yeah,
+[2:09:53] Speaker 1: there's some sort of swapping of worlds. She is not in a good place.
+[2:10:01] Ian Lurie (he/him): Voda says, why? What are you saying?
+[2:10:04] Doctah Mossy: You recognize this, and I'll pull the astrolabe out of the bag. We saw her holding this enchanting right before the earth Sherman, boom, and then she was gone, but it was on the ground, and I see cold.
+[2:10:22] Ian Lurie (he/him): She you're all walking back to her, back to her house, and she actually stops and sways for a minute when she sees the astrolabe and she says, Where did you get that? And rugoram also takes a step back, in fact. So do all the orcs around you. Where did you get that
+[2:10:44] Doctah Mossy: your wife
+[2:10:48] Ian Lurie (he/him): describe to me exactly what you saw?
+[2:10:50] Doctah Mossy: Can we get somewhere private to talk about this? We're still on the street, right?
+[2:10:55] Ian Lurie (he/him): Well, yeah, but no, it's, it's nighttime, so it's just you, the three orcs that are with her, who have the look of sort of, maybe elders or something, and regorum. But she starts walking again, but she's clearly dazed. And you guys go back to her house. There's someone there with the kids who are asleep right now. She says, We'll sit out here, and she takes you to a dining room, and she sits down, and she she just sits. She can't do anything else. She says, Please tell me. Where did you tell me exactly what you saw.
+[2:11:33] Doctah Mossy: Okay, describe exactly what we saw. Mossy saw while running to go do arson, because pirates and the pirates were dicks. And then, after getting briefly distracted about pirates being dicks, finishes. And then, yeah, she was gone. It was clearly had just been used. It was icy cold at the touch, figured I should grab it off the ground rather than Yeah,
+[2:12:02] Ian Lurie (he/him): boda looks wrecked like devastated, wrecked. She she takes the astrolabe and she sets it on the table. She says some things Do any of you speak orkish? No.
+[2:12:14] Levi Ransom: Sango can understand her. Yeah.
+[2:12:18] Obadiah Carter/Rikterr Shep'ard: Rikter speaks or
+[2:12:20] Ian Lurie (he/him): okay so everybody there knows. She says, bravely and madly done, my love, bravely and madly done. May we see each other? May we see each other in the next life? And she says it like to herself, she clearly doesn't, isn't really thinking that anyone around her is even though, clearly there are other people in there who can understand her, and she knows that. And she says this, she kind of gathers herself, and she says this was a gift given to us
+[2:13:07] Levi Ransom: by
+[2:13:12] Ian Lurie (he/him): how much do you know of or religion and our pantheon?
+[2:13:17] Doctah Mossy: I'm happy to make roll sure
+[2:13:20] Ian Lurie (he/him): everyone give me a religion check, because she says this was a gift from luthic.
+[2:13:27] Doctah Mossy: I lost my religion. It fell out of my pocket.
+[2:13:31] Levi Ransom: Okay,
+[2:13:32] Obadiah Carter/Rikterr Shep'ard: 18, all right. Well,
+[2:13:35] Unknown Speaker(s): 17, okay,
+[2:13:36] Ian Lurie (he/him): actually, rikter and Drach, it makes sense the two of you know that luthic is the orcish God. And by the way, if you guys look this up in the dungeon and the DMS guide or something, it's not quite the same, because I'm I do modify, I have modified orcish culture a lot in my games. Luthic is the orcish Goddess of magic and healing. You don't know much about her. Ian's like a lot of orcish deities, there's definitely, you know, you don't know how to separate fact from fiction. Just like if the orcs hear about elvish gods, they hear that they're all racist assholes. You know, it's kind of hard to tell, but luthic is the is a goddess, a full blown goddess, not a demi god. And she says, This is a gift that was given to us when we first founded the northern kingdom. That's the story. It was given to us 1000s of years ago, and it fell to me when we set out from Craig McGough to try to set out to try to create a new a new place for our people. We brought it here, and this is it's a device that is only supposed to be used in times of great need. It has only been used once before. It can only be used once more, if the legends are correct, and with it, or so we have been told. And I must ask you that this is not talked about anywhere else, if it has been told it can be used to summon cats from the void, who then stare into the camera, mysteriously looking very smug anyway. Says it can be used to alter reality, to change the world around us in fundamental ways, truly great in fundamental ways. The last time it was used, the consequences were both profound and terrible. It got us it. It saved my people from a monster that. Again, this was hundreds, 1000s of years ago. So I don't know for certain, but it saved our people from a creature no one could stop. Spells bounced off of it. Weapons bounced off of it. It was consuming everything in its path. Our kingdom was doomed to great suffering if we could not stop it. One of our sages or mystics, I know not because this is so long ago, used this caused the creature to just to vanish, but at the same time, a third of the people in our cities also vanished and never reappeared. So as I understand it, the use of this carries great power and great peril, and the more you have it do, the greater the peril, the greater the power, the greater the peril. So everyone can give me an Arcana check
+[2:17:05] Levi Ransom: over the party line. You guys hear Sango say it sounds like it's kind of got a sacrifice option, kind of like the quintery, the quinary, like, yeah, 2620 623, nine,
+[2:17:27] Ian Lurie (he/him): rikter and Mossy, she has just described a spell to you that you've only heard of a couple of times, and it's called a wish and you're Pretty sure she's describing a wish spell to you. Spell where the more you ask of it, the greater the potential for harm. It can change realities. It can warp realities, but it is incredibly dangerous.
+[2:17:58] Unknown Speaker(s): Okay,
+[2:18:04] Doctah Mossy: party line. This is a very powerful thing. Should we now give it back to them? But it's also very powerful, like guys
+[2:18:18] Unknown Speaker(s): don't think it's the kind of
+[2:18:19] Josiah in reovery & denial: thing that if we just decided to take that, they would let us,
+[2:18:25] Doctah Mossy: given the nature of the exchange with the ship in Bay, can we hold on to this while we sort how to return them, because it's related to their appearance? Do
+[2:18:43] Ian Lurie (he/him): I will keep it here, but I promise to you I am not going to use it. Okay, my wife was incredibly foolish and brave, and I'm sure she is gone forever because of this.
+[2:19:00] Doctah Mossy: I'm putting it's in the bag of holding still, but I'm putting in the description that it's with voda, yeah, and
+[2:19:09] Ian Lurie (he/him): it is called the astrolabe of three wishes, now known as the astrolabe of one Wish, but it was the astrolabe of three wishes,
+[2:19:27] Unknown Speaker(s): yeah, party line could be useful for our future endeavors.
+[2:19:40] Doctah Mossy: Sure could. But also, I don't know how to tactfully bring that up in front of a potential widow, and we got some semen to deal with, and not the normal drag kind.
+[2:19:52] Ian Lurie (he/him): Actually, you could say you have an entire Galleon of semen out there, but, okay, I've been holding on to that one for a few weeks. I got to admit,
+[2:20:06] Unknown Speaker(s): so much,
+[2:20:07] Ian Lurie (he/him): just once, okay, just once I had to come up with, I just had to throw one of those out there.
+[2:20:13] Levi Ransom: I'm so proud of you.
+[2:20:19] Ian Lurie (he/him): She, by the way, she gives you some of the story. And it turns out that there was a great war among the orcs between the followers of luthic and the followers of grumpsh. Grump she's a warrior God. Luthic is a goddess of magic and healing, and in the end, the followers of luthic won against these incredibly violent followers of Grunch because luthic intervened and gave the orcs. This is the legend, gave the orcs certain powers that helped them defeat the warriors of Grunch. There are still plenty. There are followers of Grunch in this city, but this astrolabe was gifted to the leader of the followers of luthic when they won that war. So that that's where this comes from. Um, she says, I have to think of how I'm going to tell my children
+[2:21:12] Unknown Speaker(s): that this has happened.
+[2:21:15] Ian Lurie (he/him): We're but I also have to tell you I am very for we are very fortunate that that's, if that's all that happened, we are very, very fortunate.
+[2:21:34] Doctah Mossy: I'm so sorry for trying time. Please take a cat.
+[2:21:38] Ian Lurie (he/him),Josiah in reovery & denial: I would love, I would love to see if there's a, if we could tell, like, this is not my specialty, if there was
+[2:21:48] Josiah in reovery & denial: a an inversion, or, like, just a swap, as opposed to a,
+[2:21:56] Unknown Speaker(s): holy crap, there's a big ass Boat. And then
+[2:22:00] Doctah Mossy: I dig through all the Arcana? Well,
+[2:22:03] Ian Lurie (he/him): you can, yes, you can dig through the Arcana. This would be a good time to do it.
+[2:22:07] Unknown Speaker(s): Okay, ooh,
+[2:22:11] Josiah in reovery & denial: is there a way we can get to the house and do it like a research project?
+[2:22:14] Ian Lurie (he/him): I mean, go back to Wildwood. Yeah.
+[2:22:20] Doctah Mossy: Sure. I don't have faith that these sailors won't shoot people.
+[2:22:28] Unknown Speaker(s): Oh, they probably belong.
+[2:22:35] Ian Lurie (he/him): Okay, so let me so while you're still there, because Voda wants, needs everyone to leave at this point, but she does say, we have another thing we have to discuss in the morning, which is those were not all the Corsairs. That was a tiny number of them. And after this, they will be back, and they will be they will show up with a much more complete force, including magic and clerics and whatever else they can bring to bear.
+[2:23:05] Doctah Mossy: Yeah, but you see the cannons they've got. If we can get some black powder, we got a shot,
+[2:23:10] Unknown Speaker(s): and we got our own ship,
+[2:23:12] Doctah Mossy: exactly, we
+[2:23:13] Ian Lurie (he/him): will. We will have to speak of that in the morning for now, if you will forgive me, I need some rest, and I need to figure out how I'm going to tell the rest of my family. Rest of my family
+[2:23:24] Unknown Speaker(s): about this, of course.
+[2:23:36] Ian Lurie (he/him): So with your 26 Arcana, you think, what probably that there are two possible outcomes here. If the user of this item, a very savvy magic user of any kind, could have worded the wish in such a way that maybe they traded places. They could, even if you did it carefully enough, you could theoretically have brought the Albion here with no other consequences. It is possible to do that you but you have to word the wish flawlessly, partly because the gods don't like it. The very fabric of the universe does not like it. When you use a spell of this power, and it will resist and it will attempt to balance things out any way it can. More likely the use of something like this would destroy the user.
+[2:24:35] Doctah Mossy: Oh, balls.
+[2:24:37] Ian Lurie (he/him): And you know, if it's possible, you know, the user might have, might have had the inverse effect on her, but unless she knew enough to sort of steer herself to the right place, there's no saying where she if and where she appeared. If she appeared, she may have appeared on the elemental plane of chaos. She may have not reappeared at all.
+[2:25:03] Doctah Mossy,Josiah in reovery & denial: Um, I was thinking, or can King Arthur's Court kind of thing,
+[2:25:09] Doctah Mossy: she grogged herself.
+[2:25:12] Ian Lurie (he/him): She grogged her, but more so Ian grog was still in a place. Um, she has probably wiped herself from existence completely,
+[2:25:21] Unknown Speaker(s): absolutely.
+[2:25:22] Ian Lurie (he/him): Um, doodle. I'll
+[2:25:23] Doctah Mossy: share this rather depressing insight outside of earshot. Yeah.
+[2:25:28] Ian Lurie (he/him): You also think, by the way, that if the story fits, and Sango, you would know this from your historical knowledge, if the story fits, they probably used the first wish against a torask. Do which would fit the description of the gigantic, unstoppable Mossy eating everything in its path that they couldn't stop with anything else they did. And the timing is about right, because you know that there was a Tarasque incursion in the north about 1000 years
+[2:26:00] Unknown Speaker(s): ago. I would
+[2:26:05] Levi Ransom: share that whatever mission I have
+[2:26:10] Ian Lurie (he/him): and making a terrace disappear would take a lot more powerful wish than making a large wooden ship appear, which would explain why a third of the people are
+[2:26:21] Doctah Mossy: running theory, then is she got, she didn't understand how specific she needed to be with that wish,
+[2:26:30] Ian Lurie (he/him): from what you know. And you don't know a ton about wishes, but you know you were trained by a caster. In fact, several of you were, and you were all cautioned to never use wish. And if you did have to use it to do it in with incredible care and expect there to be horrific consequences, and that, you know, certainly using a wish without preparing guarantees disaster, I mean, absolutely guarantees disaster, using a wish with careful preparation is incredibly foolhardy and risky, and can be done in extreme circumstances, but like world ending circumstances or world changing circumstances, even using it to stop a to ask, probably pretty foolish, because the truth is, you know, the Tarasque will run, and it will kill lots of things, and it'll be gone. They probably wouldn't have lost a third of their people wishing a task, you know, if the trash could simply rampage. But everything you've ever been taught about wishes is they require rigorous preparation, incredible intelligence and very careful forethought. You certainly don't stand on a on a hill, grab the item, look down at destruction and with no planning, say we need a weapon. You know, we require a weapon of deliverance, which is basically what she said,
+[2:28:11] Doctah Mossy: Okay, well, we'll have razor glass to it starts
+[2:28:19] Ian Lurie (he/him): with an Ian's Ian's worry about it. You don't have to remember her name. She has exited, not to be cold hearted. But with that, you guys go back to the storm's respite for the night, which is where you have your rooms, I'm assuming, or is there other stuff you want to do.
+[2:28:46] Levi Ransom: It just seems like they still have a pirate issue that isn't going to solve itself, and she doesn't sound like she really wants to use the astrolabe again to solve it. So maybe this is a situation where we can help her, help ourselves. Help Help us. Help her. Help again.
+[2:29:21] Unknown Speaker(s): I'm totally with a Sango here. I think that's a great idea. We don't know, okay, if I'm going to think about this
+[2:29:36] Josiah in reovery & denial: the next the first thing we need to know is when they're going to want going to arrive. So I think that having some level of like, can our, can our ship Scout
+[2:29:50] Doctah Mossy: approximate that if we know where, yes, we found out where they were based, and we know they'd be coming in by sea, we could get a ballpark, but that with the maps, right?
+[2:30:02] Ian Lurie (he/him): I Ian's say that regorum would have, can have told you this, there's a group of Ian's about a half day sale in the kind of craft that the Corsairs were using away from here, very well sheltered. Apparently, they're in some kind of internal covered harbor or something. It's pretty large. There's probably, you know, everyone well, you remember last time they were saying there might be 1000 Corsairs together, you know, a fair sized
+[2:30:37] Doctah Mossy: How long do they normally stay? Once they
+[2:30:42] Ian Lurie (he/him): they normally come collect and then turn right around and
+[2:30:47] Doctah Mossy: go back. We're running out of time. No,
+[2:30:49] Levi Ransom: 1000 people. Okay. Thanks, thanks.
+[2:30:52] Unknown Speaker(s): Okay. I'm
+[2:30:56] Doctah Mossy: sorry their ship would have been returning today. So we have
+[2:31:00] Ian Lurie (he/him): ships. Their ships would have been back within 24 hours or a little bit longer,
+[2:31:07] Doctah Mossy: so we have maybe a day before they get here.
+[2:31:15] Ian Lurie (he/him): Give me a wisdom check.
+[2:31:21] Doctah Mossy: Oh, my God, haha, dirty 20.
+[2:31:24] Ian Lurie (he/him): Oh, you think it would probably take them some time to, you know, first they'd be like, Well, okay, where are they? We haven't heard anything. Maybe they're just late. Wait another half a day. Okay, did those assholes steal from us? Wait a little bit longer and then send out scouts to see what happened. So you probably got a couple days at least okay, because then if they figure, if they do suspect what happened actually happened, what actually happened happened, then they're going to gather their forces. They're going to, you know, they're not just going to come running over here. These are pretty sophisticated. This is a pretty sophisticated group. They're not, you know, they're not just, they're not a gang, right? They're a pretty well organized force,
+[2:32:15] Levi Ransom: okay? We have a, we have a sitting duck ship out there that might be able to help us, help ourselves, help them,
+[2:32:25] Josiah in reovery & denial: help if we can help them fix their cannons. So I'm thinking of like a hammer and animal situation. Strategically, they're going to come into this port. They're going to see this big ass boat. That is going to be confusing, and so they're probably going to once, once the big boat starts shooting at them, they're going to come in. My recommendation will be to have the airship coming from behind and press them into the press them into that situation. They don't have a way to escape, and they're being fired upon these by these massive Ian's.
+[2:33:13] Levi Ransom: And then, because this happens at sunset, the sun will be behind us, blinding them to our approach.
+[2:33:20] Josiah in reovery & denial: Yeah, there are also other ways. For example, I have never tried to see if spike growth can be on water and there could be ways to slow them down or create choke points. So I think that we have probably, let's say, 36 hours to to prepare a defense.
+[2:33:50] Levi Ransom: You should test that out beforehand. Oh, yeah.
+[2:33:58] Unknown Speaker(s): But also, Ian, I want to respect the time. Yeah,
+[2:34:01] Ian Lurie (he/him): I have to. I do need to sign off here shortly. But okay, so what I would say is, over the next couple of weeks, think a little bit about the plan. When we get back together in two weeks, we'll pick up from here. And I think we'll probably start with some kind of war council, maybe, if that's what you guys want to do, and you can kind of figure out what to do from there.
+[2:34:27] Unknown Speaker(s): Oh, yeah, cool, cool, cool. This was weird and fun, and I love it.
+[2:34:32] Ian Lurie (he/him): This was weird and fun. Yes, I agree.
+[2:34:35] Levi Ransom: I got to shank somebody.
+[2:34:36] Ian Lurie (he/him): You got to shank somebody he for which he does not shank you. He did not shank you back. I don't know. I don't know anyway.
+[2:34:45] Levi Ransom: All right, yeah,
+[2:34:46] Doctah Mossy: James, punch a Nazi or shank,
+[2:34:51] Ian Lurie (he/him): just to keep things balanced, yeah, yeah, absolutely. All right, guys, thank you. Thank you.
+[2:34:58] Obadiah Carter/Rikterr Shep'ard: Thank you. Good night, everyone. You.

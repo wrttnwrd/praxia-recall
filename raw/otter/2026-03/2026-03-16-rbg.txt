@@ -1,0 +1,691 @@
+# Ian's Meeting Notes
+# Otter recording 2026/03/16 17:20:24 (2h 27m) id aUvgS40Z2naxbN_VkrVCDUM1xjw
+# https://otter.ai/u/aUvgS40Z2naxbN_VkrVCDUM1xjw
+# Speaker-attributed transcript, verbatim. Raw source for the card at /items/otter/2026-03/2026-03-16-rbg.md
+
+[0:01:52] Jamie Indigo: Ian Hey, how's it going?
+[0:02:16] Unknown Speaker(s): Yeah, living the fucking dream.
+[0:02:26] Ian Lurie: Topping it all off, hey, topping it all off with a healthy dose of family dysfunction. Of course,
+[0:02:32] Jamie Indigo: this is the way of our people. Yeah. Peter Mark, Ian,
+[0:02:45] Ian Lurie: I'll be dealing with all my dogs eccentricities while we're gaming tonight. So give me one second. Go ahead.
+[0:03:18] Unknown Speaker(s): Ian Hey, hey everyone. Wow, you got everybody. It's been a while.
+[0:03:39] Jamie Indigo: Been a while.
+[0:03:40] JP Sherman: This is, this is, this is destination TV,
+[0:03:43] Ian Lurie: yeah, what game? What game are we playing? Again? I can't remember Roblox. ROBLOX, yeah, monopoly shoots the ladders.
+[0:03:56] JP Sherman: Eight. Monopoly with a passion,
+[0:03:57] Ian Lurie: yeah, it's the first three hours are okay. After that, it kind of drags on.
+[0:04:04] JP Sherman: I turned into Bernie Sanders.
+[0:04:08] James Svoboda: I don't understand Scrooge. I turned into Scrooge McDuck. It's not dead.
+[0:04:15] Jamie Indigo: I just Oh, I just wander off. That's how I play Monopoly.
+[0:04:20] Ian Lurie: I just turn into me, which is particularly troubling. I'm like, kicking people out of their houses. Get out. There's money to be made off. Okay, so for tonight, I don't know how long we're going to make it here, but I'm going to give it a shot. Dogs already barking. I've had four texts from my mom in the last 120 seconds, so I'm going to, yeah, I'm turning that off. Hold on mute. I. Okay, can't mute the dog. Can mute her. So I sent you all a recap. Did that make sense? Basically, the main thing to understand is you have been dropped by Lurie school on the outskirts of silver. Ian, you are on the opposite side of this huge set of falls called the gorges, and as you approach from the east, just all around you is this black, glassy stone, of course, bedrock. It's just everything that was created in the ruins of Amos fall, and there's this roaring sound that just fills your ears. And you realize as you look that it's it is the gorges, it's all the waters of the Hell Girl draining from the gap and just thundering out of sight through this massive crater that was created when a moth fell. You're probably still a quarter mile away, but you can see the Western rim of the crater just kind of shrouded and missed. And on that rim is perched this city that just does not look like it should be there. It's apparently carved from a single, enormous piece of stone, the bedrock of the crater itself, and it clings to the top, and then sort of down the side of the crater, and the buildings blend into the surrounding stone. It's towered. There are towers and streets and these low, squat buildings that kind of almost crawl down the cliff side. And then there's a series of of spans of bridges that leap across the chasm of the gorges, sort of towards you. And at the end of each of these spans are these docks. And on these docks you see hovering these weird looking almost river boats. And those are the river boats that ply the waters of the river sticks. And they do it by descending the falls and rising along the falls and separate from the city, just, you know, maybe a few 100 yards across a flat expanse of rock, you see this single, forbidding tower that almost leans towards you or the city, and you're not entirely sure what that might be. And just to give you a quick glance
+[0:07:29] Unknown Speaker(s): of what we're talking about here,
+[0:07:35] Ian Lurie: sorry, hold on. I basically fed all my writing into chat GPT and said, try and draw me this. I know you're going to suck at it, but it's better than not having anything at all. And it didn't do a terrible job.
+[0:08:12] Unknown Speaker(s): All right? So it looks kind of like this.
+[0:08:26] Ian Lurie: So you can see the docks down here, and these weird bridges that kind of branch out. You can see, this is the Hell Girl flowing in from behind the city, and then pouring down the chasm and down. And then this is all the gorges, all of this. This is the weird tower. No idea what the hell that is. And then this is the city itself. And it is deafening. You're not sure how anything gets done. This is really where you're standing right now to get to the city. There is an obvious path, if you go to the right and around the rim of the crater, but you have no idea how anyone in the city, how anything happens in the city. It's completely deafening.
+[0:09:18] Unknown Speaker(s): So there we are. What would you guys like to do.
+[0:09:26] Ian Lurie: Keep going. I can hear you
+[0:09:27] James Svoboda: did Vax, if come with us,
+[0:09:31] Ian Lurie: did you want him to
+[0:09:33] James Svoboda: No, I was just Yeah, did he? Did he fly on the dragon with us?
+[0:09:37] Ian Lurie: He did not cover. Come on in.
+[0:09:40] Jamie Indigo: Come on. Terry back sets remind me who that is.
+[0:09:43] Ian Lurie: Retreat. He is. He is the Abishai, the black Abishai that was with Uru school when you were at Uru school's lair.
+[0:09:54] James Svoboda: He's like a he's a servant of Tiamat, right?
+[0:09:59] Ian Lurie: All. Abishai are servants of Tiama Yeah,
+[0:10:05] JP Sherman: he's not like our babysitter.
+[0:10:07] Ian Lurie: New, you guys don't have a babysitter. Okay,
+[0:10:10] Jamar Ramos: no, but he saw everything that was going on. So Richter's worry was that he would go back to Tiamat and snitch about the boom that we got.
+[0:10:20] Jamie Indigo: Oh, Tiamat was scrying on, yeah,
+[0:10:23] Ian Lurie: chances Yeah, it's the odds are not. There's a non zero chance that Tiamat knows everything that happened anyway. And given that all chromatic dragons are backstabbing assholes, it might be that Tiamat expects no less, it's hard to know for sure. Apparently, I'm gonna have a halo for a while. Look at this glowing.
+[0:10:55] Jamar Ramos: So should we go about finding how to hire a marina lift to help us.
+[0:11:06] James Svoboda: Very good idea. Maybe there's somebody in the town that knows a little bit more about what's down the river or up the river, whichever way it is.
+[0:11:20] JP Sherman: Yeah, moving into town, we
+[0:11:23] Jamie Indigo: look like we don't belong here. So are you sure they're gonna want to talk to us?
+[0:11:35] James Svoboda: Do we have any idea of the makeup of the citizens of the town?
+[0:11:41] Ian Lurie: No, what's give me a
+[0:11:47] Unknown Speaker(s): give me a random luck.
+[0:11:51] Ian Lurie: Give me a history. Check anyone?
+[0:11:52] James Svoboda: It's a natural 20.
+[0:11:55] Ian Lurie: Okay, so one way to start the evening. You know that this crater, everything around you happened about seven years ago. That city looks like it's been here for hundreds of years, maybe 1000s. The path you're on right now, because of the role you got, looks like it was built maybe 50 years ago. None of this makes sense. Time wise, is
+[0:12:28] Jamie Indigo: this city full of Abishai or
+[0:12:32] Ian Lurie: you don't know? You have to go into the city to know you're too far away. Okay.
+[0:12:38] James Svoboda: Okay, so time timeline wise, this. This whole, this plane, this field of bones, or that's not quite, but that's the area we're in, right?
+[0:12:51] Ian Lurie: You're you actually, so
+[0:12:53] James Svoboda: there's the skirts of it, there's
+[0:12:55] Ian Lurie: the field of bones. And where you are now is actually in the crater itself. The field of bone is outside of the crater. But you now When, when, when you went to Uruk schools lair, you went over the rim of the crater, down into the bottom, and then the city itself sits at the crater at the bottom of the crater, so think of it as a bunch of steps. Okay, all right. There's the fields of bone, which is the plains on the surface of the cedria of the continent itself. Then there's this huge caldera crater, right? That's and that's where you were up until a few minutes ago. And now you're on the edge of this really deep crater that is the gorges.
+[0:13:44] James Svoboda: Okay, so the crater, do we know if it was created when the fall happened? Yes, okay.
+[0:13:52] Ian Lurie: Again, with your, with your natural 20, you know that that's when it when it when it happened.
+[0:13:58] James Svoboda: Okay, so, and then this city is several 100 years old, at least, and this road is only 50 years old, which is predates the fall.
+[0:14:07] Ian Lurie: It all appears to be that old. Doesn't necessarily make sense.
+[0:14:14] James Svoboda: Backwards doesn't make sense either.
+[0:14:16] Ian Lurie: That's right, none of this really makes sense. I gotta figure out a way to here. I'm gonna I'm gonna move.
+[0:14:27] JP Sherman: Keep going. I feel like we should just enter cautiously. Hear me out.
+[0:14:38] Jamie Indigo: What if mossy does disguise self to look like an Abishai, and then we can pretend you're shackled. So that way we can scope before
+[0:14:50] James Svoboda: you get a, you get a you get a shackle,
+[0:14:55] JP Sherman: sirs in the gym, yeah.
+[0:14:58] James Svoboda: Okay, gotcha. That's good.
+[0:15:02] Ian Lurie: Yeah, you'd really stand out then. But if we
+[0:15:05] Jamie Indigo: want to buy a little bit of time before, yeah, talking directly to anybody, it could work.
+[0:15:12] JP Sherman: Yeah, nope, that would probably I'm good with that. I
+[0:15:23] Unknown Speaker(s): Okay, so Mossy.
+[0:15:30] Ian Lurie: How do you want to are you gonna do this? You want to use disguise self to make yourself look like an Abishai and you have seen blue, black and green Abishai. So you can be any one of those.
+[0:15:46] Jamie Indigo: Oh, no, that seems like source consequence. Is there Abishai game wars?
+[0:15:52] Ian Lurie: Well, you know that black Abishai, at least, are the Rogues. They're the thieves. They're the ones who they're they're the sneakers around, right?
+[0:16:05] Jamie Indigo: Okay, um, just being pretty well versed in Arcana, have I in all the research montages or anything that would help here?
+[0:16:17] Ian Lurie: Well, the main thing is, the main thing. Actually, give me a give me an Arcana check you want to roll high 29 that'll work. Your first concern is language. So you're pretty sure when you were talking to bachelor. He was communicating with you telepathically, which means you either, and you're pretty sure that Abishai can speak draconic and infernal aside from telepathy,
+[0:16:58] Jamie Indigo: okay, I can do draconic Hear me out. What if, when I do this, I have a shy costume, I'm also going to put a big bandage across my throat and make it look like that's why I can't speak words, but I can use message to you mimic telepathy and speak draconic.
+[0:17:19] Ian Lurie: Okay, it will definitely require roles. But okay,
+[0:17:27] Jamie Indigo: anybody have rope? We want to tie you all up to look, yeah, usually,
+[0:17:34] James Svoboda: usually Jack has some whoop. It might kind of silky, but you know, he's
+[0:17:37] JP Sherman: probably got, I had the good rope.
+[0:17:40] Jamie Indigo: Just, just leading a bunch of kid nappies around in fuzzy handcuffs. I love this.
+[0:17:46] Ian Lurie: Yeah, yeah, that's, that's not gonna, that's not gonna work. Okay?
+[0:17:50] Jamie Indigo: So I'm gonna, gonna do look around. Everybody want to go with this?
+[0:18:01] JP Sherman: Sure? Yeah, I think, I think the just, if I'm gonna look around and see if there's any, because potentially, kind of, like, going into, like a beast, sense, trans and, you know, having a helpful bat or animal to kind of just do a quick scope, like, what are the beings that we see in the area? Okay?
+[0:18:25] Jamie Indigo: So I'm going to do two things here. First, I'm going to cast comprehend languages on myself, so that way I understand it if they speak not draconic to me,
+[0:18:35] Ian Lurie: what's the duration? An hour? An hour? Okay, because
+[0:18:39] Jamie Indigo: we're just looking to buy time while we get into here and make a deal, right? Okay, and then disguise self. Did I know anything about coloration and alignments from that or,
+[0:18:53] Ian Lurie: well, they're devils, so they're all lawful evil or neutral evil, okay?
+[0:18:57] Jamie Indigo: Well, I'll go with the black out of shy and then no bandage to make it look like I took an injury around the run the voice box.
+[0:19:06] Ian Lurie: Richter, did you have something?
+[0:19:09] Jamar Ramos: Richter is going to politely decline having shackles put on him after his experience of being in jail when you first met him, he does not want to willingly be shackled, so he'll stay outside of the city until you guys let him know that it's safe,
+[0:19:28] Jamie Indigo: my guy, we need you here with us, and we can also do the trick. Not so you're not actually tied. It just looks like you are. Okay. So like a knot, that would be very easy to, you know, flip little thing and pop right out of super easy that looks like they're tied in. So he can do a,
+[0:19:47] Ian Lurie: he could do a Superman and just sort
+[0:19:49] Unknown Speaker(s): of, yeah, break the okay. No, no one's
+[0:19:51] Jamie Indigo: actually tied over this, because if something goes wrong, we need everybody's hands free.
+[0:19:56] Unknown Speaker(s): Yeah. Okay.
+[0:20:00] Ian Lurie: Um, all right, and then drag you were going to sniff around to see if there's any creatures around that could tell you a little bit.
+[0:20:10] JP Sherman: Yeah, I want to take a look at the local the local fauna.
+[0:20:14] Ian Lurie: Okay, there is very little life that you can just see, if you want to try you can, do you have any kind of sense beast or anything like that?
+[0:20:34] Unknown Speaker(s): I can't remember what? Nothing, nothing, nothing like that.
+[0:20:40] Ian Lurie: Okay, maybe a nature check,
+[0:20:43] JP Sherman: like, like, nature survival, or something
+[0:20:46] Ian Lurie: like, yeah, because basically, think of it as hunting, but you're not going to stab something. You just want to try and find something, right.
+[0:20:54] JP Sherman: Okay, so survival would be a 29 okay. You're
+[0:21:03] Ian Lurie: kind of looking around between the rocks, and you find you see a small lizard. It's about the width of your hand, maybe black, very scaly, kind of looks at you quickly, and that kind of quick, you know, lizard twisting, tilting the head, kind of thing.
+[0:21:24] JP Sherman: I'll burn an animal friendship, okay? And I'll have just kind of have a rest on my shoulder.
+[0:21:34] Unknown Speaker(s): Okay? He jumps up there, and
+[0:21:39] JP Sherman: we're gonna so the way this is, the way that I'm hoping this works, is that at some point we get close enough to for me to hop into the lizard and scurry in and then be like, Oh, it's full of orcs and or giants or hobbits.
+[0:22:00] Ian Lurie: Okay, so what abilities are you going to use to do that? Can you describe to me how that will work?
+[0:22:05] JP Sherman: Yes, it's a skill spell called beast sense, okay? Or just I hop into that creature, and then I can control it, and then I just hop out, but I am like Dragon incapacitated. Yes. While that's happening, let me do you
+[0:22:29] Ian Lurie: tell your fellow party members,
+[0:22:31] Unknown Speaker(s): oh yeah, you're doing it, oh yeah.
+[0:22:34] Ian Lurie: Be shame if your eyes just suddenly rolled back and you fell over on the ground.
+[0:22:38] JP Sherman: It lasts, it's a concentration spell that that lasts for up to an hour. Okay, so when we are about, let's say, a 45 minute walking distance to the gates, I'll hop in, because we'll be at a safe space, a safe distance, and all I want is just like, who lives here? Are they humans? Or, like, what's what's the because, if we walk in, if, because, if, if mossy walks in, looking like an Abishai, and it's a city of humans and elves, that may not be the right look. Okay?
+[0:23:19] Ian Lurie: So then you don't want so then, mossy, you're not going to change just yet.
+[0:23:28] Jamie Indigo: No, I guess not.
+[0:23:30] Ian Lurie: Okay, why don't you guys make sure you checked with each other and make sure I got this right before you go walking up to the city.
+[0:23:35] Jamie Indigo: So how far a walk are we to the city?
+[0:23:39] Ian Lurie: You are? You figure maybe a half an hour away, and you'll become visible to the city, visible to people. Well, you're not sure. Actually, you're pretty sure right now, given all the mist from the falls, people can't like people can't be getting a really good close look at you.
+[0:23:57] James Svoboda: What? What time of day is it right now?
+[0:24:00] Ian Lurie: It's hard to tell here, because of how solid gray things are. You figure might be afternoon, mid afternoon.
+[0:24:08] James Svoboda: What's the what's the light situation? Is it daylight? Dim light?
+[0:24:14] Ian Lurie: It's daylight. It's like an overcast day.
+[0:24:17] Jamie Indigo: So what if we do pass with a trace while we make this approach.
+[0:24:21] Ian Lurie: Jamar, what were you? Yes,
+[0:24:25] Jamar Ramos: okay, my kid away. Go ahead. Doctor, okay,
+[0:24:29] JP Sherman: like so. So masiya, this little guy can help. We're about, we're about a 30 minute walk away. Let me hop into this little guy. I'll run in See, see who's there. I'll pop out and give you guys a report, that way we know exactly what we're walking into. And this little dude could probably climb over walls or move under things, and he's part of the area here, so, like, I doubt that he'd be out of place. Okay?
+[0:25:00] Jamie Indigo: Just don't knock up any lizards while you're in lizard form, because it's just because awkward. I promise
+[0:25:05] JP Sherman: I'll stay focused.
+[0:25:06] Ian Lurie: Lizard looks nervous, all right.
+[0:25:13] JP Sherman: So, like, I've done this before, but so you know that I sit down and just like, pop up.
+[0:25:22] Jamie Indigo: Ian's squirrel is still demanding some child support checks. What do you want?
+[0:25:28] JP Sherman: I got nothing. It's part of the job. Okay? Ian hop in the little dude and I can set the clock for one hour. Okay? And using his speedy little lizard legs. Legs kind of scurry right up to the eye.
+[0:25:47] Ian Lurie: Okay, you're looking through these lizard eyes and everything's like, it's like you're in a Sam Raimi movie, and you're the bad, you're the evil thing going along the ground, like, only you know, you're on little legs. You're going, you go running up, and there's no gates to the city. There's just kind of this curving path that leads up to the city itself. And you walk through, you just kind of scurry along the road and pass what appears to be maybe a low guard tower, but nothing you know, this place is not fortified. And as you move into the city, you see a really weird mix. You see elves, that's the first thing. And the elves are kind of shabbily dressed. They're, you know, they appear kind of run down, almost nervous, maybe, or nervous or bitter or cynical, you're not quite sure, but it's like if all these elves were teenagers, that's what they look like. And then, as you're looking at them, and you look past them, and you realize walking up to two of them, and even in lizard form, you like brace to jump. Walking up behind one of them is a creature that has that appears to be made of just white bone, and it's spiky and spiny. Its eyes glow this, this kind of seething, searing red. It has these huge wings that almost they they're in Congress because they're these beautiful diaphanous wings that look like Dragon Fly wings, and then this long, spiny, bony tail and at the end of these two long arms, or these huge, long red and claws. And you realize, give me a give me a nature or an Arcana check. I All right, nature,
+[0:28:08] JP Sherman: that would be an 11
+[0:28:10] Ian Lurie: that is a bone devil. And you just, as you're certain it's going to, like, jump on these guys and attack them. It just walks right by, and then you notice that a couple of the Elves, a couple of other elves, are in deep conversation with what appears to be possibly a barb devil. You're not sure, but these creatures have no business being in the same place, but they're all here just sort of living, coexisting, Somehow you even see, at one point this gigantic, almost a gorilla like creature that walks by with three huge horns springing out of its head, orange fur, huge long fangs, and it's walking right next to a diminutive elf again, in some kind of conversation.
+[0:29:33] JP Sherman: Okay, if I'm with the two, there's two things that I'd like to check out at the time that I've looked is one that is, there, is there any evidence of people like us, adventurers, out of towners, outsiders in the city? Okay? And then the second thing is, find, like a small cache of bugs, so that once I. Hop out of this of this little good dude. He has something to
+[0:30:06] Ian Lurie: eat, okay, um, give me a give me an investigation, check to try and find,
+[0:30:14] JP Sherman: oh boy. Investigation nine.
+[0:30:20] Ian Lurie: Okay, you don't really see it's this is such a bizarre collection of characters, it's hard to know if there are adventures here or not. You sort of feel like, oh, it would be hard to stand out someplace like this, except that you're new. So just like in any city, and this is not a particularly large one, you're new, and you may not look like everybody else, but nobody looks like anybody else in this place. It's bizarre. Now, you know, you're an elf, so it could be worse for you, mossy always has a problem fitting in. You know, Richter is this monster of a paladin. He might have a tough time. But on, you know, at the same time that there's devils here, there are also elves here, and Sango is Sango, he'll probably just disappear. So he's good. As far as finding some bugs, that is not a problem. You just kind of, you look around a little bit and right off, just off to the right, there's a couple of flies fighting over, I don't know they're having a debate that's about to end.
+[0:31:32] JP Sherman: All right, take care a little dude. Pop out. So I got in the gate, and it's a weird place. So it looks like there are devils and elves primarily live in the same place. Everyone looks like bummed out, sad and really just like downtrodden. And the devils are devils. Like, there's a bone devil and there's, there's, like a gorilla devil. But like, they didn't they're not up each other's business. They're just, like, coexisting. They're having conversations, devil to devil, devil to elf. There's no real drama. But like I looked for like other people, like us, people adventuring or parties or groups or things like that, I couldn't find anything like that. So it's one of those places where everyone there is so different, we would probably not stand out. But I also think that I would probably the person who'd be the least standing out. So it's not like a fortress, it's not a it's not a prison, it's not people aren't in shackles. So, and
+[0:33:10] Ian Lurie: you did see there is sort of a little guard booth when you walk in, but it's, I mean, there was one very bored looking person sitting in the guard booth, right?
+[0:33:21] JP Sherman: So that's what I saw, that's what I found.
+[0:33:24] Jamie Indigo: So you saw turtles and tobac seeds. We're good.
+[0:33:31] Ian Lurie: You saw elves and devils. I
+[0:33:32] JP Sherman: saw elves and devils. I didn't see anyone else, really. No, humans, no.
+[0:33:37] Ian Lurie: So, I mean, you were there as a lizard. It's not like you covered a ton of ground, right? Yeah, you got to look at one little one little area, yeah?
+[0:33:48] JP Sherman: So I think that, yeah, we should probably make some effort to, like, hide our uniqueness or just kind of blend in. But walking in as an Abishai with prisoners that would probably raise more raise more eyebrows. Like, I'd rather of them not care who we are, then be like, that's weird. Do we all have like so is, is Cregan with us?
+[0:34:50] Speaker 1: I'm assuming. Okay, okay, Cregan, are you with them?
+[0:34:56] Sango / Cregyn: Yeah, boss man, all right. Okay.
+[0:35:00] JP Sherman: We definitely will attract attention. But this does not like the play type of place where that's a real issue. But again, I was only there for like five minutes in Elizabeth well,
+[0:35:15] Ian Lurie: and you basically imagine going to a big city, sitting on one corner for a few minutes and then leaving. That's that's what you've seen.
+[0:35:29] Unknown Speaker(s): But it's weird. You know? It's weird.
+[0:35:34] Rikterr: Richter is going to start taking off a grown as armor. He always has one of the fancy dress suits that we got underneath it, just in case. So he's going to take off that armor, put it in the bag of holding that he has, and then snap Bastion into the pocket realm. So that way, even if he does stand out, he looks less like a threat than if he came in armor, ox, blazing,
+[0:36:10] JP Sherman: Sango, Craig and do you have any way to reduce your profile? Mostly Craig and not really okay. I could put my shield and my ax away, does kriegan go invisible too?
+[0:36:49] Jamie Indigo: Can't double see invisibility pretty common.
+[0:36:52] Ian Lurie: Some can Yes, yes. So a lot of them have things like BLINDSIGHT, so you'd have to be within a certain distance for them to notice you. But not all of them. I'm just looking Some do, some don't. Yeah, it's, it's not a given. It's, it's no more likely or unlikely than than any other group actually.
+[0:37:34] JP Sherman: What if? I would probably blend in for the most part here. So do we want to disguise ourselves, or should we just like
+[0:38:00] Jamie Indigo: Ian? I think I might be the one that can disguise myself.
+[0:38:04] Sango / Cregyn: What's the, what's the what's the ground situation? Is it dusty? Is it? Is it clay?
+[0:38:11] Ian Lurie: It is bedrock, bedrock. It's in some places, it's bedrock in some places, it's fused glass.
+[0:38:21] Sango / Cregyn: Okay? And in fact,
+[0:38:25] Ian Lurie: as you move towards the city, some of it is also quite slick because of the mist that seems to be falling all the time.
+[0:38:39] JP Sherman: I Well, if we're there to get passage, what if we just stop at the gate? As a we are travelers here to hire, looking to hire the marigorm Miranda. Off. Miranda love to take us into the river sticks.
+[0:39:07] Ian Lurie: You're looking for passage. You don't have to hire a particular thing. You just you're looking for passage,
+[0:39:15] JP Sherman: and ask the guards, like, is there anything that we should like, like, is there anything that we as a group should be concerned about? Like, are we going to be like, What are your What are your rules that we need to follow?
+[0:39:32] Ian Lurie: Okay, so that that's the conversation you want to have with them. You're not there yet, but that's the conversation you might have when you get there.
+[0:39:39] JP Sherman: So I'm looking at like Richter and lossy being like, you guys talk good, better me than me. So, so what I say?
+[0:39:54] Rikterr: Me talk pretty one day i. Do we want to be well, if we're hiring something to go down the river sticks, they know where the hell we're going anyway, so we don't really have to be too secretive. But do the people of this town necessarily know better than we do the rules of the place that we're going, or if we ask them about the rules we need to follow it, they just kind of tell us about the rules of their town. And are we staying here long enough that we want to be worried about that? Are we getting someone to take us to the river sticks and going immediately?
+[0:40:38] JP Sherman: I'm not worried about that. I'm just like, I just don't want to get into any issues before we move, get under, get into the into the boat, like I could be not thinking this through, because those are really good questions. I totally didn't think about, Hey, Boss Man,
+[0:41:00] Sango / Cregyn: this is a port town on the which boss I'm looking right at you. Come on, right front, right here, focus. This is like a this is like a way station, Port between two places, people coming and going like, nobody's coming here, unless they're going up or down the river, right? There's no There's no wall, there's just a little guard post that you check in, like, you know, doesn't have a long, two hour long TSA line, because they pay their bills around here. So they kind of want people come in and go out. It's not a I don't, I don't think we got to really worry too much about that, especially when we got the docky talk guy over there. So I think we're good. We just go in and, you know, talk and find out some information, and then go
+[0:41:57] JP Sherman: down the river. I'm just saying like last time I lost last time I talked to somebody, giant red knee, old couple of my friends got burned alive. So little little shell shock.
+[0:42:16] Rikterr: So shell shock. Isn't that really a shitty thing to say to a torto? You?
+[0:42:23] Sango / Cregyn: Craig, Ian's a little reddish in the face right now, but it passes,
+[0:42:30] Jamie Indigo: I mean, with color theory, though it wouldn't be able to tell, because red and green cancel each other out.
+[0:42:38] JP Sherman: Yep, Jack's being an ass again. All right, no, that makes that makes sense. It's a port town people travel through. They probably get all kinds. We just got to make sure that we know what to expect and like what not to do. All right, I think we're good. All right.
+[0:43:12] Ian Lurie: Still here, guys, okay, so you head up to the town.
+[0:43:17] Speaker 1: Yeah, okay, um, the path.
+[0:43:23] Ian Lurie: Appears to have just been kind of hacked into the rock, and it does actually begin a pretty treacherous passage along the edge of the rim. And as you walk along, you can actually look down, and there's even, like a rope, rope railing there, so you can't accidentally fall off like some someone, someone paid at least passing attention to the safety of the people who who moved this way. It's still slippery as hell, and the noise, again, is deafening. There's this constant wind blowing because of the force of the water going over the falls, but as you're walking along, you can look down over the edge and see where the water just plunges out of sight, like usually, if you're at a waterfall, you can see some there's some spray, or a cloud of mist or something, where the water's hitting, it just vanishes down this huge black hole, and you get the sense of immense distance, like if you fell, you don't know when you'd stop. You know there must be a bottom somewhere, but you don't know when you'd stop. And for about minutes, you get to the next to the city. There's, like I said, there's not a gate or anything there is. There is a guard house. And sitting at the guard house are two creatures, one elf, one devil. And as you walk up, they just kind of nod at you. Did you guys want to. Stop and talk to them. Are you just gonna walk right past?
+[0:45:04] Unknown Speaker(s): Oh yeah, I'll stop. Okay. They both look at you. We're passing through.
+[0:45:10] Sango / Cregyn: Hey, boss man. You hear over the the Ringling ding thing. I thought we were gonna let the talky talk shelled human do this. The shelled human, the shell to you, sure, the one that talks good, sure, I don't want to be chicken. Fred, Turtle today.
+[0:45:36] JP Sherman: Okay, shut up.
+[0:45:44] Rikterr: You want me to talk? And then you said a bunch of funny shit. Now I'm crying. Richter steps up. Guards, how are you? How are you today?
+[0:45:59] Ian Lurie: The elf look the elf looks at you using we're fine. How are you really?
+[0:46:09] Rikterr: Really good. So just these are normal. Where I come from. I'm sorry. Are my manners a little too polite?
+[0:46:17] Ian Lurie: He He takes a moment. You can see him almost shake himself. He's like, Well, I My apologies. You know that you can tell this is not done. Have you ever been here before?
+[0:46:30] Rikterr: No, it's our first time, which is why we thought that you two who see the comings and goings of people every day would be the first two that we would talk to to get some information. You seem like the smartest people in town.
+[0:46:41] Ian Lurie: Do any of you speak infernal? No, the the elf turns to the devil, but I did have
+[0:46:49] Jamie Indigo: comprehend languages popped up. Ah,
+[0:46:51] Unknown Speaker(s): yes, okay.
+[0:46:55] Sango / Cregyn: Understand anybody?
+[0:46:56] Ian Lurie: Okay, so the elf turns to the devil and says, an infernal they're they're just new here. And the devil says, oh, okay, okay. And relaxes a little, because you can see now that the devil was reaching for this nasty hooked blade that was that leans against the chair near it. There's clearly some tension here. And the elf says, I apologies. How may we be of help? You've never been here before.
+[0:47:25] Rikterr: My friends and I are looking to hire someone to help us get down the river. Sticks. Could you point us in the right direction?
+[0:47:35] Ian Lurie: He again, turns to the the the barbed devil sitting next to him, and he says something in infernal and you guys get the gist. He's basically asking him, you know, would you tell them to go here? Do you think it's better to go there? And they have almost, it seems almost like an argument for a second. They says, you want to go to this Ian, this tavern, and it's called the tortured soul, and it's right that way. Just go all the way around the rim, and it's down a little bit below the top, and you'll see it. It's right there. The the logo is, well, you'll know it when you see it. Couple of things about the city, in case you couldn't tell elves and devils live here. There are rules. The rules are strict, no fighting unless someone, of course, attacks you, in which case, fight all you want. Favors offered are never free. Favors taken must have a price. Beware who you make a deal with. And then the the barb devil says something in infernal to the elf, and the elf kind of rolls his eyes and says, Oh yes, and don't trust the elves. So you get the sense they actually probably don't like each other, but they're tolerating each other's presence.
+[0:49:10] Rikterr: See, I knew you would be the people to talk to. Thank you so much for the information. We're gonna head over to the tortured soul now. Excellent.
+[0:49:23] Sango / Cregyn: Saying go. He's got his foot up the staff in one hand, and he just reaches at his couch and pulls out two platinum and puts it on the counter. It just walks off.
+[0:49:38] Ian Lurie: Their jaws drop. It's like they haven't seen that much money in one place, maybe ever. So you guys head into the city.
+[0:49:58] Rikterr: Yes, sir, heading to the. The end, I pointed out,
+[0:50:01] Ian Lurie: okay, so you have to pass quite a ways through, and I'm not going to spend too much time on what you see, except to say, you know, this is a city that looks well made, but dingy things here, don't it just doesn't, you know, it's not an elvish city, either gray elves or Wood Elves. So it doesn't have that sense of natural beauty, or of, you know, filigree. You're not sure what infernal cities would look like. But it doesn't. You don't get that sense from it, either. If anything, this is sort of like the shadow fell almost, except that everything doesn't have that washed out. Feel it's just that it's very kind of basic and gray. You do notice that as soon as you walk past the guard tower. All the noise from the gorges goes away. You can now hear each other speak in a normal tone, which is, you're not sure what did that exactly, but as you move through the city, you do see a few things you you pass by an altar, and the altar is clearly marked with an emblem. If anyone wants to give me a religion, actually, Richter, if you want to give me a religion, check, you would be the one who would know this.
+[0:51:39] Sango / Cregyn: You know what? Our cleric turtle to religion.
+[0:51:43] Ian Lurie: Check you can, you can take a shot. He's
+[0:51:45] Sango / Cregyn: not religion. So no, he's not going to would you
+[0:51:48] Unknown Speaker(s): roll Richter, 1717. All right.
+[0:51:53] Ian Lurie: Cregan experiences a sudden sharp pain somewhere behind his ear. But Richter, you believe that is an altar to as Asmodeus, and you do notice now there are offerings all around it, everything from bits of of cooked meat to, probably dead things to bones To, you know, whatever, all sorts of random stuff. You walk past a temple and drag this is one that you might know, so you can give me a religion check.
+[0:52:35] JP Sherman: There we are. Oh, that's a natural one.
+[0:52:42] Jamie Indigo: So I'm actually fairly good in religion.
+[0:52:45] Ian Lurie: You can give it a shot. The I went to drag first because he's now, but apparently he skipped this entire year of school or something I don't know.
+[0:52:54] Jamie Indigo: No, I saw, he saw a hot loser, a dirty 20.
+[0:52:59] Ian Lurie: Okay, this is a temple to an elvish deity, but not one that you recognize. It's the temple is somehow forbidding and almost has a sense of of a warning about it. It's not, you know, it's so it's, it's not Sylvanus. It's not, you know, it's not lolf, it's not, you know, it's not evil. It's just, it's just forbidding. It just has a sense that it's, it almost feels like the Temple of Helm, but if elves ran the Temple of hell. So anyway, it's, it's some other elvish deity that you don't you don't know, off top of your head and drag has no idea where. We don't know what happened there. The sense you get as you move through the city is that you have two groups that are living together that don't want to, but they're here, and they're, you know, for whatever, whatever their reasons may be, they are spending time together. Hold on one second, guys, what do
+[0:54:15] Sango / Cregyn: you want for dinner? I don't know. Maybe we should have some pancakes. Sorry, I was trying to Ripley real lip read.
+[0:54:22] Ian Lurie: Lip read. Yeah, nice, nice. It was a good try. So you move through the city, it takes about 10 minutes, and everything starts to shake, and you're in a pretty crowded area, there's a lot of people around, and it starts as this kind of low rumbling sense, and the sound of the falls starts to actually creep through whatever barrier or force they're using to keep that sound from coming through. And as everything starts shaking. What do you need? I don't know where they are. I'd be wearing them because they're better than mine. But I don't know where they are. Oh, the little ones. I don't know your everything starts to kind of shake, and the sound of the fall starts to come through. And all around you, all these people that were doing random things suddenly, just get up and calmly go inside. They all go into room. You see doors slamming. You see shutters closing. No one's freaking out. It's very organized. And you know, devils go with devils. Elves Go with elves. There's a couple of storefronts nearby. Some people go into those What Would you all like to do?
+[0:55:45] Jamie Indigo: We should probably go into one of those storefronts. Get off the streets.
+[0:55:51] Ian Lurie: Okay, all right, you you just pick a random storefront. Why did someone roll me a d6, no. You can't, you can't wait that long. JP, that's too long every
+[0:56:07] Jamie Indigo: fucking time you're really bad at nose goes, I didn't know that's
+[0:56:12] Ian Lurie: what that was called, a six, okay, you kind of duck into a storefront and the store owner, is this strange looking creature, humanoid, about the size, about track size, has a beard, but the beard is made of snakes,
+[0:56:36] Jamie Indigo: rare he Medusa.
+[0:56:39] Ian Lurie: It's, is it curled? I don't think it's is it curled? No, it's not curled. Sorry, can't I? I'm not getting the joke. My bad. Actually, I'm sorry. They're not snakes. They they look more like tentacles. It has a huge top knot on the top of its head, these huge strong arms with almost armor plating up and down the arms. And it's kind of a dark crimson purple. And it ushers you in, and it says something to you, and Inferno. And then it closes the gate. The closes everything, and just as you get inside, you hear this hissing sound, and this rain starts to fall and and the shaking stops, and the rain starts to fall, and as it falls, everywhere hits, you hear this, and you see, and it looks as if, probably there's some kind of acid in that actual rain. And the shaking goes on for a few more seconds, and it dissipates. The rain keeps going for Well, for a while. Is there anything you want to do while you're in the store?
+[0:57:52] Sango / Cregyn: Probably look around, see what they have for sale. What kind of store is it?
+[0:57:56] Ian Lurie: Okay? So the shopkeeper says something else, and he kind of waves to the ways around the store, like, hey, yeah, okay, that's right. You sorry, guys, I keep forgetting he, he is saying, Welcome, welcome. Please come in. Take shelter. Take shelter. That's the you don't want to be out there during the during the rain, during the rumbles. Look upon my wares. I've captured the eddies and swirls of time as they are in as they are affected by the gorges. And you see, there's all these little jars and and bowls and other things. And in them are all these little images or things that are occurring. So like in one there's a butterfly that changes shape and crawls back into a chrysalis, and it comes back out again, and it just keeps doing that again and again and again in another
+[0:59:06] Jamie Indigo: one time, magic or some
+[0:59:09] Ian Lurie: kind of, some kind of time, something like a GIF, like a GIF, yes, these are memes. It's a whole store full of memes. Do not ruin my city. Okay, I put a lot of thought into this.
+[0:59:23] Unknown Speaker(s): No, it's incredible. Wait.
+[0:59:26] Jamie Indigo: So if I pop down on lens on the glasses, what's going on in here.
+[0:59:33] Ian Lurie: These are all magic, clearly, but they are what they appear to be, which is these small eddies of time that have been captured in these small glass objects. In another one, there's there's a another one that's about the size of a small fishbowl, and in it there's a glass of water that falls over and shatters and then it reverses and comes up again. It falls over and shatters and verses and comes up again. He says, temporal art, I am, I am one of the best practitioners.
+[1:00:13] Jamie Indigo: Honestly, I feel like we should get something for Roxy. Yeah, yeah. This is
+[1:00:18] Sango / Cregyn: like, this is like, magic sand art, exactly, amazing. It's amazing. I've been looking Sango is gonna look around for one where there's three spiders all pointing at each other.
+[1:00:29] Ian Lurie: There is not one. There's three spiders on Actually, no, you know what? Okay, give me a perception check. Let's see what you find.
+[1:00:42] Sango / Cregyn: It a 15,
+[1:00:46] Ian Lurie: okay, you find one that's that appears to be a single insect of some kind, but existing in three different states simultaneously. It's on a branch. It's falling off the branch, and then is lying on its back, on the base of this small jar. And there's this very rapid movement between them, like you can tell that something is happening. It's not a still image. It's not, you know, three mounted carcasses of a bug. There is movement. Something's happening in there. Well, maybe
+[1:01:28] Jamie Indigo: let's not get one of this perpetual animal abuse. I don't know.
+[1:01:33] Sango / Cregyn: Yeah, I'm with you. Something a little more uplifting, uh, the Roxy would like something more uplifting. Okay,
+[1:01:45] Ian Lurie: give me another give me another Perception check or an investigation check. This time, actually,
+[1:01:51] Jamie Indigo: can I assist? Sure
+[1:01:53] Mossy Oak: I'd love to give you advantage.
+[1:01:56] Jamie Indigo: That's even worse. I should not have given you advantage, because I have a plus 17 in my investigation. Oh, well, I tried to be nice.
+[1:02:07] Sango / Cregyn: Plus one. The first role was a two. The second role was a one.
+[1:02:13] Ian Lurie: Okay, you're looking and looking and looking and you just can't seem to find what you want.
+[1:02:21] Sango / Cregyn: I'm just cutting this loop of this thing. I just, I can't,
+[1:02:24] Ian Lurie: yeah, right, right. It's the same thing again and again and again. And you just, but the shopkeeper seems to take mercy on your plight, and he goes over to you, mossy, and he says, you can understand me. Yes, he had a
+[1:02:42] Mossy Oak: beautiful art.
+[1:02:45] Ian Lurie: Oh, and he says in really bad common Thank Thank you. Thank you. Look he wants. What? What he actually? No, he says, an infernal can. What does he? What does he want? What is he looking for? He seems.
+[1:03:01] Jamie Indigo: We have a friend who's a beholder, and we'd like to get her something that's like, you know those art pieces where it's Ian that moves and makes art put
+[1:03:11] Unknown Speaker(s): in time? Course, yeah,
+[1:03:16] Ian Lurie: I might have just the thing says, And he, he actually scuttles back behind, doesn't scuttle. He thumps his way behind the counter and then around back into what must be a store room, and outside, you still hear that hissing sound, by the way, into what must be a storm. And he comes out, and he's holding a jar with a piece of cloth over it, and he sets it down on the counter, and he takes the cloth off, and inside of it is a swirl of mist that just continuously rises from the bottom of this jar and moves to the top. But because of whatever time effect is happening inside that particular jar, it never stops. So, you know, usually mist would rise to the top, and then there'd be a cloud of mist at the top. Instead, here you have this endless rising plume of mist. It looks very cool.
+[1:04:13] Jamie Indigo: This is beautiful. How much are you asking for this? Well,
+[1:04:29] Ian Lurie: he rolled a 150 gold. He had some great idea that he was going to, you know, some way he was going to scam your swindle, yours, get you into some kind of deal. But for some reason, he just brain farted and
+[1:04:48] Jamie Indigo: party line track Ian's 50 gold, I want to buy rocks, anything.
+[1:04:54] JP Sherman: Of course,
+[1:04:59] Ian Lurie: write down what. It is, and where you got it, so that in six months, we aren't all wondering what the hell this thing is, not that that's ever happened
+[1:05:06] Jamie Indigo: before, sir. Temporal art,
+[1:05:16] Ian Lurie: temporal, temporal, missed art, I would say, Okay,
+[1:05:22] Sango / Cregyn: what's the name of the shop.
+[1:05:36] Ian Lurie: The the mist stops, and he opens everything up, and you exchange the currency. And as you walk out, you see a sign written in an infernal that reads the swirling Eddie.
+[1:06:00] Sango / Cregyn: See, we can, we can call this a missed lamp. I think that's really good idea for the naming this.
+[1:06:10] Jamie Indigo: I mean, at one point I thought the gym of Sue was a good naming, but okay,
+[1:06:15] Sango / Cregyn: and I think we get a whole wall of them and we set up this security.
+[1:06:20] Ian Lurie: Do it. Don't do it. I'm gonna mute you.
+[1:06:24] Unknown Speaker(s): Go ahead, whatever. I
+[1:06:30] Ian Lurie: just felt there was an unbearable pun coming.
+[1:06:34] Unknown Speaker(s): Can we
+[1:06:36] Jamie Indigo: ask about the rain before we go?
+[1:06:41] Ian Lurie: Oh, he just, he says, it happens sometimes, if there's a tremor like you just felt, you should move inside as quickly as possible. It it's very, very painful.
+[1:06:56] Jamie Indigo: We're looking to travel along the river and get a ferryman. I asked so we can know when to try and avoid being outside. When that happens. Is there anything else we should consider in our travels?
+[1:07:12] Ian Lurie: Give me a persuasion check.
+[1:07:20] JP Sherman: At the same time I'm going to drop 10 gold for just say and thank you. I was just talking like and thank you for your hospitality.
+[1:07:30] Jamie Indigo: Did I have advantage for that?
+[1:07:32] Ian Lurie: No, no advantage.
+[1:07:34] Unknown Speaker(s): Yeah, that's a seven. Okay? He says, no, no, no, go ahead.
+[1:07:45] JP Sherman: I was, I'm looking like, can I burn a luck point on you?
+[1:07:51] Jamie Indigo: I think you only burn a look point on yourself. Yeah.
+[1:07:53] Ian Lurie: I think you can only do it when you roll, yeah? Or if someone's trying to affect you with a role, yeah.
+[1:08:00] JP Sherman: I was, I was like, I want to see what would happen if she succeeded like, but I can't burn the blood luckily.
+[1:08:06] Jamie Indigo: Oh, wait, I could. I could use a flash of genius and take it up to a 12. I don't know if that would benefit.
+[1:08:14] Unknown Speaker(s): Um, you could try it.
+[1:08:16] Jamie Indigo: I can try. I'm gonna try it. Okay? He
+[1:08:24] Ian Lurie: the devil looks at you and says, kind of cocks an eyebrow. Says, The one thing I'll tell you is nothing here is free. If you'd like that information, I am happy to make a deal.
+[1:08:45] Sango / Cregyn: How much gold would you like?
+[1:08:50] Ian Lurie: Oh, he smiles. And now you look you're nervous. He smiles and shows this mouth filled with these long, razor, sharp teeth. He says, no, no, that's not for gold. Favors are for favors. If you would like some information, I will require a service or a favor from you.
+[1:09:20] Mossy Oak: Respect that. Thank you
+[1:09:22] Ian Lurie: very well. He looks disappointed, but otherwise
+[1:09:27] Unknown Speaker(s): allows you to move on your way. If
+[1:09:30] Jamie Indigo: you wanted a barter, it'd be one thing, but
+[1:09:34] Ian Lurie: well, you sort of sensed he was kind of looking to barter, but the price might have been a little too high. He looked way too excited. Let's put it that way.
+[1:09:46] Sango / Cregyn: What is the name of this town that we're in? I can't find it in my notes.
+[1:09:49] Ian Lurie: Silver, Ian,
+[1:09:51] Sango / Cregyn: silver, thank you. Yeah.
+[1:09:52] Ian Lurie: I'm gonna put it into the chat
+[1:09:58] Jamie Indigo: party line. Richter. Do it charismatic thing on him or something
+[1:10:07] Rikterr: to make a deal with? Oh no, no, no, no, no, no, no I No. I want
+[1:10:14] Jamie Indigo: you to make a deal with him like that way. Just be like, can you charm something out of him?
+[1:10:21] Rikterr: I think we should go look for our fairy person at this point.
+[1:10:38] JP Sherman: Okay, that's why we gotta go to the end, don't we?
+[1:10:40] Ian Lurie: Yes, you have to go to the end. So you guys head for the tortured soul, and you make it the rest of the way across town. It's not that big of a city. Past you see all sorts of weird things. You see another devil of some kind, enormous, round, shaped devil sitting at a desk with a another one of these Barb devils next to it, shouting out in infernal join the blood war, feeling like you're stuck in one place. Need to be able to rise through their ranks more quickly. Want to gain treasure where you have none sign on to the blood war. One tour of duty will leave you at least three tiers higher in Hell's hierarchy, and that's Craig.
+[1:11:36] Sango / Cregyn: And takes three steps towards that before catching himself.
+[1:11:42] Jamie Indigo: I'd like to think you took two steps before mossy grabbed you by the back of the collar.
+[1:11:46] Ian Lurie: Yeah, yeah. Sign here, my friends, sign here, and you guys just keep moving by. In another place you see an elvish woman, an elvish man and woman, sorry, an elvish woman walking a small child by the hand. And the child is a tiefling with the characteristic horns. This one is kind of a green tiefling hesitate, you know, the fork tail behind it, and she's walking along, and no one seems to pay them a placard that says the tortured soul. And the the symbol on the placard is basically munches the screen that that's that's their their symbology. So it's not a play on words. It's literally a tortured soul. You guys go inside, and inside it is a fairly crowded, reasonably noisy tavern. And for the first time, it feels like you're someplace normal, until you look around. And of course, it is this mix of actually, every kind of creature you can imagine. Mostly it's um devils with a few elves, and then every here and there you see you know a human or a dwarf or something like that.
+[1:13:21] Jamie Indigo: Do you guys see that two flame child? Kind of wonder if that was a kidnapped child? Yeah, it's probably fine.
+[1:13:32] Mossy Oak: This place is actually pretty decent. I'm actually picking up a copy of a West Side rentals. I Ian,
+[1:13:44] Ian Lurie: I got that one. Thank you. Yeah, you're welcome. You're welcome. Ian's supposed to say deadpan stuff. Is that an age thing?
+[1:13:55] Unknown Speaker(s): Maybe it's people who have lived in LA at some point.
+[1:14:00] Ian Lurie: Yeah, okay, all right. What do you guys want to do? You can find a table. Ian's. Is there music being playing? There is no music.
+[1:14:18] Jamie Indigo: Oh, it's this now. Sango's chance to play devil. Went down to Georgia.
+[1:14:23] Unknown Speaker(s): That's right, Hell's Bells.
+[1:14:30] JP Sherman: Bat out of hell. That's that's all the way out. That's what do we leave,
+[1:14:36] Unknown Speaker(s): back into hell, Highway to Hell.
+[1:14:46] Jamie Indigo: Kenny Loggins, danger zone.
+[1:14:49] Ian Lurie: Yes, you guys are standing in the doorway of this place.
+[1:15:02] JP Sherman: I can go find I'll go. I'll go find a table.
+[1:15:05] Unknown Speaker(s): Okay, no problem. You find one.
+[1:15:11] JP Sherman: Take a look around. Are there any
+[1:15:16] Ian Lurie: familiar and or recognizable drinks that are being sold? You think there might just be ale. It looks like the elves are drinking ale and maybe wine,
+[1:15:30] Unknown Speaker(s): and the devils might just be drinking ale as well.
+[1:15:35] Ian Lurie: Everyone likes Ale, right?
+[1:15:39] Speaker 2: It's the road food of the the prime material
+[1:15:42] Speaker 3: plane anyone who's passing through get some ale. That's right. All right,
+[1:15:51] JP Sherman: I'll step up to the bar and ask for a flight of ale for for the entire table, okay? And and also look around like, are there, like,
+[1:16:05] Ian Lurie: like, pub grub, snacks, skewers of skewers of edible meats. So the the bartender, once it's true, it's true. Well, twice, actually, the bartender turns to you, it's a female tiefling,
+[1:16:26] Unknown Speaker(s): and she says, Al right.
+[1:16:28] Speaker 3: Want some kind of snacks. You just want a snack plate or something specific.
+[1:16:35] JP Sherman: Nothing specific. Just really want to absorb
+[1:16:44] Ian Lurie: the local food, the local the local drink. This is brand new for us.
+[1:16:52] Unknown Speaker(s): She looks at you, she's
+[1:16:53] Ian Lurie: like, Okay, I'll have that brought to your table.
+[1:16:59] JP Sherman: Wonderful. How much and how much toy Are you?
+[1:17:03] Unknown Speaker(s): Let's see, with the food platter, it'll be
+[1:17:05] JP Sherman: four gold total. All right, I will, I will drop off that plus a three gold tip. Okay,
+[1:17:30] Ian Lurie: you head back to your table,
+[1:17:32] Speaker 2: and when you get there, there's already the Ian's already set out. What do you guys want to do while you're waiting for your food? I
+[1:17:50] Mossy Oak: I'm gonna take out the missed
+[1:17:51] Ian Lurie: start and stare at it for a bit. Okay, I'll try to listen to any conversations in a language that I can understand. Okay, there are some conversations in Elvish and common, and it's very random snatches of conversation. There's, you know, a deep, gravelly male voice that you think might be a dwarf talking to maybe a human, saying, I don't I don't know how we're going to get passage, and I don't know how we're going to trust whoever we ride with, but we'll, we'll give it a try. We'll talk to them, and if we get a bad feeling about it, though, we're out of here. And then there's a kind of a higher pitched voice saying, Oh, come on, it's not a big deal. You get to we'll just go out in the back alley. It'll be one quick puzzle. You'll try it. If you get it right, you you win a whole bunch of stuff. And if you don't, well, then I take your soul. It's no problem me. You hear little snatches of conversation too, just random stuff, like in a coffee house. And then he said, blah,
+[1:18:53] Jamie Indigo: blah, blah. I can't believe she was gonna but that's the random mix of it all.
+[1:19:02] Ian Lurie: You see a lizard drinking heavily like, I don't know what he did while he was in my body. Yes, yes, exactly, exactly, I feel violated. And then an imp comes scuttling over. Says, You ordered the variety, Plata, yes. Thank you. Hey, yo, enjoy. He puts it down on the table, and it's some of it's very familiar. So there's like, there's some bread, there's some cheese, all looks very reasonable. There's even some sliced fruit. And then there's some stuff that's a little less recognizable. There's a lump of something there's a glob of something else, and there's some kind of curled it's a piece of paper that's curled and folded beautifully with a little bit of steam rising
+[1:19:51] Speaker 2: up off of it like something was baked inside of paper. And those that's what's on the plate. I. It All right,
+[1:20:05] JP Sherman: take a good swig of that Ale, okay,
+[1:20:09] Ian Lurie: and open up the piece of steam paper,
+[1:20:12] Unknown Speaker(s): okay, and
+[1:20:14] Ian Lurie: check, check what's inside. Okay, you open it up, and two eyes look out at you, but the eyes aren't like this. They're kind of like this.
+[1:20:29] Jamie Indigo: And there's this loosely, weirdly formed mouth,
+[1:20:32] Unknown Speaker(s): and when you open it, it kind of goes, I think
+[1:20:36] Ian Lurie: it just said, was up, and you realize, the steam is coming because there's actually it is actually hot. And you can give me a everybody can give me a religion check,
+[1:20:54] Speaker 2: except Cregan, who apparently doesn't have any religion.
+[1:20:57] Unknown Speaker(s): No. Cregan can give me a religion check as well. 21 Okay, 11, okay, no, really. Regan, you are certain that this is a Twinkie in
+[1:21:19] Ian Lurie: my religion that's saying you in the corner that's in the spotlight. That's right, Richter and Drac. You know that this is a very small form of a devil called a lemur, and they are sort of at the very lowest of Hell's hierarchy. These are the souls that are of no worth or value whatsoever. When they these people became these people damn themselves as much through inaction and and lack of initiative as anything else. And so when they became devils, they became just these lumps, much as they were in life.
+[1:22:06] Unknown Speaker(s): These are the protest voters. No, that's not fair.
+[1:22:09] Ian Lurie: That is not cool. I should not have said that. That is not cool at all. You did, and we all agree. Okay, all right, wrong. Well, except, you know, yeah, some of my friends are protest voters. Now, you need better friends. It just you realize that this is a living creature,
+[1:22:33] Unknown Speaker(s): and you know that at the bottom of Hell's hierarchy,
+[1:22:35] Jamie Indigo: they might be used for all sorts of purposes. This might be a joke. You're not sure.
+[1:22:44] Mossy Oak: Look around. Does anybody else have something similar on their plate? Right? Give me up.
+[1:22:51] Jamie Indigo: Give me a perception check.
+[1:22:57] Ian Lurie: Feel like I have amazing passives that never benefit me. I'm so glad they're there. Well, those passives have benefited you many a time when you're all those times when I say, you notice something weird is going on, or,
+[1:23:09] Jamie Indigo: you know, check for traps. If I say check for traps, that's because you
+[1:23:12] Unknown Speaker(s): notice something that makes you think you should check for traps.
+[1:23:16] Mossy Oak: Okay, it's a 17, okay.
+[1:23:19] JP Sherman: This one ran a non fungible tabaxi scheme, so it's okay to
+[1:23:29] Jamie Indigo: eat them. You do not see anyone else eating this. I think they're pranking us, yeah, wait,
+[1:23:41] Ian Lurie: is it been more than an hour? Yes, I got to town. Okay, I can't talk to the creature anymore.
+[1:23:50] Unknown Speaker(s): It, it kind of sits up. And if you don't do anything, it starts kind of dragging itself across the table.
+[1:24:01] Ian Lurie: Oh, Sanga. Sanga picks it up and takes it back to the counter
+[1:24:06] Sango / Cregyn: waiter, we found a Lumiere in our soup.
+[1:24:11] Ian Lurie: What language are you using to say that his ability tongue of the Sun and Moon? Okay, so you can speak and understand. Okay, got it, got it. Got it, got it. She looks at it, and she looks at you, and she kind of winks. She says, I'll bring it up with management.
+[1:24:32] Sango / Cregyn: She grabs it and put, shoves it underneath the underneath the bar counter. Appreciate it by chance. Do you? Is there somebody around here we could talk to about renting or getting passage
+[1:24:47] Ian Lurie: up the river, down the river,
+[1:24:50] Sango / Cregyn: the sticks river.
+[1:24:55] Speaker 4: I might be able to help you with that. Okay, me and my friends over there
+[1:25:03] Ian Lurie: wanna go take a tour, see the
+[1:25:05] Sango / Cregyn: sites, do what the locals did.
+[1:25:08] Unknown Speaker(s): The locals don't go down the river. So which is
+[1:25:15] Ian Lurie: it? We want to do what the locals
+[1:25:18] Speaker 5: don't do? Okay. So you want to go down the river Amen?
+[1:25:23] Ian Lurie: Well, you seem like exhort guys. I know it's some kind of biorhythmic thing and just how I'm just completely thrown for a loop right now, but I rolled three fucking ones tonight on four roles. So she says, You know, I don't generally help folks out like this, but I can definitely, you know, I can give you some good advice. So Just could you seem cool and you figured out the whole gag with the Lumiere? There's a few people you could talk to. First thing is, when you decide to make a deal, you're going to want to go find a lawyer. Her name is Balthus the quill. She's an elf. She'll make sure you don't get completely screwed by whatever deal you make. Because when you make a deal with a Moran a lot, and that's who you're going to want to talk to, they're going to do everything they can to screw you, because they're devils. I know wherever I speak half devil myself. There's really two guys you could talk to, voleth. It's a guy over there, and you see this incredibly tall, thin creature enveloped in a robe. You have no idea of their true shape. It's just, it's as if a robe was put over a really old Christmas tree, and they're kind of bent over the counter. And you see them occasionally raising a tankard to their lips, if there's lips in there at all. Voleth, they're the best. You go with them, you're going to get where you need to go, and that no one's going to mess with you. And then there's a sentius over there, and you see kind of a equally tall and thin, very similar looking creature. If, if you had to pick the two out the way that they're sitting right now, you wouldn't be able to tell the difference between them. Sentience is good, but not as good as voleth. Probably cheaper, though volus gonna cost. Vol it's going to cost
+[1:27:26] Speaker 2: more than anybody else in town. Yes, voleth, V, o, l, e, t,
+[1:27:30] Ian Lurie: h, and the other one is essentials.
+[1:27:38] Speaker 2: Ooh, I like your version better. But no essentials as an essential,
+[1:27:44] Ian Lurie: it's voleth of the fog. And the other guy is just essentials. They're the two that I would start with after that. You know, there's all kinds of ships you can just get a ride on. You pay a fee, ride with everybody else, but you all don't look like everybody else. I don't know where exactly you're trying to go. If you're just trying to get down the falls, then you could go with any of those ships.
+[1:28:14] Speaker 4: If you want to get down the falls and then go somewhere else. You're going to need more. You're gonna need someone like voleth or essentials.
+[1:28:22] Ian Lurie: Where do we find the valthus? The quill? Wealth the quill. When you
+[1:28:30] Unknown Speaker(s): whoever you make a deal with, you tell them you want
+[1:28:32] Speaker 4: to talk to valthus, and they'll make sure that she gets there, that she's part of the transaction. Yes, that's very helpful. Of you appreciate
+[1:28:42] Ian Lurie: it. Do you?
+[1:28:44] Sango / Cregyn: Do you have any give, any food that my friends would actually eat? Well, there's bread
+[1:28:49] Ian Lurie: and cheese on that platter. Okay? That means special. That's not a gag. Well, those two lumps are actually meat, and they're not terrible. You know, I'm also half elf, and I can tell you that they're not, it's not
+[1:29:05] Speaker 4: the worst thing ever. Just put it on the bread with some cheese. Kind of drowns out the taste. Texture is okay.
+[1:29:14] Sango / Cregyn: Appreciate that. All you have is ale and wine. Yeah, yeah, ale, wine and water, but I wouldn't drink the water. Oh, yeah. Just gave me some inspiration for song. But okay, thanks. I'm gonna
+[1:29:31] Ian Lurie: go talk to my friends and appreciate you. No problem.
+[1:29:38] Unknown Speaker(s): You walk away, and she looks vaguely confused and angry, like why did I just give this guy all this information for no apparent fucking reason? What is wrong with me?
+[1:29:51] Sango / Cregyn: So then Sango goes back over the table
+[1:29:53] Ian Lurie: and picks up one of those lumps of meat and puts it on some bread and some. Cheese and eats. It goes good with soup. She was accurate.
+[1:30:03] Unknown Speaker(s): It's it tastes like.
+[1:30:07] Ian Lurie: It tastes like someone used vegetables to make something that doesn't taste like anything
+[1:30:18] Unknown Speaker(s): that you could then cook with things,
+[1:30:20] Ian Lurie: and it would pick up flavors. This is way beyond what I was thinking it was, yeah, it's, it's, it's satanic tofu, basically. Now you
+[1:30:31] Unknown Speaker(s): haven't tried the other lump.
+[1:30:34] Sango / Cregyn: Or are they different?
+[1:30:35] Speaker 3: Yes, they are different. Okay,
+[1:30:38] Jamie Indigo: well, I'll leave that one for Kagan, okay,
+[1:30:42] JP Sherman: sticking to the fruit and cheese.
+[1:30:47] Jamie Indigo: Oh, I'm having a bacon sandwich. Rick, do you want one, please?
+[1:30:53] Mossy Oak: Yeah, breaking out the no longer pocket bacon. Bag of Colding bacon.
+[1:31:03] Jamie Indigo: So guys, bartender and did it work? What was that? What we've never seen you successfully my life.
+[1:31:20] Sango / Cregyn: What, you know? What? Never mind busky. I've got my soup. Thanks. So she I forgot to ask her name. She said, well, she's half elf Drac, half the other one, the other one, double, something like that. Bingo. Durango, yeah, and she said, There's see those. See that, see the, see the big, tall guy in the dark robe at the bar and see the other guy who kind of looks like him and his big robe down there at the table drinking their beers. Those are the more more more and more Ian's off. Nailed it that we could talk to. One is really good expert, sort of like us. The other one is cheaper, sort of like drag states. So, okay, don't be merge that name. I'm sorry, my apologies. So we should talk to one of them, both of them maybe, I don't know, find out how we can get down the river for a price, but we need to hire an elf lawyer to help us work out the contract details so that we don't make a bad deal With the devil on our way down to Georgia. I up. Sounds good. Sounds good. I'll meet
+[1:33:05] Ian Lurie: with my soup over here. Who's the lawyer? I should have said agent, not really, lawyer Olivia,
+[1:33:16] Mossy Oak: objections, Attorney at Law. Her name is valphus the quill.
+[1:33:27] Ian Lurie: Okay, yep, okay, the sense that you got is that when you decide to make a deal in this town, the best way to do it is to then choose an agent, and if both parties are amenable to that agent, then they can
+[1:33:51] Unknown Speaker(s): they agree the agent can drop the contract,
+[1:33:54] Sango / Cregyn: and then they can work with whatever that Agent has drawn up. But you agree to turns first. So there are other boatmen around town that we could find. They will only they're only good enough to get us so far. These two are the better of the ones, and the guy at the bar, voleth the fog. It's kind of kind of a creepy name. I don't know. It's kind of moody. I like it. He, he's the best of the best, apparently. So like a MacGyver type thingy.
+[1:34:26] Mossy Oak: What's the MacGyver?
+[1:34:30] Sango / Cregyn: It's like a MacGuffin. Okay, so we got options, and I don't know if they speak common, I probably should ask that. I didn't ask that. I always forget to ask that. But you know, our as our as our big guy likes to say, the shelled humans, the better talker. So he should probably talk and. I can have my soup.
+[1:35:09] JP Sherman: All right, I think that's, that's, that's thanks, man, thanks. Sandra. Chewy, hug, so we have to make
+[1:35:24] Rikterr: the deal first, and then we can take it to the agent yet you agree to terms, right, right, okay, and like, certainly like they we want them to take us to this point for X gold. So let's go ahead and let's decide on that before we start talking. So we speak with one voice, with one goal and one set of things we're willing to trade to get us to x place, because I don't want us to over promise.
+[1:36:00] Jamie Indigo: I don't want us to get undelivered, and then we've sold our
+[1:36:03] Mossy Oak: soul and we're back in Aventine, right? Yeah, but you're asking for a level of coordination that we've never before,
+[1:36:11] Sango / Cregyn: so that's probably why you and me and just sit over here and get involved. Yeah, also,
+[1:36:20] JP Sherman: I don't want to end up on one of those plates. Apparently, these two guys
+[1:36:29] Sango / Cregyn: are good enough to take us farther than the other ones, so that might get us farther. I just don't know how far that is, because it's kind of far and I don't know.
+[1:36:38] Rikterr: Okay, so where exactly are we trying to go?
+[1:36:44] Ian Lurie: TMS, later.
+[1:36:49] Sango / Cregyn: Great. I mean, ultimately, ultimately, yes, yeah,
+[1:36:54] Ian Lurie: yeah, does the river take us all the way there, or is there an end point that we need to go first? So if you remember the map, and it's I understand, because I barely remember it myself and I drew it, there is a drop it anywhere in discord. I am looking for it actually right now, because I don't think I did my bad. I didn't want to rush you. No, no, but it doesn't matter that much. I can tell you that the river sticks ends at this place called the dock of fallen cities, and that's as far as you can get.
+[1:37:29] Unknown Speaker(s): And then from there you have to travel over land. So ideally, that's where you want to end up, right?
+[1:37:38] Sango / Cregyn: Yep, we got to make sure that our deal includes him not dumping us in the water, because that's bad. That's really bad. Yeah, it's really bad. He gets us there safe in a timely manner. Is almost as fast as shortest route as possible.
+[1:37:58] Jamie Indigo: I that he doesn't betray us, doesn't try to eat us.
+[1:38:05] Mossy Oak: No outside deals shall affect the contents of our contract.
+[1:38:12] Sango / Cregyn: Yep, no other deals. I would also like one of those cushion things for the seat, because it's gonna be wood, and that's kind of rough for a long trip, but if they don't have any of those, I will make do. But if he does, that would be appreciated.
+[1:38:35] Rikterr: And what's the limit of what we're willing to trade to get this? Because it sounds like anything that we're asking coin is not going to be the currency that we need to return. So it's either going to be a favor or, I don't even know what? Well, let's try to stick
+[1:38:59] Jamie Indigo: with something that we don't have to owe a favor for later,
+[1:39:02] Sango / Cregyn: so maybe like some coin or money or something like that. I'm sorry, Jack, we have to sell your body for this one that was going to be a number two, also direct favors are completely on the table, barring any weird, geeky stuff that Jack isn't into, of course,
+[1:39:26] Mossy Oak: make the lawyer put in a safe word.
+[1:39:32] Speaker 1: That's a good safe idea, cabbage. If someone says the word cabbage, the
+[1:39:37] Unknown Speaker(s): trip ends.
+[1:39:42] Rikterr: Can Richter roll a religion check to see if, when he was studying to be a warlock, he learned
+[1:39:53] Ian Lurie: anything about what. A Moreno lift. Would like in return for a favor, or is that too much out of his purview?
+[1:40:01] Jamie Indigo: Um, no, you can make a roll. I mean, you have to. You might have to roll, really?
+[1:40:04] Mossy Oak: I Okay, that's fair. Can always hit the home run. Didn't we have some of that information in the research montages
+[1:40:13] Ian Lurie: montage, it's been a while since we played so if someone has that in the back of their mind, please feel free to share it with me. You know some common mode, some common instruments of exchange, but I mean, it's nothing shocking,
+[1:40:29] Unknown Speaker(s): right? It's coin. Gregorian told you that they spent 1000 platinum.
+[1:40:42] Ian Lurie: But anyway, go ahead. Director 23 okay, you're not totally sure, but you suspect it might not be straightforward. It could be a favor. It could be some item of great value or significance. It depends, again, on who you choose to go with. Feel safe to say that, if you know, if you went on one of the standard modes of transport, they probably would just ask for 100 platinum or a diamond the size of my fist, or whatever.
+[1:41:16] Speaker 6: Or they might ask for something, you know, sliver of your soul, or something like that, if they're looking for more so,
+[1:41:24] Ian Lurie: and you said, Okay, and there's one in the room with us, and then there was another one somewhere else. They're actually both in the room. They're both one is sitting at the bar. One is sitting at a table. The one at the bar is voleth of the fog. Voleth is the really elite top driver. And then Essentials is the one sitting at the table, who apparently is also quite good.
+[1:41:47] Speaker 6: But voleth is known as the absolute best of the of the ferryman.
+[1:41:54] Jamie Indigo: All right, I think we should go with the best one. Any objections.
+[1:41:59] Mossy Oak: Can we maybe try and steal the listening to
+[1:42:03] Jamie Indigo: some conversations and see if we can find an angle,
+[1:42:10] Ian Lurie: a means of occurring favor, or perhaps pitting egos against each other? I don't know.
+[1:42:16] JP Sherman: Yeah, I think that's a great idea. What conversations would you describe to me, how you'd want to do this? I described to mossy some of the conversations I've been kind of picking out of on, and none of them really led into that. But we,
+[1:42:34] Jamie Indigo: we may need to like see the conversation.
+[1:42:42] Ian Lurie: What does this seem like? Voleth is is doing? Is he talking with anyone? He is just sitting at the bar, staring
+[1:42:49] Jamie Indigo: into space, occasionally drinking from
+[1:42:53] Ian Lurie: an enormous tankard of Ian. People seem to avoid him
+[1:42:57] Speaker 2: and sent us. What is he doing, sitting at a table, very similar. Okay.
+[1:43:32] JP Sherman: So are we sneaking? Am I talking? What's going on? There was a group of adventures. Who were they were talking about travels. I don't remember specifically what they said, but they were talking about hiring a fair, a ferryman. Did I remember that correctly? Mm, hmm. What if mossy, we introduce ourselves to them and see if we can join that conversation, basically saying we're looking for something similar. Have you done this before? Where are you going? Yeah. Okay. So, so what are you doing? Well, there's, there's another group of adventure, or folks talking about renting a thing, yeah, and I was thinking that like we could, kind of introduce ourselves, pay for a round of drinks,
+[1:44:41] Unknown Speaker(s): okay? Maybe, like
+[1:44:43] JP Sherman: we look to be doing something similar, okay? Maybe a Groupon, an Uber, yeah,
+[1:44:53] Mossy Oak: Uber pool.
+[1:44:55] Ian Lurie: Okay, all right, you look around for the source of that conversation and pinpoint them pretty easily. There's a tall, thin human sitting with a what looks like probably a dwarven rogue of some kind, and sitting with them also is a another tiefling, actually,
+[1:45:20] Unknown Speaker(s): who has the look of some kind of
+[1:45:23] Jamie Indigo: insofar as she has no armor, couple of Wands on a belt.
+[1:45:28] Ian Lurie: Okay, so wait, rogue shit is there like a thieves can't version
+[1:45:36] Mossy Oak: of a nod or something that I could you can?
+[1:45:39] Speaker 3: You can do a greeting in thieves can't,
+[1:45:42] JP Sherman: yeah, do that. Okay, that's totally clever than what I was gonna think was what I was gonna do. But Love, have your whale
+[1:45:52] Mossy Oak: tail back in. Come on, you. Hmm,
+[1:46:00] Unknown Speaker(s): okay, why
+[1:46:02] Speaker 1: don't you give me a give me a performance or a persuasion check, whichever you're better at. Oh, that's
+[1:46:07] Ian Lurie: definitely performance. 29 Okay, so in typical thieves Can't you are speaking. You're having a conversation with Richter, and at the same time, though, you're making some movements within that to any other person. Would it would just be a nervous to a rogue. You're saying something, and you're saying Greetings, welcome. May I approach and make your acquaintance? And the dwarf also deep in conversation, basically intersperses words that are part
+[1:46:49] Speaker 2: of the conversation, but you as a rogue immediately pick them out, and it says, of course, please approach.
+[1:46:58] Mossy Oak: Okay, go walk over. Okay, direct. You're coming with me. Come on. You're muted.
+[1:47:10] JP Sherman: I'm signaling to the I guess the imp like, can we get another flight of ales Ian's back delivered to us? Please. Thank you.
+[1:47:26] Ian Lurie: And I approach with Mossy.
+[1:47:29] Unknown Speaker(s): Okay, you guys sit down with them and
+[1:47:36] Jamie Indigo: what do you say?
+[1:47:39] Unknown Speaker(s): They just kind of nod. I
+[1:47:42] Jamie Indigo: think we're gonna try and keep it service
+[1:47:45] Mossy Oak: level innocuous, but continue a little bit of the thieves can heard you're looking for a boatman. Where are you going? And you're saying that in thieves can't Okay?
+[1:47:59] Ian Lurie: The row says, Yes, we're just looking to loot. There's a lot of valuable trinkets left on the fields of the blood war.
+[1:48:11] Unknown Speaker(s): We're looking to go down there, make
+[1:48:13] Jamie Indigo: one score and then use our money to set up shop here on the Prime Material.
+[1:48:20] Ian Lurie: Where is that? DM, question in relation to where we're going, the blood war is fought all across Avernus. Avernus is the site of the blood war.
+[1:48:30] Speaker 3: Okay, so they're basically going to go out on the battlefield, find a place where there's been a fight recently
+[1:48:35] Ian Lurie: and steal some shit. They're going to loot bodies. And the town that we're going to is called the one, again,
+[1:48:42] Speaker 3: the dock of fallen cities, dock of fallen cities, dock of fallen cities. I'm in Sylvan.
+[1:48:53] JP Sherman: I'm going to kind of nod to the to the half elf and see if they understand Sylvan. Okay, they do, like my compatriot is talking to him. We're looking to go to the
+[1:49:15] Ian Lurie: dock of fallen cities is this does where we want to go match where you want to go.
+[1:49:23] JP Sherman: I mean, we're all
+[1:49:24] Ian Lurie: going to end up there if we leave from here. So, yeah, okay, I didn't know if there are, like, several stops. No, okay, you don't make stops along the river sticks. There's no reason
+[1:49:37] Speaker 2: drag would know that. But, yeah, you definitely don't make stops along the river sticks.
+[1:49:41] Jamie Indigo: That's okay. Well, that's cool. Yeah.
+[1:49:48] Mossy Oak: Who have you approached about varying. No one yet.
+[1:49:58] Ian Lurie: Do you have a representative or an agent yet?
+[1:50:04] Jamie Indigo: So you guys are each talking to different people.
+[1:50:05] Ian Lurie: You know that, right? Yes, okay.
+[1:50:10] Speaker 2: The the half elf says, party line, translating back and forth. Yeah, yeah, the half elf says,
+[1:50:23] Unknown Speaker(s): No, nobody yet, but we hear about this, the quill is the one to work with. So, okay,
+[1:50:33] Ian Lurie: a nod like, Yeah, girl saying,
+[1:50:39] Jamie Indigo: the dwarf says to you,
+[1:50:40] Ian Lurie: mossy, we haven't picked anyone yet, but we, we heard a sentience. Is the guy to go with?
+[1:50:46] Jamie Indigo: Oh, why is that?
+[1:50:48] Ian Lurie: He's the best. That's what they tell me.
+[1:50:51] Mossy Oak: See, I heard mole. I thought the fog was the best.
+[1:50:56] Unknown Speaker(s): Wow. You heard different friend. Mossy. Give me an insight. Check
+[1:51:17] Jamie Indigo: 19, okay, this person is lying to you. Okay, I'm gonna party line tell drag. I don't think we want to deal with these
+[1:51:29] Mossy Oak: people. He's already already being shady in his answers. So
+[1:51:39] JP Sherman: we leave back party line. We'll leave the ale,
+[1:51:44] Ian Lurie: thanks, thank you for their time, and we'll go, Fuck off. Okay, they
+[1:51:51] Jamie Indigo: look a little surprised, but they don't, they don't react.
+[1:51:59] Ian Lurie: Did essentials happen to look up when we were having that conversation at all?
+[1:52:07] Speaker 2: Give me a perception check and actually Richter, Sango and Cregan, you guys should all give me perception checks as well.
+[1:52:22] Mossy Oak: 14 natural, 2423
+[1:52:29] Ian Lurie: okay, 23 and 25 okay. Richter, when you you happen to notice that when they went over to that table, essentially started to really pay attention to what was happening at that table. And you couldn't you notice it, because a sentence is hooded head kind of turned towards kind of followed you guys, or followed mossy, you're always kind of on the lookout when mossy is moved around in a crowded place, you know, she can take care of herself, but you can't help it. And as she moves across the bar, you see ascentious start to his hood kind of tracks her. And as his head turns, you see these two bright ruby red eyes, you know, peering out from under the cow. You can't really make out much else of a face, and it follows very intently as she and Drac go and sit down at that neighboring
+[1:53:27] Speaker 6: table, and then continues to watch for a moment, and then looks away, and then every now and then appears to glance up.
+[1:53:34] Rikterr: Oh, I see Drac.
+[1:53:36] Ian Lurie: Census is quite attentive to your conversation going on. And you guys hear that
+[1:53:44] Speaker 2: about halfway through the conversation mossy right about when you you do an insight check, you're like, hey, wait a minute. What's going on here? I their plants.
+[1:54:04] Jamie Indigo: They're the ones who are this is where the business is done. So this is how they
+[1:54:10] JP Sherman: get that word of mouth thing going.
+[1:54:12] Mossy Oak: Look, they're astroturfing even hell,
+[1:54:17] Unknown Speaker(s): it's guerrilla marketing.
+[1:54:25] Ian Lurie: For all you know, every single person in this bar was paid to repeat the same message to every to whoever comes in here to buy, and they're all saying basically the same thing and just inserting a few different words here and there in the hopes that somehow it'll drive you to the right ferryman,
+[1:54:44] Jamie Indigo: Nah, that doesn't
+[1:54:45] Unknown Speaker(s): happen. No, no way.
+[1:54:50] Mossy Oak: They're too good at this shit. Why is everyone. The crowd saying, Geo, Geo, Geo, over and over again, as mossy and
+[1:54:59] Rikterr: Drac are having their conversation, Richter is just gonna stand up walk to the bar where, oh, bullet, there were so many names we just got sorry. Like, sorry. No, no, I've become very wary of mispronouncing the name, so I take that extra beat to try and find it, and I realized we just learned 15 people's names. Which one? Yeah, volithe of the fog is, and sits down next to
+[1:55:27] Ian Lurie: him and makes a signal just for the bartender to bring a fresh round for Ian bullet huge. So this figure is probably a foot and a half taller than you seated at the bar, and so when you sit down, when you're sitting next to each other, it's
+[1:55:46] Unknown Speaker(s): about a foot and a half taller than you,
+[1:55:49] Ian Lurie: and that hood kind of slowly turns towards you, and you can see now just inside the hood, you see those two gleaming red eyes, just like with a sentius, and he can actually make out the faintest outlines of either a skull or an incredibly emaciated head and face where the skin is just pulled parchment tight over, over the skull, and you hear a
+[1:56:17] Unknown Speaker(s): voice in your head and said, it says
+[1:56:22] Ian Lurie: you have business to transact. DM, question, they are demons, correct? They're devils. Devils.
+[1:56:31] Rikterr: Okay, they are an unusual kind of devil, and that they are mercenaries. They are not in service to any one particular devil. Okay, got it so to his question, Ricky replies, Yes, I do have business. And in order to show you that I want our business to be truthful, I'm going to tell you upfront, as a paladin. You should know, I don't want to make a deal with you, but I want to make the fairest deal possible, because my friends and I have an important place to be, and we like to get there safe as quickly as possible, with few wise to what we're doing, and from what I've heard,
+[1:57:15] Ian Lurie: you're Who should we should talk to, so I'd love to conduct business with you.
+[1:57:22] Speaker 6: Give me a persuasion or performance with advantage. Okay,
+[1:57:32] Unknown Speaker(s): that's going to be a 22 okay? He says,
+[1:57:43] Speaker 2: fairness is assumed.
+[1:57:47] Ian Lurie: Your honesty is appreciated.
+[1:57:54] Unknown Speaker(s): Where? Do you require passage
+[1:57:58] Ian Lurie: we are looking to go to the dock of the Fallen cities, the dock of fallen cities, passage down the gorges. Then is it along the river states? Correct? That is, that is a route I have traveled many times, and I can get you there
+[1:58:17] Unknown Speaker(s): unseen and unmolested. This I can guarantee
+[1:58:29] Ian Lurie: I would be remiss if I didn't ask, what payment do you expect in return for this service? There are two ways you can pay me. One, I can accept a fee of two soul coins.
+[1:58:49] Unknown Speaker(s): Two, I would ask you to steal from a wizard, a specific wizard, a particular wizard, she has stolen from me.
+[1:59:12] Rikterr: I understand. Would you give me a couple of minutes to confer with my friends? I want to make sure that when we make the deal, it is all agreed upon. Of course. All right, thank you.
+[1:59:28] Ian Lurie: If you need another drink, just let me know when the next round is on. Me. As you wait our our discussion.
+[1:59:34] Speaker 6: You hear in your head what you think might be a laugh. He says, my drinks here are free.
+[1:59:41] Rikterr: Didn't hurt to offer. And Richter just gets up and goes back to the table where the rest of everyone is. I. All right, guys. So good news, depending on the party, maybe even better news, so the good news is we could have a ride. The better news is we have two options of payment, either two soul coins, or we go steal something from a specific wizard. And right now, we only have one soul coin, and I don't think any one of us wants to do anything to create the second one, so I'm guessing, and he just pointedly looks at mossy I'm guessing we're going to have some sticky fingers. Oh yeah, who's the wizard and where, where are they at? And what's the item? Well, first I wanted to come over and talk to you guys about those two options and say, are, is that something that we would all agree to, I didn't want to get too
+[2:00:57] Jamie Indigo: deep into payment and what and not promise. So we are in a lawful evil city. And there may be pretty significant this is Jamie talking, not mossy, mossy, fucking stoked. But me is going, Eh, if I recall correctly, Ian, please correct me if I am mistaken,
+[2:01:24] Ian Lurie: but with the lawful evil city, we could be in trouble for thievery gone awry. I mean stealing. I mean there are rules, right? You don't know what the rules are around stealing. If this person broke a deal with voleth, as voleth is saying, then stealing back from them would be perfectly acceptable in most lawful cities, lawful evil. Cities. Lawful evil means there are rules, but it doesn't mean that doing bad things is wrong. Does that make sense? So you can steal shit, as long as you stick within the rubric of stealing shit, you can kill people, as long as it's done in the approved manner,
+[2:02:09] Jamie Indigo: and you can do pretty much whatever you want, if you can get away with it. That is the definition of lawful evil. Okay, then
+[2:02:18] Mossy Oak: mossy is full Puss in Boots, eyes right now, and excitement and so yes, and
+[2:02:35] JP Sherman: I think this, this deal needs to be also handled by by valvus the quill, that there may be like an extra legal charge, because there's the ride and then there's the acquisition of what. Yeah, does that
+[2:03:01] Jamie Indigo: make sense? This is the payment for the ride. Yes
+[2:03:08] Mossy Oak: terms first. So we should go talk about thievery, one of my favorite subjects, right? So we are provision. I feel
+[2:03:17] JP Sherman: like, are we provisionally okay with this, and get to the point where we need to bring Vals into this? Okay? We bring in once we have the framework of a deal worked out
+[2:03:33] Jamie Indigo: right now. We only have right now. We only have concepts of the plan. We got to get to a framework of a deal. I think I would like, if it's all right with y'all, to cast message and
+[2:03:44] Ian Lurie: ask him if he's okay talking about
+[2:03:46] Mossy Oak: the theory request here in the credit pub. Or if you would like some more quiet Richter, did you have something?
+[2:03:56] Ian Lurie: No, okay, cool.
+[2:04:03] Jamie Indigo: So you want to message the Miranda law? Do I have that?
+[2:04:06] Mossy Oak: Right? Yeah, and ask him if he would like to talk details of
+[2:04:10] Ian Lurie: the the of returning items from this wizard here, you just get that same telepath the hood turns towards you
+[2:04:23] Unknown Speaker(s): and not using message, you just get that
+[2:04:25] Jamie Indigo: telepathic voice in your head, because that's how he communicates. He says
+[2:04:29] Ian Lurie: it is acceptable to speak here. So her, Okay, let's go hang out with our new, very scary friend. He actually rises slowly from the bar and turns and doesn't so much walk his drift over. Towards your table and take a seat, and he just tout, it's, it's almost comical. I mean, he's sitting in this
+[2:04:56] Unknown Speaker(s): chair here, instead of a bar stool.
+[2:05:00] Ian Lurie: Barely fits at the table
+[2:05:05] Sango / Cregyn: like Gandalf in The Hobbit Hole,
+[2:05:08] Ian Lurie: almost, almost. And he kind of folds his hands
+[2:05:11] Unknown Speaker(s): on the table and says, Let us discuss payment, then
+[2:05:23] Ian Lurie: nod. You saw as you entered the tower, next to the city you did there was this big, forbidding tower. Says, in that tower, there lives a wizard. I believe you would call her a necromancer. I gave her transport and she did not pay, knowing that I could not I lacked the prestige to exact punishment.
+[2:06:07] Speaker 2: You would be the instruments of that and steal from her
+[2:06:10] Jamie Indigo: belt a purse that contains my payment.
+[2:06:19] Mossy Oak: Does she ever come out of this tower? She
+[2:06:22] Unknown Speaker(s): does not. You will have to enter
+[2:06:28] Sango / Cregyn: what's what's what's her name and title.
+[2:06:32] Unknown Speaker(s): Her name is obaris. This
+[2:06:39] JP Sherman: is the kind of thing that was blessed by calistria. So I am all in what type of wizard is she? Necromancer? Yep, I yeah,
+[2:06:54] Sango / Cregyn: what is the payment that she owes you?
+[2:06:58] Unknown Speaker(s): It is the purse upon her belt. I will tell you no more
+[2:07:02] Ian Lurie: purse got Louis Vuitton.
+[2:07:10] Unknown Speaker(s): He describes it. It's just a standard
+[2:07:12] Ian Lurie: coin purse looking kind of thing, little drawstring.
+[2:07:16] Jamie Indigo: Have you ever been in the tower before? Many of us have been in the tower.
+[2:07:23] Ian Lurie: Anybody that can give me a low down on traps and a sort of others
+[2:07:29] Speaker 4: I would expect traps everywhere. But I know not any details, because when I went there, I was welcomed.
+[2:07:38] Ian Lurie: She have any guards,
+[2:07:41] Sango / Cregyn: hedge bent higher legs, bone, devils, belts.
+[2:07:46] Unknown Speaker(s): She has the creatures. She creates, necromancer creating guards got
+[2:08:01] JP Sherman: Is there a, like a map of the
+[2:08:03] Ian Lurie: house of like the levels? Is it a five, level, 10, level, 20 level? He says,
+[2:08:11] Unknown Speaker(s): I can provide this
+[2:08:14] Speaker 4: upon signing of a deal, but not before.
+[2:08:20] Ian Lurie: Is she of any importance to this town, this city, depends on who you speak to to some, she
+[2:08:30] Speaker 4: is valuable to others, she is a nuisance.
+[2:08:33] Unknown Speaker(s): And to others, she is a menace. See,
+[2:08:37] Ian Lurie: like a lord, a king,
+[2:08:40] Unknown Speaker(s): she is she holds no sway other than that which she can enforce with her power. I
+[2:08:54] Ian Lurie: How long ago did she refuse you payment
+[2:09:02] Unknown Speaker(s): in your reckoning? I believe 152
+[2:09:05] Sango / Cregyn: years so is she?
+[2:09:14] Ian Lurie: She? Is she? Is she, or was she human?
+[2:09:17] Sango / Cregyn: Elf teeth, like I care not for such things. Does she look like him or her or me, or like 20 years, yes.
+[2:09:44] Rikterr: Okay, you don't want to tell us what you want us to steal. Deal. So how do we know that your payment is going to be in her purse when we grab it? Because if we don't bring you back what we promised,
+[2:09:58] Ian Lurie: we are reneging on our end of the deal, and I would like to make sure that we don't do that accidentally. If the if you bring me the person that does not contain what I need that is my fault, not yours.
+[2:10:14] Unknown Speaker(s): I'm willing to, I'm willing to stipulate,
+[2:10:22] Sango / Cregyn: okay, purse got it.
+[2:10:27] Jamie Indigo: You could describe this purse so we don't put the wrong purse, of course, okay, and he's gonna give us a lovely map. I think we should
+[2:10:38] Mossy Oak: loop and felt this the quill, so we have this all on the up and up.
+[2:10:48] Sango / Cregyn: Yes, how? How soon
+[2:10:50] Ian Lurie: do you think it's reasonable for us to
+[2:10:53] Sango / Cregyn: attempt retrieving of
+[2:10:57] Unknown Speaker(s): the purse whenever you like? How soon after we
+[2:11:07] Sango / Cregyn: bring you the purse, will you we be able to set sail for our destination immediately.
+[2:11:16] Ian Lurie: Can you have the boat running
+[2:11:18] Sango / Cregyn: at the river just in case
+[2:11:22] Unknown Speaker(s): that might be prudent? Yes, I
+[2:11:28] Speaker 2: don't know why I'm having him talk like a magic eight ball, but there you go.
+[2:11:42] Unknown Speaker(s): Shall we find an agent in our deal? Yeah,
+[2:11:49] Ian Lurie: let's the quill is a good one. Yes, I concur. Val this the quill is agreed. He he turns and motions, and an imp
+[2:12:02] Unknown Speaker(s): scurries over to the
+[2:12:03] Speaker 4: table, and he leans down and he whispers something in the imps ear, and the imp goes scurrying out. And you guys, time stop, party line,
+[2:12:18] Sango / Cregyn: checking with everybody. Everybody good with this? Any more questions?
+[2:12:28] Rikterr: Necromancers play with life in a way that they shouldn't. I am ready for this. I am suspicious of a a
+[2:12:45] JP Sherman: contractually sanctioned double cross. So we need this just to play devil's advocate
+[2:12:57] Sango / Cregyn: more and a lost advocate. These guys don't break contracts, right, correct,
+[2:13:04] JP Sherman: right, but they will twist a contract in order to serve what they actually want. For example, you know, they say I want to, like, being really specific. They could dump us on the on at the destination without running our gear. That is true. Or they can take us to location, and they have some sort of like in, maybe like looking at, like a invisible tracking curse or something like that. And so we kind of have to be, like, careful about contractually sanctioned or double crossedness. I thought that's why we went over what we wanted to put in the contract before we talked to the marina law. Yes, but I also we can't just trust her. We can't just trust the agent, because the only frame of reference that we've been working with is these folks. So I'm just saying, Be careful, be aware. Keep your eyes open. Expect to be expect it to be double crossed in some way with this deal.
+[2:14:35] Sango / Cregyn: Yeah, good advice
+[2:14:46] Ian Lurie: after a few minutes, unless you. Guys do something else, the imp returns with a an elvish woman in tow. She's wearing kind of very simple, plain clothing. She carries an enormous ledger and a pen. I as well as a large cloth bag that she wears on her on her hip. And she comes and she sits down, and she looks at all of you. She looks at both. She says, voleth, good to see you. Volatile kind of nods at her, and she says, I am
+[2:15:35] Speaker 2: Val this the quill nodding at all of you. I am to be the agent for this transaction.
+[2:15:41] Ian Lurie: Am I correct?
+[2:15:46] Unknown Speaker(s): Yes. And who speaks for you think of a point at Richter.
+[2:15:54] Ian Lurie: Okay, very well, we will begin the completion of the transaction now. And she reaches into the bag and pulls something out, and you're not even sure what it is, but she sets it on the table in front of you all, and immediately, everything around you guys disappears. You're sitting at a table in an empty space. It's as if you've been put into an extra dimensional space. You guys are experienced enough to know what that is, and she's cool trick.
+[2:16:25] Unknown Speaker(s): And then she opens up the ledger, and she says,
+[2:16:31] Ian Lurie: I'm assuming this is transportation. Yes, it is. And where are you going? The dock of fallen cities, that is correct. All right, she's scribbling some notes now, just so you understand my role, I am here to ensure there is no there's nothing funny between the lines. There's no tricky bits and pieces of this deal that might cause problems for anyone. So that means that I will look for ways you are attempting to potentially trick voleth, and I will look for ways that both will potentially attempt to trick you in exchange. At the end of this contract, I will receive 15% of the fee that voleth, that is
+[2:17:21] Unknown Speaker(s): transaction, that is transacted,
+[2:17:27] Ian Lurie: and that will come out that sounds good to us. Boleth, you are agreeable, and you all hear in your heads, of course. So now, basically, you guys go back and forth for a bit, but it's pretty straightforward. And she This is why you have this agent here is she keeps it straightforward. She says, All right, you're she says, voleth is going to carry you to the dock of fallen cities. You will be deposited there in the exact same condition as you were when you climb aboard the ship, unless there is healing or something else. And he's performed on the ship, etc, etc.
+[2:18:06] Unknown Speaker(s): He is responsible for your safety and well
+[2:18:09] Ian Lurie: being as you travel there, he will ensure that you arrive there, passing, you know, he basically, she says, He will ensure that you arrive at the dock of fallen cities intact and without any issues.
+[2:18:25] Speaker 3: I'm assuming that the passengers are all of you and all of your possessions
+[2:18:30] Speaker 2: that you have upon your persons. Now make sure that as Surah to the past
+[2:18:35] Ian Lurie: to the passenger list, yes, you are correct, all right. And voleth You wish them to steal
+[2:18:47] Unknown Speaker(s): from oberus,
+[2:18:49] Ian Lurie: her eyebrows kind of go up, and he says, that is correct. You all understand you are stealing from
+[2:19:01] Speaker 2: a fairly powerful Necromancer
+[2:19:03] Speaker 6: who may not appreciate being stolen from. Yes, but it is the deal that will get us where we want to go, and so we are
+[2:19:17] Rikterr: willing to do this duty
+[2:19:20] Ian Lurie: so that we can be done a duty back. Don't misunderstand me, almost everyone in this room has been wronged by a Barris at some point or another. None of us will cry to see her
+[2:19:37] Jamie Indigo: taken down a notch or two, but she is powerful, and you'll need to be careful
+[2:19:44] Mossy Oak: making sure the DA.
+[2:19:47] Ian Lurie: Ca on her as part of the deal, before we have the Intel, yes, she says, and as part of this agreement bullets, you're going to provide everything you have as far as
+[2:19:59] Speaker 3: information, anything else that will help them complete the transaction. And he says, of course, I want them to succeed.
+[2:20:08] JP Sherman: We want to make sure that in accordance with the laws of the land and the current power structures, that the actions that we are taking, to take the to return the item from oberus back to him, is within with, within the confines and the left and right limits of the laws of the city, so that the ideal is like, we go, yay, we got it.
+[2:20:47] Ian Lurie: We step out of the tower and they're like, and you're all, You're all under arrest for thievery.
+[2:20:55] Unknown Speaker(s): Um bola says,
+[2:20:56] Ian Lurie: As an agent, I am not allowed to have you, I'm not allowed to sign on to transactions that would involve breaking any of those laws or rules so you are safe. That does not that does not protect you from her anger. However, if she simply decides
+[2:21:17] Jamie Indigo: that she is enraged and should come, come after you another time
+[2:21:21] Unknown Speaker(s): that is not volatile, responsibility that is yours.
+[2:21:26] Mossy Oak: This is the quill speaking, right? This is yeah,
+[2:21:36] Sango / Cregyn: we do want to make sure this is just me pointing this out that what is described in the contract is the purse.
+[2:21:48] Unknown Speaker(s): Tell us
+[2:21:51] Speaker 4: you know it has the right description, okay? Because
+[2:21:59] Sango / Cregyn: if we bring the right purse and you know, there's nothing in it, or it's empty, or whatever,
+[2:22:04] Ian Lurie: it's got a hole in it, something fell out. Yeah, he already said that if that is if that happens, then it's his fault, not ours. Voleth actually says. Oberus has never hesitated to make it clear that she is wearing the purse that contains that which is my due, particularly when I am present. Trust me when I tell you, if you take that purse,
+[2:22:27] Jamie Indigo: it has what I require.
+[2:22:30] Ian Lurie: Where do you cross paths with her?
+[2:22:33] Unknown Speaker(s): Very rarely,
+[2:22:35] Jamie Indigo: but when you do, where
+[2:22:38] Unknown Speaker(s): in her tower? Okay,
+[2:22:41] Ian Lurie: is there public access to the tower for any reason? There's a door, but not like a tour. There are there?
+[2:22:51] Speaker 1: No, there's not a daily tour of the Necromancer tower.
+[2:22:55] Ian Lurie: No, some of them are very vain. She is. She possesses her
+[2:23:04] Unknown Speaker(s): own flavor of vanity, but
+[2:23:09] Ian Lurie: and she has grown very careless.
+[2:23:14] Unknown Speaker(s): There is nobody here who can threaten her in any real way, so she cares not.
+[2:23:25] Ian Lurie: What happens here.
+[2:23:27] Speaker 2: I will tell you that the door so he says, I will tell you more, but we must complete this transaction first.
+[2:23:44] Ian Lurie: Val this says, If you are, if this is acceptable to everyone, she reads through it again for you both, and it does sound right. There's everything fits what you're describing what you wanted. There's no holes in it. She says, you have my I'm this is a good contract. This works. If it doesn't remember that counts against me, and I don't get my fee.
+[2:24:11] Unknown Speaker(s): So she says, If this is acceptable, then I just need your signatures.
+[2:24:20] Ian Lurie: She holds out a pen to you Richter, and when you take it, you don't actually, before you can do anything with it, you feel the sharp little pain in your fingers. Something flows out of the pen onto the page and signs your name,
+[2:24:41] Speaker 2: and then you hand the pen back to her, and then voleth does the same thing.
+[2:24:55] Ian Lurie: Right? I guess this deal is done. Well, this says, excellent. I will provide you with all the information that you need meet me. I must go obtain it the map from my boat.
+[2:25:13] Unknown Speaker(s): If you would rather wait here you can if you'd rather
+[2:25:16] Speaker 6: meet me somewhere else that is also agreeable,
+[2:25:22] Rikterr: let's go ahead and we'll wait for you here. I could use another
+[2:25:26] Unknown Speaker(s): glass of ale very well. I will see you in a few moments.
+[2:25:37] Ian Lurie: Val, this says, For what it's worth, this is a he is an excellent ferryman. He may he may not seem he's not the friendliest bloke, but
+[2:25:50] Speaker 6: he is very good at what he does. I've never had anyone tell me that he did not kill a deal. Well, we noticed some of the bad marketing going on for the centrist and figured that
+[2:26:05] Ian Lurie: if that's what needs to happen in order to get him attention, that we should go
+[2:26:09] Rikterr: with the person who doesn't need to market themselves at all essentials.
+[2:26:13] Ian Lurie: Essentials is good at what he does, but he's
+[2:26:20] Unknown Speaker(s): voleth can pick his customers. Let's put it that way.
+[2:26:26] Rikterr: Well, then I'm glad that he was amenable to picking us.
+[2:26:36] Ian Lurie: Good day all. I wish you good luck upon your journey. She turns and she leaves. Okay, guys, I am completely out of gas here. I'm gonna, I'm gonna call it next game. I will give you all of the background materials. Or between now and next game, we'll give you all the background materials. And then if you want to take some time
+[2:26:59] Speaker 6: between games to plan out your your heist or whatever you want to do, that's cool. If you want to do it in game, that's also totally fine.
+[2:27:08] Rikterr: Awesome. Thank you get better,
+[2:27:10] Unknown Speaker(s): man, Yep, thanks guys. Talk to you soon. Good night. Take care. Guys. You.

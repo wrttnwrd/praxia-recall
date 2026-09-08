@@ -1,0 +1,955 @@
+# Ian's Meeting Notes
+# Otter recording 2025/02/17 17:00:10 (3h 1m) id jgoLct1hGigHoOVcMzZ0ZVRQ73o
+# https://otter.ai/u/jgoLct1hGigHoOVcMzZ0ZVRQ73o
+# Speaker-attributed transcript, verbatim. Raw source for the card at /items/otter/2025-02/2025-02-17-rbg.md
+
+[0:01:58] Ian Lurie: Ian Hey, hey, it's good to see you. Yeah, you too. I'd say How you been, but we all know it's been an adventure. Yes, I'm still here, damn it. That's all I can say. I
+[0:02:40] Unknown Speaker(s): The twins turned 16 today. Oh geez, that was the thing. We had a good time. There was no school because it was President's Day. But yeah, so I now have a 19, 216, out of 10 does collective 61 years of parenting, and it shows I was just gonna
+[0:03:15] Ian Lurie: say, which is about 75 years I am aware. Yes, if there's as soon as you have more than one, they outnumber you at least four to one. So
+[0:03:33] Speaker 1: yeah, and they rigged the votes. Yeah. Oh, 100%
+[0:03:41] Unknown Speaker(s): Hey, James. Hey, James. She said, look rough and shaved like a week. I Hello, Jamie, James,
+[0:04:08] Ian Lurie: can you hear me? Oh, there she is. Oh, hey, Ki, he at your shoulder, which makes sense.
+[0:04:19] Jamie Indigo: It's adorable and also difficult. Like every time I walk in the house, she is immediately there trying to get onto my shoulder, which she also has the sharpest, tiny, little razor claws I've ever experienced.
+[0:04:34] Ian Lurie: Yeah, ISIS his new thing is she just has to be in my lap all the time or on the desk, and she will, inevitably, no matter where it is, sit on the touchpad that I have for my computer. So all of a sudden, you know, screens will start scrolling randomly, or I'll just be trying to figure out what the hell just happened, and it'll be because she's there.
+[0:04:56] Unknown Speaker(s): Oh, this one sent several slack messages today. Yeah.
+[0:05:08] Ian Lurie: Hey, Jamar, oh, working on sound.
+[0:05:22] Jamie Indigo: Child, you know the neighbors, we're friends with them.
+[0:05:30] Ian Lurie: Get to the right. Okay, so give tomorrow another minute here so you're
+[0:05:56] Mossimum chaos: good. It gives me time to remember my character. It's been so long I Ian,
+[0:06:00] Unknown Speaker(s): come here, hey, I
+[0:06:08] Ian Lurie: think I've forgotten how to D and D. So, you know, just um, be aware. I think it has something to do with rolling dice, but I can't quite recall,
+[0:06:20] Unknown Speaker(s): um, like, what's an elf?
+[0:06:23] Ian Lurie: Yeah, it's like, that's a, that's a character class, right? Yeah, no. Jamar, the dice are optional, if I remember, right? And yet, for some reason, I have a gigantic bowl of them. I don't I don't know how that happened. Okay? So you know what happened last time,
+[0:06:41] Unknown Speaker(s): I don't remember why,
+[0:06:42] Ian Lurie: for a minute, I thought that was your cat. And then I realized, no, you're actually fondling your bag of dice. Yes, um, so if you remember last time where we ended up, there was you guys had managed to start, yeah, and not totally sure, you know, kind of where we left things, but I mapped it all out. Not so much. Well, actually, let me back up. You were following. You were trying to track down this guy named fell Brown, a drug major drug dealer in the city. Because fell brown knew something about these leaflets that had been handed out. You were also looking for a member of the Haddad combines, guard who had gone missing. Name is skit. You went into the bar where fell brow was supposed to hang out, and Kiki immediately said, Hey, what's the name of that guard that we're looking for. What does he look like? It turned out that skith was there having some kind of argument with fel route. You guys tried to go in, and some of you were being less conspicuous than others. I can't remember exactly who it was that tripped someone to start the fight that was you right now, it was dry,
+[0:08:03] Mossimum chaos: spilled beer, and then he tripped him, and he flipped the table over. That's
+[0:08:06] Ian Lurie: right. And who did you trip? Any particular person, or just a random, I
+[0:08:10] Unknown Speaker(s): think it was the the guard who was running trader, he was running out the door. Yeah, I remember sticking out my leg hitting that natural 20, yeah.
+[0:08:20] Ian Lurie: Skiff goes face first into the ground. Okay, so let me show you the whole environment here.
+[0:08:36] Unknown Speaker(s): Oh, wow. I love those things. So this
+[0:08:38] Ian Lurie: is, this is what it looks like your dice are met. Yeah, mine too. This is what it looks like outside. So this is the cheeky monkey
+[0:08:51] Speaker 2: one on the crack and die. Nice.
+[0:08:57] Ian Lurie: The cheeky monkey is down at the bottom here. That's the ground floor. You don't know what's up here. And then these are two buildings on either side. And this is kind of what a lot of the the the outskirts, the outer city looks like. Is this kind of very close together, sandstone, limestone, style buildings, right? Lot of clay, you know, mostly windows to stay open all the time, because why not. And then this is what it looks like inside. So it is absolutely packed in here. This is the guard guy. So let's see that means that track I had you right, you're like, right about there, but Mossy.
+[0:09:52] Jamie Indigo: I was over by the booth where they had been talking, which
+[0:09:56] Ian Lurie: is back here,
+[0:09:56] Jamie Indigo: yeah, and then Kiki is just invisible, and I think, up on a lid somewhere, yeah, where
+[0:10:04] Ian Lurie: the hell is your mini I know I had you on here somewhere. That's not you. That's Cregan. Cregan, where you were by the he was outside. He was outside. Okay, it's night time. Ignore the lighting. Oh, God, like I said, I'm a little little rusty. There we go. There you are. Okay, so you're like, over here. Um, fell right, disguised
+[0:10:30] Jamie Indigo: as generic
+[0:10:33] Ian Lurie: five, right, right, generic person. Um, so fell brow. Is this dude here? It's kind of punky looking guy to remember how to do any of this. Oh, my God, there we go. Ta da. This is fell bro. Around him are, oh, no, I'm sorry that's not Phil bro. Good god, that's spell row. And around him are his bodyguard, which are these three huge bug bears. And really, nothing's happened yet. I mean, it's just been the first second like, you know, Skiff just fell down, and everyone's kind of looking around like That's funny. He fell he's really drunk. He's got beer on him. And see, I'm trying to keep things organized here. All right, there we go. So you guys right now have basically a round of surprise. What would you like to do? And I'm not sure I'm going to keep on this map here, just for right now. I think this is a good place to this is a good way to kind of get a look at how things are going. Was
+[0:11:52] Sango: Was Richter by the door,
+[0:11:55] Unknown Speaker(s): yep, Oh, okay.
+[0:11:56] Sango: And Sanga was up against the wall, or the bar somewhere like invisible, just watching,
+[0:12:09] Ian Lurie: saying, Go. Richter, oh, come on. I even have cool, well dressed director there as well dress director, okay. Richter, where were you?
+[0:12:21] Rikki: Right by the door.
+[0:12:28] Speaker 1: Doors aren't actually open. That would be weird. There we go. Okay,
+[0:12:38] Ian Lurie: let me turn the torch on for there's skit right there, right where. Sorry, where's skip. He's the glowing guy right there.
+[0:12:55] Unknown Speaker(s): Okay, oh, okay, so Drach
+[0:12:58] Ian Lurie: just tripped him. So he's like, over here,
+[0:13:02] Speaker 2: yeah, he's prone, like the tables float flew right, yeah,
+[0:13:06] Ian Lurie: yeah. Can't really do that here, so, but he's down on he's these face first on the ground. And then these are all random guests and patrons in the bar. Some of them look tougher than others, but at this point, fell brow and his his three bodyguards are just hanging out back. Here
+[0:13:28] Sango: was it drag playing cards with some people at the table or something?
+[0:13:31] Ian Lurie: Yeah, but he knew it, yeah, but I sorry I don't have, like, card playing guy minis for tales fire, so I just sort of threw random people around in the room. You know this is fine,
+[0:13:45] Unknown Speaker(s): so I think so after he trips, tracks going to kind of grab him by the scruff of the neck, okay, while he's face down, and drag him towards Richter. Well, with his other hand, you know, flipping a flipping a gold to the bartender and being like, Han Solo, sorry about the mess. Okay, like, I'm just like, let's get you out of here, buddy.
+[0:14:14] Ian Lurie: All right, so when he falls, he causes this guy to spill his beer. He jumps back. But because his beer is half spilled, he pours some beer accidentally on this the one of the dwarves that was playing cards at the table with you, which causes her to kind of jump back. And then this guy who was also playing cards with you sort of looks around like, hey, wait a minute. Is someone cheating? She jumps to the aid of this guy who apparently is a friend of hers, and this sort of wave of jostling and pushing starts spreading out through the bar, as it can only happen in a really tightly packed bar, really. I don't have everybody in here, and I need
+[0:15:09] Unknown Speaker(s): elbows. Would you
+[0:15:11] Mossimum chaos: say it's asses and elbows?
+[0:15:13] Ian Lurie: Yes, it is asses and elbows. But right now, elbows are jabbing asses, and nobody's happy about it. So in about five seconds, all hell is going to break loose. So drag you can you guys basically have that one surprise around you're dragging him. What do you want to try and do you want to try and get him
+[0:15:32] Unknown Speaker(s): to the door? Scruff of the neck, just drag him to the door.
+[0:15:35] Ian Lurie: All right, give me
+[0:15:40] Unknown Speaker(s): towards Richter, yeah,
+[0:15:42] Ian Lurie: give me a contested give me a strength athletics. Check
+[0:15:48] Unknown Speaker(s): strength athletic. That's a dirty 20, damn.
+[0:15:52] Ian Lurie: All right, I got a not a dirty 20, shit. All right, you drag him towards the door, and as you do, his head bumps against something, and you tell he takes, like a point or so of damage, and all of a sudden he just vanishes, just he's gone from your hands, he reappears. And is up up up, get up there, reappears up here, but he does not look like that now. He looks different. He looks like. God told you, I'm rusty. This is bad. There we go. Oh, my God.
+[0:17:09] Speaker 2: While you tweak that, he looks
+[0:17:14] Unknown Speaker(s): like powder from the movie, powder.
+[0:17:17] Ian Lurie: So I will describe him. He actually has gray skin. He has elf like features, and you realize after a second that he is shadar Kai. Oh, my, what am I doing? What is wrong with me?
+[0:17:40] Sango: Maybe you got to open the door and move them in that way. No,
+[0:17:49] Ian Lurie: because he's not, he's not coming All right. Here, we're gonna do this one step at a time. I'm
+[0:18:12] Sango: Oh hallelujah.
+[0:18:16] Ian Lurie: So he looks like one of the shadow archive. He looks like one of the haddads, only not quite as well dressed. He's got these two long kind of whips at his on his belt. He's not wielding them right now. He looks kind of freaked out. And around him is this little bit of mist where he had just teleported away from you, and there's that kind of sound as he pops into pops into reality right here.
+[0:18:49] Unknown Speaker(s): I'm sorry I've used that misty step move, and it's annoying.
+[0:18:58] Ian Lurie: So now it's initiative. So everybody give me a roll.
+[0:19:06] Jamie Indigo: While we roll. Can you remind me of is the individual that he was just talking to the drug
+[0:19:13] Ian Lurie: dealer? Yeah, yeah, fel bro,
+[0:19:18] Mossimum chaos: and he is the one that was on guard that night and did not see anything happen.
+[0:19:22] Ian Lurie: Skis, the one who's now the shadow archive is the one who was supposedly on guard. Yes, so let's see. We got Richter. We got track. I
+[0:19:41] Speaker 2: got a 14 Oh, Sango, that's wrong. Oh,
+[0:19:53] Ian Lurie: damn it. Sango, um, a creegan. Oh, Cregan,
+[0:20:11] Sango: literally, a three
+[0:20:15] Ian Lurie: um, by the way, it is. We will see if my voice can make it all the way through tonight. I'm honestly not sure, but it's worth a shot. All right, let's see we got the Minotaur, and that's that's all I'm going to do for individuals. Now there are some crazy things that can happen here. So first is the shed archive. He will immediately. Sorry, guys, I'm not that organized here just yet. Okay, so first thing, I need everyone to roll a d4
+[0:21:06] Unknown Speaker(s): and that's the stabby one, right?
+[0:21:07] Ian Lurie: Yep, if anyone rolls a one, let me know.
+[0:21:12] Unknown Speaker(s): Roll the one. Okay,
+[0:21:13] Ian Lurie: so let's see, mossy, you are where you are and you're getting ready to kind of head in that direction, because, you know, things are just getting started, and one of the this gigantic Minotaur, comes running across the entire room, and you suddenly realize he must be The bouncer, because he comes flying across the room, proceeds to jump up on the bar, looking like he's gonna hit fell bro misses his footing on the end of the bar, falls down, takes out this table, and when he does, a huge chunk of the floor gives way as Well, just from the sheer size of this Minotaur, and you need to give me a DC 10 deck save.
+[0:22:09] Speaker 2: Oh, I juice boxed. Oh, my dice were mad, I told you. So
+[0:22:14] Ian Lurie: you're damn so you're trying to get out of here. You're heading this way. You don't really totally see this until it happens. The floor collapses underneath you. The Minotaur, trying to stay up as he falls backwards through the floor, actually grabs your tail and drags you into the whole little ways, and you take three points of falling damage as you fell about five feet. Actually, you know what? No, you only take one point because you fall on top of the Minotaur, who, actually, you know, he's kind of soft. There's kind of this, you know, this, this musky Minotaur aroma, but, but he, you know, and he sounds kind of, I think
+[0:22:55] Mossimum chaos: that's an ax body spray, yeah?
+[0:22:57] Ian Lurie: And he's not roaring or anything. He's just, he's kind of like, oh, as you land on top of him, and he kind of goes, alright, well, so that's, that's it for you the shadar Kai. Now, what am I going to do? I'm like, I'm out of here. Wait a minute. There's a door at the top of the stairs, and I can't go that way. Well, shite. I go back down the stairs. He is blindingly fast, by the way. So Rikki, you're going to get an attack of opportunity as he tries to go running by you. Ah,
+[0:23:57] Rikki: 19, okay, I'm what do you do? I am going to try and grapple. Okay.
+[0:24:16] Ian Lurie: How'd that go?
+[0:24:19] Rikki: A 19.
+[0:24:21] Ian Lurie: A 19, okay. Oh, hoarder, yeah, got it. I missed that. See, I can't keep track of the chat at the same time. All right, you actually grab him, so you now have this shadow Kai in your grasp. Let's see what happens with that next round. Track. What are you doing? You're muted.
+[0:24:51] Unknown Speaker(s): Okay. I hope this works. It sounds crazy, but I'm going to scooch around the shuttle high. I've got my heavy crossbow out. Okay, I'm gonna plug him in the chest. And part of the weapon mastery thing is that he get pushed. He gets pushed back 10 feet. So you
+[0:25:17] Ian Lurie: shoot him in the chest, yes, and you want to push him 10 feet out, feet
+[0:25:22] Unknown Speaker(s): back into the bar,
+[0:25:25] Rikki: but if I'm grappling him, is that going to hurt me too? Well,
+[0:25:28] Ian Lurie: no, but you're grappling him, so
+[0:25:33] Unknown Speaker(s): actually, in that case, okay, good point. Those can grapple, yeah,
+[0:25:38] Ian Lurie: you know, bobbing the bad guy from one of your friends, is not good for
+[0:25:43] Unknown Speaker(s): no so I'm going to, I'm going to pull the dagger. Okay, and I don't have the twins with me, so I'm going to, I'm going to dagger. Dag, dagger, dagger. Okay,
+[0:25:57] Ian Lurie: you dagger. Dagger.
+[0:26:00] Unknown Speaker(s): Pop off the hunters mark,
+[0:26:02] Ian Lurie: all right, and
+[0:26:08] Unknown Speaker(s): it's a 21 hit.
+[0:26:10] Ian Lurie: It that hits, okay?
+[0:26:16] Unknown Speaker(s): That is 12 points of damage, all right. That hurts the Nick attack, that is a 19 to hit, all right?
+[0:26:26] Ian Lurie: Also hits four points
+[0:26:28] Unknown Speaker(s): of damage.
+[0:26:29] Ian Lurie: Rikki, you're holding on to this guy, and he's like going while Drak is perforating him, okay? And then
+[0:26:39] Unknown Speaker(s): lose using the blunt side of the dagger, like so I want to go on a specifically called non lethal force and hit him. Hit him again with the second attack. Okay, that is a 19 to hit. Okay, that hits. And that is,
+[0:27:02] Speaker 1: uh, eight points of damage, okay,
+[0:27:07] Ian Lurie: yeah, he looks you messed him up a little bit. He's not happy.
+[0:27:14] Unknown Speaker(s): And that's my time,
+[0:27:16] Ian Lurie: okay, Sango, when you do
+[0:27:22] Sango: the Sango is going to, he's going to crouch down behind the bar the end there, so he's sort of out of sight, and he's going to cast darkness, okay, on is casted on his staff. He's gonna fix it to the end of
+[0:27:50] Ian Lurie: his staff. 10 foot radius,
+[0:27:53] Sango: Nope, it's a little bit bigger than that. I
+[0:28:00] Speaker 1: it six, oh, my God, that's the range,
+[0:28:11] Unknown Speaker(s): 15 feet radius.
+[0:28:18] Ian Lurie: Okay, and then are you gonna move? Yep,
+[0:28:24] Sango: heading towards Mossy.
+[0:28:27] Unknown Speaker(s): Mossy. Go down the hole.
+[0:28:31] Ian Lurie: You going all the way over there? Yep, all right. There is a hole in the floor where mossy was. You see mossy, I'd say you see kind of some pause and like a minotaur lag and other, like totally random stuff sticking up out of this hole. It looks like there's a weird game, a twister going on down there, or something. In the meantime, as soon as the darkness hits, I people start screaming and kind of stumbling around. You hear some swearing. What are you doing now that you're
+[0:29:18] Sango: over there? Well, that's he doesn't really have a bonus action that would help this round. So okay, he's just gonna hang all right, hold on. Is there? He does get a he does get a punch because he used a key point for the darkness. Is there somebody threatening in the area? Black man.
+[0:29:57] Ian Lurie: There is this gigantic bug bear who looks a little menacing, standing right over here, he can't actually, he can't see, and he hasn't actually done anything, but he looks vaguely, you know, menacing. He's got this, not
+[0:30:11] Speaker 2: racially profile. It's poor bug bear, right now, bug
+[0:30:15] Ian Lurie: bears are not generally menacing, but he does look pretty menacing.
+[0:30:20] Sango: Okay, I think I'm gonna leave him alone for now. Okay,
+[0:30:26] Ian Lurie: he looks extremely confused. All right, so now we get to felbro. Fell brow says, you know skith, I don't really like you. You're kind of a pain in my ass. I worked with you because I had to. I'm gonna go through this little, teeny hole here into the kitchen. That just seems like a better idea. And I'm gonna have my guys who can barely squeeze through there. It's basically a two foot wide space here. They kind of come wading through here, and they're trying to avoid the darkness. You can tell.
+[0:31:13] Mossimum chaos: We talk about how amazing this bar looks, though. This
+[0:31:16] Ian Lurie: is a great piece of software, um, okay, so that's it for him. Richter, it is now your turn.
+[0:31:38] Rikki: All right, what can I do? What can I do? I'm, Damn it's not a punchy, kicky situation. I'm just going to try and calm Skiff down and say, Hey, if you just chill, my friend here, won't have to continue to stab you in multiple areas, in the chest and also knife whip you in the face. We just would like to talk, but we can also talk to you while you bleed out on the ground, your choice. All right,
+[0:32:22] Ian Lurie: um, give me either persuasion or intimidation.
+[0:32:29] Mossimum chaos: All right, yeah, good advantage of intimidation right now, because during drag is holding the bloody knife right in front of him. Well,
+[0:32:35] Ian Lurie: it's kind of total chaos. I'm going to say no, yeah. Normally I'd say there'd be a disadvantage, because he has very little to lose in this situation. But
+[0:32:46] Rikki: you know what? Mossy, that actually gave me a really fantastic idea. I am going to use my heroic inspiration for the day to give myself advantage on this role. Oh, and guess what? A 9020 y'all, oh,
+[0:33:03] Ian Lurie: shit. Okay, so he's struggling like crazy, and you're actually sort of surprised he's not real strong, but man, is he hard to keep a hold on. And when you say that to him, he kind of he stops from it, and he hesitates. You're not sure what he's going to do, but things are happening fast right now, and he has definitely stopped struggling. He's no longer trying to get away. He's no longer trying to hurt you. He's just kind of hanging there. Korean
+[0:33:35] Sango: Greg and tenzerman is like, I just left you guys for like two minutes, and you're already starting to fight.
+[0:33:45] Ian Lurie: By the way, in the bar, things are decaying rapidly. Go ahead. Sorry.
+[0:33:52] Sango: I'm contemplating on whether to use his action to just cast a disapproving look, but maybe he should do something a little more. What's
+[0:34:04] Unknown Speaker(s): the save on that
+[0:34:08] Sango: you need a natural 20? Can he see that there's a fight happening in the bar? You can hear
+[0:34:15] Ian Lurie: it. You can hear it. And actually, you really can't see because a lot of the fights happening inside this inky black sphere of darkness that has suddenly sprung up. You do see, you know, some people are kind of moving around. There's this guy who looks like a noble, but it's but is brandishing a cane and heading towards the fight that this card player looking thoroughly irritated at this point, kind of heads to to intercept the noble. You've got another tabaxi Actually, kind of coming up over some tables here to see what the hell just happened. Also, there was a bunch of money on this table that also went flying everywhere when this started. So now there's people start, sort of starting to crawl around try to find their way to the money the bartender. Well, he's, he's just, he's lying down, as any smart bartender would in this situation. Okay,
+[0:35:10] Sango: then I'm going to cast asleep into the room at fourth level. Okay,
+[0:35:18] Unknown Speaker(s): okay, I guess cuddle with a Minotaur, let's see
+[0:35:27] Sango: five, d8 plus two d8 plus two d8 plus two d8 that's 11, d8
+[0:35:40] Rikki: sounds like a made up number,
+[0:35:48] Sango: 36 hit points of sleep,
+[0:35:50] Ian Lurie: 36 and what's their radius?
+[0:35:54] Sango: 20 feet. Radius range, 90 feet. Okay. And where did
+[0:35:59] Ian Lurie: you center it? I
+[0:36:01] Sango: am centering it kind of where the into the darkness a little bit, but I want to make sure I get these two guys that are heading that way.
+[0:36:16] Ian Lurie: I mean, let's face it, most of these people are just, you know, we're talking four hit points. This is good because I honestly was sort of afraid you guys were going to commit mass murder just by accident. I mean,
+[0:36:30] Sango: no, we would not agree about that earlier today.
+[0:36:38] Ian Lurie: Let's see so the Minotaur stays up. Commoner goes down, she goes down. Okay, so basically, and there's other people in here, so basically, every single normal person in this, in this bar, within that 20 foot radius, is now unconscious. He's just outside of it. That's why he's still up. But you wouldn't know, because he's lying down. So you know, all right, so there's this sort of awesome mass casualty event where everybody suddenly falls over sleeping, mossy, you're still awake, as is the Minotaur. The Minotaur is now saying, I'm terribly sorry, sorry. I so sorry. This was not Cregan. Is there anything else you
+[0:37:30] Sango: want to do? No, just more staring and more disapproval. Okay,
+[0:37:36] Ian Lurie: the Minotaur kind of heaves you up pretty much effortlessly, and set you on your feet, on the floor, and stands up now, realizes it's completely dark and just freezes in place. Ashley, No, he doesn't. He starts kind of staggering over this way, finds his way to the bar and starts feeling his way along the bar. And you can hear him swearing. It's like, god damn it. Almost ready to go home. My shift was over. I'll say he gets about to there, so he's still in the darkness. And now it is the shadow archives turn.
+[0:38:18] Unknown Speaker(s): Wait. I didn't get to go,
+[0:38:22] Ian Lurie: Uh, no, because you were, you were, you were kind of, you're kind of lying in the hole.
+[0:38:31] Jamie Indigo: I was lying in the hole, yes, but I was going to ask if there were papers on the desk where the homeboy was, because he's still out there. Oh,
+[0:38:37] Ian Lurie: sorry, go snag
+[0:38:39] Unknown Speaker(s): them if possible.
+[0:38:40] Ian Lurie: There's some money, no papers, okay, just really, so I not even have you in here. I'm sorry that was terrible. Yeah, you're like, right there, right, okay,
+[0:39:02] Mossimum chaos: yeah, I got a 14,
+[0:39:04] Ian Lurie: yep, all right. So the shadow Kai, he relaxes for a moment. As far as you can tell, he's kind of like, okay, all right. I it. And that's all he does. Drach, what are you doing?
+[0:39:37] Unknown Speaker(s): I'm looking at crew standing down. I
+[0:39:43] Ian Lurie: Okay, everybody roll d4 for me. So it's gotten a little quieter in the bar, right? Most of the violence has has kind of tailed off. Two, nice 221,
+[0:39:58] Sango: if he needs to roll one, we got
+[0:40:00] Ian Lurie: two ones, excellent. Hey, Cregan, no, it doesn't work because you're not actually in there. I was going to have you make a Dex, a Dex roll to not fall down in some ale, but which would have been hilarious, but you're not in the bar. Oh, I got it somebody. So over here on this side of things, there's these two halflings, and one of them goes running across here. I here as is he and just as they're coming by, this one trips over Richter and falls just face first on the ground, which wouldn't be a big deal, except that now you're noticing there's this sort of tide of humanoidity heading for the front door here, as they're all trying to get out, so this person could potentially get trampled as there's all these people trying to get out of the bar. So I'll leave you there with that. And then mossy, you're on, you're having a rough day. I Okay, mossy, the minute, hard. No, no. You get up out of the hole, and you're starting to to kind of get your bearings, to figure out where you should be going. And then you feel this gigantic paw grab you on the shoulder and say, Don't worry, ma'am, I'm going to keep you safe. And it's the Minotaur, and he basically has palmed you up into the air. But you'll still get to go. You're not completely out of commission this time, but that's that's what's happened to you. So, Drak, it is now your turn. You said, are we good? And you're kind of just,
+[0:42:03] Unknown Speaker(s): I'm I'm refraining on attacking him, okay. But also, Drak is really disappointed that there's darkness, because I am just imagining all of the badass ninja shit that mossy is doing in the dark. And, um, I want to, like, sometimes, like, I'm getting, I need, like, some sort of verbal like, what do we do with this guy to Richter, yep, so I'm just kind of taking hold, but I I seize my attack, okay,
+[0:42:42] Ian Lurie: and I'm just gonna, no, we can't
+[0:42:43] Mossimum chaos: see drug dealer dude, because it's darkness. It's
+[0:42:47] Ian Lurie: darkness. And like I said, there's this increasing number of people. He didn't actually wake up. I'm just using as many. There's an increasing number of people heading for the door trying to get out. Bartender, yeah, you know what? He's like, screw that. I get paid minimum wage. I'm not staying here for this shit, although he does drag the he's got the waitress with him, and he started dragging out there. Our heads kind of going, don't go, don't go on every piece of furniture that he goes by. But he thinks he's being helpful, which is what really matters. Sango
+[0:43:23] Sango: Moss, he's up, she's she's up, uh, she's out of the hole, right? She's
+[0:43:27] Ian Lurie: up out of the hole. You cannot see her, though, uh, yes, I can.
+[0:43:34] Unknown Speaker(s): I'm just riding on the shoulder of a minotaur right now. Like,
+[0:43:37] Ian Lurie: yeah, actually, right now, a minotaur literally has her his, his enormous fist has kind of furry fist is kind of closed over mossy arm shoulder, and basically half her body is just sort of holding her up in the air. She hasn't really acted yet, and he doesn't really look well, you're not sure
+[0:44:06] Sango: Sango has a double site so he could see in darkness. Yeah,
+[0:44:09] Ian Lurie: no, that's what I'm saying. So that's what you see.
+[0:44:13] Sango: Gotcha okay? So mossy is fine. Now she's she
+[0:44:15] Ian Lurie: looks completely safe if in a somewhat awkward position. I question.
+[0:44:30] Sango: I guess I'm going to shadow step down, back down to the end of the bar that he was at earlier. Yeah, and just hang out there, but
+[0:44:44] Ian Lurie: that means the darkness goes with you, right? Yep,
+[0:44:55] Sango: me will be up on the bar. I
+[0:45:12] Ian Lurie: Ian Sango introducing a level of chaos that, yes, even chaos, can't totally figure out. All right, so the darkness goes down, you see all these unconscious people over here, mossy, you are kind of hanging as well. As soon as the darkness goes away, you realize you are standing here. The Minotaurs got you. The Minotaur got you like this. So like half your head is in his hand, and then most of your body. And he doesn't seem to be doing anything. He's just saying, I've got you, ma'am, I'll keep you safe. Let's get you out of here. Kiki's like, oh, mossy Richter's gonna be pissed.
+[0:45:59] Unknown Speaker(s): What's your name, buddy? And a jar
+[0:46:05] Ian Lurie: name's thud here. Let's
+[0:46:07] Jamie Indigo: stop right here. I want to stay on the bar and see if you can see my friends, is that okay? I got pocket bacon and a bacon
+[0:46:14] Ian Lurie: I'm not so easily bought, but yes, I can set you down here. It's fine.
+[0:46:20] Speaker 2: No, pocket bacon is just delicious as a snack in general. I
+[0:46:23] Ian Lurie: know pocket bacon, yeah, oh, you have small pockets anyway. Okay, so all hell's breaking loose here. He set you down on the bar so you can now see him see eye to eye.
+[0:46:41] Speaker 2: Okay, so we have one shot a guy in the in the playing field here, mossy is going to pop down goggle time and take a look around.
+[0:46:50] Ian Lurie: Okay, nothing looks any different when you do that.
+[0:46:56] Speaker 2: And I don't see not what is his name? I'm sorry. I'm bad at names. We know this cobra,
+[0:47:05] Ian Lurie: the drug dealer. Yeah,
+[0:47:07] Unknown Speaker(s): we don't see him. Nope.
+[0:47:11] Sango: With moss goggles, can she see through the darkness?
+[0:47:14] Ian Lurie: Yes, you can see into magical darkness,
+[0:47:19] Mossimum chaos: which you still have up over yonder, right? Yep. Okay, then I'll look at look at thug me like, Oh, I see my friend and run over into the magical darkness because I don't want to get trampled. So I'm just up on the bar next to Sango. You hear
+[0:47:36] Ian Lurie: him say hey, and then you're gone.
+[0:47:41] Speaker 3: Sango, you think they got that? They're fine, right? This is fine, I don't
+[0:47:46] Sango: know, but we got a good view to watch the watch it roll out,
+[0:47:50] Ian Lurie: only if she keeps her goggles on. They're like hell. We are. We are out of here. Oh, gracious, it's like Jesus. Did
+[0:48:08] Sango: we see them leaving from where we're at? Ian mossy,
+[0:48:14] Ian Lurie: you would just see them heading for the door. Yes, okay, because there's not many like in in samur, there's not many doorways, like, it's a lot of curtains, you know, very light stuff that'll let air move in and out. So like back here, there isn't even a doorway, it's just wide open. Or it isn't even a door, it's just wide open. So yes, you see them heading out the door, not in any particular hurry,
+[0:48:43] Sango: and we don't really care about them, do we?
+[0:48:46] Ian Lurie: I mean, spellbrows, the one who's been distributing, who's been hiring people to distribute the leaflets. Okay, so
+[0:48:52] Sango: he is so it's not just this, isn't it? Guy, no. Skiff
+[0:48:57] Ian Lurie: is not the only. Skith is not your only you actually came here initially to find fel route Skiff was a bonus, and now suddenly Skiff has turned out to be a shadow archive, which is a whole other thing,
+[0:49:12] Unknown Speaker(s): and drugs and
+[0:49:13] Ian Lurie: drugs, yeah, fell brows, yeah, you know, fell brows doing bad things if you don't like drugs. Um, roads.
+[0:49:24] Unknown Speaker(s): Who are you? RFK, I cannot
+[0:49:30] Ian Lurie: believe that he's going to send me to a wellness camp, which, if I'm honest, doesn't sound terrible. But anyway, go ahead. Continue. Yes,
+[0:49:39] Mossimum chaos: conversion camps always work great.
+[0:49:47] Ian Lurie: Okay, so that's human soldier. So Richard is now your turn,
+[0:49:54] Rikki: all right, so with I'm gonna say party line to Drach. Do you think it's okay for me to let Skiff go? You got him?
+[0:50:10] Unknown Speaker(s): I got him. All
+[0:50:12] Rikki: right. So Richter is going to, as he said, Let Skiff go. He's going to look to his right. You guys are going to hear him whistle, and you're going to hear him say, Fenrir, come and he summons his Fae um dire wolf.
+[0:50:33] Unknown Speaker(s): What can you do a packed bar full of panicking people?
+[0:50:37] Sango: Hey,
+[0:50:38] Ian Lurie: fine, fine. Finally,
+[0:50:41] Unknown Speaker(s): something scarier than the Allosaurus
+[0:50:44] Ian Lurie: see here. I'm pretty sure I can find something.
+[0:50:51] Unknown Speaker(s): I think they have dire wolves. Well,
+[0:50:53] Ian Lurie: yeah, but not in Tales fire, necessarily. I have to go and get the assets Sure. Good god, no, no, that's a bit much. Here we go. That's cool, yeah, um, Richter, I have to get that one. They, they cost money. So I've been, I
+[0:51:17] Rikki: was just putting the picture in so everyone could see,
+[0:51:19] Ian Lurie: yeah, yeah. But no, I will all right, where would you like him to appear?
+[0:51:28] Rikki: Just right there, so he can help keep people from flooding towards the door. Okay? Because we don't want them trampling us, as we're trying to show Skiff. Hey, we're not gonna hurt you.
+[0:51:43] Ian Lurie: I think that's more dire wolf size, but I'm not totally sure. Let's see how big is a dire wolf? Immensely, large. That sounds big. It's a large beast. So yeah, that's about the right size. So suddenly, in this bar where there's some, you know, somewhat panic people already, this huge wolf appears going in the middle of all these people and everyone kind of freaks out a little bit, as is, you know, would be sort of understandable, rolling marvelously well, actually, so they don't lose control of their bladder or other parts of their bodies, but they do decide maybe there's a better way to go. Now, the halfling who fell over is still there. His buddy is trying to stand over him. This person sees the wolf and just beats it for the door goes that way. Um, and would you like Fenrir to do anything in particular
+[0:52:53] Rikki: or just, since I can talk to him telepathically, just say, keep people back, but don't attack them,
+[0:53:01] Ian Lurie: okay? So he just stands there in the doorway.
+[0:53:09] Rikki: All right, and that's that's all Richter is going to do, okay? All right.
+[0:53:16] Ian Lurie: The Minotaur sees this wolf appear. Ian I'm a bouncer, damn it. I'm here to protect people. He runs up to Fenrir. He's gonna take a big swing at him, and he misses, um, he runs up to him with this huge club. It's not actually an ax like that. It's just this huge wooden club, kind of gnarled piece of wood, and he just goes, he's clearly not very good at it. And just completely Mrs. Fenrir, who sort of looks at the Minotaur, and the Minotaur kind of looks back, and there's this moment of, did I err? I may have aired here. I may have aired badly. I All right, so now we're up to shadow Kai. The Shadow Kai, he put him down, disconnected. What was that?
+[0:54:16] Mossimum chaos: That was my subwoofer saying it was disconnected.
+[0:54:20] Ian Lurie: The shadar Kai goes and appears right there, and he is off. He has taken off like top speed, hell for leather down the road. He cannot get that far just yet, but that is what he has done. Oh, did
+[0:54:40] Sango: he does? Craig and get a chance to go before he does?
+[0:54:45] Ian Lurie: No. Cragan, you go, Oh, I'm sorry, yes, you do get a chance to go. My bad, disappointed that his prowess has done nothing for him. He returns suddenly, yes, credent, you can go, all right.
+[0:55:22] Sango: You want to push him into the room. Okay, you know to the right director towards the stairs,
+[0:55:32] Ian Lurie: you can shove him.
+[0:55:34] Unknown Speaker(s): Okay? So that that's
+[0:55:36] Ian Lurie: a contest. It's your strength athletics against my whatever athletics I'm going to use Dex, because I'm not very strong. Tell me what you got,
+[0:55:49] Sango: 16. Okay,
+[0:55:50] Ian Lurie: I got a 23 so I kind of go.
+[0:55:58] Sango: That's pretty good.
+[0:56:01] Ian Lurie: He's very dexterous.
+[0:56:03] Sango: Okay, so so that I don't get to push him, you
+[0:56:07] Ian Lurie: do not push okay.
+[0:56:09] Sango: So then after that, I want to grab the goblin guy that's on the floor, or the halfling, yep, and just pull, pick him up and pull him outside and just put him outside. Yep,
+[0:56:22] Ian Lurie: you just throw them down. Yeah,
+[0:56:23] Sango: that's pretty much it. That's all, that's all I got. All right, all
+[0:56:30] Ian Lurie: right. Then the Minotaur does his ill advised thing. Now, the shadow archive, of course. Now the shadow cry can't see as well, so the shadow. Kai just goes right there, and then we'll take off top speed that way, which is not very fast just yet, he's he's needs a little time to get moving. Drak, it is now your turn. You
+[0:57:03] Unknown Speaker(s): all right, well, Richter gave me one job, so dropping Hunter's Mark
+[0:57:10] Ian Lurie: and
+[0:57:12] Unknown Speaker(s): I'm going to be popping up Zephyr strike, okay, which gives me just one second level, another 30 feet. So I have 8085, speed from standing to go. Okay, I am going to run and at the end of I'm going to catch up with a shadow car as quickly as I can, and Zephyr strike at the at the end of it allows me to do to make one attack, right? I'm using non lethal, non lethal force damage. Okay, to basically, actually, if you could still pop out, yeah, I'm going to try to knock him out with uh, non lethal and arrows. I'm assuming arrows and bolts from crossbows are cannot be non lethal, correct?
+[0:58:28] Ian Lurie: So it can go very fast. Yes, I am
+[0:58:31] Unknown Speaker(s): gonna, I'm gonna hit them again with my with my daggers, yeah, on the blunt end, I'm non lethal. All right, okay, so attack one, that's a 22 to hit
+[0:58:47] Ian Lurie: that definitely hits B,
+[0:58:58] Unknown Speaker(s): just a second. I Okay, 12 points of damage. Okay, my Hunter's Mark is off, so I'm not including my Hunter's Mark damage. The Nick attack would be 11 to 22 to hit, and that will be six points of non lethal damage, okay,
+[0:59:24] Ian Lurie: and
+[0:59:25] Unknown Speaker(s): then the second dagger attack, that is a 24 to hit,
+[0:59:36] Ian Lurie: okay? And
+[0:59:39] Unknown Speaker(s): that would be 13 points of damage.
+[0:59:46] Ian Lurie: So you come up behind him, and you kind of go good and just, you know, do that drag, super speedy thing. It definitely hurts him, but he keeps going. It does not put him down. You'd say at this point he's relatively beat up, but he's still, he's still okay.
+[1:00:04] Unknown Speaker(s): I've got concentration on the Zephyr strike, so I hope to be able to at least match him. Okay.
+[1:00:11] Ian Lurie: Sango, oh, sorry, sorry,
+[1:00:13] Unknown Speaker(s): and that's it all right,
+[1:00:17] Ian Lurie: by the way, Kiki at this point, is saying, you keep hearing Kiki say, Oh, wait, I got money on Oh, oh, man, don't eat the Minotaur. I kind of like him. Don't eat him. Don't eat him, by the way. Who is that? I've never seen that guy before. That's cool,
+[1:00:32] Unknown Speaker(s): right? Who the brought a wolf to the bar?
+[1:00:34] Ian Lurie: I know, but tell Richard, that's pretty awesome. What's his name? What's his name? I think so. I mean, Richter said something, and then the wolf appeared, and it hasn't tried to eat Richter. So that kind of kind of stands to reason, right? Oh, you
+[1:00:47] Mossimum chaos: know, they do coordinate their outfits too. I see your point.
+[1:00:53] Ian Lurie: Okay, so Sango, your turn.
+[1:00:58] Sango: Sango looks over mossy says, Alright, guys are getting out the back. Maybe we should keep an eye on him. And then he shadow steps over next to him
+[1:01:10] Mossimum chaos: with darkness on so they're just also in darkness, yep.
+[1:01:16] Sango: And then he we're just
+[1:01:18] Ian Lurie: gonna assume there's darkness there, yeah.
+[1:01:21] Sango: And then he's gonna, he's gonna do some, I think he's gonna punch, punch. He gets advantage because they're in darkness and they can't see. I'm assuming they can't see.
+[1:01:35] Ian Lurie: They can't see shit, as far as you can tell.
+[1:01:38] Sango: Okay, first one is a 22 to hit. Yeah, and that is, and it's 13 damage. I uh, how's he looking after that
+[1:02:15] Ian Lurie: one? Uh, he looks annoyed. But okay, okay,
+[1:02:21] Sango: what? I'm gonna pump a key point into that for stunning strike, okay, that's an 18 con save. He's gotta make,
+[1:02:41] Ian Lurie: uh, you hit him, and his head kind of cracks back, and he looks a little surprised for a minute, and then he shakes his head, and he's still okay, okay,
+[1:02:48] Sango: and then I'm going to punch him again, right? And I'm trying to do non lethal damage, yeah,
+[1:02:55] Ian Lurie: of course. Okay,
+[1:02:56] Sango: it's a 23 to hit.
+[1:02:59] Ian Lurie: Yeah, that
+[1:03:00] Sango: it was 11 damage. And another key point for stunning strike.
+[1:03:09] Ian Lurie: Oh, he so he you hit him with the first stunning strike, and he kind of goes, Hey, even though he can't see you, then you hit him again. And he just goes, Duke, and his eyes roll back in his head. What that's for one round, right? Yeah,
+[1:03:22] Unknown Speaker(s): yeah, yeah, so
+[1:03:24] Ian Lurie: for the next round, stunned,
+[1:03:29] Sango: and then from the darkness, he hears you should run away. That's it. Okay.
+[1:03:41] Ian Lurie: Mossy, all right,
+[1:03:43] Speaker 2: so now standing up on the bar, watching chaos and all directions. Say, oh, I can help and casting web over at the fleeing folk here. Okay, you make dexterity saves over here. Ian, yeah, including Sango. It'll be fun. All right. Oh, you got too many things going on at once. I gotta freeze one of them and pause the DC, 1818,
+[1:04:12] Ian Lurie: no, they're all down.
+[1:04:14] Sango: That's funny, right there.
+[1:04:20] Mossimum chaos: Okay, and now I will use my movement to try and get out the front door. Okay,
+[1:04:30] Ian Lurie: how big? What's the radius for web?
+[1:04:33] Unknown Speaker(s): 20 feet, 20 feet.
+[1:04:35] Ian Lurie: So actually, that's 20 foot radius. Oh, God, all right. So that's actually a much larger area that is, and you're centering it here.
+[1:04:44] Unknown Speaker(s): Yep, sure am.
+[1:04:53] Ian Lurie: So now they're screaming out in the street too, as people are like, oh god, there's webs everywhere. And actually, she wouldn't have quite made it, then she'd be right about there, stuck on the edge of the web screaming, bloody murder. This is just not a typical day in a bar. And then, okay, so you'll
+[1:05:10] Unknown Speaker(s): be right back. You're
+[1:05:12] Ian Lurie: heading for the door. Yep, you kind of squeeze past. It's a little bit of a tight squeeze here. And how far are you going to you gonna move?
+[1:05:27] Mossimum chaos: We have homeboy running away, right? How many was it to get out?
+[1:05:32] Ian Lurie: It was, let's see, it's difficult terrain. So it's 510, 1520, 2530 35 to get if you wanted to get to get out the door, that's 35 feet of movement, right
+[1:05:45] Mossimum chaos: there. Okay, so I'm going to use feline agility here, double my movement. So that means once I'm out the door, I can go another 25 can that get me up next to Yep,
+[1:05:56] Ian Lurie: yeah, right there. Okay, oh, hey,
+[1:06:04] Mossimum chaos: yeah, that's, that's the end of metric. Hi. I'll drop the disguise self.
+[1:06:12] Unknown Speaker(s): I have a costume too. These
+[1:06:14] Ian Lurie: guys are stuck in the webbing now and in the dark. So they are webbed in the dark.
+[1:06:21] Sango: Sounds like a bad date. Sounds
+[1:06:23] Ian Lurie: like, yeah, doesn't it? Or a good date, I guess, depending on who you are, I don't know,
+[1:06:27] Mossimum chaos: um, oh, King shame, spider man.
+[1:06:31] Ian Lurie: So he actually to strength check to get out of webbing. Right?
+[1:06:37] Unknown Speaker(s): Hold, please.
+[1:06:41] Ian Lurie: My god, he's not that strong. It doesn't matter, but let me know.
+[1:06:50] Unknown Speaker(s): Strength check of 18, yeah.
+[1:06:53] Ian Lurie: Okay, so no, he tries. There's some feeble struggling going on. You're pretty sure you can hear some people struggling.
+[1:07:00] Unknown Speaker(s): See
+[1:07:01] Ian Lurie: the hobgoblins, though, the one that's still conscious, he does tear loose, but where does he go? He can't see anything, so we're just going to go random. He starts staggering this way. So Sango, suddenly there's a hobgoblin who walks right towards you, trips over you, and is just kind of fumbling around. He doesn't even know who he's run into, so he's not really doing anything. I Okay, Richter,
+[1:07:46] Rikki: all right. Richter is going to use his 30 feet of movement to get out the door and walk towards the shutter. Kai,
+[1:07:59] Ian Lurie: believe that puts you there. And
+[1:08:01] Rikki: then once he's out, he's going to communicate to finrier to come out towards the shadow Kai and FINRA has 60 feet of movement, okay,
+[1:08:16] Ian Lurie: Henri has a tight squeeze getting out the door.
+[1:08:18] Rikki: Want to put him in front of him, if I can. Okay,
+[1:08:21] Ian Lurie: no problem. So this massive wolf squeezes through the door, bounds in one huge leap over all of you, and then just lands here, facing towards the shot archive, with pretty much that exact look on his face. And
+[1:08:36] Rikki: Richter is just going to tell him, if he moves, chase him.
+[1:08:41] Ian Lurie: All right. Drak
+[1:08:43] Unknown Speaker(s): is super press. This is the first time you've ever seen this look. That's
+[1:08:47] Speaker 1: pretty cool. It's pretty cool. Yeah, yeah.
+[1:08:51] Ian Lurie: Cregan, your turn.
+[1:08:55] Sango: Crigan's Gonna make his way towards the guy that the Shatter guy, yeah, letting everybody out. I
+[1:09:14] Ian Lurie: want to refund worst date ever. He leaves her because, you know, freaked out at this point, he basically leaves his employee at the feet of the wolf. Okay?
+[1:09:27] Sango: So he doesn't really like the fact that this guy didn't pay attention, didn't do what He had promised Richter, so he's going to take the blunt side of his ax and and hit him. Okay,
+[1:09:43] Ian Lurie: so you have to, kind of, you can't really get between them, and you don't have enough movement to get all the way around to here. So I don't think you're gonna be able to do that. You could throw something if you wanted to, but you're throwing in the melee.
+[1:09:59] Sango: Oh, okay, well, I can do a starry Wisp. Can trip. I can do that. Okay, this might hurt him a little bit, but okay, that's a 17 to hit, all right. That is 3d, eight. I Oh, you know, is he how's he look? Is he looking rough at all? Man?
+[1:10:32] Ian Lurie: He looks beat up, but not rough, not like he's not in, he's not in imminent danger of dying or anything like that. Okay?
+[1:10:43] Unknown Speaker(s): Let's do this. Let's
+[1:10:54] Sango: 13 radiant damage. Okay, ow. And then until the end of my next turn, he imminent, emits dim light for a 10 foot radius and can't become invisible. Okay,
+[1:11:18] Ian Lurie: that sucks, I may say.
+[1:11:22] Sango: And that's all he's going to do. All right,
+[1:11:26] Ian Lurie: Minotaur decides this is a great time to let the National Guard handle it. He goes back inside and starts trying to kind of get people organized. He's checking to see who's hurt. You know, standard bodyguard, standard bouncer kind of stuff, and people are just sort of pouring out into the street. Shout our Kai. You What am I gonna do?
+[1:12:12] Unknown Speaker(s): Um everybody. I'm gonna remind him that we could still to speak to the dead.
+[1:12:21] Ian Lurie: Um everybody. Around him, including Fenrir, needs to make a DC, 17 wisdom. Save
+[1:12:39] Unknown Speaker(s): four. Nope,
+[1:12:45] Rikki: everyone around me remember, plus 529,
+[1:12:51] Ian Lurie: show off. It's
+[1:12:55] Unknown Speaker(s): not an intelligent save. Cregan,
+[1:12:58] Ian Lurie: you did not save. Nope,
+[1:13:00] Unknown Speaker(s): okay.
+[1:13:01] Ian Lurie: Mossy, got
+[1:13:02] Unknown Speaker(s): a nine. Okay,
+[1:13:04] Ian Lurie: you are both afraid, and you have to go in the opposite direction. Wait,
+[1:13:09] Rikki: wait, wait, wait, frightened. Yes, anyone in my vicinity? No, they're not. Ah,
+[1:13:13] Ian Lurie: shit, okay. Ah, Chad archive looks really pleased with himself and then says, God damn it all right. So as far as you guys know, nothing actually happened. He's just standing there because that is an at will power for him. It is not a spell. Drak, your turn.
+[1:13:44] Draknev: Um, I am not going to attack I am going to try to just convince him to, like, look, we just want to talk. This does not need to end badly. So that would be that'd be a, I'd say a persuasion, all right,
+[1:14:09] Unknown Speaker(s): 17, okay,
+[1:14:16] Ian Lurie: you said,
+[1:14:20] Unknown Speaker(s): this is not a talk we just want.
+[1:14:23] Ian Lurie: Then you said this does not need to end badly. Yes, yeah, he says it already has, but he just stands there. Okay,
+[1:14:29] Speaker 1: well, that's my turn. Okay, Sango, you're back here. Yep.
+[1:14:41] Sango: If Sango shadow stepped, would that free him from the web? Yes, okay, but you
+[1:14:49] Ian Lurie: have to shadow step out of the web. So, okay, if shadow step has to go where you can has to go. You have to have line of sight to wherever you're going, right? Sure,
+[1:14:58] Sango: yep, I just want to shadow step on the other side of this. This guy here, this guy, No, the other one. So I'm between the two guys that are standing up. So
+[1:15:11] Ian Lurie: you just want to shadow step over to here. Yep, okay, and
+[1:15:16] Sango: then I'm going to punch the guy with the crossbow. Okay, that's Yep. Okay, well, it's like an 18
+[1:15:29] Ian Lurie: that hits for
+[1:15:30] Sango: 10 damage, good 24
+[1:15:40] Ian Lurie: okay or seven
+[1:15:42] Sango: damage,
+[1:15:48] Ian Lurie: all right,
+[1:15:50] Sango: and then let's do stunning strike on on
+[1:15:55] Unknown Speaker(s): one of those
+[1:15:57] Sango: 18 con Ian,
+[1:16:03] Ian Lurie: it saves damn okay.
+[1:16:04] Sango: Then we will do it. We'll do it on both of that actually, okay to it, yeah.
+[1:16:15] Ian Lurie: Natural 20 just stays up, okay?
+[1:16:20] Sango: And then he hears out of the darkness, you should just laid out. Okay, that's it all right.
+[1:16:37] Ian Lurie: See what we got. Now, mossy, you are afraid, so you have to dash away.
+[1:16:44] Unknown Speaker(s): No, no, you're not.
+[1:16:46] Ian Lurie: God damn it, that's right. Power Couple.
+[1:16:48] Unknown Speaker(s): For a moment, yeah,
+[1:16:50] Ian Lurie: for a moment, you felt like you might have been afraid. And then you realize, no, I'm not afraid. So you are now standing elbow to elbow with this giant wolf. Richter uh, Cregan, Drak and the shadow archive,
+[1:17:06] Mossimum chaos: okay? Shadow cry are not common here, correct? And typically viewed unfavorably. Um,
+[1:17:12] Ian Lurie: they are certainly not common. You don't know if they're viewed favorably or unfavorably. They're just the only ones you've ever seen are the Haddad combine, okay?
+[1:17:23] Mossimum chaos: I will, in an act of like, No, we're on your side here. I'm going to take a cloak out of my bag and put it over him. Look, it's not good for you to be seen out here. Either we can go and have a reasonable conversation somewhere, or I can let the guy that you just pissed off out of the giant spider web that I just put him in, and he's gonna crossbow you don't think he's your friend.
+[1:17:51] Unknown Speaker(s): Little hood. Yep,
+[1:17:56] Ian Lurie: he's still hanging there all right. So back over. He responds
+[1:18:00] Mossimum chaos: at all to me at all. He does
+[1:18:02] Ian Lurie: not respond. Okay. He would disadvantage do it. He said felbro makes a completely incompetent attack on on you, Sango, as does the other bugbear. In fact, if this were old style D and D, like a D and D, they would have hit each other. This guy gets up. Let's see if he even well, he's using his hearing, so he'll sort of pile over this way. No, the best role of all of them was a 12. I don't think that'll hit you. Okay. Richter,
+[1:18:52] Rikki: all right, I'm going to grapple him again. All right, didn't fucking listen the first time that's going to be a dirty 20. All
+[1:19:08] Unknown Speaker(s): right, I got rope in the bag.
+[1:19:14] Ian Lurie: You have grappled him seriously
+[1:19:18] Mossimum chaos: at this point. Why do you not just tie him, throw him throw him on the back of the wolf and walk back, have a reasonable conversation.
+[1:19:24] Rikki: I'm ready to hear all options now, because being nice didn't work. It did
+[1:19:29] Unknown Speaker(s): not No.
+[1:19:31] Rikki: Um, so yeah, Richter is just going to hold him, and FINRA is just going to growl in his face, letting him know it would be a bad idea to try anything. Okay?
+[1:19:42] Sango: And he has a blanket or something over his head, right over
+[1:19:45] Ian Lurie: his head, right so he can't see anything. Yeah,
+[1:19:48] Mossimum chaos: there's a there's a cloak that's pulled down over his eyes right now.
+[1:19:53] Rikki: No, missed you stepping for his ass.
+[1:20:00] Ian Lurie: You've eliminated my options, damn it all right,
+[1:20:06] Unknown Speaker(s): that's right. Accessorizing Korean. I
+[1:20:16] Sango: kind of want to told the dead the guy so that could just be James Watton, because I feel like, I feel like
+[1:20:24] Unknown Speaker(s): I cast Molly wop. I
+[1:20:26] Sango: feel like punching a Nazi kind of a thing. Can I punch him?
+[1:20:35] Ian Lurie: Yeah, you'd have to go,
+[1:20:39] Sango: all right, I want to punch a Nazi. The whole party
+[1:20:41] Ian Lurie: watches you just kind of walk around, you know, sort of run around the entire group.
+[1:20:48] Unknown Speaker(s): He Moses,
+[1:20:52] Sango: all right, that is a, I don't think that's gonna hit the captain,
+[1:20:58] Unknown Speaker(s): doesn't you, don't you get, like, advantage or something, yeah, oh, yeah, sweet. That's, that's great. So,
+[1:21:07] Sango: oh, that's natural 20.
+[1:21:08] Ian Lurie: Oh, god, okay, and it's just your, it's your strength modifier, I believe, yeah,
+[1:21:16] Sango: but I got claws. Oh, I'm punching him with the clod fisted
+[1:21:24] Mossimum chaos: rikkibar Tortoises have wicked claws.
+[1:21:27] Sango: That's, uh, that's a stick, so That's double the 12. That's so it's 1515, damage. Oh, no, the plus, uh, blessed strikes, which double, oh shit. That's an eight, so that's another 16, so that's 31 points of damage.
+[1:21:46] Ian Lurie: Okay, well, you hit the guy, and everyone's watching you. And I'm picturing everyone like, oh, Cregan, come on. You're gonna punch the guy, really. And you just rock his head back, and he slumps, he goes limp, because you basically punched, you literally punched him in the next week, like he's, he's, he's just gone, he is out. Um, guys, give me one minute. I need a quick second. Um, let's see it's the Minotaur, and then the shot archive, and then we're back to Drak. So I'm going to say that this over here is pretty much resolved at this point. So when I'm back, we'll handle whatever's going to happen back here with felboro. I'll be right back
+[1:22:36] Sango: natural 20, and I rolled max damage on my hit and the blessing strikes that was meant to be. That's what that was meant to
+[1:22:44] Unknown Speaker(s): be. That's so cool.
+[1:22:47] Sango: Or lay down Ian.
+[1:22:56] Unknown Speaker(s): Oh, my God, Drak has to have the Beastmaster talk with Richter. All right, so here's how you do this.
+[1:23:08] Sango: Are you gonna? You gonna demo with a banana?
+[1:23:13] Mossimum chaos: There's gonna demo with a hole over there,
+[1:23:14] Unknown Speaker(s): right? I'm
+[1:23:24] Speaker 3: limited charts, kind of nice. His name is stood he's just trying to do his best, right? Maybe we don't kill him. Let's
+[1:23:30] Unknown Speaker(s): not. We don't have to kill
+[1:23:36] Speaker 3: maybe, maybe we drop off some pamphlets about unions for all these employees. Clearly, what are you humping at? I'm
+[1:23:47] Unknown Speaker(s): sorry, which is more deadly vampire pamphlets or union pamphlets? Clearly, the union is a greater threat. That's someone they're scared of, right
+[1:24:02] Rikki: of all the places where I thought I'd break finger out first, this was not, not the place I thought I would do it. But I was like, fuck it. You know, we need crowd control.
+[1:24:16] Unknown Speaker(s): Jack dog,
+[1:24:18] Rikki: I've had it since we leveled up. So a couple of weeks, and I was just like, Oh, I'm gonna make a good place for it. It's like, all right, fuck yeah, crowd control. So cool, awesome.
+[1:24:34] Sango: Is he named after the Norse mythology? Yep. Very cool. Oh
+[1:24:40] Mossimum chaos: shit, I forgot. I can learn another spell, spend too long. Oh, I can learn rope trick. I Oh, I can learn magic mouth. Neat. Somebody online in one of the DND forums is explaining how they basically use magic mouth to make entire programming language in their world, which I respect, wow,
+[1:25:17] Ian Lurie: like a magic mouth search engine kind of thing, or they
+[1:25:21] Mossimum chaos: basically used it to, like, make Oh, they had like, one mouth that would tell other mouths to do different things, and you did a recursively down.
+[1:25:32] Ian Lurie: All right, Sango, you are surrounded by three bumbling idiots in the pitch dark, but they are large, bumbling idiots, at least two of them with large, heavy items with which they would like to bash you. What you gonna do? They can't
+[1:25:51] Sango: really, they can't really see me. So, nope,
+[1:25:53] Ian Lurie: they're swinging with disadvantage every single time. Yep,
+[1:25:57] Sango: I love that. That's good for me. Uh, does
+[1:26:00] Unknown Speaker(s): that mean they can also hit each other? No, unless
+[1:26:05] Ian Lurie: you want that to happen, you guys sometime didn't think so.
+[1:26:14] Sango: I'm gonna, I'm gonna go back to punching Nazis. So the guy with the crossbow, oh, that's a natural 20. Oh,
+[1:26:23] Ian Lurie: boy, all right.
+[1:26:37] Sango: That's 11. No, no, that's uh, that's 17,
+[1:26:45] Ian Lurie: all right, he's still up. Oh, yeah.
+[1:26:51] Sango: Then a 29
+[1:26:55] Ian Lurie: that pits again, yeah,
+[1:26:57] Sango: and that is eight, yep.
+[1:27:05] Ian Lurie: Okay, still up. Looks. Looks a little dizzy at this point, but he's still up. I'm
+[1:27:15] Sango: good. All right, once again. Voice from the darkness, I'm going to get you. There's nothing you can do about it.
+[1:27:28] Unknown Speaker(s): Why are you talking about era? Yeah,
+[1:27:30] Ian Lurie: he says, Why are you talking stop? Why does
+[1:27:34] Unknown Speaker(s): he sound like Paul Rudd? Yeah.
+[1:27:36] Ian Lurie: Well, you know, Drak. Is there anything you want to do while you're out here?
+[1:27:45] Unknown Speaker(s): So we got we've got this. We've got the show our kind of situation under control. I haven't seen going a little bit. I am half in a web I'm half concerned that he is like, I'm not. There's a chance he's either fine or joined a cult. So I'm going to go down that. I'm going to kind of like, I don't want to. I'm going to go check, check on Sango, and I'm going to head down that, that alleyway. Look for the giant web he's on that. I don't know what to expect. In
+[1:28:17] Ian Lurie: fact, you see webbing right there. How fast you moving?
+[1:28:23] Unknown Speaker(s): You know, I'm still concentrating on Zephyr strike, so I'm 85 feet. Oh, God,
+[1:28:29] Ian Lurie: all right, so you're assuming you don't run into the webbing. Yeah, that's where you are. I
+[1:28:36] Unknown Speaker(s): just see darkness now you're
+[1:28:37] Ian Lurie: in this. Yeah, you're in this. Can you see in darkness?
+[1:28:41] Unknown Speaker(s): Magical darkness, not magical darkness. So
+[1:28:43] Ian Lurie: you see little bits of web trailing out of this enormous globe of darkness. Inside the darkness, you hear stop, and you should lie down, and I'm going to except, you know, it's Sango voice. And then you hear these bug bears going, Oh, what the fuck. And then you also hear, of course, this random woman just screaming, screaming her brains out. She hasn't stopped. It's been going on for a solid 45 seconds now. Um, okay,
+[1:29:13] Speaker 1: he's fine. Yeah, it looks like
+[1:29:19] Unknown Speaker(s): he's having fun. Yeah? Yeah. I mean, I may just hang out there just to make sure, like no one comes rushing out, no one
+[1:29:26] Ian Lurie: comes flying out, exactly, okay, yeah, Sango, we're already how can we already be because I missed my own guy's turn. All right, that's all right, Sango, what are you just gonna keep punching? Yep, all right, let's just assume that eventually you just punch him so much that he, one way or another, gives up. Either he's unconscious or he just says, screw this. The two hobgoblins are bug bears. I mean,
+[1:29:57] Speaker 1: some reason I have an alarm coming up. What's your AC What do you want?
+[1:30:05] Sango: He says with a wink,
+[1:30:08] Ian Lurie: yeah, no, that's not gonna do it all right. They actually come pretty close this time, but they just keep swinging and can't seem to do anything. And then you hear fell bro say, Stop, you idiot. Stop. I And with that, we will say that the combat is over. There's webbing and darkness over here.
+[1:30:33] Mossimum chaos: Luckily, you're Sango wanted to keep all the Nazis for himself. He's like, keep out. And
+[1:30:38] Ian Lurie: by the way, there is, you're in the outer city, so there's pretty much no guard presence. Someone will show up eventually, but not for a while. So you don't really have to worry about figuring out you know what you're going to tell city guard or someone that comes running over. I All right, so we've got unconscious shot archive, subdued Bell row, and I'm going to stop sharing this now.
+[1:31:19] Unknown Speaker(s): What do you guys do? We wanted to ask
+[1:31:20] Mossimum chaos: fembrao about the pamphlets. He seems to be in a cooperative state right now.
+[1:31:27] Unknown Speaker(s): He's pretty cooperative.
+[1:31:31] Mossimum chaos: I'll walk down the alley, bring the homeboy with us, and be like, hey,
+[1:31:34] Unknown Speaker(s): is there someone we could talk
+[1:31:42] Ian Lurie: I I says, Well, usually the bar, but
+[1:31:51] Unknown Speaker(s): that's already had a rough night, so somewhere
+[1:32:02] Ian Lurie: else got my and go to my spot. It's in the mists, though,
+[1:32:11] Unknown Speaker(s): in the midst, let's do that. How you made friends with the shot or cry?
+[1:32:18] Ian Lurie: I have no idea what you're talking about.
+[1:32:22] Unknown Speaker(s): I you smart, though,
+[1:32:24] Mossimum chaos: what that was your charm? What do you talk about? Summer, demon tralities. Never mind. Never mind vampire pamphlets
+[1:32:38] Ian Lurie: to shut our Kai, what are you talking about he had, remember, he hasn't seen the shot archive yet. He's he sees that you have this blanket covered lump walking along next to you. Actually, no, he's unconscious, so someone's carrying him, but he doesn't know there's a shut our guy or anything.
+[1:33:02] Unknown Speaker(s): Yeah, we should go talk says we should, we should put some like, we should gag the shower. Car, oh yeah, talk about for sure. Gag, bind the wrists. Bind the feet. Okay.
+[1:33:17] Sango: Dragon, so that sounds like a job for you. Drak,
+[1:33:22] Unknown Speaker(s): don't use the fuzzy hand cups this time. Yeah, I don't use the good rope for this.
+[1:33:33] Ian Lurie: Okay, okay, looks at
+[1:33:36] Unknown Speaker(s): draft and raises an eyebrow.
+[1:33:40] Sango: Fell brow. I felbro.
+[1:33:44] Ian Lurie: He's kind of at this point, he's kind of chatting while you guys are walking. He's like, Yeah, so why do you think I'm spending time with a shadow? Kai,
+[1:33:57] Mossimum chaos: you're making these pamphlets about vampires, and that's what we want to talk to you about, I'm
+[1:34:01] Ian Lurie: not making them. Someone gives them to me. Oh,
+[1:34:04] Unknown Speaker(s): who gives them to you?
+[1:34:07] Ian Lurie: Of Skiff.
+[1:34:11] Unknown Speaker(s): Skiff gives them to you. Yeah,
+[1:34:15] Speaker 3: I thought he was working for you, not vice versa. No,
+[1:34:19] Unknown Speaker(s): huh. Like, I'm totally the wrong person to do this. But could I insight check on this sure a three wouldn't do it
+[1:34:33] Ian Lurie: now, he seems on the up and up. Yeah,
+[1:34:35] Unknown Speaker(s): I believe him. Do you believe I would also like to see if I buzz him.
+[1:34:41] Ian Lurie: Okay, go ahead.
+[1:34:43] Mossimum chaos: I will use my usually I don't let the whole party just keep I definitely believe him. No, he's jail. The
+[1:34:50] Ian Lurie: truth is, you're pretty sure that he's been forced into this line of work by a very long and tragic life, and he seems like a pretty straight shooter,
+[1:35:00] Rikki: just in case, Richter is going to cast all around a zone of truth. Ah,
+[1:35:04] Ian Lurie: okay, um, you just cast it. Okay, um, just, he just keeps walking. Look, someone pays me to
+[1:35:23] Sango: does he walk outside of the zone of truth? Then? No,
+[1:35:25] Ian Lurie: no, he's walking with you guys. No, he's not going to try and get away. He's felbro is not a shark. I gloom Weaver. He, he's, he's, he's a guy who sells drugs. And he's pretty tough, but he's not that tough. He just got the snot kicked out of him by some old dude who has no weapons whatsoever. He's, he's, he's done for the day. He says, someone pays me to hand out paper. I hand out paper, I don't know.
+[1:35:57] Mossimum chaos: And your your hangouts in the mist? Where did you meet Skiff
+[1:36:02] Ian Lurie: skip? Skiff met me at the bar here.
+[1:36:05] Unknown Speaker(s): He found you. Yeah, he
+[1:36:07] Ian Lurie: found me. Okay. Said he had a job for me. Had dad needed help? Could I get some people to distribute some paper
+[1:36:18] Sango: Sango needed help? Sango wants to mirror image the look of skebiti
+[1:36:30] Ian Lurie: as the human or as the shadow guy, as the shadow guy.
+[1:36:35] Sango: This is what he looks like underneath that hood. Don't know. He
+[1:36:43] Ian Lurie: tried to tell me that skiff, because that's not Skiff. Yeah, he was
+[1:36:48] Sango: changed his appearance when he tried to leave the bar. This is what he looks like now. Nice. You
+[1:36:55] Unknown Speaker(s): have any other friends who come in to hang out and give you work?
+[1:36:59] Speaker 1: No, just him. I When did this start?
+[1:37:05] Ian Lurie: About so week and a half ago, which you guys, you can all give me intelligence checks or history.
+[1:37:27] Sango: Natural, 28,
+[1:37:30] Rikki: 517,
+[1:37:32] Ian Lurie: okay, Masi and Sango, you well. Sango you especially you realize that the the murder of the Haddad happened a week and a half ago, or maybe a little bit more, but it's about same time frame.
+[1:37:54] Unknown Speaker(s): So do we want to keep hanging out with this girl or party line. I don't think he's really gonna Where's his missed location, that's
+[1:38:07] Sango: what I was thinking. Maybe, yeah, following Where's his location. So we can, we should
+[1:38:13] Unknown Speaker(s): get this guy to to the combine. You
+[1:38:20] Speaker 2: don't want to talk to him alone first, because, oh yeah, interrogate
+[1:38:25] Unknown Speaker(s): them, interrogate them, then hand them over, and then follow up with the bests.
+[1:38:34] Ian Lurie: Okay, so you're gonna let fel brow lead you to his
+[1:38:45] Unknown Speaker(s): super secret hang up.
+[1:38:48] Ian Lurie: So basically, you walk through the outer city to what used to be the gate to the mist, but is now this kind of barricade thing. He leads you through this narrow little area where it's, you know, there's just, sort of basically, the barricade on the mist is basically just a bunch of leaning stone and wood. And there's a way you can kind of worm your way through. Cregan, it's a little bit difficult for you, but you managed to fit through there. Richter, you're not wearing your armor, so you manage just fine. Dire Wolf. The Dire Wolf, yeah, no, the Dire Wolf. Can't quite make it. He say that the dire wolf looks and he goes, then
+[1:39:27] Rikki: I will go ahead and I'm summon them. Okay, he's gone.
+[1:39:35] Ian Lurie: I and just on the other side of the of the the barricade is just basically this, these three ruined buildings. And if you go inside the ruined buildings, when you go inside, there's basically a big open space with nothing in it. It's kind of damp, you It smells kind of mossy and moldy, not mossimos, more like moss, you know what I mean, and moldy. There's a few random people around, nobody, you know, nothing particularly organized looking. And felbro walks in. There's two people standing, sitting there, and they jump up right away. They're also bug bears. They jump up right away. There's a couple of hog goblins that do too. And fell brow goes, No, it's all good. And he sits down on a on a little stool, and just basically grabs a grabs a water skin and takes a big drink and just sits down says, well, here you go, home sweet home.
+[1:40:43] Sango: What is spell bro dressed like? Is he? Does he look like? He has meager means, or average, or
+[1:40:57] Ian Lurie: he looks pretty wealthy? He's wearing his clothes are kind of beat up looking, but he does have a few items of drawing on that show that he has a lot of money. He's wearing a sword with a jeweled hilt that also looks really nice. His to his bodyguards are also pretty well armored and armed. So if you had to guess, you'd say he's he's pretty well off,
+[1:41:28] Sango: and I'm guessing from illicit activities, he probably doesn't. And I will ask him, How do you make your money?
+[1:41:39] Ian Lurie: People want a product that I have, I sell it, and I make a profit.
+[1:41:44] Sango: And is that pretty much the drugs that
+[1:41:46] Ian Lurie: would Yes, that would be the drugs everyone else in the room kind of looks
+[1:41:53] Sango: at each other like, I know a big mustache right now? Yeah,
+[1:41:55] Ian Lurie: it's children's books. We're selling children's books.
+[1:41:59] Sango: Sorry, I asked for my own clarity. Yeah,
+[1:42:01] Ian Lurie: yeah. No, I know. I know. It still is funny, so, um,
+[1:42:09] Sango: I must just give off, like fake cop vibes all the time, undercover.
+[1:42:16] Mossimum chaos: Oh, absolutely, yeah, you look like the guy if somebody's walking in the parks and there's a cop behind
+[1:42:23] Ian Lurie: you. NORC, um, all right, so what do you guys? What are you guys doing? You're now in fell brows hideout.
+[1:42:33] Unknown Speaker(s): Oh, big is the room.
+[1:42:36] Ian Lurie: It's, it's like a gymnasium. It's a very large open space, and there's little piles of debris all over the place that kind of divide it up, but it is one big open space. There's some holes in the roof that let some light in. There's water dripping in. The floor is kind of almost squishy because of how damp it is,
+[1:43:06] Sango: does this COVID have any items on him?
+[1:43:12] Ian Lurie: He has two, two kind of these two flexible spear looking things. He has, let's see, he's wearing some really basic leather armor. I mean, the most basic possible other than that, not really. No.
+[1:43:37] Unknown Speaker(s): Ian, we should go ahead. Ian, go ahead. I feel like we should just kind of like, thank you. We're going and interview, interrogate, Skippy and private
+[1:44:00] Ian Lurie: someplace you can take it personally being called Skippy. Um, okay. Are you guys doing anything with Skiff at this point? Are you trying to make him are you just leaving him unconscious? Are you
+[1:44:19] Rikki: I've just been carrying him around over my shoulder so he cannot escape.
+[1:44:24] Ian Lurie: All right, cool. Oh,
+[1:44:26] Sango: is he unconscious? Though he is
+[1:44:28] Ian Lurie: at the moment, yeah, okay,
+[1:44:29] Sango: I definitely that while he's unconscious, I want to take his hood off and show him that it's actually a shatter guy that he's been dealing with, and his his clothes does. Did when he when he dropped his illusion on what he was wearing? Did his clothes change too? Yeah, okay, all right, well, I might take his weapons and just throw them on the ground and leave them here, and this guy can have them. Okay, I don't want, I don't want to live it with any weapons or anything,
+[1:45:00] Ian Lurie: um, and you've seen mossy use this power too. Basically, it was disguised self.
+[1:45:11] Sango: Where should we take him now?
+[1:45:13] Mossimum chaos: I mean, I make disguise self look much better. Well, well, did we want to take him straight to the the forgot the word assembly of the shutter guy,
+[1:45:39] Ian Lurie: the Haddad combined. So you can always just say, soroya,
+[1:45:44] Sango: yeah. So they the Haddad come there. They're they all shatter Kai as well, yeah, so this is probably an inside job from one of them. I'm assuming I
+[1:46:02] Mossimum chaos: kind of want to hear him out about how the vampire got involved before he's faced with, yes,
+[1:46:13] Sango: we should do it in a room that doesn't have is there any windows, if we could find one, so we can't step his way out, yeah, yeah,
+[1:46:23] Unknown Speaker(s): also, Yep, yeah, we have a Place. Is, would it be hard to find kind of a emptied out, hollowed out, abandoned, abandoned room where we can that's not near a lot of other people? Well,
+[1:46:53] Ian Lurie: mean, you're in a place that has hollowed out rooms that are not near a lot of people right now, because the mists is basically abandoned. Oh
+[1:47:02] Unknown Speaker(s): yeah, let's just squat in one of those hobbles. Okay, take care of it there.
+[1:47:08] Ian Lurie: All right. Um, so you guys head out of fell brows hiding place. Give me a give me a survival. Check somebody I
+[1:47:21] Sango: got you. I'll give it before we leave, I ask him, How many more of this brochures he's got to hand out.
+[1:47:27] Ian Lurie: How many more? Yeah,
+[1:47:29] Unknown Speaker(s): it says,
+[1:47:30] Ian Lurie: right now, just that bag over there, and there's this, you see, a small knap sack. But skith was bringing me more every day. Okay,
+[1:47:39] Sango: well, I'm going to, I'm going to take the bag Craig, it is, and he's going to, he's going to motion to Sango, because Craig doesn't have any money, because he's poor, his boss is never paying so he's going to motion to Sango, and Sango is going to drop 40 gold. And actually, how much is he paying you for these?
+[1:48:07] Ian Lurie: He's paying me 300 gold a week, and immediately smoke comes out of his mouth.
+[1:48:12] Sango: I said, Okay, well, I'll give you 30 to not to find the rest of these. You can and burn them, and then don't take this job again. Okay?
+[1:48:29] Ian Lurie: I mean, sure if, if you say skit isn't going to track me down, because, I mean, he'd just kill me if he knew I did something like that. Yeah,
+[1:48:39] Sango: I know, but he might not be alive too much longer anyway, so I wouldn't worry about that if I were
+[1:48:43] Rikki: Sango. You hear Richter say in your head, hold the bag out, and you just see Richter fire, uh, eldritch blast into it, blowing up everything. And he's like, you don't need to worry about him coming to find you. We are the people you need to worry about now.
+[1:49:05] Ian Lurie: So what you're saying is you are the ones who knock. Got it.
+[1:49:13] Mossimum chaos: I mean, we knock, if you're lucky,
+[1:49:17] Unknown Speaker(s): understood. Oh, what do you want. What do you want?
+[1:49:25] Sango: But make our way to
+[1:49:27] Unknown Speaker(s): make it away. So,
+[1:49:29] Ian Lurie: yeah, give me a survival check to find a to find a spot. 27 okay, you find like a little like an abandoned. It looks like it was once a store of some kind. And now it's an abandoned, you know, it's just an abandoned storefront. You go inside, there's some items of clothing that are basically rotted away because they've been sitting in the wet for a couple of years. There's actually in the back, there's a skeleton of, you know, un on, indeterminate age, shape, species, whatever, and some destroyed furniture, but it looks like the place was ransacked for almost everything of value a while ago. Can
+[1:50:19] Unknown Speaker(s): you go site? Okay, might be good cop,
+[1:50:25] Ian Lurie: yeah, who's going to be? Who's Well, you guys just tell me. So you set the you set the shadow archive down. Oh, yeah, uh,
+[1:50:35] Unknown Speaker(s): blind, hold him. Bind his hands, bind his feet. All right. Um, I'm going to start being good, good cop. Okay, all right, man. So here's the deal. We don't really care about you. We just want the information to kind of get to who said we know that you're not the top dog. You know you're kind of middle, middle. You're more the little fish, and we want the bigger fish, so the faster you're able to tell us what's going on, faster you can just get the out of here. Forget this happen and go your own way. I don't have a lot of time. We don't have a lot of time, so just spill the beans. Let us know what you know, who sent you, where they live, what's the plot and how to do it. That's it. Four, four things, fish
+[1:51:48] Sango: and bean. What? Too soon,
+[1:51:53] Ian Lurie: fish and beans. What I don't understand.
+[1:51:55] Unknown Speaker(s): Don't play stupid. Didn't it be? Man, I'm trying. I'm trying to get some this information for you. And if you don't understand my metaphors, you are a very little part of the puzzle. You are insignificant. And you have bosses. Who are your bosses?
+[1:52:13] Ian Lurie: But you got that right? You got that right? Yes, I do have bosses. Who are my bosses.
+[1:52:18] Unknown Speaker(s): The faster you tell us who your bosses are, and the faster you tell us the plot and the and the method that you did, you can just go, I don't care what happens to you, but somebody's dead, and I got barfed on by a fucking vampire, so I've Got a little bit of personal stake in this. The fast you can clean, the faster you can get out of
+[1:52:47] Ian Lurie: here. Well, he looks to you, he says, well, so you met Malachi. I'm guessing
+[1:52:56] Unknown Speaker(s): the bucks. Malachi the vampire. Yeah, alright, he's dust now, so,
+[1:53:05] Ian Lurie: oh, not Malachi. Okay, the the Haddad. Oh, so you haven't met Malachi yet. I was going to say I'd be pretty surprised. I don't, I don't suppose I could get this blindfold taken off. Oh,
+[1:53:20] Unknown Speaker(s): no, I've seen what you can do. You're clever, you're slippery.
+[1:53:26] Rikki: And as he asked for the blindfold, Richter snaps his fingers and brings Bastion right up to his neck and just sort of nicks a little bit and says, My friend is kinder than I am. I'm done fucking playing games. Who sent you or we kill you?
+[1:53:48] Unknown Speaker(s): He's already talked about. He's already said Malachi. He's being cooperative. We don't need to actually hurt him.
+[1:53:58] Sango: What if we want to hurt him?
+[1:54:00] Rikki: Indirect hedging in directs. Had you just Drak? You hear Richter laughing gleefully. He was pretty fun.
+[1:54:09] Ian Lurie: Pain, scary. You're getting a few Wirefly reference there. I told you to scare him. He says, Look, first, there's worse things than death. Second, you're right. I'm a small player, and I got no reason to stick around here any longer than I have to, so I'll just tell you what's going on. Okay. Malachi is a vampire who was sent here by the boss.
+[1:54:42] Unknown Speaker(s): Those are basically do all
+[1:54:43] Ian Lurie: the stuff that you've seen? So
+[1:54:45] Unknown Speaker(s): Malachi is middle management. What's his boss's name?
+[1:54:51] Ian Lurie: I don't know the name of the big boss.
+[1:54:57] Unknown Speaker(s): You know? Thing is, I don't really believe you Richter again
+[1:55:03] Rikki: is going to cast a zone of truth.
+[1:55:07] Unknown Speaker(s): Okay.
+[1:55:15] Rikki: Okay. Drakke says in your head, go ahead and ask him again.
+[1:55:21] Unknown Speaker(s): Malachi is your boss, correct?
+[1:55:25] Ian Lurie: Malachi is my boss, right? What
+[1:55:27] Unknown Speaker(s): is the name of Malachi boss?
+[1:55:32] Ian Lurie: Kind of squirms a little. He he, he, he hesitates, and then he says, I, I don't know his name, and immediately you see the smoke coming out of his mouth
+[1:55:57] Unknown Speaker(s): when you lie to me. It makes me disappointed in you. He
+[1:56:00] Ian Lurie: he looks uncomfortable.
+[1:56:01] Unknown Speaker(s): When you lie to Richter, you lose body parts.
+[1:56:07] Rikki: Richter takes his ax and just
+[1:56:11] Unknown Speaker(s): hold him. He's got another chance. He's got one chance. Dude, okay,
+[1:56:14] Rikki: okay, but can you hear that I Bastion is asking for blood. It's been a while. I can hear it calling, okay, okay.
+[1:56:25] Ian Lurie: Her name is kazani Noctis. Human, no, no. Dark Elf
+[1:56:45] Mossimum chaos: party line. Most the vampires are getting over here. Where's their portal?
+[1:56:52] Ian Lurie: Yeah, she's a, I mean, she's, she's a vampire.
+[1:57:02] Unknown Speaker(s): Vampires were something at one point. They don't. You don't just become start out in this world as a vampire. What was she originally? I
+[1:57:10] Ian Lurie: have no idea. Have
+[1:57:12] Unknown Speaker(s): you ever met her? She's really
+[1:57:13] Ian Lurie: old. No, no. People just talking
+[1:57:17] Unknown Speaker(s): to her new
+[1:57:18] Ian Lurie: new anyone? Anyone below middle management who sees her bad things happen.
+[1:57:31] Unknown Speaker(s): So how do you travel between the planes? And where is that portal?
+[1:57:40] Ian Lurie: He he hesitates, and he can see his eyes well. He can't see his eyes starting around. He looks really uncomfortable now he's he says, Well, all right, I guess I told you everything already. He says, What time is it given? The it's about three in the morning. He says, Well, doesn't matter. Now there's an old temple of shar in the mists, because he has no idea where you guys are right now, in the cellar, there's a mirror, and the mirror serves as a portal
+[1:58:27] Rikki: of shark
+[1:58:29] Ian Lurie: in the temple of Shar. It only opens into uh opens on the new moon, which was last night.
+[1:58:41] Unknown Speaker(s): So while we were at the bar, this portal is opening up.
+[1:58:49] Ian Lurie: Sounds right, all right. Kind of party line,
+[1:58:59] Unknown Speaker(s): where's do some of you are from this area? Do you know where there's a Templars
+[1:59:06] Sango: are moving out just why don't we just go back and ask our buddy the leaflet dealer? I
+[1:59:14] Unknown Speaker(s): don't want to give him any more information than he already has.
+[1:59:17] Ian Lurie: Um mossy and Richter, you can give me history checks or survival, whichever one's better for you.
+[1:59:29] Unknown Speaker(s): 1024,
+[1:59:32] Ian Lurie: okay, this
+[1:59:33] Unknown Speaker(s): is one cleric of shark. She's pretty hot.
+[1:59:38] Ian Lurie: Yeah, different temple. This is a destroyed temple of Shar. Um, you're not quite sure where it would be mossy, but you have a sort of a general idea. I mean, there was a religious quarter in the mists before it was the mists, and that's probably where that temple would be.
+[2:00:01] Unknown Speaker(s): Are you lying? I do we have any Do we need anything else?
+[2:00:06] Rikki: I need to go get my get my armor. I twins.
+[2:00:16] Unknown Speaker(s): The twins are there too.
+[2:00:20] Mossimum chaos: Ask him how the vampire got into the murder victims room with the enchantment on.
+[2:00:28] Unknown Speaker(s): So go back to him. First of all, what should I call you? What's your name? I don't have any very well. How did the murder happen?
+[2:00:43] Ian Lurie: I wasn't there for that. You were just
+[2:00:47] Unknown Speaker(s): you were just pretending as the guard. I
+[2:00:49] Ian Lurie: was supposed to pretend to be the guard so that the guard wasn't there when this all happened.
+[2:00:59] Sango: But weren't you watching the scrying water thing when it happened. No,
+[2:01:06] Unknown Speaker(s): is the real guard dead? Yeah,
+[2:01:12] Ian Lurie: yeah, I killed the real guard. I I was in the room, but I didn't look when it was happening, because they didn't want anyone to be able to there's magic that can retrieve memories. So they didn't want me to remember what happened. So I don't know how the how Malachi got in there, either,
+[2:01:37] Unknown Speaker(s): very well, anyone ever killed one of your bosses before
+[2:01:44] Ian Lurie: other bosses?
+[2:01:46] Unknown Speaker(s): How'd they do? It
+[2:01:49] Ian Lurie: hit them a lot. Lit them on fire.
+[2:01:56] Speaker 1: All right, I think we got
+[2:02:02] Unknown Speaker(s): that was Carly. Anything else?
+[2:02:07] Rikki: What are we going to what are we going to do? Are we leaving him behind to maybe run to someone and snitch?
+[2:02:17] Unknown Speaker(s): I feel that we keep on word we will not harm him. However, we can give him to the tender justices of Sorolla works for me, and she can do what she feels is appropriate.
+[2:02:44] Sango: Why were you handing out the pamphlets? Why were you having those handed out? I
+[2:02:52] Ian Lurie: They just told me to hand them out try to create some chaos in the city. That's all we're trying to do here. Who
+[2:02:59] Sango: had to do that? Well,
+[2:03:02] Ian Lurie: Malachi, okay, I just
+[2:03:03] Sango: wanted to clarify that, how many, how many on the DoD combine are involved in this? None.
+[2:03:17] Ian Lurie: They have no idea what's going on.
+[2:03:22] Unknown Speaker(s): Ian, and why do this?
+[2:03:24] Ian Lurie: This is a takeover.
+[2:03:28] Mossimum chaos: But you're telling people there's vampires out there, but y'all are the vampires.
+[2:03:34] Speaker 3: Pile up the common people, the thing there's vampires before you take over as vampires. This seems like poor planning.
+[2:03:41] Ian Lurie: I That's, I didn't come up with that part of the plan. All I know is, we're trying to take over the city. We want to take control. There's a lot of stuff here that we could use. So we can't that. We can't get in Shadow Mirror, because we're on the other side.
+[2:04:02] Speaker 3: You just gonna take over and disguise yourself to look like the Haddad. Every day. No one
+[2:04:08] Ian Lurie: ever sees the Haddad. Think about it.
+[2:04:16] Unknown Speaker(s): Yeah, Soria sees them, though, and sorius people, that's
+[2:04:19] Ian Lurie: that would be bad for her, wouldn't it?
+[2:04:23] Mossimum chaos: I mean, I highly recommend you rephrase how you talk about Soraya.
+[2:04:27] Ian Lurie: Well, okay, I don't know what was going to happen to her. I just know one way or another, she was either going to go along with it or whatever else my my boss has had in mind
+[2:04:40] Rikki: at that point, you see Richter take the butt of his ax and just jab it down really hard into the Shatter Kai's arm, breaking it okay.
+[2:04:55] Ian Lurie: He he lets out a little scream that hurts. You guys hear the crunch as the AX kind of descends into his, into his No. Tibia is No, I don't know fibula, fibula, that's it. No radius. I got it. Yeah, his ulna. It cracks his ulna and his radius. You see the arm kind of go limp.
+[2:05:22] Rikki: That's just a reminder. Do not threaten one of our friends again. I'm
+[2:05:27] Ian Lurie: not I'm not threat. I'm not threatening. But okay, all right. Eric arm,
+[2:05:31] Mossimum chaos: Stop hitting yourself. Stop hitting yourself.
+[2:05:36] Ian Lurie: He He says, a boss, come on. That's immature. I didn't
+[2:05:42] Speaker 3: get to pick in the bar fight. Let me have some fun. It's
+[2:05:46] Unknown Speaker(s): immature, but objectively funny. All right, all right. Senior floppy arm, let's, let's wrap them up. Take care of this.
+[2:06:02] Speaker 1: Good, okay,
+[2:06:10] Mossimum chaos: knock him out again.
+[2:06:12] Ian Lurie: Yeah, what do you do?
+[2:06:15] Unknown Speaker(s): Oh, yeah, just knock him out again.
+[2:06:17] Ian Lurie: At this point, he's
+[2:06:19] Sango: actually, yeah,
+[2:06:20] Ian Lurie: he's kind of happy at this point to be knocked out, because honestly, his arm really hurts a lot, and it's not feeling too great. So yeah, he, he, you knock him out. You basically beat him unconscious. Basically
+[2:06:31] Sango: hear Craig and say, Nazi, Nazi, Nazi.
+[2:06:39] Unknown Speaker(s): We don't want to be carrying the equivalent of a stuck take through town. No
+[2:06:45] Ian Lurie: no. So you guys travel all the way back up to the palace district. You're gonna find soroya. Okay, it takes you a while to get up there. When you do, you're just, we'll just keep it short. You go in through the gate, you get to your quarters. Soroya comes and finds you. And she says, Where the fuck have you been? And then she looks, says, Oh, who the fuck is this?
+[2:07:18] Unknown Speaker(s): We brought you a present. This fucking guy never punched
+[2:07:22] Sango: a Nazi. It's pretty fun.
+[2:07:25] Ian Lurie: Not sure what a Nazi is, but it sounds like it would be, she says, so the guard
+[2:07:28] Mossimum chaos: that was watching the night of the murder is already dead. This guy took his place and Yeah, way to break his arm because he said mean things about you.
+[2:07:43] Unknown Speaker(s): He is gagged, he is bound, and he is in your justice system.
+[2:07:49] Mossimum chaos: Oh, keep his eyes covered, though, because he can Misty step. Oh, yeah.
+[2:07:52] Unknown Speaker(s): Mm, slippery. Okay,
+[2:07:57] Ian Lurie: we'll, uh, we'll magically, we can magically bind him so he can't go anywhere. But
+[2:08:04] Mossimum chaos: you got this boss, Malachi, who did the killing. And then Malachi has got this boss.
+[2:08:17] Unknown Speaker(s): He knock us. Okay,
+[2:08:23] Ian Lurie: and did he say anything about why they're doing this? They
+[2:08:26] Unknown Speaker(s): want to take over. They want to replace the the Haddad combined with their own folks for resources and power, and whether and your role in this was undetermined. You would either be removed or coerced to follow
+[2:08:44] Ian Lurie: along. That makes sense. So did he say where they're from? Yes,
+[2:08:52] Unknown Speaker(s): the Shadow Mirror, Shadow Mirror, Shadow Mirror and the portal. The portal is in a abandoned temple, just abandoned and destroyed temple of Shar and apparently the the summoning or the entry was last night.
+[2:09:13] Ian Lurie: Yeah, the Portal would open. Most portals like these open at the new moon. So that makes sense. Yes, unfortunately, we missed our chance for a month. Yeah, a month very well. We probably don't want to wait a month. Go ahead. I'm sorry.
+[2:09:37] Unknown Speaker(s): No, I'm sorry. Go ahead. No, we
+[2:09:39] Ian Lurie: probably don't want to wait a month that that's the only thing she said, Okay,
+[2:09:47] Mossimum chaos: hear me out. We get the mirror from the temple. We hang it above our giant roaring fire. Next month comes out from frighten the fire.
+[2:09:59] Ian Lurie: She She kind of her mouth kind of quirks, and she says, I, I like the way you think. But that won't necessarily help us, because whoever it is that we need to stop is there right now, planning and plotting and doing whatever it is that they're doing, this
+[2:10:15] Unknown Speaker(s): will take over exactly.
+[2:10:18] Ian Lurie: So we don't want to give them any more time than we have to. So there's a few things we need to do. We need to figure out if anyone's still here,
+[2:10:29] Unknown Speaker(s): trying to stop him trying be a good
+[2:10:32] Mossimum chaos: time for you to check for someone dead around these parts.
+[2:10:40] Ian Lurie: Okay, if you have any
+[2:10:41] Unknown Speaker(s): resources for protection against undead, protection against like necrotic debt, necrotic energies, we potentially even like holy water. We
+[2:10:58] Ian Lurie: have doubled security, particularly against undead. I mean, we do know what it was that killed the Haddad, so we need to make sure we've taken counter measures,
+[2:11:06] Speaker 2: and you can get us some holy water. Can make some more weapons. I'm
+[2:11:13] Ian Lurie: not sure how effective holy water would be, but yes, we can certainly do that on vampires. That's somewhat of a, not a total myth, but I don't know about Shadowfell vampires. This creature that was here showed abilities that we haven't seen from abilities we haven't seen from typical vampires, right? I mean, this creature didn't look like it didn't most vampires look like whoever they were when they became vampires. That creature did not right. The one that we saw did not look like the Haddad when the Haddad died. So I don't know that we want to make an assumption, any assumptions whatsoever, about these creatures.
+[2:12:07] Unknown Speaker(s): So we can't just get a bunch of garlic and have them to brew and rapidly grow them. I
+[2:12:13] Ian Lurie: also don't know what what these creatures are like when they're in the Shadowfell or wherever shadow
+[2:12:20] Mossimum chaos: skip did say that when he seen his boss was killed previously, there was a lot of beating and fire. Might be useful to let your guard snow, yes.
+[2:12:38] Ian Lurie: Well, and all creatures of the shadow fell are vulnerable, not vulnerable, but they really don't enjoy fire, even less than, I mean, even less than the rest of us do. But I am still gravely concerned about this. We cannot let them spend a month there, planning and plotting and figuring out what their next moves are, everything they've done so, far from their perspective, has probably been a success, assuming they've that whoever it is that was here, this Malachi has left.
+[2:13:17] Mossimum chaos: I think we should check the temple. They might have a base there nearby.
+[2:13:28] Sango: Clean up the nest. Are using ultra
+[2:13:29] Mossimum chaos: self. So keep this in mind. You have anyone who could do true sight. Having them do the rounds might be useful.
+[2:13:38] Ian Lurie: Alter Self. Alter Self, just that kind of magic can also be detected if you simply touch the person, because it's and you know, this mossy, you're changing the way. You're changing your appearance in ways, but it doesn't actually change your physical form. So if someone comes up and touches someone who's using ultra self, unless you look a lot like them, same shape and everything, you sort of end up reaching into an illusion. And it's evident right away. It's also detectable by smell. So she says, We have countermeasures for that. You can
+[2:14:14] Unknown Speaker(s): smell Alter Self, no, but
+[2:14:17] Ian Lurie: we can smell the person beneath the altar self. So if the smell does so, if a creature with an acute sense of smell can't smell, can't get the scent, a matching scent, from the the individual, then we know that they're using some kind of magic to hide their identity. I
+[2:14:39] Mossimum chaos: like to imagine that Soria has like guard crocodiles, or some shit,
+[2:14:46] Ian Lurie: she has a guard Drake. Actually see green. Very good sense of humor. You'd like him, except
+[2:14:56] Sango: he's not like us.
+[2:15:01] Unknown Speaker(s): So so are you asking us to to help track down this Malachi and this potential in incursion infestation? Or is that something?
+[2:15:21] Ian Lurie: No, I think, I think right now, yes, we have to track down Malachi, but eventually we have to go to Shadow Mirror and stop whoever it is is doing this. If there's someone, if there is a leader in an organization on the other side of the curtain in the shadow fell, planning and plotting our downfall. We're going to have to find them eventually and take care of them. And I can't, I can't order you to do this. I can get other individuals, but you are certainly among the better equipped individuals I know of to go and do something like this. I
+[2:16:03] Unknown Speaker(s): can only speak for myself. I am more than happy to help you. You have been incredibly accommodating to us, and you have always dealt honestly with us. Hi, for one, I am happy to help
+[2:16:26] Ian Lurie: you, Kiki. You hear Kiki's voice in your head? Mossy, he too.
+[2:16:31] Mossimum chaos: Everyone knows we already knew, honey, okay, yeah, we're all in you. Obviously you're Goddamn sororia, of course, we're gonna help.
+[2:16:43] Ian Lurie: She looks kind of flattered and a little touched. It's like, well, I didn't want to speak for you, but I appreciate that. Thank you. Obviously, any resources I can provide, I certainly shall. Oh,
+[2:16:58] Unknown Speaker(s): can you even put the good snacks in her room? You
+[2:17:01] Ian Lurie: can have the good snacks in your room. Yes, thank you. Thought Bubble, they already have the good snacks.
+[2:17:13] Sango: And saroya, they Soraya has a way for us to get the shed, but they have a thing here in the in the palace, right?
+[2:17:18] Ian Lurie: Well, that Okay, so this is the problem? She says, yes, she has a way to get into the Shadowfell, but it also only works on the new moon, and it goes someplace else in the Shadowfell. So the question then is, how you know? How are you going to get there sooner than a month from now? And she's not totally sure either. She says, you know, there's going to have to be some we'll have to research it. Someone's going to have to figure that out. Because I it's we can talk to the Haddad as well. But their portal only works on the new moon as well. Did
+[2:18:00] Rikki: you say research? It just so happens we happen to have a tabaxi who loves the R word.
+[2:18:07] Unknown Speaker(s): I used to do cool rogue shit.
+[2:18:10] Rikki: How you can do cool research? Hey, research.
+[2:18:12] Ian Lurie: Really good rogues. They check out the blueprints first. I'm just saying, yeah. Do you have any
+[2:18:22] Unknown Speaker(s): Do have any access to any kind of duty that despises the undead?
+[2:18:29] Ian Lurie: She kind of looks over She kind of looks over at Richter. I think you have better access than me,
+[2:18:39] Unknown Speaker(s): because we should know what these things are. Well,
+[2:18:44] Ian Lurie: remember, you guys, you guys found a book with as much information on Nosferatu as as you can handle. Go ahead. Jamar, I'm sorry. No, Sam, what
+[2:18:56] Rikki: did you say? Drak,
+[2:18:59] Unknown Speaker(s): oh, there. I forgot that we had the book on, on the Nosferatu, so I think, I think we could there. I mean, yeah, I can always use more books.
+[2:19:11] Rikki: Isn't the Raven Queen? Doesn't she reside in the shadow film?
+[2:19:17] Ian Lurie: She does. She resides in the shadow file. Now, if you remember, there's this idea of dread domains that are, yeah, Dread domains that you learned about last time. Dread domains are specific little regions within the Shadowfell that have been carved out by some event. The shadowfel itself is this kind of amorphous mass of of uncertainty through which souls pass when they're going from the Prime Material to wherever it is that they end up. But these dread domains are smaller areas, so the Raven Queen doesn't necessarily have, she doesn't necessarily have influence over those dread domains, um, any more than she does here, right? I mean, she is a deity, so she has some influence, but, but
+[2:20:07] Rikki: would she know enough that maybe, if I went to the temple, prayed and asked, she could give me any more information of how we could maybe cross over, she
+[2:20:17] Ian Lurie: might be able to give you that? Yes, all
+[2:20:19] Rikki: right, so then I'm going to ask everyone, Hey, have an idea in the morning, because I need sleep, I would love to go to the temple of the Raven Queen, meditate, pray and ask for any guidance. Is that okay with you guys? Or do you have other ideas of what you think we can do for that?
+[2:20:39] Unknown Speaker(s): Yeah, man, unless it's some sort of weird tree that's causing problems, that's kind of leaves me out of it.
+[2:20:48] Rikki: Well, speaking of the tree, Rossi, what do you think it's
+[2:20:56] Unknown Speaker(s): not a stray raccoon causing this? You know, right? Rangers are there with poke holes and things the raccoon. Lich,
+[2:21:07] Mossimum chaos: that's fine. I'm just not waking up early to go to church with you.
+[2:21:10] Rikki: Perfect. Yes. Sango, Craig, Craig, and you probably don't give a Sango, what's your vote? What'd
+[2:21:19] Sango: you say? Bosman, exactly
+[2:21:21] Unknown Speaker(s): what I thought. Yeah, Richter Shepherd, we could do this. I don't
+[2:21:32] Sango: know how we're gonna get there. Don't know how we're gonna get back, but figure it out.
+[2:21:37] Rikki: All right, so we'll rest, and in the morning I will go to the temple of the Raven Queen and ask her if she can help brother out. Yeah.
+[2:21:49] Sango: Are we still going to contemplating trying to go to the temple here in the mist and see if we can clear it out or see what's there?
+[2:21:58] Mossimum chaos: We should do that in the light of day, because they would be sleeping then, and we would have an advantage,
+[2:22:06] Rikki: unless that is also half a myth too.
+[2:22:10] Sango: Maybe after Richter is done with Sunday school, we can head to their early afternoon,
+[2:22:19] Ian Lurie: and it is the Lord's day, my parents is
+[2:22:21] Mossimum chaos: creating gonna be when Richter's like dropping his tithe on the authoring plate, authoring offering plate.
+[2:22:36] Sango: Oh yeah, he notices. Okay. I would see if we can dig up any at the library, any if, see if there's any information on the Malachi or the Kaz Nazi Noctus, kazani,
+[2:22:56] Unknown Speaker(s): kazani Noctis. Okay.
+[2:23:02] Ian Lurie: When you're at the library, you can research that. So the next morning comes. So it sounds like some of you are going to the library. Some of you are going to the temple of the Raven Queen. Is that right? Yep. Okay, so who's going with Richter? Anybody
+[2:23:22] Unknown Speaker(s): rock will go with Richter, okay?
+[2:23:23] Sango: Drak
+[2:23:24] Unknown Speaker(s): has the twins. All right. Best.
+[2:23:30] Sango: Reagan doesn't like temples.
+[2:23:34] Ian Lurie: It's fair. It's fair. It's making some notes here. Got it all right? You so let's start with that Richter, Ian and Richter and Drak, you guys head down to the temple. The temple is in the residences, so it's a couple of rings away from where you are right now you enter the temple the Raven Queen. This is all very familiar to you now. I mean, it's, you know, this is home for you, basically, at this point. And there is, when you enter, there's the usual, you know, the huge statue of the lady of ravens, the matron of ravens. There's an offering plate under the statue. It's pretty deserted right now. Clearly, it's not the Raven Queens day. There are a few acolytes going around doing typical maintenance things. You know, they're sweeping they're cleaning up, they're straightening out pews. This temple does have this beautiful piece of stained glass, like some of the best craftsmanship you've ever seen, that runs from ground level on one side up over the roof and all the way down the other side. So the whole temple is sort of bisected by this huge piece of leaded glass. Then on the leaded glass, you see images of ravens as they're flying from one side to the other, and in the claws of each Raven is a small glowing moat that you instinctively know as a Paladin of the Raven Queen is a soul being born to wherever it's supposed to go. You walk in, a couple of acolytes come over to you. You know, they ask if you can, if they can be of any assistance
+[2:25:36] Rikki: I need. I need a room to meditate, and I need to see if I can talk to the Raven Queen, if she will listen to me and provide me with a little bit of guidance.
+[2:25:51] Ian Lurie: Very well. For that, you should probably speak to the cleric one moment. That's a lizard folk, by the way, kind of Bob's their head and shot, you know, scurries away, goes into an office in the back of the the temple, and out of the office emerges a gnome who's wearing a dark robe with all this stick, you know, With stitching of the Raven Queens insignia on the robe, and next to her is a female wearing plate with she has a short tail. She has two horns curling on the sides of her head. She has a large Warhammer in her belt. And they walk up to you, and the gnome says, I am Tamsen, bright spark. I am the cleric of the Raven Queen here. Welcome to our temple, and you are. And she looks at both of you,
+[2:26:59] Rikki: I am Richter, Shepherd, Paladin of the Raven, Queen. And this is my friend, my traveling companion, and my brother, Drak.
+[2:27:09] Ian Lurie: Good to meet you both. This is Yara. Yara is my lyrical
+[2:27:13] Unknown Speaker(s): callistria.
+[2:27:17] Rikki: I'm sorry I didn't know all your titles, mother of Drak.
+[2:27:22] Ian Lurie: It's Yara inclines her head. You can tell right away, Richter Yara. Yara, dark flying, gives off serious Paladin energy. She says, well, so how can I be of assistance?
+[2:27:39] Rikki: My friends and I are stuck right now, and we're going to a place that I feel that getting the Raven Queens guidance would be a boon, and so I just need a spot where I can meditate and try and talk to her and see if she'll both listen and maybe give us that guidance.
+[2:28:02] Ian Lurie: Very well a meditation chamber could definitely work. Right about then you hear Yara, dark, flying whisper and draks here, oh, the fuck is cholesterol? And you guys make your way over
+[2:28:18] Rikki: to them before we leave, though Richter takes out four gold coins, one for each party member, and drops them in the offering. Who just
+[2:28:27] Unknown Speaker(s): got snubbed? Which one Craig
+[2:28:28] Sango: and is not there to be notice this light.
+[2:28:33] Unknown Speaker(s): Craig is a contractor at this point now, so,
+[2:28:38] Ian Lurie: or he's saving a gold, the gold to give to you instead. Um, brought
+[2:28:42] Mossimum chaos: him on full time, but in the interview, when he asked where he saw him something five years.
+[2:28:50] Ian Lurie: Yikes, too soon. I don't know if that's too soon.
+[2:29:01] Sango: Oh, when, when that time comes. Oh, man, Tasia is going to have a talk with y'all
+[2:29:10] Ian Lurie: Tamsen. Inclines her head in gratitude. It says he she shows you to a meditation chamber just off to the side of the main area it has, it's very, very spare. There's one chair. There's a kneeling pillow in a corner where you can sit cross legged, legged or kneel. And that's really all there is in here. There's tapestries showing, you, know, representing the Raven Queen. And it's quite small. There's probably room for maybe one person in here. It'd be pretty, pretty cozy if you and Drak were both in here at the same time. Hey,
+[2:29:51] Rikki: Drak, if you want to, you know, walk around. See the sites. Go see that really cool window art that was in the beginning. Or any Richter hands him a gold coin. Take this and go get the twins some food. I might be here a little bit. Take your time.
+[2:30:07] Unknown Speaker(s): I've been at church. I know those pillows before. I'll just I'll be your eyes.
+[2:30:14] Rikki: I know you got a lot to confess. Richter,
+[2:30:16] Ian Lurie: we're all going to hell. All right. Richter, you go in there, you pull the curtain, you go into your trance. Why don't you give me a religion? Check?
+[2:30:38] Rikki: Dirty 20. Oh,
+[2:30:39] Ian Lurie: okay, um, you go into a trance, and there's very it might because of where you are, you're not sure, but there's very little resistance like this is one of the easiest times you've ever had achieving this trance. And you know, you're still pretty new at this. So it's, every time you do it, you're not quite sure, but it's you slip into the trance quite easily, and you feel as if you're suddenly in a room filled with flying creatures. You feel wings all around you, and the sense that you're in this small meditation chamber is gone, and you get the sense that you can ask your question now,
+[2:31:27] Rikki: my queen, my goddess, I rarely ask you for anything personal. Usually I just ask you to protect my friends and loved ones. In this we're trying to protect a lot more people. We don't have a month to wait for an entrance to the Shadowfell to open. Is there any guidance you can give me so that my friends and I can cross over sooner?
+[2:32:01] Ian Lurie: There's a brief, brief silence. Give me another Ian, a religion check actually give me a let me rephrase that you are attempting to communicate directly with your deity, which is not something Paladins often do. What do you think you can do? What does Richter want to try to do to strengthen the connection and get something besides whether you've renewed your extended warranty from the Raven Queen?
+[2:33:00] Rikki: Honestly, because he's so new at this, and he still practiced Richter, wouldn't it wouldn't be about religion. It would be about persuading the Raven Queen that this is important to get her help, that he's doing something he wouldn't normally do, because he knows that this is important, and he's trying to protect life from UN life.
+[2:33:25] Ian Lurie: Okay, so why don't you do this? Spend one of your channel divinities.
+[2:33:37] Rikki: All right, done. And
+[2:33:39] Ian Lurie: then tell me what you say, and if you want to try and do basically a persuasion check, so you have the connection now, so you're trying to communicate with her, right?
+[2:33:58] Rikki: My friends and I need to cross to the Shadowfell. It is not something that we do lightly. And while I know you don't control every area of it, I would like your boon and your blessing and your guidance and how to get over there. And I rolled a 22
+[2:34:17] Ian Lurie: okay, um, Drak, you're outside in the temple. And you know that huge piece of glass that I told you about, it goes dark, all the Ravens on it start like flying back and forth in really weird kind of ways. And they form almost into the this cowed figure. Their shadows form it almost a cowed figure over the shed, the statue of the Raven Queen at the opposite end of the the temple. And it's all totally silent, like it just happens in total silence. So there's almost this Studio Ghibli effect over your head of, you know, tons and tons of ravens flying back and forth, and the fluttering that goes from behind you over the glass to the opposite end of the temple, and then it forms up into this form of the Raven Queen with wings spread and the full mass looking at you, and it turns towards the meditation chamber and Richter you have it's not spoken to you, But you hear to cross into the domain of shadow when there is no portal. One must. One soul must cross into shadow if you all perish and parish near the portal you can pass through.
+[2:36:14] Rikki: Wow, that's heavy, my queen, but okay, yes, is, how do we cross back if we're dead?
+[2:36:34] Ian Lurie: That's it. The all the Ravens disappear out in the temple. It all goes light again, and you're sitting in the sitting in the meditation chamber again. Richter
+[2:36:45] Rikki: just about suicide. Victor just sits there for a moment. It's less about the news he got and more about this is like any other time he's talked to the Raven Queen has either been while he's been asleep or while he's been stood over by the bee bag who just killed him. So he's in this moment as someone who never thought he would believe in a God or a goddess. He's moved to tears, and he just needs a second to collect himself before he gets up and walks back out. Okay?
+[2:37:24] Unknown Speaker(s): Well, this is happening, like, when the whole message happens, I look towards the nearest, aka light, I can just go, like, that's it. The Raven Queens is giving us the blessing to kill something, mother fucking undead. We're gonna go, I love
+[2:37:39] Ian Lurie: that. This is turning into Flatliners. You guys ever see the movie Flatliners? The the acolyte looks at you kind of curiously, like, What do you mean?
+[2:37:59] Unknown Speaker(s): Oh, you didn't know you even heard the rumors. We've, we've, uh, we've determined that there may be a an incursion of some unholy undead in the city, and we're gonna fucking killed them. This shit is because my guy was asking for a blessing to take care of that shit. We're gonna fucking kill him. They
+[2:38:32] Ian Lurie: look really confused. They look around where you were pointing, and then they kind of fancy, okay, see building. See
+[2:38:40] Unknown Speaker(s): that? See what
+[2:38:41] Ian Lurie: exactly are you? Okay? Do you need to sit down? Get, get, get this. The acolyte, kind of snaps their fingers. Can you get him some wine? Please,
+[2:38:52] Sango: know he got a white jacket.
+[2:38:57] Ian Lurie: Are you? Are you quite alright?
+[2:39:00] Unknown Speaker(s): I'm gonna go talk to my animal. I'm gonna go see those. I'm gonna talk to my my twins over there. They're they're expecting me. I'm fine. This is fine. Okay, you're all fine. Great conversation, by the way.
+[2:39:16] Ian Lurie: It was great, great to be
+[2:39:18] Unknown Speaker(s): working whatever the you do,
+[2:39:22] Ian Lurie: some you hear you. You barely hear as a rocking away. Callister must be pretty fun,
+[2:39:31] Rikki: as Drak is walking out. Richter just walks out of the meditation chamber, and like he's he's adjusted himself, but he's not trying to hide, like how moist his eyes are, just how touched he all of this. He can't even say anything. He just looks over at the to attend his who helped him. He just bows his head and just sort of like, walks out thinking about what went on following Drak
+[2:40:02] Ian Lurie: so Tamsen was kind of keeping an eye out for you, the gnome. And when she sees you come out, she actually comes over to you and she says, was that productive, brother?
+[2:40:16] Rikki: All I can do is say, thank you and promise to protect this temple and the Raven Queen in her way, as long as she allows me to take breath
+[2:40:31] Ian Lurie: well and and likewise for us, if you need our aid While in this city, Tamsin and I can offer assistance.
+[2:40:44] Rikki: One thing that you can do for me, just keep my friends in your prayers, especially my and he hesitates because he's never said this. My, my partner, mossy. She is the most important thing to me in this world. And I just, I need someone else protecting her, because I don't want to come off too overprotective. But she can't go before I do.
+[2:41:21] Ian Lurie: You are a protector by nature. I don't think you can anyone would consider you overprotective. But of course, we will keep you all in our prayers. He just
+[2:41:29] Rikki: mutters on his breath, he never see me on the battle.
+[2:41:32] Ian Lurie: And should you need more than prayers? Let us know.
+[2:41:35] Rikki: Thank you. And Richter takes out another gold coin, drops it in the offering and just says, I thank you. And just Yeah, walks after. Walks after. All right,
+[2:41:50] Unknown Speaker(s): hold on. I gotta do a drag roll. Real quick, a drag
+[2:41:53] Ian Lurie: roll. Oh, God, and that's
+[2:41:55] Unknown Speaker(s): a, what? It's an intelligence bowl to kind of read the room. Ah, yes, love it.
+[2:42:03] Ian Lurie: So you guys are at the other end of the city, and you just see this mushroom cloud.
+[2:42:08] Unknown Speaker(s): So like, like Richter just had this emotional connection to just everything in the Raven Queen, he's walking out the girl somewhere. What the cat just happened the Ravens about the wings and
+[2:42:24] Rikki: the fucking as Drak is talking, Richter ducks underneath all his gesticulations, and he just gives him the biggest hug he's ever given him, and he just holds him. And after a minute, he pulls back and looks drags in the eyes, and he says, brother, I love you. You are beautiful. Thank you for loving me back and like you can you can see like Richter is, like he's fucking changed by this experience. Nice
+[2:42:58] Unknown Speaker(s): between my forehead. I bring my forehead right to use, dude, ride or die, man, I am your ride or die.
+[2:43:07] Ian Lurie: The twins come and do the same thing. They bring in their foreheads, punk.
+[2:43:15] Rikki: So I'm so glad you got to see that. Man that was
+[2:43:22] Ian Lurie: and Richter, you don't know what happened. You didn't see that.
+[2:43:26] Rikki: No. Drak just was like,
+[2:43:27] Ian Lurie: Oh yeah, yes, yes.
+[2:43:30] Unknown Speaker(s): Like crazy, frenetic detail, just like none of these thought would happen. It was just me. I don't even I don't even understand. Does Gods even do that, there's like eight people of my cult.
+[2:43:44] Rikki: It's funny. I had you remember soroya Saying that she had met me before the class she met me in was with my teacher, Nathan Dayspring, and he was also an inherent of the way Raven Queen and everyone, in my order, has to take a god or a goddess. And when it was my turn to pledge, Nathan told everyone, this one is too stupid to take a god. But after what happened today, I wonder if he knew something that none of us knew before, and just these connections of family are starting to come back, and since you're here, I wanted to just say thank you. I haven't said thank you, and I need to be a little bit more thankful when family comes into my life. Gotcha, man, do
+[2:44:47] Unknown Speaker(s): you want me to go punch him?
+[2:44:50] Rikki: No, no, there's another gentleman in my order, who, who's more
+[2:44:56] Ian Lurie: punchable, who's
+[2:44:57] Rikki: way more punchable, way more punchable. And luckily, he only has one hand, so you don't have to bob and weave as much.
+[2:45:04] Ian Lurie: Yeah, Nathan, as far as Richter can tell, when Nathan said that he was actually trying to protect Richter from something you never fully understand what understood what transpired. But
+[2:45:16] Unknown Speaker(s): okay, I will punch any motherfucker you want.
+[2:45:20] Rikki: All right. Well, let's get back to our friends and see if we can get us across this threshold to punch some shadowy motherfuckers. Let's do that.
+[2:45:31] Ian Lurie: Okay, switching to mossy and Sango and Cregan. You guys are going to the library to research. What are you researching?
+[2:45:39] Mossimum chaos: Ways the shadow filled. That's not a new moon, okay.
+[2:45:44] Sango: Also see if there's anything about these particular vampires.
+[2:45:51] Mossimum chaos: That's Raju, we got that last time.
+[2:45:53] Sango: Well, Malachi and Oh,
+[2:45:55] Unknown Speaker(s): Malachi looking for
+[2:45:56] Ian Lurie: specific names. Yeah, yeah,
+[2:45:58] Sango: specific names. And anything about the Shadow Mirror, that's a, that's a, is that Shadow Mirror or Shadow Mirror?
+[2:46:04] Ian Lurie: It's apparently a city or something called Shadow mirror. Mirror, like Mir, so shadow Mir, okay, or sorry. Shadow M, U, I R, so like sound mirror, Shadow Mirror, you guys head to the library. In the library, Jen is there at the at the front desk, you get the sense, that's sort of her post now, and she sees you guys, immediately perks up. She's like, Hey, how can I it's good to see you back so quickly.
+[2:46:41] Speaker 2: It's good to see you, Jen, how you been good.
+[2:46:44] Ian Lurie: Good. I've got books. I've got research. I'm happy.
+[2:46:50] Mossimum chaos: Excellent. We are here with, uh, two figures. We want to see if we can find anything on and then we're looking for information about transport. The shadow fell.
+[2:47:04] Ian Lurie: Transport, Okay,
+[2:47:12] Mossimum chaos: question for Dan, the temple left in the mist would no longer be consecrated, correct?
+[2:47:21] Ian Lurie: Probably, oh, a temple of Shar. You don't know, because you don't know how consecration of I mean, Shar is an evil goddess, so you don't know
+[2:47:32] Unknown Speaker(s): how to
+[2:47:33] Speaker 3: look into Shar too. Yeah. Go ahead,
+[2:47:43] Unknown Speaker(s): Masi say the names,
+[2:47:46] Sango: and also, let's not
+[2:47:48] Mossimum chaos: cannot see, but now is stuck as kanazani in my head, kazani
+[2:47:51] Ian Lurie: Noctis and I'm it's amazing how you guys can ruin any name I give you. But well done. Well done.
+[2:47:59] Unknown Speaker(s): Yeah, we learned last episode
+[2:48:02] Mossimum chaos: that I cannot remember our name for my life. Okay, yeah,
+[2:48:04] Ian Lurie: it's fair. It's fair.
+[2:48:07] Sango: Also, if there's anything, any information on the temple of shar in the mists here in the library that we can find out they might have a record of it or something, or a map to it, or she
+[2:48:19] Ian Lurie: says, Absolutely, we have that, that here. Let's, let's
+[2:48:23] Unknown Speaker(s): not, please, let's
+[2:48:24] Ian Lurie: go get some books. She pulls out that little paper tablet thing, taps it a few times. Says, okay, so maps over here. She brings you to a complete map of what used to be the outer city, and is now the mists. And in that she also has it's she can easily pinpoint where the temple of Shar is, so you know that location. Now she shows you a map of the temple itself. It was a pretty simple structure, main floor, in a cellar. I, you know, not much, not much more to it, not a whole lot of real specific stuff, like, you know, nothing showing what it looked like inside, or anything like that. It's also, by the way, pretty close to the Temple of Nick theme. You notice,
+[2:49:25] Mossimum chaos: yeah, you stop by there. We're pen pals, transports the messages back and forth. But, yeah, good guy. I
+[2:49:40] Ian Lurie: um, she says, So, transport to and from the shadow fell. I have no idea what that looks like, but here she she takes you to a part of the library that's just book after book after book about extraplanar travel and the Shadowfell. And she points, she says, We're open 24 hours for you if you want to start digging through that all you certainly may
+[2:50:19] Mossimum chaos: mossy cracks knuckles
+[2:50:21] Ian Lurie: and I'll go see if I can find anything about kazani Noctis in the meantime. So you guys give me some let's see. What kind of roles would these be. I'm thinking straight up intelligence. If you have history, you could add that to it, or a con can add Arcana to it.
+[2:50:55] Mossimum chaos: Oh, look, yeah, that is a 28 okay. I
+[2:51:07] Sango: a 21 history for Craig and a three for Sango. Okay,
+[2:51:13] Ian Lurie: Sango is reasonably sure that if you run fast enough, you will get there. No. Sango understands that he is drawn a blank mossy, and I'm sorry, guys, we're going to stop soon, because I'm starting to lose my what little voice I have left. Mossy. You find in some books that you know, there are spells that allow you to travel between planes, and it can be very difficult, but if you can find a caster of sufficient level, they can send you to the shadow fill
+[2:51:48] Mossimum chaos: fantastic all writing down in the notebook, okay,
+[2:51:52] Ian Lurie: it is incredibly difficult, and it has not been tried since the ley line was erased, which may or may not have had an impact.
+[2:52:03] Unknown Speaker(s): Like, what type of caster,
+[2:52:06] Ian Lurie: a an arcane caster?
+[2:52:11] Sango: Layla was
+[2:52:14] Unknown Speaker(s): sorry, go ahead. I
+[2:52:17] Mossimum chaos: was asking a dumb question. Is there another type of caster
+[2:52:19] Unknown Speaker(s): as an arcane
+[2:52:20] Ian Lurie: there's divine. Oh, okay, right, and I'm just looking here to make absolutely sure, yeah, it's a spell called plane shift, seventh level spell difficult to cast, dangerous. Unless you happen to know the location of a teleportation circle on that other plane of existence, then it's very easy, because you can just jump from one to the other.
+[2:52:56] Speaker 2: Is there, like a white pages of teleportation circles? Sorry,
+[2:53:06] Ian Lurie: Jen comes back and this takes you a while. It takes you an hour or two to dig all this up. But it's not super secret stuff, so it's pretty easy to dig up. You also know from the records that it hasn't been done successfully that many times. So, just so you know, in Ian's world, plane shift is not an easy thing. It's not, you know, it's not any caster with seventh level spells can just do it. It does take some work, because you're actually jumping from one reality to another. So it has risks. I mean,
+[2:53:37] Speaker 3: what's the likelihood Fizz, bang would kill us again. This bang
+[2:53:40] Ian Lurie: is not tough enough to cast plane shift. Oh, really, yeah, hex, some might be able to. But do you remember how messed up hex them was at the end of the Yeah, Hex them was using plane shift. It has risks, like I said, major inherent risks. Jen comes back and she says, Well, interesting. I did find some I did find some information, some history about kazani Noctis. She was a vampire of enough import and reputation to make it into our histories. She apparently had control of a small area in the foothills of the spine on essadria. And she pulls out a map, she shows you, says this is where she would have been and she points, and it's exactly where the fall happened. So if she was there when that happened, she was wiped from existence.
+[2:54:53] Sango: This the spine over on the other continent. Yeah.
+[2:54:56] Ian Lurie: Anas said, Ray, the spine of the world. Okay, I
+[2:55:04] Unknown Speaker(s): she had a base,
+[2:55:07] Sango: or just something, something there looks like
+[2:55:09] Ian Lurie: a tower. It's not. There's not a great deal about her. It's just a record by someone who traveled cataloging flora and fauna. And this record is at least 120 years old. Kazani Noctis wasn't a vampire lord at the time, but she she had enough of a following in power to be worth noting.
+[2:55:31] Sango: Could this be the the person that lifted the island up and got it going, wasn't
+[2:55:41] Ian Lurie: there
+[2:55:42] Sango: a vampire involved in that?
+[2:55:44] Ian Lurie: Okay, so, you know, it's, this is Ian type, just a refresher. That was a different vampire, the one that you killed. And she didn't really so much lift it, she sort of activated, activated it, or the fall, loosened it and she let it loose. Remember, because she didn't have she couldn't figure out how to get it back down again.
+[2:56:06] Sango: Okay, so, but the person before that that actually caused it to come up originally? Were they a vampire, or am I missing? Oh,
+[2:56:13] Ian Lurie: no, that was, that was a very powerful wizard that was 1000s of years ago. Okay,
+[2:56:18] Unknown Speaker(s): yes,
+[2:56:19] Ian Lurie: 1000s of years ago. That that was, yeah, that was a long time ago, and the city itself fell. The island fell like 800 900 years ago.
+[2:56:35] Unknown Speaker(s): Nothing about Malachi.
+[2:56:38] Ian Lurie: Nothing on Malachi,
+[2:56:41] Sango: because Nazi Noctus had a gonna kill you in the foothills of the spine, I'm gonna kill
+[2:56:48] Ian Lurie: you all. This
+[2:56:49] Sango: is Craig. And by the way, yes,
+[2:56:51] Ian Lurie: I got that.
+[2:56:51] Sango: You're, he's already dying. It's, doesn't
+[2:56:56] Ian Lurie: matter. It doesn't matter. I am a, I'm a cruel and arbitrary God, and you will all die for this continue.
+[2:57:03] Sango: Okay, okay, so Noctis had a tower that disappeared when the spy, when the fall happened. I mean,
+[2:57:15] Ian Lurie: it all disappeared. I mean, there's no there is no there. There anymore that it's a huge impact crater. It was, you know, literally, magma came up and weld over the entire area after it had all been disintegrated.
+[2:57:31] Sango: But we were all alive during the fall. Yes. How quickly did the fall happen?
+[2:57:40] Ian Lurie: Ian, like, hours,
+[2:57:43] Sango: days, no,
+[2:57:44] Ian Lurie: no, it happened in an instant. I mean, every one moment, everything was normal. The next moment, there was a huge flash in the sky. Everything went dark. Every cleric of amoth and Paladin of amoth on the planet either died, went mad or just keeled over, having lost all their power, and then started, you know, the all of the disruptions you would expect, right? The weather, the weather patterns changed. There were tsunamis. There was, you know, it's you started, and then it was weeks later that you started getting refugees from, etc.
+[2:58:19] Unknown Speaker(s): Okay, gotcha, yeah.
+[2:58:22] Sango: So this knocked is could have fled through a portal, just like the one here, if they had one at the tower or near there, had just
+[2:58:32] Ian Lurie: been pretty quick, yeah, or they could have
+[2:58:35] Sango: been gone at the time that happened. Okay, is that all we find they had a tower in the foothills. Okay,
+[2:58:47] Ian Lurie: also, just another quick lore, lore refresher from last time dread domains are formed when there is some kind of great cataclysm.
+[2:59:00] Mossimum chaos: Okay, so in theory, a cataclysm could have been formed at the fall and then Banff Nocturne, yeah, Noctus too. I'm just gonna use the last name now, and I want to die over into a different realm. Yeah, entirely Awesome. Is there anything documented about the origin points of these Cataclysm created spaces in the Shadowfell Yeah,
+[2:59:39] Ian Lurie: it's, you know, that's what you've read about Shadowfell. Space doesn't space here, doesn't geography here, doesn't directly translate to geography there. Often places that form in the Shadowfell are mirrors of things here. Think of the upside down dread domains are often mirrors of things on praxia, on the Prime Material,
+[3:00:04] Unknown Speaker(s): neat? Yeah, I
+[3:00:08] Ian Lurie: think that's a good place to wrap up for tonight.
+[3:00:12] Mossimum chaos: Um Fauci, Sango and career. You can all get library tote bags. They're stoked.
+[3:00:18] Ian Lurie: Yeah, yeah, you've taken out enough books now,
+[3:00:20] Unknown Speaker(s): library Tote Bag of Holding,
+[3:00:23] Ian Lurie: and Richard and Drak both get commemorative mugs, Raven Queen commemorative mugs. So my friend
+[3:00:30] Mossimum chaos: summoned to God, and all I got was this lousy mug.
+[3:00:35] Sango: The other thing I wanted to research was anything they knew about the Shadow Mirror. About
+[3:00:40] Ian Lurie: shadow muer, yeah, she doesn't find anything about that. Okay,
+[3:00:46] Sango: it covers all my basics. Then,
+[3:00:52] Rikki: awesome. Well, everyone, thank you for Yeah,
+[3:00:56] Ian Lurie: yeah. This was great. It was good to good to get back to it. So good to punch it. Now someone
+[3:01:01] Unknown Speaker(s): got to punch Nazi.
+[3:01:04] Ian Lurie: There will be opportunities. Don't worry. All right, guys. Cool. Talk to y'all later. Thanks, guys.

@@ -1,0 +1,1327 @@
+# Ian's Meeting Notes
+# Otter recording 2026/05/11 16:58:42 (2h 58m) id OnvWZiftfOHSWN39eEq4sCiUnxI
+# https://otter.ai/u/OnvWZiftfOHSWN39eEq4sCiUnxI
+# Speaker-attributed transcript, verbatim. Raw source for the card at /items/otter/2026-05/2026-05-11-rbg.md
+
+[0:02:57] Fancy Drak: Hey, there, hey. I am, I am excited
+[0:03:05] Ian Lurie: me too.
+[0:03:07] Fancy Drak: I think I'll have a really fun and weird concept.
+[0:03:12] Ian Lurie: Be interesting to see
+[0:03:14] Speaker 1: how this goes.
+[0:03:16] Ian Lurie: Hey, Jamie, yeah, like I said this, these really are meant to be one off characters. It may be that we use them beyond tonight, but I'd be not surprised. I guess it's possible you'll meet them, but
+[0:03:41] Speaker 2: I have a known potato barbarian, and I'm excited.
+[0:03:45] Ian Lurie: I saw that,
+[0:03:47] Speaker 2: just like Doctor Who the salt Ian's
+[0:03:49] Ian Lurie: Yeah, that's what I'm picturing, those little phones walking around.
+[0:03:53] Speaker 2: Yes, yeah, he is potato, fierce potato.
+[0:03:57] Speaker 1: I
+[0:03:57] Fancy Drak: honestly cannot believe that you and I both picked barbarians. Yeah,
+[0:04:01] Ian Lurie: I think that's pretty awesome. And one of you is like a six foot five war Forge, and the other one is like a three foot tall gnome.
+[0:04:07] Fancy Drak: You could fit my backpack, Yep,
+[0:04:10] Ian Lurie: yeah. It's
+[0:04:16] Speaker 2: like, oh yeah, I never get to be a tank. Let's be a tank.
+[0:04:19] Ian Lurie: Yeah? Well, three of you are tanks. At least two of you are tanks. Jamar's character is pretty tough, yeah, but he's all thought out and blah, blah, blah, yeah, yeah.
+[0:04:35] Speaker 2: Where's the chaos magic with that?
+[0:04:38] Fancy Drak: Rangers? Am I right?
+[0:04:41] Ian Lurie: Exactly.
+[0:04:41] Speaker 2: I
+[0:04:44] Ian Lurie: didn't look to see if he's like Drac, level hot. Nobody's very wise.
+[0:04:55] Speaker 2: There you. I mean, everyone knows the horny bird, but the thirst trap Ranger is distinct to RBG,
+[0:05:02] Ian Lurie: well, the bard. In this case, the Bard is the attractive one, no question, and
+[0:05:10] Speaker 2: gets his choice of tater tots, right?
+[0:05:14] Ian Lurie: Yeah, exactly one. JP, is playing the exact opposite of his character of drag, like the anti Drach, Hey, James, hey, Jamar,
+[0:05:26] Speaker 2: the anti direct does not recycle. I picture that. Hello, sir. Tank got his blood work done, and he's a perfect, healthy baby angel,
+[0:05:37] Ian Lurie: excellent, probably annoyed over having his blood work done, Alfred scared the living shit out of me this morning for no reason whatsoever, except that he woke up with this horrendous limp, which went away within moments of him realizing that there was breakfast. So,
+[0:05:55] Speaker 2: yeah, you never sleep on something weird, man,
+[0:05:57] Ian Lurie: you know, and he's 13, and, you know, we're about the same age, and I get it, but still, first I was like, Oh my God, what's happened to my dog? But he was fine.
+[0:06:11] Speaker 2: Yeah, the vet came into the office, and tank was just sitting, like, on the exam table, like, bow to me. Just full. I own this
+[0:06:20] Ian Lurie: nice I've never had a cat that acted that way.
+[0:06:25] Speaker 3: He's perfect.
+[0:06:29] Ian Lurie: He looks pretty chill. So let's see. It's been a month. What game are we playing again? Checkers, tic tac toe. I don't know. I can't remember.
+[0:06:42] Speaker 2: Think it's called late stage capitalism,
+[0:06:44] Ian Lurie: yeah, yeah, something like that. I'm
+[0:06:47] Speaker 1: sorry
+[0:06:48] Ian Lurie: I remember
+[0:06:49] Fancy Drak: that
+[0:06:50] Ian Lurie: my
+[0:06:51] Fancy Drak: parents didn't like it.
+[0:06:53] Ian Lurie: Yeah, exactly. They did not approve. I'll just dive in here. I think so. You are the city of silver. Ian is a shining light on the continent of essedria. It sits astride the springs that are the headwaters of the helgo real river that flows like a perfect silver ribbon from the spine of the world all the way to the gap the helgarill is the core of Commerce on the continent of essedria as a wide, stable river that's easy for large boats To get up and down, and it starts from the city of silgrin as a fairly wide river. Sylgar Ian itself is the center of worship of the god amoth, and it is known throughout the world as the center of, first of all, the religion around the god amoth, and second around wisdom, commerce and sacred magic, as opposed to arcane magic. You four are work in the city guard known as the Black Helms, and it's your responsibility in any given day to see to the safety and security of the city, not generally a major issue. The city is fairly quiet, and has been for decades,
+[0:08:35] Speaker 2: quiet,
+[0:08:36] Ian Lurie: but yes, but too quiet, but you do see to security. And then there are also a group called the hell riders, which patrol the the hills and bluffs outside the city, because silver Ian sits inside this almost like a bowl with mountains all around it, the spine of the world. And then the river almost coming directly out of the city because the springs sit right beneath the city itself. You four are coming off duty, and actually, why don't you share your characters, describe them to each other. I don't know how much you've all looked at each other's characters, do you? Are you all familiar with each other's okay? Yeah, why don't you all describe your characters to each other and to me? Oh, JP, you go first.
+[0:09:34] Fancy Drak: Oh, y'all did the nose thing.
+[0:09:35] Speaker 1: Yeah,
+[0:09:36] Fancy Drak: I was looking away.
+[0:09:37] Ian Lurie: This is what
+[0:09:38] Speaker 2: happens when you look away
+[0:09:40] Fancy Drak: every single time. All right, so TPT, 418, stands nearly seven feet tall with all the grace, finesse and the curves of a Swiss army knife. It's charcoal gray chassis is accented with silver filigree, yet it's dented, pitted and just a bit oddly shaped, giving it a near non Euclidean appearance. Its arms and legs are spindly but functional. Its left arm is slightly thicker than its right, its head is a mostly spherical crystal containing a swirl, like a swirling blue, white mist. Sometimes the mist coalesces and forms the shape of an eye, sometimes three, sometimes a face, and at most times, the glass shows status. 200 Okay. When it rages, the mist glows red and shows status. 500 internal error
+[0:10:50] Ian Lurie: has to be a 500 error. Excellent
+[0:10:52] Speaker 4: is, does it ever like, just have a like a blue mist? All Blue Mist, yep, yep,
+[0:10:59] Ian Lurie: that's a 404.
+[0:11:01] Speaker 2: He's in a band called panic Colonel at the disco,
+[0:11:06] Fancy Drak: and because of his name, TPT, 418, it is often asked, Are you a teapot? It responds, I am not a teapot. However, to the folks that he knows, inside his chest cavity, is a teapot that dispenses a lovely array of teas.
+[0:11:34] Ian Lurie: Okey doke, Jamie, why don't you go next? Oh, okay, Jamar, why don't you go next?
+[0:11:41] Speaker 5: Awesome. I was going to volunteer anyway, said the man no one believed so. I am Jackson LeBeau, a halfling, caramel, complected, bald everywhere except for a thin Mohawk of red hair that there is a bet amongst all the people, whether it's real red or whether Jackson dies, it or not. There's also another bet about how old Jackson is, because while he looks very, very young, he has the crow's feet that either belie he's older, or he's seen some shit. The only thing that anyone knows about him is that, before he came here, he used to be part of a Holy Order in samur, but due to bullying and his only friend leaving and not coming back, only sending letters every so often. That started to die off. After a couple of years, he decided to escape one night, and he wandered and ended up here, and this was the first place he felt welcomed. And while it's not deep friendships, it's a camaraderie of, hey, we're protecting the only place we know when we love and we call home and you're our brother in that. And so this is where he chooses to stay. He doesn't talk a lot about himself, because it's not about him, it's about the position, but he always has a smile on his face, always has a good word, and no one knows if that's really how he feels, or if that's a way of deflecting attention from himself to others.
+[0:13:36] Ian Lurie: Awesome.
+[0:13:37] Speaker 2: All right, and waddling behind these two dapper guards that look like they know what the fuck they're doing is for what you think, just for a moment, might be a potato, and that's only because you've never seen a rock gnome with alopecia before. All right, here we have Hornsby Willow spoke waddling out behind the dapper Jackson and the potato sack shirt doesn't actually help everyone else, at least has armor. No this potato looking man has a potato looking shirt and behind him because it is roughly the size of him, if actually a little bit more, is the great AX. So potato great AX, whoa,
+[0:14:30] Speaker 1: yep,
+[0:14:32] Speaker 4: I'm playing cravel.
+[0:14:36] Ian Lurie: Oh God, uh huh,
+[0:14:39] Speaker 2: playing what huh, maybe
+[0:14:41] Speaker 1: you had
+[0:14:42] Speaker 5: to know he was gonna go. There.
+[0:14:43] Ian Lurie: He is a
+[0:14:45] Speaker 4: he's an investigator for the watch. He's good at his job. He comes with a lot of baggage, but he gets the job done so people don't, don't give him too much shit every now and again, you'll
+[0:15:04] Speaker 1: see him, yeah,
+[0:15:05] Speaker 4: every once in a while, you'll see him take candy from a baby, and, yeah, he's a red tiefling, and he's got horns, and he looks like the devil, and he may or may not be you don't Know
+[0:15:18] Speaker 2: that candy is gonna make your fangs rot. Ian,
+[0:15:20] Speaker 4: yeah, just, I'm just saving the kids
+[0:15:27] Speaker 1: for a
+[0:15:27] Speaker 2: snack.
+[0:15:30] Speaker 4: And you see he just gets this nasty looking grin with his teeth that just pop out.
+[0:15:37] Ian Lurie: Okay, so the four of you work together. You're part of one group, and you're you do your normal patrols are mid afternoon to late afternoon. You're actually just coming off duty and walking into the barracks when your lieutenant, Bruna Ellis comes over to you and sort of intercepts you as you head to the mess hall. And she looked at you for and she says a moment if you please, and she leads you off to her offices and motions for you to sit.
+[0:16:19] Speaker 2: Has anyone ever told you what we should say if we don't please. It seems very confusing.
+[0:16:26] Ian Lurie: No people generally have to say, yes. I don't know that Ian's ever said, No, I am your lieutenant, after all.
+[0:16:33] Speaker 4: What was her name? Again?
+[0:16:36] Ian Lurie: Brona. Brona Ellis. I wouldn't worry about names too much tonight if we need them. I got them written down for later. Just call her your Lieutenant.
+[0:16:49] Speaker 1: Gotcha.
+[0:16:50] Fancy Drak: Of course, Lieutenant, I have between four and five minute moments to
+[0:16:53] Speaker 1: spare.
+[0:16:55] Ian Lurie: Excellent. Do you so do you say status? 200 right now? Is that what your head is saying? Or 301, because you were supposed to go to the mess hall, but now you're in her office instead.
+[0:17:06] Speaker 2: Temporary
+[0:17:07] Fancy Drak: redirects.
+[0:17:09] Ian Lurie: Okay, all right. All right. Oh, my God, I've been out nerd it, of course. If anyone was gonna do it, it was gonna be you all
+[0:17:16] Speaker 2: at some point we're gonna need him. He's really four to nine. Nope.
+[0:17:20] Ian Lurie: She, she sits you down. She says, there has been a series of murders at the Temple of Amoth, which you all know is bizarre, like there are murders, there's crime in this city, but you know, a murder in the temple of Amoth, that's that's freakish and strange, and she says, three murders in the space of three nights is beyond a simple crime, something serious and sinister is clearly happening at The Temple of Amoth. I cannot simply send the guard into the temple, into the seat of all that is the heart of this city, will cause rioting. So what I've done is I've gotten the high hierophant of the temple to allow four of you to come in in plain clothes, to investigate what has happened. He will meet you there. Your job is to meet with Varian. That's the Varian is the high hierophant. Gather evidence
+[0:18:41] Speaker 2: make him the maximum hierophant,
+[0:18:45] Ian Lurie: or he is The Hierophant who smokes weed. No, I don't. She doesn't. She does not say that he is the leader of the temple. Yes, have
+[0:18:59] Speaker 2: they tried just not going to the temple. If they don't go there, then they wouldn't be murdered.
+[0:19:05] Ian Lurie: All the victims are actually clerics at the temple.
+[0:19:09] Speaker 1: What
+[0:19:12] Speaker 4: is it the temple just raised them up.
+[0:19:16] Ian Lurie: Amoth does not there is no one of sufficient power at the Temple of Amoth to do that at this time.
+[0:19:26] Speaker 2: What the high hierophant on a chair,
+[0:19:32] Ian Lurie: she just looks at you and just continues and turns to to
+[0:19:37] Fancy Drak: query
+[0:19:37] Speaker 1: the
+[0:19:37] Ian Lurie: TPT. Yes. TPT.
+[0:19:42] Fancy Drak: Do? We have not done a plain clothes investigations. This Am I to assume that we are to not wear the uniforms, on guard uniforms as we do the investigation?
+[0:19:52] Ian Lurie: Correct? That is because we were afraid of what would happen if this, if people in the city knew that the black helms were investigating crimes in the temple of Amoth,
+[0:20:03] Fancy Drak: so you are suggesting a level of incognito
+[0:20:07] Ian Lurie: discretion. You don't need to completely hide your identities, but some discretion is definitely advisable. Everyone in the
+[0:20:15] Speaker 2: temple looks up at teapot.
+[0:20:18] Ian Lurie: Everyone in the temple will know who you are. There you do not need to hide your identities. But what we can't have is members of the guard tramping around the temple in full regalia. You guys know that in this city, the temple of Amoth and the high hierophant of Amoth are sort of the de facto there is a mayor of the city, but really the temple is the governing center of the city, and the high hierophant is kind of the spiritual leader for the entire city. So having the city guard in there, having them have a really, you know, guard forward presence, would cause unrest in the city. Having members of the guard go in there to investigate something. You know, a lot of the Guard are followers of Amoth Anyway. So having members of the guard there is not that big a deal, but having them in there, in uniform, on duty, that would be very strange. That would that would really cause, cause a stir in the city
+[0:21:17] Fancy Drak: query, what would be a successful outcome of this mission,
+[0:21:24] Ian Lurie: you all need to find the murderer and bring them to justice. That is the only successful outcome of this investigation. I've been authorized to give you, each of you, a bonus of 50 gold pieces on top of your normal salary. If you can crack this case,
+[0:21:46] Speaker 2: I was excited just to murder, but I get money too. Huzzah,
+[0:21:50] Fancy Drak: I am 4% gold.
+[0:21:55] Ian Lurie: Well now you can be looking at you now like now you can be 5% TPT. You PT, she says, that's all. You're dismissed. Um, as
+[0:22:10] Speaker 1: you all,
+[0:22:11] Speaker 2: did you murder them?
+[0:22:13] Ian Lurie: As you all file out?
+[0:22:14] Speaker 4: Probably not.
+[0:22:15] Ian Lurie: The lieutenant says, cravel, stay a moment.
+[0:22:19] Speaker 6: Okay, yes, Lieutenant,
+[0:22:21] Ian Lurie: the rest of you head out.
+[0:22:23] Speaker 2: Yes, he murdered them.
+[0:22:25] Ian Lurie: She says, I know you are the you're the lead investigator of this group, and I don't want to put undue pressure on you, but
+[0:22:36] Speaker 4: obviously wants potato man to be lead investigator.
+[0:22:39] Ian Lurie: I am reasonably
+[0:22:40] Speaker 1: sure?
+[0:22:41] Ian Lurie: Yeah, I'm reasonably certain. We don't want Hornsby to be the investigator.
+[0:22:49] Speaker 7: What about ATM? You want him?
+[0:22:52] Ian Lurie: Okay, can we just stick? Just focus here. Focus cradle.
+[0:22:56] Speaker 4: Sorry, I'm being a little flippant.
+[0:22:59] Ian Lurie: Yes, I know.
+[0:22:59] Speaker 1: My
+[0:22:59] Speaker 4: apologies, and
+[0:23:01] Ian Lurie: this is not a good time to be flipping. I cannot over emphasize how vital it is that we find the correct person. We cannot have a case where we end up accusing someone who is not guilty, because whoever it is, it is probably someone in the temple, and if it is that's going to cause enough unrest in this city, it cannot look like the black helms are running around accusing members of The clergy of murder, unless we have extremely strong evidence.
+[0:23:44] Speaker 4: Okay, so is this a pretty well special or do you want you know the truth?
+[0:23:54] Ian Lurie: This needs to be the truth.
+[0:23:57] Speaker 4: Okay, what are the odds that if this gets completed successfully, that I can get a month of day shifts and not have to pull these overnight shifts for a while.
+[0:24:09] Speaker 1: Well,
+[0:24:10] Ian Lurie: since you always, she says, Yes, of course. And then she says, Since you always, your shifts are always in the afternoon, that's not a problem.
+[0:24:18] Speaker 4: Okay, that's great.
+[0:24:21] Speaker 1: The other guys, I
+[0:24:21] Speaker 4: don't care. I mean, potato guy probably really wants to be at night, and I don't think that the the ATM guy sleeps, so he's probably fine working nights the
+[0:24:29] Ian Lurie: ATM guy.
+[0:24:30] Fancy Drak: Can I use my perception to see if I can overhear some of this conversation?
+[0:24:33] Ian Lurie: You cannot overhear any of this conversation.
+[0:24:35] Speaker 1: Okay,
+[0:24:37] Ian Lurie: thick wooden door. Definitely not after that, she says, dismissed, and you head out. Hey
+[0:24:51] Speaker 4: guys, you ready to go do some investigating?
+[0:24:56] Fancy Drak: I have questions,
+[0:24:58] Speaker 4: queries.
+[0:24:59] Fancy Drak: I do. Did she update the parameters of the mission?
+[0:25:03] Speaker 4: Nope, pretty much straight as
+[0:25:07] Speaker 1: can be.
+[0:25:08] Speaker 4: Hopefully it's not somebody in the clergy and to get it solved quickly and quietly.
+[0:25:18] Fancy Drak: Those are acceptable.
+[0:25:25] Ian Lurie: You all go and change into your plain clothes and then your off duty clothes and head for the temple. The Temple sits atop the highest hill in the city. It is nestled in among the mountains the spine of the world. The mountains here are enormous, and these they spring right out of the valley. So it's not like there's foothills and then mountains. The temple is set in this spectacular setting, surrounded by these huge rock mountains that rise up almost out of sight right behind the temple. You walk up to the temple, which is white marble with the symbol of Amoth on the front, four or five stories high. You've been inside it before, so you know, inside is the nave, and it's just this one enormous open space. There are some smaller buildings out buildings. There's a cloister, there's things like that off around the sides. But this is a spectacular building meant to generate awe in the people who look at it, that is the best set of emoji for you for ever. As you walk up to the temple, you can see things are you're good at picking up on the energy of a place, and the energy of this place is not as it should be. And as you walk in to the the central name of the temple, you see, first of all, there's this tree that grows directly up in in and fills up the entire open area as you walk in, it's a this kind of winding, twisting, really dark wood, you know, it's a hard wood. It's grown here for nobody knows. Actually, It predates the city itself, which means it has to be at least 1000 years old, and it has this perfect green canopy that extends throughout the the arch roof of this area, there's a few brown leaves on it, which is, you know, you've seen before, you're not sure about the time of year or anything like that. And you know, it's in Twilight. So the room is a little bit darker and maybe more shadow than you're used to. At the opposite end of the room is the statue of Amoth, and burning in his hands is the eternal flame, which never goes out. It is literally an eternal flame. It is powered by faith and the will of Amoth itself. And again, as far as you know, in the history of the city, it has never been extinguished. As you stand there, a thin kind of immaculately groomed gray elf with silver blonde hair worn in the long braid comes over to you, and this is the high hierophant Veron told Ian. And varen says, pretty high for you. He says, You must be the four that Lieutenant Alice said she would send.
+[0:29:11] Speaker 4: Yep, that's us. We hear you've got a situation a few nights in a row. Now,
+[0:29:16] Ian Lurie: would you mind if we went into my office to talk about this,
+[0:29:21] Speaker 1: not at all
+[0:29:22] Ian Lurie: he so he is this very well put together guy, but he does look extremely tired. You could say exhausted. He takes you into his office and murders you quietly. No, takes you into his office and starts to explain everything to you. He says, a few nights ago, one of our one of our acolytes, one of our initiates, went missing, and we found them in the cloister garden dead, which was tragic, but appeared to be, you know, could have been an accident, a fall, something like that. There was an A ladder nearby so they could have and they had a severe head injury, so they could have simply fallen off the ladder. But then the next night, our herbalist sister Ian was found in the kitchen with a similar injury, also dead. And then last night, we found brother Kalen. And well, I will show you that shortly. I have no idea what is happening here. I know only that now you're not playing clue, just thinking the same damn thing. I know only that
+[0:30:54] Speaker 4: we are doing an investigation check for wrenches.
+[0:30:57] Ian Lurie: Sure. Make an investigation check for wrenches. No. I mean, yeah, if you want to
+[0:31:07] Speaker 2: candlesticks.
+[0:31:08] Ian Lurie: He says, I will. All I would ask is some discretion and empathy, because we are all grieving. This is more tragedy than we have faced in decades, and everyone here is in shock. Other than that, the entire temple is open to you. Everyone here knows that they should be they should be playing. They should speak plainly and tell you everything that they know.
+[0:31:43] Fancy Drak: I am highly optimized for
+[0:31:52] Speaker 4: empathy.
+[0:31:54] Ian Lurie: You see off to one side in this office, by the way, there's a door to his private cell, and then there's the door to the back out to the nave where you just were. Where would you like to start?
+[0:32:12] Speaker 4: This? Was it? Caitlin,
+[0:32:17] Ian Lurie: the most recent?
+[0:32:18] Speaker 4: Yeah,
+[0:32:19] Speaker 1: yes.
+[0:32:19] Speaker 4: How do you spell that? I want to make sure my notes
+[0:32:21] Speaker 1: are
+[0:32:22] Ian Lurie: correct, c, a, i, L, Ian, Kalin,
+[0:32:26] Speaker 4: and I've got a little pad and pin
+[0:32:27] Ian Lurie: Okay.
+[0:32:30] Fancy Drak: Can I take a glance around the office to is there? Is there any part of the any part of the office that kind of sticks out, like, if it's like a really, really clean office, Are there parts?
+[0:32:49] Speaker 1: Does
+[0:32:49] Speaker 2: the animation look different,
+[0:32:52] Ian Lurie: right, right? Give me an investigation. Check
+[0:32:59] Fancy Drak: it's my investigation.
+[0:33:00] Ian Lurie: God, love level two, because I know none of you're gonna be rolling fucking 20 sevens tonight.
+[0:33:08] Fancy Drak: That would be a dirty 20.
+[0:33:12] Ian Lurie: And the office, the office is immaculate. This is, this is a very organized person. You do notice, though, that his robes that he is showing some signs of wear. There's, you know, what appears to be some spilled wine or something on part of his robe. He's, you know, he's got a prayer book in his hands, but, you know, he's kind of worrying at a little bit as he speaks to you. You know, he has a medallion of Amoth, but it's slightly off center. Just a lot of the little things that show that this is someone who's definitely under duress. Again, nothing that strikes you as, you know, really strange or suspicious. Just this is someone who has been through a lot in the last three days.
+[0:34:05] Speaker 4: And do these doors lock
+[0:34:08] Ian Lurie: the doors to this office? Do lock
+[0:34:11] Speaker 4: and do you keep the key on yourself?
+[0:34:14] Ian Lurie: Two of us have the key, myself and brother hallis. He is the senior cleric and my deputy here.
+[0:34:20] Speaker 4: Okay? And he has access to all the same rooms that you do,
+[0:34:25] Ian Lurie: everything except my private cell. Yes, hallis is spelled a, a, H, God, H, A, l, i, s.
+[0:34:38] Speaker 2: Hornsby is gonna nudge Jackson in the side, but actually it's more like your knee. So sorry about that. You are you always find the coins to buy the snacks. Could you use that same type of skill here and find also? Do you have snacks?
+[0:35:01] Ian Lurie: Jamie's characters always seem to be very digestively focused. I'll just say
+[0:35:08] Speaker 2: it's a good motivation. Looks like potato wants potato.
+[0:35:15] Speaker 5: Jaxxson reaches into his pocket because he knows that Hornby always wants Nice. Of course. You know, I brought here, here you go, here's your your snacks. Oh,
+[0:35:25] Speaker 2: good people, pat, pat. And it's supposed to be like that, shoulder, pat, pat, but this you just slapped your ass.
+[0:35:32] Speaker 5: But, you know, I didn't know how I am. I always let investigator cravel go first, ask the questions, and then, you know, when it's our time we split up and look and everything. You're always so anxious. You don't worry. There's, there's at least three murders. There's so much investigating to go on, you'll get your chance to kill you always do
+[0:35:53] Speaker 2: snacks. How porn speak. Calm down. Thank you.
+[0:35:57] Speaker 5: No problem. You know, I have your second Z's over in my other pocket whenever you need
+[0:36:10] Ian Lurie: Varon says or told Ian says, any other questions, Ian's answer for you any information I can provide anything
+[0:36:23] Speaker 5: is, was there? Was there anything unusual about any of the bodies you found or the scenes when you first stumbled upon them, anything that you can remember
+[0:36:38] Ian Lurie: with Brother Alice. No, we really assumed he had fallen from the ladder which he was older. And it would not have been surprising Sister lenia, her back was turned to the door. She was bending. She was working over the counter. So the only thing that I would say is unusual. There is. She apparently was totally unaware of what happened
+[0:37:12] Speaker 5: to her. Seems that everyone was was taken by surprise. Okay, that's that's good to know. Thank you.
+[0:37:19] Ian Lurie: Brother Kaylin, you'll have to see I'm not sure if he was taken by surprise or not.
+[0:37:24] Speaker 5: Oh, is it gruesome?
+[0:37:28] Ian Lurie: I would say so, yes.
+[0:37:30] Speaker 8: Oh, Hornsby, you know you like gruesome. Told Ian looks a little pained.
+[0:37:39] Speaker 5: No, no, no, no. I'm sorry. I don't mean Ian's disrespect, but Hornsby is when they're these things are grisly. Hornsby really locks in on the investigative abilities. And while it may seem weird to you, this is, it's going to be brilliant. Once you see what Hornsby locks in on, it's you're going to be wowed.
+[0:38:00] Ian Lurie: I am a
+[0:38:01] Speaker 2: the splutter tells the story.
+[0:38:03] Ian Lurie: I am the high priest of Amoth, and I comfort people in some of the darkest moments in their lives. So none of this is foreign to me. It is simply unsettling to see it here in my temple and happening to those who are my friends, and have served me for so long. Served Amoth for so long. He didn't make that slip. Ian did.
+[0:38:31] Fancy Drak: If I can make suggestions, sir, the people who rely on you need you to be at a higher level of operational efficiency than you were currently at. I highly suggest that you get some food rest, and you'll be able to serve the people who who need your support better. You are looking, I'm kind of looking around, looking for a word that bail
+[0:38:56] Ian Lurie: me out here. Like,
+[0:38:57] Fancy Drak: like,
+[0:38:58] Speaker 2: do you have the hole for the paperclip like we do for teapot that sometimes makes things better.
+[0:39:05] Fancy Drak: Disheveled,
+[0:39:06] Speaker 4: distressed, I think what you mean he needs to shut down and reboot.
+[0:39:12] Fancy Drak: You look terrible.
+[0:39:16] Ian Lurie: He kind of smiles sadly. And he says, You are, of course, completely correct. And he sort of laughs at himself quietly, and he says, I appreciate the sentiment. I am trying to get rest when Ian, but I also must counsel my friends and colleagues here so but I do appreciate what you're saying, and you will see everyone here is in a similar, similar place.
+[0:39:52] Speaker 4: And brother Alice, what was his position here in the tumbler?
+[0:39:57] Ian Lurie: Brother hallis Halas, which one, sorry, brother, Alos, I should have been
+[0:40:03] Speaker 4: working a low
+[0:40:04] Ian Lurie: alos was an initiate. So, like a low level, a very low level acolyte who had been here for years and years and just hadn't advanced and, you know, did things like taking care of the garden, you know, keeping the keeping the common areas of the nave and the cloister and the reliquary clean, you know, things like that.
+[0:40:31] Speaker 4: And what about Caitlin?
+[0:40:33] Ian Lurie: Caitlin was a junior cleric, and he says, speaking of Caitlin, we're going to have to move the body soon. I assumed it would be better to leave the crime scene untouched until you saw it. But if you do want to investigate and see that scene, we should go there fairly soon.
+[0:40:57] Speaker 2: Let us go.
+[0:41:00] Speaker 1: Lead the way
+[0:41:02] Ian Lurie: after you Chief Inspector, and you can ask him questions while you're walking. So if you have other questions for him,
+[0:41:07] Speaker 1: go ahead. I hand him
+[0:41:11] Ian Lurie: a small cup of chamomile tea. He absolutely, he actually, absent mindedly, just takes it. He doesn't even question where
+[0:41:22] Speaker 4: it came from. Have you been watching the Shadow
+[0:41:28] Speaker 9: Lord?
+[0:41:30] Ian Lurie: No, I want, I need to start soon, though.
+[0:41:32] Speaker 1: Are
+[0:41:34] Speaker 4: you sure? JP,
+[0:41:37] Fancy Drak: yes,
+[0:41:39] Speaker 4: okay.
+[0:41:41] Fancy Drak: Should I
+[0:41:43] Speaker 4: Yes. Oh, it's pretty good. It's pretty
+[0:41:44] Speaker 2: good. Oh, come watch woke ass Star Trek with me. Oh, it's so good. Discovery is like, Oh, you're mad about the wokeness game on bitch.
+[0:41:54] Ian Lurie: Oh, discovery is fantastic.
+[0:41:56] Speaker 2: Yeah,
+[0:41:57] Ian Lurie: I've watched the entire series.
+[0:42:00] Speaker 2: I am finishing my first watch through in the last season right now.
+[0:42:05] Ian Lurie: Cool.
+[0:42:06] Speaker 2: I want more TIG, but apparently she's on the other show, so I could just
+[0:42:11] Ian Lurie: Yes, and she's fantastic on that one as well. So any other questions for see, I see I don't even know the names that's that's how new this is for me. I hammer all this together yesterday afternoon. Any other questions for the high higher fan? Okay,
+[0:42:34] Speaker 2: wait, did we figure out what time the murders occurred between
+[0:42:38] Ian Lurie: they all occurred at night.
+[0:42:40] Speaker 2: Okay,
+[0:42:41] Ian Lurie: not sure for the first two for brother Kaylin, it had to have happened in the last it had to have happened sometime between he thinks maybe 2am and 4am because acolyte Mira saw him praying at midnight, And someone found the body at around 4am this morning. So as you're talking, he leads you through the nave and then around to the back, behind the behind the altar and the wall, there's a wall and the altar in front of it, and then behind it there's a spiral staircase that leads up into the bell tower. And at the foot of the bell tower lies brother Kaylin, and he is sprawled at the bottom of the stairs with his legs up the stairs, his head, his arms and head are kind of stretched out on the floor. His head has clearly been crushed by some kind of large, heavy object. It's impossible to tell which way he was going when he fell, or I shouldn't say that, it's not clear with that investigation which way he was going when he fell.
+[0:44:19] Speaker 1: Would
+[0:44:19] Speaker 2: that be investigation or survival? Because I was having to make a CSI gnome survival check.
+[0:44:25] Ian Lurie: A Survival check would tell you, like, potentially, how he died, yeah,
+[0:44:33] Speaker 10: because I want to look at, like, the blood splatter and stuff,
+[0:44:36] Ian Lurie: yeah, but, but actually looking at blood splatter, doing that kind of thing, that's investigation. But you can look and say, Oh yeah, he was killed by this. He was killed by that that you can do. And there are a few other there are a few acolytes walking, not walking by, standing off to the side, looking shaken, nervous, sad, all those things together.
+[0:45:12] Speaker 4: Are they watching us?
+[0:45:14] Ian Lurie: Yeah, yeah. I mean, they're all waiting by the body they may have been praying over him or doing something else, but they were all there. And as you walk up, they look at you all,
+[0:45:31] Speaker 4: hello, is there a sheet over the body, or is it just laying
+[0:45:35] Ian Lurie: there? It's just laying there.
+[0:45:36] Speaker 1: Don't
+[0:45:38] Speaker 4: want to waste a good sheet on I guess Did one of you find brother Kaylin here?
+[0:45:47] Ian Lurie: So you see a woman. Her face is tear streaked. She's shorter, almost kind of a little bit mousy looking, short hair. She says, I found him.
+[0:46:07] Speaker 1: What
+[0:46:08] Speaker 4: was your name? Miss,
+[0:46:10] Ian Lurie: I'm acolyte, Mira.
+[0:46:12] Speaker 1: Mira,
+[0:46:15] Speaker 4: sorry, we have to meet in such unfortunate circumstances. What time did you find the deceased.
+[0:46:22] Ian Lurie: I think it was around. It was between 330 and 4am I was doing my rounds,
+[0:46:30] Speaker 4: and the body hasn't been touched since, since you found it? No,
+[0:46:34] Ian Lurie: I Well, it was dark, so I did check him at first, because I didn't see his she motions towards his head. I didn't see that. But once I knew what, once I saw what had happened, I immediately kept anyone from touching him.
+[0:46:53] Speaker 4: And did you know brother Caitlin? Well,
+[0:46:58] Ian Lurie: yes. I mean, we are a fairly small the clergy here are a fairly small group. We all knew him.
+[0:47:08] Speaker 4: And did you like brother Kaylin? Was he a nice guy?
+[0:47:14] Ian Lurie: He was a dedicated Junior cleric. He was always kind. He dedicated much of his time to the hospice for the city. Yes, I think we all liked
+[0:47:31] Speaker 4: him. It looks like the back of his head was struck by something one way or the other. You didn't happen to find any sort of rock or instrument around here.
+[0:47:49] Ian Lurie: No,
+[0:47:51] Speaker 1: can I inset site check around that?
+[0:47:53] Ian Lurie: Sure
+[0:47:54] Speaker 4: on all of that.
+[0:48:01] Speaker 2: Did you investigate the body? No,
+[0:48:03] Speaker 4: not yet. That is a 17 plus four is 21
+[0:48:08] Ian Lurie: you guys are pissing me off. Okay, James, I just sent you a note.
+[0:48:21] Fancy Drak: So real quick. While this is happening, teapot is going to look look around the crowd that's kind of gathering. His head is going to switch to 401, unauthorized, and start asking, please disperse. Please disperse. We are in a current we are in an active investigation. Please disperse.
+[0:48:43] Ian Lurie: Some of them do. Are
+[0:48:45] Speaker 4: we at a hallway at the
+[0:48:48] Ian Lurie: you're at the foot of the stairs, so it's this small, open area, and then a spiral staircase going up,
+[0:48:53] Speaker 4: okay, the main chamber. Can you see where we're at for the main chamber?
+[0:48:59] Ian Lurie: You cannot see the main chamber from here. No,
+[0:49:02] Speaker 1: okay,
+[0:49:02] Ian Lurie: you're around because there's the wall altar, then wall. It's nave altar, big wall, small passage to the spiral staircase.
+[0:49:14] Speaker 4: Gotcha, just trying to get the layout of My Little House on the Prairie church going on thing. Yeah, yeah. Okay. So okay, and what were the names of the the people that were just leaving, we should probably
+[0:49:30] Ian Lurie: let's see you had sister, Jura. She's the choir master, old tenum. He's the groundskeeper. I her brother, hallis is actually there, and he he looked kind of protective, maybe even defensive, of Veron the high hierophant, and was standing right next to him while you were looking at the body. And then Sister, Sister Mira was there as well.
+[0:50:05] Speaker 4: Did any of the rest of you see anything or hear anything between the hours of, say, midnight and 4am last night,
+[0:50:15] Ian Lurie: we were all in the dormitories of sleep,
+[0:50:18] Speaker 4: inside, check. All
+[0:50:23] Fancy Drak: of them.
+[0:50:24] Speaker 4: How about let's stick with Mira, since, since she's the one I've been talking to the most.
+[0:50:34] Ian Lurie: Okay, well, she, you did an insight check and I sent you.
+[0:50:39] Speaker 4: Okay,
+[0:50:40] Ian Lurie: what you found for her, she was the only one who was up and out of the dormitories because it was her turn to do rounds.
+[0:50:47] Speaker 4: Okay, gotcha. Okay, can we?
+[0:50:56] Ian Lurie: There is one other person there, one other accolade, actually, a junior initiate, and just sort of the plain gray robes of an initiate, starts to move off. When TPT says, you know, please disperse. But until then, he was there, and his lips are moving very rapidly, like he was praying.
+[0:51:18] Speaker 11: I asked me, Ian, what's his name?
+[0:51:23] Ian Lurie: I don't know. We don't know the names of all the initiates here.
+[0:51:29] Speaker 4: That's a little odd. Shouldn't you know the people that are should you at least be friendly with them when you break bread and things?
+[0:51:35] Ian Lurie: Well, we know the clergy, but there are many initiates, and they don't all stay here all day, so not necessarily. No. Would you like to speak to him?
+[0:51:46] Speaker 4: Yes, please.
+[0:51:48] Ian Lurie: Okay. She goes over to him and whispers something. He starts a little bit, and then he comes over.
+[0:51:58] Speaker 4: Hello, sir. My name is cravel. I'm helping out around here today with my friends. What's your name?
+[0:52:06] Ian Lurie: I am Brother Barris.
+[0:52:13] Speaker 4: Brother Barris, how long have you been with the order?
+[0:52:19] Ian Lurie: Only see two months now.
+[0:52:23] Speaker 12: Two months now,
+[0:52:26] Ian Lurie: he's very nervous. He's fidgeting a little again, not unusually nervous. I mean, he is standing right next to a gruesome corpse, but he is nervous. He's kneading his hands a little
+[0:52:40] Speaker 4: bit, and brother Barris, did you? Did you know brother Kaylin? Well,
+[0:52:48] Ian Lurie: Kaylin was I knew him? Yes, he was kind to me when I first came here and did not fully understand the ways of the temple. Everyone here is kind but he went out of his way to make sure that I was comfortable and did not feel too alone.
+[0:53:09] Speaker 4: He sounds like a nice guy. And your, your your bunks here, you're you're sleeping arrangements all in one dormitory. Yes, there is a single dormitory. Sorry, you have bunk beds. Do you have? Is it split male versus female? How's that layout?
+[0:53:30] Ian Lurie: I can show you if you'd like,
+[0:53:32] Speaker 4: okay, maybe it a little bit later. But How close was your bunk to Barris?
+[0:53:39] Ian Lurie: So, his bunk to who
+[0:53:45] Speaker 4: to Caleb's
+[0:53:47] Ian Lurie: Okay, okay. So the initiates, the initiates, all sleep in a single dorm room with bunk beds. But then when you get to acolytes, they sleep in smaller suites. And then when you get to the junior clerics, they all have their own quarters. And everyone above that has their own quarters. So Brother Kaylin had a small cell as a as a junior cleric. Brother Alos, the first body that was found, lived in the common dorm with Brother Barris and sister Lenya, was the lead herbalist. She also had her own, her own quarters.
+[0:54:31] Speaker 1: He
+[0:54:33] Speaker 4: had a small cell. And is this the first time you've seen a deceased body? Brother bears?
+[0:54:48] Ian Lurie: I mean, I've seen people who died of natural causes, never anything he kind of glances down nervously and then looks away. Never anything quite like this.
+[0:54:57] Speaker 4: Yeah, it's pretty difficult.
+[0:55:03] Speaker 2: Hornsby learned in school that gravity is natural.
+[0:55:08] Speaker 4: Yes, you would be. Most people are surprised to know that Hornsby went to school.
+[0:55:21] Speaker 1: Yes, that's true. I uh,
+[0:55:24] Speaker 4: you guys got to help me out here.
+[0:55:31] Speaker 2: Hornsby is going to march up and down the stairs and try and investigate for, you know, directionality that you just only hit it on the way, like, if someone's falling, they're gonna grab and reach for stuff.
+[0:55:44] Speaker 1: Give me
+[0:55:44] Ian Lurie: an investigation check six you're not sure his head has been so utterly crushed that. If it weren't for the placement of the arms, you wouldn't even know whether he was facing up or down right now, I will point out there are better investigators in this group, yes,
+[0:56:13] Speaker 2: but Hornsby was waiting for them and they weren't doing it things. Yes. Now he's
+[0:56:18] Ian Lurie: going the best investigator,
+[0:56:19] Speaker 2: but, or do you think it's a chest that got knocked down in
+[0:56:22] Speaker 1: the Yeah, try
+[0:56:24] Speaker 2: to figure out which way is up.
+[0:56:27] Speaker 5: Jaxxson is gonna walk over and just kneel by where the head should be and just look to see if he can see if the splatter will tell them what direction.
+[0:56:39] Ian Lurie: Okay, it
+[0:56:40] Speaker 5: may have been hit and fallen.
+[0:56:41] Ian Lurie: Give me an investigation check.
+[0:56:46] Speaker 5: Oh, that's gonna be a 24
+[0:56:48] Ian Lurie: okay, what the so you noticed a few things right away. This was definitely a blunt force wound. This was not an edged weapon, because there is still a head. It's still there. It's just crushed out of shape. It was probably a single blow, and it was to the back of the head, probably as he was walking down the stairs. So as far as you can tell, someone approached him from behind and hit him from behind with some large, blunt, heavy object.
+[0:57:26] Speaker 2: So two ambush attacks for sure.
+[0:57:29] Ian Lurie: Yeah,
+[0:57:29] Speaker 2: near the list,
+[0:57:31] Speaker 4: jaxxson's sure that there's he didn't just hit his head on the stairs coming down. Definitely not,
+[0:57:39] Ian Lurie: definitely not Jaxxson. It's very clear, because of the way everything happened, that he was dead before he hit the ground, before he even fell. He was dead. Someone killed him with that single blow, and then he fell down,
+[0:57:57] Speaker 5: knowing that Jaxxson is then going to walk around this room, just looking up and down to see if he can see if there's anything blunt enough that's left in the room that may have been used to cause this trauma.
+[0:58:14] Ian Lurie: Okay, with that investigation check, I'll just tell you that. No, there's, you know, this is a very plain area. There's a couple of vases, but if they had been used to do this, they would be shattered into a million pieces, and there's nothing else.
+[0:58:35] Speaker 5: Okay? Boss, what I can tell from here is that he was walking down the stairs, someone may have come up behind him with a blood object hit him. He fell down. Looking around here doesn't look like there's anything left in this room that could have done it. So whomever may have done this either has the object on them or may have gotten rid of it. That's all I can see from this crime scene right now. Good work. Jaxxson,
+[0:59:06] Fancy Drak: so I know, I know that there are, I know that there are people with the ex the access to divine magics that are able to speak with the dead. Does this require the victim having a working voice box.
+[0:59:24] Ian Lurie: It certainly requires that the victim have a head, a functioning head. Brother, halis brother, hallis brother. Hallis says that almost sarcastically, go ahead. I'm sorry. Jamie, no
+[0:59:40] Speaker 2: Hornsby was just being dumb and being like, but could we just take the goop and like play? Doh,
+[0:59:46] Ian Lurie: yeah, Halas. Halas looks at you and then looks at cravel and says, I'm not sure these questions are appropriate in front of the other brethren, but I will tell you that if we could have asked them, we would have none of these. None of the dead have the ability to speak using our magics.
+[1:00:17] Speaker 2: That implies it's an intentional pattern,
+[1:00:22] Ian Lurie: possibly, but also possibly they were saying. And this is, again, this is brother, hallis. He keeps jumping in before the High hierophant can say anything. So the high higher fan will, like, open his mouth, and then Halas will say, possibly, but could also just be the nature of the wounds. And then
+[1:00:43] Speaker 13: Hornsby would like to incite this excitable man,
+[1:00:46] Ian Lurie: sure. And by the way, as you do that, Varon actually sort of puts his hand on house, his shoulder, and says, brother, it's, it's all right, I can answer these questions too.
+[1:00:57] Speaker 2: That's a dirty 20,
+[1:01:01] Ian Lurie: all right, hold on.
+[1:01:04] Speaker 1: I'm
+[1:01:26] Ian Lurie: um, so that's what you find from your insight check. And you can share, you can share that if you want to. I just,
+[1:01:36] Fancy Drak: I
+[1:01:37] Speaker 2: think Hornsby will dumbly say all of it out loud.
+[1:01:39] Ian Lurie: Okay, so Hornsby just says he doesn't,
+[1:01:42] Speaker 2: yeah,
+[1:01:43] Ian Lurie: he doesn't appear to be hiding anything. He's just very intense and very protective of Aaron.
+[1:01:51] Fancy Drak: Look at the high hierophant. I recognize that my empathy simulation has failed, and then I walk away.
+[1:01:59] Ian Lurie: Okay,
+[1:02:00] Speaker 9: I would like,
+[1:02:03] Speaker 2: God, he's looking for a tub. Someone stop him.
+[1:02:05] Speaker 4: I would like to investigate the body like rubbish, through the pockets and all the all those kind of things.
+[1:02:14] Ian Lurie: Okay,
+[1:02:16] Speaker 2: up now that's not the face.
+[1:02:20] Ian Lurie: No pockets. He's wearing robes. Give me
+[1:02:26] Speaker 1: an
+[1:02:26] Ian Lurie: investigation. Check
+[1:02:27] Speaker 4: that's a 19
+[1:02:29] Ian Lurie: All right, you don't find anything on the body. You don't find a thing of retro sours, either the taste
+[1:02:40] Speaker 2: of 1998 Oh,
+[1:02:41] Ian Lurie: nice.
+[1:02:47] Speaker 4: Scraps of paper. Is he wearing his like his holy symbol? Yes,
+[1:02:54] Ian Lurie: he's got his holy symbol. He has a prayer book which is quite bloody at this point, the holy symbol looks like it got damaged as he fell. But other than that, nothing on him
+[1:03:10] Speaker 4: does. Does the book contain anything in it like, you know, hand drawn nudie pictures like a whole for for
+[1:03:24] Speaker 2: No, I want to see I have questions.
+[1:03:29] Ian Lurie: You don't know. There's nothing unusual. You pick up the book and you leaf through it, and actually, Hellas, again, looks a little offended by that. Everyone else is sort of dispersed at this point, except him and Baron. But no, there's nothing unusual in the book.
+[1:03:48] Speaker 4: Okay? And then I, I rubbed my finger down the spine, and it, it through some of the blood, and then I cast presentation on the book to clean it up, okay, and hand it to the mirror.
+[1:04:15] Ian Lurie: Mirror has already moved off,
+[1:04:17] Speaker 4: okay. Well, then whoever is, yeah, whoever's there,
+[1:04:19] Ian Lurie: he handed to Halas. Actually takes her finger and looks
+[1:04:23] Speaker 4: grateful, and then I look away and I lick the blood off my finger.
+[1:04:34] Ian Lurie: Okay.
+[1:04:38] Speaker 2: Does it have any
+[1:04:40] Speaker 4: taste or anything, anything different from blood that I've tasted before
+[1:04:44] Ian Lurie: tastes like blood?
+[1:04:47] Speaker 5: No, the fuck you're gonna be able to say blood I've tasted before and get the fuck away from that. I love you. I'm gonna mute now and keep watching.
+[1:05:05] Speaker 1: I warned you you weren't gonna like Ramos,
+[1:05:19] Speaker 5: as everyone is investigating this room. Jaxxson is going to take this opportunity to just walk away and go look at the first body that was out and what it was outside, right? It
+[1:05:34] Ian Lurie: was in the garden.
+[1:05:35] Speaker 5: Yes, yeah. He's going to go out to the garden and just just look around like he wants to make sure that we're not doing anything to disrespect these people again, and that might be having to look at the bodies out of their purview.
+[1:05:49] Ian Lurie: Okay, so do you want to look at his body, or do you want to look at the site that of his murder?
+[1:05:55] Speaker 5: Look at the site first and then zero in on Okay, after
+[1:05:59] Ian Lurie: Okay. Teapot
+[1:06:00] Fancy Drak: is going to go with Jaxxson. Jaxxson, if you split away from the party, there are 47 options. There are 47 ways that this could end. I'm going to go with you to reduce those chances. I don't think this is a good idea for you to go along.
+[1:06:17] Speaker 4: Hey, teapot, would you mind going with him? Please keep him company. Help him out, do some investigating and some system reboots and stuff like
+[1:06:24] Speaker 1: that.
+[1:06:24] Fancy Drak: Sure thing,
+[1:06:25] Speaker 2: I imagine Creyvel actually walked into the other room following you two to say that walked back, still, just squatting next to the body, going, hmm,
+[1:06:39] Speaker 4: Hornsby, see anything? Do you see anything? Any? You're pretty knowledgeable when it comes to blood splatters and things like that. Do you see any like moths, butterflies? Do you see any swirling, you know symbols,
+[1:06:56] Speaker 2: two dancing pelicans, right here.
+[1:07:00] Speaker 4: Dancing pelicans. Okay, all right, what's a beauty pelican?
+[1:07:04] Ian Lurie: You Creyvel, do not see two dancing pelicans. You know what a pelican is, but you do not see any dancing pelicans.
+[1:07:11] Speaker 4: Should we check the bell tower just to see if there's anything up there? I
+[1:07:23] Speaker 14: I'm not very good at math, but didn't we have more?
+[1:07:30] Speaker 4: More? What more bodies?
+[1:07:34] Speaker 2: No more people we were with. We lost the two of them. We're not very good at this.
+[1:07:39] Speaker 4: They're gonna go take a look outside at the herbalist. I think
+[1:07:46] Fancy Drak: so. Jaxxson, I have a question that bordered on personal.
+[1:07:52] Speaker 5: I may have an answer that borders on No, but go right ahead.
+[1:07:58] Fancy Drak: I do not. I do not have very much experience with tieflings? Is it common to taste blood among biologics?
+[1:08:10] Speaker 5: Among all of us? No, but there are some of us who you know like different things, and I hope that you take it as part of your programming, not to kink shame what someone else likes
+[1:08:28] Fancy Drak: as a construct. I don't have concepts of flavor. I don't need to consume things, dead things to survive. And I will make a note that the consumption of things that are dead is is a kink that most biologics share. Thank you. Thank you for adding to my programming,
+[1:08:54] Speaker 1: of
+[1:08:54] Speaker 5: course. Well, just to give it like this, when you're taking in different ideas to learn from biologics, as you call us. Sometimes you'll take in that information and you'll use it. I've seen you do it when you've learned different investigative patterns from people, and you've taken them in and used them in the next investigation we've had. And you've done that. And sometimes I've seen it where someone has given you a piece of advice, you've used it, you didn't like the outcome, and you've taken it and you never used it again. That's how some people deal with flavor. So you do understand the concept of flavor. It's just a little different for you than it is for the rest of us.
+[1:09:35] Fancy Drak: I appreciate your metaphor.
+[1:09:38] Speaker 5: Of course, always happy to help you've been a good friend, and I am glad that you're accompanying me on our investigation over here. Thank you, and Pat's on the back.
+[1:09:50] Ian Lurie: So while you're talking, you make your way out to the god damn it. You walk out to the cloister garden. And the garden is, is very pretty. It's It's definitely old. The flagstones are not perfectly flat. There's some grass. You can tell that people have deliberately planted it to look almost relaxed and relaxing. So there's, there's time that grows up between the flagstones. There's Ivy and a palliate trees all along the walls here, and you walk over to the one of the sheds, an old stone shed, and there's still a ladder leaning up against the shed and on the ground, you can see the blood splattered On the flagstones where brother Alice must have been killed.
+[1:10:43] Speaker 5: First, I want to want to look at the ladder and see if anyone tampered with it, in case brother out went up it to check something on the roof or anything
+[1:11:01] Ian Lurie: you don't even have to Make an investigation check for this. It looks perfectly solid. There's nothing weird about the ladder. It's intact. It's very solid. It's even tied off against the roof, like it should be, you know, nothing, nothing out of order there.
+[1:11:18] Speaker 5: Okay, then I want to investigate the ground where I see the blood splatter to see what is left there. That any story it can tell me.
+[1:11:26] Ian Lurie: Okay, yeah, give me an investigation
+[1:11:28] Fancy Drak: check I'm assist with that.
+[1:11:30] Ian Lurie: Okay,
+[1:11:35] Speaker 5: thank you for that assist. That's going to be a dirty 20.
+[1:11:38] Ian Lurie: Okay,
+[1:11:39] Speaker 1: it would
+[1:11:40] Speaker 5: have been a natural one.
+[1:11:41] Ian Lurie: Do? One. You can tell from the splatter that he was killed. He was not killed on the ladder. He was killed at the foot of it, because, assuming that he was struck in a similar manner, the blood is it the blood stains, which have been partly cleaned up, but they fan out along the ground at the foot of the ladder. They're not up against the side of the shed, which is what you would expect if someone had hit him. It's a little hard to tell much else without seeing the body, but that's that's what you see here. So it looks like he was just someone just clocked him while he was standing there.
+[1:12:20] Speaker 5: All right, Jaxxson is going to call over TPT and say, Hey, TP come here. I want to, want to show you something. And he just walks him through this scene. And, you know, just this, Hey, this is what you need to look for. And these are the things that I see. And, you know, but tell me what, what, what do you see in this whole scene? And just trying to, like, keep teaching him.
+[1:12:42] Ian Lurie: Awesome. It's a good way to role play the the assist, by the way. I like that.
+[1:12:47] Fancy Drak: Yeah. So it seems to me that, based off of your expertise and experience, that this person was killed in a very, very similar way that the other person was. Do you think that we need to collect one more data points from the kitchen to see if this is a trend and not just a line.
+[1:13:08] Speaker 5: Yes, I would say if we can collect one more data point. But also one thing I would remind you, always have soft eyes just because you've collected data points that point in one direction, don't let that make you make a notion about what could go on, because sometimes there are some people who are smart and they'll point all the evidence in one direction, so you miss where they're really going or what really happens. So remember, just because you have all these pieces of evidence, always take a step back with soft eyes and say, Is this really what's happening? Or is this what someone wants me to believe in order to not look where they're really going?
+[1:13:48] Fancy Drak: My head cocks a little bit and you see the little glowing things that simulate eyes just kind of go out of focus a little
+[1:14:00] Speaker 5: bit. All right? Well, I think we've gotten everything we can here. Let's go back and join our friends and see what goodies they found.
+[1:14:07] Ian Lurie: I agree. So as you walk back towards them for the other two of you, Veron says, I'm available to help you however I can, but I do have other duties to attend to. Please come find me if you need me for anything.
+[1:14:22] Speaker 2: Do you keep big hammers around?
+[1:14:32] Ian Lurie: We have the hand of Amoth.
+[1:14:35] Speaker 2: Ah. Is it about? Yay big.
+[1:14:41] Ian Lurie: I'll shoot. I'll show you. He leads you to the reliquary, which is just off the side of the nave.
+[1:14:50] Speaker 1: Lick
+[1:14:50] Speaker 14: it, see if it tastes the same.
+[1:14:53] Ian Lurie: They're probably not going to let you do that. There's a glass case in the reliquary, and it displays the hand of Amoth, which is this mithril and gold Mall. It was forged at the founding of the temple. So it's very old. It's used for, he says, it's used for ceremonial blessings. It's resting on a velvet cushion. It looks, you know, it's gorgeous. It's old. And he goes over to to he goes over there, and he pulls a key out of his pocket or off his belt, and he goes to unlock it, and he stops, as it's strange, it's open, and he pulls the doors open, and he says, this is the largest, heaviest object we probably have in the temple.
+[1:15:51] Speaker 2: I have to wait to find out if our friend has a black light function. Can any of you craft luminal?
+[1:16:01] Ian Lurie: No, you can't, you
+[1:16:02] Fancy Drak: can
+[1:16:03] Ian Lurie: just take a close look, but you guys join,
+[1:16:05] Speaker 2: and I try and see if there's blood on. Yeah,
+[1:16:08] Ian Lurie: you guys join,
+[1:16:10] Fancy Drak: like revenue,
+[1:16:12] Ian Lurie: sorry, let me. Let me go first. You guys join them as they are standing in the reliquary. Go ahead. JP,
+[1:16:20] Fancy Drak: I do not I can simulate Ray flights, but that's it all. That's it.
+[1:16:25] Ian Lurie: So give me an investigation. Check Hornsby,
+[1:16:33] Speaker 2: natural 20. Okay, so it's 19 because it's a negative one. That's smart.
+[1:16:41] Ian Lurie: So you go and take a you're looking at it, and you're very well acquainted with weapons that have been used in combat,
+[1:16:50] Speaker 2: and I love them all,
+[1:16:51] Ian Lurie: particularly Mall. See, this mall is almost as big as you are, but particularly malls, you know, as weapons go, they're one of your favorites. And as you're looking, you actually do see that's a little dry blood in the inlaid grooves in the head. And you can see it because of the myth for a gold and it kind of it. It's just like I said, it's in some of the really ornate rune work and grooves in the head of the mall itself. Just the smallest amount.
+[1:17:24] Speaker 2: So Hornsby will now use press digitization to make a poor version of a pipe and say, I found the murder weapon.
+[1:17:35] Ian Lurie: Heyla says, I must insist that you treat this setting and this item with more dignity. This is one of the highest holy symbols of Amoth, and perhaps it is the murder weapon. But I must ask that you not jest. And varen, I
+[1:17:56] Speaker 2: would never smoke in here. It's magic. It's fine.
+[1:17:59] Ian Lurie: And varen, again, puts his hand on on houses shoulder and says, brother Hollis, perhaps you should go attend to some of the duties that I It sounds it seems like I'm going to be here for a while. Perhaps you can go find the initiates and see to the afternoon's prayers. And hallis looks a little put off, but says, Yes, of course, sir.
+[1:18:22] Speaker 2: Wait, what was the one that just yelled at me? That
+[1:18:24] Ian Lurie: was Brother Ian's. He's the one who's been kind of defensive and clearly very protective. Okay, Hornsby
+[1:18:30] Speaker 2: actually wants to try and get a little bit scary right now and be like you hold right there, and a little bit intimidating, because I don't think you're acting right.
+[1:18:38] Ian Lurie: Okay, give me an intimidation check.
+[1:18:44] Speaker 2: Ooh, damn okay, it's a great dice night, 17,
+[1:18:49] Ian Lurie: okay. Um, hallis actually doesn't look that intimidated. Um, he says, You need to understand, I am not saying these things to be difficult or to obstruct you, but you are in a temple of Amoth, and you will observe and attend to the dignity of this place. I will not and the high the high hierophant, who has been very restrained thus far, will also not tolerate any insult to the dignity of this place and your behavior verges on insult. Please accept us not as me speaking in anger, but me speaking as a representative of the faith.
+[1:19:40] Speaker 4: My apologies, Brother, brother hallis. And
+[1:19:44] Ian Lurie: with that he turns, he turns and walks off to attend to his duties.
+[1:19:54] Speaker 5: Jaxxson is going to walk over to the mall and just not touch it or anything, but get as close as you can to look at the blood in the grooves and see if there's any hair or human detritus that's been left in there that he can sort of really tell if this has been used recently, or if this may be a relic of olden times or A myth.
+[1:20:20] Ian Lurie: Okay, give me an investigation check with advantage.
+[1:20:23] Speaker 5: Awesome. That's going to be a 15.
+[1:20:31] Ian Lurie: Okay, there's nothing else on the mace, but the blood does look to be fairly recent. You know, it doesn't have that really brown look of really old blood. It looks like it looks like someone recently cleaned the mace and missed this.
+[1:20:48] Speaker 4: And when, when Creyvel looks at the blood, how tasty does it look?
+[1:20:52] Ian Lurie: Looks pretty tasty.
+[1:20:54] Speaker 4: And I want to ask the hierophant Veron, who who all has keys to this case,
+[1:21:04] Ian Lurie: only myself and brother, hallis.
+[1:21:07] Speaker 4: And how much does this, does this mall weigh?
+[1:21:14] Ian Lurie: He takes it out. He says, like, how does
+[1:21:17] Speaker 4: like, How heavy is it? I'm asking personally, just to
+[1:21:20] Ian Lurie: um, it probably weighs about 30 pounds.
+[1:21:24] Speaker 4: Okay, sounds pretty good. Yeah,
+[1:21:25] Ian Lurie: he sets it back in the case.
+[1:21:30] Speaker 4: Okay, so only you and Brother. Brother hallis have keys to it. Interesting. And how often does this? Does this the mall get cleaned
+[1:21:44] Ian Lurie: well. It's cleaned with holy water for ceremonies and ceremonial blessings. We use it perhaps a dozen times a year, plus at any special events. If we marry two people here, we'll use it for that. You know, in case anyone says or forever, hold your peace. We just kill them with a no. He says. We use it at on specific holidays, and we use it for some ceremonies.
+[1:22:18] Speaker 4: Linda, do you recall the last time you used it for for an event,
+[1:22:23] Ian Lurie: it would have been at the beginning of harvest tide, which would have been two weeks ago.
+[1:22:30] Speaker 4: Okay, so the blood on it is less than two weeks old, unless your team did not do such a great job. But this place looks immaculate. Size one that they did a great job.
+[1:22:42] Ian Lurie: This weapon has not been what raised in anger in hundreds of years. Well, that, that I know of, it has not been raised in anger.
+[1:22:50] Speaker 1: It
+[1:22:52] Ian Lurie: is only supposed to be used in battle at the time of greatest need of silver and Amoth.
+[1:23:00] Speaker 5: Do you still have the other body somewhere around that we can see? I just want to satisfy a curiosity that I have.
+[1:23:09] Ian Lurie: Yes, they are both in the hospital. It's around the back. I can take you there.
+[1:23:17] Speaker 5: Lead investigator, would you mind if we checked it out?
+[1:23:21] Speaker 4: Yes, I would like to satisfy a curiosity as well.
+[1:23:28] Ian Lurie: You're you walk through the back, through the nave and around to the back through the cloister gardens, and you're about to step into the hospital where the bodies are, and you hear the bell toll just once. And it's kind of strange, because it's off hour, so it's off cadence. And there's a novice who's sweeping nearby and just kind of looks up and frowns, looks back down. You hear them just kind of mutter, it does that sometimes when the wind's wrong. I um,
+[1:24:03] Speaker 4: when the wind is wrong?
+[1:24:05] Ian Lurie: Yeah, you know, if the wind's blowing the wrong way, it'll earth the wind gusts, it'll make the bell ring. That seems to be what they're saying. And then you guys walk into the hospital
+[1:24:17] Speaker 4: just
+[1:24:21] Speaker 2: real quick
+[1:24:21] Speaker 4: when you were outside, was it windy? Teapot, was it windy when you were outside?
+[1:24:29] Speaker 1: No,
+[1:24:30] Ian Lurie: not a breath of wind. I
+[1:24:32] Fancy Drak: just not recall.
+[1:24:33] Ian Lurie: Yeah, no, not a breath of wind
+[1:24:37] Speaker 2: before we walk in real quick. And I just ask the novice, when the last time they've heard it do that was,
+[1:24:44] Ian Lurie: well, then actually, that's when the novice says, sometimes, when the wind's wrong, it happens. Occasionally, it happens from time
+[1:24:50] Speaker 1: to time.
+[1:24:51] Speaker 2: When was the last time you heard
+[1:24:52] Speaker 1: it?
+[1:24:54] Ian Lurie: I a couple of days ago,
+[1:25:06] Speaker 5: before the murders.
+[1:25:12] Ian Lurie: I'm not sure I don't the bell tolling off hour is not necessarily that. It's not, it's unremarkable. I wouldn't have given me pause
+[1:25:23] Speaker 2: when there's no wind.
+[1:25:25] Speaker 12: He looks
+[1:25:26] Ian Lurie: around now and he looks a little disconcerted. He says, that is that, yes, you're right.
+[1:25:33] Speaker 4: What's before we go check the bodies Jaxxson and TP, 114838, I eight. Would you guys mind going out and checking the bottom of the bell tower and see if there's anything at the base of it? And Hornsby, would you mind accompany me up to the top of the bell tower see if there's maybe some more blood up there for you to look
+[1:25:57] Speaker 5: at on it? Boss
+[1:25:58] Fancy Drak: are you may remind you that we are splitting the party again, and we are at a 37% chance of being attacked separately.
+[1:26:10] Speaker 1: Yes,
+[1:26:11] Fancy Drak: are you sure that understood
+[1:26:13] Speaker 4: we at the top, you're going to be at the bottom. We'll be, we'll be able to see each other. We'll be, it'll be good.
+[1:26:20] Fancy Drak: I will take notes, but this is highly unusual and generally against good technical procedures.
+[1:26:29] Speaker 5: ATP, that's the thing about being good investigator, soft
+[1:26:32] Speaker 1: eyes.
+[1:26:32] Fancy Drak: Soft eyes,
+[1:26:34] Speaker 5: no, no, no. This is a different lesson, but I like that you were called soft eyes, and you're bringing it forward. That's great. But in this case, the book is there for nine situations out of 10, but sometimes in that final situation, you have to do everything against the book because that's the right decision. It's so confusing being a biologic. I
+[1:27:03] Fancy Drak: I don't like this,
+[1:27:05] Speaker 5: neither do a lot of us. But
+[1:27:07] Ian Lurie: I was just about to say it's a voice in my head at least three times a day.
+[1:27:11] Speaker 5: This is this is this is this is the life that we have been given, and this, right now, is the life that you have been chosen. And in the end, when you take all the information that you've been given from this, you have to ask yourself, do you continue to choose to live this way? Because you, unlike the rest of us, can go off and do something else. We are here, living these lives. So that's where you're blessed. That's where you have a decision. Let us have
+[1:27:45] Fancy Drak: status. 417, expectation failed.
+[1:27:50] Speaker 5: Damn. Even in DMD, I'm killing expectations.
+[1:27:56] Speaker 2: What is it? 620, is all the fucks.
+[1:28:00] Ian Lurie: 499, is I give up?
+[1:28:02] Speaker 2: Yep,
+[1:28:06] Fancy Drak: very well, we will, we will go to the bottom and they will go to the top.
+[1:28:12] Ian Lurie: Okay,
+[1:28:13] Speaker 2: so bad, I can get to the bottom real fast.
+[1:28:15] Fancy Drak: Thank you for helping me. Jaxxson, you are the best Ranger. Oh, thank you, buddy. I appreciate that.
+[1:28:26] Ian Lurie: So folks at the bottom, why don't you actually, why don't you just, each pair, give me an investigation check and we'll see if you find anything.
+[1:28:36] Fancy Drak: Keep my assist. Okay.
+[1:28:40] Speaker 2: Yeah, same. Easier.
+[1:28:43] Speaker 5: 1623,
+[1:28:49] Ian Lurie: neither do you find anything remarkable. The bell looks normal, nothing weird going on there. There's no sign of any fighting or struggle at the top or the bottom. There's nobody there, which makes sense because it is 40 minutes until the hour, so someone would not go up there and ring the bell for another 40 minutes.
+[1:29:13] Speaker 4: No, like bird that crashed into it laying on the ground. There's no. There's no. It still has the donger thing in the middle
+[1:29:24] Ian Lurie: of it's the ringer. Yes,
+[1:29:26] Fancy Drak: the dumbbell, uviola, the Dong
+[1:29:28] Speaker 1: is
+[1:29:28] Ian Lurie: still hanging there. Yes,
+[1:29:30] Speaker 4: no any wind.
+[1:29:33] Ian Lurie: The hammer is still hanging there. There is no wind up here,
+[1:29:36] Speaker 1: no wind.
+[1:29:41] Speaker 4: Go ahead. Go
+[1:29:42] Speaker 2: ahead. Jane, so rock gnomes can make tiny clockwork devices, and it says, you know, it's activated by touching with a bonus action. Could one, in theory, be set up with, like a little trip wire to make a noise if someone goes up there or something?
+[1:29:56] Ian Lurie: I would let you create one that just sits there, and if someone steps on it. It's,
+[1:30:02] Speaker 1: yeah,
+[1:30:02] Ian Lurie: so no trip wire. But if someone happened to step and it's, you know, the stairs are only about three feet wide, so if you put it, there's a fair chance it's going to get stepped
+[1:30:10] Speaker 2: on. Oh, I'll just set one of those right there.
+[1:30:12] Ian Lurie: Okay, you just wanted to make a loud noise if someone
+[1:30:16] Speaker 1: steps, yeah, okay.
+[1:30:17] Speaker 2: It takes me an action to create a tiny clockwork device.
+[1:30:21] Ian Lurie: How long does it last?
+[1:30:29] Speaker 2: They fall apart after eight hours.
+[1:30:31] Ian Lurie: Okay, cool.
+[1:30:39] Speaker 5: All right, so I guess let's go investigate the bodies.
+[1:30:44] Ian Lurie: Okay,
+[1:30:45] Speaker 4: now this just before we leave the tower. Does it look like the tower is only big enough for stairs and the bell at the top?
+[1:30:55] Ian Lurie: Yeah. I mean, there's room to move around the bell, right? Because there's a there's a huge rope hanging down from the bell, and you can reach and grab the rope and ring the bell. But it's not like, it's not spacious up here.
+[1:31:07] Speaker 4: Okay, I was more inclined to wonder if there would be, like a if there's enough room for like a secret door, secret,
+[1:31:14] Ian Lurie: oh, never, you don't think so. And it's all solid stone, okay, it's just, it's not a secret door. Ish kind of place in crevels perception, Okay,
+[1:31:27] Speaker 4: should we go look at the bodies?
+[1:31:35] Ian Lurie: Okay, going looking at the bodies. I'm gonna makes a little bit easier, because you've been studying these things. Now, you look at Alice, he's the one who died in the garden. He appears to have been struck from the front
+[1:31:56] Speaker 4: and defensive
+[1:31:58] Speaker 2: wounds,
+[1:31:58] Fancy Drak: Nope,
+[1:32:00] Speaker 2: okay. They're being attacked by something invisible,
+[1:32:07] Ian Lurie: or so suddenly that they don't have time to react.
+[1:32:11] Speaker 4: Does the body look like he it was? It died on the ground or on the roof and maybe fell off.
+[1:32:23] Ian Lurie: Give me an investigation, check.
+[1:32:30] Speaker 4: 16,
+[1:32:31] Ian Lurie: okay, definitely struck, definitely did not fall off of anything. There's no signs of that. But as you're looking, you actually notice in the wound, a couple of tiny flecks of some kind of metal. And you take some tweezers or something, and you pull them out, and it's some tiny flecks of maybe inlaid silver and gold leaf.
+[1:33:00] Speaker 4: And did the mall have silver and gold?
+[1:33:02] Ian Lurie: Yes, and it's it all of that, all that fine rune work and engraving that's all done in silver and gold. The rest of it is a myth row.
+[1:33:11] Speaker 4: So I took out my thieves tool, got some little pinchers out of there,
+[1:33:17] Speaker 1: pulled
+[1:33:18] Speaker 4: some of the stuff out. Stick one on my tongue. Tasted it the the wound look like the same roughly size and dimensions of the other wound. Yeah.
+[1:33:35] Ian Lurie: I mean, it's it. It made a complete ruin of his head. I mean, it looks like he was hit with a 30 pound Maul, right? Just completely destroyed,
+[1:33:46] Speaker 2: like the one we just found with blood on it.
+[1:33:49] Fancy Drak: Creyvel, we need to look at the other, the other. Data, Data, dead person, not,
+[1:33:57] Speaker 2: not
+[1:33:58] Fancy Drak: not. Data point
+[1:34:00] Speaker 4: that is a good idea. Tp, how does the how does the blood and gold taste? By the way,
+[1:34:12] Ian Lurie: kind of coppery.
+[1:34:15] Speaker 1: Okay,
+[1:34:16] Speaker 2: I was gonna guess metallic.
+[1:34:20] Ian Lurie: So sister lenya's body is right next to his. She was struck from behind. And other than that, nothing remarkable an older woman, she has, if you look looking at her fingers, she has ground up bits of plant matter, which she's an herbalist. So that makes certain amount of sense. Her wounds are particularly gruesome. Maybe just because she was older, maybe because she was seated, you're not sure, but her head was basically obliterated, like it's there's still something there, but not much.
+[1:35:01] Speaker 4: And I do want to ruffle through their clothes and things,
+[1:35:07] Ian Lurie: okay? You don't find any Well, actually, give me an investigation.
+[1:35:16] Speaker 4: Check that is a 12,
+[1:35:19] Ian Lurie: okay, you don't find anything remarkable. Again, they both have their holy symbols.
+[1:35:24] Speaker 2: Have we established any kind of connection between them other than they all happen to be here? Are they from
+[1:35:31] Ian Lurie: nothing, nothing that you know of? No, if
+[1:35:42] Fancy Drak: I remember correctly, the the connections that they all have is that they that they all live in very similar and not cramped, but very close quarters. And so the interactions between them would be so would be fairly frequent. And there may not be a pattern that we can rather define.
+[1:36:10] Speaker 4: Brother Alos, who was found in the garden. He lived, he stayed in the common dorm. Sister Elenia and brother alien, each had a small cell of their own,
+[1:36:25] Ian Lurie: correct,
+[1:36:26] Speaker 4: which we will
+[1:36:28] Ian Lurie: still in pretty close quarters. But they didn't actually all sleep in the same
+[1:36:32] Speaker 14: room, or did they?
+[1:36:36] Ian Lurie: Maybe they're part of poly cool, you know,
+[1:36:38] Speaker 2: polycule one south. Fill them all
+[1:36:46] Ian Lurie: with them,
+[1:36:47] Speaker 1: all
+[1:36:48] Speaker 4: their their fingers and fingernails. You said sister had like dirt under her nails, kind of a thing from working in the garden. What about the other one
+[1:37:02] Ian Lurie: similar, you know, kind of the wear and tear of someone who did manual labor every day, um, nothing that unusual,
+[1:37:10] Speaker 4: no, like scraps of hair or
+[1:37:13] Ian Lurie: no
+[1:37:14] Speaker 4: red skin or, okay,
+[1:37:15] Ian Lurie: and give me an invest Actually, everyone, give me an investigation check, because you're all except Hornsby, why don't you give me a survival check? Because you're all familiar with the use of weapons. So
+[1:37:29] Speaker 4: 16,
+[1:37:30] Ian Lurie: okay, five,
+[1:37:32] Speaker 5: five,
+[1:37:33] Ian Lurie: right.
+[1:37:33] Speaker 5: 22,
+[1:37:35] Ian Lurie: okay.
+[1:37:36] Speaker 2: 17,
+[1:37:37] Ian Lurie: all right. Jaxxson, you know that if they were struck by a large, heavy object, there'd be two possible scenarios. One would be defensive wounds, like their hands are crushed. The other would be no wounds at all, because the most they would have managed would have been to grab the weapon. So in that case, you know, if they were killed by something blunt, then even if they saw it coming, there might not be defensive wounds. Yeah, the only possibility would be if they went like this and it smashed down between their arms.
+[1:38:14] Speaker 2: Well, even then, wouldn't the arms? We would see the arms be broken in that scenario, and it would soften the amount of impact to the face,
+[1:38:22] Ian Lurie: yeah.
+[1:38:28] Speaker 4: So they
+[1:38:30] Ian Lurie: so if anyone was trying to protect themselves, they failed.
+[1:38:36] Speaker 4: Let's any other, anybody else, want to do anything else here? I think maybe next and we go check out their individual rules.
+[1:38:45] Fancy Drak: Well, I think, I think at this point, according to the investigator handbook, the next thing we need to observe or find out would be some sort of motive. Were these people specially picked out to be murdered. Does anyone like
+[1:39:02] Speaker 2: a nonchalant serial killer? You know, like you
+[1:39:08] Fancy Drak: do, I'm not familiar with those two words put together, I will have to create a new entry for that
+[1:39:16] Speaker 2: damn question. Did that hair hierophant lock the case
+[1:39:25] Ian Lurie: as you walked away. Yes, he locked it
+[1:39:27] Speaker 2: okay, and did he answer? Who else had keys? Him and the brother,
+[1:39:32] Ian Lurie: hallis his deputy. Yeah, they're the only two people with keys. Yeah.
+[1:39:44] Speaker 2: The connection in these people now, yeah,
+[1:39:47] Speaker 4: yeah, how strong does that lock look?
+[1:39:51] Ian Lurie: I mean, it's, it's a padlock. It's, it's solid. It's like an old style padlock,
+[1:39:59] Speaker 4: if you had to put a number on it, say, just a DC number. How tricky would you think
+[1:40:05] Ian Lurie: you would you would not want to try to pick it. And you also know that when someone tries to pick a lock, there's usually some telltale signs. If you want, you can inspect the lock to see if anyone tried to
+[1:40:16] Speaker 4: that's probably a good I am proficient with thieves tools. Okay, so
+[1:40:19] Ian Lurie: why don't you give me a thieves tool roll.
+[1:40:22] Speaker 1: That's crap. That's like a fucking four or something.
+[1:40:29] Ian Lurie: Okay, um, it does not look like it's been forced or anyone tried to do anything with it. It looks like normal wear and tear from a set
+[1:40:36] Speaker 1: of keys. Okay,
+[1:40:37] Speaker 2: yeah, because the jerk killed the people. He opened the box and took them all out. I'm the dumb one guys. I think I figured it out.
+[1:40:45] Ian Lurie: As you guys walk out of the the hospital, you all are suddenly intensely cold for a moment and then warm again, even though it's you know it is, it is getting towards dusk. But this, this was like icy cold, and you're, you're in early summer here, so that doesn't necessarily make
+[1:41:11] Speaker 1: sense, and
+[1:41:16] Ian Lurie: then it immediately goes away.
+[1:41:17] Speaker 5: TP, wouldn't have felt it, though, right?
+[1:41:21] Fancy Drak: My glass dogged up a little
+[1:41:23] Speaker 1: bit
+[1:41:24] Ian Lurie: now. Tp, he would still feel it. He was still feeling Yeah,
+[1:41:28] Fancy Drak: I like environmental awareness, but I take the back of creyvels cape and just,
+[1:41:37] Speaker 4: kind of just press the dig station and clean that up.
+[1:41:43] Speaker 2: I like to imagine the crevel actually is like the full Sherlock Holmes cape and Jack like cape and hat,
+[1:41:51] Speaker 5: all right. JP, now, did you feel that cold?
+[1:41:57] Fancy Drak: There was a variation in temperature that I felt.
+[1:42:00] Speaker 5: Well, let me ask you a question. What does the investigators handbook say about a random cold feeling that goes over you when you're investigating something? Is there anything in the handbook about that?
+[1:42:18] Speaker 1: Hold on. I
+[1:42:23] Fancy Drak: um.
+[1:42:24] Speaker 5: JP, if you literally wrote a fucking handbook between yesterday when Ian asked us to do this, and
+[1:42:29] Speaker 2: today,
+[1:42:30] Speaker 5: I'm going to stand up and give you an applause.
+[1:42:32] Ian Lurie: I'll be right back. Guys. Give me two seconds.
+[1:42:40] Fancy Drak: I'm going to give you a status 100 which means continue. It basically means like, hold on, and I'm going
+[1:42:56] Speaker 1: to
+[1:42:59] Fancy Drak: go, probably, ghosts,
+[1:43:02] Speaker 5: maybe. But remember when I told you that nine times out of 10 the handbook can help in that one time we have to go against the handbook. Now look at all the evidence and data points we've collected, and also take in that feeling we all just felt, and ask yourself, Does this feel like a normal investigation? Or does this feel like that one special case investigation?
+[1:43:30] Fancy Drak: I recognize that you are modulating your voice in a way that you would speak to a child.
+[1:43:39] Speaker 1: This is
+[1:43:40] Speaker 5: literally just how I talk,
+[1:43:42] Speaker 1: or
+[1:43:46] Speaker 2: if he's just gonna raise his hand and be like, is it, man, she's
+[1:43:52] Fancy Drak: the investigator's handbook has failed me. If
+[1:43:57] Ian Lurie: it is, I do not give first names.
+[1:44:00] Fancy Drak: I do not know what is happening.
+[1:44:02] Speaker 2: We have a handbook.
+[1:44:05] Speaker 5: Yes, we have a handbook. I know you're quite prone to losing yours, so he reaches into his back pocket. I brought an extra one, just because I knew that you might ask about it.
+[1:44:17] Speaker 2: Jaxxson is our crime solving scout master, and I love it.
+[1:44:21] Fancy Drak: It was given to us during our orientation.
+[1:44:24] Speaker 5: Now, TP, I'm sorry if you felt that I was modulating my voice in a way that I would speak to a child, but this is, unfortunately just the way that I sound. And when I'm asking questions, it can sound like I'm being disrespectful or talking down to you. So I will work on that. Thank you for providing that feedback. But no, I'm just really asking you questions because I enjoy your insight, and I really want you to learn and stay with us. And so I'm just, this is how I was taught, and this is the only way I know how to teach. Is just asking clarifying questions to see if you see what I see, or if you see something different, tell me, and maybe I'll learn something too
+[1:45:01] Fancy Drak: I understand. I will adjust my algorithm to to have a to have voice recognition, voice pattern recognition, so that I can understand that it is you speaking if I don't see you.
+[1:45:16] Speaker 5: Awesome. You see we look at that. We both just taught each other something, and that right there is true investigation. You investigated how I was feeling. I heard it, I investigated how you were feeling, and we came to a solution that's awesome.
+[1:45:31] Speaker 2: The real investigation is the friends we make along the way.
+[1:45:38] Speaker 5: Oh, see, look at that we're already getting closer.
+[1:45:44] Fancy Drak: Thank you. Hornsby, do
+[1:45:45] Speaker 1: you guys
+[1:45:46] Speaker 15: think this
+[1:45:46] Ian Lurie: is gonna save your if you guys think this is gonna save your asses at the end of this adventure, you are sadly mistaken.
+[1:45:52] Speaker 5: Oh no, brother, I've seen I'm
+[1:45:53] Speaker 16: just trying to
+[1:45:53] Speaker 5: ride this
+[1:45:54] Speaker 16: roller
+[1:45:55] Speaker 5: coaster till we all
+[1:45:56] Fancy Drak: we are upping the stakes and amplifying, amplifying the Hell yeah,
+[1:46:02] Speaker 5: when you kill us off, I want to see that single tier. Where
+[1:46:09] Ian Lurie: do you guys head next? Veran, by the way, varen says again, I must apologize, but I do have duties I have to attend to I can have sister Yura take you where you need to go, if you'd like,
+[1:46:29] Speaker 4: yeah, that's a good Where Did sister Mira go?
+[1:46:33] Ian Lurie: Acolyte Mira is, I'm not sure where she would be. She'd probably retire to the dormitory. Since she had late night duties,
+[1:46:43] Speaker 4: I thought she had early morning duties.
+[1:46:46] Ian Lurie: Well, yeah, she was up from, you know, 10pm to 5am
+[1:46:52] Speaker 4: Oh, okay, my bad. I thought she got up at three o'clock in the morning and then found the body.
+[1:46:58] Ian Lurie: No, no, no.
+[1:46:59] Speaker 4: God.
+[1:47:02] Ian Lurie: She says, he says, you can probably find her there.
+[1:47:09] Speaker 12: Yeah, think I want to talk to her again.
+[1:47:13] Ian Lurie: Okay, wait,
+[1:47:16] Speaker 4: what did you guys want to do? I'm sorry.
+[1:47:19] Speaker 1: I I
+[1:47:24] Speaker 5: legitimately think you had both ideas for what the next step in the investigation was going
+[1:47:28] Speaker 4: to be the rooms and talk to people
+[1:47:32] Speaker 5: the rooms and talk to yes acolyte, or they cancel it.
+[1:47:40] Ian Lurie: Okay?
+[1:47:45] Speaker 2: Our worst joke,
+[1:47:49] Speaker 5: yes, yes, it was, I was like, I was like, no one's gonna
+[1:47:52] Ian Lurie: Oh, okay, you know. And I haven't seen the acolyte yet, so I
+[1:47:57] Speaker 5: it's not great, but it wasn't bad enough that it should have been canceled after one season, also in knowing the fact that it was supposed to be a full Sith show. And then Disney told her, No, this is what you're going to do. And then they got mad at how people received it. I'm kind of pissed off about
+[1:48:18] Fancy Drak: Yeah, yeah, there were points of brilliance to that show.
+[1:48:21] Speaker 4: Oh, my God. The lightsaber scenes were amazing.
+[1:48:24] Ian Lurie: Okay, I gotta, I gotta watch it.
+[1:48:26] Speaker 2: I'm on, like, year eight of a five year sabbatical from Star Wars. Like, who got it?
+[1:48:35] Ian Lurie: I was just in Disneyland for May the fourth. So I, I feel like I have to steep myself in the culture a little bit. All right, you guys head over towards the dormitories, and actually, on the way, you run into acolyte Mira. She is, she is standing outside the door to the dormitories. Almost seems to be struggling with something, not not physically, but, you know, with herself, as she stands there, she's got a hand on the door jam, and you see, she kind of wants to go inside, but she just can't seem to do it. What would you guys like to do?
+[1:49:22] Speaker 4: Accolade, mira, may we have another word with you?
+[1:49:25] Ian Lurie: She starts violently, like she didn't hear you coming. And she says, of course, of course,
+[1:49:31] Speaker 4: you seem a little out of sorts. Or is everything okay?
+[1:49:40] Ian Lurie: Her eyes kind of well up, and she says, no, no, it is not okay.
+[1:49:48] Speaker 12: Um, three
+[1:49:48] Ian Lurie: of my friends are are dead. Yeah, I guess I see your point then, and I can't, I can't go back in that room,
+[1:49:59] Speaker 4: back in in the dormitory?
+[1:50:01] Ian Lurie: Yes,
+[1:50:02] Speaker 4: why? What's, what's, what's so, what's so powerful about the dormitory for you?
+[1:50:08] Ian Lurie: She kind of opens her mouth as if to say something, and she says it's it's not rational.
+[1:50:15] Speaker 4: Well, that's okay. A lot of a lot of my closest friends are not rational. So it's okay.
+[1:50:22] Ian Lurie: Give me a DC 12 persuasion check.
+[1:50:27] Fancy Drak: I hear that. I hear him say that I am.
+[1:50:34] Speaker 12: Are you fucking kidding me? That's an eight.
+[1:50:38] Ian Lurie: Okay? She she shakes her head, and she kind of she, she kind of swats tears out of her eyes. She says,
+[1:50:51] Speaker 4: Would you mind if I tried to calm you? Seems like maybe ground yourself a little magic.
+[1:51:04] Ian Lurie: Sometimes grief must be experienced. She says,
+[1:51:07] Speaker 4: Sure, this will just, this is more like a little sedative. Just might help you a little
+[1:51:11] Speaker 1: bit.
+[1:51:13] Ian Lurie: Give me another persuasion. Check.
+[1:51:15] Speaker 5: Damn. Bill Cosby, no means, no,
+[1:51:17] Ian Lurie: you're right.
+[1:51:20] Speaker 1: He
+[1:51:21] Speaker 2: just licked blood in the last room. I'm getting real worried.
+[1:51:23] Speaker 4: Okay, that's a natural 20.
+[1:51:25] Ian Lurie: Okay. She says, honestly, it would be a relief, yes.
+[1:51:31] Speaker 4: So I am going to cast friends on her. She has to sing the theme song for 20 minutes straight.
+[1:51:39] Ian Lurie: That's funny
+[1:51:42] Speaker 4: wisdom, save of 14, and then I'm natural
+[1:51:47] Ian Lurie: one. So no,
+[1:51:49] Speaker 4: okay, so she's charmed by me, and I'm trying to soothe her. It's gonna be okay. When I was talking to you earlier, you seemed like you were withholding something, or maybe there was something on the tip of your tongue that you really wanted to get out. And so what's, what's, what's going on?
+[1:52:14] Ian Lurie: She lowers her voice, and she looks around. She looks behind you. She looks behind herself into the dormitory, and she says, she actually turns and puts her back to the wall and faces you all, her eyes are still. She actually starts crying. She says,
+[1:52:35] Speaker 4: It's okay.
+[1:52:36] Ian Lurie: There's something I did not share when I found brother Kalen first. I saw Varon standing over him, told you, and when I he did not know that I was there, and he turned and walked away. And then I went up to his body. What if he did this? What? What if the highest representative of Amoth on praxia committed murder with a holy item? Couldn't that be could there be a purpose? Could there be a reason to it? Is it my right to interfere? If that's true,
+[1:53:18] Speaker 4: Amoth works in mysterious ways, it's going to be okay. Somehow, I don't know how, but somehow it's going to be okay.
+[1:53:28] Speaker 5: Um, when you saw a good brother standing over the body, did he have anything in his hand?
+[1:53:35] Speaker 1: Yep,
+[1:53:36] Ian Lurie: not that I remember. No. He was just,
+[1:53:39] Speaker 5: well, may I ask another question? Then, if you didn't see him with anything in his hand, how did you know that what happened was done with the holy weapon?
+[1:53:54] Speaker 17: I Okay,
+[1:54:05] Ian Lurie: that was actually a DM slip of the tongue, but that's good. You got him, you got me. She now, she really bursts into tears. She saw me. She says, I did see he was holding them all. He was holding the hand of Amoth.
+[1:54:23] Speaker 5: I'm gonna inside check the fuck out of this.
+[1:54:26] Ian Lurie: Yeah,
+[1:54:27] Speaker 5: sorry. That sounded hella disrespectful not to be to you. No, no, no, no, no, yeah, sometimes I shouldn't. I'm just like, Yo the tone on that was real bad. That's going to be a 15.
+[1:54:42] Ian Lurie: Okay? She's telling the truth. She's not trying to hide anything, right? Now, also looking at her, she would not be able to lift, if you think she may have done it, she would not be able to lift a 30 pound mace and bring it down the way that that killed those three people. Not unless she has some unknown reserve of strength, but she's, she's not if, if she is lying, she is a truly exceptional liar.
+[1:55:08] Speaker 4: So Mira. Thank you for being honest with us. Appreciate that. Now, why does this preclude you from going back into the dormitory? What is it just worrisome about that for you,
+[1:55:22] Ian Lurie: I'm afraid to sleep,
+[1:55:24] Speaker 12: just asleep. Okay,
+[1:55:28] Ian Lurie: now that I know this, if, if there is some divine purpose to this and I go to sleep, will I wake up? I don't know. Am I now by telling you this, did I just violate some precept or interfere with an essential plan of of Amoth? I don't know.
+[1:55:49] Speaker 2: Hornsby does a pat, pat on like the side of the knee. It's okay. No one's been killed in their bed yet.
+[1:56:00] Speaker 6: TPT,
+[1:56:01] Fancy Drak: I
+[1:56:01] Speaker 2: failed the wisdom role in it. Okay, I was trying.
+[1:56:03] Ian Lurie: Yeah, no, that's fair. That's fair.
+[1:56:04] Speaker 4: TPT, 1138, is there anything in the handbook about betrayal that she's talking about that you know of?
+[1:56:15] Fancy Drak: No, but Hornsby is technically correct.
+[1:56:18] Speaker 4: Yeah. Okay, you did. I
+[1:56:24] Speaker 2: the best type of correct
+[1:56:27] Ian Lurie: as you're talking, by the way, you are correct again as you're talking. By the way, it is now dark
+[1:56:34] Speaker 4: here. Have you told anybody else about this?
+[1:56:38] Ian Lurie: No, no, I've told no one.
+[1:56:41] Speaker 4: I think it's best that we keep this between ourselves for now, until our investigation is done. We don't want to get, you know, put the horse too far before the court cart thingy,
+[1:57:05] Speaker 2: the horse before the corpse,
+[1:57:07] Speaker 4: the horse before the corpse. Thank you.
+[1:57:11] Ian Lurie: She says, No, of course,
+[1:57:12] Speaker 4: okay, and I just gently rub her back in a really weird sort of way, and I'm
+[1:57:20] Ian Lurie: she looks uncomfortable, in spite of being charmed.
+[1:57:25] Speaker 2: I think, I think Jaxxson Hornsby both grab one of creyvels arms and just gently put them to his sides.
+[1:57:33] Speaker 5: She I was there with all the blood licking and shit that non consent is where I have
+[1:57:40] Ian Lurie: to forgetting a sensitivity training.
+[1:57:44] Speaker 4: To be fair, Creyvel has no empathy at all. He's not sympathetic. So any sort of sympathetic things
+[1:57:52] Speaker 2: intervene because we care. Strange man, yes,
+[1:57:57] Speaker 4: and it probably does come off very creepy. I'm sure of it.
+[1:58:00] Speaker 2: It does strange man
+[1:58:07] Speaker 8: is like a stick out
+[1:58:09] Speaker 4: near it. Do you have any reason to know why brother Alice Kaylin and sister Alina? Would they be connected in any sort of way that would maybe tie them together in this?
+[1:58:31] Speaker 2: Were they in a molecule with the leader? Is this a cult?
+[1:58:35] Ian Lurie: She lets out one last kind of shuddering sob, and she says, no, no, they. I mean, we have all been part of the church for some time, but there's no connection, aside from that
+[1:58:59] Speaker 4: amount of questions anybody else got anything?
+[1:59:05] Fancy Drak: Do you think we should do a stick out?
+[1:59:08] Speaker 1: He would
+[1:59:09] Speaker 2: already taken care of her if he knew that he she saw Is he around? Are we being watched?
+[1:59:15] Ian Lurie: No.
+[1:59:16] Speaker 4: Is she, she? She just saw him this morning, right?
+[1:59:23] Ian Lurie: Correct? The murder was this morning,
+[1:59:25] Speaker 4: so she hasn't he hasn't had time to probably, he hasn't had a night to do anything,
+[1:59:31] Ian Lurie: correct,
+[1:59:32] Speaker 1: but the
+[1:59:33] Ian Lurie: sun has just set, so
+[1:59:35] Speaker 4: taking her out to make sure she's makes it through the night is probably a good idea. But we still need to
+[1:59:40] Speaker 1: check
+[1:59:41] Speaker 2: the rooms. The one sister has a room. We should see if that room has a lock, and maybe have her stay
+[1:59:46] Ian Lurie: up in
+[1:59:46] Speaker 2: a different room tonight, just for fun.
+[1:59:49] Speaker 4: Well, she's dead
+[1:59:51] Speaker 10: to
+[1:59:51] Fancy Drak: sleep
+[1:59:52] Speaker 2: over with ghosts.
+[1:59:53] Speaker 4: And Mira is a she stays in the dorm, right?
+[1:59:59] Ian Lurie: Um, mirror
+[2:00:01] Speaker 4: acolyte, mira,
+[2:00:03] Ian Lurie: Acolyte. Mira has her own cell.
+[2:00:06] Speaker 4: Oh, I thought she was,
+[2:00:07] Ian Lurie: oh, wait, no, I'm sorry. No, she does not. Yes, she, she's, she is in the dorm.
+[2:00:12] Speaker 12: Okay,
+[2:00:14] Speaker 2: okay. Well, let's just have you come with us and we're gonna go check out the rooms and ones for sure, that one's okay, and maybe we can
+[2:00:21] Ian Lurie: she nods. She nods, anchor silly and says, yes, that would Yes. Thank you.
+[2:00:27] Speaker 4: Yeah. Since we're at the door, maybe you could show us brother Alice is where he stays first.
+[2:00:33] Ian Lurie: She takes you to his cell. It's it's really just off the side of the dorm. The cells are just small, private rooms for more season,
+[2:00:45] Speaker 4: doesn't he's he's an issue. It doesn't? He stay in the dorm?
+[2:00:49] Ian Lurie: Yes, I'm sorry, yes. Brother Kalen has his own cell. Brother Alice, yes, slept in one of the bunk beds.
+[2:01:00] Speaker 4: So does he a top or a bottom?
+[2:01:10] Speaker 1: Now you're
+[2:01:11] Speaker 5: getting too flagrant. Yo,
+[2:01:12] Ian Lurie: at his age, he was a bottom bunk sleeper.
+[2:01:16] Speaker 4: How old was Brother Alice? By the way,
+[2:01:18] Ian Lurie: brother Alice was probably in his 40s. Mr. Lennia was probably in her 70s, and brother Kaylin was probably in his early, early 20s,
+[2:01:29] Speaker 4: 70s, 20s.
+[2:01:33] Ian Lurie: So no real connection there either.
+[2:01:34] Speaker 1: When
+[2:01:38] Speaker 2: we walk by the girl's bunk, will take some pillows and make a sleeping person shape Scooby do
+[2:01:46] Speaker 1: this
+[2:01:46] Speaker 2: shit,
+[2:01:47] Ian Lurie: yeah, and
+[2:01:49] Speaker 4: then I guess we'll investigate the bed and his things.
+[2:01:53] Ian Lurie: Okay, um, you can give me a roll.
+[2:02:00] Speaker 4: That is a 23
+[2:02:02] Ian Lurie: you find a journal on gardening, some drawings of plants, things like that, but nothing else remarkable. The beds rumpled, you know, as if someone has just slept there, because it's only been a couple of nights
+[2:02:18] Speaker 4: and nobody touched his stuff. Doesn't
+[2:02:22] Ian Lurie: look like it, no,
+[2:02:24] Speaker 4: okay, is there any symbols or anything in the in the book?
+[2:02:32] Ian Lurie: Nothing beyond the normal, you know, etymology, symbols and things like that.
+[2:02:39] Speaker 1: Okay?
+[2:02:43] Speaker 4: Should we check out brother Caitlin's move now so
+[2:02:50] Speaker 12: that he's same thing. Investigation,
+[2:02:52] Ian Lurie: okay,
+[2:02:54] Fancy Drak: 18,
+[2:02:55] Ian Lurie: okay, you find an inlaid silver cup, which would be something he would probably use for ceremonies, and a small, a small, a very small prayer sort of nook to Amoth, and that's where the cup is sitting. And you know that as a as a junior cleric, he would probably do some prayers and personal ceremonies here in this room, you also find some writing materials, some ink, some paper, and a few books on a shelf.
+[2:03:35] Speaker 4: Anything unusual about those or stand out?
+[2:03:40] Ian Lurie: No, the books are histories and religious writings
+[2:03:43] Speaker 12: there.
+[2:03:45] Speaker 2: This one doesn't have any pictures.
+[2:03:48] Speaker 4: Mira does. Was it normal for brother Caitlin to have a cup in here?
+[2:03:58] Ian Lurie: Yes, that's a that's a normal ritual cup. All the all the junior clerics have them. Okay,
+[2:04:07] Speaker 5: Jaxxson would like to investigate the cup to see if there might be any trace evidence of anything he might have drank in it.
+[2:04:19] Ian Lurie: Okay, wow, give me a survival check. I would awesome. Or anything else wilderness related?
+[2:04:30] Speaker 2: Oh, can I assist you? I'm very good at survival.
+[2:04:34] Speaker 5: Awesome.
+[2:04:35] Speaker 14: And it's done by crouching next to you and going, hmm,
+[2:04:38] Speaker 5: thank you. That's going to make it an 18,
+[2:04:41] Ian Lurie: okay? No, it looks like there was wine in here. Not particularly good wine. From the smell of it,
+[2:04:49] Speaker 2: I smell notes of Mad Dog,
+[2:04:52] Ian Lurie: Thunderbird,
+[2:04:55] Fancy Drak: strawberry hill
+[2:04:56] Speaker 4: there. There's no pictures of little kids in these stick figured, little kids in these books are there?
+[2:05:03] Ian Lurie: No,
+[2:05:06] Speaker 4: it's good.
+[2:05:06] Ian Lurie: You mean, like with little labels saying this is how he touched me. No, there's nothing like that in there. Yes, I had to go there.
+[2:05:15] Speaker 2: I mean, I was just thinking to myself, how do we workshop a joke of going well, at least we know it's like Catholics.
+[2:05:20] Speaker 1: I Where
+[2:05:27] Ian Lurie: do you guys want to go next?
+[2:05:29] Speaker 4: Sister alidius or the herbalist, right? Oh,
+[2:05:32] Ian Lurie: yep,
+[2:05:33] Speaker 2: before we pop out, I'm just going to scope out this room, because I want to figure out which of the two would be more easy to fortify for our new friends, because Hornsby has taken a liking to her
+[2:05:44] Ian Lurie: so far. The cell, definitely, the cell has a small bar that can be used to seal the door, so, you know, for privacy, and it's, it's, you know, two stories up so there would be no way for someone to just kind of walk in. There's a small window, but not big enough for a person to get through cool so if you're, if you're going to, if she's going to take shelter somewhere tonight, that would be a good place.
+[2:06:08] Speaker 1: Do
+[2:06:11] Speaker 2: you want to drop her off in this room before we head down to the next and if we do, I'd like to make another little clockwork thing that if someone steps on we'll make a very loud noise and just set it right outside the door.
+[2:06:22] Ian Lurie: Can you have more than one at once?
+[2:06:24] Speaker 2: Yes, I can have three.
+[2:06:26] Speaker 18: Okay, cool.
+[2:06:32] Ian Lurie: She agrees she's exhausted.
+[2:06:42] Speaker 2: Hornsby will give him some of the puck, some of the snacks that Jaxxson gave him. Say, sleep well, do a salute and march away to go join a room.
+[2:06:52] Ian Lurie: You hear her latch the door behind you.
+[2:06:56] Speaker 4: Sister alinea's the herbalist room.
+[2:07:00] Ian Lurie: Yeah, so her room is actually off the kitchens, because that's where she she preferred to work. And it's, it's a room that was kind of repurposed. It was a pantry at one point, but she just really, at given her age, she didn't want to be going up and down the stairs anymore, so they, they made her quarters in there. I uh, sorry, one second. Um, so you have to move through the through the nave to get to the kitchens, and as you walk through the eternal flame, you know, this flame that never, has never gone out, actually stutters. It actually for like half a second, seems to go out and then flares up again. And there's two clerics who are there, two Junior clerics who are attending to it. And they kind of look at it and look at each other alarmed.
+[2:08:04] Speaker 2: How close are we to the requiry?
+[2:08:07] Ian Lurie: I'm sorry,
+[2:08:08] Speaker 2: how close are we Mary
+[2:08:09] Ian Lurie: the reliquary? It's across the room. It's not that far.
+[2:08:14] Fancy Drak: I would like to maybe go see if the mall is still there.
+[2:08:18] Ian Lurie: Okay, appears to still be there.
+[2:08:23] Fancy Drak: Okay, thanks for humor in me.
+[2:08:26] Speaker 4: Did we get a cold chill at all when the flames flickered?
+[2:08:29] Ian Lurie: No, except maybe down your spine, because that was fucked up. You're all followers of Amoth, one way or another. Creyvel, maybe not, but you're certainly familiar with the with the rituals and beliefs, I don't know I got a negative One in religion,
+[2:08:52] Speaker 2: not smart, not religious.
+[2:09:02] Fancy Drak: It is night.
+[2:09:04] Ian Lurie: It is night
+[2:09:05] Fancy Drak: we need we probably should figure out what we are going to do. We are seeing just we are just some of the disturbing signs we're feeling the cold chill. We saw the fires flicker.
+[2:09:24] Ian Lurie: Sorry, guys, hold on one second
+[2:09:26] Fancy Drak: and the bell,
+[2:09:27] Speaker 4: Bell,
+[2:09:29] Speaker 8: right.
+[2:09:31] Speaker 2: Oh, is it a vampire,
+[2:09:35] Fancy Drak: ghost, vampire,
+[2:09:38] Ian Lurie: just a quick aside, carved a hole in our house and is nesting inside the wall, the outside wall of our house. And because it has little babies, we've decided to wait until it hatches, till they hatch. But I just heard what sounds like it is starting to work on the fucking sheetrock. So I'm, I think I'm about to have, like, a fucking way inside my office, which is why I got up to look. But coming back to this, I just felt like I had to say that. So if I suddenly start yelling and running around, it's because I'm fending off a northern flicker that's trying to peck my eyeballs out. This is what I get for being nice, because I could have just murdered all these birds and this problem would have.
+[2:10:18] Speaker 2: Could you have, really,
+[2:10:19] Ian Lurie: no, not even,
+[2:10:21] Speaker 1: exactly,
+[2:10:22] Ian Lurie: not even if there were no babies, could I have done that? So, okay, all right,
+[2:10:29] Speaker 4: so sister's room investigate that.
+[2:10:32] Ian Lurie: Okay, nothing remarkable in here, many books on herbs and herbalism, a full herbalism kit, you know, a full setup with a mortar and pestle and all that kind of stuff. Not a terribly actually, no very tidy room, but little bits verbs everywhere, smells very heavily, you know, very richly of green things and herbs that have been carefully treated and and ground down over that
+[2:11:06] Speaker 10: one
+[2:11:06] Speaker 2: Stoner's friend who always left a window,
+[2:11:08] Ian Lurie: yes, yes, exactly, exactly, and somehow warming in here. You know, it's somehow just a very pleasant space,
+[2:11:18] Speaker 4: very well. Box, little box of mushrooms under the bed.
+[2:11:21] Ian Lurie: There's no box of mushrooms under the bed. Sorry.
+[2:11:26] Fancy Drak: Then maybe we should stick out the reliquary, because if somebody's going to do something naughty, they're going to grab them all.
+[2:11:35] Speaker 2: We could put the last one of the little clockwork things right by it and see if that does something.
+[2:11:41] Fancy Drak: Yeah.
+[2:11:47] Ian Lurie: So are you heading to the reliquary?
+[2:11:52] Fancy Drak: Think so.
+[2:11:52] Ian Lurie: Okay, you turn and walk out of the kitchen, which is a separate building, and then you walk out of the kitchen and into the nave, and as you're walking in the back doors, you actually hear this heavy thud and the sound of a body collapsing.
+[2:12:11] Fancy Drak: Dash, dash, dash there.
+[2:12:13] Ian Lurie: So as you run in to the nave, you see right in front of the eternal flame, standing the high hierophant Veron told Ian Over the now corpse of sister euro, the choir master. Her head has been bashed in, and he is holding the bloody hand of Amoth, and he doesn't even turn. You just hear him say, you hear it now, don't you the hush he was speaking, and they are drowning him out the chants, the bells, the singing, the empty mouths. I tried, I tried to give him quiet. I wanted to let him say that last thing he had to say. But there are too many of them, and they would not stop. I had to silence them all so I could hear what he was saying. And he turns and faces you all, and replacing the visage of this super, composed, charming hierophant of Amoth is the same person, but just haggard and drawn and driven to madness with this look of of just haunting exhaustion, and there's blood sprayed across his vestments after he's crushed her skull, and he lets go of her her robe, and her body slumps to the ground, and he says, Our God has been dying. He has been dying for weeks. I killed my brothers and sisters because their false faith was deafening me to his last words.
+[2:14:18] Speaker 4: What did he What were his last words. What did he say?
+[2:14:21] Ian Lurie: Don't know, because I could not hear them, but trust me when I tell you, they were important to us all,
+[2:14:31] Speaker 2: but he did now,
+[2:14:34] Ian Lurie: I don't know. I only know that he was dying.
+[2:14:40] Speaker 4: I'm going to cast sleep.
+[2:14:43] Ian Lurie: Okay? That has a verbal and somatic component, right? Yep. Okay, so everyone roll initiative. Let me know what you get.
+[2:14:59] Speaker 1: Nine,
+[2:15:01] Speaker 2: natural, 2021 22 total.
+[2:15:15] Ian Lurie: Sorry, so Hornsby, you got a 22
+[2:15:19] Speaker 2: Yes. Hornsby is in it to win it.
+[2:15:22] Ian Lurie: Oops, I just rolled a D 12 for initiative. That is not
+[2:15:25] Speaker 1: how
+[2:15:28] Ian Lurie: that works. I got the same rule. That's funny, 12, all right. Well, I got a 12. So basically, creyl, you start to cast, and so does the high hierophant. And here I can actually show you all of this. And I just want to say I did not create this map. It's very important, because this thing is fucking stunning. Ooh, so, oops, shit, sorry, it's been a while since I've used this. So yeah, this is Varon. You guys can tell me where you want to be. Jaxxson, this is you, Creyvel, this is you. That is Hornsby. Oh, I'm sorry. This is TPT. So this is you four over here. This is the high hierophant, and he has two acolytes with them that look like they have no fucking idea what to do. They almost look like they just walked into the room as all this was transpiring. So where would you guys like to be?
+[2:17:18] Fancy Drak: I feel like right there is kind of a natural place, because right through the door, we saw shit happen, yeah,
+[2:17:24] Speaker 1: and
+[2:17:24] Fancy Drak: yeah,
+[2:17:25] Ian Lurie: okay. Is that okay?
+[2:17:28] Speaker 2: I think, I think Hornsby is, is right up in the front, ready to go. So
+[2:17:34] Ian Lurie: I'm sort of picturing it like this, except maybe Jaxxson, you'd probably be closer to the front, and I'm imagining Creyvel that you'd be more towards the back, being the roguish bardish type.
+[2:17:47] Speaker 1: Yeah. Okay, so
+[2:17:52] Ian Lurie: I'm going to figure something like that that works for everybody. Okay? So Hornsby, you go first.
+[2:18:07] Speaker 2: All right. Bonus action, I would like to rage,
+[2:18:11] Ian Lurie: okay, you Raje, do
+[2:18:12] Speaker 2: that before. And gonna break out the great acts.
+[2:18:19] Ian Lurie: Okay, I'm it
+[2:18:25] Speaker 2: stop dumb that does not hit
+[2:18:29] Ian Lurie: you.
+[2:18:30] Fancy Drak: Charging,
+[2:18:31] Speaker 2: yeah,
+[2:18:32] Ian Lurie: yeah, no, that does not hit
+[2:18:35] Speaker 1: him,
+[2:18:36] Speaker 16: yeah.
+[2:18:38] Ian Lurie: Level two, level two do not
+[2:18:43] Speaker 2: what I'm used to. All right, yep, that's where I'm at. I'm raging.
+[2:18:48] Ian Lurie: He blocks it, almost scornfully with a shield. He just blink,
+[2:18:54] Speaker 2: just like a tater tot, rolling on up.
+[2:18:57] Ian Lurie: Okay, now we've got TPT.
+[2:19:03] Fancy Drak: Okay, I'm going to close a different distance, and with my Maul, I'm going to strike him.
+[2:19:11] Ian Lurie: Okay,
+[2:19:12] Fancy Drak: it's weird, only having one attack, all right, that would be a 22 to hit.
+[2:19:21] Ian Lurie: That hits,
+[2:19:22] Fancy Drak: all right. He's got a DC 14 to resist being toppled.
+[2:19:32] Ian Lurie: He succeeds.
+[2:19:33] Speaker 1: Okay,
+[2:19:33] Ian Lurie: basically, you bring them all down and he are. Do you do damage to him as well?
+[2:19:38] Fancy Drak: Oh yeah. Oh yeah. Hold on, just second. W9, 12, points advantage.
+[2:19:44] Ian Lurie: Okay, so you hit him a solid blow. Go ahead.
+[2:19:49] Fancy Drak: My mistake, first time playing this bonus action, rage, and then hit him. He resists the topple, and then my my rage damage is so 12 being 14 points of damage.
+[2:20:07] Ian Lurie: Okay, got it. Let's see that was 2022, 21 so now it's his turn. He begins casting. I got to look up the spell. And all around him springs up this ring catches all of you, except for Creyvel and nothing happens to any of you just yet, but All around him spring up these whirling shapes of these diaphanous, these diaphanous spirits that are circling around him rapidly, and you can feel them starting to pull and claw at you, at all of You. So now we are up to Jaxxson and Jaxxson, you immediately take, actually, give me a wisdom, save DC 14,
+[2:21:59] Speaker 5: that's a fail.
+[2:22:01] Ian Lurie: Okay, you take 12 points of radiant damage as the Spirit guardians just rip into you, and your movement is halved.
+[2:22:13] Speaker 5: Okay, awesome. Then I'm going to use the half movement I have left to move out of this area,
+[2:22:24] Ian Lurie: okay?
+[2:22:26] Speaker 5: And then Jaxxson is going to turn back, point his long bow at the high, higher sin and flick off a shot.
+[2:22:39] Speaker 8: Okay? I
+[2:22:43] Speaker 5: that's going to be a dirty 20
+[2:22:45] Ian Lurie: that hits
+[2:22:47] Speaker 5: all right, and then I'm going
+[2:22:52] Speaker 2: to,
+[2:22:53] Speaker 5: I'm going to tell you this right now as a bonus action, I'm going to cast along with this Hail of Thorns.
+[2:23:01] Ian Lurie: Okay,
+[2:23:03] Speaker 5: so now let me do the damage. Oh, I'm going to need, sorry. I'm going to need the high hyerson and then the two acolytes within five feet of him to all make a dexterity saving throw of 13.
+[2:23:33] Ian Lurie: Okay, the higher fat makes it the other two do not
+[2:23:36] Speaker 5: okay. So then I Oh, wow, that was terrible. Those two behind him are going to take a total of one hole damage from the Hail of Thorns, and he's going to also take that along with eight points of damage from the long bow. And that's jaxxson's turn.
+[2:24:14] Ian Lurie: Okay? Creyvel,
+[2:24:18] Speaker 4: sleep,
+[2:24:20] Ian Lurie: how does that
+[2:24:21] Speaker 4: work? Wisdom 14 for him and his his companions each have to do that.
+[2:24:33] Ian Lurie: He makes it the two companions each rolled ones that doesn't sleep work on a certain number of hit points or something.
+[2:24:40] Speaker 4: Well, this is the 2024, version.
+[2:24:42] Ian Lurie: Oh, okay,
+[2:24:43] Speaker 4: you know, it's just a, it's a saved out set it points.
+[2:24:49] Ian Lurie: There you go. Betty, bye,
+[2:24:51] Speaker 4: okay, and then I'm going to, I'm going to, I don't know what creyvels, crevel crevels flavor would be so Bardic. Inspiration to to Hornsby,
+[2:25:16] Speaker 8: okay,
+[2:25:17] Speaker 4: that's a d6 Hornsby,
+[2:25:18] Speaker 2: Oh, sweet.
+[2:25:19] Speaker 1: I Okay,
+[2:25:25] Ian Lurie: all right, is that it?
+[2:25:27] Speaker 4: And then I'm going to back five feet up. Yep,
+[2:25:34] Ian Lurie: I
+[2:25:36] Speaker 4: should have taken a dip and roll so I could sneaky sneak But damn,
+[2:25:40] Ian Lurie: okay, background to the top, so Hornsby, that's you. You need to give me a wisdom save DC, 14.
+[2:25:50] Speaker 2: Oh, fuck yeah, I have advantage on wisdom saves. What's that? Boom. 19, excellent.
+[2:26:00] Speaker 1: I'm
+[2:26:00] Ian Lurie: excellent.
+[2:26:06] Speaker 2: Sorry, did I take damage before?
+[2:26:08] Ian Lurie: No, but you do now. You take eight points of radiant,
+[2:26:12] Speaker 1: yeah,
+[2:26:13] Ian Lurie: and that's it. You don't lose any movement or anything like
+[2:26:16] Speaker 1: that.
+[2:26:16] Ian Lurie: Cool, okay, what do you
+[2:26:20] Speaker 1: do?
+[2:26:20] Speaker 2: Oh, wait, isn't radiant, okay, but rage doesn't mitigate radiant, correct? Okay, new barbarian, who does okay, I would like to great AX this shit.
+[2:26:34] Ian Lurie: Okay?
+[2:26:37] Speaker 10: All right,
+[2:26:40] Speaker 2: yes, 23 to hit.
+[2:26:44] Ian Lurie: That hits,
+[2:26:45] Speaker 2: brilliant. There we go. Ooh, 12, yay. So that is 14 points of damage, and I have a cleave. So if I hit a creature with a melee attack rule using the great AX,
+[2:27:19] Ian Lurie: thank you,
+[2:27:19] Speaker 15: I can make a
+[2:27:20] Speaker 2: second attack against a creature within five feet of the first it's also within my reach.
+[2:27:25] Ian Lurie: I think you have to kill the first one. It
+[2:27:29] Speaker 2: just says,
+[2:27:29] Speaker 1: if
+[2:27:29] Speaker 2: you hit,
+[2:27:30] Speaker 4: yeah, okay,
+[2:27:32] Ian Lurie: all right. Well, you can hit one of the unconscious acolytes
+[2:27:35] Speaker 2: with joyful Glee,
+[2:27:37] Speaker 1: okay,
+[2:27:38] Ian Lurie: and remember, because they're unconscious. You get it? It's an automatic crit. So
+[2:27:46] Speaker 2: Hornsby is not smart. One of y'all wants to yell
+[2:27:48] Speaker 1: at
+[2:27:53] Speaker 2: him. Natural, 20,
+[2:27:55] Ian Lurie: he just dies. He just explodes. This is just some poor fucker in a robe. He's he's just destroyed. You cut him in half. Basically the AX slices into varen, and then you spin it and just bring it down on the acolyte, who's who's basically cloven in two. And Varon, in a rage, says to you, you don't understand. You don't understand what Amoth is telling us. He is dying, killing these innocents. Does you no good, none. And he prepares to
+[2:28:32] Speaker 2: swing just gonna point at the body on the floor like
+[2:28:38] Speaker 4: DM,
+[2:28:39] Ian Lurie: yep.
+[2:28:39] Speaker 4: Is this timeline set before the fall.
+[2:28:43] Ian Lurie: Correct? This is silver in pre fall silver, and otherwise there'd be no silver in here.
+[2:28:51] Speaker 1: Yeah,
+[2:28:51] Speaker 2: you're starting
+[2:28:53] Ian Lurie: to realize what's happening. Okay? TPT, it's your turn, unless you're moving,
+[2:29:04] Fancy Drak: not moving,
+[2:29:06] Ian Lurie: okay,
+[2:29:07] Fancy Drak: however, I'm gonna go reckless attack.
+[2:29:09] Ian Lurie: Okay,
+[2:29:11] Fancy Drak: I am still raging.
+[2:29:14] Ian Lurie: Oh, you also need to give me that DC, 14 wisdom. So got it? Sorry, anything else?
+[2:29:18] Fancy Drak: 15, right? Yeah, no, I rolled a 15.
+[2:29:22] Ian Lurie: Oh, you rolled a 15, okay. Oh, 23 you take 11 points of damage, radiant, ouch. And actually, it's not radiant. Now it's necrotic,
+[2:29:40] Speaker 1: yeah, but
+[2:29:41] Speaker 2: you don't have flesh,
+[2:29:42] Fancy Drak: right? I
+[2:29:44] Ian Lurie: It still hurts.
+[2:29:45] Fancy Drak: It doesn't say that. I It
+[2:29:47] Ian Lurie: still hurts. You're still getting ripped and torn and
+[2:29:50] Speaker 8: yes, okay, reckless attack. You're getting tarnished.
+[2:29:55] Fancy Drak: Exactly.
+[2:30:00] Speaker 8: That is the natural 20. Okay,
+[2:30:06] Fancy Drak: that's two to six or 10. 611, 22, plus. 224, plus rage plus three, so 27 total points of damage.
+[2:30:33] Ian Lurie: Jesus, all right, you just crack him on the side of the head, and he's actually staggered for a minute,
+[2:30:43] Fancy Drak: and it's a DC 14 to topple.
+[2:30:46] Ian Lurie: Okay? He makes that he's staggered for a minute and just turns to you bloodied, and his face just turns to an absolute rictus of rage, and he takes them all and brings it down onto you, rolling a 25 to hit.
+[2:31:08] Fancy Drak: Oh, that'll hit.
+[2:31:10] Ian Lurie: Okay. You take nine points of bludgeoning damage,
+[2:31:17] Fancy Drak: okay, halved.
+[2:31:20] Ian Lurie: And then you take, you take 21 points of radiant as this light flares from the mace as it hits you,
+[2:31:35] Fancy Drak: I'm out.
+[2:31:36] Ian Lurie: Okay, so you go down.
+[2:31:40] Speaker 4: Bam.
+[2:31:45] Ian Lurie: He just says. He's almost sobbing. He's raging and crying at same time he's saying, none of this matters anymore. You don't understand what is happening here. And then, as a bonus action, he heals himself. Okay, we're back around. Oh no, Creyvel, I'm sorry, it's your turn.
+[2:32:10] Speaker 4: Okay, creyvels go to cast command. Wisdom 14,
+[2:32:16] Ian Lurie: okay, he makes it,
+[2:32:20] Speaker 1: damn it.
+[2:32:21] Ian Lurie: Wisdom saves are his strong suit.
+[2:32:23] Speaker 4: I know. I know. I just
+[2:32:24] Ian Lurie: Yeah, yeah, no, I know
+[2:32:28] Speaker 4: all my shits wisdom,
+[2:32:30] Speaker 1: yeah, yeah, this is a
+[2:32:32] Ian Lurie: nightmare scenario for you.
+[2:32:33] Speaker 4: Yeah, so that Bardic inspiration for Jaxxson
+[2:32:42] Speaker 1: d6
+[2:32:43] Ian Lurie: sorry I forgot he also shifts like this, so that this now encircles all of you. So Creyvel, you actually have to make that same save.
+[2:33:05] Speaker 4: What's the save?
+[2:33:07] Ian Lurie: So, DC, 14 wisdom,
+[2:33:08] Speaker 1: I'm
+[2:33:30] Ian Lurie: what'd you get?
+[2:33:32] Speaker 4: Failed,
+[2:33:33] Ian Lurie: okay, you take nine points of radiant, and your movement is halved,
+[2:33:39] Speaker 4: okay? And then, I am going to back out through that hallway with the other 15 feet I've got left, and I don't want it to be able to see me, though.
+[2:33:57] Ian Lurie: Okay.
+[2:33:58] Speaker 1: I so
+[2:34:05] Ian Lurie: I'm gonna have you move around to there.
+[2:34:08] Speaker 4: Yep, that's good. And then Jamar jaxson's got a bard Bardic inspiration.
+[2:34:14] Speaker 5: We thank you, sir.
+[2:34:16] Speaker 1: D6
+[2:34:17] Ian Lurie: Okay. Background to the top, Hornsby, give me a DC, 14 wisdom, save,
+[2:34:28] Speaker 2: oh, advantage,
+[2:34:31] Speaker 13: yes,
+[2:34:33] Ian Lurie: okay, so you Take, you take seven points of radiant, well necrotic. And what do you do? Okay,
+[2:34:54] Speaker 2: my buddy is down. Is it just a medicine? What do I need to do? Stabilize them. I don't have, like, spare the dying, dying, or anything anymore.
+[2:35:01] Ian Lurie: You can just stabilize him.
+[2:35:05] Speaker 2: Do I have a potion? I don't
+[2:35:08] Ian Lurie: cool, no, but you can actually make a medicine check. And if you get a 10 or higher, and you don't need proficiency, if you get a 10 or higher than he is stabilized,
+[2:35:16] Speaker 1: I'm
+[2:35:17] Speaker 2: gonna, I'm gonna try and help my my clanky pal,
+[2:35:20] Ian Lurie: okay, so give me a medicine check.
+[2:35:25] Speaker 2: I said, try. I couldn't find that little clip thing to put in.
+[2:35:33] Ian Lurie: So basically, you rip the wound open wider. All right, that was your action. Do you move?
+[2:35:40] Fancy Drak: You cut the red wire, not the blue wire.
+[2:35:46] Speaker 2: No, stay there and fight again.
+[2:35:53] Ian Lurie: Jaxxson, you need to, sorry,
+[2:35:57] Speaker 2: I am going to bonus action rage though.
+[2:36:00] Ian Lurie: Okay, Jaxxson, you need to give me a DC 14 save. You made it.
+[2:36:05] Speaker 1: I'm
+[2:36:07] Ian Lurie: assuming that's your die that just went flying across my seat. Yes,
+[2:36:10] Speaker 5: sir.
+[2:36:10] Ian Lurie: I love that. Okay, you make it so you take, wow, pitiful roll. You take three points of necrotic.
+[2:36:20] Speaker 5: All right? Well, shit, this is difficult because I would know exactly what Richter would do, but I'm trying to, you know, this is the first time that Jaxxson has really known brotherhood. So, oh, he's going to use his movement to get closer to TP.
+[2:36:55] Ian Lurie: Okay,
+[2:37:00] Speaker 5: he's going to get down on his knees, places hands on TPS chest, and gonna cast Cure Wounds.
+[2:37:11] Ian Lurie: Okay,
+[2:37:14] Speaker 5: so TP you're going
+[2:37:16] Speaker 14: anybody
+[2:37:16] Fancy Drak: have a USB C, Dear God,
+[2:37:19] Speaker 5: you're going to get 12 hit points back. Ooh, thank you.
+[2:37:25] Ian Lurie: All right, actually, you're still down. What am I saying? You do have to stand up, but you do come to awareness,
+[2:37:34] Speaker 5: and that is jaxxson's turn. Okay,
+[2:37:37] Ian Lurie: you hear happy Apple boot sound in your head and but it is not well, you don't get to go this turn because, oh, wait, what the hell am I doing? No, that's right, except I forgot. I forgot about him. He brings the mace down on you. Hornsby, getting a getting a 17 to hit,
+[2:38:07] Speaker 2: yeah. What type of damage is that
+[2:38:16] Ian Lurie: necrotic? Well, sorry, it's bludgeoning in necrotic. So you take sorry one second.
+[2:38:27] Speaker 2: Oh, no, no, my death can wait. It's fine.
+[2:38:32] Ian Lurie: You take nine points bludgeoning.
+[2:38:38] Speaker 10: Five.
+[2:38:38] Ian Lurie: You take 17 points of necrotic
+[2:38:42] Speaker 2: girl, no, we out. The potato has been mashed.
+[2:38:51] Speaker 4: Did you? Did you use your Bardic inspiration dice? Oh, you probably couldn't.
+[2:38:56] Speaker 2: Um, I don't know how I would use them in this.
+[2:38:58] Ian Lurie: Yeah, no, you can't really use them now.
+[2:39:00] Speaker 12: Could
+[2:39:01] Ian Lurie: have used them for a save or something, but she made her save.
+[2:39:05] Speaker 2: Yeah, I couldn't raise my AC with it. So we're here now.
+[2:39:10] Ian Lurie: Okay, so it is now.
+[2:39:17] Speaker 2: Just remember me every time you see gravy,
+[2:39:20] Ian Lurie: it is now creyvels turn
+[2:39:23] Speaker 4: Creyvel is going to pop over. Yep, Bardic inspiration for who does not have it?
+[2:39:42] Ian Lurie: Okay? Assume He's standing right there,
+[2:39:45] Speaker 1: yeah, well, that, yeah, he's still maximum.
+[2:39:48] Fancy Drak: Tp does not,
+[2:39:50] Speaker 4: TP does
+[2:39:51] Speaker 1: not
+[2:39:51] Ian Lurie: have Bardic inspiration.
+[2:39:52] Speaker 4: Tp gets a Bardic inspiration dice,
+[2:39:56] Ian Lurie: okay,
+[2:39:57] Speaker 4: and then can you show me the rest of the map? I assume we've been through all this.
+[2:40:01] Speaker 1: Yeah,
+[2:40:02] Speaker 4: what that is that the front door entrance that I'm at this
+[2:40:06] Ian Lurie: is the
+[2:40:06] Speaker 5: front door.
+[2:40:08] Speaker 4: Am I in the kitchens? Then is
+[2:40:10] Speaker 1: that?
+[2:40:10] Ian Lurie: No, this is like a side ritual room. And then the this actually isn't a door, like I said, I'm using someone else's map, but this is the cloister over here, the door and the altar. The altar is back. Is invisible right now, but it's there. Oh, yeah. Anyway,
+[2:40:35] Speaker 4: okay, so I I am going to cast prestidigitation,
+[2:40:48] Ian Lurie: okay,
+[2:40:49] Speaker 4: and
+[2:40:58] Ian Lurie: to
+[2:41:00] Speaker 4: make it sound like there are footsteps going out the main entrance, the same footsteps that he would hear from creyvels the boots.
+[2:41:19] Ian Lurie: Okay.
+[2:41:20] Speaker 1: Okay,
+[2:41:21] Ian Lurie: so you want, you want to try and fool him into something, so give me a deception, check,
+[2:41:31] Speaker 10: save us.
+[2:41:32] Speaker 4: That's a natural 20,
+[2:41:33] Ian Lurie: Okay,
+[2:41:34] Speaker 2: nice,
+[2:41:35] Speaker 4: plus eight for 28
+[2:41:37] Ian Lurie: Nice, oh.
+[2:41:44] Speaker 4: Uh, and I am going to stealth the other direction with the rest of my movement.
+[2:41:56] Ian Lurie: Okay, so where do you go?
+[2:41:59] Fancy Drak: Out the door
+[2:42:02] Ian Lurie: like you're just out of there. Yep, okay. All right, you're out of there. All right, he, let's see here. So that was Creyvel. So now we're back to Hornsby, who is on the ground. Hornsby, you need to give me another DC 14 wisdom.
+[2:42:38] Speaker 2: Got it?
+[2:42:39] Ian Lurie: Okay? You automatically fail one death save, because you just took damage, you need to give me another death save.
+[2:42:49] Speaker 2: Hold on, I'm marking my failures. No,
+[2:42:57] Ian Lurie: all right, so you are down two death saves. You are one from actual, real live death. TPT, you are conscious again. You also need to give me DC, 14 wisdom, save,
+[2:43:11] Fancy Drak: okay, 16,
+[2:43:15] Ian Lurie: all right. So you save, so you take five points of necrotic. Got it,
+[2:43:22] Fancy Drak: okay. Did, did the clerk react to the deception at all, or is he just
+[2:43:33] Ian Lurie: got a second? Okay, not so far.
+[2:43:35] Fancy Drak: Okay.
+[2:43:37] Speaker 4: Do you have point of order? Can, can ackle Mary use? The Bardic inspiration for death saves.
+[2:43:46] Fancy Drak: Who's
+[2:43:46] Speaker 4: Hornsby?
+[2:43:48] Ian Lurie: Um, I think so.
+[2:43:51] Speaker 2: Oh, wait, if I could do that, can I read, share that in?
+[2:43:56] Ian Lurie: Yeah,
+[2:43:58] Speaker 10: past.
+[2:44:00] Ian Lurie: Okay,
+[2:44:00] Speaker 2: certainly
+[2:44:01] Ian Lurie: down,
+[2:44:01] Speaker 1: one
+[2:44:02] Speaker 2: failure,
+[2:44:03] Ian Lurie: one failure, one success,
+[2:44:05] Speaker 12: all right,
+[2:44:09] Ian Lurie: do you stand up?
+[2:44:16] Fancy Drak: Yes, I stand up.
+[2:44:17] Ian Lurie: Okay,
+[2:44:21] Fancy Drak: okay, quick question, how does he look?
+[2:44:27] Ian Lurie: He looks messed up.
+[2:44:30] Fancy Drak: Okay? I was incapacitated, so I got a rage again, right? Okay, and I'm going to, I have no healing. I can't do anything. Okay,
+[2:44:58] Ian Lurie: it's cool. Oh, sorry you need, you need to give me that DC 14 wisdom save
+[2:45:02] Fancy Drak: I did.
+[2:45:02] Ian Lurie: I already give you that. I already did that damage to you. Never mind.
+[2:45:05] Fancy Drak: Yes, all right, I'm gonna reckless attack him.
+[2:45:09] Ian Lurie: Okay. Remember, you also have Bardic inspiration.
+[2:45:16] Fancy Drak: Okay. Does that affect damage rolls?
+[2:45:20] Ian Lurie: I believe it can affect an attack roll. Yes,
+[2:45:22] Speaker 1: okay,
+[2:45:22] Ian Lurie: could be wrong, but for now, don't worry about it. Just go ahead and
+[2:45:26] Speaker 4: attack rolls and those checks,
+[2:45:28] Fancy Drak: okay? So with advantage, that would be a 24 to hit. Okay, you hit. Okay. Two, three, that'd be with a rage damage, that would be 17 points of damage. And I am going to try to get out of I have half movement, which is 15, so I'm
+[2:45:59] Speaker 1: going to
+[2:46:00] Fancy Drak: try to get out of the Spirit car. Spiritual Guard
+[2:46:03] Speaker 1: videos,
+[2:46:04] Ian Lurie: okay, so he gets an attack of opportunity.
+[2:46:06] Fancy Drak: Yes,
+[2:46:09] Ian Lurie: he gets a dirty 20.
+[2:46:14] Fancy Drak: That's a hit,
+[2:46:15] Ian Lurie: all right. So you take nine points bludgeoning. So you take half of that,
+[2:46:25] Speaker 1: and then
+[2:46:28] Ian Lurie: you take another nine points of necrotic.
+[2:46:31] Fancy Drak: I am barely up,
+[2:46:35] Ian Lurie: okay, and then you move out of the Guardians. He looks really rough. I mean, he looks like he's been been through it at this point, he let's see it's actually his turn. Now. He turns to Jaxxson and says, Why don't you stop? Why don't you listen? He gets an 18 to hit
+[2:47:07] Speaker 5: that connects.
+[2:47:08] Ian Lurie: Okay. You take nine bludgeoning, oh boy, and 22 points of necrotic. Oh, he just, he just brings the mace squarely down on your head.
+[2:47:26] Speaker 5: You see Jaxxson was already still on his knees from having healed TP, and so you just see the blow hit him in the head. And he looks Dave's for a second. He spits a glob of blood on the ground. He turns and looks at the guy, and he says in celestial Amoth never loved you. Amoth never respected you. Amoth was about justice. You are about nothing. And then falls over,
+[2:47:58] Ian Lurie: okay? He just shrieks. Amoth is dead, and as he says that, he lets out a scream and the mace drops from his fingers, his eyes turn milky white, he topples to the ground. And before you guys can react to that, let's see you're outside Creyvel. You are blinded by this flare of light that starts at the northern horizon screams overhead, a ball of fire like you have never seen, never seen in your life. You've seen falling stars, you've seen things like that. But this is, this is something different. This, this. It almost looks like a moon is falling on the planet.
+[2:49:00] Speaker 4: I don't want to ruin the end of Rogue One for you, so I'm not going to say it.
+[2:49:04] Speaker 1: Well,
+[2:49:04] Ian Lurie: yeah, okay, that's that's fair. Just go screaming overhead. There's a blinding flash, and you're kind of, you are blinded and deafened by the the size of the just, just the the shock wave of its passage. It hasn't actually struck the ground yet. And you swear, as you look at it, that you, just before you were blinded, that you saw the shape of a body inside what fell, that you saw an actual, you know, enormous humanoid falling to Earth and flames. The rest of you, even those of you who are down, you know you're still, you're still on the edge of awareness. You kind of know something's going on the inside of this place is lit up like daylight, and then there's this violent, crushing impact, and it knocks you Creyvel to your feet. Knocks you to your feet, right? It knocks you down to the ground, just flat, particularly because you couldn't see anything you need to give me a DC 17 deck. Save
+[2:50:19] Speaker 4: me What do you want?
+[2:50:25] Ian Lurie: Okay, you take five points of damage as the top of the tower collapses and you roll out of the way, just by pure luck, but you're still struck by small bits of of masonry and things that are falling all around you, everyone inside. You also need to give me, well, people who are unconscious, you just automatically fail, a death save each but you don't take any more damage because you can't and then TPT. You need to give me a DC 14 deck save.
+[2:50:59] Fancy Drak: All right, 14
+[2:51:03] Ian Lurie: Yeah,
+[2:51:04] Fancy Drak: that's the Ba 15 save.
+[2:51:10] Ian Lurie: Okay, so you take five points of bludgeoning damage. There. You're down,
+[2:51:16] Speaker 1: all
+[2:51:16] Ian Lurie: right, so you're struck on the head, and you go down. Everyone else is lying on the ground, you're all
+[2:51:21] Speaker 1: still.
+[2:51:22] Ian Lurie: You're all still hanging on the edge of consciousness as you feel this booming impact that throws your bodies. It feels like you're thrown five feet into the air. You know it can't possibly be that, but and Creyvel, you feel this the ground just just buckles underneath you and snaps upwards like a bucking horse, and then just settles again. And then a moment later, you hear this grinding explosion. It sounds like nice. It sounds like the air itself has been torn apart. And a moment later, you hear another tearing sound. And have any of you ever been outside in an earthquake? So were you by any chance, nearby where a fault line opened or something like that, or near pavement, near anything that cracked?
+[2:52:19] Fancy Drak: Yeah, San Francisco during the A's and Giants game.
+[2:52:22] Ian Lurie: Okay, so there's this sound, as if you took 1000 layers of wet cardboard and ripped them in half, and that's what you hear now as all around the city of silgrin, just inside of where the temple is, the entire city cracks loose, and you hear the screams of all of the clerics of Amoth and all the initiates and everyone else as they suddenly lose all of their powers and their awareness is ripped away from them. And you hear the screams of the rest of the populace of the city, as the city just breaks loose from the earth around it and starts this long, slow fall, you don't know where to, and vanishes from sight. The temple is perched right on the edge of this crater and does not fall. It remains, as do some parts of silver Ian, and then this weird, eerie silence falls for a moment, and you're all just left on the ground, unconscious or awakened, blinded. Crevel, you stand up and you blink the light from your eyes. You look around. You see the temple hanging on the edge of the what used to be the ruins of the city, as everything is cracked and fallen away, you see the waters of the Hell Girl already starting to flow backwards down into this huge crater that has now opened. And you also see overhead the beginnings of the Firestorm and the falling debris from the impact of Amoth falling to the surface of praxia, and you have just all lived through the fall,
+[2:54:23] Speaker 2: lived
+[2:54:25] Ian Lurie: well more or less. You know,
+[2:54:29] Fancy Drak: Jesus. That was buggy. Yeah, that was fun.
+[2:54:34] Ian Lurie: I hope that was it seemed better than a lore dump.
+[2:54:38] Speaker 2: I really just hope that mossy gets to find teapots body parts.
+[2:54:44] Ian Lurie: Well, you'll find out next time,
+[2:54:47] Speaker 4: yeah, oh. Was just about to cast disguise self on himself to look like one of the Acolytes that he's friendly with. It's
+[2:54:58] Speaker 2: just cast two days for retirement.
+[2:55:01] Speaker 1: Yeah,
+[2:55:02] Ian Lurie: yeah, exactly. The the Acolytes are all either dead or senseless.
+[2:55:11] Speaker 15: You want to have acolytes? We got that. None
+[2:55:15] Speaker 4: of us picked a cleric.
+[2:55:17] Ian Lurie: Creyvel, just, yeah, right. Creyvel, just, just so you know, I mean, as you're watching all this happen, the city doesn't just disappear from view. It's too big. It's too massive. But you can see, as inertia starts to lose its grip, the city just starts this long, slow descent into, who knows where, forming the crater that RBG has spent their time on the edge of.
+[2:55:46] Speaker 4: So the brother Barris, he was really nervous. Why was he nervous?
+[2:55:52] Ian Lurie: So the only person who truly heard Amoth dying over the last the period of the last few weeks was the high hierophant, but a few others did sense that something was wrong, um, and they sensed that their god was dying, and it had an effect on them, you know, because of the way gods, because of who gods are, and as massive as they are and as powerful, you know, Asmodeus. Asmodeus slew him weeks ago, but it has taken him this long to actually
+[2:56:28] Speaker 1: die.
+[2:56:32] Ian Lurie: Yeah, right. TPT now says to someone who's falling to their desk, climb, climb. That is the death that most affected me in Rogue One.
+[2:56:44] Fancy Drak: Yes,
+[2:56:45] Speaker 2: that movie was a lot sadder than I was prepared for. I didn't know it was actually going to be a real
+[2:56:54] Ian Lurie: movie. It what they do, to sort of blunt that is showing you just how horrifying Darth Vader is that that scene sort of balances out against everything else, just it gives you the action scene after all that, that you're kind of left to like, whoa, okay, but yes,
+[2:57:12] Fancy Drak: yes. Ian, thank you. That was amazing. I had so much fun. This is weird and unique, and I loved playing another character.
+[2:57:22] Ian Lurie: Glad you liked it. Five
+[2:57:24] Fancy Drak: stars. Would do it again.
+[2:57:26] Ian Lurie: Awesome. Thanks, guys, that's great. I'm glad you enjoyed it. I'm planning on two weeks from now, I will. I'll send out the invite.
+[2:57:35] Fancy Drak: That sounds good.
+[2:57:36] Speaker 2: What is I might be in Greece, but I probably can
+[2:57:40] Ian Lurie: play today's the 11th. So that's the 25th fifth.
+[2:57:45] Speaker 1: Yes,
+[2:57:45] Speaker 5: Memorial Day.
+[2:57:47] Speaker 1: Yeah, being
+[2:57:49] Speaker 2: a different country, but that's fun. Do I still work there?
+[2:57:52] Ian Lurie: All right,
+[2:57:52] Speaker 5: you've done it in France? Yeah,
+[2:57:54] Speaker 2: I have played from so many random countries beyond, like, two in the morning. Like,
+[2:57:59] Fancy Drak: love it.
+[2:58:00] Speaker 1: Well, the
+[2:58:00] Ian Lurie: next one will be a slightly more chill game, maybe, depending
+[2:58:05] Speaker 1: on
+[2:58:05] Ian Lurie: what you guys do. All right,
+[2:58:09] Speaker 1: you.

@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "152b3f31a04d66c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "46e214adb41952e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6dfb96355d41754c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "world/sessions/060-08-17-2026-rbg.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "060-08-17-2026-rbg"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7abe29eeabec6f74",
+    "type": "split",
+    "children": [
+      {
+        "id": "56a7a79e524a8597",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f136277c0f493720",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5ce808d9f2d70ae5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "932a6ddb1383b028",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4188842e53fd9228",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc2528eca29228a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b1debdd1af27d37",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "world/sessions/060-08-17-2026-rbg.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "d9a6ab9a976f1af8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "world/sessions/060-08-17-2026-rbg.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "7f4dc11d19e2a11a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c1a189d46705865a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "f553212736e1bfa9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "world/sessions/060-08-17-2026-rbg.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "6dfb96355d41754c",
+  "lastOpenFiles": [
+    "world/maps/index.md",
+    "world/prep/index.md",
+    "world/rules/index.md",
+    "world/sessions/index.md",
+    "world/lore/index.md",
+    "world/events/index.md",
+    "world/things/index.md",
+    "world/vehicles/index.md",
+    "world/groups/index.md",
+    "world/people/index.md",
+    "world/places/index.md",
+    "world/maps/map-underdark.md",
+    "world/maps/map-undercity.md",
+    "world/maps/map-undercity-vaults.md",
+    "world/maps/map-undercity-less-details.md",
+    "world/maps/map-thecrypt.md",
+    "world/maps/map-thecave.md",
+    "world/maps/map-thecamp.md",
+    "world/maps/map-silidria.md",
+    "world/maps/map-silidria-w-urdun.md",
+    "world/maps/map-silidria-silidria-map-by-deven-rue.md",
+    "world/maps/map-silidria-map-by-deven-rue.md",
+    "world/maps/map-silidria-map-by-deven-rue-without-text.md",
+    "world/maps/map-silidria-map-by-deven-rue-vtt-ready.md",
+    "world/maps/map-silidria-map-by-deven-rue-vtt-ready-without-text.md",
+    "world/maps/map-silidria-map-by-deven-rue-vtt-ready-compressed.md",
+    "world/maps",
+    "world/prep",
+    "assets/maps/map-thecave.jpg",
+    "assets/maps/map-thecamp.jpg",
+    "assets/maps/map-neighborhood.jpg",
+    "assets/maps/map-grung-raid.jpg",
+    "assets/maps/map-scan.jpg",
+    "assets/maps/map-bridge.jpg",
+    "assets/maps/map-thecrypt.jpg",
+    "assets/maps/map-praxia-just-map.jpg",
+    "assets/maps/map-praxia-gimmel.jpg",
+    "assets/maps/map-praxia-daled.jpg",
+    "graph-maps.yaml",
+    "scripts/build_maps.py",
+    "assets/maps",
+    "assets",
+    "world/rules",
+    "accepted.yaml",
+    "scripts/timeline.py",
+    "graph-dates.yaml"
+  ]
+}

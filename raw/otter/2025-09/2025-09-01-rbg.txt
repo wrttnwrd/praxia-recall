@@ -1,0 +1,1029 @@
+# Ian's Meeting Notes
+# Otter recording 2025/09/01 16:58:52 (2h 55m) id VTpXo9MAf2qnfU4xPTew8aCWJOM
+# https://otter.ai/u/VTpXo9MAf2qnfU4xPTew8aCWJOM
+# Speaker-attributed transcript, verbatim. Raw source for the card at /items/otter/2025-09/2025-09-01-rbg.md
+
+[0:00:12] JP Sherman: guess, hello everyone. Hope you're all well. Row.
+[0:00:24] Ian Lurie: Sorry, I'm just messing with my audio here.
+[0:00:33] Unknown Speaker(s): There we go. All good.
+[0:00:45] JP Sherman: Uh, so Ian, how far are you in Boulder's gate? Three?
+[0:00:48] Ian Lurie: Not very far. Um, I let's see I killed all the goblin leaders. I killed all the goblin leaders. I have spent a lot of time wandering in circles, because that seems to be my fate in like that, because I have this issue with in game sense of direction.
+[0:01:20] JP Sherman: They don't make it easy.
+[0:01:22] Ian Lurie: No, I fought a ton of Knowles, and I think my party is at level four. I do, however, have a pet owl bear cub, and that that that was a major, a major event. I was very happy about that.
+[0:01:40] Unknown Speaker(s): Yeah, yeah, I, I am.
+[0:01:44] JP Sherman: I'm on my second playthrough on tactical level, tactician.
+[0:01:49] The Rikterr is my Shep'ard; I Shall not Want: And
+[0:01:51] JP Sherman: just gotta say that the gloom stalker Ranger is broken.
+[0:01:58] Ian Lurie: Gee, I never would have gasped it. You know, it's not the combats are I find them. I'm not attacked to a level. I'm at balance. But the comments aren't that hard. It's just finding my way around. I mean, I just getting from place to place, for some reason, has just been maddening. So I'm still working on that, but
+[0:02:21] JP Sherman: it gets so much better. And like I'm it's probably easily one of my favorite games I've ever, ever
+[0:02:29] Unknown Speaker(s): played. Yeah, see, I have been on mute this whole time. Hi, Hi, Jamie.
+[0:02:58] Speaker 1: Okay, I got my hair re blued today. It does look very blue,
+[0:03:07] Unknown Speaker(s): astonishingly. So it's a hell of casting time, but it lasts. Is there a very specific RBG color that you have?
+[0:03:20] Speaker 2: I don't know the hex value of it, but it is called Sky Blue. Sky
+[0:03:24] Unknown Speaker(s): Blue. You same one every time that's your go to
+[0:03:29] Speaker 2: except I guess Sally's might be discontinuing it, because I usually have to go to two stores and just walk in, like, find the shelf, and I go hoop. And that's that's good, because it takes like six or seven tubes to do my hair. Yeah, there are, there are four in the entire metro area.
+[0:03:47] Unknown Speaker(s): Wow, yeah,
+[0:03:49] Speaker 2: for like 30 miles four. So luckily, their shipping was fast.
+[0:03:58] Unknown Speaker(s): Hello, Tang. Do you want to come sit i i
+[0:04:05] Ian Lurie: Just warn you guys, I have no idea what the hell is going to happen today. Sometimes giving players complete agency is a mixed bag. Yeah. So I basically spent the last few days just writing up tons of points of interest and stuff trying to stitch things together. So we'll see how that goes.
+[0:04:39] Unknown Speaker(s): That sounds much better use of your time than mine. Today, I spent three hours teaching a friend how to use chat GPT so that he could have it analyze all these different experts on fantasy football and surface their combined top knowledge to get him a fantasy football lineup whatever that he can be happy with.
+[0:05:04] Ian Lurie: Honestly, that sounds kind of good.
+[0:05:08] Unknown Speaker(s): It took, like actually took about three hours just to get the damn thing to do what I wanted it to. Yeah. Provide me this 300 list, put it in a CBS format, downloadable, and make sure it's ranked by common, whatever. Okay, here's 120 of them. Do you want me to do the rest? Yes, okay. Do you want me to put it in a cvs file again? Yes,
+[0:05:37] Ian Lurie: CSV, I think, is what he means. Yeah,
+[0:05:39] Speaker 2: that's what I didn't know. If the AI was like, Do you want a 14 foot long receipt?
+[0:05:43] Unknown Speaker(s): Right, right? Yes, that's what it was. Oh, yeah. So. And then it took, like, 20 minutes after we finally trained it all this, to actually get it to give us the three lists that he won.
+[0:05:59] JP Sherman: Wow, nice. I
+[0:06:01] Ian Lurie: was trying to get it to break down. Actually, I was using quad to break down an entire transcript of a 45 minute video into structure markup. So you know, question and answer the whole bit. And I mean, it could not figure out how to do it. I finally broke it up into like, five minute chunks, and had to do it. But it was like, it's literally 30 kilobytes just of schema markup. It's perfect nightmare, but it looks really cool in on classy schema, there's like, edges and nodes everywhere. So
+[0:06:39] Unknown Speaker(s): yeah, pretty sure I dried up an ocean doing our stuff today. Yeah, yeah, sorry, guys, that's all right. Hey, Jamar.
+[0:06:51] JP Sherman: Hey, Jamar, hey, Jamar. Okay,
+[0:06:58] Ian Lurie: so last time you guys, well, I sent you the the recap, but you guys had your battle against Ignis or ardomon. You drove him off. You don't know where he went, but he appears to have shut you appear to have shut down his business. You've broken the machine that he was using. And at the end of that, this magma method, about the size of a halfling, came and said that you that he had said that our mom, Aardman, had said, Whoever defeats me should get access to my quarters, and you went through his quarters, you found a bunch of interesting items up there, and we pretty much stopped there. So the question now is, what would you like to do? You've got this set of unidentified items you need. You need to get back to
+[0:07:57] Unknown Speaker(s): identify.
+[0:07:59] Ian Lurie: Yep, you could identify them
+[0:08:00] Unknown Speaker(s): also. Two of us are still cursed, right? I think. No, Jamar, I used,
+[0:08:07] The Rikterr is my Shep'ard; I Shall not Want: I used to remove curses. Okay, cool.
+[0:08:09] Ian Lurie: You've been uncursed,
+[0:08:10] Speaker 2: so I'm also no longer frightened and incapacitated, which is nice, because that was a bit of a bummer. Y'all. Nobody likes that. Yeah,
+[0:08:20] JP Sherman: track doesn't actually know where he is right now. Like, he knows where he went, and now he's back here. And so, like, are we? We're not in hell, but we're on the plane of fire. Is that right? Okay? Because the plane of fire was where the dude who had the seal, who's like, go, do take care of this. And we and then at some point during the timeline, y'all like, Yo D, can you go figure this shit out? And then I went and figured something out, and I came back. I'm like, oh shit, everyone's fighting. Is that right?
+[0:08:58] Unknown Speaker(s): Perfect. Some of some of us were kung fu fighting too, by the way,
+[0:09:04] The Rikterr is my Shep'ard; I Shall not Want: because I almost had the Pavlovian response, and then I was like, No, Jamar, it's too early to do a racism.
+[0:09:13] Ian Lurie: It's never too early to do a racist.
+[0:09:15] Unknown Speaker(s): I mean, America's taught me I
+[0:09:17] Ian Lurie: was gonna say it is never too early.
+[0:09:19] Speaker 2: It's like the pizza bagel of 2020, it's
+[0:09:22] Ian Lurie: an ongoing process, yeah. Anyway,
+[0:09:29] JP Sherman: it's a bagel cut horizontal, vertically, not horizontally, horizontally. Let's i
+[0:09:43] Unknown Speaker(s): I'll be my shame closet.
+[0:09:47] The Rikterr is my Shep'ard; I Shall not Want: Oh, man, back to shirt or to get the
+[0:09:52] Unknown Speaker(s): badge, Banner badge, by the way, Sango nabbed all the all the gear that was on that reproducing table. Yeah, just stuck.
+[0:10:03] Speaker 2: Oh yeah, no, I threw the stuff in the bag already, like after I dismant
+[0:10:09] Ian Lurie: that in your inventory somewhere.
+[0:10:12] JP Sherman: So
+[0:10:13] Unknown Speaker(s): we're going to give some of it to him, because the searcher is proof, right, that we did something. Oh, yeah.
+[0:10:23] Speaker 2: But also, there were any components and stuff. So after the rest,
+[0:10:26] Unknown Speaker(s): we could, like, hang on the wall at the lady in the room, or turn into decorations, or I could use it to give to Artemis, or whatever his name is, to pay off the debt that I owe him.
+[0:10:41] Speaker 2: Why you didn't tell us you owed anybody anything? This is the first thing we're hearing about.
+[0:10:45] Unknown Speaker(s): Oh, yeah, by the way, he might, he might come to the lady in the room and get, uh, free meals for until my debts paid off. Sorry.
+[0:10:53] JP Sherman: Artemis.
+[0:10:54] Unknown Speaker(s): Artemis, yeah, the fire giant, no. The other one, the the No.
+[0:11:00] JP Sherman: Okay.
+[0:11:01] Ian Lurie: Smaller meals, I'm
+[0:11:03] JP Sherman: doing animus, okay. I was thinking
+[0:11:06] Speaker 2: animus too, and I was real confused, because I don't think we have seating for that, right? What do I call this an inventory,
+[0:11:15] Ian Lurie: just whatever helps you remember
+[0:11:17] Unknown Speaker(s): Teemu knockoffs, temu machine,
+[0:11:20] Ian Lurie: emu machine. I like it.
+[0:11:21] JP Sherman: You mentioned that there's a vaguely cat shaped set of armor. It's
+[0:11:27] Unknown Speaker(s): got a tail. It's got a tail.
+[0:11:32] JP Sherman: Neat like I guess we should, I we definitely need to spend some time identifying things.
+[0:11:38] Unknown Speaker(s): Yes, and none of us know how to identify. I
+[0:11:43] Speaker 2: feel like we had a guy who used to what happened to him.
+[0:11:47] Unknown Speaker(s): He went out for a pack of eggs.
+[0:11:51] Speaker 2: I mean, I can do detect magic, but I have a feeling I'm just gonna be like, yes, it's magic.
+[0:12:00] Unknown Speaker(s): Yeah, me too. Well, we can take it back to the other place and get some
+[0:12:07] JP Sherman: we could take, we could take to the bastion. They have identification services, and it might be smart at some point to make some identification scrolls.
+[0:12:20] Unknown Speaker(s): Ooh, look at you. She has it more.
+[0:12:23] JP Sherman: I'm just smart and all over the place. Jeez,
+[0:12:27] Unknown Speaker(s): it's a holiday
+[0:12:29] JP Sherman: right next to the table of reproduction. I guess I'm not. Nope, you said it. I So yes, we should go.
+[0:12:49] Speaker 2: We should go show the broken stuff and be like, Yo, we fixed your problem. Kind of sort of maybe, can you identify some things?
+[0:12:57] Unknown Speaker(s): Yeah. Also, we need to get something from him, don't we a badge, right? Yeah, the badge
+[0:13:07] JP Sherman: Bruce badge,
+[0:13:09] Ian Lurie: the badge of zero. Yes, badge of zero.
+[0:13:19] JP Sherman: Okay, yeah, we totally do that. Jamar, you've got the shit eating Gruen right now. No, I
+[0:13:27] The Rikterr is my Shep'ard; I Shall not Want: said that like five minutes ago.
+[0:13:30] Unknown Speaker(s): He did? You did? He absolutely did. I love y'all so much, and
+[0:13:39] Ian Lurie: it's going to be forgotten again in the next few minutes. That's okay.
+[0:13:43] Unknown Speaker(s): Oh, I've got an idea. Let's go get that badge thing. I don't know if anybody's brought this up, but might be a good idea. Yeah.
+[0:13:57] Ian Lurie: So are you going to wait for Captain Ember Forge and take the fire heart back the airship. Well, are you gonna do anything else here before I,
+[0:14:07] Speaker 2: I mean, we investigated everything, I think I actually already did detect magic, and then tied anything aside from, like, it's magic. Whoo, yeah. Is
+[0:14:17] Unknown Speaker(s): there any like, money, like in the desk or anything? No,
+[0:14:23] Speaker 2: what looks to be his prized possessions. I would like to go fuck with him before we leave. That wand
+[0:14:30] Ian Lurie: was in a gorgeous crystal case, and then the armor, which was hidden until you pushed a particular button on that gorgeous crystal case which then revealed the armor, also the bed with the insect colony, but you're not sure you want to take that
+[0:14:49] Unknown Speaker(s): with you. No, that one is particularly creepy. Yeah,
+[0:14:55] JP Sherman: feels like a lot of little mouths to feed. Hey,
+[0:14:57] Ian Lurie: they weren't either. Oh,
+[0:14:59] Speaker 1: should we bring some kind of proof that he's a fiend? Do we? Can we acquire something similar,
+[0:15:05] Speaker 2: like yo we stopped him, but this guy's a fiend. He's probably gonna be back up and
+[0:15:10] Unknown Speaker(s): running. I'll just the minor illusion, a description of him. Did he was he? He was not in disguise when we met him, right,
+[0:15:20] Ian Lurie: no, and you didn't even kill him. He just, he just, he just baffed away, yep,
+[0:15:30] Unknown Speaker(s): hey, remember that Bruce thing? We should go find that brooch.
+[0:15:38] Ian Lurie: Everyone loses 30 experience, 30 levels actually
+[0:15:44] Speaker 2: jokes on you can't go that low.
+[0:15:48] Ian Lurie: We're all primordial. You all become primordial ooze again, which instantly evaporates because you're on the elemental plane of
+[0:15:59] Unknown Speaker(s): fire. Well, shit.
+[0:16:07] Ian Lurie: So just a reminder of the items that you now have. You have that bag, weird Bag of Holding, ish type of thing. You have the wand, the armor, and then you have a couple of potions, none of which are identified at this time.
+[0:16:37] Speaker 2: So let's go find the mayor and chat with him.
+[0:16:42] JP Sherman: Yes, where did I leave? Sura.
+[0:16:47] Ian Lurie: Sura and echo are both back at animus complex, mountain complex, right? You didn't bring them with you that
+[0:17:03] Unknown Speaker(s): we left a bit the Wildwood.
+[0:17:06] Ian Lurie: Oh, yeah, that's that's more, even more likely, yes, okay, I know you didn't bring them to the elemental plane of fire. That was not the plan, yeah.
+[0:17:17] JP Sherman: Because, if I remember correctly, Echo is Echo would be at Wildwood providing emotional support for Kiki. And I would not have taken, yeah, yeah, that's, that's where they they
+[0:17:35] Unknown Speaker(s): should. Okay. Cool, all right,
+[0:17:43] Ian Lurie: so the fire heart is waiting for you all. You climb on board and Captain Ember forge signals the crew. You take off. You are flying against. There's sort of this circular prevailing wind on the elemental plane of fire that's coordinated with this, that blue, that white, hot pillar of fire at the center of the plane. And the way it rotates is the way that the wind rotates. So it's a much longer journey back. It's a few days, but you know, you have ample food and water and everything. So on the first I'm going to need people to give me those lovely Wow, look at that. Random everybody knew what was coming. Random occurrence rolls. So someone roll me A, D, 22,
+[0:18:42] Unknown Speaker(s): two,
+[0:18:44] Ian Lurie: getting off to rip wrong start, okay, roll another D 20
+[0:18:51] Speaker 3: for me do. Okay, so
+[0:18:59] Ian Lurie: wipe the brain off my face. You all are about four hours out from temu, and you're making pretty good time when Captain emberforge comes you and says, I think you need to get below decks. And he points and off in the distance, right about where that pillar of white hot fire is, there's some kind of enormous cyclone of fire forming, and you can see it. It's like a huge cloud that's starting to slowly rotate. He says, the weather can change quickly here, and there's really only two kinds of weather, what we're in now, and oh god, we're all going to die weather, which my crew and I can certainly survive, because we're natives here, but if you're above decks, it might just kill you. I'm not sure how impervious you are to fire, but we will probably be enveloped in flame in a few in a few hours. Oh,
+[0:20:06] Speaker 2: if we could not do that, see our our old gent over here get a little crispy ones. And I really it chafed him good, and he had to go wander out for a pack of smokes for, like, a year. So if we could not singe him,
+[0:20:20] Ian Lurie: if you could stay below decks, you would certainly be safe. This, the ship is fireproof. It's just
+[0:20:27] Unknown Speaker(s): that's that,
+[0:20:29] JP Sherman: yes,
+[0:20:29] Unknown Speaker(s): jaunty stroll up on
+[0:20:31] Ian Lurie: him. The ship is actually made of stone, so it's extremely resistant to fire.
+[0:20:40] Unknown Speaker(s): All right, out
+[0:20:41] Ian Lurie: of a sense of curiosity, you stay up on deck for a little bit longer, and you see this cloud of fire basically spin into existence and approach the ship. And as it gets closer, you realize it's about the size of a hurricane, and
+[0:20:58] Unknown Speaker(s): absolutely the fuck not,
+[0:21:00] Ian Lurie: yeah, and you're basically above it, not quite above it, but you're high enough that you can see the shape of it. I don't know if you've ever been in an airplane when a hurricane was was forming below, or something like that, but it looks exactly like you would think it looks in the satellites, only much bigger and scarier, because it's up closer, and the ship is starting to buck around, and you can feel the wind starting to really push against the ship. And the wind is blazingly hot. It's as if it's like the hottest Santa Ana wind ever, but even more so, and you can feel it sucking the moisture out of you, and you all go scrambling below deck, I'm assuming Captain Amber forges gentle insistence, they put you in quarters that are sort of right in the center of the ship. In a traditional sailing ship, in a traditional like classic sound ship, would be called the orlop. It's where it's the safest part of a ship in a battle, because it's in the very center and really low down. But zero wind, zero, sorry, zero windows, no access to anything. You can't really see what's going on out there. And just as you get down there and you close the hatch, the ship starts bucking crazily like to the point where, one minute you're standing on the floor, the next minute it feels like you're standing on a wall, the next minute you're standing on a floor again. So everyone needs to give me a constitution, save,
+[0:22:39] Speaker 1: oh, all of my days are mad at me, though. Why are you meeting me doing this? Plus
+[0:22:43] Unknown Speaker(s): five? Everyone? Ooh,
+[0:22:50] JP Sherman: 15. Okay.
+[0:22:52] Speaker 3: I pooped. Oh, no,
+[0:22:56] Unknown Speaker(s): 19, literally
+[0:22:59] Ian Lurie: 29, okay. Now, strictly speaking, no, it's not literally poop. It's the other thing. And I mean, it is, it is the worst possible of all conditions. It's hot, it's stuffy. You're being thrown in random directions. It is every nightmare together. And yeah, no, you have an extremely difficult time. Rikter, and you're not exactly I would say you probably won't use a bag of holding for this, because it's a valuable magic item, but you do consider it a few times. I also need everyone, or everyone, yeah, you know what? There's four of you. Everyone roll a d4
+[0:23:40] JP Sherman: board. 3213,
+[0:23:52] Unknown Speaker(s): okay. Um,
+[0:23:56] Ian Lurie: so about an hour goes by and the shaking gets even more violent, and you're starting to feel heat inside this part of the ship, like the walls are getting uncomfortable to touch, and you can actually hear this howling wind outside now, and you hear the crew, and they're yelling, and they don't sound panic, but they're definitely yelling louder than they were a few minutes ago, and they're just starting to wonder. You can tell you're just starting to wonder, are we screwed? Everybody? Roll d4, for me again, three, four. Okay, y'all want to stop rolling threes.
+[0:24:48] Unknown Speaker(s): My bad. The
+[0:24:51] Ian Lurie: were there two people rolling threes or just 122,
+[0:24:56] Unknown Speaker(s): JP is bad.
+[0:24:58] Ian Lurie: You are the bucking is getting even worse, and you hear this violent crashing up top, and you realize the ship is actually starting to spin like on its axis. You know, James rolling below a five twice in a row. That's, that's impressive. I mean that. That's, thank you so much. So the ship is starting to spin in this kind of weird, off kilter way. I won't make you make another con con save yet, except rikter You can make one to see if you can get yourself under control. Your inner ear under control. 13. Okay, so you're, I mean, you're feeling fucking awful, but you have things sort of under control at this point. And the ship is definitely listing and starting to spin a little bit, and you definitely heard that crash up above decks. So why don't you give me another another, d4, everybody.
+[0:26:07] JP Sherman: We use another dice because 143,
+[0:26:13] Speaker 2: don't be like this is when you wanted a five, one,
+[0:26:18] Ian Lurie: okay. Um, so things, after a little bit, things start to stabilize. A little, they start to stabilize. The ship is no longer spinning as crazily as it was, and you're pretty sure, like you're no longer getting burnt. In fact, everyone roll a d6 for me,
+[0:26:36] Speaker 2: Mossy or Mossy, damn it, geeky keeps stealing my dice like there's a sachet somewhere, 635,
+[0:26:46] Ian Lurie: that's how much fire damage you each take just from being in contact with the stone around you during the storms. Because of how hot it got, the ship is no longer spinning as crazily as it was. It's still rocking. You can hear the wind screaming. It doesn't seem quite as hot, so give me one more set of d4 Well, hopefully one more set of d4 rolls,
+[0:27:10] Unknown Speaker(s): rock, 3243, damn it.
+[0:27:18] Ian Lurie: Okay. Things stay about the same. It doesn't seem to get any worse. The ship is still bucking quite a bit. There's no more crashing sounds, and you hear the crew, and they seem to be yelling orders to each other. But things have not improved that much, and you figure it's been about four hours now that you've been down here. So yeah, it's pretty bad. So everybody, give me another con. Save
+[0:27:44] Unknown Speaker(s): Okay, Bobby, be my friend.
+[0:27:46] The Rikterr is my Shep'ard; I Shall not Want: Remember, plus 528,
+[0:27:51] JP Sherman: 1727,
+[0:27:55] Ian Lurie: okay, you're all good. You're not sure if you're getting more used to this or if you're just getting but it's a dry heat, but, yeah, it's a dry heave, yeah, um, but it doesn't feel quite as awful as it did a little while ago. So give me another set of D fours.
+[0:28:15] JP Sherman: Now we know what a brisket feels like, like low and slow. 134,
+[0:28:26] Speaker 2: okay, did you just say now? What a now, we know what a brisket feels like.
+[0:28:31] Ian Lurie: More rotisserie chicken, but brisket, sure,
+[0:28:34] JP Sherman: it's the long pig.
+[0:28:38] Ian Lurie: Let's see here. So the ship finally stabilizes, and the stone around you is hot to the touch, but no longer feels like it's going to burn you, and you have a sense that you're actually that things are just kind of under control, that you're moving in one direction, and it feels somehow more intentional, like if you've ever been in an airplane in a storm, and you you're not in a window seat, so you can't look outside, and you just know that, like the plane is just not going in the direction it's supposed to. And then you sort of get a sense when the plane is moving, when it's sort of, it's a little more intentional in its direction. Maybe I'm saying too much about the kind of storms I've been in in
+[0:29:20] Speaker 2: planes, right? My guy, maybe you should stop flying. Spirit,
+[0:29:24] Ian Lurie: yeah, no, these were all small planes,
+[0:29:28] Unknown Speaker(s): yeah. Spirit, can afford the big planes. We know.
+[0:29:30] Ian Lurie: Yeah, yeah. No, they and they take off right into torment, tornadoes and shit, although it was
+[0:29:34] Unknown Speaker(s): fuel you use, the wind,
+[0:29:36] Ian Lurie: Southwest, apparently. Southwest apparently took it took off in Phoenix, just as that sandstorm was blowing in,
+[0:29:43] Speaker 2: yep, they're just like, Fuck it we ball, which is amazing,
+[0:29:49] Unknown Speaker(s): yeah, so let's see That's
+[0:29:55] Ian Lurie: I'm doing some quick math here,
+[0:29:58] Unknown Speaker(s): which,
+[0:30:00] Ian Lurie: Mm, hmm. Okay, so there's a knock at the hatch, and then the door opens, and the captain is actually, no, there's a crewman there, and he's wearing kind of a bandage wrapped around his head, and it's, you're not sure what it's made of. Clearly, it's not cloth, and you can see, actually a spot where there's a little fire leaking out, and he says, Captain says, safe for you to come up above decks. Now if you want to hope you're all okay and pretty much uninjured, it was a pretty wild blow.
+[0:30:34] The Rikterr is my Shep'ard; I Shall not Want: Use head is just between his knees.
+[0:30:39] Unknown Speaker(s): Freshen you up with press visitation.
+[0:30:41] Ian Lurie: Don't feel bad. It's some of us were. Yeah, we there was lava, lava everywhere. That's all I'm gonna say. You guys go above decks and you see a couple of things right away. First of all, you're not that far from Teemu. You must have gotten blown back quite a ways. You can see Timu to your north. You're over what are called the cinder Cinder wastes, which you had flown around when you came to temu. The ship is trashed, like the the ship has two masts. One of the mass is just gone. It's not falling down or anything. It's just gone. The other mass is there, but most of the sails on it are trashed. The big the big sweeper, like almost or things that seem to propel it along are there, but they're kind of cracked. You might try that promo code. I don't know. It might work really well.
+[0:31:40] Unknown Speaker(s): You
+[0:31:42] Ian Lurie: you see the captain. He's got his arm in a sling. Most of the crew looks like they've been banged up one way or another. And the captain says that is got to be the worst fire cyclone I have flown through in 10 years. That was, that was, so you can cross that one off your what do they call it, where you where you're from. It's a thing that holds water,
+[0:32:04] JP Sherman: bucket list,
+[0:32:05] Ian Lurie: bucket list. You can cross that one off your bucket list. That's right,
+[0:32:09] JP Sherman: hey, we are horizontal and not crashed. You did well.
+[0:32:13] Ian Lurie: Compliments to my crew. That's it was. It was impressive. It's going to take us another day or so to get back another day. In addition, because we blew back one full day, those storms pack winds of about 75 miles an hour, we can only go 25 so pretty much we were just trying to keep it pointed in the right direction, which, for the most part, we did okay. The crew gets everything settled down. You guys get some food, and you need to roll me another D 20.
+[0:32:45] JP Sherman: Yeah, alright, I got this. My
+[0:32:47] Unknown Speaker(s): nice Hey, me tonight. You don't be doing this. We're negotiating. Do, do we have time to take a short rest? Oh, absolutely a six. Yes. Alright, cool,
+[0:32:59] Ian Lurie: yes. You absolutely take short rest.
+[0:33:01] Speaker 2: Damn question. Since curse is removed, does that mean my hit point Max is up or not until I rest your
+[0:33:07] Ian Lurie: hip point Max needs a long rest. Okay? And you guys do have time assuming that there's no huge another, not another huge storm. And the captain says these are rare. They happen once every, you know, two to three years. So you know, I wouldn't expect another one anytime soon. Um, you travel for an entire day, and it's uneventful, so if you want to take a long rest, you certainly can. Oh, yeah,
+[0:33:32] Unknown Speaker(s): I realized that was down to 15 hit points after taking off that two fire damage. It
+[0:33:38] Ian Lurie: would have been a shame to die in a storm. You know,
+[0:33:43] Unknown Speaker(s): there were
+[0:33:44] Ian Lurie: people who actually died of seasickness on early ships, and that just seems like the worst possible way to go. So it's another day. So everyone, someone needs to give me that D 20 again,
+[0:34:02] JP Sherman: 18.
+[0:34:04] Ian Lurie: Okay, roll me another D, 2011,
+[0:34:13] Unknown Speaker(s): okay.
+[0:34:16] Ian Lurie: As you're flying you, the captain says this, you're going to want to see. And he has a telescope out, like a really weird looking sort of stone telescope, and he hands it over to whoever's up on deck right now. And you can see in the distance there's this enormous tower of stone with all these smaller towers and parapets on it and everything. And it's this black stone, and it's actually floating on an even bigger block of stone that's floating on top of a sea of lava. He says, because of how far, of course, we got blown, we're actually on the edge of the sea of lava, not someplace we really want to be, but we're here, and that's one of the the as the azer, my people build towers there, like that. And as he he's as he looks at it, he says, I'm just gonna signal them so they don't come attack us, and we should be fine. And he does. And you know, for a while you see a group of Wyverns fly pretty close to the ship, and on the back of the Wyverns are some other azer. And the Wyverns are actually wearing armor made of stone. It's really weird to look at. And inside the armor, it looks like they are all fire, and they fly close, and then they fly away again. You make it another day. You've only got one day left, so give me another D 20,
+[0:35:42] Speaker 2: damn it, I warned you the dice. Don't love me tonight. 10,
+[0:35:51] Unknown Speaker(s): okay, as
+[0:35:54] Ian Lurie: you're flying, the azer says, The captain says, You four are
+[0:36:06] JP Sherman: an interesting group in for a treat.
+[0:36:10] Unknown Speaker(s): So
+[0:36:12] Ian Lurie: he says, You
+[0:36:14] Unknown Speaker(s): cake,
+[0:36:15] Ian Lurie: you don't see these. Yeah, you don't see these every day either. Catching up to the ship is, well, at first, it's just in the distance. And he he was, he says a few commands in ignan to the rest of his crew, and you see them all quietly start setting up these ballista and all the other things that have, you know, big stone arrows in them. And he says, not to worry. It's just a precaution. We should be fine. And and he says, By the way, would any of you happen to have any cooked meat?
+[0:36:52] Unknown Speaker(s): Yes, bacon?
+[0:36:53] Ian Lurie: Vast amounts? Yes. Oh,
+[0:36:57] JP Sherman: vast amounts. No.
+[0:36:58] Ian Lurie: Well, even small amounts might be helpful in a moment. Yes, okay, and you see this rapidly approaching. First thing, it's a bird. Then you think it's fire, and then you realize it's actually a bird made of fire. And as it gets closer, you realize it's about the same size as the ship, and it kind of flies alongside the ship. And anyone here? Someone one of your fairy pigs, anyone with Arcana? And give me a roll to see if you know what this is.
+[0:37:31] JP Sherman: I am not good at Arcana.
+[0:37:32] Unknown Speaker(s): 27 Yeah. I'm squishy and I am a nerd.
+[0:37:39] Ian Lurie: This is a Phoenix, and apparently they grow them bigger on the elemental plane of fire. This thing is huge. It's actually gargantuan, and it flies alongside and Captain Ember for says, so as near as I can figure, they get real curious when there's things here that aren't from this plane, because they're always looking for, excuse me, snacks and
+[0:38:07] Unknown Speaker(s): a lot of tips. A step back,
+[0:38:10] Ian Lurie: a lot of us here like the taste of cooked meat, but we can't have it, because anything that inhabits this plane is fireproof, so whenever there's something that's not from this plane, sometimes scavengers and things come nearby because they think maybe there's some meat they can actually cook. So if you give it, if you I know it doesn't look like it, but it's really just curious. If we can give it.
+[0:38:41] Unknown Speaker(s): I would love to feed the Phoenix
+[0:38:45] Ian Lurie: if, if you could give it a treat or two, that would probably take care of it. So
+[0:38:52] JP Sherman: in my inventory, from the from the floating rock place, I have in my inventory, it called a dried whole pig, I will give up the can I feed it, yeah,
+[0:39:13] Ian Lurie: not a dried whole pig. A dried whole pig, I think
+[0:39:16] JP Sherman: a whole dried Shut up.
+[0:39:21] Unknown Speaker(s): Drag secret sauce. I'm gonna see myself out.
+[0:39:25] JP Sherman: It's a whole. It's like a, it's like a, it's like a giant pig, size bacon with, yeah,
+[0:39:33] Ian Lurie: I'm gonna say it's a full, full size boar. It's, you know,
+[0:39:37] JP Sherman: yeah,
+[0:39:38] Ian Lurie: a half a ton of angry, angry bacon. Um, angry bacon. Whoever. To feed it to the creature, it'll take two of you. You have to give me animal handling checks. Well,
+[0:39:49] Unknown Speaker(s): I'm not very good at animal handling, but Mossy is
+[0:39:51] Ian Lurie: too curious. You're on now.
+[0:39:52] Unknown Speaker(s): Can it? Does it speak any languages?
+[0:39:58] Ian Lurie: He says, I do you? Do you ask Ember Forge? Or are you relying?
+[0:40:05] Unknown Speaker(s): Yeah, I'll ask Ember forge first.
+[0:40:08] Ian Lurie: He says, As far as I know, they are as dumb as rocks.
+[0:40:13] Unknown Speaker(s): Well, singles gonna try to speak to it. Okay. Hey, buddy, how's it going? Are you using tongue of the sun and the moon. If it can understand languages, it can understand
+[0:40:26] Ian Lurie: me, even if it's not an animal language, yes, okay, all right, yep, um Yeah, it draws up and starts back winging, kind of surprised. And you guys hear Sango make these really weird sounds as he's speaking. You're not even sure what he's speaking, and it kind of stops, and it kind of cocks its head at you. You don't get a real sense of comprehension. It just kind of, but it sort of seems to be, it's like my dog, when his one brain cell kicks into gear and he's trying to understand what you're saying, he's kind of tilting. It's kind of tilting its head
+[0:41:09] Unknown Speaker(s): back and forth. So explain that we have some tasty snacks that we would my friend seer, he pushes the other two forward, would like to share with you. And I also have some soup if you want some of that. And then I step back and I start drinking my soup.
+[0:41:28] Ian Lurie: Okay, the soup evaporates the moment you take it out. You should take too hot.
+[0:41:33] Unknown Speaker(s): Anyway, it was too hot. Anyway, you plan
+[0:41:36] Ian Lurie: you should. The only thing that's keeping you all from bursting into flames is that you're wearing the ambulance of comfort. Otherwise you would have died the moment you left the city of brass. So don't take those off. Yeah, give me a charisma check. Sango,
+[0:41:55] Speaker 3: this is gonna be great. Plus 00. Shit.
+[0:42:03] Unknown Speaker(s): That's it. That's do I get any help? No, that's it. That's a tube. It
+[0:42:10] Ian Lurie: just doesn't have
+[0:42:11] Unknown Speaker(s): charismatic
+[0:42:12] Ian Lurie: so talking, yeah, talking to it just doesn't really have any effect. So okay, Mossy and Drac, you each need to give me animal handling checks.
+[0:42:19] Speaker 4: Oh, god, okay, I love animals. Fuck yes. Natural 20.
+[0:42:28] JP Sherman: That would be 34
+[0:42:30] Ian Lurie: Okay, okay, so you two expertly hold out this enormous pig, and only because you're Dungeons and Dragons characters Can you can you actually the two of you lift something this size, and at just the right moment, you kind of let go of it, and the Phoenix snatches it out of the air. And you can see it kind of works on it for quite a while, just sort of chewing. And you're not sure what happy or mad or sad look like for a fire, a bird made of fire that's the size of a three story building, but it appears to be happy and satisfied, and it turns and it flies off.
+[0:43:13] JP Sherman: Does it drop? Anything like, I don't
+[0:43:16] Speaker 2: know, doing cartwheels. She's doing like a backflip. She's just happy dancing.
+[0:43:21] JP Sherman: Diary feather. Yeah,
+[0:43:22] Ian Lurie: it's not like a crow, no, it doesn't. It doesn't bring you presents. Okay? It didn't
+[0:43:27] Unknown Speaker(s): bring you presents the first time. We gotta feed
+[0:43:29] Ian Lurie: it. That's true. That's true. It didn't swallow the entire ship.
+[0:43:33] Unknown Speaker(s): Also good, which is good.
+[0:43:37] Ian Lurie: And it recedes into the distance, and just as it does. And the captain is looking at you again with this sort of kind of curious and he started looking at you the same way that the Phoenix was. He says, You guys have seen some shit. I think I
+[0:43:52] Unknown Speaker(s): got to ride a Wyvern once. It was amazing.
+[0:43:55] Ian Lurie: Well, because none of this seems to really surprise you or scare you or anything else. No, I'm not sure I want to know what your lives are like on a day to day basis. It's not boring.
+[0:44:09] Speaker 2: I sometimes things happen and direct. It's a glory hole we just tuck and roll.
+[0:44:16] Ian Lurie: He just turns away and gives some orders to the rest of the crew, and IGN and the the fire. Heart slowly spirals in for a landing in raskolt, and as you land, you can see the mansion where sertor lives, the tower where search or lives, and the mansion where the mayor lives as well. It
+[0:44:43] JP Sherman: Okay, he gets five stars. So I'm going to be like, this is cool. This is, sounds like someplace I've never been before.
+[0:45:06] Ian Lurie: That is true. Do you guys want to describe this town to him? Yeah,
+[0:45:13] Unknown Speaker(s): none of you remember. Do you
+[0:45:16] Speaker 2: Okay? Wait, no, it's, it's like, um, the city that Luke Skywalker is from. It's very dusty. It's Adobe they make, like artists and crafts. They're known for their fireproof goods. It's like the source of their income. Everybody, nobody's that flashy. I, if I'm remembering correctly, all the clothes are like different shades of drab. But yeah, the mayor kind of blackmailed us into taking this quiz. Because he's like, Look, you gotta go take care of this, and then I'll help you, because we need what do we need from him? As for myself, well,
+[0:45:50] Ian Lurie: Search her. So sertor is not the mayor, but he lives in that tower, and he said, do a favor for the mayor. So you then went to the mayor, who said,
+[0:45:59] Unknown Speaker(s): yes,
+[0:45:59] Ian Lurie: yeah, yeah. Yeah. So you were sort of blackmailed by proxy, which is fun, yeah? And you see, you know, everyone here is either azer or a fire elemental. And you see little azer children running around with little and the characters didn't know this when they got there the first time, but basically, fire elemental puppies, little teeny fire elementals,
+[0:46:20] Unknown Speaker(s): yeah, one bit me. It was not
+[0:46:21] Ian Lurie: cute, yeah, one came up and took a nibble out of Mossy. It's true. So, you know, there's things like that walking around, but this is a factory town, right? They produce artifacts of extremely high quality, and you realize that these are the things that were being knocked off at Teemu, got it.
+[0:46:46] Speaker 2: Oh yeah, I have like 10 of these hammer things I shoved in the bag. Yep, so you go.
+[0:46:53] JP Sherman: So if there's, if there's any like, if we pass any like market squares or something like that, if they have any like, like in my head, like, if I'm thinking of, like tattooing, slash Mad Max, like those really tan, dusty cloaks that protect you from like fire. Like, if there's something like that there, we're
+[0:47:15] Unknown Speaker(s): wearing amulets right now,
+[0:47:17] JP Sherman: okay, do we have to return them?
+[0:47:20] Unknown Speaker(s): Yes,
+[0:47:21] Ian Lurie: not until, not until you're in the city of brass. Because, like I said, if you take them off now, you will simply burst into flame and die,
+[0:47:27] JP Sherman: right? But they have something like that that we can keep that's cool, too.
+[0:47:34] Ian Lurie: So you can certainly ask, do you want to do that first, or do you want to go speak to the mayor or speak to searcher.
+[0:47:43] Unknown Speaker(s): Let's speak to the mayor. Maybe he'll reward us with
+[0:47:45] Speaker 2: right, and like, if nothing else, maybe he'll give us a discount on the gift shop as we leave. Right? It's very toasty here, and it's not doing good things for my fur. See this your
+[0:47:57] Ian Lurie: prison? Your prison? Yeah, the mayor is the skinniest, oldest fire giant you think you've ever seen. I mean, you haven't seen many Fire Giants, but he does appear to be quite skinny and old,
+[0:48:09] JP Sherman: and two that I've seen, yes, yes.
+[0:48:12] Ian Lurie: Compared to animus, he is
+[0:48:15] Unknown Speaker(s): compared to Animus.
+[0:48:18] Ian Lurie: Everyone's kind of skinny. Ulos is his name, and he is out in his yard, and he's actually carefully piling what appears to be burning rocks around these little flowers that are their stems are glowing white hot, and then the leaves the petals or the flowers appear to be individual flames, like coming off of the the stem, the top of the stem, and he sees you coming, and he says, Oh, you're back safe, I hope.
+[0:48:55] Speaker 2: But I mean, mostly, that guy sucked a lot.
+[0:49:00] Ian Lurie: So tell me who, who did you find? Who was it? What happened?
+[0:49:04] Speaker 2: It was this rock Shasha, who was a dick, and we didn't, we didn't, technically, you know, like, but we did get him to skedaddle. So I brought you one good hammer plop out of the bag of holding and 10 knock off hammers. Blop
+[0:49:25] Ian Lurie: Interesting. Tell me the location where this place was so
+[0:49:32] Unknown Speaker(s): Sango, minor illusions, a picture of what Ardmore looks like with his glasses, in a suit and everything. And then minor illusions. Then this is Aardman, by the way. And then minor illusions, the complex where the team was sort of, This guy sucks so much, though, but he left,
+[0:49:58] Speaker 2: yeah, judo. What can hurt them? Because this guy, like, we just killed everyone. He was like, Well, I'm gonna go now.
+[0:50:03] Unknown Speaker(s): He if
+[0:50:08] Speaker 2: you don't, you're gonna want to figure that out, in case he tries to set up shop again, because he's pretty resilient. I did this whole like, pea soup thing on him, and it was fun, but he
+[0:50:20] Ian Lurie: gives you a completely blank look. Because I have no idea. I've never seen a creature like this before.
+[0:50:28] Unknown Speaker(s): You've never seen it looks like a cap.
+[0:50:30] Speaker 2: Um, he's a dick. I think we covered everything, right?
+[0:50:37] Ian Lurie: I'm just the mayor of a very small town. I don't I've never gone adventuring. I haven't done the kinds of things that I'm sure you have done. So I have mostly seen other creatures of fire. You are. You are four of a handful of non planar beings that I have met.
+[0:51:00] Speaker 2: So I'm assuming that means no one sells conditioner in this town.
+[0:51:05] Ian Lurie: I don't know what that is, which probably means, no, we
+[0:51:07] Speaker 2: probably should get on our way. Then, you know, did you swear? I don't know if you like Right? Sout, a note that says, yeah, these guys are kosher, and we carry on. I think Jack wanted to see the gift shop.
+[0:51:19] Ian Lurie: Oh, yes, let's, let's go speak to sort her. I'm sure he'll, he'll want to learn more about this.
+[0:51:27] Unknown Speaker(s): Oh, you know we should give, uh, searcher as a, as a gift. We should give him that book. Which book the the one from his coffee table, uh, tapping the fire within is his memoir.
+[0:51:42] Speaker 2: No, why would you put that curse upon anyone? I thought you were good. I thought, what's your alignment, bro? What are you even aligning with?
+[0:51:50] Unknown Speaker(s): I thought he might, you know, I will get some humor out of it. I don't
+[0:51:55] Ian Lurie: know. I will point out, for the sake of the plot, that there is a picture on the back of the book, the dust jacket of that book of surter and ardman standing together.
+[0:52:08] Unknown Speaker(s): Oh, that's right, I forgot searcher knows him. Oh, yeah. So, Huh, wait, so is this like a Jeffrey Epstein kind of thing where he's just taking pictures of all the people he can maybe wiggle in next to kind of a thing. What is does that signature look like?
+[0:52:28] The Rikterr is my Shep'ard; I Shall not Want: Hold up, hold up, hold up, hold up. We can never say Jeffrey Epstein and wiggle in the same sins ever again.
+[0:52:38] Unknown Speaker(s): It's fair hair.
+[0:52:44] Ian Lurie: Approve of that message. So Ulos walks you across town, and you do see there's a few little shops. And he says, If you want to, after we've met with Sartor, you can certainly frequent some of our shops. The city of brass also has a very large market that you can you can peruse when you're there. And they walk up to the base of the tower, there's the two big fire elemental mermidians, and they're in their huge armor with their swords waiting at the front door, and as soon as they see Ulos, they nod, and they move to the side, and the door opens. You guys go into the massive entry chamber, and sertur comes to meet you. And JP, just for your reference, he is the tallest, largest, most most imposing looking fire giant you've ever seen by far, because he is actually the demigod of Fire Giants. And just as a bit of background, he was, he was sent here by Tiamat and imprisoned here, and all of his stuff was destroyed by Tiamat, which is why he is so willing to help you all out. I
+[0:54:01] Unknown Speaker(s): know very high charisma rule. Ask if you wanted to fuck with her.
+[0:54:04] Ian Lurie: Yeah. He shared, he shared this all with you a full two game sessions ago, so I'm just providing the quick refresher. He says, Well, you are, you are here, so I'm guessing you took care of the problem for my friend who lost here,
+[0:54:22] Unknown Speaker(s): well, yeah, sort of we brought you a book. I flip it over. Look, you might know this guy. It's you, Tim, it's you. It's him, Tim, and it's you. This was the guy who was in the temu sweatshop making knockoffs. He skedaddled, he got away, he wiggled away. But we destroyed his machine, and we gave some of the extra things to the mayor, that guy right there.
+[0:55:03] Ian Lurie: I remember him. He when He kind of looks off into the distance, he says,
+[0:55:11] Unknown Speaker(s): he stopped a lot. It must
+[0:55:13] Ian Lurie: have been 150 years ago now, he came to me, wanting me.
+[0:55:23] Unknown Speaker(s): To fund him to build
+[0:55:28] Ian Lurie: some kind of ridiculous company, or malfe, orzith, or something like that, where he builds it
+[0:55:37] Unknown Speaker(s): sure did,
+[0:55:39] Ian Lurie: interesting. Okay, well, he calls over one of his fire elemental lieutenants, and he whispers something in what you assume must be a fire elemental lieutenant's ear, says, we'll just make sure that he doesn't get to set up shop on this plane again.
+[0:55:57] Unknown Speaker(s): I so
+[0:55:59] Speaker 2: just in case we ever fight someone like him again. What is that fucker vulnerable to everything we threw at him. He's like hand cocky prick. He
+[0:56:08] Ian Lurie: is incredibly vulnerable to attacks from blessed creatures. So if you use the bless spell on some and then attack
+[0:56:25] Unknown Speaker(s): that will only we had a cleric to help us with that. You, all three of you, have a god. Come on.
+[0:56:33] Ian Lurie: I think Paladins have blessed, but I can be wrong about that. Yeah. So yes, he is extremely vulnerable to that. They are extremely greedy, very manipulative, and often work with Tiamat.
+[0:56:53] Unknown Speaker(s): Yeah, that makes sense,
+[0:56:55] Ian Lurie: and I am sure that her foul hand is in this somewhere, because everything
+[0:57:00] Speaker 2: those two go to, like christening ceremonies and call babies fat, they both suck equally.
+[0:57:06] Ian Lurie: He kind of sits in his throne, and he kind of goes like this, says everything, everything fell that has happened to me has happened to me because of that dragon.
+[0:57:16] Unknown Speaker(s): I swear to you. She is.
+[0:57:20] Ian Lurie: She is a curse upon my existence,
+[0:57:25] The Rikterr is my Shep'ard; I Shall not Want: upon hours too.
+[0:57:27] Ian Lurie: You wish something, a boon in return, a badge of Ariel. And I do have that for you. And he reaches down next to the throne and brings up this, this banner that you would generally wear across your back, and it would stick up a little bit, and it has like a flag on. It says, this is the badge of zariel. If you wear this on the plains of Avernus, uh, no one there will trouble you, because they will assume that you belong there.
+[0:58:00] Speaker 2: Have we seen any um folks of Dragon lineage anywhere around here? No, okay,
+[0:58:09] Ian Lurie: no, there's only one kind of dragon that could potentially live here without without magical assistance. Anyway, Red Dragons,
+[0:58:21] Unknown Speaker(s): even they would struggle.
+[0:58:26] Speaker 1: Hey, searcher, um, do you remember have problems with her spying on you before?
+[0:58:33] Ian Lurie: I'm certain she's always spying upon me.
+[0:58:36] Speaker 2: Okay, so you haven't figured out, like, if I put tin foil over the countertop. She'll stay away.
+[0:58:44] Ian Lurie: What is this tin foil you speak of?
+[0:58:46] Speaker 2: Okay, so I make things. I'm an artificer, and I travel a lot, and my pocket bacon kept getting stuff in it, so I developed this way of taking metal that's very thin,
+[0:58:57] Speaker 4: and I can fold it around my pocket bacon so that when I want to eat it, I don't have a lint ball in my tooth.
+[0:59:05] Ian Lurie: Yes, I, I, we, that would not work here. It would melt. But I understand. I don't
+[0:59:13] Speaker 2: know what the hand motion was. You're either very approving or I'm I'm divorced. Oh,
+[0:59:18] The Rikterr is my Shep'ard; I Shall not Want: you don't. Oh, so drag queens when they have their nails in there very long, instead of clapping and maybe knocking them off, we'll just do that as a way to applaud. So trying to be an ally. Some would accuse me of, I know this appropriation, but, you know, I'm just trying to, like, continue to put things in the zeitgeist, you'd be like, hey, if I do this, guess what? It doesn't make you it don't make you gay motherfucker, do that in
+[0:59:49] Ian Lurie: front of a Republican and watch them get triggered.
+[0:59:53] Unknown Speaker(s): Existence is meant to be like, you don't want this. Neither do I.
+[0:59:56] The Rikterr is my Shep'ard; I Shall not Want: If I can go to jail for giving a Republican the two piece in the biscuit I will just rapture me at that moment.
+[1:00:08] Unknown Speaker(s): May I recommend a strawberry basket for dessert?
+[1:00:13] Ian Lurie: He searcher kind of draws himself up and suddenly becomes quite terrifying in his size and breadth. And it gets very, very hot in here, and you realize that he's probably dialing himself back to meet with you so he doesn't hurt anybody. And he says that creature haunts me, spies upon me, and does all she can to disturb and destroy the realms I have created. It is why I live in this village, which no offense, kind of shrugs, is not, does not resemble my ancestral home. In the least,
+[1:01:03] Unknown Speaker(s): where is your ancestral
+[1:01:06] Ian Lurie: home? Oh, you know, where the cinder wastes are.
+[1:01:09] Unknown Speaker(s): Oh, yeah, that way. Yes, they
+[1:01:10] Ian Lurie: weren't always wastes. Oh,
+[1:01:15] Unknown Speaker(s): what were they?
+[1:01:17] Ian Lurie: It was a city. It was the pride of the elemental plane of fire. It was where I lived, it was towers, and we
+[1:01:29] JP Sherman: saw all the towers,
+[1:01:33] Unknown Speaker(s): really. Oh,
+[1:01:35] JP Sherman: we did, didn't we? That
+[1:01:37] Unknown Speaker(s): was one of those things that those as a as as is this? Those fire guys great, right?
+[1:01:45] JP Sherman: Well, no, because we were, we were blown off course by a like a fiery Hert hurricane. And as we adjusted back to back to the we saw this enormous black tower with other towers coming off of it, sitting upon the foundation of a of a, I believe is a floating black stone.
+[1:02:08] Ian Lurie: Oh, no, that, no. I those are adorable. That's, that's an azer fortress. That's not no, okay,
+[1:02:16] Unknown Speaker(s): no, that's not laser. That's what I said, Yep.
+[1:02:22] Ian Lurie: But I do have labors I much must return to, including planning what I'm going to do when she is gone. So
+[1:02:32] The Rikterr is my Shep'ard; I Shall not Want: rikter steps forward and says, just one last question, of course, what would it take to restore you back to your rightful ancestral lands?
+[1:02:48] Ian Lurie: I can rebuild there. The problem right now is that if I do, her fell hand will come and destroy it. So rather than expose my people to war and debt. We have come here because she does not think to look in a place like this. She does not imagine that I would. She considered the would consider this a low existence. She would not come here looking for me. And I have to say, this is a place I would still come and visit if I had, if I still
+[1:03:22] Speaker 2: I'm hearing is when it's time for you to move, we should bring a gift at a hand.
+[1:03:29] Ian Lurie: She doesn't have hands, but I know some piece of her would be most welcome. How do you plan to destroy her? If you don't mind my asking,
+[1:03:43] JP Sherman: plan is in progress,
+[1:03:45] Unknown Speaker(s): a fluid situation. We have no idea
+[1:03:49] The Rikterr is my Shep'ard; I Shall not Want: percent of a plan.
+[1:03:52] Unknown Speaker(s): We have no concepts of a
+[1:03:58] Ian Lurie: he says, I do one piece of information I can impart. Oh,
+[1:04:03] Unknown Speaker(s): I love information. She
+[1:04:05] Ian Lurie: is not native to the Nine Hells. So if you kill her on the plains of Avernus, she will eventually re form. She will not truly be destroyed.
+[1:04:20] Unknown Speaker(s): Okay, what do you know where she'll reformat, assuming another plane, right?
+[1:04:25] Ian Lurie: I would just yeah, probably the Abyss she is.
+[1:04:28] Speaker 2: Wait. So killing her in the Nine Hells won't kill her.
+[1:04:32] Ian Lurie: I'm sure there are ways, but that would not permanently destroy her. Now,
+[1:04:40] Unknown Speaker(s): okay, but
+[1:04:42] The Rikterr is my Shep'ard; I Shall not Want: if we kill her in the nine hills, would you be able to rebuild?
+[1:04:45] Ian Lurie: I would have 100 years, because it will take her 100 years to reform in the abyss and return.
+[1:04:53] Unknown Speaker(s): Wait. So where the Is she from? If we kill her the nine hills, we have 100 years like I'm almost dead anyway, guys, so I'm good
+[1:05:05] JP Sherman: tracks, like, as the only elf here, he
+[1:05:07] Ian Lurie: says, Gods have fallen. Demi gods, even more often. I am certain there is a way to remove her from the planes. You
+[1:05:18] Speaker 2: know, she's not from the nine hills, because everything maybe, maybe I have this wrong. Maybe Jamie has this wrong. But as we knew it, the goal was to go to the nine house to kill her, because that was where she could truly be killed.
+[1:05:33] The Rikterr is my Shep'ard; I Shall not Want: But then we found out that she was banished here, like she is not necessarily from here, and she took over from other people. Yeah,
+[1:05:42] Ian Lurie: she's from. He says, no one is entirely certain. She may have started in the abyss or somewhere else. She was not always a demigod.
+[1:05:57] Unknown Speaker(s): She used to be a cartoon
+[1:05:59] Ian Lurie: for a while she was, yes, she was a cartoon,
+[1:06:02] Speaker 2: like hunting down a bunch of Lady Gaga is true today, like Stephanie geralti or something.
+[1:06:09] Ian Lurie: And basically, you know, there was a time when a bunch of first level characters with crappy magic items could scare her away. That is no longer true.
+[1:06:17] Speaker 2: Do you know any of their names? Is there anyone alive? Because that would be handy to go chat with
+[1:06:23] Unknown Speaker(s): Hank. I think what's name's Hank, presto, uni, bam, bam. I don't know the best I'm looking I heard Gollum still around.
+[1:06:41] Ian Lurie: Yes, there were six of them. They were very brave. They were Yes, it was Hank the Ranger, Eric the Cavalier, Diana the Acrobat, presto the magician, Sheila the thief, Bobby The Barbarian. And uni was Bobby's pet, a small unicorn who, for some reason, could survive almost anything, and they were not so much helped as steered along and then abandoned at all the worst possible time by this creature called the Dungeon Master. But that's all I know.
+[1:07:18] Unknown Speaker(s): Can I roll inside? Chuck? Please do please.
+[1:07:25] The Rikterr is my Shep'ard; I Shall not Want: This feels like some meta gaming as shit, and part of me is really happy, I don't know, because I'm just like, this is some cutesy shit right now.
+[1:07:35] Unknown Speaker(s): All right. Insight, 21
+[1:07:42] Ian Lurie: he says, Okay, I have to say that's not, that's not really, I don't know if there was anyone who could ever defeat her. I really don't. I just described to you though I can't believe I'm taking it down. My God, in this direction. This is like, this is the end of my career as a DM. He turns and he he says, Can I show you something, please? You promise not to share this with anyone else. Yeah, sure.
+[1:08:14] Unknown Speaker(s): Okay. Hold up before we go any farther. Raise your hand if you really know what's going on. Just me, huh? Okay, all right. He turned to be clarify.
+[1:08:25] Ian Lurie: He turns and he says, so there's this game, and not many people have heard of it, but it's called giants and jewelry. And when you play it, you get together with friends, and you sit at a table, what
+[1:08:41] Unknown Speaker(s): are these shiny things right here?
+[1:08:42] Ian Lurie: And you play, and you each assume the identity of a character. And before, I was a demigod, because I wasn't always demigod. I was just I was a child, a fire giant child, and I got beaten up for this very persistently in school. But he turns and he throws open this cabinet, and in the cabinet is this massive row of stone figures that are about half your size, which you realize would be about a 28 millimeter figure if you were his size, as well as some stones that have been carved in the shapes of all kinds of odd looking dice. And he says, it's a wonderful game. I don't really get to play it anymore. People don't like to play Dungeons. Play
+[1:09:24] Unknown Speaker(s): these are incredible,
+[1:09:30] Ian Lurie: yes. So anyway, that's where I made all this up. I just feel like I had to, I had to share that. I don't ever get to talk to anyone about this. It's very difficult.
+[1:09:39] JP Sherman: So why would you spend real valuable time playing make believe when there are real problems in this world? So
+[1:09:47] Ian Lurie: the skills I learned allowed me to become a demigod, because I can now work with people of all different ilks. You know, most Fire Giants don't like dealing with non Fire Giants.
+[1:10:01] Speaker 2: Okay, so how did you make these? Like, what was your stone carving technique? And why don't you have a tabaxi?
+[1:10:07] Ian Lurie: Oh, I don't actually make them. I bought them from someone.
+[1:10:11] Unknown Speaker(s): Oh, hey,
+[1:10:13] Ian Lurie: I don't have any skills.
+[1:10:14] Speaker 4: Hear me out. What if we could make these en masse? So next time you have, like, an army of elves, you could use a themselves. You could use one that you would build, and you could make the rest.
+[1:10:26] Ian Lurie: That sounds like a company on the other side of the elemental plane of water. And they're kind of evil, so I don't really want anything to do with them. They're called James workshop, Games Workshop. I don't know something like that, but I probably just that I'm going too far down the nerd hole. But he says, anyway, I had to share that with someone. Just remember, I can still destroy, destroy continents
+[1:10:53] Unknown Speaker(s): because it's D 20.
+[1:10:58] Ian Lurie: It's about your size, the D 20. It's about to backsize,
+[1:11:05] Unknown Speaker(s): jumping on top of the dice. She's jumping dice to days now,
+[1:11:10] JP Sherman: I think that we may have to decorate our bar with one of these at some point.
+[1:11:18] Speaker 4: I'm like, trying to pick up the D 20, like drag. Look at this.
+[1:11:24] Unknown Speaker(s): That's amazing. I'm
+[1:11:27] Speaker 2: gonna roll it. I'm gonna roll the dragon D 20. I got a nine. Is that good? It
+[1:11:31] Ian Lurie: probably rolls onto your foot. But he says, But back to more important things. If you can find a way to remove her completely from the planes, it would be a great favor to all, because Tiamat ultimate goal is to unmake everything, not just one plane, but to unmake everything, and then remake the universe as a place to be ruled by dragons.
+[1:12:16] Unknown Speaker(s): Did she ever tattoo you? Tattoo me. No point to Drax dv,
+[1:12:30] JP Sherman: wait, what I was
+[1:12:32] Unknown Speaker(s): asking, if she ever tattooed him, or if we're special, we're her new favorite, the
+[1:12:37] The Rikterr is my Shep'ard; I Shall not Want: curse we have that has the symbols on us, the
+[1:12:40] Ian Lurie: five fold brand.
+[1:12:41] JP Sherman: That's right, that's right. Yeah,
+[1:12:42] Ian Lurie: you know the name of this entire campaign, the curse of the five fold, five fold brand. Yeah, that's yes.
+[1:12:52] Unknown Speaker(s): Looks strange like a set of Olympic rings, for some reason. I mean, it could be worse. Could be the Narrator,
+[1:12:58] Ian Lurie: voice, it does not, in fact, look like the Olympic rings. Do you show him the brand?
+[1:13:04] JP Sherman: Oh, absolutely.
+[1:13:05] Ian Lurie: He looks at it says, I have never seen the like. You have attracted her attention in a way that What did you do to earn her anger?
+[1:13:17] Unknown Speaker(s): Oh, so she tried to come back. We
+[1:13:20] JP Sherman: stopped her, and then we kind of beat her up, and then she got dragged back into a there was
+[1:13:29] Unknown Speaker(s): a bell gore. It almost ate his arm. It was a whole thing.
+[1:13:32] The Rikterr is my Shep'ard; I Shall not Want: Yup, we killed her champion.
+[1:13:34] Speaker 2: Oh, yeah, that was fun. We killed her. JP, she was really pissed about that. It was nice. Yeah, and
+[1:13:41] JP Sherman: apparently, apparently, there's this home, like prophecy that had our figures in it.
+[1:13:47] Unknown Speaker(s): Oh, yeah,
+[1:13:48] JP Sherman: right. And then
+[1:13:49] Speaker 2: I don't have the book anymore, but I made a sketch of the drawing. I'll show it.
+[1:13:53] JP Sherman: But yeah. So she comes in. So she comes in, and there's this portal that wasn't completely open. And she needed these items in order to completely open it, but we prevented her from getting this, these the items, and then we kept beating her up. And then she had the fleet.
+[1:14:14] Unknown Speaker(s): Well, technically, we ran away because we were hurting. No, sorry, it didn't mean to portal, yeah, no,
+[1:14:23] Ian Lurie: you guys actually, you guys actually left her there, um, and she eventually had to leave because she couldn't get out, and it was too hard for her to remain
+[1:14:34] JP Sherman: true. Two things happened. Yeah, we did run away.
+[1:14:38] Ian Lurie: I mean, you beat her up, right? I mean, you defeated her, but it is correct that she
+[1:14:47] Unknown Speaker(s): didn't call it a tie. Let's call it a tie.
+[1:14:50] Ian Lurie: Let's call it a tie. Yes, that's, that's probably what, where I would, or I would go with it.
+[1:14:57] Unknown Speaker(s): So yeah, so she's mad at us. So yeah,
+[1:15:03] Ian Lurie: I understand why now,
+[1:15:08] JP Sherman: yeah, yeah, we also said some very pointy and unkind things to her to undermine her ego.
+[1:15:18] Speaker 2: We've heard she's very vain, and I personally looked forward to making her cry like we're back in middle school.
+[1:15:24] Unknown Speaker(s): She is, go ahead. Do you want to help do you want to help us with that? Well, I
+[1:15:30] Ian Lurie: think I am. Well, do you
+[1:15:31] Unknown Speaker(s): want to help us some more? Yeah.
+[1:15:34] Speaker 2: So we hired a there's this college kid, and he had this great research project. And I was like, You know what you should do for a topic? And like, give him some gold. And I don't know if you have further ways to help an aspiring academic,
+[1:15:49] JP Sherman: I have a cheering machine to play that makes fun of her. Oh,
+[1:15:56] Speaker 2: yeah, so children mocking her in cities all across the continent seemed like a really fun time to me. It
+[1:16:03] Ian Lurie: could provoke her in ways that you don't necessarily want. I will just say but
+[1:16:12] Unknown Speaker(s): I will leave that to you to decide how you want to approach her.
+[1:16:22] Speaker 2: The D is done, my friend, and we already provoke her anyways, so may as well have some fun with it.
+[1:16:32] Ian Lurie: Well, I'm afraid that I have to, I have to stay out of that particular battle. Change
+[1:16:42] Unknown Speaker(s): your mind. You know where to find
+[1:16:44] Ian Lurie: us. Yes, yes, I do
+[1:16:45] JP Sherman: Yes. One last question before we leave. First, obviously we are not. We are not built for this plane. And the planes that we are going to be going to are going to tax us physically. Knowing that you are all incredible craftsman. Would you suggest any any location we can go to to purchase protective equipment, gear that protects us from either many different kinds of elements, or, let's say, fire specifically, because as we do this, we're gonna have to face a lot. So anything from protecting us from necrotic to fire. Where would you recommend that we go?
+[1:17:35] Ian Lurie: So the creatures on this plane are all proof to proof against fire. So we don't, we don't make or use almost anything fireproof, except for the things that are made in this community, in this town, and they would not be enough. You probably all have magic that far exceeds anything I would have access to. Here you can check in the city of brass, there might be things there.
+[1:18:06] Unknown Speaker(s): You could
+[1:18:09] Ian Lurie: probably talk to artisans on your own world. You know, animus, right? Maybe speak to him. But I suspect, I mean, I know that you all have items in your possession of immense power. I mean, I can sense that. So I don't know how much more you would be able to to obtain.
+[1:18:26] Speaker 1: Oh, are you good at, like, identifying stuff? I
+[1:18:29] Ian Lurie: I am a fire giant. I can generally identify things. Yes, party
+[1:18:34] Unknown Speaker(s): line. So maybe ask him. I don't know. He seems chill enough.
+[1:18:41] JP Sherman: If he can't do it, he could point us to someone who can. Okay, you
+[1:18:44] Speaker 2: don't think he's gonna be like, but I want some of it, because dude did say we could have
+[1:18:48] Unknown Speaker(s): it, yeah,
+[1:18:53] JP Sherman: if he has the time, yeah, let's, let's go for it. If not you're like, Who do we? Who would you recommend?
+[1:19:01] Unknown Speaker(s): Yeah, all right, yeah. So when we the
+[1:19:05] JP Sherman: worst he can do is say no and then crush us.
+[1:19:08] Ian Lurie: I mean, that is the absolute worst he could do, yes, which
+[1:19:11] Speaker 2: cmo might do anyways, because we made kids laugh at her. It we ball, um,
+[1:19:17] Unknown Speaker(s): party line I don't want to burn again.
+[1:19:22] Speaker 2: Is that a no? Are you asking No? Saying I will
+[1:19:25] Unknown Speaker(s): still want a bird again.
+[1:19:31] The Rikterr is my Shep'ard; I Shall not Want: Lord Sir, when we were taking care of the favor for the mayor, we found a couple of items in our demands abode, and unfortunately, we lost our party member who could help us identify them. We were wondering if you could take a look at some of these things and just let us know what they are, because we're kind of dumbfounded about them right now.
+[1:19:59] Ian Lurie: Yes, I'm can certainly help with that. He takes a look. Which items do you give to him? First of
+[1:20:12] The Rikterr is my Shep'ard; I Shall not Want: all, all of them. Yeah,
+[1:20:13] Speaker 2: I think rikter has them all in his bag of holding, right? Yes, okay,
+[1:20:23] Ian Lurie: so you take them out, one at a time. And of course, home brewery just crashed again, so I can't give you the nice, cool looking item write up that I did, but he says this is a wand of fate.
+[1:20:41] Unknown Speaker(s): Oh, shit,
+[1:20:44] Ian Lurie: it's, it can only be used, I believe,
+[1:20:49] Unknown Speaker(s): by artificers. Are just like I'm great. Now we gotta find an artificial right? I will cut you burn. Man,
+[1:21:09] Ian Lurie: wow, I seriously don't know where it went. Hold on. I'm gonna be real unhappy, so
+[1:21:19] Speaker 2: excited at saying it could only be used by artificial so she falls off the D 20, um, pulls backwards. Give me
+[1:21:27] Ian Lurie: one second here, guys,
+[1:21:32] Unknown Speaker(s): it's okay. Tank has come to say hello and let me love you all. I'm
+[1:21:34] Ian Lurie: gonna have to stop using home brewery because they just become completely unreliable. I don't know what else I'm going to use to generate all this cool stuff, but oh, there it is. I'm
+[1:21:44] The Rikterr is my Shep'ard; I Shall not Want: sorry, did you say home Google? Read home brewery. I'm just taking a shot at Google because fuck them. That's why.
+[1:21:52] Ian Lurie: Got it. Got it? Okay, um, okay, so I'm just gonna, this is hideous, but I'm just gonna paste this right into the chat. It
+[1:22:06] The Rikterr is my Shep'ard; I Shall not Want: sucks because your beautiful write up is still working.
+[1:22:09] Ian Lurie: Yeah, well, I think what's happening is it can't figure out which which Google account I'm using, so keep throwing stuff all over the he's in
+[1:22:21] Unknown Speaker(s): cash issue,
+[1:22:22] Ian Lurie: yeah. Um, so that's the story of the wand of fate and how it works. Fuck yeah. And then he says, and this armor,
+[1:22:44] Unknown Speaker(s): clearly has only,
+[1:22:49] Ian Lurie: can only fit a certain limited number of creatures. This is called molten bronze skin and just game terms, it's plus two half plate. It gives you fire resistance and doesn't impose disadvantage on stealth or other Dex rolls.
+[1:23:12] Unknown Speaker(s): Oh, my God, I could be a little less squishy, guys. This
+[1:23:14] Ian Lurie: would make you less squishy, and it doesn't cost you. It doesn't cost you stealth,
+[1:23:23] Unknown Speaker(s): yeah, which unique about it has been the reason I've turned down every bit of armor so far.
+[1:23:27] Ian Lurie: Well, this is exactly the kind of stuff that a rockshasa would want, right? Yes, he has a lot of the same skills are, um, then sir, tour looks at some of the other stuff, and he says, Okay, this is interesting. He takes out the bag, which in his hands, is ludicrous, ludicrously small. He says, this is a very rare item. This is called a bag of Colding, and it keeps food stuffs at a temperature that will keep it fresh. So you can put, say, meat, and there's something in it right now. I don't know what it is, but you can put meat and things like that in it, and it will keep them fresh, even in hot environments.
+[1:24:14] Unknown Speaker(s): Hey, feed the twins proper. I
+[1:24:16] Ian Lurie: don't think it'll keep things frozen, but it will keep them cold.
+[1:24:21] JP Sherman: I like this. All
+[1:24:23] Speaker 1: of those enemy corpses now can be used in a sustainable way,
+[1:24:27] JP Sherman: reuse, recycle, reanimate.
+[1:24:33] Speaker 2: I mean, it's only a matter of diamond till one of us becomes the Necromancer,
+[1:24:39] Ian Lurie: intentionally or otherwise, exactly
+[1:24:44] Unknown Speaker(s): something. And then
+[1:24:45] Ian Lurie: he says, These two potions. This is cursed if you drank this. And this is the syrupy looking liquid with gold flakes in it. If you drink this, you'll be permanently terrified of all things made of gold.
+[1:25:01] Speaker 2: I mean, I find it, gosh, does that count? And
+[1:25:05] Ian Lurie: then this, and he holds up the vial with the misty mouth in it would and then game turn. He says, this would make you incredibly charismatic for a short period of time. And what it does is it gives you advantage on charisma deception checks for an hour.
+[1:25:19] Unknown Speaker(s): Ah, cool. Does it make you grow a mustache
+[1:25:31] Ian Lurie: that I do not know? He doesn't have much of a sense of humor. You get the sense. He says, The Bag of Holding. I will tell you the bag of holding can only hold 100 pounds of whatever you put in there, and it appears to be full right now,
+[1:25:47] JP Sherman: within it, I
+[1:25:49] Unknown Speaker(s): don't feel like we should open that here, though.
+[1:25:51] JP Sherman: Yeah, this is yeah.
+[1:25:52] Unknown Speaker(s): Just gonna stick their hand in there, pull it up. I
+[1:26:00] The Rikterr is my Shep'ard; I Shall not Want: ha, well, man, don't act like drag when to stick his hand in a
+[1:26:07] JP Sherman: random No. Like, no. Like, this is Pete direct, but like, he's gonna, yeah, he's definitely gonna pull a piece out. Like,
+[1:26:15] Ian Lurie: right now, okay,
+[1:26:18] JP Sherman: just like, not like, I'm not yet dumping it. I was like,
+[1:26:21] Ian Lurie: your hand comes out with a fistful of some kind of flesh. Give me a nature check.
+[1:26:27] JP Sherman: Oh, Lord,
+[1:26:28] Unknown Speaker(s): you're very good at nature, aren't you?
+[1:26:30] JP Sherman: I'm super good at nature,
+[1:26:33] Unknown Speaker(s): like I'm the best.
+[1:26:35] Speaker 2: Why did I get good in nature? I'm decent in nature. That's a 21
+[1:26:41] Ian Lurie: this is human flesh. Oh, you know that Rakshasa eat human flesh, like a lot of, like a lot of creatures on the plane of fire, they, when they live on the because he was living on the plane of fire, there's nothing here he can cook. So he needed to guess stuff he could cook human flesh would be one of the things. But Rakshasa as as a as a group of creatures eat human flesh. Yeah,
+[1:27:10] JP Sherman: it's people. It's people. Beeps, people.
+[1:27:17] Unknown Speaker(s): What are we gonna do with that? That's a don't know we should. Maybe we should empty the bag before we leave.
+[1:27:29] Speaker 2: We should maybe see if we can identify and like notify next to Ken, that seems like a nice thing, and if not,
+[1:27:34] Speaker 4: I hate to say it, but sky funeral by Phoenix would be fucking metal
+[1:27:45] Unknown Speaker(s): that's pretty metal. It's pretty metal.
+[1:27:49] Ian Lurie: Searcher clears his throat.
+[1:27:52] JP Sherman: We should leave
+[1:27:57] The Rikterr is my Shep'ard; I Shall not Want: for thank you for identifying your
+[1:27:59] JP Sherman: items. We really appreciate it.
+[1:28:02] Unknown Speaker(s): Thank you for
+[1:28:03] Speaker 2: don't shake us and rock your hands so sticky. No, no.
+[1:28:07] Ian Lurie: Thank you for introducing some entertainment into my life. I do appreciate it.
+[1:28:12] Speaker 2: Oh, but the gift shop, though, we did want to see that on the way out, there's like a promo code, rock
+[1:28:21] JP Sherman: he, I think my my recollection is that he's like, it's more likely to find stuff that we would need in the city of brass, not
+[1:28:28] Unknown Speaker(s): here. Yeah, okay, yeah. He did say that, yes.
+[1:28:35] Ian Lurie: So you guys head back out. You get on the the fire heart one more time. It's a much shorter journey to the city of brass from raskold, and you arrive in the city of brass just a few hours later, no random encounter rolls necessary, because this is a pretty frequented route. You climb off the ship, the captain says, you know, bid you farewell.
+[1:29:03] Unknown Speaker(s): Been through,
+[1:29:04] Ian Lurie: and as soon as you're in the city, you feel cooler because the city itself is protected by sort of a field similar to the ambulance of comfort. Once in the city, you were given a place where you could return the ambulance of comfort. We don't have to go through all of that, just you can go to that place and return them or not if you want to try and steal them. No,
+[1:29:30] Unknown Speaker(s): that little guy was so nice to us.
+[1:29:34] Ian Lurie: Yes, um, he's quite pleased when you return. He says, I'm so glad that your journey went I'm assuming it was success.
+[1:29:44] Unknown Speaker(s): We didn't
+[1:29:45] Ian Lurie: die, at least no one died. Yes,
+[1:29:49] Unknown Speaker(s): like we got a low bar these days. But yeah, it felt good, excellent, excellent. Glad to hear that.
+[1:29:56] Ian Lurie: Uh, some rule D 20
+[1:30:01] Unknown Speaker(s): for me. JP, you're slow tonight. 17, okay. Um,
+[1:30:12] Ian Lurie: okay, I'll just save that for later. Uh,
+[1:30:16] Unknown Speaker(s): love that game, you
+[1:30:18] Ian Lurie: guys. So you guys
+[1:30:19] The Rikterr is my Shep'ard; I Shall not Want: want 17 with fear.
+[1:30:21] Ian Lurie: You guys want to head out to the city and just do some shopping? Is that the Okay?
+[1:30:28] JP Sherman: Um, I think because So, because of what he said, like, they don't need, they don't need once, once he said, I mean, total zest. We don't really sell fire protection stuff, because we are all detective this is who we are. However, if there is a bathroom,
+[1:30:46] Unknown Speaker(s): I want to go try an armor.
+[1:30:49] JP Sherman: I would love to see if there's this. Anything catches my eye in either weaponry, protection or Yeah, yeah.
+[1:31:03] Unknown Speaker(s): Is there
+[1:31:05] The Rikterr is my Shep'ard; I Shall not Want: a blacksmith in the city of brass?
+[1:31:07] Ian Lurie: Oh, there are many, many Craftsman all kinds, yeah,
+[1:31:11] The Rikterr is my Shep'ard; I Shall not Want: because Richter would like to go talk to them about seeing if there's any improvements he can make to Bastion,
+[1:31:21] JP Sherman: right, okay, or, like, because I've got, I've got, I've got a pair of daggers that are plus ones if there's, like, fire daggers, that would be cool too.
+[1:31:32] Ian Lurie: Okay, um, Mossy, did you want to try on the armor? Is that you said,
+[1:31:37] Unknown Speaker(s): Yes, okay.
+[1:31:38] Ian Lurie: Um,
+[1:31:39] Speaker 2: I'm assuming no one wants to, you know, fight me for it.
+[1:31:45] The Rikterr is my Shep'ard; I Shall not Want: Nah, I'm still, I'm still walking around in a girl in his armor.
+[1:31:49] Unknown Speaker(s): Uh, sengo thinks about how cool it would be to have a tail. And he's like, No, it's, it's real.
+[1:31:53] Speaker 1: Can you wild shape? Couldn't you give yourself a tail?
+[1:31:57] Unknown Speaker(s): Oh, you know what? You're right. I could totally do that. I would consider racially offensive if you did so, it
+[1:32:02] Ian Lurie: is appropriation. Absolutely.
+[1:32:09] Unknown Speaker(s): You
+[1:32:11] Ian Lurie: go to put the armor on, and it feels very bulky at first, because the rashasa was much bigger than you, but like a lot of very powerful magic items, it actually immediately, kind of forms to your shape. And it feels really good. It's, it's very form fitting. It doesn't make noise. It's basically
+[1:32:30] Unknown Speaker(s): comes out and does, like, cat mock,
+[1:32:32] Ian Lurie: yes. And it's, it's basically half plate, so no legs on it, but there is the extension for your tail, and basically it's just the top part. So it's like, it's almost like dragon scales on your tail. It doesn't completely wrap around your tail. That would be really weird. And it just comes up to here. So there's a gorget, sorry. Is it?
+[1:32:56] Unknown Speaker(s): Is it black, vital? Or does she squeak when she walks? No,
+[1:32:59] Ian Lurie: it is actually bronze colored.
+[1:33:02] Unknown Speaker(s): I refuse to go there. Thank you for refusing.
+[1:33:07] Ian Lurie: But yeah, it feels good soon as you put it on. And yeah, you can sort of tell you know, fire would not affect you as much when you wear
+[1:33:16] Speaker 2: it. Try and sneak up on rikter After I get out of the changing room and see my stealth is impeded. Not a great self rule for me.
+[1:33:29] JP Sherman: It's only 30 something.
+[1:33:32] Unknown Speaker(s): It's only 21
+[1:33:35] The Rikterr is my Shep'ard; I Shall not Want: what's your past teen perception? So, all right,
+[1:33:37] Ian Lurie: so you sneak up on him, perfect. You do not get the sense that this arm, that this armor, is impeding your ability to stealth. Okay, um, so you guys go walking around the city, and
+[1:33:58] Unknown Speaker(s): you
+[1:34:00] Ian Lurie: do find a blacksmith. And in fact, your contact recommends a blacksmith to you, and you go speak to them, and blacksmith is another azer, and he has signage and everything, but it's all written in IGN. So you guys don't really like it's hard for you to find your way around here. There's not clear signage on anything, but you show him Bastion. What do you ask him for Richter?
+[1:34:29] The Rikterr is my Shep'ard; I Shall not Want: I'm just trying to ask him as Richter, not as Jamar. Richter, looks at him and says, I've been carrying around this weapon for years, and it has been very good to me, but we are about to go up against creatures that are going to be really, really difficult, and I just want to make sure that everything I Have is in tip top shape, is as a professional, are there any improvements that we can make to this x to make her sharper, better, faster, more equipped, to take on a creature that may not be of this plane?
+[1:35:16] Ian Lurie: He looks at it, he said, May I
+[1:35:20] The Rikterr is my Shep'ard; I Shall not Want: please?
+[1:35:22] Ian Lurie: He takes it and he hefts it. He kind of says, You never throw this, right?
+[1:35:27] The Rikterr is my Shep'ard; I Shall not Want: Oh, no, no, no, no, no. Does
+[1:35:32] Ian Lurie: that weapon even have a thrown property? I'm not sure, gravity.
+[1:35:39] The Rikterr is my Shep'ard; I Shall not Want: Yo, yeah, no, no, we did not put that in there.
+[1:35:44] Unknown Speaker(s): Okay, just checking. He says,
+[1:35:56] Ian Lurie: The only thing do you mind if I take half a day and look at
+[1:36:06] The Rikterr is my Shep'ard; I Shall not Want: it? You're the professional. I will
+[1:36:07] Ian Lurie: take very good care of it. This is a beautiful, a beautiful piece,
+[1:36:12] The Rikterr is my Shep'ard; I Shall not Want: and I know my friends and I, we haven't had a shopping montage in a couple of months, so we'll probably take half the day to do that at least.
+[1:36:19] Ian Lurie: Excellent, excellent. Good luck on that. And he says, Let me, let me study this and see if there's anything I can do to enhance it. Is, I'm just, I'm not sure, at a glance what it can do.
+[1:36:34] The Rikterr is my Shep'ard; I Shall not Want: Rikter just takes out a gold coin and he puts it on table. He says, you know, just for you, looking at it, taking your time, I just want to say thank you, and slides it over.
+[1:36:46] Unknown Speaker(s): It starts to melt on the table.
+[1:36:49] Ian Lurie: No, not in the city. Nothing melts in the city. You got it? Yeah? No, you guys are all good. Um, all right. What other stops you want to find other shops, other interesting places.
+[1:37:01] Speaker 2: I mean, yeah, how often do we get to go shopping in the city of fire? Yeah? Plus, I'm no longer sweltering in this I look fabulous. So,
+[1:37:18] Unknown Speaker(s): so you so as we're walking along saying, uh, minor images, some squeak, squeak, squeak, squeak, squeak,
+[1:37:30] Ian Lurie: nice, nice.
+[1:37:38] Speaker 2: Um, Mossy pressed vegetation is a slight smell of char, honestly,
+[1:37:44] Ian Lurie: nice. You guys walk past a row of shops, and one in particular grabs your attention because it has, it has a couple of signs in common, as well as IGN and so as you walk by, and this shop clearly has lots of hardware, like you see knives, you see all this stuff in there, and you see a box that appears to hold two amulets of comfort, like the ones that you had that Protect you from fire or at least from high temperatures, uh, and below it, it says, Enter to win. In common,
+[1:38:31] Speaker 2: entered. Is it like a raffle? Is this a fundraising thing?
+[1:38:36] Unknown Speaker(s): Is it a riddle? Drach, this is your Never mind.
+[1:38:45] Speaker 2: Can I just I would like to investigate is? Is a door right here? Right?
+[1:38:49] Unknown Speaker(s): It's a store. Yeah, it's a store door. I would like to investigate the store. And yeah,
+[1:38:54] JP Sherman: without hesitation, like, Yeah, I like winning things. You
+[1:38:58] Ian Lurie: walk in, a bell dings as you open the door and close it, and inside, it's this very, too small, tidally kept store. You see, you know, on one shelf there's, there's a row of, there's a row of shelves on the right that have a bunch of different kinds of boots. There's a rack hanging that has a bunch of of knives and swords and things on it. There's, you know, other parts of the store that just have all sorts of random things, from amulets to, you know, to who knows what. And then there's this one box sitting in the window, and it says, Enter to win. And as you walk in, a shopkeeper actually a small fire elemental wearing armor. And it's weird, because you realize that on this plane, fire elementals appear to be much smarter. You're not sure why, but they can communicate. They can do all this stuff. And it says to you, oh, good afternoon. Your visitors to our plane. I see
+[1:39:56] Unknown Speaker(s): the city of brass.
+[1:39:59] JP Sherman: Mossy, are you? Has anyone else with there with me?
+[1:40:03] Speaker 2: I mean, in my head, Dan, it was, I'm trying to investigate, and you just grabbed my arm and drug me in with you. Yeah,
+[1:40:09] JP Sherman: yeah, that's pretty much it. Yeah. We're here, and we saw this thing that says, Enter to win. Like, Oh, my curiosity.
+[1:40:17] Ian Lurie: The contest, the contest. Yes. So every year we have a contest in this city, and the winner is
+[1:40:28] Speaker 2: it for eating. I will fucking destroy this. Do you have tiny cakes?
+[1:40:32] Ian Lurie: Allow me to finish all of you people from the Prime Material you interrupt all the time, says, No, I'm kidding. I'm kidding. I'm joking. We're all made of fire around here, we interrupt each other all the time. The it is an eating contest once a year, and it is a fire fruit pie eating contest. However, I will tell you, you probably can't enter the contest because fire fruit will actually burn you from the inside out and kill you.
+[1:41:06] Unknown Speaker(s): I do love pie, but
+[1:41:07] Ian Lurie: unless you can figure out a way to do handle that, that probably won't work. But these are, I don't know if you're familiar with them, these are amulets of comfort, and what they do is they protect you from extremes of temperature. They wouldn't protect you from, say, a fireball, but they'll protect you from simply being in a place that's so hot that it might otherwise harm you. So you
+[1:41:35] Speaker 4: wouldn't sell Pepto right like coat my stomach, because I feel I am primed for this.
+[1:41:44] Unknown Speaker(s): What? What are the rules the contest? What are the so I, as
+[1:41:50] Ian Lurie: I understand it, it's a fairly typical eating contest, whoever can eat the most within the time period wins.
+[1:41:56] Unknown Speaker(s): What's what's the time period?
+[1:41:58] Ian Lurie: I honestly it's usually no more than five minutes.
+[1:42:02] JP Sherman: Mossy, yeah, if you want to do this, I've got absorb elements.
+[1:42:09] Unknown Speaker(s): I think that just minutes,
+[1:42:13] JP Sherman: because it gives you resistance, and
+[1:42:15] Ian Lurie: it's not JavaScript, it doesn't minify it it, but it does reduce the damage. Yes, you can only
+[1:42:21] Unknown Speaker(s): use it on yourself. Only
+[1:42:25] Speaker 1: use it on yourself. That's right.
+[1:42:30] Unknown Speaker(s): Like, how hot is this? How spicy will I take?
+[1:42:38] Ian Lurie: It's right next door. I They will be happy to give you a free sample if you tell them that you're going to enter the contest. Its name is blazing bones. See, I had to hesitate for a moment because I had to try and say it without smiling. I couldn't do it. It's called blazing buns. You guys all look where he says, maybe that means something different where you're from, I don't know, and I am sure that the owner would happily give you a sample
+[1:43:20] Unknown Speaker(s): for science.
+[1:43:32] JP Sherman: Totally for science.
+[1:43:34] Unknown Speaker(s): Okay, all right, skip on over.
+[1:43:40] Ian Lurie: So you go next door, and you walk into the shop, and it smells delicious in here, actually, and there's a big cabinet, a big glass case with all these little pastries and things in it, and someone immediately comes to the counter, and you're kind of surprised, because they are not a fire elemental or from the fire elemental plane. This is a regular mountain dwarf, and it's woman, and she says, Oh, greetings. It's, it's, you must be here visiting our city. It is so excellent to see other people from the prime experiencing this place. It's isn't it wonderful? What have you seen so far? Tell me,
+[1:44:27] Speaker 2: well, there's a rakshasa, and he had some slime fire slugs and Phoenix.
+[1:44:37] JP Sherman: We fed a phoenix.
+[1:44:40] Unknown Speaker(s): She looks at you like,
+[1:44:45] Ian Lurie: well, all right, she gets a good insight. Check. She says, that's impressive. I've never done any of those things. So how may I help you?
+[1:44:55] Speaker 4: So we heard you're gonna do an eating contest, and I'm very good eating contest.
+[1:45:03] Unknown Speaker(s): So we're hoping that maybe try a slice of, um, the burning bones pie, fire
+[1:45:10] Ian Lurie: fruit pie. Are you sure I can? I do have some? Sorry, go ahead.
+[1:45:17] Unknown Speaker(s): Nope. I nailed it. Hot Buttons
+[1:45:22] Ian Lurie: contest. No, no. The store is called blazing buns because no one here gets the joke. That's why it's called blazing buns, because no one on this entire plane gets the joke. And I enjoy that immensely.
+[1:45:38] Unknown Speaker(s): She says,
+[1:45:40] Ian Lurie: the fire fruit pie. So before that, I just want to point out I have every other kind of baked good you can imagine, and from from regular pies to meat pies to everything else fire fruit pies, you have some form of healing available.
+[1:46:02] Unknown Speaker(s): Yeah,
+[1:46:03] Ian Lurie: all right, so how much
+[1:46:05] Unknown Speaker(s): do they burn? Really? Cursed earlier today, ruksha says, am I right?
+[1:46:14] Ian Lurie: She points, she points at the wall, and she says, so. I used to have a contest where anyone from the not from the Fire Plane, if they could eat one fire fruit pie and survive, would get free pastries from this place for life the last winter. And she waves up at a picture, and it's a guy who is sitting in a chair with like a huge glass of water, and he can see all these burn marks around his like his whole core area and around his lips and his face, he says. She says, I don't think it was worth it. His lifetime was not very long after that, and he did not get to enjoy many pastries. Now, I'm sure you're not just tourists if you're feeding a Phoenix, but if you have someone who can heal you, it might be worth a try. Drag. You're clearly trying for new experiences. If you fed a Phoenix,
+[1:47:13] JP Sherman: yeah, I'll totally heal you. Well,
+[1:47:15] Unknown Speaker(s): I mean, can you do the thing, and then I'll do the thing, and
+[1:47:19] JP Sherman: we'll do the thing however,
+[1:47:21] Unknown Speaker(s): you're right, we're good, we're good, no,
+[1:47:23] JP Sherman: we're totally good.
+[1:47:24] Ian Lurie: She says, okay, all right,
+[1:47:26] JP Sherman: I got, I got a diamond, if that comes down to that.
+[1:47:31] Unknown Speaker(s): This is how Mossy wants to go. This
+[1:47:32] Ian Lurie: would be an amazing piece. Um, so she, she goes into the back. She says, I make them fresh. So give me a few minutes. You hear all this sizzling and frying sounds and stuff, and then she comes back out, and she has some kind of wrapper around something that looks like a pocket of dough, and there's steam just emanating from this pocket of dough, like it is so Hot you're not even sure what this thing is like, but it's about this big. And she says, I have been told that fire fruit can taste quite sweet. I personally have never found that flavor, but it's it comes from a flower that grows all over the the elemental plane of fire, and it is considered quite a delicacy to some. And then the outside is just a crispy crust that I learned to make.
+[1:48:29] JP Sherman: Yeah, I love crispy crust. Bless, casting bless on mine.
+[1:48:37] Unknown Speaker(s): Did you cast the zorb elements?
+[1:48:50] Ian Lurie: You can only target self,
+[1:48:52] Speaker 2: okay, so I have one use of this left, so I'm gonna target myself.
+[1:48:59] Ian Lurie: Okay, and what are you targeting yourself
+[1:49:02] Unknown Speaker(s): with observing fire damage, okay, all right,
+[1:49:06] Speaker 2: I made a Mossy rod. She took a picture, and it's not letting discord open properly, but I rolled a four so we are full curiosity. Killed the cat right now,
+[1:49:15] Ian Lurie: got it? Got it good to know. So you take it and it smells delicious. I mean, it smells like fried dough, right? It smells like the kind of thing that you shouldn't eat, and yet you want to. And you take it, and do you take, like, a little nibble? Do you sniff at it? Do you take a huge bite?
+[1:49:34] Unknown Speaker(s): Oh, no, we're taking a nibble. We're taking a nibble.
+[1:49:36] Ian Lurie: You kind of go, I
+[1:49:37] Unknown Speaker(s): am still curse. Okay,
+[1:49:39] Ian Lurie: give me a constitution saving throw.
+[1:49:46] Unknown Speaker(s): DC, 1011,
+[1:49:50] Ian Lurie: okay, so it is extremely hot, and you kind of go, and she put a glass of cold water there for you, and you immediately take a drink. But it seems okay, and you know, so you took some of the crust, you ate it, you nibbled at it. You think you got some filling, and it was okay. And the crust is really tasty. There's nothing like fried dough. I mean, it's just the best.
+[1:50:15] Speaker 2: I think I cast as a reaction, so I would bite it, and then you'd cast as a reaction. Yeah,
+[1:50:19] JP Sherman: I see Mossy eyes kind of start wandering like this. Are you okay? Are you okay?
+[1:50:27] Unknown Speaker(s): It's kind of good. Yeah, yeah.
+[1:50:33] Ian Lurie: You know the contest you have to eat whole pies. The winner last year ate, I think, 20 of them in five minutes. What is the
+[1:50:43] JP Sherman: oh, we're not gonna, no,
+[1:50:45] Unknown Speaker(s): we're not winning this. No, I ate a fireberry that was kind of cool.
+[1:50:51] Ian Lurie: It's, it's tomorrow. You haven't eaten. You ate like, a teeny little corner of it.
+[1:50:56] Speaker 2: Okay? So I'm gonna go ahead and I'm gonna take a giant bite.
+[1:51:01] Ian Lurie: Okay, give me another con. Save you're still blessed.
+[1:51:07] Unknown Speaker(s): Oh, I forgot to have my bliss last time. Oh,
+[1:51:10] The Rikterr is my Shep'ard; I Shall not Want: at the plus five from rikter's, Laura,
+[1:51:15] Unknown Speaker(s): 17, okay,
+[1:51:20] Ian Lurie: so you would have taken all right, so you take eight points of fire damage as you eat this thing, and this flaming, hot substance goes down your throat, and it does taste really good, and it's really light like it doesn't quite make sense that something fried like this would be so easy to eat. But do you think you could eat the you could put these away fast, except that it felt like it burned your insides out. And there's actually, you guys, see, Mossy, there's actually smoke emanating from her mouth. She doesn't seem to be good
+[1:51:59] Unknown Speaker(s): guys.
+[1:51:59] Ian Lurie: Yeah, she doesn't seem to be dying or anything, but that clearly, that clearly had an impact.
+[1:52:11] Speaker 2: Okay, well, I can't eat 20 of these, but I do appreciate
+[1:52:21] Ian Lurie: you ate that pretty fast, but yes, I would understand, as I said, perhaps a donut instead of donuts. Of course.
+[1:52:30] Unknown Speaker(s): Yes, we'd all like donuts, please. And one of those, one of those, two of those, if
+[1:52:37] JP Sherman: I have, I had a jug of alchemy. I'd have handed you it full of mayonnaise just to, like, coat the inside of your throat.
+[1:52:44] Speaker 2: I mean, I have the teflasky, I don't know if I knew, like,
+[1:52:50] Unknown Speaker(s): mayonnaise in there. Um, but yes, I won't gladly pay her for a giant thing of pastries.
+[1:52:58] Ian Lurie: Okay, she actually gives you a little box. It's about this big, and it's filled with they're made from the same dough as donuts, but they're actually just round. They're little spheres. And she says, I call these donut holes. They're not actually made. They're not actually the holes from the donuts. That's that's not true. We don't just poke holes in them, but I've found these are quite tasty. People like them, because they can just sort of pop them in their house. Pop them in their house. So try it.
+[1:53:25] Unknown Speaker(s): Mossy pops like five in her mouth. They're good. They're very good. More of this, please,
+[1:53:32] Ian Lurie: she says, so All right, have a great day. Enjoy the city, and probably good judgment not entering that contest, by the way, that was what the Random Encounter got you when you rolled that 17. So
+[1:53:50] Unknown Speaker(s): seriously, yes,
+[1:53:53] Ian Lurie: there's a fire fruit pie eating contest prize is and then it's a thing, um, players would have to find a way to eat the fruit without dying. That's exactly what I have written in my notes.
+[1:54:04] Unknown Speaker(s): I mean, you would just have to be over there doing like, right, heal every rapid
+[1:54:08] Ian Lurie: fire healing. Yes, that would be one way to do it, definitely. Yeah.
+[1:54:11] Speaker 2: And I could just do absorb elements through it's not 20 slots worth of absorb elements, though.
+[1:54:19] Ian Lurie: Yeah. A save means you only take half damage. You only take half damage from each pie, which obviously could be bad, but each pie does a D 10
+[1:54:33] Unknown Speaker(s): damage,
+[1:54:35] Ian Lurie: D 10 plus eight damage. So if you roll, if I roll poorly, and you roll well, you could get through it.
+[1:54:43] Unknown Speaker(s): I could possibly survive this
+[1:54:45] Ian Lurie: Tom's you might want a lot of times, but yeah,
+[1:54:49] Speaker 2: no one's gonna want to use the restroom on the ship for a while.
+[1:54:57] Unknown Speaker(s): Yeah, do not go in there.
+[1:55:02] Ian Lurie: Okay. Someone give me another D 20 roll while you're walking around the city waiting for the shopkeeper to finish that question,
+[1:55:11] The Rikterr is my Shep'ard; I Shall not Want: I'll do it right.
+[1:55:14] Unknown Speaker(s): Well, okay,
+[1:55:20] Ian Lurie: you're walking along looking for other shops, and
+[1:55:29] Unknown Speaker(s): you
+[1:55:32] Ian Lurie: walk past a doorway that looks kind of familiar, and a building that looks kind of familiar, and it's a huge building, like enormous building, and there's windows all along the front, and it's just filled with gear and stuff. And you look up and in IGN, you can't read the IGN, but you recognize the logo of free range mercantile, who apparently has opened, opened a store here in the city of brass.
+[1:56:05] JP Sherman: All right, party line, I don't know where you are right now, but found a free range mercile, and it's big, and I'm going to be here for a minute. Y'all are more than welcome to join me, but yeah, so I hop in,
+[1:56:27] Unknown Speaker(s): okay,
+[1:56:28] JP Sherman: and
+[1:56:29] Ian Lurie: there's, there's a fire elemental at the door says, Welcome to Free Range mercantile.
+[1:56:33] JP Sherman: Do I have a loyalty card from from the one at Aventine? We don't
+[1:56:37] Ian Lurie: have a loyalty program yet. We're too
+[1:56:40] JP Sherman: Do I get a military discount.
+[1:56:43] Ian Lurie: What military Why
+[1:56:45] JP Sherman: do you hate our troops?
+[1:56:48] Ian Lurie: I don't hate anyone. My soul has been sucked out of my body by this job.
+[1:56:53] Unknown Speaker(s): Fine, it's target,
+[1:56:58] JP Sherman: fine, okay, um, I am looking for high quality, hopefully magical daggers,
+[1:57:13] Unknown Speaker(s): okay,
+[1:57:14] JP Sherman: or something like, uniquely like rangery tools, okay, like, like, like traps or something like that. I'm set for a bow. I could definitely, I would definitely do, like, a upgrade to the daggers, but ideally, something that that's going to make me provide more tactical options for the Ranger, for being a ranger,
+[1:57:49] Ian Lurie: okay, well, someone happened to give me this great book of random tables. Cool, we're just going to do that because
+[1:57:59] Unknown Speaker(s): what would be funnier,
+[1:58:03] Ian Lurie: except they don't have magic items tables. Are you serious?
+[1:58:17] Unknown Speaker(s): No way. I don't believe it. Just saying
+[1:58:19] JP Sherman: it sounds themselves.
+[1:58:25] Ian Lurie: Sorry, guys, I haven't really, I hadn't prepared for
+[1:58:34] Unknown Speaker(s): a shopping episode. Okay, now you have the other book that's tables. This is the book that's tables. Oh, okay,
+[1:58:43] Ian Lurie: it's an awesome book. But it has, it has tables for literally everything, like not just, it has tables for things you find in a Giants backpack and stuff like that. It's, it's amazing. Um,
+[1:59:04] Unknown Speaker(s): I just saw James has changed name.
+[1:59:13] JP Sherman: He's not just a member, he's a founder, a client.
+[1:59:19] Speaker 2: I'm not just a founder, I'm also lions Sango. Spray on paint, spray on pants. Club has magic ever blown up your butt hole,
+[1:59:34] Ian Lurie: your blazing buns? I'm almost there, guys. It has potions mutations. Things you definitely shouldn't touch. I haven't read that one yet. That sounds pretty awesome. Okay, here we go. Um, all right, so you walk in and it looks very familiar. You know, there's the big discount kind of, you know, bins around the middle, and at the back there's the huge, gleaming cabinets with really fancy stuff in them. And you at the back there are, you know, a number of daggers and things. There's a whole section that's sort of done up in these kind of beige and green, like camouflage colors. And, you know, there's all this stuff hanging that I think is, you think is supposed to make people feel really cool because they're back here. But then in the cases, there's some stuff that looks legit, so you kind of go through the cases, and why don't you roll me a d1 100.
+[2:01:15] JP Sherman: Okay, that would be an 81 okay?
+[2:01:29] Ian Lurie: Hey, there is just in the middle of all the knives. There's actually a small box with a crank on it.
+[2:01:40] Unknown Speaker(s): Read the card.
+[2:01:42] Ian Lurie: It's an ignorant you can't read it.
+[2:01:44] JP Sherman: Yeah, I'm gonna have to find that employee. Actually, I'm not gonna be like Garcon, but like, can you help me read this? I don't understand these. Seems
+[2:02:00] Ian Lurie: like every time you turn to find an employee, they're just disappearing around the corner of one of the rows. So give me a. Give me
+[2:02:09] Unknown Speaker(s): Amex black. Come on drag. You better hunters mark, so you can find them again, right?
+[2:02:16] Ian Lurie: Give me a. Give me a, d, 20.
+[2:02:22] JP Sherman: Uh, fucking mustache.
+[2:02:27] Ian Lurie: You actually walk up to someone who just happens to be, if you've ever done this, happens to wearing a shirt that looks vaguely like they work there. Um, you say, excuse me, and they're like, oh, I don't work here.
+[2:02:41] JP Sherman: Are you sure
+[2:02:46] Ian Lurie: you even try speaking to them more loudly and slowly, just
+[2:02:53] JP Sherman: just muttering under my breath at this point? Because
+[2:02:57] Unknown Speaker(s): Kate, you do find someone.
+[2:02:58] JP Sherman: Yeah. Can you tell me what this is?
+[2:03:02] Ian Lurie: They say? Oh yes, of course. Well, actually, I'm not quite sure either here, let's just take it out and take a look at it. And this, this azer of indeterminate age and gender, takes it out and shows you it's a small music box, and when he twists, when he turns the little little handle, it plays this really sweet tune that just makes you feel Very relaxed.
+[2:03:41] JP Sherman: I know somebody who likes to be relaxed. I want to say likes to be relaxed, needs to be relaxed. How much is it?
+[2:03:50] Ian Lurie: This is
+[2:03:53] Unknown Speaker(s): he looks 250 gold, all right. I
+[2:04:00] JP Sherman: think I had to take it
+[2:04:04] Ian Lurie: awesome. Yeah, anything else?
+[2:04:12] JP Sherman: No, no. I think I think I think I think I'm good. Like this is clearly the, the, probably the most interesting thing in this in this place. So, yeah, I think I'm good. Okay, all right, I'm gonna Where's Sen go? I walk. I walk out of free range mercantile. I'm looking around like a fine sign to sit behind me the whole time. Of course, you're invisible, aren't you? I step out and go single. I found this. I immediately thought
+[2:04:51] Speaker 2: of nut tap him constantly because, like, Oh, I didn't see you.
+[2:04:56] JP Sherman: I This reminds me of you. It is it is strange and it is calming, and it is awesome, and it's kind of pretty. Made me think of you please,
+[2:05:07] Unknown Speaker(s): like the nicest thing you've ever said to me. That's why you're my favorite. You
+[2:05:14] JP Sherman: don't you don't get to do that. That's weird. Play us against what? Just say thank you. Just say thank you motherfucker, thank you crispy ass bitch. Take my ticket.
+[2:05:30] Unknown Speaker(s): Damn going back invisible. This is weird shit.
+[2:05:38] Ian Lurie: Do you do you try it? Or what do you want to do with it? I do
+[2:05:43] Unknown Speaker(s): with it? With the thing he gave me? No, I just put it in my bag. Okay, okay, um, this really sweet gift, and you were a dick, so He called you a crypt fiance. What I said, that was the nice thing you ever said to me. That's why you're my favorite.
+[2:06:02] Ian Lurie: I You guys need some group counseling.
+[2:06:06] JP Sherman: We do. We've got a lot of unprocessed emotions regarding his disappearance, and it manifests itself in just being defensive before you hurt me again.
+[2:06:19] Unknown Speaker(s): That's right. That's right.
+[2:06:23] Ian Lurie: So the only other thing you find in your travels around the city is you do find a shop full of, excuse me, full of scrolls. I just rolled that up for you. So you walk past a shop and there's just endless cabinets with scrolls in them.
+[2:06:40] Unknown Speaker(s): Then go single walks in, okay. He is meticulously studying the paper quality of these scrolls. Okay? You hear a little test tisk every once in a while,
+[2:06:54] Ian Lurie: no, the paper these scrolls are amazingly high quality. Some are amazingly higher quality than others. I at that home, someone comes out and says, Can I help you? Yes.
+[2:07:08] Unknown Speaker(s): Do you have any better scrolls than these?
+[2:07:12] Ian Lurie: It's a magma method, by the way. Um. Says, Oh,
+[2:07:15] Unknown Speaker(s): wait, he's fire. Never mind. Sega wouldn't say that to somebody who can burn him. He says, Excuse me, I was looking for something that could help. You're my friends not get burned or fried or electrocuted or generally murdered, you
+[2:07:38] Ian Lurie: know, so some kind of protection from fire, perhaps
+[2:07:46] Unknown Speaker(s): fire. Dragons? Well, yeah, dragons. Dragony stuff. Dragony stuff,
+[2:07:53] Ian Lurie: he says, Just a moment, and he starts going through all these different piles of scrolls and stuff. And he says, All right, well, this one protects you from different energy types. So when you cast the spell for a fixed amount of time, you can pick the energy type once, and then it will, you'll only take, and I just, it's protection from energy that's, that's a third level spell, he says, and then let's see, what else do I have here?
+[2:08:35] Unknown Speaker(s): Keeps going through stuff. He says, oh, okay,
+[2:08:40] Ian Lurie: this one summons a globe that is completely invulnerable to any damage. Globe invulnerability.
+[2:08:53] Unknown Speaker(s): So what do you do with the globe? You like take to the gym? Do you
+[2:08:57] Ian Lurie: you can use it to block things. You can use it to you can be inside of it.
+[2:09:03] Unknown Speaker(s): If you go inside of it, how do you? How do you? How do you get outside of it?
+[2:09:06] Ian Lurie: Well, it goes away eventually, but you can also the caster. Can dispel it. Are you a caster?
+[2:09:12] Unknown Speaker(s): Uh, it depends on how we define caster. I'm not
+[2:09:17] Ian Lurie: sure you should play with things like these, but yeah. Um, so, yes, this is a very powerful piece of magic against any kind of fire if you just need protection for a fixed amount of time.
+[2:09:33] Unknown Speaker(s): Global vulnerabilities is great. Yeah, it sounds okay. Sounds good. How much are those? The protection from stuff, scrolls. The other ones, protection
+[2:09:50] Ian Lurie: from energy.
+[2:09:51] Unknown Speaker(s): Yeah, that's the one.
+[2:09:51] Ian Lurie: I've got two and they are, he goes to a clipboard and he looks through it. They are 2500 gold each.
+[2:10:01] Unknown Speaker(s): Ooh, on this quality paper, real. That's outrageous. Just get you I'm assuming that, since this is the plane of fire, it's hard to get good quality paper here, because it probably all burns up because it's good quality paper.
+[2:10:17] Ian Lurie: You know what? For you? 3000 gold each he says,
+[2:10:22] Unknown Speaker(s): Well, that's a very nice offer, I'm sure, but I think I will be taking my business elsewhere today. Thank you. Of
+[2:10:31] Ian Lurie: course, have a good day in a way that really gives the impression what he's saying is, fuck off and die, but
+[2:10:38] Unknown Speaker(s): may you have the day you deserve party line. Hey, I think I made a new friend, right? Tell me everything.
+[2:10:55] Ian Lurie: Other things you see in the city of brass. You do walk past a shop that appears to be selling little, teeny Fire Elementals in bronze cages.
+[2:11:08] Unknown Speaker(s): Seems cruel,
+[2:11:09] Ian Lurie: and the fire elementals are doing little, you know, acrobatics and stuff.
+[2:11:16] Unknown Speaker(s): You also I want a pet fire elemental
+[2:11:20] Ian Lurie: you walk by a large, open,
+[2:11:29] Unknown Speaker(s): sort of
+[2:11:31] Ian Lurie: town square, and there's some performers there that are doing, they are taking these, They and they're also fire elementals, and they're taking these long sticks and dipping them in a container, and what comes out is something that steams and bubbles like it's really, really cold, and they swallow it, and then they puff out, and it blows out all this really cold air. And everybody goes, Wow, how is he doing that? And there's performers doing other stuff, other tricks in that that's a pretty cool little show. And pretty soon that the time has passed and you can go back and talk to the guy who was taking a look at Bastion, if you want to. So you walk into the shop, and he says, so I've studied this for a while, and this is a very complex magic item, and I don't want to change it too much, because I'm afraid I would damage the enchantments on it. What I could do, though, is I can improve the edge so that it is easier to attack and do damage with it. Basically, he can take it from a plus one weapon to a plus two weapon.
+[2:12:58] The Rikterr is my Shep'ard; I Shall not Want: I trust your professionalism.
+[2:12:59] Ian Lurie: He says, Well, the issue is it will cost 10,000 gold. It is very difficult to do that. I don't trust your professionalism. Says it is extremely difficult.
+[2:13:11] The Rikterr is my Shep'ard; I Shall not Want: Damn tariffs.
+[2:13:14] Ian Lurie: You guys are wealthy beyond all dreams of avarice. If you wanted to do it, you could, but,
+[2:13:20] Unknown Speaker(s): oh, do we need to make a roll? JP
+[2:13:22] Speaker 2: has all the finances. We don't know what's going on, by the way, we we spent 2000 gold, but by the back give us any edit privileges. So
+[2:13:33] JP Sherman: okay, do to do? Rikter, okay? So first question for the DM, approximately, how much money has have we made in the bastion and the the trip, the commerce trades from the ships?
+[2:13:54] Ian Lurie: I'd have to go and do the do the math. But Okay, remember, it was
+[2:13:59] Speaker 2: message him once a week to do the thing. Yeah, blah, blah, right.
+[2:14:03] Ian Lurie: So it was whatever you would earn from the Bastion by messaging it once a week.
+[2:14:07] The Rikterr is my Shep'ard; I Shall not Want: You know what? I'm Richter is going to go ahead and say we are rich beyond wild streams. Take care. Take care of Bastion for me.
+[2:14:15] Unknown Speaker(s): Fuck yes. We both,
+[2:14:18] JP Sherman: yeah, we can. We can afford that with with some bank money, and, yeah, we can do this.
+[2:14:25] Ian Lurie: I believe that's basically two weeks earnings, but I'd have to double check that,
+[2:14:30] JP Sherman: okay, because, if
+[2:14:31] Ian Lurie: you remember, I yeah, I'll go back and look. I had to, I had to do the math to make sure you guys wouldn't destroy the aventin Ian economy. So right,
+[2:14:40] JP Sherman: yeah, if that's two weeks, we can go, Yeah, let's do go get it.
+[2:14:47] Ian Lurie: Okay. He says, this will take me till tomorrow, and when, when it's done, I can, where are you staying? I'll have someone come find you.
+[2:14:58] JP Sherman: Do we have quarters?
+[2:15:01] The Rikterr is my Shep'ard; I Shall not Want: We might have to find quarters. Is there a place that you recommend that we stay while we're visiting your lovely city?
+[2:15:10] Ian Lurie: Yeah, yes, go find the igneous arms. It's around the corner two blocks this the symbol is two swords on a burning background. They can, they can, they have quarters for people from other planes, and that should be quite comfortable for you. Awesome. Thank you. So you guys go around the corner a couple of blocks, you get to the igneous arms. It is a it is building that's actually made of some kind of steel. You think it's not stone. You walk inside, and it's actually quite temperate inside. You know, most of the city of brass is like walking around Phoenix in the summer. But here it's, it's kind of like it's air conditioned, almost, and a there's someone behind the front desk, kind of tall and thin, totally bald, a man and, well, actually, you realize it's in a Freedy. So it's a, it's a, it's a genie. And they say, Ah, welcome to the igneous arms.
+[2:16:38] Unknown Speaker(s): How may I help you?
+[2:16:42] JP Sherman: Yes. We would love to spend a night in your in your establishment, I would say one to three rooms, if available. And also, we would love to have some sort of a food and drink for us as well. So of course, yeah, just just let me know how much that's going to be and appreciate
+[2:17:15] Ian Lurie: it. I do have two two suites available, which have two bedrooms each. They include our best meal package, and they have baths in them. I see
+[2:17:33] JP Sherman: very well. I feel that I
+[2:17:35] Ian Lurie: should clarify water, baths. Oh,
+[2:17:38] JP Sherman: yes, that's even helpful. I'll take those two sweets, excellent,
+[2:17:46] Ian Lurie: and I will have someone come up and attend to your food and everything else shortly. Do you require any help with your baths?
+[2:17:58] JP Sherman: No, but thank you for offering
+[2:18:01] Unknown Speaker(s): of course, of course.
+[2:18:05] Ian Lurie: He snaps his fingers and two small genies just appear right next to you, and he says they will show you to your room. Your rooms, they take you up a flight of stairs to these two suites that are adjoining that are absolutely gorgeous. They're these really big rooms in the middle, there's, you know, a dining table, and there's a set of doors that go into a bathroom with an actual bath, which means there's actual water, which is so hard to do on the plane of fire. You're not sure exactly how they're managing this, but these are truly sumptuous rooms. They are definitely luxury.
+[2:18:52] Unknown Speaker(s): All right,
+[2:18:56] JP Sherman: make sure that Mossy and rikter get their their suite. Um, ours
+[2:19:04] Unknown Speaker(s): has the heart shaped tub. Yeah, yes.
+[2:19:08] JP Sherman: And single, you can have this room. Single and I are sharing this week, and I'm going Drax, going to take a bath, get into some like, non armory clothes, okay, and group chat I have. I'm heading the bar, so I'm just gonna, I'm gonna I'm gonna sit there, I think I'm gonna mingle and I'm gonna be social wild. They can take care of whatever
+[2:19:45] Unknown Speaker(s): they need. It's gonna burn more than when you pee
+[2:19:50] JP Sherman: the pie. I
+[2:19:53] Ian Lurie: don't think that's what she's talking about, but, yeah, give me a charisma check. All right.
+[2:20:03] JP Sherman: Nice 19,
+[2:20:06] Ian Lurie: okay, it's a nice bar. It's, it's, you know, it definitely has that sort of really high end hotel feel. There is music playing in the background that's kind of faintly. It's got a lot of bass. You know, you sit down at a at a table that's basically a comfy couch around a low glass table, and someone comes over and takes your order. They ask you your room number, and when you tell them, they their eyebrows go up and they go, of course, what would you like? What do you what do you order?
+[2:20:47] JP Sherman: Something fizzy.
+[2:20:51] Ian Lurie: Of course, they go away and they come back with a bottle in an ice bucket with with with a glass, a long glass flute. He says, this is the finest solid Ian champagne that we can import here. Sir. Thank
+[2:21:08] JP Sherman: you so much. And if you don't mind, I'm going to order some like cheese, crackers, meats, things like that. And signal to whoever's sitting around me, like, please,
+[2:21:22] Ian Lurie: sure you are immediately surrounded by happy people of every imaginable type. So you've got a human you've got an azer, who every time they touch the cheese, it just melts everywhere. So people start getting the dirty looks so they stop.
+[2:21:39] JP Sherman: You've got some like metal chopsticks or something. Yes,
+[2:21:44] Ian Lurie: you've got an elvish couple who are clearly here visiting and can't keep their hands off each other. And they look kind of young. So you think maybe honeymoon, you're not sure. And you see, you know other random people coming and going. A couple people sit down with you. They're chatting with you, sharing their stories. It's a good time. It's a great time. What are the rest of you guys doing? Do you head down to the bar? Eventually,
+[2:22:11] Unknown Speaker(s): sengo takes off his robes and his garments, and he washes them in the tub. He hangs them to dry. He gets a bathrobe out of the closet. Eventually puts it on, and then he goes and sits out on the bed, and he opens the box, and he twists the handle, okay,
+[2:22:33] Ian Lurie: this really sweet kind of relaxing tune comes out of it, and you get a vague sense that there's more to this box than meets the eye, like the tune is beautiful, um, but this box definitely has properties that you have not You don't understand.
+[2:23:00] Unknown Speaker(s): Okay, he puts it on the bed, leaves the lid open, and then he goes and takes the tub, cleans himself up. All right,
+[2:23:12] Ian Lurie: I'm guessing Mossy and Richter are busy. Is
+[2:23:18] The Rikterr is my Shep'ard; I Shall not Want: that what the kids call it nowadays?
+[2:23:22] Ian Lurie: I drag you. Someone sits down next to you,
+[2:23:30] Unknown Speaker(s): it's
+[2:23:33] Ian Lurie: a half orc male, and says, don't see many warrior types here in the city of brass.
+[2:23:52] JP Sherman: I'm surprised that you don't, because the name of the environment implies you have to have some some stones to really, kind of survive in the area.
+[2:24:09] Ian Lurie: Well put. Well put. And he's wearing chain armor and has, you know, a long sword that's currently kind of propped on the couch next to him. When he sat down, he put it there. Says, well, name's morgash. He holds out a hand to shake your hand.
+[2:24:31] JP Sherman: All right, morgash, my name is direct nev I'm more of the wilderness type, the Explorer, the naturalist.
+[2:24:40] Ian Lurie: I thought so. I thought so.
+[2:24:44] JP Sherman: And you should see my and you should see my companions. It's not like I've got a football only, like a sketch of Sarah and echo. I'm like, I try. And these are my kids, and these are my companions.
+[2:25:03] Ian Lurie: Says, Oh, that's awesome. Yeah, actually, I so. And he takes out something and shows you a picture of some random animals or something. Says, yeah, these are these. Wow, that's really cool. So what brings you to the city of brass vacation?
+[2:25:19] JP Sherman: You know, little bit of, little bit of business, a little bit of pleasure. I the last time, the last time I was here, we only stayed up, like, a couple of couple of hours. This time we actually got to go pretty deep into some of the wilderness. My compare, my, my traveling companions and I, we, I don't know if you, I don't know if you heard about this, or even saw this, but the there was a fire hurricane that that we had to go through, and so we had to kind of batten down. But overall, it's been a very pleasant trip, little bit of action, but a little bit of business. But overall, this is a place that is that I would definitely come back. Yeah, and yourself, it's greater.
+[2:26:07] Ian Lurie: I, you know what? I'm a sword for hire. I was here helping guard a convoy from solidra that just came through with some stuff, and we'll be turning around and going home soon. So
+[2:26:22] JP Sherman: I wish you the safest of all travels, but not the right kind of boring, if you know what I mean,
+[2:26:29] Ian Lurie: I do. I do well. Said, All right, well, I have to go back over to the cheap seats. I can't this is, this is not my end of the my end of the bar. He he he slaps you on the shoulder, and he gets up and he says, if you need anything, just just give me a call.
+[2:26:46] JP Sherman: I insist. Is it, please stay with me. Don't worry about this again. This is part of the business. One of the benefits of the business just hire yourself some drinks. Have yourself some food. You Yeah, I'm sure you have stories to tell.
+[2:27:07] Unknown Speaker(s): So he looks
+[2:27:14] Ian Lurie: briefly
+[2:27:17] Unknown Speaker(s): uncomfortable
+[2:27:20] Ian Lurie: to you, but he does. Sit back down. He says, Well, I appreciate that. Thanks. I've got some stories. I'm sure you got better stories, but I've got some stories.
+[2:27:33] JP Sherman: Come on, it's not who has the better stories, the fact that we both have stories to tell, that's that's why we do this. It's true. It's true. I literally have, I literally watched a friend eat a pie made out of fire fruit and live she kicks ass. I have a friend who's been on set on fire so many times, but he keeps coming back, and it's amazing to see how, how he endures that and still maintains a level of just like, just simple honesty and truth to do whatever he does. And my other fucking friend, this guy, is a model, a role model, like, I wish, I wish that I could be as decent, thoughtful, hard working as this guy. We're all nuts, we're all fucking weird, but we all are together, and we're all different. So please, let's start with a drink.
+[2:28:29] Ian Lurie: Absolutely he so he takes, he accepts a glass of champagne from you and sips it. You know what he's he has manners. You know? He sips it. He tells you a little you guys go back and forth telling a little bit of your stories. Give me a charisma check. The higher you roll, the more he'll share of his story. All right.
+[2:28:56] JP Sherman: 16, okay,
+[2:29:00] Ian Lurie: so he tells you, you know, he he's a mercenary, absolutely a mercenary. He's pretty picky about his clients, like he doesn't, you know, he has generally avoided working for people that he doesn't, you know, who do not agree or would get try to make him do things that he would not agree with. And he seems generally like a good guy, um, he does tell you, when he first started adventuring, he hired on with a group that he really did not like, um, girl, same, yeah. So, you know, they were poachers. They just did all sorts of awful stuff. So he was really glad to see the other end of them. But other than that, you know, he's had a few battles. He was actually involved with one of the battles right after the fall when mercenaries tried to cut off salmir from Aventine. So you remember when you guys were flying over, you found places where there were wrecked wagons and stuff like that. He was part of the groups that tried to stop that
+[2:30:15] JP Sherman: dude. First of all, that's a lot of respect. Thanks for sharing. Because, like, I tell a lot, like, one of the stores, one of the caravans we were looking for, like, we got attacked. We got we got attacked, and then, like, this beautiful FUCKING WIZARD with perfect teeth, cost cast like this ever black tentacles and dust up and but, like, but at the same time dude is beautiful, was like, Oh, my God, he's so hot. He's so hot. But God, we want to fuck him up so bad and tell him that weird, the story that we got into the like, the fishing village, and we're trying to look for someone. And then it was like, there's, like, crazy, like, cold. He
+[2:31:04] Ian Lurie: stops you, says, oars rest. You've been asked the one
+[2:31:07] JP Sherman: I've been That's
+[2:31:08] Unknown Speaker(s): awesome. Yeah? Sorry
+[2:31:15] JP Sherman: I, yeah, I don't think, I don't think I've ever had to chew a beer, but when you're there, that's what you got to do.
+[2:31:24] Ian Lurie: So you guys trade stories for a while. It's a good conversation. Um, unless you're going to try and extract some particular information from him,
+[2:31:31] JP Sherman: I'm not, I'm not getting the sense that, like, I
+[2:31:34] Unknown Speaker(s): don't what?
+[2:31:38] JP Sherman: No, no. Like, like, Jack, he's not drunk. Is rarely suspicious. He likes to believe in the best of everybody,
+[2:31:47] Unknown Speaker(s): right, right, yeah, so as far, pigeons, happen?
+[2:31:54] Ian Lurie: The metagaming pigeons? Yes, yeah, no, it's a good it's a good chat. He seems like a good guy. He eventually takes his leave. He says, We're leaving in the morning. So I gotta, I gotta go get some shut eye. But great to meet you.
+[2:32:09] JP Sherman: You too. Safe travels. Oh, and by the way, if you're ever in Aventine, look at look. Look us up in the the lady in the room,
+[2:32:25] Unknown Speaker(s): okay, all right,
+[2:32:30] JP Sherman: Jack's gonna hand out there until he's in here, until he's done like, but he's gonna like, he's he doesn't know if his friends are gonna come down, but like, he wants To wait there and kind of until they do, but if they don't, that's cool too.
+[2:32:44] Ian Lurie: Okay, um, give me another charisma check. All right.
+[2:32:52] JP Sherman: All right. Mossy Jamie doesn't 16,
+[2:32:59] Ian Lurie: okay. Um, do any of you guys come down? Are you staying upstairs
+[2:33:11] The Rikterr is my Shep'ard; I Shall not Want: at a certain point? Richter's going to come down for some elevations.
+[2:33:14] Unknown Speaker(s): Okay, yeah, we would come down eventually.
+[2:33:17] The Rikterr is my Shep'ard; I Shall not Want: Yeah, he's he's a bit sleepy. I though, smile on his face.
+[2:33:24] Unknown Speaker(s): Maybe bandages, yeah, that's right,
+[2:33:28] The Rikterr is my Shep'ard; I Shall not Want: but they can't quite cover everything to just see red lines,
+[2:33:36] Ian Lurie: those take forever to heal, too. Um, you head downstairs. You head downstairs, and you see drag at the opposite end of the place, and he is just in his element. He is just surrounded by people who are, you know, hanging out with him and eating and drinking, and everyone seems to be in a good mood, and they're just all chatting. And you head over there, and he's got, you know, there's like, been four bottles of just exquisite champagne put out on the on the table, a really nice selection of meats and cheeses and breads and things that would be very, very hard to get here. There's even a pitcher of water with ice in it. And this stuff is crazy. And there's just, and, I mean, it's he drag is basically a rock star at this point.
+[2:34:39] Unknown Speaker(s): President Jason is here as your walk up.
+[2:34:41] Ian Lurie: That's right, that's right. Yes. What do you guys want to do? You just want to go sit down, hang out with him for a bit.
+[2:34:49] Unknown Speaker(s): Oh, yeah, okay.
+[2:34:52] Ian Lurie: You two give me charisma checks as well.
+[2:34:56] Speaker 2: The Mossy is also gonna, she's got the goggles with her, and she's gonna nonchalantly pop them down and
+[2:35:02] Speaker 1: also look around the room, because this is a good time for people to come, you know, scope things out.
+[2:35:09] JP Sherman: 21 yeah. Uh,
+[2:35:11] Speaker 4: charisma, check. Oh, that's a 12,
+[2:35:16] Unknown Speaker(s): okay. Um, all right,
+[2:35:23] Ian Lurie: when you put the goggles down, you do see that several people in this room are not what they appear. In a few cases, there's people that look human without the goggles, but are fire elementals with them. You're not sure what that's about, but you know, they have used some kind of magic, like disguise self on themselves. Other than that, you don't see anything weird with the goggles. So that's it. And you notice that those people are refraining from eating or drinking, but they are just sort of hanging out and
+[2:35:57] Unknown Speaker(s): chatting. But their vibe seems good overall.
+[2:35:59] Ian Lurie: Yeah, you know, you're in a hotel bar. The vibe seems pretty solid. Um rikter, you are hanging around, and you just think for a minute, this all looks really expensive, like this is, this is, like, the nicest hotel I've ever been in. What is it with this place? And that's, that's all that occurs to you. I'm not saying anything about it. It's just, you know, with that role, you kind of, you're sort of like, okay, yeah, this, this place is special. There's something unique about this place. I don't know what it is, but there's something. It's, it's got something going for it.
+[2:36:46] Speaker 2: I will party line and be like so we got a couple of fire elemental so they seem chill, but they're, they're not really human esque. They're just fudging it.
+[2:36:59] JP Sherman: Thanks. Good to my pointing about, I wouldn't want to, I wouldn't want to accidentally, yeah, don't
+[2:37:09] Unknown Speaker(s): drinking, like, give anybody a hug and Mossy,
+[2:37:11] JP Sherman: because that might hurt. Mossy
+[2:37:14] Unknown Speaker(s): will low key point amount.
+[2:37:15] Ian Lurie: Okay, so it's, it's the male and female elves that you thought were a honeymoon couple, and they're just kind of sitting across the table, you know, very mild smiles on their faces. They chat with you, they chat with each other. Don't seem to be doing anything beyond
+[2:37:38] Speaker 4: that. Things are fire elemental, doing role play.
+[2:37:41] JP Sherman: That's nice. Hey. Rikter Mossy, you feel Do you feel like we need to get like mom Tates down here,
+[2:37:50] Unknown Speaker(s): need to get what get?
+[2:37:52] JP Sherman: Won Tates,
+[2:37:56] Unknown Speaker(s): Mom dates,
+[2:37:59] Ian Lurie: the performer for the green slaad,
+[2:38:00] Unknown Speaker(s): oh
+[2:38:03] JP Sherman: yes, because he's probably, I bet you, I bet you, he's already washed his clothes in the bathtub. Is probably appropriately dressed, and just like I don't I bet he's not sleeping yet, but maybe he's doing a quiet time thing, but I still think he needs to come
+[2:38:27] Unknown Speaker(s): down. Are you seeing us in the party line
+[2:38:30] JP Sherman: or out loud also? Yo Wong, get the fuck down here. Please
+[2:38:39] Unknown Speaker(s): wait you. You talk to me.
+[2:38:43] JP Sherman: You talking to me? No, the answer is
+[2:38:47] Unknown Speaker(s): yes. Oh, okay, yeah, I'm, I'm fully dressed, and I'm not dripping or anything. I'm, I'll be down. I'm my way,
+[2:38:54] JP Sherman: fantastic. I think you would, I think you would enjoy, enjoy the often
+[2:39:01] Unknown Speaker(s): is our druid dripping? Should we see a doctor?
+[2:39:05] JP Sherman: It's a common thing. Druid drip tells he caused
+[2:39:11] Unknown Speaker(s): that a couple of times. So the staying Sango stands up out of the bathtub, walks over, towels off, gets his robes on, and then heads down. See, okay,
+[2:39:28] Ian Lurie: he's head downstairs. There's it's hopping down there.
+[2:39:33] Speaker 3: Okay, he's gonna sit up at the corner. He's gonna play a little, uh, little fiddle.
+[2:39:39] Ian Lurie: Okay, quest, you're gonna, okay, so you're gonna assume the likeness of of Juan Tate. You're going to create his identity.
+[2:39:48] Unknown Speaker(s): No, I cannot do that. Okay? No, well,
+[2:39:53] Ian Lurie: no, I'm not. I'm not saying, actually fake him. I'm just saying, say you are Juan Tate's.
+[2:39:59] Unknown Speaker(s): No, I'm just, I'm not gonna say anything. I'm just, oh, okay,
+[2:40:01] Ian Lurie: all right, all right. Well, give me a performance check.
+[2:40:04] Unknown Speaker(s): Let's set up at the corner and yeah,
+[2:40:11] Ian Lurie: so if you guys see Sango, come set up in a corner. He takes out his fiddle, starts playing,
+[2:40:17] Unknown Speaker(s): nope, cock. I uh, that's a total 20,
+[2:40:28] Ian Lurie: okay. Um, you know what? Some people hear you playing, and they stay, they hush because it's quite noisy in here. And then some other people hear you playing, and they stop talking, too. And actually someone then signals to the bartender, so they turn down the music, and you got a fair number of people watching, and they're kind of tapping their feet and listening to the music. And when you're done, they clap, and it's not just polite clapping. They genuinely clap
+[2:40:54] Unknown Speaker(s): completely. Snout, thanks to Drach.
+[2:40:57] Ian Lurie: Yes, yes, yeah. Drac has sort of smooth the road for you. This is a lot of very happy people around here.
+[2:41:05] Unknown Speaker(s): Someone else free bird from the crowd. Yeah,
+[2:41:07] Ian Lurie: yeah, the train. They're holding up their thumbs, actually, and just going like this, because they're all Fire Elementals. You do a couple more? Do you do a couple more songs? Are you just gonna? Okay? People enjoy it. They enjoy themselves. You're kind of enjoying it. You know, you haven't gotten to just perform like this for a long time. And as you finish the last song, the genie from the front desk comes over and says, Good evening, sir. You are. You're very good with that fiddle.
+[2:41:48] Speaker 3: Thank you. If you'd, I don't know if you
+[2:41:55] Ian Lurie: schedule performances or if you're booked for the next you know, however long, but if you'd ever like to come perform here, and he hands you a little rectangular piece of stone that has something written on it in IGN he says, just please let us know we can
+[2:42:14] Unknown Speaker(s): put it in my pocket My Room, where you put all appropriate business cards, and then I go back to playing. And this time when I when I play, every time my fingers are out, like not on the fiddle, each one that's out bursts into flame. Ooh,
+[2:42:36] Ian Lurie: okay, give me another. Give me another performance. Check. Oh,
+[2:42:38] Unknown Speaker(s): my God, this is gonna be worse, isn't it? Well,
+[2:42:41] Ian Lurie: you are letting setting fire to your fiddle. So that's not
+[2:42:44] Unknown Speaker(s): too bad. That's a 16,
+[2:42:45] Ian Lurie: okay, all right, you almost set fire to your fiddle, but you play respect, you know, music respectively. And people are actually kind of, they think that's kind of cool. So they, you know, they look past the fact that these aren't, these songs aren't quite as good as the last ones, but that's all right, because you're doing the pyrotechnics, and they know how hard that is for someone who's not made of fire. And you know, again, people are entertained. You enjoy it. They enjoy it. You guys see Sango actually playing with fire, which is not something you've seen him do in a long time, because, you know, generally fire around him involves exploding and charring and things.
+[2:43:27] Speaker 2: Monster uses prestigation to make the cheers from the crowd a little bit louder,
+[2:43:34] Ian Lurie: which, of course, encourages everybody to cheer louder, because they think everyone's cheering loudly.
+[2:43:42] Unknown Speaker(s): Yep. Yeah. Okay,
+[2:43:45] Ian Lurie: all right. So the rest of the night goes by pretty uneventfully. You guys do enjoy yourselves. You go up to your rooms. You have a great night's sleep like the best night's sleep you've had probably since you came certainly since you came here. Oh, my God,
+[2:44:02] Speaker 2: it's a real bed. Yep, Mossy is like starfish diagonally across the bed.
+[2:44:10] Ian Lurie: Richter's like curled up in a little, tiny ball one side. Yeah.
+[2:44:14] Unknown Speaker(s): About three in the morning, Richter gets up and goes to the other bed, right, right.
+[2:44:19] Speaker 2: He just gets up and walks around to the other side of the bed, gets back
+[2:44:27] Ian Lurie: and you guys wake up totally refreshed. The next morning, they bring you a wonderful breakfast of pastries and different juices and stuff like that. And then you knew
+[2:44:41] Speaker 4: that I kind of missed the fire Berry was delicious. You you can order
+[2:44:45] Ian Lurie: some if you want. They'll bring you pretty much anything. You pack up to leave, and you go to check out, and the genie that the front desk Genie hand you the bill. And the last 24 hours has cost you 552 gold.
+[2:45:08] Unknown Speaker(s): That's it. Yeah, that's it.
+[2:45:11] JP Sherman: Track will cover that a
+[2:45:12] Ian Lurie: typical hotel is five gold per night. Just, well, see that entire bit is now just ruined. This is, this is like, having all my students show up two hours late. This is just the worst. No one's laughing at my jokes. No one's okay, fine, fine.
+[2:45:30] The Rikterr is my Shep'ard; I Shall not Want: Well, technically, I don't think we normally stay at in so, like, I don't, yeah,
+[2:45:34] Ian Lurie: yeah. That's, that's a good point. That's
+[2:45:38] Unknown Speaker(s): like, in the ship we're used to being,
+[2:45:40] Ian Lurie: yeah, yeah. That's, that's a good point. That's a good point. So
+[2:45:42] The Rikterr is my Shep'ard; I Shall not Want: it's not that rigorous, not that he's like, about it. He's just like, yeah, that was worth it, because what we normally sleep is squalor.
+[2:45:51] Ian Lurie: So that was, yes, no, this was a luxury experience. Now you know
+[2:45:54] JP Sherman: Leo man's tiny hut mocks us.
+[2:46:00] Unknown Speaker(s): Hi, keyleth, don't steal my dice, please.
+[2:46:03] JP Sherman: I want to make sure. I want to make sure, hopefully, that I say goodbye to the orc as he as he does his job to acknowledge that safe travels. He's
+[2:46:15] Ian Lurie: actually out front getting all geared up, and you actually do see a like a caravan that he's joining, and they're making their way towards shit. Are you moving? They're moving towards the what you know is the one gate in the city that you can walk through to get back to the prime material plane.
+[2:46:38] JP Sherman: Got it, I am going to hand him a greater potion of healing. And just like for your journeys, my friend, make sure you get make sure you get back in safely. He
+[2:46:54] Unknown Speaker(s): just bought that for you, jerk.
+[2:46:57] Ian Lurie: He nods. He says, I, I will just say thank you. I appreciate that track. I'm sure we'll sure our paths will cross eventually. I hope so safe travels to you, too. And the exit, that particular exit out of the city, by the way, is this huge brass ring, and it passes from here to the far eastern side of Solidaria, where actually you, none of you have ever been. It's weeks of travel from there, back to where, back to Aventine.
+[2:47:40] Unknown Speaker(s): No
+[2:47:45] Ian Lurie: so if you have more time than money, that's how you do it. Yeah,
+[2:47:55] JP Sherman: okay, so I think we're done with what we need to do here.
+[2:48:00] Unknown Speaker(s): Yeah, we just got to get the airship to pick us up and we have
+[2:48:04] Speaker 2: our which one of us is holding on to the banner?
+[2:48:12] Unknown Speaker(s): Yeah, don't lose it. It should be in a bag of holding, right? Yeah,
+[2:48:16] Speaker 2: putting in a bag of holding now, shouldn't have it marked in the inventory. What's the name of the banner again,
+[2:48:23] JP Sherman: zariel,
+[2:48:25] Ian Lurie: the badge of zariel, Z, A, R, I, E, L, thank you. That's the ruler of Avernus. Okay.
+[2:48:34] Unknown Speaker(s): She's in the bag of Holden. Okay, and
+[2:48:39] Ian Lurie: you know that you're supposed to wear it when you're in Avernus.
+[2:48:50] JP Sherman: So real quick, y'all sent me on a mission to find somebody who has traveled to the nine owls and came back.
+[2:48:58] Unknown Speaker(s): Yeah, we thought that might be useful. Who'd you find?
+[2:49:00] JP Sherman: Well, it became kind of an adventure. I went, I started, I started going up Northwest, and I started asking around, you know, rumors of people who have been to Nine Hells, things like that. And the strange thing was, is that once I started mentioning this, strange things would happen, like devils would rip open a portion of the sky and come down and attack me and like, uh, Sarah, and they went terribly hard to dispatch, but it was like it was that there's there was no coincidence there. So while I was out there, I would actually grabbed one of the bodies, I dragged it to some of the old rumored like clerics, or like different than clerics, or they're called the root weave. The root weaves are ancient. It's an ancient order of like nature protectors, and they confirmed that there was a on that they knew of somebody who matched that description. And let me Here we go, and the name, the the name was called rugerim, uh, an orc. I figured that once I got the name, I started doing what I do, and hunting down that name from, you know, hovels, pubs, dives, weird looking hermits. I We eventually found out that there's a man, there's an orc named Ruger who's been to hell and back, and right now, He currently lives in the northwest of Solidaria on the coast. At that point, I realized that this the the coincidence is things like, like, would be foolish for me to go by myself. So upon that moment, I hoped it as fast as I could back in the sit back to back here, where, when I showed up, we were already engaged in that fight. So I'm I found a lead to somebody who's made it to to have 2000 back.
+[2:51:33] Unknown Speaker(s): Stop it. I know sounds like we can find talk, maybe talk to somebody that can give us some first hand knowledge of how to get there and how to get back and how to survive.
+[2:51:49] JP Sherman: Yeah, I have no other knowledge of who he is, but there's a level of infamy around that name where, like, I don't, we don't, I don't know what to expect, so that that could be our next place like to go.
+[2:52:21] The Rikterr is my Shep'ard; I Shall not Want: All right, well, let's get out of the city of brass and go have a little talky talk with Ruger.
+[2:52:27] Unknown Speaker(s): Yep, okay,
+[2:52:30] Ian Lurie: um, you can go back to the teleportation circle if you want, and end up back at Animus is at the Taberna, which is very uneventful. Animus is happy to see you all and see that you're all intact. Says, Well, I hope your journey was a profitable one.
+[2:52:53] Unknown Speaker(s): I have a really nice hotel there. Do you know
+[2:52:58] Ian Lurie: that the igneous arms? Let me guess, yes. Yes, I grew up there, you know, in the hotel. No, no, no, no, no, in the city of brass, no, ah, okay, yeah. Do you guys do anything there? You're just gonna head on your way. Okay, so then next, just real quick as we wrap up here, I will be in England in two weeks, so no game. Then we can try and schedule for the week after that, if you want. Or we can just skip and go four weeks. Up to you all,
+[2:53:40] Unknown Speaker(s): I really like the chart is scheduled, okay, yes, so
+[2:53:44] Ian Lurie: we can talk about it on the chatty thing discord. That's it.
+[2:53:52] Unknown Speaker(s): You're going to be gone on the 15th. Let me look here. I believe that's correct. Within the 22nd 22nd of September is Hobbit day, by the way. Hobbit
+[2:54:04] Ian Lurie: day, no kidding,
+[2:54:05] Unknown Speaker(s): no shaving your toes to Hobbit day. Uh,
+[2:54:10] Ian Lurie: yes. So we would be looking to run to play on the 22nd Okay, so let me know.
+[2:54:19] Unknown Speaker(s): Um yeah.
+[2:54:24] Ian Lurie: So next time you think probably heading for rugerim gonna go talk to him. Okay, yep, yep,
+[2:54:31] Unknown Speaker(s): cool, yeah. I think that's the I think we're in the let's find out as much as we possibly can about anything and prepare as much as we possibly can before getting her ass kicked, literally, yeah, literally, going down, yep,
+[2:54:46] Ian Lurie: it's fair. All right, guys, all right.
+[2:54:50] Unknown Speaker(s): Y'all, cool, awesome. Thank you again tonight. I love y'all. It was a blast. Bye.

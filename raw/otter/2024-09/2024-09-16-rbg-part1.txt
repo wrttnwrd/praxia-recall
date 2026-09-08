@@ -1,0 +1,470 @@
+# Ian's Meeting Notes
+# Otter recording 2024/09/16 16:57:26 (1h 36m) id lP2Kq7JguN7jjjUt0l6yOROyXfY
+# https://otter.ai/u/lP2Kq7JguN7jjjUt0l6yOROyXfY
+# Speaker-attributed transcript, verbatim. Raw source for the card at /items/otter/2024-09/2024-09-16-rbg-part1.md
+
+[0:04:33] Ian Lurie: Hey, how's it going?
+[0:04:40] Unknown Speaker(s): Oh, you know that feeling of being a growing up? Yeah? I hate that feeling,
+[0:04:46] Ian Lurie: yeah, Maya, we went to Wazoo for the weekend, or just for Friday and Saturday, and while we were there, Don and Morgan decided it would be funny to see if they could get me drunk, because, you know, I never drink. So I had three pints of IPAs and was fucking wrecked. Literally, woke up the next morning, hung over from three beers. It's just it was really embarrassing. So, you know, being a grown up, right? I'm out of shape. I don't do things like that anymore. Um,
+[0:05:44] Unknown Speaker(s): I understand,
+[0:05:48] Speaker 1: not me. I was at the renfest on Saturday buying drinks for my 21 year old nephew. I
+[0:06:10] Ian Lurie: Let's see. I guess I should get invites ready for everybody. I
+[0:06:20] Unknown Speaker(s): I just want to give a quick shout out that dungeon design,
+[0:06:40] Speaker 2: like the way that you built it, and those were really cool.
+[0:06:46] Ian Lurie: Thanks. Yeah, I enjoy it. It's such a fun tail Spire. So much fun to work with. If it weren't for the fact that I just love terrain and mini so much, I would just get rid of turning in minis, even playing in person, I would just have a huge projector or something.
+[0:07:15] Unknown Speaker(s): Although I gotta tell you, I am
+[0:07:19] Speaker 2: spending more free time than I should. Obsessive over the 2024 rules.
+[0:07:24] Ian Lurie: I just got the book. I just got the hard copy, so I started reading it over the weekend. One really subtle, interesting difference that I found was that now if someone throws a fireball or a speller, I group of NPCs. They're saying roll wants for the whole group, which is, I mean, it's trivial thing, but it just, for some reason, it just leapt out at me that, and then Counterspell, which we will not be, we will not be adopting the new Counterspell rules, because those are stupid.
+[0:08:02] Speaker 3: I if you have something where they're low level, I guess roll for one from the group. But like, I if it's you, Ian, have a bee bag and, like, three people, like, as a player, would feel really short changed if you rolled once for all of them. Like, that's not fun. Yeah, yeah.
+[0:08:20] Ian Lurie: I think that's a rule. When you're, you know, fireballing a bunch of Cobalts or something, and you just want to have a smoking wreckage with all their little feet sticking up at the end.
+[0:08:29] Speaker 1: There was a, there was a critical role episode The first campaign, where they were in Western and they're going after dragon, and grog brought his horde with him, and
+[0:08:47] Speaker 4: boy, Goliath barbarian
+[0:08:52] Speaker 1: attacking this dragon, and he rolled just once. He was like, Oh, just roll. And then they all failed. And I was like, Oh, that that's really, that's rough. So I feel like, in this situation, it should be like a or if you have 10 people, two of them are going to make it, two of them are going to fail, and then just binding scale the rest of it, yeah,
+[0:09:10] Ian Lurie: yeah, yeah. That's the other possible way to do it. Just, you know, Counterspell. The way they changed it is that Counterspell would now be a con, save for the person. So basically, you're running up behind someone like slapping them on the head and hoping that that distracts them. That's not happening. Sorry. There's just no way never doing that.
+[0:09:38] Speaker 1: Why did they get some feedback to say, No, you shouldn't do that, yeah? Because that seems like it needs to be like a second level, distract spell or something. Yeah,
+[0:09:48] Unknown Speaker(s): like the backseat versus table. Yeah,
+[0:09:58] Speaker 2: I gotta say that, like the some of the changes, it's like I will not even miss the old Sharpshooter. I'll just say it up front. I'm not going to miss it.
+[0:10:18] Speaker 5: I have not converted my character over to the new rule books yet, because, like, I'll
+[0:10:24] Ian Lurie: do two chapters of Almanac, please. One, don't. Anyway, we're not going to switch until the next campaign, assuming we keep these you know,
+[0:10:33] Speaker 1: great, I've got, like, four hours into my spreadsheet. You're
+[0:10:38] Unknown Speaker(s): going to do that anyway. That's true. Don't blame us for what you're gonna do. Okay, made you make 600 You're right.
+[0:11:00] Ian Lurie: So I'm going to
+[0:11:02] Unknown Speaker(s): create one character. You guys are going to like adventure. I dare you.
+[0:11:11] Ian Lurie: I'm real curious now. So if you remember last time you fought you, you found your way through the enormous dungeon, found a secret door from this prison cell that brought you here, where you fought Marana and murdered her in horrible, horrible fashion, careful planning and design. You found dura and rescued her. They don't have any little, cute, little orc child, so I just took an orc, a half orc, I mean, so just took a half orc and made her smaller. Found Lecture notes are what appear to be lecture notes from some long ago professor of ancient history or something. And you're you're not sure exactly you know who he was or what he was talking about, but it seems like he was providing. He was teaching a class about thargarx,
+[0:12:29] Unknown Speaker(s): not Vilma. I'm sorry, no, okay,
+[0:12:34] Speaker 5: I was catching up with my notes, because we have a professor named Vilma, and then we had the professor that we got the notes from,
+[0:12:43] Ian Lurie: that's right, and also this professor, you don't, you never see his name or her name, but you do see the name of other professors, right? Because they this the lecture mentions. So that's where you're at now you let me know what you'd like to
+[0:13:08] Speaker 1: do. Hey, mossy moss like you like to find, like shiny hidden things, right?
+[0:13:15] Unknown Speaker(s): Love shiny hidden things.
+[0:13:18] Speaker 1: Why don't we have a competition between you and dracus? You can find the most shiny hidden things in this room. You see
+[0:13:28] Speaker 6: full ears go up and then go in airplane mode. And this, he does like kind of a little
+[0:13:38] Ian Lurie: now, strictly speaking, airplane would mode would mean that they flatten down and you can no longer send or receive any signals. But I'm going to assume you mean like, oh, you
+[0:13:46] Speaker 5: know, no, we're airplane because we are. We are, yeah, airplane position guy being the treasure now,
+[0:13:52] Ian Lurie: got it. Got it.
+[0:13:56] Unknown Speaker(s): Can I remind you all of like, 15 minutes ago, with the other treasure issue,
+[0:14:04] Speaker 5: mossy just slaps you and begins running to get treasure,
+[0:14:11] Unknown Speaker(s): damn it, Craig and you're searching the one room at a time, right? Oh, no, no, no, you made a bet with mossy is gone anymore.
+[0:14:23] Speaker 2: You did not state the rules, nor did you state any kind of reward for winning. Doesn't matter.
+[0:14:34] Unknown Speaker(s): It's all about like Bag of Holding.
+[0:14:40] Ian Lurie: Okay, so where are you searching?
+[0:14:45] Speaker 5: Moss is gleefully sprinting down the hallway to where the coffin is.
+[0:14:52] Unknown Speaker(s): Yes, that is the first place.
+[0:14:58] Ian Lurie: I don't have to remind you, because the spikes are there that there is a large spike trap right there. You
+[0:15:05] Unknown Speaker(s): always yep, yep,
+[0:15:11] Ian Lurie: you happily run up to the coffin. And what do you do once you're there?
+[0:15:17] Unknown Speaker(s): I'm flipping like we are. We are in full. You know when the cats the chitters in the middle of the night?
+[0:15:26] Ian Lurie: Yeah, okay, why don't you give me a con save? Because when you flip it open, this greenish gas comes out,
+[0:15:37] Unknown Speaker(s): just a little like a
+[0:15:39] Ian Lurie: in your face. I
+[0:15:43] Unknown Speaker(s): days that is a 11.
+[0:15:45] Ian Lurie: Okay, you get a pretty good Snoop full of this stuff, and you realize as you're inhaling it, it's actually little tiny particles. And suddenly you feel as if your head is twice the size of your body. And you look down at your hands, and they're these little, teeny, teeny, mini hands on the ends of normal arms, and feel like maybe your legs have just become much longer.
+[0:16:17] Unknown Speaker(s): You're just kind of
+[0:16:19] Speaker 6: in the other room. I'm high on, on vampire. Yeah, you can still talk,
+[0:16:23] Ian Lurie: but you can't move. And you really, you really feel like parts of your body have changed shape and size. What do you guys do? Richter,
+[0:16:32] Unknown Speaker(s): Richter, my pocket are really small.
+[0:16:36] Speaker 3: Richter's gonna walk towards my, avoiding the
+[0:16:40] Ian Lurie: well, when you when you move to the hall so that you can see her, you see mossy but her head is like 10 times normal size, and her arms are there, and at the end of her arms are these little, teeny, teeny weeny hands. And she's paralyzed. And one of her eyes is huge, and the other one's really small. You're not sure exactly what has happened here. And there is sort of a green mist settling slowly in the room.
+[0:17:05] Speaker 2: I'm getting like a bill the cat Bloom County vibe at this
+[0:17:10] Ian Lurie: OOP act. Yeah.
+[0:17:14] Speaker 5: I'm just on my back with my tiny paws doing this
+[0:17:18] Speaker 1: is DM is that is the door open for the secret tunnel we came down in the
+[0:17:23] Ian Lurie: Yeah, yeah. It's on the other side of the of the coffin. Okay,
+[0:17:27] Speaker 1: cregyn ad rholly, and he's going to use thaumaturgy to just move some of that gas up the hallway. Okay,
+[0:17:34] Ian Lurie: okay, no problem. It's settling in dispersed pretty quickly. So,
+[0:17:39] Unknown Speaker(s): yeah, all right. No, no, go
+[0:17:47] Speaker 2: ahead. JP, yeah, tracks gonna look behind, like the tapestries and like he's gonna focus on this room and not that room with the Vampire,
+[0:17:58] Unknown Speaker(s): the artist formerly known as vampire,
+[0:18:02] Ian Lurie: okay, so Richter, what do you do? And then drag I'll come back to you and we'll
+[0:18:09] Unknown Speaker(s): gonna walk up to Moses, like, are you okay?
+[0:18:21] Ian Lurie: Her voice comes out as if she snorted 20 liters of helium.
+[0:18:29] Speaker 3: Can I try and figure out what this is and maybe how to remedy it,
+[0:18:35] Ian Lurie: absolutely. Why don't you give me a medicine check I Okay,
+[0:18:44] Unknown Speaker(s): I got three medicines. Hey, my pals are really small. Yeah, so you know what, it's gonna look huge, nice, nice
+[0:19:03] Ian Lurie: Richter loses focus for a moment and fails utterly on his medicine. Role Richter, you're not sure, but you're pretty you think this was some kind of poison. You suspect there's some poison involved here. I This is definitely not normal. You know that this is not normal? Okay,
+[0:19:36] Speaker 3: I'm going to cast a second level protection from poison on mossy,
+[0:19:43] Ian Lurie: okay. What does protection from poison Do you
+[0:19:47] Speaker 3: touch a creature? If it is poison, you neutralize the poison.
+[0:19:51] Unknown Speaker(s): Okay,
+[0:19:54] Ian Lurie: that works Mossy. You feel much better, and you watch Richter as her head sort of returns to normal size and her hands return to normal size, it's just kind of like a there's no real transition. There's no noise. It's just sort of this boom, and she looks normal again, and Mossy, you can move.
+[0:20:18] Unknown Speaker(s): How much treasure is he found inside
+[0:20:27] Ian Lurie: inside the coffin, there is a pillow, a thin mattress made of some kind of fabric, and that's it. Oh, and a cracked open vial that looks like it may have had some kind of green gas in it. You're not
+[0:20:45] Speaker 5: sure. Definitely gonna take the vial, because I'm curious. Now,
+[0:20:51] Unknown Speaker(s): hey, Craig, and do you want a pillow?
+[0:20:55] Speaker 1: No, I'm good, but maybe Richter might need it, because I don't know, did you take a compartment yet?
+[0:21:06] Speaker 5: Mossy dives back into the common All
+[0:21:10] Ian Lurie: right, Drak, why don't we come back to you? So you're just searching room, just behind the tapestries and stuff. What's any specific place I'm looking for?
+[0:21:21] Speaker 2: Like, obvious places where things are stored and things are like, like wall safes or wall doors or
+[0:21:30] Unknown Speaker(s): something that you know,
+[0:21:34] Speaker 2: because, like, I'm not good at investigation, so I'm more of the, I'm definitely not the mossy level investigator,
+[0:21:41] Unknown Speaker(s): okay, okay, but I'm trying to do the quick rounds of like, checking for
+[0:21:45] Ian Lurie: all right, let me Give me. Give me two investigation rules.
+[0:21:55] Speaker 1: Go to like, every tapestry section of while I'm casting liturgy on it, because you instantly cause an unlocked door or window to a fly open or slam shut. Oh, okay,
+[0:22:10] Unknown Speaker(s): that is an 18 and a 10, all right,
+[0:22:16] Ian Lurie: you're going around the room. You're kind of looking at things. You're not indoors, right? It's just not something you do very often, tapestries and everything, which all seem to be drifting and blowing a little bit for no apparent reason, as cregyn ad Rhein, motioning at them and muttering things. And then you stop next to Miranda's body, or at least what's left of her body, and you notice there's a small pouch on her belt, or what would have been her belt. And when you reach down to kind of, you know, just sort of get its heft and see what's in there. It actually feels like there's a fair amount inside that pouch.
+[0:23:05] Speaker 2: Before I even touch it, I go, I'll see found one, and I use here.
+[0:23:15] Ian Lurie: So I can't remember if I already told you guys this. So if I'm just re sharing stuff, you already know, I apologize, but you open up the bag, and inside the bag there is what appears to be an iron coin
+[0:23:31] Unknown Speaker(s): that's featureless, the Soul coin, right? Yes,
+[0:23:40] Ian Lurie: the soul coin,
+[0:23:40] Unknown Speaker(s): you know?
+[0:23:42] Ian Lurie: No, this is the one. This is the one. This is where it would have been, as opposed to just sort of sitting out on a desk. Because the last game, I just wanted to make sure you guys knew it was there. And then there's a smaller pouch in there. And when you take that and you open it, it looks like it's probably sometimes all component pouch. And in there is a small handful of some kind of dust. And it looks it, it's, um, it's not really dust. It almost looks like sand, actually, kind of a whiteish,
+[0:24:21] Speaker 2: if it's I want to see if it's natural, because if it's natural, I might be able to identify but if it's not, like a weird like dust of ogre toe, okay, a natural.
+[0:24:42] Unknown Speaker(s): That's a one. I have no idea what that is.
+[0:24:47] Ian Lurie: You're not sure you kind of take a little you taste it just taste. Doesn't really have any taste. Your whole mouth goes numb. No, it doesn't. Your mouth does not go numb. Uh, mossy. You're digging around in there. Why don't you give me a insight. Oh, my God, thank you. Yes, 24 Okay, you go through there pretty carefully. There's no hidden compartments, nothing.
+[0:25:20] Speaker 5: Okay, so if I, if I pop my head out of the coffin, and I just pause for a second and I feel where this wind is coming. Is there wind in this chamber? No, no, okay. I
+[0:25:33] Ian Lurie: mean, there's a breeze coming. There's a very small piece coming from the secret passage, but you know where that goes. That's where you just came from. Okay,
+[0:25:44] Unknown Speaker(s): okay, so,
+[0:25:50] Speaker 5: well, I'm gonna pull up true sight, because I keep pretending it does something it doesn't. Every time I have two minutes left of true sight, okay, all right. Top and the goggles down, maximum, ears up, wide. Wizards, whiskers of twitching, and I am bloodhounding as a tabaxi, okay,
+[0:26:15] Ian Lurie: uh, you do not the true site does not reveal anything to you.
+[0:26:19] Speaker 5: Okay, I'm moving back into the main chamber, though, where they are.
+[0:26:24] Ian Lurie: Okay? So you walk past Drak, and he's sort of tasting some kind of stuff that's in a bag, you're not exactly sure what, and he's got the gums. And as you walk by, actually, because you're, you're an artificer, you you might get an idea of what this is. Why don't you give me a quick perception check?
+[0:26:49] Unknown Speaker(s): What's a 12? Okay,
+[0:26:53] Ian Lurie: you're not sure exactly what track has you do notice the spell component pouch. You know, when you kind of, you look at that and you're like, oh, edible
+[0:27:03] Speaker 5: body glitter. I say, as I'm marking by
+[0:27:07] Unknown Speaker(s): could be, yeah. What
+[0:27:18] Speaker 2: do you guys do now? Sorry, just my mind went on at a whole body glitter so I just like,
+[0:27:26] Speaker 5: it's part of the drag food pyramid, actually, right? I am in competitive mode. Mossy is in competitive. Find the shit.
+[0:27:38] Ian Lurie: All right, give me another perception
+[0:27:40] Speaker 7: check. Well,
+[0:27:53] Unknown Speaker(s): 12, okay, well, I mean good perceptions, yep, me too. Until tonight, perception 26 Okay,
+[0:28:06] Ian Lurie: you go around the room and you're looking everywhere, and you're realizing just how few features this room really has. And you you keep looking, and you just don't really get a sense that anybody would have hidden anything in here, and you're giving it a thorough look now, there's no sign any furniture has been dragged or moved or anything like that. Yeah. Well,
+[0:28:36] Speaker 2: maybe we should try to find Okay, so the things that we got to do is that we have
+[0:28:52] Unknown Speaker(s): certain
+[0:28:54] Speaker 2: we Have the architect Right? Or was that the name before? Yeah, that's right. So we have the foreman
+[0:29:06] Speaker 6: real quick before we go any further, though, um, you just found a soul coin. Oh, yeah,
+[0:29:14] Unknown Speaker(s): I don't want to. I don't think what I want there. I just
+[0:29:19] Speaker 5: so the last time we thought we had a soul coin really well hidden. It was in a bag of holding. Yes, still found. And
+[0:29:26] Speaker 2: that's where we met, what, uh, her,
+[0:29:29] Unknown Speaker(s): that was our mute meet cute. Yeah, sure was, um, and I don't want audiences again.
+[0:29:38] Speaker 5: Well, we've got an empty lead box, we could try and, you know, double it down. Yeah.
+[0:29:46] Unknown Speaker(s): Richter, do you know what these things are for? So, yeah, this you you were there. I remember you body glitter right now I can, I can be doing two things at once. So
+[0:30:22] Speaker 2: remember, I remember we nicked one from from the cave, from the vault, and then she went and returned it. Oh, yeah, somebody's soul goes into this, and it's used as, like a currency, and in one of the house, okay, got it. You're
+[0:30:40] Ian Lurie: lucky, you're false. Actually going to one coin? Well, you'd say James, I'm sorry I missed that.
+[0:30:49] Unknown Speaker(s): I said he's lucky. He's pretty
+[0:30:54] Speaker 2: Yeah, no, it's not about animals or nature. I'm like poor body glitter or body glitter.
+[0:31:00] Ian Lurie: Hey, cregyn ad R at the the end of your cloak.
+[0:31:07] Unknown Speaker(s): Hey, sweetheart, I didn't forget about you.
+[0:31:11] Ian Lurie: Just checking, can we go home now we're going
+[0:31:14] Speaker 1: to go home pretty soon, but I need you to stay back a little bit because we need to explore our way out of here. Okay,
+[0:31:22] Unknown Speaker(s): you could ever snort a line of this and see what Drach found?
+[0:31:26] Speaker 1: What's a line also don't, don't listen to the furry one. She's a little distracted at times.
+[0:31:35] Ian Lurie: Y'all are kind of weird.
+[0:31:37] Unknown Speaker(s): Yeah, we know. Yeah, you're right. Hey, Richter,
+[0:31:40] Ian Lurie: you see Drak holding this pouch and kind of looking at this powder, and you would definitely recognize this. So why don't you give me a perception check with advantage?
+[0:32:02] Speaker 7: 27 27 diamond dust,
+[0:32:11] Unknown Speaker(s): you're half right.
+[0:32:13] Ian Lurie: You figure, you figure it's probably about 1000 worth of diamond dust.
+[0:32:21] Speaker 3: Oh, hey, um, track, don't put any more of this in your mouth. Oh, this is some diamond dust. How you have revivify, right? Yeah, all right. How much? How many diamonds Do you have? Do you need this to fire off a spell as Lord knows, I'm the dyingist Motherfucker in this group.
+[0:32:45] Unknown Speaker(s): What's a motherfucker? So your mommy, your daddy, usually we just say drag, but that's okay. Okay.
+[0:33:01] Speaker 2: Yeah, no, I've like, we have a couple of those smaller diamonds. Yeah, was definitely, I just put this on the inventory. So, yeah, we got to keep this. But I don't know of any spell component that I would need that would require diamond dust.
+[0:33:30] Ian Lurie: I think revivify does
+[0:33:36] Speaker 2: diamond diamonds that's worth 300 gold. I don't know if it's, I don't know, duster old count, but
+[0:33:44] Speaker 3: it's worth 1000 so that's three, right?
+[0:33:54] Unknown Speaker(s): Yeah, all right, all right,
+[0:33:57] Speaker 3: maybe we backtrack and see if we can't find some treasures as we here,
+[0:34:05] Unknown Speaker(s): I go back to the tunnels. I kind of do because seems like more when I was up to some issues. Foreman would not have been allowed in those tunnels,
+[0:34:26] Speaker 2: right? So I think the foreman reversed. So you told me to go through the secret tunnel. Let's go and just, let's go through the main doors on the map where we are now. This
+[0:34:37] Ian Lurie: is where you are right now.
+[0:34:38] Speaker 6: Is on the map we were given? Yes, yes.
+[0:34:44] Speaker 5: Are there other off sheets from these rooms on the map we were given?
+[0:34:50] Ian Lurie: Well, there's a whole really large there's a whole giant section.
+[0:34:58] Speaker 5: Forgive Jamie, been in travel since 8am this morning.
+[0:35:04] Speaker 1: So there's a, we have the map that somebody else dropped for us. Yes, we
+[0:35:09] Unknown Speaker(s): have one from the rock dudes, yes,
+[0:35:10] Ian Lurie: yeah. And basically, there's a gigantic cave like room that should be to the right from this room. Yeah,
+[0:35:19] Unknown Speaker(s): I just moved direct to the door. Yeah, mosby's gonna run past direct trying to raise him to treasure.
+[0:35:31] Ian Lurie: Do you open the door? No, I'm gonna stick my foot up.
+[0:35:40] Unknown Speaker(s): Okay, hold on, am I making a deck save? Oh, I made that deck save. I did a cartwheel over your foot. Jesus,
+[0:35:51] Ian Lurie: so you're opening the door? Yes,
+[0:35:53] Unknown Speaker(s): I guess mossy is opening a door. Now, mossy opening the door now.
+[0:35:56] Ian Lurie: All right, let's see here. I don't look too closely. Obviously, you don't see all of this immediately,
+[0:36:25] Speaker 5: but wait, based on the map, do I know which direction we're going right now? Like, do I know this is back into the chamber of doom? Yes,
+[0:36:33] Ian Lurie: this is definitely the chamber of doom. You are absolutely certain.
+[0:36:35] Speaker 5: Hold on. Make the mossy roll. I'm too excited to be track. Oh, I did not make the mossy roll. I'm typically beat track.
+[0:36:48] Unknown Speaker(s): I'm sorry.
+[0:36:56] Ian Lurie: Hey, move your minis accordingly.
+[0:37:00] Speaker 5: I have hero, or I don't have a, oh, yeah,
+[0:37:04] Ian Lurie: yeah, of course. Okay, I got you. So what's your Well, we know that moss is in front.
+[0:37:11] Unknown Speaker(s): Yep, Richter
+[0:37:12] Speaker 5: just got poison. Let's still give a and it's bolting it. Yeah,
+[0:37:17] Ian Lurie: it's on brand, yeah, Drak. Do you want to be next? I'll
+[0:37:22] Speaker 5: see. Next? Roles are not fun for Jamie. Oh, yes,
+[0:37:25] Unknown Speaker(s): I'm absolutely next.
+[0:37:27] Ian Lurie: Okay. And then who's after that? Well, geez,
+[0:37:33] Speaker 1: Ricky's next, yeah. DM, the chamber that goes into the coffin area. Is there a door that can be shut to that coffin
+[0:37:41] Ian Lurie: area. Yes, there are several doors.
+[0:37:45] Unknown Speaker(s): Okay, Craig is going to shut a couple of those doors and then so nothing sneaks up behind us, especially dura, and he will hang back and tell dura to wait here, right there.
+[0:38:04] Ian Lurie: Okay, can I go eat some more of the snacks?
+[0:38:08] Unknown Speaker(s): Yes, yes, you can.
+[0:38:12] Speaker 5: How did Craig and win at the responsible one? This is fucked up.
+[0:38:24] Unknown Speaker(s): I think Craig is the only one that that actually couldn't be That's true.
+[0:38:30] Ian Lurie: So you head down this corridor, it's very short, and it transitions very quickly into this kind of the same kind of rough hewn stone that most of this complex seems to be made of. But in this room, when you step into the into the room itself, you see in the middle of the room there is this large pile of glowing crystals, just like you see here, and in the center of it is a particularly large single chunk or single crystal of some more of the more purplish crystal that the pecs were telling you about. Around it, there's a variety of small mining equipment like wheelbarrows and and pickaxes and things, and you can see that people have been in the process of of piling up these blue crystals here, and also maybe chipping away at the at the pink crystal, it's hard to tell for sure, but that's that's kind of what you see here. But this is by far the biggest deposit of this material that you have seen in this entire complex.
+[0:39:39] Speaker 1: And would we maybe get an idea that the the rock people when they were mining the crystal, they would does it look like they were piling it here? It
+[0:39:51] Ian Lurie: certainly looks like someone was okay, yeah,
+[0:39:58] Speaker 5: you just hear mossy make a laugh. That's akin to their app with me. Licky charms
+[0:40:04] Speaker 1: over the party line. You hear, if you lick it, it means you found it first,
+[0:40:11] Unknown Speaker(s): already on my way.
+[0:40:13] Ian Lurie: Okie dokie,
+[0:40:21] Unknown Speaker(s): I failed that mossy
+[0:40:22] Speaker 5: role hard. Okay, we are committing to the PI right now.
+[0:40:25] Ian Lurie: That's fair. Drack, are you following Mossy? What are you guys all doing?
+[0:40:29] Unknown Speaker(s): You know, I am. I am not calling mossy at this point. I am. You did not fail your mossy role.
+[0:40:39] Speaker 2: I am going to be hugging the wall. Okay, yes.
+[0:40:49] Ian Lurie: Richard's like, I'm going to stay back here, let the National Guard handle it. And cregyn ad Ragon Dragon's
+[0:40:56] Unknown Speaker(s): hanging back in the hallway. Greg's hanging back in the hallway. Okay,
+[0:41:07] Ian Lurie: so mossy you get about to hear and then you hear this humming sound like a really large B or something, or maybe a really large mosquito,
+[0:41:18] Unknown Speaker(s): yeah, and this thing
+[0:41:22] Speaker 4: around it sees me.
+[0:41:35] Ian Lurie: Oh, absolutely, 100% sees you. It's looking right at you. And we can just roll initiative, because really,
+[0:41:46] Unknown Speaker(s): that's my crack and die. We still have alacrity.
+[0:41:50] Speaker 2: You should still have alacrity. Okay. Also, I yell out to mozzie, I think you found the form. I All right, that is a 15 initiative, 1821,
+[0:42:21] Unknown Speaker(s): negative one i
+[0:42:22] Speaker 4: ad rho, go get snacks. What you go, what?
+[0:42:31] Unknown Speaker(s): Hello. All right,
+[0:42:40] Ian Lurie: so here we are, mosci, you go first.
+[0:42:48] Unknown Speaker(s): Okay, reaction, Ah, fuck.
+[0:42:51] Speaker 5: And then I'm going to go ahead and fire Web. I'm going to try and capture this beastie between the rock behind it and the one right next to me. Okay,
+[0:43:03] Speaker 6: so Dex 17. Ah, it's
+[0:43:09] Ian Lurie: gonna be one of those kinds of nights. Nope. Frank has been webbed. Poor guy.
+[0:43:20] Unknown Speaker(s): Oh, I'm poor Frank.
+[0:43:26] Speaker 5: And then for my bonus action, if I used all my movement already, do I have enough movement to duck around and hide in this little nook?
+[0:43:34] Ian Lurie: Yeah, no, you can duck around see like i All
+[0:43:46] Unknown Speaker(s): right, we give you a stealth roll. 27
+[0:43:56] Ian Lurie: okay, you are well hidden. Let me just do aside from the scampering noise of okay, let me add one other thing.
+[0:44:13] Speaker 2: I kindly invite you to take your turn. Signed l Jenkins, I Yeah.
+[0:44:38] Speaker 5: So yeah, y'all are seeing a five foot deep web around this, this,
+[0:44:49] Unknown Speaker(s): um,
+[0:44:51] Ian Lurie: oh, God, no, don't do that. Ian, so there is this kind of um, this small moat of maybe it's like a little orange marble, almost, that goes flying over your way, and when it lands right about here, There is this blinding explosion of fire. Oh, jesus and Richter, you're right at the center. I you know will be great, as if I could actually,
+[0:45:56] Unknown Speaker(s): so it catches
+[0:45:59] Ian Lurie: all of you. You all need to give me deck saves,
+[0:46:04] Unknown Speaker(s): 26, okay, 11, okay. Dirty, 20, okay, whoa
+[0:46:22] Ian Lurie: everyone lower than a 16, you take 45 points of fire damage as a fireball.
+[0:46:30] Unknown Speaker(s): Can I uncanny dodge that? Yes, which
+[0:46:34] Ian Lurie: would mean you would only take half the 20 and then everyone who made the save, you take half of it.
+[0:46:40] Speaker 3: I can't tell. Diem is cranking within 10 feet of me.
+[0:46:47] Ian Lurie: No,
+[0:46:48] Unknown Speaker(s): okay, then you take all that 15 drag. What was the damage? Again?
+[0:46:56] Ian Lurie: It was 45 total. So if you made your save, you take 27 i Seven. Got it.
+[0:47:07] Speaker 1: Y'all hear a whimper over the over the party line.
+[0:47:21] Ian Lurie: You hear a little scream from back behind you, as dura suddenly hears this huge explosion. So standing over here,
+[0:47:29] Speaker 3: wait before, before that I wanted, as a reaction, hellish rebuke.
+[0:47:33] Unknown Speaker(s): Oh, okay. And because
+[0:47:37] Speaker 3: this caught me by surprise, and because I hate being surprised, it's going to be a third level hellish rebuke. So I need that creature to make a DC 17 deck save, please. Pretty good. These saves.
+[0:47:58] Unknown Speaker(s): Can I still revive that?
+[0:48:02] Ian Lurie: Uh, how much does that do?
+[0:48:04] Unknown Speaker(s): It just as a reroll.
+[0:48:09] Ian Lurie: He still saves. Okay,
+[0:48:12] Unknown Speaker(s): so it's gonna be seven fire damage.
+[0:48:17] Ian Lurie: So you, you take this full in the face, and then you turn and do your hellish rebuke. And he this figure that you see now is a Drow elf, just obsidian black skinned, wearing nothing but wearing regular like leather pants, like leather armor pants. He has on as a top, a vest that almost looks like it's made out of spider silk or something. He's got a large scimitar in his belt. He's only wearing leather sandals, no actual no boots, and where that? Where he just cast a spell. His hand is now sort of a smoking orange as he looks at you all, you cast the hellish rebuke at him, and he kind of bats it aside and takes a little bit of damage from it, but appears to be okay. And then he goes, come on
+[0:49:28] Speaker 5: to there. I rolled 16 on my const mean my webs dropped.
+[0:49:39] Ian Lurie: Uh, yes, does mean your web drops. Wait, how
+[0:49:43] Speaker 1: much Thomas did you take? You have Asian, right?
+[0:49:47] Ian Lurie: Oh, no, wait, that you took Yeah, no, no, no, you're fine. You're fine. You only took half. Yep.
+[0:50:01] Unknown Speaker(s): Okay, so up next
+[0:50:07] Ian Lurie: is Richter. So we're into the normal flow of combat. Um,
+[0:50:12] Speaker 3: bonus action, I am going to hit the waspy thingy? Where the hell is it with what's up? It's
+[0:50:28] Unknown Speaker(s): super flammable right now,
+[0:50:32] Speaker 3: unfortunately, all I have is hellish rebuke, and I have to get hit first, and that's no fun. Bonus action, I'm going to cast hex blades curse on the waspy thingy. Nothing that has to do right now and then. As my action, I'm going to hit it with a couple of eldritch blasts. Okay. I
+[0:51:08] Unknown Speaker(s): Your boy isn't rolling very well today, 26 and 12 and an 11, because I
+[0:51:57] Ian Lurie: 12 points of damage. All right? I says Ow. It doesn't actually say that. It can't actually speak. It's a bug, all right, so those slam into it Richter. Do you want to move? You're
+[0:52:19] Unknown Speaker(s): gonna stay there. Yeah, I'm going because I don't want to solve Come On. I while that's all My movement, I'm Done. I We can Get up at The time.
+[0:54:23] Speaker 7: Fantastic. I
+[0:54:47] Unknown Speaker(s): You Both I also Go Team I
+[0:57:29] Speaker 7: very Goodness. And then,
+[0:58:05] Unknown Speaker(s): okay, any way
+[0:58:19] Speaker 7: before a dance or creature that starts turning fire. Okay,
+[0:58:43] Unknown Speaker(s): that is six,
+[0:58:44] Ian Lurie: okay, so the the webs go away.
+[0:59:01] Unknown Speaker(s): On fire,
+[0:59:10] Ian Lurie: the air making these weird little screaming sounds as flaming Web cutting off of
+[1:00:13] Unknown Speaker(s): all right, that's still pretty good. Track your turn. I Okay,
+[1:00:28] Speaker 2: so my life was eight spaces. That's definitely one of eight. I so that's my full movement, and I'm looking for the draw. You looks like I could see him. Yep, he's got
+[1:00:58] Ian Lurie: maybe
+[1:01:02] Speaker 4: I really have any cover,
+[1:01:09] Unknown Speaker(s): okay, well, not restart shooter,
+[1:01:11] Ian Lurie: yeah, well, yeah, there's that too.
+[1:01:16] Unknown Speaker(s): Bonus action hunters mark, okay,
+[1:01:18] Speaker 2: I'm gonna plug them twice, all right, okay, that would be a 27 and a dirty 20.
+[1:01:29] Ian Lurie: Okay, the first one hits him, the second one sort of bounces off some kind of field around him. You're not exactly sure what that was, but there's like a brief flash of light, and the arrow actually bounces off. Oh, wow.
+[1:01:53] Speaker 2: Okay, he is hit for 1015, 25, points of damage. Hey,
+[1:01:58] Ian Lurie: he does not appreciate that. Case you're wondering,
+[1:02:06] Unknown Speaker(s): yeah, that's, that's the only term.
+[1:02:13] Ian Lurie: So up next, oh, it's the bug. Bug says, You know what, I'm really dumb, like, catastrophically dumb, flies over towards Drak, says, I'm not even sure why I'm this big. Like, I'm not supposed to be this big. And sure enough, swoops in on you. Drak getting ready to sting you. Misses badly. Like basically slams its Stinger into the ground near you, and then just takes off again and goes flying around the room, still on fire, we'll just say it goes over this way, saying, Why? Why? Why is this happening to me? Suffering some kind of weird existential crisis.
+[1:03:14] Speaker 1: Megan is going to care actually. He's going to use his uh exit, call his Twilight sanctuary, okay, uh, no, actually, he's not. He's just going to cast greater invisibility.
+[1:03:40] Unknown Speaker(s): Okay? And nope the fuck out.
+[1:03:44] Ian Lurie: Okay. You nope the fuck out. You're gone.
+[1:03:53] Speaker 1: You're gonna move. Let me see if I have something else I
+[1:03:59] Unknown Speaker(s): can do. I uh,
+[1:04:06] Speaker 1: yeah, I'm gonna move back the hallway, down the hallway, okay, about 15 feet is the door still open?
+[1:04:12] Unknown Speaker(s): Yeah? Getting up snacks from the child,
+[1:04:15] Speaker 1: yeah, I'm gonna shut the door. Which door, this door, that door, I'm gonna, I'm gonna say it to dura. Wait here, just, just one minute.
+[1:04:26] Ian Lurie: Well, how fast? How fast can you move? I
+[1:04:29] Unknown Speaker(s): don't know, 30.
+[1:04:30] Ian Lurie: Yeah, that'll only get you to,
+[1:04:33] Unknown Speaker(s): okay, about there. That's fine. Okay, that's that round then.
+[1:04:39] Ian Lurie: But you're closer and you can see her there. Now she's she's like, she's got a cake in her hand, and she's kind of looking down the hall with her eyes really big, yeah,
+[1:04:46] Speaker 1: and I say to her, just back off towards that other door and hide for a little bit. Just gotta take care of everything. In my most calm, non panicking voice,
+[1:04:57] Ian Lurie: she looks scared, but not
+[1:05:02] Unknown Speaker(s): performance. Check, please. Good call. That's good enough. Good
+[1:05:16] Ian Lurie: enough. She doesn't seem all that freaked out. I mean, she's freaked out, but she doesn't seem all that panicked, right now, so probably okay, all Right, let's see the favorite consort
+[1:05:36] Unknown Speaker(s): goes to here. And
+[1:05:48] Ian Lurie: something springs out of his hand. He gets a 26 on a range spell attack. I Okay, you take 36 points of force damage as this beam almost looks like a giant, like a giant fist just comes and just hits you tomorrow, I see that look just just, don't even go there. I didn't say fist. Okay, and you are shoved 10 feet back
+[1:06:29] Unknown Speaker(s): as well. You are not knocked on your Okay,
+[1:06:56] Ian Lurie: okay, and then he moves to there. I
+[1:07:04] Unknown Speaker(s): Richter, your turn.
+[1:07:07] Speaker 3: All right. Party line. Mossy you want the Trower you want the flying bug thing,
+[1:07:17] Unknown Speaker(s): whichever you're not killing it up. The bug. Book thing, isn't that both of them,
+[1:07:30] Speaker 3: I see we all woke up on the goofy side, I'm gonna go ahead Bugsy. Bugsy with three more eldritch blasts, all one of them is a fucking crypt.
+[1:07:59] Unknown Speaker(s): See? So 2627 and then the crit plus, it would be 29 Okay,
+[1:08:12] Ian Lurie: your first shot knocks one of its wings off and it starts spiraling towards the ground. Your next one hits it in the head, and its head kind of whips around. And then just as it hits the ground, you crush its thorax with, uh, with your last shot. And it is dead,
+[1:08:37] Unknown Speaker(s): awesome.
+[1:08:38] Ian Lurie: The last thing you hear, it's something like, oh,
+[1:08:40] Unknown Speaker(s): the last thing you hear is mostly in the party going hot.
+[1:08:47] Speaker 3: Here we go. Then I'm going to,
+[1:08:50] Unknown Speaker(s): god damn it, grab him. Okay, that was my movement, and then bonus action, I'm going to, Oh, damn it. That sucks. Useless.
+[1:09:21] Speaker 3: I'm just going to stay here, guys, I forgot that all of my healing spells a touch
+[1:09:35] Ian Lurie: Mossy. Your turn.
+[1:09:37] Speaker 5: Okay, so our first friend is gone. I am up on the top I have a clear view of our second fan down.
+[1:09:45] Ian Lurie: Oh, let's just see here. Actually, I don't think you do. Oh, God, he would have two thirds cover. So he would have plus five to his AC. I believe I got that right. We'll just say I've got that right for now.
+[1:10:02] Speaker 5: If I move a little bit though, I can see him though, yeah, yeah. So I'm going to scoot up a little bit further, and then I'm going to go ahead and fairy fire. Okay, so that is GC, 17.
+[1:10:27] Ian Lurie: So the fairy fire
+[1:10:30] Unknown Speaker(s): head straight form you can see the Okay, so he avoided my very fire.
+[1:10:59] Ian Lurie: He made it basically, yeah,
+[1:11:02] Unknown Speaker(s): I am going to,
+[1:11:15] Speaker 5: you know, I'm just going to take a nice, fun leap over his head and and taunt him with a fuck as I tuck and roll onto the next Oh, I don't think I can make that far. No, wait, no, I don't think so.
+[1:11:31] Unknown Speaker(s): It would be pretty awesome to see you try.
+[1:11:33] Speaker 5: I mean, how do you how do you figure out your jumping distance?
+[1:11:37] Ian Lurie: It should be things 10 times your strength modifier. I remember right here, hold on, but you may have a special thing as a Oh, you can move up to your strength score.
+[1:12:18] Speaker 5: Okay, so that's only 15 feet. I wouldn't make that then.
+[1:12:27] Unknown Speaker(s): No, definitely not. Yeah,
+[1:12:31] Ian Lurie: I'd be surprised.
+[1:12:34] Speaker 5: Then I'm just gonna go ahead and yell at them, Hey, your boss is dead, but we support unions, and then duck back down.
+[1:12:49] Unknown Speaker(s): That was a 29 stealth So, all right. Drac, your turn. Okay, nature's veil, which turns me invisible until the beginning of my next turn, and then I there, okay,
+[1:13:31] Speaker 2: and then he's still got Hunter's Mark, and I'm going to hit him again.
+[1:13:35] Unknown Speaker(s): All right, twice. All right. That is a 24 and that is a 29 29 okay,
+[1:13:46] Ian Lurie: my shield is not going to help me this time. All right, okay, 1323,
+[1:13:57] Unknown Speaker(s): 25 okay. 616, oops, 20, and at the beginning of my next turn, I turned visible again, okay.
+[1:14:22] Ian Lurie: Cregyn ad R turn.
+[1:14:25] Speaker 1: I'm going to go back and close the door and then run back down the hallway. I've got total of 60 feet, if I use my yep to so where does that get me to?
+[1:14:37] Ian Lurie: I should get you right about there. 510, 1520, 2530 3540 4550 4550 5560 Now, how's that for just eyeballing it? Damn Thank you very much. All those years of 40k
+[1:14:54] Speaker 1: and then all I got, okay,
+[1:14:58] Ian Lurie: so let's see it is now the favorite consort, um, he looks around, he sees what has just happened, and he says, no one's paying me enough for this shit. What'd you say? Yeah. She said, Yeah. And he just, you don't know what he does, but there's this kind of popping sound, and he's just gone. There's this weird little swirling bit of a light, and it's
+[1:15:37] Speaker 5: just mossy, jumps down, walks over To the pile of crystals and licks them.
+[1:15:54] Unknown Speaker(s): What if? Yeah, I got nothing,
+[1:16:07] Ian Lurie: yeah, he pulled a record. He's out here. He just said, No, hell with that. This is, this is not worth my, my immortal lifespan on on praxia,
+[1:16:26] Unknown Speaker(s): did we leave like a pamphlet about our union benefits?
+[1:16:29] Ian Lurie: Yeah, maybe he'll,
+[1:16:30] Speaker 2: maybe he'll switch, and all you have to do is talk to us and not, not be a dick, and because they're like, good questions,
+[1:16:38] Ian Lurie: I'm a drought favorite consort. I am a dick. It's what I do, like literally and figuratively, actually.
+[1:16:48] Unknown Speaker(s): Do we get the feeling that that was Mormon?
+[1:16:53] Ian Lurie: Seems like a good bet. Okay? Well,
+[1:17:05] Unknown Speaker(s): but we can't Snoop through shit.
+[1:17:06] Speaker 2: I mean, that would have been a good question for you to ask if you weren't 120 feet away.
+[1:17:13] Unknown Speaker(s): Hey, bring back some snacks when they
+[1:17:20] Ian Lurie: come in.
+[1:17:22] Speaker 2: I guess let's, let's kind of scour over this area and see if they find anything. We should probably take some of the crystals, because we want to do science to them.
+[1:17:35] Ian Lurie: When shove them in the back your inventory,
+[1:17:37] Speaker 1: when we clarification question, when we put them in the bag, does bags float or not? It's a bag of holding,
+[1:17:45] Ian Lurie: so they do not. It does not float when you put them in the bag of holding.
+[1:17:49] Speaker 1: But if we just held one up and let it go, it would float, yeah. And if we let it go, would it? Would it float up? We can't the
+[1:18:05] Unknown Speaker(s): would it float up, or would it just stay still?
+[1:18:06] Ian Lurie: Unless you attach it to something, it slowly floats upward.
+[1:18:10] Unknown Speaker(s): Okay, thanks for the clarification.
+[1:18:12] Speaker 2: So we get green and do we get any pink? Jim, well, so
+[1:18:19] Ian Lurie: if you crawl over and take a look at the pink crystals, you notice that there's actually chains, massive chains. I mean, like, you know, the chain is this big around, or each link is this big around, holding the pink crystal to the floor. It looks like there's four or five of them that go around a collar that's holding it down to the floor. And guys, why don't you give me one minute? I'll be right back. Okay.
+[1:18:47] Speaker 5: Moss is looking at the chain. Going have an idea. It's a load bearing crystal. A load bearing crystal. Yeah, you okay. You kind of got smacked around by, you know,
+[1:19:01] Unknown Speaker(s): Mr. Spicy pants.
+[1:19:06] Speaker 2: That wasn't fun. The dude packed a punch and
+[1:19:12] Unknown Speaker(s): but, but that's your flavor of fun. What do you mean That wasn't fun? Love that. I mean when both of us are into it, sure, but did you see what he was wearing? That spider silk looked just did you want to loot his body for the vest?
+[1:19:33] Speaker 2: I i Really it would have
+[1:19:38] Unknown Speaker(s): looked great for the nipples, but honestly, honestly, mossy through everything. So it's fine.
+[1:19:50] Speaker 2: It's so hard to give to this conversation. But like, aren't drows, like, super stealthy, steady types, like, I feel like maybe it would have been better on you.
+[1:20:10] Unknown Speaker(s): Yeah, I could have rugged. You could you cut you kind of squishy, yeah.
+[1:20:17] Speaker 2: And I don't think you have special any like, I don't think you or I have any kind of special armor that has qualities.
+[1:20:27] Unknown Speaker(s): I mean, my armor looks fantastic. Looks
+[1:20:30] Speaker 2: like my alarm looks amazing.
+[1:20:35] Speaker 5: But no, no. These two like that one, well, one down the hallway, his armor is built in. And then Richard just looks fabulous in the myth role,
+[1:20:43] Speaker 2: right? You and I are rocking what just like cow leather and shit.
+[1:20:51] Speaker 5: I didn't check what type of animal this was previously, but Yeah,
+[1:20:58] Speaker 3: feels really weird that track would be wearing cow,
+[1:21:04] Unknown Speaker(s): vegan drag horse. Oh, my God. What is vegan? I've never shut the fuck up about it.
+[1:21:19] Speaker 2: Oh, hell no. Y'all know I can go to town some fucking pocket bacon.
+[1:21:23] Speaker 3: Oh yeah, he definitely that's not where. That's not where. I thought that census was
+[1:21:28] Ian Lurie: gonna God,
+[1:21:31] Speaker 2: I can enjoy simple things like regular food and not be weird about it.
+[1:21:36] Unknown Speaker(s): You've also been plenty worried about it. I've been but I beautiful minks.
+[1:21:52] Speaker 2: Oh, I'm complicated enough with gray hair. Well, it's not burned off every every other month. Do you
+[1:22:02] Unknown Speaker(s): want to see if we can find the rest of his
+[1:22:04] Speaker 2: wardrobe? Yes, and, but we got, we got to do, we got to do the mossy science shit first. So, but, like very curious,
+[1:22:22] Speaker 5: so, mozzie. Mozzie has a theory here. This is a load bearing crystal with the big chains on it. Okay,
+[1:22:28] Ian Lurie: and how would you like to test that theory?
+[1:22:38] Unknown Speaker(s): We could test it once, for sure. Higher islands goes. How many machines are there?
+[1:22:51] Ian Lurie: There are five.
+[1:22:55] Unknown Speaker(s): We're gonna cut one for science this. We're gonna cut it. That would
+[1:23:02] Ian Lurie: that was gonna be my next question.
+[1:23:06] Unknown Speaker(s): Okay, okay, so
+[1:23:10] Speaker 6: I've got, I've got small sticks, thinkers, alchemists, carpenters and thieves tools.
+[1:23:27] Unknown Speaker(s): Give me
+[1:23:33] Ian Lurie: an alchemy check, which would basically be Intelligence plus proficiency.
+[1:23:41] Speaker 6: Fuck fine. It's fine. That is not good. It's a nine. Yeah.
+[1:23:57] Ian Lurie: These are made of extremely hard metal, hard and flexible. So it's not like, it's not the hardest possible, but this was clearly built for, like, high tensile strength, maybe some kind of steel or something like that. And you're not
+[1:24:19] Unknown Speaker(s): would this be like animus level crafting? Who, Oh,
+[1:24:33] Ian Lurie: give me a perception check.
+[1:24:38] Unknown Speaker(s): Are there like tiny initials in there? Yes,
+[1:24:42] Ian Lurie: 22 i Okay, you think Animus is probably capable of more subtle work than this. The level of craftsmanship is quite high. I mean, it's, it's very well done. But, you know, Animus is all about making little, you know, making, almost, machinery, right? Construct
+[1:25:03] Speaker 2: got it so. Less artisan, more chemical engineer, yeah, or metallurgist, yeah.
+[1:25:11] Ian Lurie: And Mossy, as you examine the chains and drag you to the chains come down to these massive footings that are set in the stone that then have five immense bolts or spikes or something driven right through them into the stone itself. So, okay,
+[1:25:29] Unknown Speaker(s): you called Richter. Hey, Richter, do
+[1:25:36] Speaker 5: you think you could take bastion and just decapitate the top of this bolt right here. I
+[1:25:45] Unknown Speaker(s): gotta roll DM, so maybe everybody else grab onto something.
+[1:25:49] Ian Lurie: So you're, you're, you're hitting, what the
+[1:25:53] Speaker 5: the chain the top of the bolt, not the chain the top of the bolt, the flat head, holding it up.
+[1:25:58] Unknown Speaker(s): Okay,
+[1:26:00] Ian Lurie: okay, so the big footing that's like in there, because there's five bolts holding it down, and then there's that footing. So you're gonna hit the top of the footing. So just give me an attack roll. We're
+[1:26:12] Speaker 5: just trying to remove one chain, three, one and two. Happens.
+[1:26:20] Unknown Speaker(s): 16.
+[1:26:21] Ian Lurie: Okay, well, it can't really move, so the the armor class is not great, so you certainly hit it.
+[1:26:37] Unknown Speaker(s): And let's see.
+[1:26:41] Ian Lurie: Okay, your hammer hits
+[1:26:43] Unknown Speaker(s): it, these sparks
+[1:26:47] Ian Lurie: come flying up, and the hammer goes ping and like bounces back at you, as if you hit something super hard, and you think there might be a little scratch in the middle. Okay,
+[1:27:00] Speaker 2: we're probably not equipped with this. Are there any rags of the pink crystal that have been already mined?
+[1:27:15] Ian Lurie: You already have some, okay, if you remember, you got from some of the packs. Okay. I thought, Wait, I
+[1:27:23] Unknown Speaker(s): thought we got the green, green and blue. You got blue. We didn't pink. Oh, you're right. I'm sorry. Um, yeah, yeah,
+[1:27:33] Ian Lurie: um, so there is no pink crystal just lying around. Okay,
+[1:27:40] Speaker 5: can I take out of my daggers and try and fleck off a piece of the crystal?
+[1:27:45] Unknown Speaker(s): Sure? Okay,
+[1:27:48] Ian Lurie: give me a
+[1:27:50] Unknown Speaker(s): This one says Chelsea on it, because I got all the daggers at the gift shop. What kind of role? Just an attack. Role, attack with dagger. Let me see what a regular dagger is.
+[1:28:15] Ian Lurie: Actually that's I'm making that way too hard. Just, just give me an artifice or an artificer check. So Dex plus, sorry, Intelligence plus proficiency.
+[1:28:28] Speaker 7: Yeah. Okay, so
+[1:28:34] Ian Lurie: you find a little place where there might be a little crack, and you kind of chip a little tiny bit off, and it's, you know, it's small, maybe an inch by an inch, and maybe half an inch thick. And as soon as you chip it off, it goes shooting up towards the ceiling.
+[1:28:54] Unknown Speaker(s): For science, oh,
+[1:28:56] Speaker 2: we gotta put a net over it, like a like a piece of I put my my cloak over it like a hole, over like a trap.
+[1:29:06] Unknown Speaker(s): You hear it behind you. I got this. I'll go up and get it. Good. Can I borrow the bag of holding? Yep, nice to see you. Did you bring snacks? I'm still invisible.
+[1:29:24] Speaker 5: You just took my bag of holdings so you're here. Did you bring snacks?
+[1:29:34] Unknown Speaker(s): I'm still invisible.
+[1:29:42] Ian Lurie: You you get up to the crystal, no problem,
+[1:29:46] Unknown Speaker(s): grab it.
+[1:29:49] Ian Lurie: It does seem to generate even more lift the bag.
+[1:29:56] Unknown Speaker(s): Once in the bag, it's good. Yep, take the bag back down, positive the bag and MOS chip away pieces to this till the Yeah, but we should probably ask the town's people what they want to do and give them the decision on whether they want to come back to the world or floating up here. I mean, can we bring up the concept of inbreeding also, also like if they do want to go down, it should be a controls. Really need to watch what you say. That's why we chip it off in pieces. How long is that going to take? And do we have that time? But is this the only but is this the only anchor
+[1:31:02] Ian Lurie: you give me a give me a nature check track, all right, with advantage,
+[1:31:07] Unknown Speaker(s): okay, oh, shit, that is a 22 okay,
+[1:31:16] Ian Lurie: you are pretty sure that you are in the precise center of the island right now.
+[1:31:20] Unknown Speaker(s): Okay, okay, yeah, okay, I convey that information. We're definitely the precise setup of the islands. So if we break this, I banging on it. We have, we have a sample that we can test and and once we get, maybe once we get back to the ship or back to the town, we can actually, like, more experiments on it, like, like, how much weight can float, and if we see this, this one tiny chip of crystal can hold a 50 pound weight, then I guess we just did some science. Um, shaking your head at me again, mozzie, why? Because half the time you pronounce science wrong. And I'm so Skeptical Science, Science, Science, Science.
+[1:32:50] Ian Lurie: Richter, I believe it would be you give me a wisdom check.
+[1:32:56] Unknown Speaker(s): Wisdom. Did you say, sir,
+[1:32:58] Ian Lurie: I believe you're the wisest. Oh, I am
+[1:33:07] Unknown Speaker(s): low bar. Oh, speaking of low bars, I got a five. Okay, yeah, you got no
+[1:33:15] Ian Lurie: no. For a moment, there's a thought there, but then it's gone.
+[1:33:22] Unknown Speaker(s): I'm the get some new dice. And it's my it's my hotel room soap tray. That's this jinxing me right now.
+[1:33:35] Ian Lurie: I like it as a dice tray. I gotta keep that in mind, right? Oh, we get crafty. Okay, actually, my God, drag the highest wisdom of everybody by a long shot. So why don't you give me a
+[1:33:53] Unknown Speaker(s): wisdom check? Is that a check or just a check? 18? Okay,
+[1:34:01] Ian Lurie: you think if you had someone who knew more about this stuff, maybe they could help, and you might have, you're just, you can't quite get your head around it, but you think there might be some people who know a lot about this stone, yeah,
+[1:34:19] Unknown Speaker(s): and we may have just shot them,
+[1:34:22] Ian Lurie: people who work with this stone a lot, a little rock buddies.
+[1:34:25] Unknown Speaker(s): Oh, those guys. Yeah, they probably know a lot more. Yeah, no, let's talk to them. But we should also explore. No, not explore. Let's go talk to little dudes. I mean, when you talk little dudes, you often end up exploring. That's true. So let's talk to little dudes and make sure that we've kind of cleared out everything that's do we want to take care of the animals, like the beasts in the other in the other hole.
+[1:35:09] Ian Lurie: You guys are killing me now. You've done it to me. Okay, I'm the DM. I'm supposed to be unflappable, and I am flapping, completely flapped, completely flapped.
+[1:35:19] Unknown Speaker(s): I wanted to take care of the beast with the other hole. We didn't do that that was tracked. Pavel, come on. We got a nasty action to them. Is that the elf of many holes?
+[1:35:41] Ian Lurie: Okay. Moving on. Do you guys decide to explore the rest of this place?
+[1:35:48] Unknown Speaker(s): Okay, like drag, we would like to express more of this whole Okay, got it? You? find anything
+[1:36:06] Ian Lurie: terribly dangerous. You do.

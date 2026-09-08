@@ -1,0 +1,1274 @@
+# Ian's Meeting Notes
+# Otter recording 2025/04/14 17:06:36 (2h 53m) id Up3G_GpJAC1i1PB4j6uMwRyx_4M
+# https://otter.ai/u/Up3G_GpJAC1i1PB4j6uMwRyx_4M
+# Speaker-attributed transcript, verbatim. Raw source for the card at /items/otter/2025-04/2025-04-14-rbg.md
+
+[0:00:59] JP: Hey, there. Hey, How's it going?
+[0:01:03] Ian Lurie: Good. How's it going. I mean, that
+[0:01:08] JP: was more dramatic than I actually meant it to be. I spent the day. I spent the day training our new AI system towards all of our internal none of the no external content. And we just did a test run of our new what we're calling it an intelligent front door for our customer portal. And it does not completely suck, awesome,
+[0:01:44] Ian Lurie: yeah, completely in the world of AI, not completely sucking is a, I mean, that's a pretty huge win. Yeah? Like,
+[0:01:53] JP: over here, we asked it, who's the CEO of Red Hat, and it got the answer wrong. Today, I asked, it, and it got the answer, right,
+[0:02:02] Ian Lurie: what, what? LLM, did you create your own language?
+[0:02:08] JP: Yes, we are using kind of a home brew, kind of an offshoot of Watson, yeah. Okay, and we are, we're using a, I think it's a llama. It's, it's one of the better summarizers, yep. And so we don't actually, we're not actually doing generative, actually, we know we're doing a combination. We're doing generative and summarized,
+[0:02:49] Unknown Speaker(s): Okay, interesting,
+[0:02:51] JP: basically, basically the generative is for very specific tasks, like, like, what are the things I need to prepare for Red Hat, enterprise, Linux, 10,
+[0:03:07] Unknown Speaker(s): right? I guess I
+[0:03:11] Ian Lurie: didn't even fully understand there's a big difference between summarize or summarize and generative. Yeah, I thought summarize was a was a type of an application of generative, but
+[0:03:26] JP: it is, but we're enhancing it, because a lot of our because we're we're launching our new AI as a with the primary point of case, deflection. Okay, the summarizers. It takes the information from like, multiple K based articles and then kind of puts them into one, okay,
+[0:03:55] Ian Lurie: which is a little different, yeah,
+[0:03:57] JP: all
+[0:03:58] Unknown Speaker(s): right, and
+[0:03:59] JP: I'm starting to build an analytics product, an analytics project where like, like, my assumption is that there's kind of going to be a normal Bell distribution of conversational inputs. So like and so it's like, how do I download rel like the response be like, real nine, real 10. And so each conversational prompt is going to be a step into the customer completing a particular action, okay? And then so we're looking at what is the optimal conversation length, and we don't know if it's five five conversations or six inputs, so we're doing that. And nobody in the SEO industry that I've talked to yet has has done this before. I'm sure, like it's been done with the university level,
+[0:05:12] Ian Lurie: but definitely not in the SEO industry. Yeah, you're going pretty far beyond what most SEOs I you know. Sure, maybe you know Brittany and Brittany Miller and people like that, but, yeah, that's not standard SEO shit. Yeah. Hey everybody, hello. We're just nerding out here. I know we shouldn't be doing you now.
+[0:05:41] Unknown Speaker(s): JP, what amazing thing did you do now?
+[0:05:49] JP: I got to test our Red Hat, AI that we have trained off of only internal content, nothing external, and it doesn't suck. And so we're building hypotheses as to, how do we measure success? It's
+[0:06:09] Ian Lurie: a mere it's a mere coincidence that every single traffic light in Raleigh, North Carolina, turned green for about 10 minutes earlier today.
+[0:06:20] JP: Is that true? No,
+[0:06:21] Ian Lurie: that
+[0:06:22] Sango: was that earthquake in Southern California. That was the call with
+[0:06:25] Unknown Speaker(s): someone when that happened.
+[0:06:28] Ian Lurie: Earthquakes do not happen in San Diego very often, like
+[0:06:32] Speaker 1: watching their face, because I can't hear that, like all the noises muffled, but they're like, I It's
+[0:06:43] JP: good to see y'all. Oh,
+[0:06:47] Unknown Speaker(s): you too, yes, it is good.
+[0:06:51] Ian Lurie: One brief moment of sanity in an otherwise insane world,
+[0:06:56] Sango: and we're about to burn shit down. You're
+[0:06:57] Ian Lurie: about to burn it, apparently, a bunch of shit down. Yeah. I think everyone remembers where we were at, basically. Ian drag had been creeping around on the roof of these two buildings, Mossy. I don't remember where you are. I'm right
+[0:07:13] Speaker 1: above the cauldron area, like I'm a little bit closer towards Drak, but I can see through a crack, and I'm looking directly down at that.
+[0:07:21] Unknown Speaker(s): So you're like,
+[0:07:26] Ian Lurie: actually here before I do that, everybody roll initiative for me. Everyone who's there, so actually, Cregan is not there, right? And Richter is not there. 2217,
+[0:07:48] Ger'u'do (Grogu): I 17. Maddie, 2425
+[0:07:55] Unknown Speaker(s): Fuck yeah. Griddles
+[0:07:56] Ger'u'do (Grogu): got great initiatives. Nice bugs. Man,
+[0:08:04] Unknown Speaker(s): natural, 20, oops, no not Creek. There we go.
+[0:08:14] Ian Lurie: Natural. 20 so Mossy. What does that give you? Gives me 25
+[0:08:20] Unknown Speaker(s): No, sorry, 23
+[0:08:24] Ian Lurie: of course, I rolled like shit for all of my guys getting off to a grand start this evening. All right,
+[0:08:36] Speaker 1: I had said that I was holding a fireball. Do I still get that ambush, even though Drak got caught?
+[0:08:43] Ian Lurie: I'll say yes, because they don't really expect this, and they hear it crashing in the other room, and right about the same time you do whatever it is you're going to do. So let me get you up on the roof. Here. There you are. You're up on the roof. And what are you going to fireball?
+[0:09:07] Unknown Speaker(s): I'm going to fireball directly into the purple stuff. Do the cauldron.
+[0:09:13] Ian Lurie: So let's see. I think you have to make an attack roll first. So
+[0:09:18] Unknown Speaker(s): do that. I'm
+[0:09:19] Ian Lurie: gonna give you disadvantage because you're firing through this weird little crack in the roof, but it's a stationary object, so it's not going to require a hugely great role.
+[0:09:32] Unknown Speaker(s): Okay, okay, all right, I'm working with you tonight.
+[0:09:41] Speaker 1: Okay, disadvantage is 17. Okay,
+[0:09:44] Ian Lurie: that hits, so you watch as this
+[0:09:49] Unknown Speaker(s): little bolt, sorry, cat, oh,
+[0:09:51] Ian Lurie: this little bolt of fire.
+[0:09:55] Unknown Speaker(s): Oh, it's 3d 10 damage. It's not little well,
+[0:09:57] Ian Lurie: yeah, but this giant bolt of fire, you'll see why that doesn't really matter in a minute, streaks down into this cauldron, and it goes and it fizzles, and at first you're like, wow, that didn't really do anything. And then there's this kind of rumbling sound and this huge detonation as this entire area.
+[0:10:25] Speaker 2: Oh, no, am I too good at arson? Shit is
+[0:10:29] Ian Lurie: immediately engulfed in this giant explosion and Gerudo you're outside and the shock wave actually hits you. The roof of the building mostly comes off. So shit, yeah, so Mossy. You got to give me a Dex roll. Ian, Dex
+[0:10:49] Speaker 3: save
+[0:10:53] Unknown Speaker(s): or
+[0:10:54] Ian Lurie: Dex save Sure. Okay,
+[0:10:58] Unknown Speaker(s): 17, okay,
+[0:11:00] Ian Lurie: so you do not take damage, and you can choose where you fall, but you're going to land somewhere in
+[0:11:12] Unknown Speaker(s): this large exploded area. I'm inside the building now, well,
+[0:11:20] Ian Lurie: you are now, because you sort of brought the inside to the outside. So basically there's this huge detonation. The roof jumps up underneath you like it leaps two feet in the air, it feels like, and when it comes down the roof under your feet is gone, and you just land right in the middle of the building.
+[0:11:40] Unknown Speaker(s): Okay, can I float like in the doorway? Which doorway
+[0:11:49] Speaker 1: between the room that I blew up and the room that Drak was in.
+[0:11:53] Ian Lurie: So, like, right here, yeah, okay, I'll say, God, it's funny. I was just reading on the tail spire forms. A bunch of people complaining about camera movement and miniature movement in this thing. I give me an acrobatics check. 26 okay, you bound across like you basically do one of these cartoon things where you jump across little bits of burning roof as it's collapsing underneath you, and you hop from one to the next right before they collapse and you successfully land.
+[0:12:36] Unknown Speaker(s): My free action is geo arson, as I'm following
+[0:12:38] Ian Lurie: arson. Let's see. So we've got all these people taking enormous amounts of damage. Ian,
+[0:12:52] Unknown Speaker(s): hey, drag, they're not focused on you anymore. Love you back at you, boo. Okay, so I
+[0:13:11] Ian Lurie: immediately dead.
+[0:13:17] Speaker 3: Just going to lock this so it stops doing that. Immediately dead, where we're at I'm goes
+[0:13:32] Ian Lurie: and sort of doesn't quite fall at your feet, become staggering out of the fire like smoking and smoldering and smells like, you know, burnt rat fur. And it's just, it's, it's not a good it's not a good look for anybody. Okay? So I guess from there, really, this is when the combat starts. So that was kind of the surprise round Drak. You've landed over here, and they are duly surprised, but you are now just sort of state. You did jump down, right? Yes, yeah. Okay. I just want to make sure. So you jump down here, you do notice, by the way, that there are, there's at least one civilian in here, just a person, and you know, they're not, they're, well, you don't know much yet, he's just kind of standing there. Doesn't look particularly well armed, you know, as you very quickly take in the room, and then just as you're starting to sort of really absorb everything, there's this, and you need to give me a Dex check to stay on your feet. And Gerudo, you need to do the same thing. Sango, where are you?
+[0:14:46] Sango: Sango, still in spider form, on Mossy shoulder,
+[0:14:50] JP: 17, decks, 17.
+[0:14:52] Ian Lurie: All right, so you stay up. No problem, 15. Okay, you also stay up. No problem. You are, though Gerudo in particular. Here you are showered in bits of, you know, furniture and roofing and some kind of chemical that is almost like raining from the sky. Now, in fact, let's see. Now we'll that'll be next round. Let's see here. I you know, I guess, yeah, everybody needs to give me, everybody to roll it. Well, no, wait a minute, you don't do that. Sorry, guys, my brain's not okay. Brains not totally in gear. So Gerudo, Mossy, Sango and Drak, you all take six points of bludgeoning damage from the explosion. That's just concussion. It's not, you know, it's not from bits or anything, and Sango, unless your spider form has more than six eight points, I'm pretty sure that you pop up in Sango form now,
+[0:16:09] Unknown Speaker(s): yep, I think that's right.
+[0:16:12] Ian Lurie: So doubly surprising for everybody. Suddenly there's a monk standing there. Wow, everything just sort of ended up, right? This little teeny Wow, this ghoul is really having a bad day. All right, so Gerudo, what do you do?
+[0:16:32] Ger'u'do (Grogu): Is that him standing outside? That's you, okay? Is that an enemy near the door?
+[0:16:45] Ian Lurie: That is a where rat. So yes, the wear
+[0:16:47] Ger'u'do (Grogu): red, um, then I'm going to walk towards that where rat, he's got 55 feet of movement, yeah,
+[0:16:55] Ian Lurie: yeah. You can literally run circle if you want to.
+[0:17:00] Ger'u'do (Grogu): Awesome. And I'm going to do my first monk attack, yay. Don't monkey if it's any
+[0:17:15] JP: less than 12, I'm going to be disappointed.
+[0:17:19] Ger'u'do (Grogu): Oh, Bubba, no, that's a 22 to hit. Okay, I'm gonna guess that hits. No,
+[0:17:28] Ian Lurie: that that, oh yeah, sorry, I didn't even Yeah. Also, actually you have advantage, because you're flanking with drag. So if you want to roll again, just you got to create.
+[0:17:38] Ger'u'do (Grogu): Why? Yes, indeed, really do I do? Nah, that was a 21 with so 22 is the best, all right. And because I hit, I'm going to use the hell is it. I'm going to spend one key point and make one of these attacks, the flurry of blows, pop
+[0:17:59] Unknown Speaker(s): pop. Yeah,
+[0:18:01] Ian Lurie: exactly. Pop, pop, pop. I think it's like pop up, pop, pop, pop, pop, pop, but,
+[0:18:06] Ger'u'do (Grogu): and I have to roll for attack on the Fourier blows, right? Yeah. Okay, cool. And there's going to be Oh Nettie on one and a 16 on the other.
+[0:18:23] Unknown Speaker(s): Okay, they both hit. Okay,
+[0:18:26] Ger'u'do (Grogu): cool. So that's three hits, all right, so it's going to be 29 points of damage, okay,
+[0:18:48] Ian Lurie: that got its attention,
+[0:18:56] Ger'u'do (Grogu): and that is it all
+[0:19:01] Ian Lurie: right, it lets out this snarling hiss, but really can't do much else. And Sango, now it's your turn. You are standing right there.
+[0:19:11] Sango: Hey, bro, who I know I totally butchered that. You think
+[0:19:20] JP: Sango or me?
+[0:19:25] Sango: What level are you?
+[0:19:28] Ger'u'do (Grogu): 15? You might
+[0:19:30] Sango: have two attacks
+[0:19:31] Unknown Speaker(s): anyway, but anyway,
+[0:19:34] Sango: you might have two attacks naturally without having Yeah,
+[0:19:39] Ger'u'do (Grogu): I did, but I'm just trying out the monk shit.
+[0:19:42] Sango: So then basically, if you get two attacks, plus you do flurry of blows, you get like two more attacks. So you're short changing yourself a couple attacks there. Really,
+[0:19:53] Ger'u'do (Grogu): I thought it was it, because it's
+[0:19:58] Ian Lurie: you may, isn't it? Isn't it? It's
+[0:19:59] Ger'u'do (Grogu): per action, right? So if I use the attack, then I can use furry of Bose, but it's only one time, so I'd only get three attacks, right? Well,
+[0:20:05] Ian Lurie: except that at your at your level, you get two unarmed strikes for flurry. So I would have one more, yeah? So you get an you, but you also get two straight up attacks, right? Yeah, you attack once, hit again, hit. Spend the key point, do two more attacks for flurry of blows. Yep.
+[0:20:25] Ger'u'do (Grogu): Okay, see this shows I've never
+[0:20:30] Ian Lurie: before. This is the pop pop pop pop pop pop pop part already down 30. You can roll those if you want. Oh
+[0:20:44] Ger'u'do (Grogu): yes, yeah, I think I got one more one more 16 to hit. I think that
+[0:20:53] Unknown Speaker(s): hits, that hits,
+[0:20:57] Ger'u'do (Grogu): and that is another 12 points of damage.
+[0:21:01] Unknown Speaker(s): Okay,
+[0:21:04] Ian Lurie: not like that. No. All right, Sango, now it's your turn.
+[0:21:11] Sango: Rikter is not here, right, correct, nope.
+[0:21:14] Unknown Speaker(s): Okay. Ian,
+[0:21:42] Sango: uh. It's uh, is it dim light in here? Yes,
+[0:21:45] Unknown Speaker(s): okay,
+[0:21:46] Sango: then I will shadow step to the other side of those where rats to the right
+[0:21:59] Ian Lurie: over to here, yep,
+[0:22:01] Unknown Speaker(s): okay, that's
+[0:22:02] Ian Lurie: right on the edge of the fire. But you're good as a fire. Okay, that's, that's, yeah, this would be the huge burning area that you're not sure, but this little mode of fire came from above and blew it up. You can guess who did it, but you don't want to make assumptions.
+[0:22:15] Sango: Oh, no. I was on her shoulder. I thought,
+[0:22:18] Ian Lurie: Oh, what am I saying? Yes, you know exactly what happened, yeah, um, yeah. And right now this whole area is on fire,
+[0:22:23] Sango: yep. Uh, all right, so I'm gonna hit the coastal and try to that's a 19 plus some stuff. So,
+[0:22:31] Ian Lurie: oh, you're hitting the rat. That's the rat that was lit on fire. Got it. So it's staggering around trying to sort of bat out. You know? It's doing that great thing that they always do, running around and fanning the flames. Okay? Oak,
+[0:22:54] Unknown Speaker(s): I forgot where my dice are.
+[0:22:56] Sango: That's 12 damage, okay, hit it again. Well, it's a natural 20. Oh boy
+[0:23:09] Unknown Speaker(s): or for 16 damage.
+[0:23:16] Ian Lurie: You notice now that there's some blood coming from his ears too.
+[0:23:25] Sango: Yep, and that's all I got. Okay,
+[0:23:27] Ian Lurie: he's still up, but only just kind of wobbling, looking a little wobbly.
+[0:23:35] Unknown Speaker(s): Track your turn.
+[0:23:38] JP: All right. This is, this is going to be fun, I think. So. I pull up the pull, pull up the heavy crossbow and just FYI. I don't know if I mentioned this, but I swapped out shop sharpshooter because it's useless now for he for crossbow expert.
+[0:23:57] Ian Lurie: So that means you can fire in Melee, right? And
+[0:24:00] JP: two per round without ignore the reloading with
+[0:24:04] Ian Lurie: a heavy crossbow, almost. Yes.
+[0:24:05] JP: Okay,
+[0:24:06] Unknown Speaker(s): so
+[0:24:07] JP: for the first for the where rat and with weapon mastery, it's an automatic push back for 10 feet.
+[0:24:16] Unknown Speaker(s): Okay, so
+[0:24:17] JP: where rat? The one that Sango just hit, that is gonna be,
+[0:24:27] Ian Lurie: oh, that's rude. You should try
+[0:24:28] Sango: to hit the one in front of him, to push that one into the other one and pull them back. Well, the
+[0:24:33] Ian Lurie: one in front of him is actually Mossy, so I don't think you want to
+[0:24:36] Unknown Speaker(s): do don't pin me to that, please.
+[0:24:37] Sango: Nope, nope. Sorry, that's
+[0:24:38] Ian Lurie: That's racist, by the way. I mean, she has fur, he has fur, but they're nothing.
+[0:24:46] Speaker 1: We won't talk about this later. Drag, damn races, elves, okay,
+[0:24:51] Unknown Speaker(s): I'm about
+[0:24:52] JP: to give you kabob here. Okay, that would be real quick bonus action hunters, Mark hit. It's a dirty 20 to hit, okay, that would be a 14. I 1418, points of damage. Okay,
+[0:25:12] Ian Lurie: let's have this little squeaking sound. And
+[0:25:16] JP: it gets pushed 10 feet back into the yeah, like I said,
+[0:25:18] Ian Lurie: rude, um, goes staggering into the fire and is dead,
+[0:25:23] JP: all right. And now second attack, I do that spinny crossbow reload thing, and I'm gonna hit the ghoul the same crossbow. Oh, okay, gotta angle it so that he's pushed into the fire as well.
+[0:25:39] Ian Lurie: Um, no, if you angle it, he'll be pushed into Sango. See that you'd have to move, yep, I see it. Even then it would be tough, because you'd have to, you'd have to somehow thread in between the between the two, yeah,
+[0:25:56] Speaker 1: crossbow him between us and shove him into the fire. Do it?
+[0:26:00] Unknown Speaker(s): Yeah, yeah, I'm gonna do that.
+[0:26:05] JP: Okay, that's a 27 hit. Yeah,
+[0:26:07] Ian Lurie: he definitely hit
+[0:26:13] JP: 13 points of damage, all right? And he gets pushed back,
+[0:26:21] Ian Lurie: okay, but if you push him from here, he just, he just goes straight back into Sango. That's
+[0:26:25] Unknown Speaker(s): fine, okay,
+[0:26:28] Ian Lurie: Sango ghoul lands at your feet. I'm just gonna, we're gonna assume that it's, you know, the ghoul doesn't knock you over or anything. It just kind of comes skidding across the floor and lands at your feet. All right, Mossy, there's a ghoul that just came skidding to a stop at your feet.
+[0:26:50] Unknown Speaker(s): He's right there, huh? Gage
+[0:26:52] Sango: took me so that's sneaky back. Yep,
+[0:26:55] Unknown Speaker(s): I'm just gonna dagger. Okay, it's
+[0:27:10] Speaker 1: stabbing one. Okay, so it's a 17 to hit. Yeah, that hits.
+[0:27:14] Speaker 3: Okay, sorry. I
+[0:27:23] Speaker 1: have to check how many do you form up to for sneak attack? I think it's four. I
+[0:27:34] JP: Yes.
+[0:27:44] Unknown Speaker(s): 18 points of damage, wow, all right,
+[0:27:51] Ian Lurie: you actually take a big chunk out of its side, and you can see its ribs on both sides now, okay,
+[0:28:01] Unknown Speaker(s): and you know it is right there. I'm just gonna dagger in again. Act. That is a 2230, 20, oh, yeah, yep. And that's five more points, okay.
+[0:28:28] Ian Lurie: It kind of skitters back onto its feet and turns towards you. Let's have this hissing sound. And actually it's it's finally their turns. So let's see rat folk says you just shot my friend literally into the flames like you did, not even figuratively, you so rude. Uh, but I'm guessing a 15 to hit does not hit you. Drag.
+[0:28:58] JP: It does not Yeah,
+[0:29:00] Ian Lurie: thought I'd ask just in case. You know, oh, but he gets more than one attack. Progressive, yeah, one probably doesn't hit either. Okay, so that was pointless, aggressive.
+[0:29:15] Speaker 1: He tried to try to draw his dagger, and just a bunch of handskin sloughed off. Yeah,
+[0:29:18] Ian Lurie: yeah, basically, okay, so now the ghouls, this one takes this huge leap. No, really, no, takes a huge leap and lands right there,
+[0:29:42] Unknown Speaker(s): takes its
+[0:29:45] Ian Lurie: couple of bites. Ooh, 22
+[0:29:50] JP: that hits, all right,
+[0:29:51] Ian Lurie: you take 10 points plus three necrotic has it clause, you and you need to, I'm sorry No, just 10 points, no necrotic, but you Need to give me a DC 10 con. Save Ian,
+[0:30:33] Unknown Speaker(s): you there. JP, oh, yeah, sorry, 1515, okay, you're good.
+[0:30:38] Ian Lurie: And then this school, well, okay, apparently has taken a real liking to Sango, but turns and attacks. Mossy, excellent, getting a 24 to hit and a 17 to hit.
+[0:30:58] Speaker 1: So the 24 is gonna hit, okay, I'm gonna cast shield on the 17, because I am at 17. Okay,
+[0:31:06] Ian Lurie: so 10 points of slashing, and give me a DC, 10 con save.
+[0:31:18] Unknown Speaker(s): Ooh, made it okay. 17, all right.
+[0:31:24] Ian Lurie: Now, before the next turn starts, you have all been showered by this, whatever it was. Oh, sorry. One other thing, this guy lets out this kind of shriek of horror, and,
+[0:31:42] Unknown Speaker(s): yeah, I respect that. Just
+[0:31:43] Ian Lurie: teleports, apparently. No, he does not teleport, but he does run in here. We're just going to pretend that he's still there. In fact, just use her. Goes running through this door and just keeps going. So you've all been showered in this chemical. It's this kind of vaguely sticky pink stuff. Have any of you ever taken elf cap, the drug? I can't remember. I think
+[0:32:19] Unknown Speaker(s): Mossy. Did at one point.
+[0:32:21] Ian Lurie: It Mossy, it it's familiar, this taste, the smell, and you all need to give me DC 15 wisdom checks. Oh, fuck,
+[0:32:33] Sango: wisdom check or wisdom save,
+[0:32:36] Ian Lurie: sorry, wisdom saves. Wisdom saves. 41 all right, I
+[0:32:41] Unknown Speaker(s): actually passed a wisdom check for once.
+[0:32:45] JP: Drag rolls in natural 20 plus 11. Okay?
+[0:32:50] Unknown Speaker(s): 24% go, okay,
+[0:32:54] Ger'u'do (Grogu): dirty, 24 gerdo, nice,
+[0:32:56] Ian Lurie: all right,
+[0:32:59] Unknown Speaker(s): we've smoked that shit from the geru fell, that's
+[0:33:01] Ian Lurie: right. She just like,
+[0:33:09] Unknown Speaker(s): okay,
+[0:33:12] Ian Lurie: you'll see things happen in a minute. But all right, gerdo Your turn.
+[0:33:19] Ger'u'do (Grogu): Let's keep punching away at the ware beast in front of us. All right, let's see a 24 and a 16, those both
+[0:33:31] Unknown Speaker(s): hit all right.
+[0:33:38] Ger'u'do (Grogu): About 23 points of damage. Okay,
+[0:33:41] Ian Lurie: he goes down.
+[0:33:49] Unknown Speaker(s): Goodbye, Christy wrap, that
+[0:33:51] Ian Lurie: is a dead No, this rat wasn't crispy. Yeah. All right, anything else you've got, like, you know, a bazillion feet of movement left
+[0:34:05] Ger'u'do (Grogu): or no, I'm gonna wait until I can actually attack,
+[0:34:10] Unknown Speaker(s): okay, Sango,
+[0:34:22] Sango: if Sango, if Sango, could Thorn whip the ghoul in front of him? Could he pull him back 10 feet into the fire.
+[0:34:29] Ian Lurie: No, the physics doesn't work, because you'd be pulling them to you, but
+[0:34:34] Unknown Speaker(s): it's magic. Yes, sorry,
+[0:34:36] Ian Lurie: there's magic. And then there's there's magic. Fine.
+[0:34:49] Sango: Okay, well, then I'm just going to pop, pop this guy. Okay, let's see I'm going to, I'm going to, actually, I'm going to shadow step actually, to the other side of drag. If I do that, can I reach that ghoul in front of him?
+[0:35:11] Ian Lurie: So shadow step two, yeah, there, yeah, um, he would not be able to reach, jump up on the table. You could.
+[0:35:27] Sango: I don't think I can do that because it that there's some light on that table. You know what? I'm just going to shadow step is that is that other where we're at dead now, down on the ground? Yes, okay, I'll shadow step to where he's at, and then I'll
+[0:35:40] Ian Lurie: shadow stepping. Got it? Okay, okay, yeah. And
+[0:35:43] Sango: then I'll pop up that guy in front of Dragon. First one is a
+[0:35:53] Unknown Speaker(s): 22 to hit, okay,
+[0:35:57] Sango: I hit is 11 damage. Second one is a 30 to hit,
+[0:36:08] Unknown Speaker(s): or 12 damage. All right, those hurt.
+[0:36:14] Sango: And then
+[0:36:16] JP: what I'm good,
+[0:36:20] Ian Lurie: Mossy, you don't need to make a perception check. It's getting warmer behind you. Yeah, you don't, you don't think the fire is going away. In fact, you're pretty sure it's it's getting bigger. Drag.
+[0:36:37] JP: Okay. Okay, so with my crossbow, the one the ghoul that's in front of Mossy. I'm gonna hit him. Okay, and pop the ghoul.
+[0:36:55] Unknown Speaker(s): Pop the ghoul. Pop, pop,
+[0:36:57] JP: well, just a single. Pop, okay, that's a critical hit. Okay, all right,
+[0:37:11] Speaker 1: 17 blood spray makes a nice cooling from the fire before
+[0:37:16] Ian Lurie: 34 Yeah, 34 Don't, don't even bother. Corpse goes into the falling. Its corpse into the fire, and it's undead, so it just kind of goes, and it's gone. Um, want to move? Are you gonna stay there? Oh, I'm gonna
+[0:37:33] JP: spin the reload. Aim it. Aim it to the one that's right in front of me. 25 to hit. That hit, all right, and that does 10 points of damage, and then a 10 feet push.
+[0:38:00] Ian Lurie: Let's see 10 feet and
+[0:38:11] Unknown Speaker(s): oh, good bye. Bye lands
+[0:38:15] Ian Lurie: it in the fire. How much damage does it take? And it's dead. I'm very disappointed in all of you. DM says, Okay, um, so who do we got left? Anybody? I
+[0:38:35] Unknown Speaker(s): would like to book it after the person who ran. Okay, am I up next is is anyone alive for us to fight? There's nothing
+[0:38:43] Ian Lurie: else left alive in here. Okay,
+[0:38:45] Unknown Speaker(s): I'll break out feline agility. Okay, on this one.
+[0:38:50] Speaker 1: So how far? How far away are they? At this point they
+[0:38:53] Ian Lurie: are I should really just turn this stupid grid on. But 510, 1520, 25, about 30 feet. You can get there.
+[0:39:04] Speaker 1: Yeah, I can get there without even having to use fan agility. Okay, gonna run up on him
+[0:39:11] Unknown Speaker(s): for a flare, do a little,
+[0:39:13] Speaker 1: little cat, run up the wall and land in front of him. Just, hi, boasted drugs. I just want to make sure you're cool. I
+[0:39:21] Unknown Speaker(s): just, I just, I'm not gonna
+[0:39:23] Speaker 2: kill you. I'm not gonna kill you. I'm sorry. Do you want bacon? Ian bacon.
+[0:39:26] JP: I'm just a cook. Okay,
+[0:39:28] Speaker 2: it's okay. Do you want to maybe go sit and talk to my friends and we'll make sure you're okay
+[0:39:36] Ian Lurie: in the fire? No, no,
+[0:39:37] Unknown Speaker(s): we're gonna go outside. Come with me. Come on.
+[0:39:39] Ian Lurie: Okay, so you're gonna take them outside. Yeah, I'm gonna
+[0:39:44] Speaker 1: take him outside and let party line my friends, hey, I got the cook. I don't know what cook means.
+[0:39:55] Ian Lurie: Did not think of that.
+[0:40:00] Unknown Speaker(s): We're outside. I think you murdered everything.
+[0:40:06] Ian Lurie: Well, when you go outside, assuming you all go outside.
+[0:40:11] JP: Jack wants to investigate the the adjacent room. Okay,
+[0:40:19] Ian Lurie: so this room,
+[0:40:21] Unknown Speaker(s): yes, please
+[0:40:29] Speaker 3: add in here, yep, what you're looking for, I'm
+[0:40:33] JP: looking for, chests, lovers, any anything suspicious and or useful? Okay,
+[0:40:48] Ian Lurie: anything suspicious and or useful. Give me a perception check.
+[0:40:58] Unknown Speaker(s): Well, okay,
+[0:41:00] Ian Lurie: there's definitely a chest. You are very certain of that that is a chest. Other than that, you don't see anything too remarkable in here? Gerdo,
+[0:41:10] Ger'u'do (Grogu): seeing this fire spreading and not being on the party line, decides to mosey on out the door so he doesn't get burned.
+[0:41:19] Ian Lurie: Yeah, for all you know, these guys are fireproof or something. So you get out the door, you see, you do see a bunch of little beasties coming your way. And we'll, we'll get to the outside combat in the second here.
+[0:41:36] JP: Jack's gonna open up the chest and see if there's anything. Okay.
+[0:41:41] Ian Lurie: There are some clothes, three pairs of socks. There's a t shirt of some kind that says, kiss the cook. Hard Rock,
+[0:41:53] Unknown Speaker(s): Ave team. Yeah,
+[0:41:54] Ian Lurie: yeah, no, no, kiss the cook. And there's three sets of shoelaces. Fantastic.
+[0:42:04] JP: All right, Jack's done. He's gonna, he's gonna scooch out of the house and join his party. Okay,
+[0:42:17] Ian Lurie: um, all right. So Mossy, you're getting out of you're getting out of the house with terrified cook person, yep. I
+[0:42:31] Unknown Speaker(s): so we're just going to assume got him a
+[0:42:33] Speaker 1: little emergency blanket out of the bag of holding, you know, some snacks. Sango, are you leaving?
+[0:42:38] Ian Lurie: Are you going to turn invisible and hang out inside? He's
+[0:42:41] Sango: going to turn invisible and hang out inside. Inside. When Drak was checking out the chest in the other room. Sango went into that room across the hall and just checked it out real quick. But he's still in that room.
+[0:42:53] Unknown Speaker(s): Okay, yep,
+[0:42:56] Ian Lurie: all right, that room is completely unremarkable. It is exactly like you see here, perfect
+[0:43:02] Sango: party line. There's so much stuff in here, guys, I can't believe it. Oh, there's a fire gotta go.
+[0:43:09] JP: He's on the fourth shoe lace. The fourth
+[0:43:11] Ian Lurie: shoe Exactly. Um, all right, so you guys are out here now, The cook is like, but, but, but, but they're coming. They're coming. There's going to be more of them. Wait, who are
+[0:43:22] Unknown Speaker(s): they? The
+[0:43:23] Ian Lurie: the people that run these houses,
+[0:43:26] Unknown Speaker(s): okay, what? Where's the exit?
+[0:43:32] Speaker 3: Run a street, just run,
+[0:43:35] Speaker 2: work in a truck, house. Man, usually people are stealthy and have pool hiding spots. He immediately
+[0:43:39] Ian Lurie: turns and starts to take off.
+[0:43:48] Unknown Speaker(s): Are we running?
+[0:43:51] JP: Do we see? Oh, you see people coming in, but don't we? Well,
+[0:43:57] Ian Lurie: you see them come running out of the building next door, the building across the street,
+[0:44:05] Sango: and these are all ghouls. And we're at that people,
+[0:44:08] Unknown Speaker(s): it appears so, yes,
+[0:44:09] Ger'u'do (Grogu): well, I see it two ways. If we want kazani Noctus to know it's us, we stay and fight. If we want to try and escape before anyone knows, then let's run.
+[0:44:27] Speaker 2: Will you tell kazani Noctis? We need to talk to her for RBG,
+[0:44:35] Ian Lurie: they go running this way. You realize it's on fire. Panic for a minute, and they go running this way.
+[0:44:39] Unknown Speaker(s): I don't think he's reliable. We should fight.
+[0:44:43] Ian Lurie: I don't think they heard you. I think that they were they were just running for their lives. Ian, may
+[0:44:47] Speaker 3: have been pooping
+[0:44:53] Ger'u'do (Grogu): as Mossy says, let's stay and fight. You gotta see gerdo reload his arms like Henry Cavill in that Mission Impossible movie.
+[0:45:01] Unknown Speaker(s): Nice.
+[0:45:06] Sango: You guys can't see him, but Sango does the same thing.
+[0:45:11] Unknown Speaker(s): Don't Sango on fire. Do we need to come get you because we can't see? No, I'm good. Mossy, cool.
+[0:45:22] Ian Lurie: The building behind you now is fully involved, I believe, is the technical term the flames have reached. I can't really do it.
+[0:45:37] Speaker 1: We run into that tunnel. We make a little bottleneck. We would force them all to follow us.
+[0:45:41] Unknown Speaker(s): Yep, into where, where the dude ran if we Oh, in there.
+[0:45:45] Ian Lurie: Oh, okay, then
+[0:45:46] Unknown Speaker(s): we can pull them off at a point.
+[0:45:52] Ian Lurie: Okay, let me we're just going to keep the combat going. I guess I will roll initiative for my guys.
+[0:46:00] Unknown Speaker(s): Ooh, that did not suck.
+[0:46:06] Ian Lurie: Did any of you have an initiative lower than 20,
+[0:46:10] Unknown Speaker(s): I think Sango did was 17, maybe. Oh, yeah. Craig Ian's still tripping balls at home. Yes, that's right. Okay,
+[0:46:25] Ian Lurie: so I actually have someone who's not going last, but gerdo, it's your turn.
+[0:46:35] Ger'u'do (Grogu): Is that grayish thing ghoul? That
+[0:46:38] Unknown Speaker(s): is a ghoul. All
+[0:46:40] Ger'u'do (Grogu): right, let's go Google hunting, walk up to it and punch a fire that shit. Okay, oh, uh, let's see. Oh, well, that's 91 that sucks. It gives and 15. Okay,
+[0:47:00] Ian Lurie: the 15 hits, oh
+[0:47:02] Ger'u'do (Grogu): yeah. And because I only got one hit, I'm gonna spend a key point. And do Lurie blues. Two more, let's see a dirty 20, and that one's gonna miss. So two hits, awesome sauce, that's going to be 15 points of damage.
+[0:47:34] Ian Lurie: All right, give it a good pop in the face. It snarls at you. Seems to be their best attack, snarling. All right, track your turn.
+[0:47:50] JP: Okay. This is the first time I've been able to use this conjure barrage. It will catch you tight. It will catch all of them in into the cone.
+[0:48:08] Ian Lurie: So it's a cone, yep. And how large a cone I'm
+[0:48:12] JP: double checking. Is it going
+[0:48:15] Ian Lurie: to catch gerdo as well? Only,
+[0:48:18] JP: it only works on like, uh, opponents,
+[0:48:22] Unknown Speaker(s): really, damn,
+[0:48:26] JP: each creature of my choice in a 60 foot cone makes a Dex, a Dex, 18 saving throw.
+[0:48:36] Unknown Speaker(s): Nice.
+[0:48:39] Ger'u'do (Grogu): For weeks, I swear. JP, you were telling us how useless he was now and how it was nothing. And this is like I've got this German magic here that's going to wrap everyone in a cone of silence.
+[0:48:51] JP: Dude, I was having feelings about my lost 10 extra 10 points of damage. This little
+[0:48:58] Ian Lurie: dude who, by the way, does not look like all the other ones, saves everybody else takes whatever they take. Okay?
+[0:49:07] JP: It is 31 points of force damage. What
+[0:49:13] Unknown Speaker(s): to all of them, to
+[0:49:15] JP: all of them who don't save and
+[0:49:17] Unknown Speaker(s): if they fit
+[0:49:18] JP: after they do, okay? It is a five d8 it's five d8
+[0:49:25] Unknown Speaker(s): Holy shit. And basically
+[0:49:29] JP: what it looks like is just like, like, you know that scene in Lord of the Rings where, like, all the arrows go past the range the elves. That's what it looks like. Okay,
+[0:49:39] Ian Lurie: gerdo, you hear this whistling sound as all these arrows go flying around you, the ghoul in front of you immediately dies. Everything else takes a whole bunch of damage, and you can't quite tell. Whoops, I just, I just killed you, gerdo. I'm sorry. That was not what I meant to do. Hardly
+[0:49:59] JP: knew you. We hardly
+[0:50:00] Ian Lurie: knew he, my bad. Let's just, let's just put you back, shall we? I'm
+[0:50:06] Ger'u'do (Grogu): sorry, rikter, your gerdo is in another castle. Yeah,
+[0:50:13] Ian Lurie: it's not quite the right many, but you're back. Gerdo is no longer dead,
+[0:50:22] JP: just real quick. Ian, there.
+[0:50:37] Unknown Speaker(s): All fixed. Okay, the ghoul is dead. Um
+[0:50:47] Ian Lurie: track finding in another way to ruin his dungeon master's day. All right, um, anything else track, you know, can you do that three or four more times this round or
+[0:50:58] JP: no? Sorry, sadly no. Okay, Jack is Yeah, sadly
+[0:51:04] Unknown Speaker(s): no. Jack is Mossy. Is gonna do okay? YEAH.
+[0:51:06] JP: NO buzz, no bonus action. Got it Mossy,
+[0:51:12] Speaker 2: okay, so building is on fire. We've got a
+[0:51:18] Speaker 1: bunch of folks are running towards us, but I feel like direct really took quite good care of them. Hmm? Mossy, just gonna go ahead and for her turn, take out paper and write a note to kazani Noctis,
+[0:51:36] Ian Lurie: okay, yeah. Kazani Noctis, okay.
+[0:51:41] Speaker 1: Noctus, this is the price for fucking would sell me or stay out. XO, XO. RBG, just take a dagger, stick it to the side, yeah,
+[0:51:53] Sango: of the burning building. No,
+[0:51:55] Speaker 1: where's the non birding. Well,
+[0:51:59] Ian Lurie: any of these stone buildings, I'll
+[0:52:01] Unknown Speaker(s): walk over the stone building right there and, okay, okay, we can kill them all
+[0:52:10] Ian Lurie: now, my little cobalt, this is this little dragon looking creature, maybe five feet tall, little bit taller, and it's got this huge backpack on its back with all these test tubes and stuff, and it grabs one test tube off of its backpack, and it's kind of laughing maniacally, and it aims it at Everybody, shakes it in this little jet of flame Ian,
+[0:52:52] Unknown Speaker(s): I guess all you can do is hit gerdo.
+[0:52:56] Ian Lurie: Shoots out a gerdo. Gerdo. You need to make a DC 15 deck save sure this is very difficult for you. I uh, dirty, 20. Okay, you take 10 points of fire damage as this, this cobalt tanker sort of shook up this bottle and aimed at you like he was going to fire a bunch of, you know, pop at you or something. But it
+[0:53:23] Ger'u'do (Grogu): actually don't think that's true. Nope, if I have a deck saving throw to take half damage and I succeed, I take no damage. You
+[0:53:32] Ian Lurie: have evasion. Okay, all right, cool. Well, it looked impressive and a
+[0:53:43] Unknown Speaker(s): wrestling move. Adam instead, yeah,
+[0:53:45] Ian Lurie: you know he feels like he accomplished something. Sango, your turn.
+[0:53:51] Sango: Sango is going to creep up next to gerdo and pop, pop, okay, so these invisible that is a 25 or 10 and another 25, or 13, okay, and he's going to use a stunning strike on the Guy, don't you
+[0:54:29] Ian Lurie: have to use a weapon to do a stunning strike. Are you using your staff? No, you
+[0:54:33] Sango: don't have to use a weapon. You can use your hands too,
+[0:54:35] Unknown Speaker(s): but, okay, cool.
+[0:54:39] Sango: So that is a Dex con save 18 I think. Ah,
+[0:54:47] Speaker 3: no. He makes it or No, no, no, okay. He's stunned. It's
+[0:54:56] Ian Lurie: kind of frozen there. He's so cute. He's actually kind of stunned at the fact that his attack did no damage at all. Speaking of stunned,
+[0:55:08] Sango: then I'm going to shadow, step back into the
+[0:55:11] Ian Lurie: shadows. I missed all of my rat folk. Okay, back to that alleyway
+[0:55:15] Sango: that that cook went down
+[0:55:20] Ian Lurie: all the way back there. Yep,
+[0:55:21] Sango: and just hide behind the corner. Yeah,
+[0:55:26] Ian Lurie: rat folk, or where rats, I should say, come running up.
+[0:55:31] Unknown Speaker(s): Gave it, would you say? Skaven,
+[0:55:35] Ian Lurie: yeah, they could be skating, couldn't they? And the ghoul those runs around here, where rats are not very fast, are they? No, they're really not. And the whole building around them is on fire now, so that's not helping them at all. But these two will attack you. Gerdo, let's see one gets a 16 to hit, oh, a total a 27 to
+[0:56:09] Ger'u'do (Grogu): hit. Those both hit a
+[0:56:12] Ian Lurie: 16 hits. Yep,
+[0:56:13] Ger'u'do (Grogu): that's perfectly on the armor class, man.
+[0:56:17] Speaker 1: Can I use my reaction to give you a plus five year roll?
+[0:56:23] Ger'u'do (Grogu): If it's shield that I think can only happen to you, it's not
+[0:56:26] Unknown Speaker(s): shield, it's flashy. Genius. Oh, okay,
+[0:56:31] Ian Lurie: you get hit four times. So,
+[0:56:35] Ger'u'do (Grogu): yes, please.
+[0:56:37] Speaker 1: Okay, I'm gonna use flash genius to stop the the lower one. Okay.
+[0:56:47] Ger'u'do (Grogu): Three hits, then Yay.
+[0:56:49] Ian Lurie: All right, so you get bitten once, taking eight points of piercing, you get scratched twice, taking a total of 12 points of slashing. And you need to give me a DC 11 con save Ian, uh.
+[0:57:17] Ger'u'do (Grogu): Well, now, so, um, I pooped. But hold on, I know there's something here. I swear to God, I saw poop. Yes. Diamond soul, if I make a saving throw and fail, I can expend one key point and re, roll it. Okay, that, what was the? What did I have to reach
+[0:57:44] Ian Lurie: 11? Oh,
+[0:57:46] Ger'u'do (Grogu): yay. 13. Okay,
+[0:57:49] Ian Lurie: damn. I always wanted to play a where we're at, but I guess that's not gonna
+[0:57:52] Unknown Speaker(s): happen now, where, bore once, yeah,
+[0:57:56] Ian Lurie: um, all right, so Sango already went. Gerdo, it's your turn. So fucker just tried to turn you into a where rat.
+[0:58:08] Ger'u'do (Grogu): Oh, that's what that motherfucker tried to do. Oh, you know, I'm popping I'm popping back.
+[0:58:12] Ian Lurie: If they bite, you have to make a con save, or you you're infected.
+[0:58:18] Ger'u'do (Grogu): It's time to attack Jack. Here we go. Let's see 15 and an 18. Those
+[0:58:27] Unknown Speaker(s): both hit. Oh, hell yeah.
+[0:58:35] Ger'u'do (Grogu): And oh, that's beautiful. That's going to be 27 points of damage, please.
+[0:58:44] Ian Lurie: Let's see, had this one already been hit. Oh, yeah, of course, they had all taken. Yeah, dead. Okay. Do you have any other attacks or y'all done?
+[0:59:00] Unknown Speaker(s): All done. All right
+[0:59:03] Ian Lurie: track. If you're back from putting
+[0:59:06] Unknown Speaker(s): everyone to bed, I
+[0:59:08] JP: am back. Just give me one second. I guess back back again. Hold on. Okay, good, okay, okay, what's the quick situation?
+[0:59:35] Ian Lurie: This is what you see. All right,
+[0:59:45] Unknown Speaker(s): okay,
+[0:59:48] JP: I think I'm going to transfer Hunter's Mark onto the ghoul with a bonus action, and then hit the goal once and the rat once. Okay. Okay, so for the cool 17 to hit
+[1:00:14] Unknown Speaker(s): that hits,
+[1:00:18] JP: that'd be 15 points of damage,
+[1:00:22] Unknown Speaker(s): is dead. And for the rat,
+[1:00:28] JP: 22 points. Sorry, 22 hit. Yeah, it's he does not have Hunter's Mark, so this is just eight points damage. Okay,
+[1:00:43] Speaker 3: y'all done, and I'm done. Okay, Mossy,
+[1:00:47] Unknown Speaker(s): excellent, okay, oh,
+[1:00:49] JP: the rat gets pushed back 10 feet. I am fuck
+[1:00:52] Unknown Speaker(s): that rat. So
+[1:00:56] Speaker 1: we got ger up there. We got two rats. What else we got going on? You
+[1:01:00] Ian Lurie: got the one person running for their lives down the the alleyway. That's it.
+[1:01:07] Speaker 1: Okay. So next, who's the next player up after me?
+[1:01:13] Unknown Speaker(s): Sango, awesome.
+[1:01:15] Speaker 1: I'm gonna go ahead and cast enlarge on Sango, oh,
+[1:01:19] Ian Lurie: jeez, okay,
+[1:01:24] Unknown Speaker(s): because I feel like this is gonna be fun.
+[1:01:28] Ian Lurie: There's now giant Sango,
+[1:01:31] Speaker 1: mega Sango, mega Sango G'day, high five Sango. As I run by and go, I'm gonna go get the cook jogging after the cook,
+[1:01:46] Ian Lurie: you will catch the cook next round, because they are not that fast,
+[1:01:52] Unknown Speaker(s): all right, the rat folk,
+[1:01:57] Ian Lurie: remember the where rats, I should say they're like, Damn it, two, eighteens, a 16 and a 10. I'm guessing the eighteens hit
+[1:02:14] Ger'u'do (Grogu): your Titan. Gerdo, yes, 218 is a 16 and a 10. Yeah, everything hits but the 10. Oh, okay,
+[1:02:21] Ian Lurie: all right, so you take
+[1:02:27] Unknown Speaker(s): how many are close enough that I could help you?
+[1:02:32] Ian Lurie: Well, you have to, you have to have line of sight to him, don't you?
+[1:02:35] Speaker 1: Oh, let me check. Think it's within vision. And I did just scamper after the dude. You're
+[1:02:41] Ian Lurie: not looking at him right now?
+[1:02:44] Unknown Speaker(s): Yeah, sorry.
+[1:02:47] Ian Lurie: Um, so you take another 12 slashing from the claws, you take another 10 from the bite, and you need To give me another Dc, 11. Con, save.
+[1:03:06] Unknown Speaker(s): Save, okay.
+[1:03:11] Ian Lurie: Snarl something at you. You don't know what,
+[1:03:13] Ger'u'do (Grogu): if it's a spoken language. He has, I can't even remember what is, but he can speak. He can understand any spoken language. Oh,
+[1:03:21] Unknown Speaker(s): he said, There we go. He says,
+[1:03:29] Ian Lurie: this really is, this is this sucks. I don't know Ian's not doing well for dialog tonight.
+[1:03:36] Unknown Speaker(s): Who's Ian? Yeah,
+[1:03:38] Ian Lurie: giant Sango. I want to see how this unfolds.
+[1:03:43] Sango: What does enlarge
+[1:03:46] Unknown Speaker(s): do for me. Let me grab
+[1:03:56] JP: because I'm 13. Yeah,
+[1:03:57] Ian Lurie: got me too. I just done. Okay,
+[1:04:03] Speaker 1: you're close, Sam, we're playing by Hulk rules here. Target size increases by one category from medium to large has advantage on strength checks and strength savings throws. Attack with this large or unarmed strikes deals an extra one d4 on each hit. Okay,
+[1:04:24] Sango: all right, so gonna go over and we're gonna do some pop. Pop.
+[1:04:27] Ian Lurie: You see the two air rats go like this. As you go running up, they kind of go like they just did not expect you to be that tall. Okay,
+[1:04:37] Sango: so I'll shadow step over there so I can get advantage on these. That's a that is a 28 to hit, yeah,
+[1:04:50] Ian Lurie: that probably hits.
+[1:04:59] Unknown Speaker(s): 17. Also
+[1:05:00] Ian Lurie: hits, oh, for 1717, damage.
+[1:05:03] Sango: All right,
+[1:05:04] Ian Lurie: this one's dead, right, and ger's been beaten up this one for a while, so
+[1:05:12] Sango: after that one, oh, that's only a 15 to hit. Oh, that
+[1:05:15] Ian Lurie: hits. Okay, guys are not, you are not fighting the elite here
+[1:05:23] Sango: for 12 damage.
+[1:05:26] Ian Lurie: Still up, still
+[1:05:27] Sango: up. Well, in that case, I'm going to pump a stunning strike into it on con 18.
+[1:05:41] Ian Lurie: It saves. This is the toughest we're at in history. Not only has it hit the high level monk twice, but it has also saved against your stunning strike.
+[1:05:53] Unknown Speaker(s): It looks at you.
+[1:05:56] Sango: Bring it on. Sango just flips him off.
+[1:06:01] Ian Lurie: Struck a nerve, did I Okay? Uh. Gerdo Your turn. Yeah, this define where we're at standing in front of you.
+[1:06:11] Ger'u'do (Grogu): All right, let's go ahead and beat the shit out of that defined where we're at. Yeah, let's see. I'm going to get a 22 and a 14.
+[1:06:22] Unknown Speaker(s): Those both hit, Oh, hell yeah.
+[1:06:29] Ger'u'do (Grogu): It's going to be, oh yes, please, 26 points of damage.
+[1:06:34] Unknown Speaker(s): Good, yeah, okay.
+[1:06:38] Ian Lurie: Defiance gone.
+[1:06:41] Unknown Speaker(s): Okay. Mossy, you work
+[1:06:43] Ger'u'do (Grogu): off his face.
+[1:06:44] Ian Lurie: Yeah, wipe that face. Off that face. Um, you catch up to the cook. What do you
+[1:06:51] Speaker 1: do? Hey, so everything was really done. It doesn't have to be a bad night. Do you want to make some gold? All you gonna do is sit down and talk to us. I
+[1:07:02] Speaker 3: If I talk to you, I'm dead.
+[1:07:06] Unknown Speaker(s): I mean, we could just kill you, talking
+[1:07:08] Ian Lurie: to you now, so I'm dead anyway, sure.
+[1:07:12] Speaker 1: I mean, we can give you gold enough to get into maybe a Head Start of hiding. Okay,
+[1:07:17] Unknown Speaker(s): let's
+[1:07:18] Speaker 1: not do it in the wide open. Can we? Can we find somewhere away from the flames to go have this conversation.
+[1:07:28] Ian Lurie: Yeah, we don't. I we're out of combat at this point. Don't worry. See on the map, you can, you can try and find a bar or something, or you can just go around the corner and hang out. You guys look kind of, you're kind of covered in soot, and we should go
+[1:07:47] Unknown Speaker(s): for something shadow rather than you know, yeah,
+[1:07:49] Ian Lurie: you find a good spot, not hard.
+[1:07:54] Unknown Speaker(s): Hey, buddy, how you doing?
+[1:07:58] Ian Lurie: I've been is that a trick question?
+[1:08:02] Speaker 2: No, we're not trying to trick you. I know it's really scary and crazy. You
+[1:08:07] Ian Lurie: hear all this yelling now, and you hear the sound of the building collapsing behind you. By the way,
+[1:08:15] Speaker 2: I wait for the rubble to stop and go, but you're okay now. We just want to understand like, tell us about what you did for Did you work with doctors like, who? Who is your boss? Uh,
+[1:08:31] Unknown Speaker(s): I got paid
+[1:08:35] Ian Lurie: a silver a week to, like, cook and bring food to people in that house. And I just got it from the guy back there that your giant friend squished,
+[1:08:54] Unknown Speaker(s): he was kind of a dick. So don't worry about,
+[1:08:57] Ian Lurie: I'm not worried about I'm not worried about him. I'm just saying it's, you know, he was one who paid me. But I don't really know much else. I mean,
+[1:09:06] Unknown Speaker(s): you do anything else?
+[1:09:09] Ian Lurie: Did I do anything else? Did
+[1:09:10] Unknown Speaker(s): he pay you to do anything else? Oh,
+[1:09:12] Ian Lurie: no, no, just cook. Yeah, just, you know, the cooking
+[1:09:22] Unknown Speaker(s): with the food and stuff inside
+[1:09:24] JP: trucks not up with the cool lingo of the kids these days,
+[1:09:30] Ian Lurie: uh, give me an inside check Mossy,
+[1:09:34] Unknown Speaker(s): 24 so
+[1:09:35] JP: like you cooked food, like soups and parfaits, and you
+[1:09:43] Unknown Speaker(s): cooked parfaits bread,
+[1:09:44] Ian Lurie: Mossy. Mossy. He's not telling you the entire truth. Okay, he's editing a little bit. He's not like, out and out lying, but he's definitely leaving some stuff out.
+[1:09:56] Speaker 1: Put a gentle hand on his shoulder. You to tell us the truth, and I'm gonna, just like, slightly, let my claws press against the skin. I'm
+[1:10:06] Unknown Speaker(s): telling you the truth, not though,
+[1:10:09] JP: be honest.
+[1:10:14] Ian Lurie: Okay, all right, so sometimes I had to take food downstairs, like down stairs, there's like a basement.
+[1:10:23] Unknown Speaker(s): Well, there was, Sorry, continue,
+[1:10:26] Ian Lurie: oh no, it'll still be there. Oh yeah, there's like a basement, and it's like secret, and there's, there's a secret, like one of the fireplaces, and you move the fireplace to the side, and then there's a ladder. It goes downstairs into this room where there's all this other stuff. And I brought food down there, and they told me, If I ever told anyone that they would catch me, hang me upside down and make all my internal organs come spraying out through every orifice. So until you were here, scaring me, I really didn't think about telling anyone about this. But now that you're here, I kind of feel like, well, you don't die one way or the other, who
+[1:11:08] Unknown Speaker(s): was down there,
+[1:11:11] Ian Lurie: a whole bunch of people like these. I don't know, orphans. I'm telling you the truth. What's it? What'd you say?
+[1:11:20] Unknown Speaker(s): Orphanage? It was an orphanage downstairs.
+[1:11:22] Ian Lurie: Yeah, yeah, that's right. Little kids, kittens, you know, um, he says, did, I don't know. I don't know what? Just a bunch of other people, rats, like those guys and ghouls, and, I don't know, some tours or something. There's all sorts of people coming and going down there.
+[1:11:42] Speaker 1: Okay, I'll take out my notebook and just quick stretch show me on here where it was okay.
+[1:11:50] Ian Lurie: He shows you that it was right there. Yeah.
+[1:12:00] Speaker 1: Okay, um, party line. Do you have anything you want to ask him? And I just try and make eye contact with gerdo and like, transmit thoughts
+[1:12:14] JP: of eyebrows going up. Yes,
+[1:12:16] Speaker 1: there's, there's so much eyebrow like, it's Morris code right now, trying to get
+[1:12:21] Ger'u'do (Grogu): you to gerdo. Is your face itchy? Mossy?
+[1:12:28] Speaker 1: I mean, yeah, I did just get sprayed in drugs and ash so a little bit I could use a bath.
+[1:12:36] JP: Yeah, Mossy, that's called a Wednesday,
+[1:12:39] Unknown Speaker(s): drugs and Ash Wednesday.
+[1:12:44] Sango: Forget how many years and
+[1:12:46] JP: how many folks does, did he usually see downstairs?
+[1:12:53] Unknown Speaker(s): You see downstairs
+[1:12:56] Ian Lurie: anywhere? Sometimes, nobody, sometimes, like 10 people.
+[1:13:02] Sango: Are there any guards down there? Normally?
+[1:13:04] Ian Lurie: Oh, I mean, I don't know. There was all kinds of I cook stuff. Okay? There was all kinds of different people. Someone had weapons, some of them didn't you have they all looked scary. You
+[1:13:17] Unknown Speaker(s): you have a sandwich. Tell me a what? Okay, hear me out. You get bread, you get bacon.
+[1:13:27] Speaker 1: Mossy explains to him the joy is making a sandwich, and goes, Hey, here's three gold. Do you want someone to punch you so you look like you got hurt?
+[1:13:35] Unknown Speaker(s): Oh, he
+[1:13:37] Ian Lurie: looks down. He's like, all burnt and singed. He says, I think I'm good. Okay,
+[1:13:42] Speaker 1: you never saw us. Whoo. Oh no,
+[1:13:45] Ian Lurie: I saw you. I just, you know, ran. Yes like this, and then he turns he runs away. Good
+[1:13:53] Unknown Speaker(s): form, knees up, he waves,
+[1:13:55] Ian Lurie: thank you. You explained him how to make a sandwich you may have just introduced like a reality changing. These people need joy. Yeah, and you know.
+[1:14:16] JP: Okay, between some gray bread,
+[1:14:19] Ian Lurie: some Yeah, some gray bacon, between some gray slices of gray bread. That's pretty much it all right. What are you guys gonna do?
+[1:14:27] JP: I think we should go downstairs and oh, it's
+[1:14:31] Unknown Speaker(s): still on fire, though, honey.
+[1:14:34] Ian Lurie: It's kind of collapsing. Fire's going down. The other building is not on fire. It didn't catch.
+[1:14:44] Unknown Speaker(s): Do we want to go try and get into the basement? Now,
+[1:14:48] Sango: about the other building? I think there's a an entrance to the basement and the other building,
+[1:14:55] Unknown Speaker(s): depression, yeah,
+[1:14:57] Sango: are they? Are they pretty much identical?
+[1:15:01] Ian Lurie: We They're close. They're similar. They're not totally identical, like this one doesn't when you looked into this one, it didn't have that cooking apparatus.
+[1:15:13] Unknown Speaker(s): It did places these rooms
+[1:15:15] Ian Lurie: are still the same, and it does have the same fireplace. Yes,
+[1:15:22] Ger'u'do (Grogu): I've always thought it would be fun to explore a secret entrance.
+[1:15:30] Speaker 1: Mossy. Will hook out her elbow and take ger's elbow and marching towards
+[1:15:39] Ger'u'do (Grogu): the most fun I've had in years.
+[1:15:42] JP: Sango still pretty big.
+[1:15:44] Ian Lurie: Sango is still huge. Yes,
+[1:15:46] Sango: right, and invisible and invisible
+[1:15:48] Ian Lurie: and invisible.
+[1:15:49] Sango: And he is like
+[1:15:50] Unknown Speaker(s): Jurassic Park. You see puddles moving.
+[1:15:53] Sango: He keeps looking at his now, big muscles, actually,
+[1:15:56] Ian Lurie: strictly speaking, she couldn't have cast enlarged on you unless she could see you. I believe I
+[1:16:01] Speaker 1: did it. I went and did it to him before I went down the alley. Okay,
+[1:16:05] Ian Lurie: you see a couple more, a couple more civilians, by the way, running away in a panic.
+[1:16:09] Sango: Yeah, and he turned, he was, he was visible. Okay, that okay. He is now invisible. Okay,
+[1:16:17] Ian Lurie: you guys go trooping into this building, um, you do find another cobalt anchor at the door. Um, he kind of looks at you and just turns and bolts down the hallway.
+[1:16:37] Sango: Could I thorn with him? Sure
+[1:16:41] Ger'u'do (Grogu): you've been trying to use that so much. That's
+[1:16:44] Sango: a natural 20. Oh,
+[1:16:46] Unknown Speaker(s): god, okay.
+[1:16:49] Ger'u'do (Grogu): Sango rips his head off. Tell me how much damage? Oh,
+[1:16:54] Sango: that's only 3d six twice. Oh, that's not good. That's 48 total.
+[1:17:06] Ian Lurie: The Universe forgets this poor cobalt ever existed, basically the thorn whip shoots out. You grab him around the middle and just
+[1:17:15] Sango: you hear a really unique voice say, did I do that?
+[1:17:23] Unknown Speaker(s): But it's really deep, because you're huge.
+[1:17:27] Sango: And then he becomes visible when he does that, because invisibility drops into attack, and then you see him turn red, and then he turns invisible again.
+[1:17:38] Ian Lurie: How long does the enlarge last
+[1:17:41] Unknown Speaker(s): do? To do until we're
+[1:17:42] Sango: done having fun with it? Ian, a
+[1:17:53] Speaker 1: concentration up to one minute. Has it been a minute? Yeah, we talked to the dude.
+[1:17:56] Ian Lurie: It's it's pretty much been a minute. But that's right, I'll let you get that one in there first all. Right, so by the way, the game now lets me create gargantuan creatures.
+[1:18:11] Speaker 1: Oh, no, that won't haunt us.
+[1:18:15] Ian Lurie: I'm so excited.
+[1:18:18] Ger'u'do (Grogu): That'll be fun if we go back to the nine hills to plant, right? Yep,
+[1:18:22] Ian Lurie: absolutely okay. You guys go into the building. Is there anything particular you do when you get in here. Are you being sneaky? Are you just,
+[1:18:31] Speaker 1: oh, I'm going full sneaky, investigating to back sea mode. Okay, granny, give
+[1:18:37] Ian Lurie: me a stealth check. Yeah. Sango
+[1:18:40] Sango: is invisible and sneaking around, also sneaking
+[1:18:42] Unknown Speaker(s): All right? That is a 21 okay.
+[1:18:49] Sango: That is a 19 stealth percent. Okay,
+[1:18:52] Ian Lurie: you guys both go kind of looking around in here. There's a guy over here, and what looks like another kitchen area, but this area has been cleared out, and there's just cots and bedding everywhere, and then just this one table there is actually a trap door there. And then as you move down these hallways, that's not there, ignore the ghoul, you see that same kind of layout. And then if you go into this room, you see that same kind of fireplace sitting there. Ooh, time
+[1:19:32] Unknown Speaker(s): to figure out how to open the fireplace. Okay, this Sango
+[1:19:36] Sango: says over the party line, the Mossy I've got this. And he goes to try to push it, but he's not big anymore.
+[1:19:45] Ian Lurie: Yeah, yeah, that doesn't work too well. Okay, you're pretty sure you pop something, but anybody
+[1:19:52] Sango: got some Ben gay? Yeah, right.
+[1:19:57] Ian Lurie: Okay, so give me a What would this be? I guess this would sort of be a thieves tools kind of thing. So just give me these tools proficient. You know, your regular thieves tools, check oak.
+[1:20:16] Unknown Speaker(s): That is a 15. Okay.
+[1:20:20] Ian Lurie: You know it's not super subtle. You're kind of poking around. It takes you a minute or two, which is unusual and but by now that everybody's in there, there is, by the way, the one guy in the kitchen who, when you all walk in, he just goes and just turns and walks out of the building. She's like, I'm out. And looks like just a regular guy. He was actually washing some dishes or something when you came in. But you find a lever, and when you flip the lever, you see little passage downstairs. And how the fuck am I going to do this without wreaking total havoc? That's the question I'm
+[1:21:11] Ger'u'do (Grogu): question the president never asked himself,
+[1:21:13] Unknown Speaker(s): yeah.
+[1:21:17] Ger'u'do (Grogu): Can you tell I'm ready to fucking explode?
+[1:21:21] Unknown Speaker(s): I Yeah.
+[1:21:26] Ian Lurie: I got students who are afraid to leave their homes right now. I'm not kidding, but for for the moment, we are in a fictional world, yes, where the bad people eventually die. And when you get down there, you're in kind of a warehouse, and you do get to take a little bit of a look around. But everyone down here has heard what's going on, so they're kind of on alert a little bit. So you drop down this sort of ladder into this warehousey kind of space.
+[1:22:00] Unknown Speaker(s): Are those crates in the middle? These are
+[1:22:02] Ian Lurie: crates can
+[1:22:03] Unknown Speaker(s): I hop up on top?
+[1:22:06] Ian Lurie: Sure. Neat. Ian, yes, but can you? It's not, it's not a question of, can you, I gotta remember to just use the shit. Really.
+[1:22:18] Unknown Speaker(s): I'm sorry
+[1:22:20] Ger'u'do (Grogu): you rolled too high of a stealth roll. You've been raptured,
+[1:22:27] Unknown Speaker(s): Mossy, go down the hole.
+[1:22:32] Ian Lurie: So I guess actually, no, because they're up against the ceiling, is what that's telling me. Seriously, I'm not kidding. Because if I put you on there, then you're standing up, you're actually up through the ceiling into the building above. And now I look at it, yeah, because the top of the ladder is there too. So sorry about that. No, you cannot fit up there.
+[1:22:55] Unknown Speaker(s): No worries. But we're
+[1:22:58] Ian Lurie: going to need some new initiative checks, because as soon as you get down there, there's some baddies.
+[1:23:07] Ger'u'do (Grogu): 1617, 1623,
+[1:23:14] JP: 21 so
+[1:23:22] Ian Lurie: let's see we had a 17 for Sango, correct 16 for gerdo,
+[1:23:27] Unknown Speaker(s): 2323 for Sango, 2317
+[1:23:30] Ian Lurie: Okay, and then your best friends and mine, They do have real guards down here, sort of Ian. And he goes first, because, you know, what? Did you call them slippery fuckers, that's right.
+[1:24:02] JP: Oh, shut Yeah,
+[1:24:03] Unknown Speaker(s): I
+[1:24:04] JP: hate those guys.
+[1:24:07] Ian Lurie: All right, you immediately see this one guy, that kind of familiar grayish cast to their skin, these long, long fingers and fingernails and those spears that you saw, the other one, other ones used so effectively, and it What am I going to do? I step to here, and I take that spear. I'm and I throw it once. And actually, you guys can decide how you're standing. You don't have to be like this. So who drops down? How? From the ladder Mossy, you came down first. You can decide where you want to be first,
+[1:25:10] Unknown Speaker(s): where where's the ladder from, where we are right now,
+[1:25:12] Ian Lurie: it's, it's not a ladder, actually, it was just a hole and it's, it's basically where that empty space is, right now, if you look down, it's right there.
+[1:25:24] Unknown Speaker(s): Sorry, that feels
+[1:25:25] JP: about right, yeah.
+[1:25:26] Unknown Speaker(s): Okay,
+[1:25:32] Ian Lurie: gerdo, you're good with where you're at, too, either. All right, okay, so three shadow spear attacks. Wow, that was lame. Um, I'm guessing a 25 and 17 hit U gerdo, but that's probably it, yep.
+[1:25:54] Ger'u'do (Grogu): Okay,
+[1:25:54] Ian Lurie: you take 14 piercing and 52 points of necrotic.
+[1:26:07] Unknown Speaker(s): Yeah, they're bad, very, very bad.
+[1:26:15] Ian Lurie: And what you see is, as it throws this spear, it comes back into its hand every time it throws and just three rapid fire attacks. The third one misses you.
+[1:26:25] Ger'u'do (Grogu): You guys see gerdo fall to his knee and pick up a little bit of blood.
+[1:26:34] Ian Lurie: All right, Sango, it's your turn.
+[1:26:39] Sango: Sango is invisible, correct? So he is going to run up to that shatter kind dude and do some pop pop,
+[1:26:51] Unknown Speaker(s): because that guy sucks.
+[1:26:56] Sango: That's a natural 20. Okay,
+[1:27:03] Unknown Speaker(s): that's gonna suck
+[1:27:05] Sango: for seven points. Uh, that's a stunning strike of 18. He's gonna save
+[1:27:18] Ian Lurie: Ponce, right? Yep,
+[1:27:20] Sango: I believe so I
+[1:27:21] Ian Lurie: got a 12.
+[1:27:25] Unknown Speaker(s): So I'm stunned. I
+[1:27:30] Ian Lurie: I'm just gonna do that. So you know, he's stunned.
+[1:27:35] Sango: Okay, then I'm gonna hit him again. That's a 17 to hit.
+[1:27:44] Ian Lurie: That hits God. Why do these guys have such shitty armor class anyway? Sorry, go ahead, continue. So
+[1:27:49] Sango: that's eight,
+[1:27:54] Unknown Speaker(s): eight damage. Okay,
+[1:27:55] Sango: you stunned. And then I'm going to
+[1:28:08] Speaker 3: I kind of fucked it there, did he? He went first, right? Yep, he's,
+[1:28:12] Sango: he's done till the end of my turn, or his turn. I should probably know this. Yet, you should probably
+[1:28:18] Ian Lurie: should know this. Yeah, I'm pretty sure it's to the end of his next turn, so he will not get it to attack on the next round. But double check that let me i
+[1:28:38] Sango: the end of my next turn.
+[1:28:42] Ian Lurie: Okay, which also works for you, because he will not get to attack next turn. All right, perfect.
+[1:28:49] Sango: And then I'm gonna go over the party line help
+[1:28:56] Unknown Speaker(s): Brack.
+[1:29:00] Sango: I'm gonna I'm gonna move on to the other side of him, though, with the rest of my
+[1:29:06] JP: movement, any other targets that I can see
+[1:29:11] Ian Lurie: there is a ghoul right there. Okay,
+[1:29:19] Unknown Speaker(s): all right.
+[1:29:21] Sango: Is is gerdo? Is he like unconscious or just hurting?
+[1:29:28] Ger'u'do (Grogu): Hurt. Real bad dog, okay,
+[1:29:35] JP: gerdo's hurt, um, okay, I'm going to hit the ghoul twice with with the bow, okay? And yeah, minus 10 speed. Okay, okay, that's a 33 to hit.
+[1:29:59] Unknown Speaker(s): Yeah,
+[1:30:00] JP: bonus action, hundreds mark
+[1:30:04] Unknown Speaker(s): and a 32 to hit. Okay.
+[1:30:10] JP: Okay. Say 20 points of damage for the first one and a 14 points of damage for the second one. And with my bonus action, I'm gonna hit. Him. Gonna hit with a the bonus action heal.
+[1:30:37] Speaker 3: Gonna hit gerdo with the Bucha. Got it all right.
+[1:30:44] JP: Ger that is seven points of damage for you or seven seven points of time for You. Whoops, lost all.
+[1:31:01] Ian Lurie: Okay, Mossy, you're muted.
+[1:31:09] Speaker 1: Okay? Question for you, yes, Healing Word is a bonus action. Can I upcast it as a bonus action, or is it only first level?
+[1:31:19] Unknown Speaker(s): Do you
+[1:31:22] Ian Lurie: know you can upcast as a bonus action? Okay,
+[1:31:28] Speaker 1: is is Sango. And Sango and gerdo are both looking hurt, right?
+[1:31:31] Ian Lurie: I think Sango, yeah, gerdo is the one who's who's really hurt. I think Sango is fine.
+[1:31:39] Speaker 1: Okay, so I'm gonna use my bonus action and I'm gonna do a third level healing. Word on gerdo, yeah, it's
+[1:31:52] Unknown Speaker(s): going to be, that'll be 11 points of healing. I'm cool, and then I have that little fucking ghoul right behind me, don't I? Yep, okay, it's
+[1:32:22] Ian Lurie: not flying. It's slowed. And I'm just using that to tell myself that it's slowed. No
+[1:32:26] Speaker 1: worries, I'm going to
+[1:32:32] Unknown Speaker(s): attack that
+[1:32:35] Ian Lurie: melee or ranged,
+[1:32:38] Speaker 1: range, my favorite throwing dagger, yeah,
+[1:32:46] Unknown Speaker(s): 18 to hit, yeah. It hits Yeah. And then that's eight points of damage,
+[1:32:55] Ian Lurie: barely hanging on, just barely to its own life.
+[1:33:00] Unknown Speaker(s): Okay? Um,
+[1:33:14] Speaker 1: I'm trying to figure out if I can you use my action to move because we're really clustered up right here. Yes, you are okay.
+[1:33:23] Unknown Speaker(s): Guess I'll move forward that way. No, because I don't want to go into that thing. Okay,
+[1:33:32] Speaker 3: so around gerdo, yeah, where to,
+[1:33:37] Speaker 1: um, keep going just right to the edge of whatever that I think is a ladder right there, yeah. And
+[1:33:45] Ian Lurie: I just want to point out it's just like, you see, it's hanging down from the ceiling, so you know they can see right through it. It's not really an obstacle, yeah. Okay, so you get right about to there,
+[1:33:56] Unknown Speaker(s): all right, gerdo,
+[1:34:03] Ger'u'do (Grogu): first time I miss rikter. Um, let's see action. I'm going to use my wholeness of body and regain 45 hit points. Nice.
+[1:34:21] Speaker 1: Oh, well, moral, the story, don't bother healing gerdo. He's fine. No,
+[1:34:25] Ian Lurie: that's that's all I have one. Remember, that's you probably just hit your your new hit point maximum, because you took 52 necrotics. So you Yeah,
+[1:34:38] Ger'u'do (Grogu): let's see, and where the hell was it? Ah, god, this is the damn danger of using a new character. All right, we
+[1:34:49] Ian Lurie: have time bonus
+[1:34:50] Ger'u'do (Grogu): action use a key point to do Patient Defense, okay? And that's all I got. All right,
+[1:35:09] Unknown Speaker(s): so the ghouls can just barely get to drag all of these I'm
+[1:35:38] Ian Lurie: this one kind of does this weird, creepy, like, low to the ground golem style, run up and over the crate and takes a swipe at us, Sango from up above doesn't know that you're there. Mossy is just coming this way. Same with this one. That's as far as I can get. All right, so the three on you, Sango, are all going to take a bite two natural 20s. Yes, you heard that, right? I roll two natural 20s. That's reverbs Okay, so one of them is not enough. One of them is actually whoa. Wait. Does silvery bars just mean it's not a critter, does it make me re roll?
+[1:36:31] Unknown Speaker(s): It's a re roll, okay,
+[1:36:32] Ian Lurie: oh, I missed that. But the first one's still a crit, and that one does 20 points, or, sorry, 10 points of piercing, plus six necrotic and then they all claw. And yeah, like shite getting a 23 and 19 and a 12 to hit.
+[1:37:03] Unknown Speaker(s): Sango,
+[1:37:07] Sango: sorry, I was muted the 23 hits. Okay,
+[1:37:10] Ian Lurie: so that's another eight points slashing, and you need to give me a DC 10 con save.
+[1:37:24] Sango: It's 18 plus stuff. Okay,
+[1:37:26] Ian Lurie: so for a minute you feel your muscles like start to lock up, but it's only brief, and then it goes away. And of course, the Shadow Dancer can't do anything. So Sango, it's your turn. You are now surrounded by these see looking ghouls.
+[1:37:49] Sango: Okay? So then what Sango is gonna do is he's gonna cast darkness. Okay? Cuz he's hoping nobody else can see in darkness except him.
+[1:38:06] Ian Lurie: It's magical darkness, right? Yep, how big? How? What's the radius?
+[1:38:11] Unknown Speaker(s): Good question, 15 feet
+[1:38:21] Ian Lurie: radius or diameter. I
+[1:38:30] Unknown Speaker(s): 15 feet radius, good God, all right,
+[1:38:36] Ian Lurie: so this entire area is now pitch dark, okay,
+[1:38:41] Sango: and then, with that, he gets to make an extra strike, because he used a key point. He's gonna go against the Shatter Kai guy,
+[1:38:53] Ian Lurie: okay, if you're melee attacking, you have advantage because he's on the ground,
+[1:39:00] Sango: stunned, and he's
+[1:39:01] Ian Lurie: stunned. Oh yeah, he's not on the ground, he's stunned. Yeah.
+[1:39:08] Sango: All right, that's a 21
+[1:39:10] Unknown Speaker(s): okay, that hits.
+[1:39:14] Sango: That is 15 damage, all right, and then I'm going to do another key point for stunning strike. He's going to do 18 con. I'm
+[1:39:35] Ian Lurie: he stands up. He's like, Haha, no, I got you. And he says, fuck, I'm down again. Unsettling trend. I haven't rolled over an eight on a saving throw, all right.
+[1:39:53] Sango: And then I'm just going to climb on top of those boxes there. So
+[1:39:59] Ian Lurie: next to the
+[1:40:02] Unknown Speaker(s): yeah, see how they're going. Those
+[1:40:04] Sango: other boxes,
+[1:40:06] Unknown Speaker(s): the little boxes, a little, got it
+[1:40:11] Ian Lurie: all right? And you know the circle, the sphere, moves with you, but I'm not going to bother doing that.
+[1:40:21] Unknown Speaker(s): Track
+[1:40:26] Ian Lurie: ghouls up here looking at you, yep,
+[1:40:28] JP: cross polls in the face. Okay. So 25 Yeah,
+[1:40:38] Speaker 3: I don't bother instead, had one hit point left,
+[1:40:44] JP: and I don't have any kind of magical, piercing, dark vision, so I had to go back to back with gerdo, and I Don't think I see any targets, so I'll just i Yeah, I'll make sure. I'll just go back to back with gerdo. All right, Mossy,
+[1:41:20] Speaker 1: okay, so I'm right next to magical darkness that I can't see him, but I do see a little sneaky ghoul right there.
+[1:41:30] Unknown Speaker(s): You do? Does he see me? Probably, Oh, yes. Okay, so No sneakers, that's what
+[1:41:41] Ian Lurie: I roll natural 20 on.
+[1:41:46] Speaker 1: You had to get it at some point. I'm glad to get out of your system, buddy. Um,
+[1:41:54] Ian Lurie: you're gonna range tack.
+[1:41:57] Unknown Speaker(s): I'm gonna, I'm just gonna dagger, dagger, that ghoul, okay. First one is a 27 second one is a 24, Six and then five, so 11 points. All right, I'm
+[1:42:30] Ian Lurie: is that it anything else?
+[1:42:35] Speaker 2: Party line. Hey, you got all those but buddy, we can't see in there. Love you.
+[1:42:46] Unknown Speaker(s): Give me a minute. Turn back to the other two and shrug. All right, gerdo, your turn. You feel better. Yes,
+[1:43:03] Ger'u'do (Grogu): gerdo is going to walk around because you saw Mossy attack something and go and oh, there's a Google go and attack that ghoul.
+[1:43:13] Unknown Speaker(s): Smack a ghoul. Smack
+[1:43:15] Ger'u'do (Grogu): that ghoul up. Let's see a 29 and a 14, those both hit
+[1:43:28] Ian Lurie: Ghouls are really just, they're flesh bags. That's all they
+[1:43:34] Ger'u'do (Grogu): are. Come on, good rules, yes, 19 points of damage, right?
+[1:43:44] Ian Lurie: Not looking too good for our undead friend here.
+[1:43:48] Ger'u'do (Grogu): How much, how much freedom movement did I use to get there?
+[1:43:51] Ian Lurie: That would have been 510, 1520, 25
+[1:43:57] Ger'u'do (Grogu): up. I'm going to use 25 more to go right back to where I was. Feel safe, near Drax on songs.
+[1:44:12] Ian Lurie: Shadar Kai stands there again. Sango, your turn. Can you see I magical darkness?
+[1:44:22] Sango: Oh, yeah, I've got, I took that eldritch. Oh,
+[1:44:26] Unknown Speaker(s): that's right. Oh, yeah. Nice.
+[1:44:32] Sango: All right, so we're gonna pop pop again.
+[1:44:35] Unknown Speaker(s): What was it?
+[1:44:37] Sango: 20 to hit?
+[1:44:39] Unknown Speaker(s): That yeah, you hit, or
+[1:44:41] Sango: nine damage. And, ooh, that one sucks. That's 14 to hit
+[1:44:51] Ian Lurie: that misses, okay,
+[1:44:52] Sango: key point for standing strike.
+[1:45:08] Ian Lurie: Got a 15 stunned again. Ian, can't use any of my spells or any of my cool escape stuff. Could you please just impale me if that's what you're going to do here, okay, track, okay,
+[1:45:36] JP: I am going to scooch up behind Mossy, and I'm going To try to push that box onto the Google's head.
+[1:45:50] Ian Lurie: Okay, give me a strength check. I'm assuming you mean the box the second Yes,
+[1:45:57] JP: yes, 17.
+[1:46:05] Ian Lurie: It kind of it starts to move and you realize it's not as heavy as you thought, and you pull it down, and it falls on top of that ghoul. It doesn't doesn't appear to do a ton of damage to it, but it definitely hits it, and the ghoul definitely reacts. And there's no cool tumbling animation. So there you go. We have a levitic box on top of a goal. I just
+[1:46:38] JP: kind of look at gerdo Mossy. I thought that would be so much cooler. Is
+[1:46:43] Unknown Speaker(s): it at least pinned or no,
+[1:46:45] Ian Lurie: the bot, it doesn't weigh very the crate doesn't weigh that much. I mean, you don't know it hasn't tried to move yet. Ghouls aren't super strong, but they're not weak either. So, all right, Mossy, your turn angry, cool, pinned under box. I
+[1:47:09] Unknown Speaker(s): mean, that seems like easy pickings. All right,
+[1:47:15] Ger'u'do (Grogu): good advantage,
+[1:47:17] Ian Lurie: melee to melee to arranged attack, right now, it actually has partial cover. You'd be at minus two. Just
+[1:47:31] Unknown Speaker(s): now, should I only take out my ripe ear? All right, funk,
+[1:47:43] Speaker 1: oh, my God, I think I just missed a Google under a box. Let's hold on. I never use my right beer. So,
+[1:47:56] Unknown Speaker(s): yeah, there's an 11 hit. No, wait, do I have advantage? Since it's a melee,
+[1:48:01] Ian Lurie: I said it, yeah, you do have advantage? Sorry.
+[1:48:03] Speaker 1: Well, I would have to learn to listen then sir and I click a rum. So that's a 14 to hit.
+[1:48:10] Unknown Speaker(s): Oh, that hits, okay.
+[1:48:22] JP: Oh, this is
+[1:48:24] Unknown Speaker(s): six.
+[1:48:26] Ian Lurie: Well, it had taken a whole bunch of other damage. Yeah, you basically poke it like in that one last place that was holding all of its vital tissues together, and it just collapses into a pile of undead goo. Cool. Then
+[1:48:42] Speaker 1: I would like to hop up on the box, because I am a cat and we are inclined to do that. Thank you. Yep. And
+[1:48:50] Sango: over the party line, you hear nice, nice job with the box track, because he can see you, but you can't see him, and
+[1:49:04] Ian Lurie: the box just kind of slides off out of the way. So Ian doesn't have to deal with it. Dan's prerogative. Okay. Gerdo, you see this big blob of darkness, darkness
+[1:49:18] Unknown Speaker(s): and blood. Yeah,
+[1:49:19] Ian Lurie: you hear grunting and hissing from inside the circle of darkness.
+[1:49:26] Ger'u'do (Grogu): Sounds like you got it in there. Sango just gonna, I thought he
+[1:49:30] Speaker 1: wasn't a large anymore. Yeah? Um,
+[1:49:38] Ger'u'do (Grogu): yeah. Gerdo's just gonna stay where he is, since he can't see in magical darkness. Yeah.
+[1:49:46] Ian Lurie: Well, let's see. Shadar Kai considers printing resume, but can't because he's stunned. Sango,
+[1:49:54] Sango: oh, let's pop up. Let's see what happens. That's a 28
+[1:50:00] Ian Lurie: or 29 Yeah, yeah, that's
+[1:50:03] Sango: nine damage. That's a stunning strike or key point.
+[1:50:14] Ian Lurie: No, no, no, unbelievable, stunned again, last
+[1:50:23] Sango: second, pop, 21 to hit, yep, or 12 damage. And something I've been forgetting about is if I use a key point like I did for stunning strike, I get a bonus strike. Okay, so last one is a 27
+[1:50:40] Speaker 3: to hit. Yeah, that hits or eight damage, and it's dead.
+[1:50:49] Ger'u'do (Grogu): It honestly feels like it wasn't, but you're just like, fucking, I'm tired. It's dead, yeah,
+[1:50:53] Ian Lurie: no, pretty much, pretty much. It's just like, he just, she just gave up. She was just like, you know, I'm just gonna, should
+[1:51:02] Unknown Speaker(s): have gone back to night school.
+[1:51:06] Ian Lurie: No vampire, vampiric embrace for me. I'm gone, and you hear all these Well, actually, you see, how did I miss all the ghouls? Do I just not have them here? I literally Oh, because I killed that one God. All right. Well, all the ghouls go running for the door, like this creepy little alien run kind of thing, um, they go running for this door,
+[1:51:47] Unknown Speaker(s): which opens
+[1:51:51] Ian Lurie: one most of you guys can't see, but Sango, that's what you see
+[1:51:59] Sango: over the party line. All these ghouls are heading towards the door at the back. What do you guys want to
+[1:52:20] Ger'u'do (Grogu): do? Gerdo Can't answer because you don't hear
+[1:52:25] Unknown Speaker(s): what door we can't see.
+[1:52:27] Sango: But what I'm pointing at.
+[1:52:31] Unknown Speaker(s): God damn it. Sango.
+[1:52:36] Ian Lurie: JP. JP, you're muted.
+[1:52:42] JP: I'm trying to translate this to gerrito. Gerdo, like, Okay, so there's a door and they're running out, but we can't see anything yet, and apparently only Sango can see in the dark. Don't worry,
+[1:52:54] Ian Lurie: because this happens all the time. Yeah, so Sango, you can see another one of these big boilers right here. You see some ingredients, some bags of ingredients and stuff all around. You see, you know, there's a wagon right here that's got nothing loaded on it. And then the doors which have opened, and all the ghouls scrambling to run out the doors,
+[1:53:23] Sango: I went ahead. I'm going to head into the through the doors and give you guys some visibility here. So hang tight. So I obviously don't want to get ahead of the ghoul, so I'm going to be behind them and let them scamper away. But, well,
+[1:53:49] Ian Lurie: yeah, I'm gonna, I'll move them in a second. Okay, someone decided to have this really difficult to manage area effect spell up, so I have to keep moving around, you know?
+[1:54:02] Ger'u'do (Grogu): And that's when RBG began to eat themselves alive. The Where are they now? And it was a darkness spell that ripped them all apart. There's
+[1:54:17] JP: like that show behind the music. RBG was in the height of their power, but then the sex and the drugs,
+[1:54:29] Unknown Speaker(s): like a dramatic black and white folks
+[1:54:31] Ian Lurie: exactly like it, like a studio 51 kind of, you know,
+[1:54:36] Ger'u'do (Grogu): one day Mossy and large, Sango and rikter decided to take that shit personally.
+[1:54:43] Ian Lurie: Okay, so, Sango, you come out here. The darkness is still, I mean, it's, it's huge, so it's still filling that entire space. So unless you're going to move down the tunnel or into the next room, they still can't see the door.
+[1:55:05] Unknown Speaker(s): Marco,
+[1:55:07] Sango: hello. Does it work so well over the party line, though, that's the problem.
+[1:55:13] Speaker 1: No, I definitely yelled it out loud. Mossy started waiting.
+[1:55:17] Sango: Sango is not going to give away his position by talking out loud. So when you say Marco, he goes over the party line. Polo, uh, all right, are these guys going anywhere in here? Well, they're scrambling
+[1:55:34] Ian Lurie: in all directions. They're scattered directions. So some of them are running down the tracks this way, right when you come out. There's actually two. There's one right here that was pushing this crate along on like a little cart. And it's just it starts pushing faster to try and get that crate out of there. This one goes that way. And then these all i are running in there. And
+[1:56:13] Sango: can Sango see in that room? Might take it?
+[1:56:15] Ian Lurie: Yes, you can see
+[1:56:22] Speaker 1: Mossy we like to steal the gargoyle for our Bastion.
+[1:56:27] Ian Lurie: That's what you see. Okay,
+[1:56:29] Sango: and I could see lots of ghouls. Are there lots
+[1:56:32] Ian Lurie: of ghouls. You see duergar, actually two duergar. Then you see a whole row of these kettle boiler things and flames. They're all just totally lit up right now. And then you see even more of them on the left. Instead of
+[1:56:54] Unknown Speaker(s): your time to fireball,
+[1:56:57] Ian Lurie: you see all kinds of different equipment, stuff in there.
+[1:57:02] Sango: Sango closes the door. Okay, sure. Door closes, closes. He's gonna let the other ghouls make their way down, away.
+[1:57:23] Unknown Speaker(s): Actually, these guys.
+[1:57:26] JP: Sango, can you drop the darkness, please? We have no idea what's happening.
+[1:57:31] Sango: One moment, please,
+[1:57:34] Unknown Speaker(s): God, you said that like five minutes ago.
+[1:57:36] JP: Your request is very important to me. Please, hang on. We're
+[1:57:41] Ian Lurie: experiencing longer than expected, way too
+[1:57:44] Unknown Speaker(s): Okay. There you go.
+[1:57:48] Ian Lurie: And this one you're just going to have to pretend. But, oh no, actually, what am I saying? Hang on, these two start pushing this crate a lot faster.
+[1:58:08] Unknown Speaker(s): Okay, this is where we're at.
+[1:58:10] Sango: And then Sango will move, I guess, left, so that RBG can see this hallway and that door across the hallway, and he's describing to them over the party line what he saw, that there's a bunch of ghouls in there. There's some stuff that Mossy could probably arson. And he's basically kind of creating a darkness wall to the to the left there, so that nobody comes back that way. There
+[1:58:47] Unknown Speaker(s): we go. There
+[1:58:49] Sango: you go. That's that's up.
+[1:58:52] Ian Lurie: So that's what you see now,
+[1:58:54] Sango: yep, there's a whole bunch more of these red things, container things Mossy in that other room, a few dwarf and guys,
+[1:59:08] Unknown Speaker(s): bunch of jewels. How big was the room?
+[1:59:13] Sango: It was like 5000 feet by 4000 feet, I think
+[1:59:16] JP: no numbers,
+[1:59:21] Ian Lurie: so you're like AI, in other words,
+[1:59:25] Unknown Speaker(s): confidently lying
+[1:59:28] Ian Lurie: and no concept of math. Okay,
+[1:59:47] JP: are we an initiative or we need to do
+[1:59:50] Ian Lurie: we're out of initiative at this point. Everybody is so are they
+[1:59:57] Speaker 1: so we could, like, kick open the door. I'd do some fairy fire. Do you just murder?
+[2:00:02] JP: Yeah, let's do that.
+[2:00:07] Sango: Did? Did we? Did I did? Sango, see any shadow Kai in there? No,
+[2:00:13] Ian Lurie: they'd be pretty bad at their job if you did. But no,
+[2:00:17] Unknown Speaker(s): all right, yeah, you're just ready. That's
+[2:00:19] JP: the whole door.
+[2:00:20] Unknown Speaker(s): Fairy fire. And then you
+[2:00:25] Speaker 2: get this. Got this? All right, on your mark. Get set.
+[2:00:29] Ian Lurie: So we got Mossy, going to hear guru. I'm assuming you're right there. Track. You're like, ready to just shoot everybody.
+[2:00:40] Unknown Speaker(s): Okay?
+[2:00:41] Sango: I think it's if things get crazy, guys, I can bring the darkness back over and give you some cover.
+[2:00:49] Speaker 1: Thanks, buddy. And with that Mossy will kick open the door and she's gonna launch fairy fire in and 2020, feet, who doesn't make a deck save is gonna be outlined.
+[2:01:03] Ian Lurie: Yeah, there's no that Google's gonna make a deck save that's like, yeah,
+[2:01:08] Unknown Speaker(s): Dex 18. I mean, I guess their
+[2:01:10] Ian Lurie: intelligence thing would be worse. Um, fail, fail. Oh, succeed. One of them succeeded. Oh,
+[2:01:20] Speaker 1: little guy, and now I'm holding the door open and gesturing in like an excellent host. I would style characters murder,
+[2:01:37] Ian Lurie: so drag you step into the doorway. How
+[2:01:40] JP: many bad guys do I see?
+[2:01:45] Ian Lurie: You see lots. This is what we call target rich environment, fantastic.
+[2:01:50] JP: So I'm going to use my special ability of the bow, okay, to plant an arrow into every single target on the board.
+[2:02:02] Ian Lurie: Oh, this is that ability you keep telling people you have, but you've never shown
+[2:02:05] JP: they've never seen me actually do it, yeah,
+[2:02:06] Ian Lurie: fictional ability. Okay? Scott, yes.
+[2:02:10] JP: So do I do? I need to roll like a shitload of 20s.
+[2:02:16] Ian Lurie: You should have it in the you have the sheet, right? Yep, tells you what it does. Okay? I believe it's just one attack against every one of them. Yes, yeah, so just roll a shitload of D 20s. Okay, okay,
+[2:02:36] Unknown Speaker(s): this map is incredible, by the way. 3318 Okay,
+[2:02:43] JP: 35 okay, critical, hit. I'm 21 just tell me what to stop. 22 okay,
+[2:02:56] Speaker 3: 29 Okay, you got it. Okay, so
+[2:02:59] JP: I got one crit in there. Yep,
+[2:03:01] Ian Lurie: why don't you do that? One first, we'll just do that on this poor buyer. Okay, I'm
+[2:03:12] JP: okay, the crit is a 3015
+[2:03:23] Ian Lurie: so Wait, so 30 damage on them? 30
+[2:03:26] JP: was the crit? Yeah,
+[2:03:28] Ian Lurie: and then 15, and then keep going.
+[2:03:34] JP: And then a 10, okay, and then a nine, and then a 15, and then a 10, another 1011, okay, 16, yeah,
+[2:03:55] Ian Lurie: that should cover it, okay,
+[2:04:02] JP: and that is my action.
+[2:04:04] Ian Lurie: Okay, what you can do anything else. Okay, you realize that nobody saw you? Do that again. Mossy saw me. I guess Mossy may have seen you. Yeah, that's true. No, I
+[2:04:13] Unknown Speaker(s): would like to think that I was actually looking he
+[2:04:15] Ian Lurie: was actually looking at something else. Yeah, then
+[2:04:17] JP: I'm gonna scooch tune to the corner
+[2:04:22] Ian Lurie: into the corner,
+[2:04:23] JP: the corner on the left to not block the door. Okay,
+[2:04:28] Ian Lurie: you're in the darkness, then yes,
+[2:04:30] Unknown Speaker(s): okay, ooh, clever girl,
+[2:04:34] Ian Lurie: you can't you can't see out either. That's
+[2:04:37] Unknown Speaker(s): fine. Okay,
+[2:04:43] JP: all right, Mossy, did you see that? Mossy?
+[2:04:47] Speaker 1: See trying to see if gerdo needed to get right. What did you do?
+[2:04:53] JP: Just look at these back. Every single one of them has an arrow sticking out of their face.
+[2:04:59] Unknown Speaker(s): Yeah, but how do I know they didn't have that already? You suck.
+[2:05:06] Ian Lurie: Um, okay, so for just for the sake of brevity,
+[2:05:13] Unknown Speaker(s): these ghouls
+[2:05:16] Ian Lurie: don't really try to attack. They head for this ladder, and they all try to go scrambling up it problem being that the building on top of this ladder has collapsed because it was on fire, so they are all trying to get out through the through that trap door. And you guys can dispatch them or do whatever you want to do with them at your leisure, but we're not going to run a combat where you're just killing these helpless ghouls. Seems cruel, but you do get to poke around the laboratory now if you want to,
+[2:05:55] Unknown Speaker(s): yes, please,
+[2:06:01] JP: where's the gerdo?
+[2:06:04] Ian Lurie: Good question you don't know.
+[2:06:07] Unknown Speaker(s): Oh, shit.
+[2:06:12] JP: Sango said he saw a duergar.
+[2:06:13] Speaker 1: Yeah, I don't, I don't count a duergar in the pile of bodies right here
+[2:06:21] Unknown Speaker(s): is Sango. Can you see invisibility?
+[2:06:28] Speaker 1: Actually, he would have had to make a save. Even he's invisible, he would have been outlined the ferry fire. Did the duergard make his save? I
+[2:06:45] Ian Lurie: don't think I have to answer that question. Your Honor, who she I will tell you they certainly have better saves than the goals do. But,
+[2:06:59] Speaker 1: and I don't have any more time left on my goggles today. Do? Do, do, do, hey, I'm just gonna start looting things, and if I get stabbed, suddenly, Avenge me. All right, yep,
+[2:07:11] Ian Lurie: okay, so just real quick. This is what this works like. And there actually is a person over looking extremely freaked out,
+[2:07:24] Unknown Speaker(s): kind of nerdy patty. What you doing? I'm
+[2:07:30] Ian Lurie: tending to this equipment, which is very delicate, and I don't want it to explode while I'm in here, if that's okay with you. Yeah, I
+[2:07:42] Speaker 1: blew up another one of those cauldrons upstairs. Whole roof went off. It was, yeah,
+[2:07:49] Unknown Speaker(s): good to know. So what's your cooking? Oak drugs, okay, what kind I think, highly flammable,
+[2:07:59] Ian Lurie: uh, elf cap. Nothing serious. Oh
+[2:08:01] Speaker 2: yeah, that's pretty fun, actually, huh? Okay, it's legal. Yeah?
+[2:08:10] Speaker 1: I personally love drugs, let me tell you. But here's the thing, kazani is kind of fucking with my hometown, so I had to come down here. Well, we all had to come down here. Have you met my friends? We're RBG, one of them is hidden in a big ball of darkness. Actually, if
+[2:08:29] Ian Lurie: you don't mind, Sango, I turned off the darkness because it was driving me crazy. That's okay,
+[2:08:34] Sango: but it lasts for 10 minutes, and he's blocking the door again. Okay,
+[2:08:37] Unknown Speaker(s): Jesus,
+[2:08:40] Ian Lurie: so are you actually standing in the doorway? Yeah?
+[2:08:45] Sango: He sort of Yeah. He gave Grogu a little push in, and he's just blocking the door, we know,
+[2:08:52] Unknown Speaker(s): like the whole hallway. He's still in the hallway. Yep, yep. I like to imagine
+[2:08:55] Speaker 1: the Mossy he's just standing in a pile of dead ghouls while talking to this guy Pretty much,
+[2:08:59] Ian Lurie: yeah. And he's been watching this entire thing transpire, literally. I mean, he couldn't go anywhere. So he's just kind of watching, trying to be as harmless looking as possible.
+[2:09:09] JP: He saw him. What I did, he saw it. That's cool. Make it
+[2:09:12] Unknown Speaker(s): an insight. Check on him. I
+[2:09:13] Ian Lurie: have my eyes closed. I'm sorry. Yeah, you can make an insight. Check
+[2:09:21] Unknown Speaker(s): natural 20.
+[2:09:24] Ian Lurie: He seems like this is above his pay grade and below it at the same time. He's he's just as nerdy as nerds get, but he is this is not something he's used to. Like pitch battles, you know.
+[2:09:36] Unknown Speaker(s): So where'd your duergar friend go?
+[2:09:41] Ian Lurie: The duergar? I don't they disappeared when this all started. It's what they do.
+[2:09:46] Speaker 1: I don't think they can actually disappear, though. So is he in the room still? Or do you like escape? Because there's some buyer up there. They can turn
+[2:09:55] Ian Lurie: invisible.
+[2:09:55] Speaker 1: I mean, yeah, I just, I want to sneak around here, and I don't want to get stabbed by your door guard friends. So I they're not break your out. Leans on to be on the pile of bodies. Help me out here, bubby, they're
+[2:10:08] Ian Lurie: not very stabby people, but I don't know where they would have gone. I don't I can't see invisibility. I don't have any special anything there.
+[2:10:19] Speaker 1: Fair enough. So if you walk past the invisibility, hey, Sango, don't stab him. You can. You can head right on out, because we are going to blow this all up. We have to. It's a whole message. It's
+[2:10:36] Unknown Speaker(s): your free pass. You can go, oh, really, yeah, okay, I'm out.
+[2:10:42] Sango: I'll let him out. Sango, need
+[2:10:44] Unknown Speaker(s): some free equipment. I He's gone.
+[2:10:53] Ian Lurie: Okay, so I'll stop my computer's about to melt, so I'm going to stop all this stuff now.
+[2:11:04] Unknown Speaker(s): Oh, so, okay, so in this room,
+[2:11:12] Ian Lurie: you see these long rows of boilers along one side, and on the other side, you see some tables with much smaller like flasks and boilers on them. And at the same time, you see a few of those crates and then a bunch of smaller crates with, with like, you know, vials and piles of salt crystals or something, or, you know, just all kinds of stuff like that.
+[2:11:43] Unknown Speaker(s): Nice deal components. You can,
+[2:11:46] Ian Lurie: why don't you? You can just write down. There's no point in just write down. Elf cap, yeah, elf cap precursors, that'll do it for now. Are
+[2:11:58] Sango: there any like recipes on the calendars?
+[2:12:04] Unknown Speaker(s): Any books?
+[2:12:06] Ian Lurie: There's some books? No, yeah, okay, grab
+[2:12:13] Unknown Speaker(s): cap precursor and books.
+[2:12:22] Speaker 2: So I think we probably have to blow this up. Am I the other one thinking this? You know, again,
+[2:12:27] Unknown Speaker(s): message thing,
+[2:12:29] JP: you're the
+[2:12:30] Sango: one always think
+[2:12:33] Unknown Speaker(s): of that branding consistency, baby. Oh, we
+[2:12:36] Sango: know. We know, we love you for it.
+[2:12:37] Ian Lurie: Messaging is everything when you just so I describe it to you guys, because the map was flipping around a lot. But out in the hallway. Sango, what you see is that that hallway extends in both directions, as far as you can see, and there are tracks running along the hallway, and the ghouls that were that were pushing that crate, they ran away, pushing the crate down in one direction, and then all along the hallway as well. You see circular openings, like like, you're in a big sewer pipe, and there's smaller sewer pipes off to either side, every 50 feet or so. There's basically side passages.
+[2:13:19] Sango: Any mutant turtles done any of those side passages?
+[2:13:21] Ian Lurie: No mutant turtles. If Cregan were here. I had so many jokes ready, but not so I got nothing if
+[2:13:30] Unknown Speaker(s): creating a bit by a where rat, it would be perfection. You'd be the Ninja Turtles all in one.
+[2:13:37] JP: Do we need to go catch that crate? Crate the wind, the goals are pushing. I
+[2:13:45] Speaker 1: mean, I imagine it's full of more drugs. I figure we should figure out how we're going to blow this up at a safe distance. So do we want to we can go that way for sure. Yeah,
+[2:13:54] Ian Lurie: guys, give me a Give me two minutes. You can carry on. I'll be right back.
+[2:14:01] Sango: I could go down one direction, see what's down there. You guys could go down a different direction, see what's down there we get party line and communicate
+[2:14:12] Unknown Speaker(s): what we're going to do. Should we split the party? Though, again, my dog is being such a hand right now? Is your life so hard? Yes,
+[2:14:44] Sango: I you know what we should do? We should let the new guy tell us what he thinks should happen.
+[2:15:00] JP: So I lose your city.
+[2:15:04] Ger'u'do (Grogu): No, no, I'm just, just a traveler over here. I don't I don't like it here. This is dreary and mundane, and if it weren't my job, I would not be here, alright. But so far, Mossy is the reason that we found all this stuff by burning down the other home and getting the cook to talk. If we search and don't find anything, I say we blow this place up. I No, the dog agrees with me.
+[2:15:58] Speaker 1: No, she won't let me let her out back and let her go eat poop. So, steroids, okay, steroids and a brain tumor. She has some strange behaviors now in life, and we're adapting.
+[2:16:16] Unknown Speaker(s): Here Ian,
+[2:16:21] JP: if I know anything about drug readiness or drug stuff, I imagine that there's a lot of money here somewhere. Oh, maybe not.
+[2:16:37] Unknown Speaker(s): Usually some keep the money where the drugs are. Yeah,
+[2:16:40] Sango: this seems more like manufacturing, but he would be with the boss guy, probably right.
+[2:16:47] Unknown Speaker(s): But by the way, I personally love drugs
+[2:16:54] Speaker 1: that that give me advantage on the persuasion check. I'm writing that down somewhere.
+[2:17:00] Ger'u'do (Grogu): I still, every time I see those lights in the back you place, Jamie, I'm like, yo your spots on fire. Them like no. Jamar, it's not their light. I
+[2:17:09] Speaker 1: hold my my candelabra with LEDs that look like actual flame.
+[2:17:17] Ger'u'do (Grogu): Heal it flame is telling us light it on fire.
+[2:17:21] Unknown Speaker(s): Okay, so what's the plan? Blow up, go down quadrant or hallway,
+[2:17:30] JP: well, chase the ghouls who are who are pushing the carts try to overtake them.
+[2:17:37] Ian Lurie: So blowing up like any particular plan or Yeah,
+[2:17:42] Unknown Speaker(s): so in our bags we have some fun improvised explosives I think we've made.
+[2:17:53] JP: You probably make a fuse.
+[2:18:02] Speaker 1: Yeah, would you use something with a fuse? That's a thing, child. I
+[2:18:16] Sango: Well, Mossy is rummaging through her back my views. Sango is going to walk down the hall and, oh
+[2:18:21] Speaker 1: yeah, I have a gourd grenade. I have a couple of gore grenades so we can do it.
+[2:18:25] Ian Lurie: Do they okay? And did they just instantly go off or no,
+[2:18:29] Speaker 1: they have fuses on them. So what I'll do is light them mage, hand them in, and then we book it down the hall. Okay,
+[2:18:39] Ian Lurie: give me, well, you're just how many are you gonna throw in?
+[2:18:45] Speaker 1: Just one that back corner has another cauldron, and I don't want to have quite the same impact. So Tobias time, I'll just put it towards the middle of the line of still.
+[2:18:58] Ian Lurie: Okay, give me a just give me a range attack roll. I was
+[2:19:05] Unknown Speaker(s): just going to maintain it over, but,
+[2:19:07] Ian Lurie: oh well, yeah. Well, if you may, hand it over. The problem is it might go off before it, I mean, mage hand only moves it, what?
+[2:19:22] Unknown Speaker(s): 16 plus whatever modifier.
+[2:19:25] Ian Lurie: That's fine. So the gourd rolls into the middle of the room and it's going to send you guys turn and run away as fast as you can
+[2:19:34] Unknown Speaker(s): close the door. Yeah. Wow. Okay, it goes off. We
+[2:19:43] JP: got to walk real slow away from
+[2:19:46] Unknown Speaker(s): our building.
+[2:19:48] Ian Lurie: You guys need to all give me dexterity saving throws. Oh,
+[2:20:02] Unknown Speaker(s): 1930, 20, okay,
+[2:20:08] Ian Lurie: so it sounds like the world is ending. Behind you, the doors are actually blown out. And this is more of my wonderful die rolling, by the way, because the boilers had a saving throw, and I rolled a four. So all the boilers go off. And you have to picture this, because, since you're not in there, but you have to picture like one boiler, like, for a minute, this little jet of gas and flame comes shooting out of it, and then the next one, the same thing happens, and then the next one, then all of a sudden, the first one detonates, and then they all go at once. You're all knocked off your feet, the iron doors are blown right off the wall, and, you know, sort of Matrix style, and they bang up against the other side and then fall flat outside that entire building that was burnt out, kind of rises into the air a foot or two, and then comes back down and collapses into this huge hole that you've now created. You guys all take, it's true, I did not have enough dice, so I had to use digital die roller. You guys all take 35 points of bludgeoning as bits of ceiling and rock fall on you, and the concussion wave hits you, and it's just all bad. It's just, it's a mess. It's It's really sad. If we
+[2:21:38] Sango: save, do we take half? That was
+[2:21:41] Ian Lurie: half? Okay? What
+[2:21:42] Sango: if we have evasion?
+[2:21:44] Unknown Speaker(s): Um,
+[2:21:46] Ian Lurie: yeah, okay, then you avoid the damage. Yes, that's true. I
+[2:21:49] Unknown Speaker(s): have evasion. Okay, well,
+[2:21:50] Ian Lurie: then three of you do, never mind, then you all take the damage. No,
+[2:21:54] Sango: sorry, drag.
+[2:21:54] JP: Sorry. No tracks like, like singed, it's finished.
+[2:22:02] Unknown Speaker(s): And bruised, both Mossy, just turns the drag and just
+[2:22:07] Sango: like three of us are slow walking out of there, just nothing. Oh yeah, we're dragging
+[2:22:14] Ian Lurie: the slow motion, and you can't so you can't exit the way you came in anymore, because that's all gone. So the whole tunnels collapse, so you can keep going in the direction of the ghouls that were pushing that crate. There's also, well, it there's also so much dust in here. Now it's going to take a minute, but you know that you've got the tunnels off to each side, the smaller pipes off to each side, and then you've got the big tunnel again, that's in front of you, where the crate was being pushed. That's all you can see right now. And it's all kind of, you know, choked with dust. And there's a couple more secondary explosions, by the way,
+[2:22:56] JP: who enjoyed this cool I would just, I have the impression he would just this.
+[2:23:02] Ian Lurie: This would be ger's Jam. This would very much be Guthrie's jam, although, who would really enjoy it would be hex them and feigned out they would really find this to be entertaining. Gunther would rather go in and cut everyone's throat right
+[2:23:15] Speaker 1: now. She just got to do so much arson.
+[2:23:24] Ian Lurie: Okay, what are you guys gonna do?
+[2:23:29] Speaker 1: Drag. How you doing, buddy? Once we're once we're out of the dust, I think we're walking up towards where the they were pushing the crate, right?
+[2:23:38] JP: No, checking my bits and pieces. I'm like, Oh yeah, most of my hair is gone. Like I have one eyebrow left.
+[2:23:51] Speaker 1: Okay, you need some healing before we keep going. No,
+[2:23:55] JP: it's mostly cosmetic damage.
+[2:23:58] Unknown Speaker(s): I got some potions, although, hold on,
+[2:24:04] JP: there we go. Just kind of get that. I'll create
+[2:24:07] Ian Lurie: the cool yeah, the cool yeah. That's right
+[2:24:14] Ger'u'do (Grogu): underneath his eyes. You just see written callistria 316
+[2:24:24] JP: for you girl, you
+[2:24:28] Unknown Speaker(s): don't need healing before we keep going. We're
+[2:24:31] JP: good. How's everyone
+[2:24:31] Unknown Speaker(s): doing? Checking in?
+[2:24:35] Ger'u'do (Grogu): Oh, I'm at my new hit point limit.
+[2:24:40] Unknown Speaker(s): Yeah, you um, you got chopped a little bit there.
+[2:24:48] Ger'u'do (Grogu): I fought necrotic creatures before. They are no fun.
+[2:24:53] Speaker 1: You shouldn't you're doing okay because you look weaker than me and I am notoriously squishy.
+[2:25:03] Ger'u'do (Grogu): I will be good if we can punch some more things in the face. Oh,
+[2:25:07] Unknown Speaker(s): that we can do, yeah,
+[2:25:08] JP: look to that.
+[2:25:11] Sango: You know, I can tell you rikter's Friend,
+[2:25:15] Unknown Speaker(s): you get hit a lot.
+[2:25:21] JP: I can imagine they hit each other's just for fun.
+[2:25:25] Ger'u'do (Grogu): You know, there were some games we used to play as kids that boiled straight up to punching the shit out of each other in various body parts. Ball tag. You do some other shit when you're broke.
+[2:25:45] Ian Lurie: So what you gonna do? You chase after the crate, chasing after the crate. Okay, they're going pretty fast. Hi
+[2:25:55] Unknown Speaker(s): ho. While we're doing it, you
+[2:25:58] Ian Lurie: guys can if you wanted to run, then you will be able to catch up to them. Okay, you actually catch up to them pretty quick. They are still just pushing the crate. They actually do not pay attention to you. They just keep pushing the crate. And you figure it probably took you, it took you a few minutes to catch up to them. So you figure you probably went pretty far. You know, you've gone. You probably gone a quarter half mile by now,
+[2:26:31] JP: what's in the crate?
+[2:26:34] Ian Lurie: So you kill the ghouls. I assume I'm not going to bother running it. You just kill them.
+[2:26:38] Unknown Speaker(s): Just ask
+[2:26:41] Ian Lurie: them. So you pry the crate open and in it there are. There is just a huge pile of elf cap, just a massive pile of it, more than you've ever seen in one place. I wonder how much of
+[2:26:55] Sango: this you can put in your bag to hold it.
+[2:27:05] Speaker 1: I will take out. I just grabbed a bunch of stuff from the lab. If there were any clean, empty thing, it'll just scoop a little in there. Okay,
+[2:27:12] Ian Lurie: all right, you can, you can scoop in a few doses. Add that to your corona.
+[2:27:24] Speaker 1: If so many damn custom items, I a
+[2:27:33] Unknown Speaker(s): custom item, 48 elf cap,
+[2:27:37] Ian Lurie: and you can mark down. Mark down, eight doses would
+[2:27:41] JP: be something blonde would enjoy.
+[2:27:45] Ian Lurie: Long's not no blondes more of a clean living kind of person that's
+[2:27:48] JP: Ian kind of figured but like, we should get Roxy high Roxy. Roxy
+[2:27:54] Ian Lurie: might really like it. You know, as a beholder, Roxy spends most of her time in a state of altered reality. Anyway, bring
+[2:28:01] JP: some make sure we get someone from Roxy.
+[2:28:04] Unknown Speaker(s): Oh, I want to hang out with Roxy. Mr. Roxy, she's a creature
+[2:28:07] Ian Lurie: who can literally drink things into existence. So you're not sure what would happen if she was stoned, but it
+[2:28:14] JP: could be ugly or
+[2:28:15] Unknown Speaker(s): amazing. Could just still feel like
+[2:28:18] JP: there's a middle of the road between regular Roxy and drugged Roxy. Um,
+[2:28:29] Ian Lurie: so you do notice where you are now that it looks like the tracks go, you're pretty sure you can see the end of the tracks up ahead. Okay, and there's stealthy. Okay. Everyone gonna give me stealth checks.
+[2:28:45] Unknown Speaker(s): I'm gonna throw up bros blessing. Yeah.
+[2:28:54] Ger'u'do (Grogu): 4932
+[2:29:01] Unknown Speaker(s): 32 okay,
+[2:29:05] Ian Lurie: the sounds of the exposure are still echoing like in your brains, but also up and down these halls, and there's still a ton of dust, so it's pretty easy for you guys to move very, very quietly. And you get to what looks like a gigantic ramp, and the tracks go up the ramp, and at the top of the ramp, it's what almost looks like a cellar door, like a storm cellar door that's closed right now.
+[2:29:39] Speaker 1: Well, it's clearly a time to go investigate and see what we can perceive coming inside. Ian,
+[2:29:51] Unknown Speaker(s): uh, windows,
+[2:29:54] Ian Lurie: no windows. There's just those two massive doors
+[2:29:56] Speaker 1: like ear up to the door. Did we hear anything? Give me a perception check.
+[2:30:06] Unknown Speaker(s): Oh, I juice boxed you
+[2:30:08] Ian Lurie: did. It's totally quiet.
+[2:30:13] Unknown Speaker(s): It's also a constant ringing. Yes,
+[2:30:15] Ian Lurie: your ears are ringing. Actually, that's not
+[2:30:20] Sango: all right. Is there any gaps in the door? It's see through.
+[2:30:23] Unknown Speaker(s): No, no, okay?
+[2:30:27] JP: And direct scramble up on on top of the roof and look for any like boost boards or what
+[2:30:34] Ian Lurie: are you going up on top of the
+[2:30:35] JP: warehouse?
+[2:30:37] Ian Lurie: No, you're not
+[2:30:38] Unknown Speaker(s): underground. You're underground.
+[2:30:39] Ian Lurie: You're still in the you're still in the the tunnels. There's ramp up to a set of doors that would get you out of see you weren't supposed
+[2:30:47] Sango: to give him any of that stuff till we're out of here.
+[2:30:52] Unknown Speaker(s): I'm not his supervisor.
+[2:30:54] JP: I guess we should just open them. What if they're trapped? I
+[2:31:01] Speaker 1: can check it for traps, but it seems like it's a delivery point, so it would be weird to trap it.
+[2:31:06] Sango: I don't want to just, you know, barge it and uncheck the door that would be reckless.
+[2:31:13] JP: We can all push the crate,
+[2:31:18] Speaker 1: the crates in front of us, and the crate goes through first, yes,
+[2:31:24] JP: like, put our heads, and then just try to push the crate through. And now we'll because that's, that's what they expect, right?
+[2:31:30] Speaker 1: Why don't, like two of us hide in the crate and the other two push it, and then we can push.
+[2:31:35] Unknown Speaker(s): Yep,
+[2:31:38] Ian Lurie: you're gonna Hobbit wood off this shit. Okay,
+[2:31:40] JP: yes, oh yeah, only
+[2:31:42] Ian Lurie: in reverse.
+[2:31:45] Unknown Speaker(s): All right. Who's getting in the crate. I'll push I mean, I'm good with sneak attack, so I'm going in the crate. All
+[2:31:53] Sango: right, I'm just going to be invisible and walk behind the crate.
+[2:31:56] Speaker 1: Oh, okay, fine. Don't crate. Snuggle with me.
+[2:32:02] Unknown Speaker(s): Can't believe I enlarged you. I
+[2:32:11] Ger'u'do (Grogu): God damn. All right,
+[2:32:17] JP: Where's, where's ger's going?
+[2:32:21] Unknown Speaker(s): You're pushing the grate. Push
+[2:32:22] Ger'u'do (Grogu): the crate, because it'll look weird if only one person's pushing, yeah.
+[2:32:25] JP: All right, let's do this. All right. We gotta look like we own the place, like we belong here. So who's
+[2:32:33] Ian Lurie: gonna open the door?
+[2:32:36] Unknown Speaker(s): I got Sango book. Sango, visible. Sango, aren't you visible?
+[2:32:40] JP: Yep,
+[2:32:41] Sango: I can still open the door. Okay,
+[2:32:45] Ian Lurie: Sango, give me a constitution, save Shit, shit. It was trapped inside
+[2:32:59] Unknown Speaker(s): the crate. My bad.
+[2:33:04] Sango: That is 19.
+[2:33:07] Unknown Speaker(s): Okay, you take
+[2:33:12] Ian Lurie: this kind of sickly, greenish light sort of envelops you. It's not so much that there's a beam or anything, just kind of envelops you. When you push it on the door. You take 814, 15, 1617, you take 20, necrotic but you it does not reduce your hit point maximum.
+[2:33:35] Sango: I'm invisible. So nobody sees any of that except the green stuff. You
+[2:33:39] Ian Lurie: see the green light. Yeah, you basically you see, and he sees Sango outlined by green light. He's like this, and sort of frozen there for a second. So it wasn't really necrotic, but it's just you felt really sick when it hit you.
+[2:34:00] Unknown Speaker(s): Took care of that. Door still closed.
+[2:34:08] JP: Can't try again, though.
+[2:34:12] Sango: Never know. Bossy. Sweet, would you? Could you? Could I bother you to maybe do some Trappy? Trappy? Rogi? Yeah.
+[2:34:23] Speaker 1: Ian, hop out of the crate and check for traps. Okay,
+[2:34:27] Ian Lurie: give me a well, you don't have to check. You're just going to do a disarm trap. So
+[2:34:34] Unknown Speaker(s): what is that these tools? Ooh, 13. Give me a constitution. Save. Ah, dumb.
+[2:34:50] JP: 13. 13, uh,
+[2:34:58] Ian Lurie: you take 23 points of necrotic, and that does reduce your hit point maximum.
+[2:35:02] Unknown Speaker(s): Oh, dumb,
+[2:35:08] Ian Lurie: basically, you were working on it, and you think you figured out how to how to disarm it, but while you were doing it, you know, your ears are still ringing, you're still shaking a little, and you just poke the wrong switch. And instead of disarming the trap, you close the the switch that made it fire, and you got hit by the the effect, so now you saw Mossy there, outlined in green light, like this. Well, Mossy. You know how to disarm it now you just
+[2:35:44] Unknown Speaker(s): can I try again. Yep.
+[2:35:51] Ian Lurie: 27 There you go. Okay, disarm it. No problem. You basically pull out this little cylinder and this little switch, and the cylinder has some kind of rune on it, and, you know, the trap is now disarmed.
+[2:36:09] Unknown Speaker(s): Got it and I go back in the crate.
+[2:36:17] Sango: All right. Is it unlocked?
+[2:36:21] Speaker 1: Yes, wait, oh, I didn't check and see if it was locked. Is it back up out of the crate?
+[2:36:28] Ian Lurie: It is indeed locked. Yes, can I
+[2:36:30] Speaker 1: pick the lock? Please? No, I can't. That was a whopping n. Okay,
+[2:36:38] Ian Lurie: no, yeah, this is a pretty sophisticated lock. You can keep working on it, but you definitely didn't get it that time.
+[2:36:46] Unknown Speaker(s): Okay, this time was a 23 okay,
+[2:36:49] Ian Lurie: so you, you actually broke off the lock pick inside it. You pull that out, you, you work your way through the lock. Lock comes open, and you get back into your into the box, yes,
+[2:37:06] Sango: after, after she's finally unlocks the lock. Sango comes up, puts his arm around her, gives her a hug, and says, We're the best,
+[2:37:17] Unknown Speaker(s): that we are the elite.
+[2:37:21] Ian Lurie: Okay, so the doors slide to the side, basically, and they they roll on these casters or something, because they slide very smoothly. And when they're done, you see that the ramp leads up through the floor of some kind of building. You're not sure where you're emerging, and you just, so you guys just push the box out into the space.
+[2:37:48] JP: Well, like, it's more about Ian Short answer, yes, but it's like, how we do it? Like, scan,
+[2:37:54] Ian Lurie: scanning
+[2:37:54] JP: the area, taking a note. Like, are there other people here? Are they dressed differently as it just cool labor.
+[2:38:01] Ian Lurie: Okay, give me, let me get
+[2:38:04] Unknown Speaker(s): the goals to unionize right?
+[2:38:07] Ian Lurie: Give me a perception check as you're pushing
+[2:38:14] Sango: the we look at the box and it's got a little a and a, what'd
+[2:38:22] JP: you say? JP, that's a Natural Twine. Okay,
+[2:38:27] Ian Lurie: you do notice there's a symbol on that? No, you you push the box up to the top of the ramp, and at the top the tracks stop. There's no tracks after that. So you kind of slide the box up, and you don't hear any people up there or and as you come up, you don't see anything. But because of your perception role, you look around and you immediately realize you're in the basement underneath the Temple of Shar he's been there, and the doors that slid out of the way um are covered with the rugs and furniture that would have been sitting on that spot when you came out of the portal the first time.
+[2:39:19] JP: I kind of looked up the cover of the Lego we're back in the temple show,
+[2:39:29] Ian Lurie: and you do see the portal there, but it's it's not glowing right now.
+[2:39:38] Unknown Speaker(s): Well, I mean, mission accomplished. I love to note for our new friends. Was
+[2:39:49] JP: there anything else we needed to do? Is really, like we talked to, like, a couple of people back at the club, do we need to kind of go back them, back there and let them know what we did? Or, like, what's the next step? Because I
+[2:40:11] Ger'u'do (Grogu): Yes, we probably should let them know what's going on, because this could become very dangerous for a lot of people. Yeah,
+[2:40:22] Ian Lurie: yep, pretty safe bet that all hell's going to break loose. Now, I mean, it already did, but it's going to break looser?
+[2:40:30] JP: Yeah, we blew up a bunch of stuff. There's gonna be a response, and they
+[2:40:35] Unknown Speaker(s): know who did it. Yes, we literally left a note. So I would hope so well,
+[2:40:40] Ian Lurie: but they also know that gerdo was involved, and they know they may know where gerdo spends his time, so
+[2:40:48] JP: we should get you the fuck out, right?
+[2:40:53] Ger'u'do (Grogu): Let's
+[2:40:56] JP: also, we can't leave creed in here. No. Also, we can't leave rikter Here. No. Also my twins,
+[2:41:10] Unknown Speaker(s): that's what they called chain migration.
+[2:41:16] Ger'u'do (Grogu): We should, yes, we should probably get as many people away from the danger as possible, but we hopefully have put a dent in Noctis is plans. Yeah,
+[2:41:37] JP: all right. So do you have a Do you have a space, a safe space for kind of like Ian? Because obviously we're gonna go back to something here at some point.
+[2:41:56] Ger'u'do (Grogu): Do you save space for woke people?
+[2:42:07] JP: Do you need to stay with us to because apparently you're going to be a pretty wanted person.
+[2:42:14] Ger'u'do (Grogu): It's not, I don't first place. You're going
+[2:42:16] JP: to look it's going to be so I'm here.
+[2:42:17] Ger'u'do (Grogu): I don't need to stay with you guys. I would like to, because part of what I came here to do was to find out what was going on. And now that I'm in it, I'm in it
+[2:42:30] Unknown Speaker(s): post arson sleepover.
+[2:42:36] Ger'u'do (Grogu): Also, I'm sure rikter has some other things he wants to say to me so staying around so that he can stop being himself and be open and honest would be good too.
+[2:42:53] Unknown Speaker(s): Well, he does crimes now it's great.
+[2:42:57] Ger'u'do (Grogu): Oh, I have some stories about him and crimes back in the day I'll happily share and embarrass the hell out of him. You
+[2:43:06] Ian Lurie: Mossy. You're getting him back into the groove. I just want to point out that you're getting rikter back into the groove. Um, okay, so what's your guys plan? Are you planning to go back to salmure now?
+[2:43:19] JP: No, we need to go back, because we can't leave rikter. We can't leave
+[2:43:25] Unknown Speaker(s): those, those folks,
+[2:43:29] Ian Lurie: all those important people,
+[2:43:30] JP: yeah, mostly the twins, though, and your children.
+[2:43:37] Unknown Speaker(s): Okay, so I guess
+[2:43:38] JP: we need to go back to that, the club where candy lives,
+[2:43:43] Unknown Speaker(s): sindra Haven That's right.
+[2:43:47] Ian Lurie: And that's also where gerdo was staying. It's where you guys are staying as well. So, yeah,
+[2:43:56] Speaker 1: wonderful. Make me a custom cocktail called arson at the stash house. It's like Panic at the Disco, but more fun
+[2:44:06] Sango: are we close to that place. It's not
+[2:44:09] Ian Lurie: a big city. It's not
+[2:44:10] Sango: a big city. You're
+[2:44:11] Ian Lurie: maybe a 20 minute walk, okay,
+[2:44:16] Sango: yeah, maybe we should try to do that. Maybe some Pass Without a Trace.
+[2:44:22] Ger'u'do (Grogu): Do we want to stop and get your twins and rikter Before we go? Just so we're a bigger party. Because I don't know if you can tell by the holes in my body, but I'm not, I'm not doing too good. Mister Stark, well, they,
+[2:44:36] Ian Lurie: they're all at Cinder Haven as well. So, yeah, that's where you're going anyway, right? Yep,
+[2:44:44] Unknown Speaker(s): no, you cannot go outside.
+[2:44:47] Sango: Well, Mossy says we can't go, that
+[2:44:49] Ian Lurie: we can then you're stuck in the town
+[2:44:51] Speaker 1: that was to Keely. She is a little hellion. Mossy
+[2:44:55] JP: is not the boss of me. I'm gonna go.
+[2:44:59] Sango: I withdrack. We could stand up, you
+[2:45:05] Ian Lurie: guys, you guys sneak out of you guys sneak out of the temple of shar, which isn't that hard. The hardest part is getting up into the temple without anyone noticing you do you close the doors back up before you come upstairs? Oh,
+[2:45:22] Unknown Speaker(s): yeah, I shouldn't
+[2:45:22] Ger'u'do (Grogu): have
+[2:45:23] Ian Lurie: asked. I should have just assumed you left them open just for fun. But that seemed like a pretty big, pretty big miss, like that
+[2:45:33] Speaker 1: time we left the twins in another realm after we defeated Kraken there.
+[2:45:37] Ian Lurie: Yeah, that that was not great, but you, you guys head through the city.
+[2:45:50] Speaker 1: Okay? Going to be pass about trees less an hour, so it might still be up from well,
+[2:45:54] Ian Lurie: and you're not even, I mean, it would come down right before but the the city is honestly in chaos right now. There is this enormous explosion in the wards and even here in the Shadowfell, that's bound to attract some attention and concern. So the streets are this weird mix of quiet and tense at the same time, and as you're moving through all the streets and everything, people really are not paying attention to you. You get to Cinder Haven without any trouble.
+[2:46:40] Speaker 1: Running fine, rikter covered in soot and chaos you miss so much arson.
+[2:46:46] Ger'u'do (Grogu): Rikter just gives you a big hug and says, Oh my God, I am surprised that you look this terrible and yet so amazing. What the hell did you do?
+[2:46:57] Ian Lurie: You guys heard the explosion.
+[2:47:01] Ger'u'do (Grogu): Let me guess the the big that was, yeah, you're
+[2:47:05] Ian Lurie: two miles away and you heard it. Think you know, enormous gas, main explosion. That's what it would have been like.
+[2:47:14] Ger'u'do (Grogu): Wow. Sorry to have missed the fireworks.
+[2:47:22] JP: Your bones pretty cool. Your body's pretty cool. He helped out quite a bit.
+[2:47:27] Speaker 1: We'd love to know for kasnani, just so you know, simple ground rules of state. The fuck out of cell. Muir, XOXO. RBG,
+[2:47:39] Ger'u'do (Grogu): okay, so we were going for the full direct route. Awesome. I like that. Yeah,
+[2:47:44] Speaker 2: we were gonna be stealthy, and then we got bored. We'll
+[2:47:48] Ger'u'do (Grogu): see you. Stealth was the whole reason I stayed back here, because, you know, the clank, Clank, Clank doesn't really help with the stealth, but if I had known we were just busting down doors, would have moved that but I'm glad. And he claps gerdo on the back really hard. I'm glad he was a help. Ger's
+[2:48:03] Ian Lurie: like, Oh,
+[2:48:07] Unknown Speaker(s): um, where
+[2:48:10] Ian Lurie: are you guys? Do you go up to your rooms, or are you staying downstairs?
+[2:48:17] Ger'u'do (Grogu): Gerdo's gonna walk and talk to the the two owners and just tell them what's going on and warn them. And then he's gonna go, yeah, rest, because he is okay.
+[2:48:32] Ian Lurie: Yeah, Dante and Duma. When you talk to them, they they look at each other, and they nod to you, and then they head into the back room. You're not sure what they're doing.
+[2:48:46] Sango: Do they have a like a bigger room instead of a couple little ones?
+[2:48:52] Ian Lurie: Well, the rooms you have are pretty big, and if you guys all wanted to be in one room, you could certainly fit. I'm thinking
+[2:48:59] Sango: like, you know, Lord of the Rings, The Ring wraiths are going to attack one room. We should be in a different room.
+[2:49:10] Unknown Speaker(s): And they don't have that. You're
+[2:49:11] Ger'u'do (Grogu): trying to, I thought you're trying to do a Sango tango.
+[2:49:15] JP: Sango, Sango. I was gonna try to get enlarged again.
+[2:49:23] Ian Lurie: I just, I'm, yeah, we're
+[2:49:25] Ger'u'do (Grogu): the fucking worst. We're the worst.
+[2:49:35] Sango: Reagan's got a tiny hut that can offer some protection unless
+[2:49:39] Ian Lurie: you're enlarged, in which case,
+[2:49:42] Unknown Speaker(s): oh, there's that. No, not, no.
+[2:49:47] Ian Lurie: He said, For protection, yeah, tiny hut.
+[2:49:53] Ger'u'do (Grogu): Gerdo walks up and says, It's been a long time since rikter and I had to sleep over. I would like to see your tiny hut.
+[2:50:02] Sango: No, it sounds weird when he says it, though it's like I just offered like a normal situation for Ed. Never mind, never mind. I
+[2:50:12] Ger'u'do (Grogu): don't know what you're talking about. You said you had a tiny hut, and I just said I would like to see, you know, what
+[2:50:17] Sango: some people call it, a big hut. I'm just, you know, just, it's all about perspective. Do you want me
+[2:50:23] Unknown Speaker(s): to cast large on your hut? Buddy, my
+[2:50:26] Ger'u'do (Grogu): brother, whatever size your hut is, I'm sure it's beautiful.
+[2:50:30] Sango: It's the first time I've heard that
+[2:50:35] Unknown Speaker(s): your hut is made in God's image.
+[2:50:40] Sango: We're the worst. You
+[2:50:41] Ian Lurie: guys are first, yeah, but as a DM, all I can do is just sit here and let it all happen. So So you guys want to get a long rest, I'm assuming. Okay,
+[2:50:58] JP: we should also set up a watch. Okay, so I'll take first, pretty
+[2:51:06] Speaker 1: scorched. Are you sure I can take first? Oh,
+[2:51:10] JP: no, I'm I'm good, like rikter.
+[2:51:11] Ger'u'do (Grogu): Will rikter will take first? Rikter hasn't been doing anything Mossy.
+[2:51:18] Sango: Do you have, like, a Disguise Kit or something? Yeah,
+[2:51:21] Unknown Speaker(s): Drak
+[2:51:22] Sango: needs another eyebrow.
+[2:51:25] Speaker 1: So before bed, I'm going to sit there. I'm going to get on my tools, my forgery tools.
+[2:51:31] Ian Lurie: Draw one on, give me a performance check. Give me a performance check,
+[2:51:34] Sango: even so it's just like white as dracu.
+[2:51:45] Ian Lurie: I mean, it's clearly fake. There's
+[2:51:47] Unknown Speaker(s): there's sisters, not twins. It
+[2:51:49] Ian Lurie: looks awful. It looks awful, but you did not end up with, like, you know, Clockwork Orange kind of stuff. So could have been worse. I guess it
+[2:51:58] JP: could have been. JP, I mean, it could have
+[2:52:00] Ian Lurie: been JD, vents. You just
+[2:52:02] Unknown Speaker(s): have, like, one drag queen brow with, like, an insanely high, oh, exactly,
+[2:52:06] Ian Lurie: exactly. So then, but then, because you decided to also do that on the you decided to do that on the other side too, to even it out, and it just kept going.
+[2:52:15] JP: And they're totally bedazzled.
+[2:52:17] Ian Lurie: There's kind of like a Brooke Shields, Inc, thing going on right now.
+[2:52:21] JP: All right, no, I
+[2:52:23] Unknown Speaker(s): extend them further. You could be the monarch. Nice, nice.
+[2:52:35] JP: Dr girlfriend approves.
+[2:52:38] Ian Lurie: That's probably a good place to wrap up. Sure How much more of this I can take. So next game is supposed to be in two weeks. I will be in New York at SEO week, so I won't there, but we could do the week after that, if you want. So just instead of waiting four weeks, I'll send you dates and all that kind of stuff. Yeah, can't think of anything else. Think about your next steps, right? You remember you can't go back to sound Muir for another 27 days if you wait for Earth, sorry, 24 days if you wait for the the portal to open. So that's right,
+[2:53:27] Sango: maybe we should have done arson on the 23rd day, instead of the first, just kind of think of that, they threw in my mind, maybe we should have never mind.
+[2:53:41] Ger'u'do (Grogu): All right my friends y'all have a good night.
+[2:53:43] Ian Lurie: Cool, thank you guys so much. I'll talk to you later.

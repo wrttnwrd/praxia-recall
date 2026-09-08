@@ -1,0 +1,827 @@
+# Ian's Meeting Notes
+# Otter recording 2025/05/26 16:55:21 (2h 53m) id CewDTSgIy_fgMk37OG-mgr6Ntwk
+# https://otter.ai/u/CewDTSgIy_fgMk37OG-mgr6Ntwk
+# Speaker-attributed transcript, verbatim. Raw source for the card at /items/otter/2025-05/2025-05-26-rbg.md
+
+[0:03:01] Unknown Speaker(s): Hey, Ian, Jen, Hey,
+[0:03:03] Ian Lurie: how's it going? Oh,
+[0:03:07] Jamie Indigo: so after I finally managed to Flex Seal my swamp cooler together enough to stop leaking, discovered the float valve won't go into an off position,
+[0:03:19] Ian Lurie: so that means water everywhere, or
+[0:03:22] Unknown Speaker(s): it's just, it's warm water down my roof, nice.
+[0:03:26] Ian Lurie: So, do you need it yet?
+[0:03:30] Unknown Speaker(s): It's gonna be 95 on Monday. Holy
+[0:03:33] Ian Lurie: shit. Yeah, you need it? Yeah, it's gonna hit 80 here this week, which is, you know,
+[0:03:37] Jamie Indigo: I got a quote for a new one, and it's like eight grand. But I'm also going, it's not going to last another year, and if I buy it now, at least before tariffs. But wait,
+[0:03:51] Ian Lurie: and I guess, like everything, some song coolers are not made in the US. So
+[0:03:57] Jamie Indigo: no, it's an Australian one. I like my plumber a lot like I like the people that go through. They're not the cheapest by any fucking means,
+[0:04:06] Ian Lurie: yeah, but that doesn't necessarily mean the
+[0:04:10] Unknown Speaker(s): cost of trust issues. Yeah, more.
+[0:04:15] Ian Lurie: I don't think we have any tariffs against Australia, if that helps at all
+[0:04:20] Unknown Speaker(s): components, though, oh yeah,
+[0:04:24] Jamie Indigo: components in it, even if it's from Australia, and there's not anymore you can, like, figure out how much they're gonna fucking change. Yeah?
+[0:04:32] Ian Lurie: No, no, that's true. Yeah, Harrison,
+[0:04:36] Unknown Speaker(s): please tell me, yeah.
+[0:04:38] Ian Lurie: Harrison's job is probably about to go bye, bye for the same reason.
+[0:04:46] Unknown Speaker(s): Hey. JP, how's it going? It's good. We'll be right back. Yep.
+[0:04:58] Ian Lurie: Fete me off my cat here.
+[0:05:14] Deserves an Arrow With My Name on it: It has been a dramatic holiday weekend,
+[0:05:19] Ian Lurie: dramatic, okay,
+[0:05:20] Deserves an Arrow With My Name on it: you know, just chaos of all the boys being here, full full scale room cleanings before Summer, all of those things and so, yeah.
+[0:05:42] Ian Lurie: Well, I only have two weeks, two weeks of university left. So very much that being over
+[0:05:53] Unknown Speaker(s): good. Hey, James, Jimmy, Hey guys. Hey, yeah.
+[0:06:05] Ian Lurie: University of Washington's funding has been cut, of course, so it's very likely I will not have any teaching jobs next year. Never mind too many teaching jobs. So I guess it was good to get it all out of my system this quarter, although honestly, I cost so little like I'm so trivially non existent on their balance sheet, I gotta wonder if they're not just going to keep all the guest instructors and get rid of all the the more senior, non tenured faculty to save money. Who knows? They're already telling us, though, you know, please don't turn the lights on in your rooms, unless you really need them, you know, stuff like that. Got it.
+[0:06:51] Unknown Speaker(s): I was talking to a guy on Saturday who him and his another one of his coworkers got he called it Doge. Yeah. No, that's
+[0:06:59] Ian Lurie: that okay. No trademark. Ian Lurie, 2025 I came up with that term. First, there's dozed HEG set, and there's also vanced, where, if you meet with someone and then you die, 24 hours later, you've been vanced. If a supposedly confidential conversation was actually shared in a semi public forum, you've been hex theft, and then if you've been fired because of no possible good reason, you've been dosed. But yeah, no, no, no one gets to take that one for me. I'm sorry. I just, I have to, I gotta sink my dig my heels in there. You gotta
+[0:07:37] Rikterr: claim it. I It sucks.
+[0:07:45] Unknown Speaker(s): Yeah, yeah, it's going around.
+[0:07:57] Ian Lurie: Realize I built tonight's One of tonight's potential encounters around it's a good thing. I don't use the DND adventure, the DND CR measurement system, because I built it around every single player, every single character in the campaign. So that includes, you know, those of you have two characters as well as two tracks, because there's the legacy in the new Yeah, so that that would have been, that would have been a TPK in the first couple of minutes, which
+[0:08:32] Unknown Speaker(s): that's Okay, we can take this. Hey, Jamar. Hey, Jamar.
+[0:08:43] Deserves an Arrow With My Name on it: Jamar, how is
+[0:08:44] Ian Lurie: everybody good? Hey, you know I was supposed, I was supposed to be in Oakland in early July, but my expert witness client lost their summary judgment motion in front of Google. Just crushed the life out of them. So I wish I could say I was all that sad, but they're so utterly detestable, I don't feel quite as badly as I might otherwise. I mean, Google's not so great either, so I'm not thrilled that they won, but
+[0:09:15] Unknown Speaker(s): such a perfect
+[0:09:16] Rikterr: sometimes even the bad guys are supposed to win, because they're right. Yep,
+[0:09:22] Ian Lurie: Google's actually wrong this time. But I'm kind of like, okay, you know, if it makes these guys lives a little miserable, I'm good. I'm good with it. Quick refresher from last time so, and I think we all remember this, but you guys went on your little drug house raid and managed not only to find and burn down the drug houses, but also set off an explosion that destroyed all the manufacturing facilities, collapsed some of the tunnels and killed most of the people working there, including the ghouls And the shadar Kai, as well as the duergar. So you basically wiped out the entire operation. You then took some time to head back to Cinder Haven, where apparently Cregan is still smelling colors. It's definitely improved, but he's still struggling a bit. Richter has been keeping an eye on him, so he's doing okay, but you get back to the no, that, no, they didn't get those. They got, what would we call it? What would the we got to find the if, if you're blown up in a massive attack, without getting to all the truly horrendous things that are happening in the world, what could we go with?
+[0:10:40] Rikterr: We got Putin?
+[0:10:41] Unknown Speaker(s): Got Putin?
+[0:10:44] Ian Lurie: Yes, okay, exactly, okay. So yeah, they got Putin right off the right off the the shadow bell to some other plane. It took you maybe an hour or so to make your way back to Cinder Haven, just because you were being careful, you were checking on some things you're trying to make sure you weren't followed. You get back there, and that's where we left off, if I remember right as you had just returned. So most of the city is not aware of exactly what happened yet, what would you like to do?
+[0:11:25] Unknown Speaker(s): I think we had to go around telling everybody that mossy burned her down to just improve her reputation. Fair, totally fair.
+[0:11:37] Jamie Indigo: Kind of did, kind of did mozzie just cast produce flaming giggles?
+[0:11:48] Ian Lurie: Do you go speak to anyone? Uh,
+[0:11:52] Unknown Speaker(s): remember, there's the nearest town crier. How do we find them? So you Okay? Wait, no, so we're still, we're still the scene of the crime, correct?
+[0:12:02] Ian Lurie: No, you're back at Cinder Haven. You're
+[0:12:04] Unknown Speaker(s): back here. We're back at Cinder Haven, back at the club. Okay,
+[0:12:07] Jamie Indigo: okay. And then Richter is just there, like slowly petting a very
+[0:12:14] Ian Lurie: Richter has actually come downstairs because Cregan is no longer attempting to crawl through the floorboards or and is no longer clinging to a bed trying to keep the bed from flying off. Cregan is simply horribly hung over and just taking it easy,
+[0:12:33] Unknown Speaker(s): honey. We're home Craig and have, like, some bad clamps or something. What was it that he had
+[0:12:41] Ian Lurie: bad clamps,
+[0:12:41] Unknown Speaker(s): yeah, I think on the LSD beetle. Yeah, somebody's got to be the first.
+[0:12:52] Deserves an Arrow With My Name on it: So we're gonna get, we're totally gonna get reciprocated, aren't we?
+[0:12:57] Unknown Speaker(s): Yeah, we should talk about that. So, honey, we went to scout. We got bored, and that was a really good arson, but maybe consequences, to be fair,
+[0:13:08] Deserves an Arrow With My Name on it: we did Scout, we totally scouted. We did Scout,
+[0:13:13] Unknown Speaker(s): we
+[0:13:14] Deserves an Arrow With My Name on it: did and the scouting was successful.
+[0:13:16] Unknown Speaker(s): We were good at scouting. You're telling Richter all this, Yep, yeah. And we snuck in. We did some sneaking too. You feel the big boom. That was us. It's mostly mossy, but you know, we helped Ashley rikter
+[0:13:29] Ian Lurie: Give me a perception check as of about an hour ago. That's a good point.
+[0:13:39] Rikterr: It's a seven. I felt shit.
+[0:13:41] Ian Lurie: Okay, well, that's okay for you, because you're not sure why. But about an hour ago, a whole bunch of people in the club in Cinder Haven kind of went for one second. They just sort of froze and started, and then they just went back to partying like, okay, don't know what happened, but you know, that felt weird. It's sort of like being in, I don't know, California, when there's a small earthquake, and everybody stops for a minute like, Okay, do I actually need to get under a table? Nah, this isn't more than a six. We're good. And then moving on that, that's basically what happens.
+[0:14:16] Rikterr: I mean, yes, we were trying to be quiet, but in the end, if Noctis knows it was us and we have a confrontation, is that necessarily a bad he
+[0:14:27] Unknown Speaker(s): actually told someone who seemed very chill. He was just like the delivery boy. So we talked to him, and we're like, Hey, here's the deal, because you're fucking with our stuff. And this is us saying, don't fuck with our stuff. Actually left a note too, quite eloquent.
+[0:14:45] Deserves an Arrow With My Name on it: Has have consequences, and now we're here.
+[0:14:48] Rikterr: I'm gonna go back upstairs, I'm gonna get my wet stone and I'm gonna start taking it to bash for a little bit, because I smell a battle to come in. Where
+[0:14:58] Ian Lurie: are you guys hanging out right now?
+[0:15:01] Rikterr: We're down in the kitchen because mossy was hungry.
+[0:15:04] Unknown Speaker(s): Okay, okay, no, that makes sense. Yeah,
+[0:15:06] Ian Lurie: behind the bar, yeah, that's fair. That's fair.
+[0:15:10] Unknown Speaker(s): I just have one of those trays of cherries, and I'm just eating them, even though they're all gray.
+[0:15:16] Ian Lurie: Arson. Arson makes you hungry. I get it. Arson
+[0:15:19] Unknown Speaker(s): really makes you it makes you snacky.
+[0:15:24] Ian Lurie: You're, you know, mossy is someone I picture that if it was like 21st century Earth, you would drive around with a monkey wrench in the trunk of your car and some safety flares, and you would not use them to repair anything or make it keep anyone safe. They're, they're there for very specific reasons that only you know no one else is aware of.
+[0:15:44] Unknown Speaker(s): He has a baseball bat and a glove and
+[0:15:46] Ian Lurie: then a glove, yeah, and some duct tape,
+[0:15:49] Unknown Speaker(s): yeah. I just had a great idea for Jamie's next birthday. Okay? Package, yeah,
+[0:15:55] Ian Lurie: yes. If we send that care package, you know that we will
+[0:16:00] Deserves an Arrow With My Name on it: all be arrested on every watch list. Yes,
+[0:16:03] Ian Lurie: yes, if we aren't already. I mean, that
+[0:16:06] Unknown Speaker(s): is how you show you love me, by getting in a watch
+[0:16:09] Ian Lurie: by getting put on all my list to make sure you have a good birthday. That's fair. Okay, so you're in the kitchen and you're talking, why don't you all give me a perception check? It's been, you've been hanging out in the kitchen now for about 90 minutes. You're, you know, you're eating, you're chatting about a bunch of stuff. Rikter, you ain't got your ax. 11,
+[0:16:33] Unknown Speaker(s): okay, I thought we were gonna go. I thought we upstairs.
+[0:16:38] Ian Lurie: You can go upstairs. That's fine. Natural,
+[0:16:40] Deserves an Arrow With My Name on it: 20. Okay,
+[0:16:42] Unknown Speaker(s): okay, and I am out of minutes on my goggles. This perception, yeah, 29 Okay, well, that's nine. I started checking in the cherries because they're really quite gross drag.
+[0:16:57] Ian Lurie: Did you get like a 752 since you got a natural 20? I 20. Yeah,
+[0:17:03] Deserves an Arrow With My Name on it: yeah, 30 by number.
+[0:17:04] Ian Lurie: By the way, your name is awesome. Look at my shirt. Huh?
+[0:17:09] Deserves an Arrow With My Name on it: You're my inspiration. Ian says your
+[0:17:11] Ian Lurie: arrow, an arrow may have your name on it, and then on the bottom it says, but a fireball is addressed to whom it may concern. So, yeah, you're being Putin, yeah. Um, so do you guys head upstairs? Yeah, add up there for a bit. Okay,
+[0:17:28] Unknown Speaker(s): we're actually gonna ask the twins if there is somewhere that is really well tucked away in here we want, like the secret hooch room,
+[0:17:37] Ian Lurie: which twins Dante, yeah. Um, they say there is, but we can't tell you where it is that would make it worth significantly less to us, your room, your your rooms are pretty remote. When
+[0:17:56] Unknown Speaker(s): they said that, did their eyes dart a certain way at all? Just, just ask them, yeah.
+[0:18:01] Ian Lurie: No, they are. They are. I mean, you know what make an insight, check
+[0:18:09] Unknown Speaker(s): that's a 20
+[0:18:13] Ian Lurie: and I rolled one. So apparently they go like this. They go, No, it's definitely not right over there, and the and Duma or Dante. I don't who the other one is, says ixnay with the pointing story. So apparently, they actually like you guys so much that they point out that they have a secure safe room behind their office that if you want to go hang out in a secret space where no one can bother you. That would be the perfect place. And it's just off the kitchen. It's just, you know, 10 feet from here,
+[0:18:49] Unknown Speaker(s): Sango is gonna pull out 20 gold 10 for each and thank them for the use of the room for till we're done with it, not to tell anybody we're in there and direct says, I love you. Party line. Should we make them aware so they can be prepared in case there is danger? Well,
+[0:19:14] Deserves an Arrow With My Name on it: that's that was, that was my thought, if because we sent our names to be found and to be talked to, and I don't think that like and if, if we hide, they will probably tear the place apart looking for us. And if we're easily found, then
+[0:19:38] Unknown Speaker(s): we need to rest. We do need a rest. We gotta get arrested, but then we make ourselves known. What if we just hide for like, eight hours and then come out and surprise we've been here all along, maybe, like, tell them that we went to see the Wizard. I don't, I'm not good at this. I'm just, I he just turns the visible.
+[0:20:15] Deserves an Arrow With My Name on it: You can see the red, hard drive, light processing, processing, processing.
+[0:20:20] Ian Lurie: So many times I wish I could do that. Yes, honestly,
+[0:20:27] Deserves an Arrow With My Name on it: that's a good point. We need to, we need to get a good rest.
+[0:20:30] Unknown Speaker(s): Need a good rest first. Okay, then we go.
+[0:20:38] Ian Lurie: So you all set up to get a rest in that room. Is it
+[0:20:43] Unknown Speaker(s): possible? Yeah, we're gonna take this room. Is
+[0:20:46] Deserves an Arrow With My Name on it: it possible to me to set up my hammock with the twins in the the stables?
+[0:20:58] Unknown Speaker(s): Sure. Yeah, okay. I mean, it's possible, but again, we face the issue of you can't be out there alone, Bob, I got my hammock with you. I
+[0:21:10] Deserves an Arrow With My Name on it: got my, I got I got my I got my twin. So I'm good,
+[0:21:17] Unknown Speaker(s): nah, we don't slow the party like that. Fair, fair, Fairest deal. What happened to you? Do you look like you have food poisoning? Well, Boss Man, it was. They have these interesting squiggly jello like things that sometimes I don't know, just they what? Okay, he's
+[0:21:56] Deserves an Arrow With My Name on it: candy flipping, but we all know and he's over there. He
+[0:21:58] Rikterr: got really high. He ate something he shouldn't have.
+[0:22:07] Unknown Speaker(s): Was it like purple? Maybe,
+[0:22:13] Rikterr: I believe he said he tasted purple at one point.
+[0:22:17] Unknown Speaker(s): Well, the drug had this weird thing in it, yeah,
+[0:22:21] Ian Lurie: freaking you currently have four levels of exhaustion, which, in the 2024 rules, means you're at minus eight on all D 20 rolls, and you have a minus 20 moving speed reduction.
+[0:22:33] Unknown Speaker(s): Okay, hold on. We, one of us has restoration, right? We gotta restore him before you go to
+[0:22:42] Deserves an Arrow With My Name on it: bed. Let me see, does drag have restoration?
+[0:22:48] Rikterr: Um, I have greater restoration with the light that sparks.
+[0:22:55] Jamie Indigo: Can you burn through some on him? Yep,
+[0:22:57] Rikterr: I will burn. I get one. I get one. I get to use it one time.
+[0:23:01] Unknown Speaker(s): Okay? I mean, that's something because, Yep, looks like, look, look, man.
+[0:23:08] Jamie Indigo: I've tried a lot of things. I've never looked like that the next day. So
+[0:23:12] Ian Lurie: then it drops by one, you're now at minus six and minus 15. So minus six on D, 20 rolls, minus 15 on movement.
+[0:23:21] Unknown Speaker(s): Okay, let's go get a good night's sleep. Track and I are going to hammock it up on the stable y'all staying here. In the morning, we get ready to go.
+[0:23:34] Ian Lurie: Okay. Now, while you're in that room, in the safe room, it is, there is a secret door in the kitchen where you basically swing an entire like cooking, cook unit that works away from the wall. There's an almost impossible to find secret door. You go in there. When you go in and you close it, everything seals up. It's a pretty nice room. Actually. It's, you know, it's got rugs down. It's, it's got two beds. It has, you know, food stores, everything you'd need, basically, to live in there for at least a few days. When it closes, you cannot hear anything outside. It is completely, I mean, you can talk to each other in the room, but it's completely silent. It's definitely, you know, this is carved right into the rock of the the foundations of the building, or something like that. And then, for those of you in the stables that's outside around,
+[0:24:37] Unknown Speaker(s): send message to each other. Oh,
+[0:24:39] Ian Lurie: yeah, yeah. You can still send myself. And the stables are built into the building, but they are separate. Like you can't go directly from the interior of the building into the stables. You have to go around outside and back, you know, and back in the front door.
+[0:25:00] Unknown Speaker(s): Okay, Keely, don't do that. No, that's not what I missed you, Greg. And makes his way down the ladder into the dark hole.
+[0:25:18] Ian Lurie: It's not a ladder, actually, it's on the same floor, but I understand what you're saying. I get it. So let's see, is anyone going to be on watch, or you all just crashing for the night?
+[0:25:35] Unknown Speaker(s): First watch? Yeah, okay, I'm gonna do I'm gonna try and do a real good job of stealthing up the hammocks and hiding them so we are not visible. Okay, okay, we need to roll out for that. You
+[0:25:51] Ian Lurie: do need to roll, actually, a survival check, not stealth. Drax, actually, probably the,
+[0:25:59] Deserves an Arrow With My Name on it: oh yeah, 18,
+[0:26:00] Unknown Speaker(s): yep, all right, well, good,
+[0:26:04] Deserves an Arrow With My Name on it: all right. 26
+[0:26:09] Ian Lurie: also, all good. So you're just, you're good.
+[0:26:17] Unknown Speaker(s): Craig. Craig is gonna cast tiny het in that little room in the room, okay, so that it butts up against the door, all right,
+[0:26:27] Ian Lurie: and now you really can't hear. It's because I think you can't. You can't hear through tiny hut. No, no, you can hear. Never mind ignore me.
+[0:26:40] Unknown Speaker(s): Guess spells and yeah.
+[0:26:48] Ian Lurie: Okay, why don't you all give me let's see mossy and Drac. Why don't you give me perception checks at disadvantage? I mustache,
+[0:27:00] Speaker 1: oh,
+[0:27:12] Unknown Speaker(s): disadvantage, you said those are a pair of sixes, so 12.
+[0:27:20] Speaker 1: Yeah. So you're about
+[0:27:29] Ian Lurie: a third of the way through your rest when, for folks who are in the hidden room, there's a pounding on the door and Mossy and Drac, one of the waitstaff, comes running into the barn, assuming that you told under the stables. I'm assuming you told them you were in the stables. Okay, actually, so they but okay, they go running in, and they're like, where are they? I don't know any you hear this as you're waking up. I don't know. We have to find them right away. Hurry. Find them.
+[0:28:03] Unknown Speaker(s): Great. Cast message down. What do you need? Uh, it's fancy. Hi, your hair looks nice today. It's,
+[0:28:11] Ian Lurie: it's, it's, Dante gorick is here. It's, it's really bad. Come help please.
+[0:28:19] Unknown Speaker(s): All right, let's roll party line. Who's gorrick?
+[0:28:25] Ian Lurie: You don't know.
+[0:28:27] Unknown Speaker(s): Wait, who's gorg? I'm hopping down from the hammock. Yeah,
+[0:28:32] Ian Lurie: an enforcer, really, big. It's bad. Okay? They go running back out of the barn, out of the stables. No,
+[0:28:39] Unknown Speaker(s): no, wait. You need something. What's happening?
+[0:28:41] Ian Lurie: They're already gone. They're they're clearly utterly panicked, like freaking out. You know, these, these are just like normal. I mean, as normal as it gets in the in, the shadow fell. But did
+[0:28:51] Unknown Speaker(s): we get a long question? No, get
+[0:28:53] Ian Lurie: a What? No, you did not.
+[0:28:58] Unknown Speaker(s): Okay, party line selling. What's up? We're headed inside or following these guys.
+[0:29:04] Ian Lurie: Yep, hey,
+[0:29:06] Unknown Speaker(s): Kiki invisible, scout ahead. Tell me what you see. You got it. Boss All right. Boss Man, yep, No, you stay back.
+[0:29:19] Ian Lurie: Yeah, Craig and popping up
+[0:29:20] Deserves an Arrow With My Name on it: and following,
+[0:29:21] Ian Lurie: okay, and then for folks go
+[0:29:24] Unknown Speaker(s): back to sleep. For folks in the room,
+[0:29:28] Ian Lurie: in this the the safe room, there's that pounding on the door. And do you open it as the first question,
+[0:29:39] Unknown Speaker(s): did the did they get to the stables first or the the safe room first? I'm gonna
+[0:29:43] Ian Lurie: say it was simultaneous. It's two different groups of people,
+[0:29:50] Unknown Speaker(s): so you're getting pounding and then you're hearing what I'm sending over. Yeah, I don't think we'd open it right away. We'd wait and listen and Okay, give
+[0:30:02] Ian Lurie: me a listen. At disadvantage. Perception at disadvantage. This is Sango, I'm assuming,
+[0:30:11] Unknown Speaker(s): no, let's be craging. And that is double 13, which is my lucky unlucky number, but
+[0:30:18] Ian Lurie: you're at minus six.
+[0:30:22] Unknown Speaker(s): It's a 21 minus six is a 15. Okay? I You
+[0:30:30] Ian Lurie: think you hear the voice of either Dante or Douma
+[0:30:38] Unknown Speaker(s): as well? See a turkey? Can you see that fucking
+[0:30:44] Ian Lurie: thing? Oh, yeah, see it right there? Oh, wow, look at that. A dinosaur. Cool. That's actually exactly what Dante is whispering through the door, which is the code word when the shit is truly hitting the fan. No. Dante says, we need you out here quickly. No problem. Let's go.
+[0:31:11] Unknown Speaker(s): I throw in disguise self as we're moving as who I'm going to look like one of the stable kids. Okay,
+[0:31:23] Ian Lurie: all right, so you all as this all kind of shakes out, you all reach the bar at about the same time Dante is, or actually Duma is bringing three of you so Richter, Sango, actually, just Richter and Sango, I guess.
+[0:31:42] Unknown Speaker(s): Oh no, Richter and Cregan.
+[0:31:45] Ian Lurie: Okay, so Richter and Cregan out from the safe room, just as mossy and Drac get there as well. Mossy. You get a little bit of a little bit of a preview from Kiki. She says there's a really, really big guy who has one of the little guys that owns this place pinned on the bar and is pouring alcohol all over him. There's a bunch of people lying on the floor and some smashed stuff. Okay,
+[0:32:22] Unknown Speaker(s): he's party line.
+[0:32:28] Rikterr: Let's go help our new friend. Yelling,
+[0:32:31] Ian Lurie: yelling a lot.
+[0:32:34] Unknown Speaker(s): What is he saying?
+[0:32:38] Ian Lurie: Hold on getting some random stuff. There must have been a lot of them. They can't hide forever your choice. Little gray man, we already ignore all sorts of nastiness from YouTube, don't we? We're going because on, he's going to tear this place down brick by brick. I
+[0:33:06] Deserves an Arrow With My Name on it: So trying to be as intimidating I can, just like I want the big dude to be focused on me. Okay,
+[0:33:14] Unknown Speaker(s): I
+[0:33:16] Deserves an Arrow With My Name on it: say you've made your point clearly here to just start from shit, so Stop your drama, and we're the ones you want to talk
+[0:33:24] Ian Lurie: to. So the first thing is, you enter. You enter the club. Yes, there are people running and screaming out of the club, so you and Mossy both need to give me athletics checks to not get shoved back out the door, you should be pretty good for this, yeah. 22 okay.
+[0:33:45] Unknown Speaker(s): 19, okay. So you sort
+[0:33:47] Ian Lurie: of fight your way through the crowd. There are people scattering in all directions, and when you walk in the front door, the bar area and the mosh pit are are down about a half a story, so they're down about six or seven feet. And you're looking down, and you can see from above this huge figure. You can only see the back of their head, their back and their arm, just holding,
+[0:34:10] Unknown Speaker(s): sorry, I cast reduce on, on the big fuck. Okay,
+[0:34:16] Ian Lurie: what's on 18 on 18 doesn't not appear to have any effect, and he's got Dante pinned to the bar with just an enormous hand. Give me a perception check, because there's a lot going on that's a that was a natural time. Yeah, okay, um, yeah, you're not. There's just, there's a lot going on. But he's got, whoever it is, has a huge bottle of booze. You see, there's broken bottles everywhere, and one bottle, he's got one bottle in his hand, or they have one bottle in their hand, and they're dumping it out on him, and they throw that one down, and they pick up another one. And you're seeing all this from an angle. Cregan and rikter, you come out from the kitchen, and you see from the side. First of all, you see, you know Dumas with you.
+[0:35:18] Rikterr: And he What is clarification? Did we send Gerudo off somewhere, uh,
+[0:35:22] Ian Lurie: he he would be probably, well, he was gonna stay upstairs with Cregan. So I guess not. I guess Gerudo is, can be with you guys, or he can have gone elsewhere. It's up to you.
+[0:35:34] Rikterr: I'm gonna have him like, stick with Cregan. Just since Cregan is still kind of wibbly wobbly, just
+[0:35:40] Ian Lurie: a lot wiggly, wobbly. Yes, you notice Duma next to you suddenly enlarges, because he's a duergar. So he can do that. So he's suddenly a giant duergar, and you see a Nosferatu, a huge Nosferatu, wearing what looks like a business suit, or some kind of formal, formal clothing. He has the other one of the twins pinned down on the bar. That twin is not struggling. He's clearly conscious, clearly uninjured, not struggling, while the Nosferatu is pouring, just taking one container of alcohol after another, and pouring it rikter And Cregan, you actually get there first, and then mossy and Drac. As you're done, fighting your way through the crowd, and they're screaming, there's it's getting quieter now, but from from that vantage point you have when you come in the door, mossy and Drac, you can see the crowd kind of, you know, like separating away, like when you drop, you know, hot water or a drop of oil onto onto the surface of some water, right? It just goes in all directions. That's what the crowd's doing right now. So Richter and Cregan, you get there first. You are now standing right behind the bar.
+[0:37:13] Unknown Speaker(s): Greg is just swaying standing up. Is that wherewithal enough right now to yeah, do much more than stand up. Rikter
+[0:37:27] Rikterr: is going to look at the Nosferatu and just calmly say, let him go.
+[0:37:35] Ian Lurie: So the Nosferatu looks up to you, looks up at you, and you guys, mossy and Drac, you just come down the stairs and are now next to the bar as well. Looks up at you, and they have this long, distorted skull, like, even by Nosferatu standards, their head is oversized. Their fangs, they have, you know, each of their fangs is probably, you know, five or six inches long, kind of yellowed and blunt looking, and they look at you, and they say, they actually Look down at Dante and they say, is this them? Dante turns his head, got our note. Dante turns his head and says, some of them and the Nosferatu still holds on to Dante and says it's nice to meet you.
+[0:38:47] Unknown Speaker(s): We've been looking for you. You've come and done business in our territory, and we had to send a message back. Are we ready to negotiate?
+[0:38:57] Ian Lurie: Give me Well, are you trying to intimidate, or are you trying to
+[0:39:01] Unknown Speaker(s): I'm I'm projecting confidence and like, no, no, you were here for a business agreement.
+[0:39:06] Ian Lurie: Okay, that would be intimidation. I think.
+[0:39:20] Unknown Speaker(s): Can it be persuasion? No, it's the same for me. Whatever fuck it's a six. Okay,
+[0:39:28] Ian Lurie: he he has a lot they have a long scar across their face, and it makes them look like they're sneering, but now they're really sneering, and they kind of reach up with a thumb, they kind of pick at one of the fangs and they say, Yeah, well, that's not really why I'm here. Kazani wants you out and gone,
+[0:39:57] Unknown Speaker(s): like kazani gone, but we understand the nature of the shadow fell, yeah.
+[0:40:01] Ian Lurie: Difference is kazani, she could wipe this whole place out. So you really, really want to go back wherever you came from and take all your friends, whoever they were that did that today, because she doesn't like it. When people burn her stuff,
+[0:40:25] Unknown Speaker(s): you don't like it. When you kill our leaders, you see where we're at.
+[0:40:31] Ian Lurie: I don't know anything about that. All I know is, you burn the warehouses you leave, or we flatten this place with you in it.
+[0:40:41] Unknown Speaker(s): We have no desire to flatten anything more. We wanted an audience, and we've got you, I just want to say I didn't burn anything down. I was go on. Never mind. Sorry, boss,
+[0:40:59] Ian Lurie: he kind of looks they kind of look over at you, and then they look back at Mossy. He picks up Dante, and he seems to be measuring Dante next to you, mossy. And he says, little kitty. You're about the same, like
+[0:41:22] Unknown Speaker(s): one of the one of the other people. Oh
+[0:41:25] Ian Lurie: shit, damn it. Okay, never mind. He looks at you. He says, Who are you? Anyway? You just work here. You're not even, you're not even up to him. And he kind of shakes Dante a little bit. I need to speak to someone in charge. I don't know what you are,
+[0:41:48] Unknown Speaker(s): Rick or Craig and like bumps Richter forward. It's your turn, boss man. I'll see nods over towards Richter
+[0:42:01] Rikterr: again. Let my friend go and we can talk.
+[0:42:10] Unknown Speaker(s): Did I sorry? Did I just hear you say you didn't know anything about killing a leader,
+[0:42:17] Ian Lurie: rikter, why don't you give me an intimidation role, assuming that's what you're doing.
+[0:42:22] Rikterr: I mean, it's very calm, but yes, there is that note. Oh yeah, feel underneath Yes,
+[0:42:30] Unknown Speaker(s): 17, okay,
+[0:42:34] Ian Lurie: he they kind of raise an eyebrow, but don't really respond. I Cregan, he they ignore you completely. Rikter gorik looks at you and says, Make me and just sort of squares up and doesn't do anything and just continues holding Dante and says,
+[0:43:06] Unknown Speaker(s): I own you.
+[0:43:09] Rikterr: All of a sudden, mossy, because you're so in tune with rikter, you again see his eyes flash dark and then flash and all of a sudden, he touches his chest where the Raven symbol is, points at this undead and cast abjure foes. Okay?
+[0:43:26] Unknown Speaker(s): So,
+[0:43:26] Rikterr: yes, he needs to make a DC 18 wisdom saving throw. Alright?
+[0:43:32] Ian Lurie: I also need to look something up, because you're a scion of the Raven Queen in the shadow fell,
+[0:43:44] Unknown Speaker(s): might have, babies might have, which means
+[0:43:46] Ian Lurie: you get a little bit of extra something, something.
+[0:43:53] Unknown Speaker(s): And over the party line, under his breath, you hear even the bad guys are dismissing me. Now, why did you come downstairs? Bucha, you look like shit.
+[0:44:05] Rikterr: I know I was looking
+[0:44:06] Unknown Speaker(s): for some fucking tea.
+[0:44:12] Ian Lurie: Hang on, I'm still looking okay. So what's the safe?
+[0:44:18] Rikterr: DC 18 wisdom, yeah, no,
+[0:44:20] Ian Lurie: okay, um, he drops, he immediately drops Dante and turns and flees for the door. Just, just gone, like, just like, so quick. You did not know something that big could move that fast. Basically, goes, they turn, they put him, they drop him, they give one horrified glance back, and then they in this kind of almost beast like leap on all fours, jump from the bar 10 feet up onto the landing, and are gone out the door before anyone else can react. And
+[0:45:12] Unknown Speaker(s): then you hear Craig and say, I'm going back to bed. Mozzie comes and gives rikter a giant that was fucking awesome.
+[0:45:22] Rikterr: I didn't get a rest. I'm tired. I didn't get to blow things up with you guys. And even when I'm trying to do things in a nice way, people ignore me. I'm fucking tired of it.
+[0:45:35] Unknown Speaker(s): Why are you yelling at me? I was cheering for you.
+[0:45:38] Rikterr: No, I'm not yelling at you. I'm just, I'm sorry. I'm just visiting. No, no, it's not, it's not your fault. I'm just, every time I try something new, someone just looks me in the face and kind of laughs or snorts and it's like, okay, you know what that is out now, motherfuckers, you
+[0:45:56] Jamie Indigo: know, I tried to shrink him right away, and it didn't work. I get you, because I thought it'd be really funny. He
+[0:46:03] Ian Lurie: was like, let's see mossy Drac and rikter. You need to all give me perception checks with advantage.
+[0:46:16] Unknown Speaker(s): Advantage. Okay, okay.
+[0:46:17] Rikterr: God damn 2220 2227
+[0:46:23] Ian Lurie: Okay, mossy and Drak. You notice? Sorry, what did you get? Richter seven? Okay, moss and Drake. You notice that three other people go running out the door? Aha, that were nearby, just random club goers. Well, supposedly random club goers,
+[0:46:51] Unknown Speaker(s): good to know. Over the party line you hear Sango say, maybe we ought to have them close this place down and let the innocent people go about their lives. We need a long rest, and then we'll go make this right. The people remembers how to kill these fuckers that Nosferatu is terrifying. Jesus. Do you see his things? This is all party lines. This is not out loud.
+[0:47:19] Deserves an Arrow With My Name on it: The people who left like actually, I don't know how Richter's ability works, so I don't know if that's like a normal, like, there's like, it's like, fuck it I'm out. Or is it like we are secret undone, we're actually being compelled to leave.
+[0:47:40] Unknown Speaker(s): I think they were, I believe you, you don't try and run out when an else, Faraji is running out, you let them.
+[0:47:48] Rikterr: Could I roll an Arcana to see if I could sense anything from those four All right, yeah, but
+[0:47:55] Ian Lurie: yeah, you guys can also just ask rikter.
+[0:48:02] Rikterr: That is a 18, okay,
+[0:48:08] Ian Lurie: nothing obvious, like they didn't scream undead. This is a weird place. I mean, the shadow fell in general, but they just looked like people at the club.
+[0:48:20] Unknown Speaker(s): Okay? If
+[0:48:24] Rikterr: it felt to me more like their leader ran, so maybe they ran after.
+[0:48:29] Ian Lurie: No, they looked terrible. Oh, they
+[0:48:32] Rikterr: look terrified. Oh, okay, well, I'm just a big scary dude.
+[0:48:40] Unknown Speaker(s): Can I roll or kind of get any extra vibes? Fuck me. Okay, must have died. Doesn't like me and I it's like, a 15,
+[0:48:49] Ian Lurie: okay, yeah, you don't know
+[0:48:52] Unknown Speaker(s): 1818, yeah,
+[0:48:53] Ian Lurie: you didn't get a strong vibe. Again. It's, it's weird here, right? It's just, you know, people just they don't look right anyway, so it's really hard to figure
+[0:49:08] Unknown Speaker(s): me go back to bed now.
+[0:49:13] Ian Lurie: So Dante comes over to you and says, just says, Thank you. That was not ideal. Obviously, he's just dripping with alcohol. He's Dumas already cleaning up some of the glass. The club is pretty empty at this point. There's a few people left, but, you know, most people have fled. Do you guys say anything to him? Are you just crawling back in the bed? Rikter
+[0:49:44] Rikterr: looks at him and says, Sorry, that's our fault that they came in here, but I promise you, we're gonna handle it soon.
+[0:49:58] Ian Lurie: He nods, and just as He nods, there's someone comes running in through the front door and whispers in Dumas ear, in Dante's ear, even I get them confused and Dante kind of, He kind of frowns for a second, and he says, we may already be out of time. There's our spies have seen a great deal of movement in the the gray yards, which is the area that, sorry, guys, brain is still not quite firing right. Let me look up the right place. There we go, the gray haze yards, which is the area immediately adjacent to the club. To sender Haven said they're seeing a lot of movement there, heading our way.
+[0:51:08] Rikterr: All right. Rikter goes and finds Gerudo, wakes him up and says, we need you one last job.
+[0:51:18] Unknown Speaker(s): Okay? We fight or do we bold? Thank you,
+[0:51:22] Rikterr: Ian, I'm just like, come on, please. Someone, someone laugh at that? Well, I was
+[0:51:25] Ian Lurie: about to say, never say that. Never ever say that, but you did so too late. Now, um, one last job, but he's not short. His wife's not about to have a baby, and he's not getting married any minute. So probably, okay, probably okay.
+[0:51:46] Rikterr: And put on this red shirt and
+[0:51:52] Unknown Speaker(s): over the party line. You guys here, did we at least get a short rest?
+[0:51:58] Ian Lurie: Yeah, you could have gotten a short rest.
+[0:52:07] Deserves an Arrow With My Name on it: Okay, if we're bugging out, which is what I sounds like what we're doing. Tracks. Can take a look at the the look the local landscape and see if we can find like, like, like, some sort of defensible position, like a tower, or a place where we can kind of hole up, at least get some sort of warning if, if people are coming up.
+[0:52:37] Ian Lurie: So you're gonna, you're gonna leave and go scouting
+[0:52:41] Deserves an Arrow With My Name on it: with an earshot. I'm not leaving. I'm leaving. Well,
+[0:52:44] Unknown Speaker(s): if I mean, at
+[0:52:46] Ian Lurie: the front doors, you're out of your shot. That's massive walls, big structure.
+[0:52:52] Deserves an Arrow With My Name on it: Okay, I'm going to let everyone know, because I want to, like my thought is to use my survival skills to look at to find a tactically defensible position to hide, okay,
+[0:53:10] Unknown Speaker(s): and go ahead
+[0:53:12] Deserves an Arrow With My Name on it: and I'll spend five to 10 minutes to do it. And if I'm not back within five minutes, something's wrong.
+[0:53:25] Ian Lurie: Okay, so you head out the door about the same time that Dumas and a couple of the sort of tougher looking people that work there go out the door carrying a bunch of stuff. And there's these fences and gates to go around the front of the club, and you can see that they are they're putting up like a barricade in front of the opening in the fence and trying to just block things off as best they can. And you head out. And why don't you give me a stealth check? Yeah, assuming you're moving stealthily, yes,
+[0:54:08] Deserves an Arrow With My Name on it: all right, it's 21 okay.
+[0:54:10] Ian Lurie: You're creeping through. So the first thing you do, which way do you want to go when you first leave the club?
+[0:54:20] Unknown Speaker(s): Right? Straight
+[0:54:23] Deserves an Arrow With My Name on it: towards any incline. Okay, as a part of the street that goes up, that's where I wanna go. Okay, so
+[0:54:29] Ian Lurie: it goes up behind, if you remember, the whole city is on a hill. And if you leave the club and immediately loop back, you end up going up a steep hill towards the wards where you had your little outing. As you do that, and you are thoroughly stealthed. You go to turn around the side of the club, and you see that the the gray haze yards, which really do a butt right up against the club, are crawling with something you don't, you can't quite tell what, unless you get a little closer and make it, you know, take the time to make a perception check. But there's a lot of there are a lot of things moving around in there. You don't know if that's normal or not, but
+[0:55:29] Deserves an Arrow With My Name on it: before I do anything, party line, communicate what I see, it's like it feels like this is incoming. So I think we have two choices. We can either use the club as our defensible position, or leave and find a better defensible position, because it seems like shit is coming. Should I investigate more or pull back? I lean towards investigating more.
+[0:56:02] Unknown Speaker(s): So say, if do you want backup, I can be there in two shakes, in Sango set. Sango says, From right behind track, that's okay. I'm with him.
+[0:56:15] Ian Lurie: Sango, man, you are just
+[0:56:17] Unknown Speaker(s): so creepy. My favorite worst, Sango. I want you to know that, but
+[0:56:23] Ian Lurie: you are with drag, okay, okay,
+[0:56:24] Deserves an Arrow With My Name on it: yeah,
+[0:56:26] Unknown Speaker(s): I'm like,
+[0:56:28] Deserves an Arrow With My Name on it: okay, good, appreciate it. I'm gonna go stealthy. I'm gonna
+[0:56:34] Unknown Speaker(s): like, has, like,
+[0:56:37] Deserves an Arrow With My Name on it: all my energy is going in itself, and I'm gonna investigate more. Okay,
+[0:56:46] Ian Lurie: you know, I'm looking for a Gerudo Mini, and I don't think I have one, so I'm just going to pick one at random here, and you'll have to tell me if it's just so annoying that you don't want to use it. Okay, so you go creeping out the front door, and it's I think before you guys should tell me what your inclination is and maybe discuss it among yourselves. Is your first inclination to stay or or go
+[0:57:25] Unknown Speaker(s): mossy thinks we should get the out of here. Okay? We made our stand. We made our statement. We're not going to win this fight, not the home turf, not with the ground literally moving.
+[0:57:41] Rikterr: These people were kind enough to take us in. We should not put their livelihood in danger.
+[0:57:49] Deserves an Arrow With My Name on it: Last, last case scenario, like worst case scenario, I mean, like we can use their alcohol as Mossotov cocktails. But no clap. Clap for Mossy.
+[0:58:08] Unknown Speaker(s): I would like to make some of the over in the bar, though, actually it's a great idea,
+[0:58:13] Deserves an Arrow With My Name on it: because if we're going to make a stand here, please clap.
+[0:58:18] Unknown Speaker(s): Oh, poor Jeb and how many? If we're gonna
+[0:58:23] Deserves an Arrow With My Name on it: make the last stand here, we can make it a memorable stand. But I also think that doesn't do
+[0:58:32] Unknown Speaker(s): any good. She's just gonna go back and not have anyone to fight, right? Yeah, yeah. Could we make some, some molotovs, though? Yeah,
+[0:58:44] Ian Lurie: um, why don't you give I don't know. Do you have, I can't remember, you have alchemy skill, or I
+[0:58:50] Unknown Speaker(s): have alchemy skill. I'm an alchemist. Okay,
+[0:58:52] Ian Lurie: then I would say, make an alchemy roll. Let's
+[0:58:56] Unknown Speaker(s): run. But if I got two minutes, can I rate, can I create some arson devices? Yes,
+[0:59:00] Ian Lurie: exactly. I'll say you have enough time, depending on your role. Let's see how many you can make.
+[0:59:04] Unknown Speaker(s): What is an alchemy role
+[0:59:07] Ian Lurie: you should have? Alchemist tools, I believe, and a skill in that, if not, then just do Intelligence plus proficiency bonus
+[0:59:16] Unknown Speaker(s): I have, yeah, I have a skill in Alchemist tools, okay, but it doesn't
+[0:59:21] Jamie Indigo: tell me what the modifier is. No, if
+[0:59:24] Ian Lurie: you have the skill, that means you can apply your your proficiency, so
+[0:59:30] Unknown Speaker(s): Okay, plus your
+[0:59:31] Ian Lurie: intelligence bonus.
+[0:59:36] Unknown Speaker(s): Does that help that I have? Oh, I can advantage an alchemy roles because I have my velvet Alchemist kit. There you go. There we go. Okay, so this plus proficiency, plus what,
+[0:59:48] Ian Lurie: plus your intelligent Well, whatever. Okay, there's no number next to your Alchemist. Okay, then it's your intelligence modifier plus your proficiency bonus,
+[1:00:05] Unknown Speaker(s): okay, 22 Okay,
+[1:00:06] Ian Lurie: all right, so you make, we'll say, three cocktails in a big hurry. You what ends up? What you end up doing is you grab a couple of you grab one bottle of alcohol, and Dante says, not that one. And he points to two other ones that honestly look a little bit little bit cheaper
+[1:00:30] Unknown Speaker(s): to flax see it's full of the real good duragar Bourbon.
+[1:00:42] Ian Lurie: You make three of them. And if you want to just take down the stats real quick, I'm actually
+[1:00:48] Jamie Indigo: making them to other people, because I can do fireball. So
+[1:00:51] Unknown Speaker(s): good. Point one director, one to I can't see Sango, so pretty good. So
+[1:00:58] Ian Lurie: you know what? If it gets there in the combat. I'll walk you through the I'll walk you through how it works. Okay, so how are you guys going to leave? Are you all going to get together? Go out the door? Drag Sango, are you already heading? Give me a give me a plan. Give me an idea of what you're doing.
+[1:01:18] Sango Reed: What if we create a distraction over the party line. You hear this somewhere, to draw people away, and then everybody else slips out. Drax, favorite back door.
+[1:01:38] Unknown Speaker(s): I mean, yeah, we could. We could do a coordinate or something. We have the flash bangs, but we also have flash bangs for this money. Do we have
+[1:01:48] Deserves an Arrow With My Name on it: three Arrow Flash banks?
+[1:01:52] Unknown Speaker(s): Track of these tracking we also have these bottles of stuff that you just made? Bossy, yeah,
+[1:02:00] Jamie Indigo: no, I'm not going to go as far. And with the flash bang grenades, we can set off something loud and bright at a good distance, because that boy's got range. Okay,
+[1:02:13] Unknown Speaker(s): set that up. Where do we go?
+[1:02:15] Ian Lurie: Okay, so track. Give me a perception check. Okay.
+[1:02:26] Deserves an Arrow With My Name on it: So before this, I was trying to look at number and direction of critters or whatever, what's out there, why don't
+[1:02:36] Ian Lurie: you give me a perception check?
+[1:02:37] Deserves an Arrow With My Name on it: Okay, perception that would be 19. Okay.
+[1:02:41] Ian Lurie: Might as well just show you what it looks like from your vantage point.
+[1:02:50] Speaker 1: So turn on screen sharing.
+[1:03:00] Ian Lurie: You are around the side of the gate at the front of the club.
+[1:03:07] Deserves an Arrow With My Name on it: This is cool. Okay, you see,
+[1:03:10] Ian Lurie: you see a whole bunch of creatures there moving. See another one there. You see something behind the wall, right there? I uh, ignore that. That's that's off, that's off the edge of the world. Those are just random bits and pieces I keep around, but that's what you see right now.
+[1:03:34] Deserves an Arrow With My Name on it: Okay, I relay that information. And I report back numbers and direction. If we do a distract distraction, we should pursue it quickly, and we need to know which directions it's got, like distracting.
+[1:03:54] Unknown Speaker(s): Where are we going?
+[1:03:56] Deserves an Arrow With My Name on it: Exactly we
+[1:03:58] Unknown Speaker(s): go. Should we go back to the portal to get back out of here. Is it the right time of the moon? We got a
+[1:04:04] Deserves an Arrow With My Name on it: we got a month before the portal opens up again.
+[1:04:08] Unknown Speaker(s): Is that true?
+[1:04:10] Ian Lurie: Ian, you got quite a while. Okay,
+[1:04:12] Unknown Speaker(s): James doesn't remember this stuff, but okay, yeah, you're not
+[1:04:15] Ian Lurie: entirely certain how long. You also know that there may be a, there may be a portal you can use anytime, but it's in kazani. Kazani noctes, his tower.
+[1:04:26] Unknown Speaker(s): Our best way to get back is by kazani.
+[1:04:36] Ian Lurie: And I, I'm not starting real time just yet. I'm just giving you the input so you all can decide what you want to do. So if you want to plan how you're going to get away, this would be your time, your chance. And here's a look of the club from the front. So this is the barricade that the duergar have put in place very quickly.
+[1:05:00] Unknown Speaker(s): These are the big
+[1:05:03] Ian Lurie: three front doors. See, the club is pretty tall. This
+[1:05:09] Deserves an Arrow With My Name on it: is so cool. This is
+[1:05:11] Unknown Speaker(s): amazing map, thanks.
+[1:05:14] Ian Lurie: And there's no windows on the club, which you knew anyway. This
+[1:05:20] Unknown Speaker(s): feels like it should be in the crow, like the crow soundtrack is playing. It is
+[1:05:23] Ian Lurie: sort of it, you know, it. You can hear Golgotha tenement blues playing in the background.
+[1:05:29] Jamie Indigo: Definitely Mary Jane. But you know, I feel you that too.
+[1:05:32] Ian Lurie: Yeah, yeah. We're gonna get to after the flesh in a minute. So, right, but this is what it looks like from where you are, and then zooming out real quick. Ignore all the minis, because I haven't really positioned them yet, but this is what the yards look like. You see all the houses. Those are basically offices and shops and stuff like that. So
+[1:05:55] Deserves an Arrow With My Name on it: I can drop spikes. So we I can drop spike growth right at the gate.
+[1:06:05] Unknown Speaker(s): It isn't our best option to let her kick us out. We've achieved what we wanted to do. We sent our message. Why not just walk out and go? Yep, let's go the how are we getting home?
+[1:06:24] Mossotov cocktail: We're gonna let her kick us out. The way out is either to fend off her forces on home turf for a month or to go out the portal at her tower. That's it.
+[1:06:39] Unknown Speaker(s): Balls are kind of like, I kind of like it, okay, Hey, boss Hey, boss man, I think I want to try something. We want to get out of here, right? Yeah, okay, but I want to try something. I don't know if it's gonna work, but let me. Let me try. Let's all, let's all gather around. I need everybody to put your hands in the circle, Sango, can you be visible for a second, please? And you, you, you feel Sango hand on top of yours as you put it in the circle. Fine. Past worst. Okay, I've got a goddamn robot I was going to do. I don't know if it's gonna work. Remember, fizzbang? In the time he killed us all that was twice almost
+[1:07:46] Ian Lurie: killed you all. I think it
+[1:07:49] Unknown Speaker(s): was rotating desk. There was a little spare of the dying going on, okay? In Craig and Cass word of recall, oh. Okay, that's the word. That's the thing we talked about. Maybe what happened? Maybe not. Yeah,
+[1:08:16] Ian Lurie: where did you designate
+[1:08:20] Unknown Speaker(s): cragans favorite place in the world, bathtub. That's Drax. Favorite place, okay. Drag loves bats. I do, yeah, goes all out.
+[1:08:34] Rikterr: I just thought of Raphael in the first Ninja Turtles movie when you said bathtub and turtle.
+[1:08:42] Ian Lurie: Um, how many of you are there?
+[1:08:47] Unknown Speaker(s): Knew You Were gonna ask that there's wins too. I didn't, I didn't say how many of them were there. I said I cast word of recall. Okay,
+[1:08:56] Deserves an Arrow With My Name on it: so he teaches us like all again. Oh, you
+[1:08:58] Ian Lurie: guys have to choose, actually. Cregan, you have to choose exactly who is going to go. I will say that the twins are not there. They are still on the stable. Rikter, is there? You guys have all come running out the front door, basically, and I'll show you what you see and do understand, do what you guys want to do there. No, don't take this as you know. Oh, Ian drew this map. It's fun to draw the maps. I don't care. It's all good. But this is who is standing there right now. All right, so Sango and Drac are over here. The twins are in the stable. I would say Gerudo is probably with you guys. That's the best I can do for Gerudo. I and that's probably everybody that's with you right now, unless there's someone else that I'm forgetting, and do tell me if I am, and what you see while you're doing this. I Well, it's basically this, right,
+[1:10:30] Unknown Speaker(s): all right, he would know. Is there a limit on this? I think there is right five,
+[1:10:37] Rikterr: yeah, plus the person casting it, plus the
+[1:10:39] Ian Lurie: person casting Yes, the party line, you can always
+[1:10:47] Unknown Speaker(s): just, that's not enough to get
+[1:10:51] Ian Lurie: the twins, though, right. Well, correct. You could get set. Well, depends on who, I mean, it depends on who you're taking.
+[1:10:59] Rikterr: Gerudo would stay behind, okay? Because this was being here was His mission. Okay,
+[1:11:08] Ian Lurie: so decide who you want to take, and then we can play it from there.
+[1:11:17] Unknown Speaker(s): Yeah, get everybody. Nope, uh. I am, I am very much having a service choice. A, A, A Sam from critical role. Moment about the bear.
+[1:11:42] Ian Lurie: The bear, oh, I was gonna say moment when he when he had to decide if he was gonna self destruct. No, I was going all the way back to campaign one, whether he was gonna use his counter spell or save the wish to try to save backs. But that's not quite that bad, I guess. So it's not
+[1:12:05] Unknown Speaker(s): going to work then,
+[1:12:10] Rikterr: no, because even if Garuda stays back, yep, someone else has to as well. Well, I mean, we're here to stack anyway, and if the way out is through, let's go through.
+[1:12:34] Unknown Speaker(s): I got, like, no spells left. Look, if we let her take us, at least we're closer to the portal. It's in her tower, we will save the battle to the point when it matters. Okay,
+[1:12:59] Ian Lurie: as this as you're having this conversation again, not real time, you see these other shapes starting to move up as well. You can't quite see what they are in the mist and the fog, but you do see these massive wing not massive. They're they're human sized wing shapes, but they have really big wings. Yeah, you guys, you guys can I'll just, just, just, just to give you guys your options right now, right? You can run, you can fight, you could surrender and see what happens. There's lots of different and then there's lots of other options too. So you you figure out how you want to, how you want to, how do you want to do this? No, that's not it. What you would like to do at this point.
+[1:13:50] Deserves an Arrow With My Name on it: Rikter, you we did build a teleportation circle in our Bastion.
+[1:14:02] Rikterr: Yes, but I don't it's but the other is on the airship. That's the only place we've connected it to so far. I believe that's,
+[1:14:12] Deserves an Arrow With My Name on it: that's true, unless
+[1:14:14] Ian Lurie: one of you has teleport, of course. Now,
+[1:14:19] Unknown Speaker(s): no, okay, I'd love to
+[1:14:21] Mossotov cocktail: know we made our point. She wants us to go. Let's at least call her and start with a conversation before we go into full battle mode, we might be able to talk our way out of this one time I pretend to shit my pants, and it worked.
+[1:14:42] Unknown Speaker(s): I Okay, we've made our point. We can't kill her, because that would kill this place, even if the results was being captured, then we're close to the portal to get out.
+[1:15:06] Deserves an Arrow With My Name on it: I think that's the play.
+[1:15:08] Unknown Speaker(s): All right, I'm gonna step up on the stone right there and use some front agitation to amplify my voice. And you know, kazani, okay,
+[1:15:19] Ian Lurie: why don't you give me? A performance check, I think is the logical and if you're using presentation, I'll give you advantage just in this case, yeah,
+[1:15:41] Unknown Speaker(s): okay, I'm going to use my point of Inspiration. Okay, that's going to be a 24 Okay,
+[1:16:04] Ian Lurie: so the ghouls and the vampire spawn that were creeping up to the they were taking cover behind the buildings, but they were definitely there. They stop and up steps coming from behind the building, trade lines. I'm sorry,
+[1:16:27] Jamie Indigo: remember, guys, we can negotiate trade lines, that's right.
+[1:16:31] Ian Lurie: Um, stepping forward from behind the buildings are two shadow Kai warriors that look a lot like the ones you've fought in the past. They are. They are flanking the largest ghoul you've ever seen. It is a it is a huge sized ghoul, meaning it's not large, which is one size up from a normal person. It's one size larger than that that comes walking forward with, and it's it's footballs are actually shaking the ground that you're standing on. And then behind them are two huge black Uzi shapes, kind of formless, that are just sort of rolling along on the ground. And flanking them. Are for what look like vampires and Richter. You can give me a role as to what these are,
+[1:17:29] Rikterr: Arcana. I'm guessing
+[1:17:31] Ian Lurie: Arcana or religion, either one for you,
+[1:17:39] Rikterr: that is going to be a 22
+[1:17:41] Ian Lurie: okay? They are vampire spawn. So they are the creations of a vampire. They are not yet full vampires. You have never seen them with wings before, and these do seem to be capable of flying, if not well, they seem to kind of be able to fly. And you also notice behind them all, there's two rows of archers, skeleton archers of some kind. So these two shadar Kai come forward with their little Honor Guard, and they say, you wish to speak, and they actually both say it at the same time. It's kind of weird.
+[1:18:19] Unknown Speaker(s): Actually, I'm gonna step back and step behind rikter And this one like tell them just confident. Party line confidently. We're ready to leave.
+[1:18:34] Rikterr: We wish audience with kazani Noctis. Will you take us to her?
+[1:18:43] Ian Lurie: They look at each other. No words seem to be exchanged, and then they look towards you. All of the ghouls immediately turn and fade back into the woodwork. It's like cockroaches. They're just gone. They go down. They go down between cracks and pavement that look too small for them. They, you know, go down through drains. They disappear into buildings. They just, they just kind of melt away. The skeletons form up behind the shadow. Kai, behind the shadow, sorry, behind the vampire spawn. The large goal stays.
+[1:19:20] Unknown Speaker(s): I'm sorry, whole fucking cast of Buffy, it's
+[1:19:23] Ian Lurie: sort of, yeah, it's sort of like that last, that last battle. I they turn, and all of them turn together, and the two shadow kind motion to you, as if you know, all right, come out then Dante and Duma look at you and they say, Are you sure?
+[1:19:47] Unknown Speaker(s): Thank you. Go ahead. Jamie. Oh, thank you for your friendship.
+[1:20:02] Ian Lurie: I you as well. We could make a fight of this.
+[1:20:08] Unknown Speaker(s): We know very well, bug bangs, PR reinforcements,
+[1:20:16] Ian Lurie: um, they had both enlarged, by the way. They were both, you know, eight or nine feet tall, and they shrink back down again. Gerudo says, I'm sorry, my friends, but I should stay. You should. I cannot leave this place because an he doesn't really know who I am. They're going to need my help.
+[1:20:43] Unknown Speaker(s): They will. It was lovely to meet you,
+[1:20:48] Ian Lurie: rikter. He puts out a hand to you. If you put up your hand to to shake his hand. He just kind of wraps you in a hug. He says, was good to see you, my friend I am. We will see each other again sooner than than this last time, rikter
+[1:21:05] Rikterr: takes a gold coin out of this Fauci puts it in Garridos hand and says, Go get a round of drinks. Wait for me. Wait for all of us. We're going to toast to this moment because we're going to have a story to tell.
+[1:21:20] Ian Lurie: I always knew you'd have stories. He turns. He doesn't turn. Actually, you guys turn and go to follow the shadar Kai, and they march you through the streets. And I'm assuming jack that the twins are coming with you. Yes, okay. They march you through the streets, and it's almost there's people gathered silently on either side of the the kind of the broad, the broad main path through the city as you proceed through the I'm just closing a couple things here. Sorry, hold on.
+[1:22:07] Unknown Speaker(s): Gather my thoughts.
+[1:22:09] Ian Lurie: Okay, as you walk through the palace district,
+[1:22:14] Unknown Speaker(s): sing. I'm sorry, we should sing.
+[1:22:19] Ian Lurie: I hope, no, what are you gonna saying? I shouldn't
+[1:22:22] Unknown Speaker(s): feel like we would know, like, about a sea shanty, about, like, a storm, something cool like that. We know and signed our name. Give
+[1:22:33] Ian Lurie: me a performance check. As you're being marched through the streets, actually, why don't everybody in the group give me a performance check? Remember, remember, Cregan, you're still at a significant minus.
+[1:22:43] Unknown Speaker(s): What is that? My daddy, 2425 1917,
+[1:22:49] Deserves an Arrow With My Name on it: for a total of 18. Okay,
+[1:22:50] Unknown Speaker(s): what's Greg? It's minus at minus six. Oh, this is good performance, huh? It's a 14. That's not too bad. Yeah for the state of you right now, hell yeah. You are putting your full pussy into it. Thank you. And then somewhere, just a few steps behind you, hear a Sango singing beautifully and playing his his fiddle because he got a 19 Fuck yes Sango,
+[1:23:27] Ian Lurie: right. Okay, you guys can pick the song, and I'll tell you this right now, if you give me something really good, it can either be by picking something you know, a known tune that we all know, or, and I gotta go take a quick bio break here. Or if you want to come up with something on your own, if it's really good, I will give you advantage on two roles of your choice, when you're Yeah, when you're in the room with kazani Noctis. So I'll give you a minute. I will be right back.
+[1:24:03] Unknown Speaker(s): Shake it off. By Taylor Swift,
+[1:24:07] Deserves an Arrow With My Name on it: love it. Who's gonna hate
+[1:24:10] Unknown Speaker(s): like a bar? Yes, it's a barred version. Oh, I will
+[1:24:14] Ian Lurie: kill you all. I will kill you all. You're
+[1:24:16] Unknown Speaker(s): gone.
+[1:24:18] Ian Lurie: Now I'm gone. Okay, what
+[1:24:20] Unknown Speaker(s): about bye? Bye, bye, I'd say, No, we need like, a battle. Anthony, like, love is a battlefield.
+[1:24:29] Deserves an Arrow With My Name on it: Oh, how about from Les Mis like, do you hear the people sing? Sing the song of angry men?
+[1:24:41] Unknown Speaker(s): Look at this motherfucking nerd right here. Oh,
+[1:24:44] Deserves an Arrow With My Name on it: shut up.
+[1:24:44] Unknown Speaker(s): Yeah, you're right. Look at my vinyl real quick. Do we need? We need a power ballad? Hey, Google, what are some power ballads? Oh, You're terrible. What about being my Bowie?
+[1:25:18] Rikterr: Let's dance. I
+[1:25:26] Deserves an Arrow With My Name on it: definitely not closer by Nine Inch Nails.
+[1:25:31] Unknown Speaker(s): Okay, back, okay, music, oh, wait, wait, what about hostile government takeover? We're in the middle of a hostile government takeover.
+[1:25:52] Deserves an Arrow With My Name on it: Zombie by the cranberries. Oh, yeah,
+[1:25:57] Unknown Speaker(s): yes, that is a haunting on he is this good? Oh, wait, wait, um, Fleetwood Mac the chains.
+[1:26:08] Deserves an Arrow With My Name on it: Oh, that's a good one. If you
+[1:26:10] Ian Lurie: want to do Taylor Swift, I'm not going to discriminate. I can't do that. That's not fair.
+[1:26:17] Unknown Speaker(s): Bad Blood by Taylor Smith,
+[1:26:19] Rikterr: no, I will. I No, I even say no to that. I was willing to shake it off because, like, hey, you know what? Thematically, I cannot clot that bad blood.
+[1:26:30] Unknown Speaker(s): Rikter, by Papa Roach.
+[1:26:33] Ian Lurie: He will pull the pin in his head and explode. Okay, all
+[1:26:40] Deserves an Arrow With My Name on it: right, we gotta, we gotta pick one. Okay,
+[1:26:44] Unknown Speaker(s): we're working on we're working on it. I'm telling you, shake it off. Yep, let's do that. Okay, all right,
+[1:26:56] Ian Lurie: that's what it's gonna be. All right, so let's see everyone rolled already. I need you to roll for the twins track.
+[1:27:06] Deserves an Arrow With My Name on it: Okay, this
+[1:27:08] Unknown Speaker(s): is what could put you
+[1:27:11] Ian Lurie: and why don't you roll for
+[1:27:13] Unknown Speaker(s): what about, what about fight the power God. All right, killing the name of but a fiddle version.
+[1:27:32] Rikterr: I love how we're going to a parlay screaming about, uh, fuck you. I won't do what you tell me.
+[1:27:38] Unknown Speaker(s): Oh, maybe not. Okay, I think, shake it off. Shake it off. Yeah, no,
+[1:27:41] Ian Lurie: you guys made your choice, yeah.
+[1:27:42] Unknown Speaker(s): All right. All right. Okay, so it was a 14. I don't know what the modifier would be. So
+[1:27:48] Deserves an Arrow With My Name on it: Sarah got the shield of Aventine.
+[1:27:53] Unknown Speaker(s): Can you just like
+[1:27:55] Deserves an Arrow With My Name on it: Echo got a 14? Okay,
+[1:27:59] Ian Lurie: so you all are, you know, you're walking along in this almost procession. And it's, it's kind of surreal, both because of just the atmosphere of the shadow fell and the fact that you know, as you're passing through the city, you you start like over here, if you can see my by
+[1:28:20] Unknown Speaker(s): the crack, I'm sorry, are we going to go by the crack?
+[1:28:24] Ian Lurie: No, because the the club is over here, right Cinder Haven. That's Cinder Haven right there you are making your way through the palace district and past what's left of the palace district, because remember, it got destroyed, and you get to about here, which is the edge of dark tone cross. This is where the temples are, where you first appeared. And one of you just starts humming, right? You know, like got nothing in my brain, you just kind of humming about that. It's probably Cregan actually creating because you're still stoned off your ass, yes. And you know, Kiki kind of picks it up and starts whistling in this kind of high tune, sort of just off pitch voice. And then, like in the crowd that's lining both sides of the street, there's people who are, most are just watching in silence, but a few of them seem to be egging other people on. You all can give me a perception check.
+[1:29:27] Unknown Speaker(s): Oh, fuck yeah, those are 27 Okay,
+[1:29:30] Rikterr: 1514,
+[1:29:35] Unknown Speaker(s): it's a natural 20 for 30, okay, and another natural 20 for 48 but you're at
+[1:29:43] Ian Lurie: minus six, so,
+[1:29:44] Unknown Speaker(s): oh yeah, but
+[1:29:45] Ian Lurie: still so Sango and Mossy you just you zoom right in. There are 10 or 20 people moving in. The crowd. Dress very plainly, and they're handing out rocks and things like that to people. And a couple of people, a couple of projectiles sort of go your way, are lobbed towards you. And you know, you guys have absurdly high decks. Is Not, not an issue. Rikter, you take, you just catch one on your shield, and you look into the crowd, but, and then a second later, you all just burst into this song, and the twins Sura starts, sort of fluting out this perfect on tune, kind of Bass line with echo doing a reasonably good job of, you know, something similar. And you get this kind of acapella thing going as you're you're moving through the city, and it starts off, you know, sort of quietly and, and, but pretty soon you're just belting it out. And everyone around you is kind of stunned. They're like these warriors are. They're pretty good singers too. These guys are kind of and you know, given this, the shadow fell. They don't really hear anything that, you know. They don't hear things that spark a great deal of anything, right, taste, emotion, anything else. So as you're singing and walking along, you know, people don't, no one's cheering or anything, but they do. They just as things were about to get a little bit out of hand, folks actually stop and they just watch you pass by. And the shadar Kai are trying to seem aloof to it. Actually they managed to
+[1:31:48] Unknown Speaker(s): stay bonuses. Did we just get that? Yeah,
+[1:31:51] Ian Lurie: they imagine they managed to stay aloof. But for some reason, one of the vampire spawn. You're sure, sort of like, Oh, Jesus, don't okay. Just just, I'm being
+[1:32:13] Unknown Speaker(s): No, it's adding to its immersion. Yeah,
+[1:32:15] Ian Lurie: okay, all right, fine. Um, maybe this might just be an old white dude thing, but sometimes you walk by a place where there's music playing, and you're, like, deliberately trying not to walk in step with the music, because you know, otherwise, you're going to start walking in step with the music totally. And you're pretty sure that one or two of the vampire spawn are doing that. Now, like they're they're actually trying not to walk in step to the music. But basically it's and you see a few people in the crowd too, like he you guys just nail it as you walk up to the Gates of kazani Noctis tower, which slowly spin open or slide open. And at that point your musical number is over, you can stop now.
+[1:33:01] Unknown Speaker(s): What's the musical number ends, you hear an invisible Sango playing his own tune.
+[1:33:21] Ian Lurie: I will say that that's a little more my speed, but, yeah, okay. Well, Twisted Sister, so you, you come up to Kazan, he's tower with this whole weird performance going on, and it's, it's all, it's the most surreal thing you've been through since you got here, which is really saying something. Because, you know, this is a pretty weird place, but you managed to introduce your own brand of chaos to this place. And in fact, you know, long after you leave, possibly for 1000s of years, they will talk of the adventurers who came through this place. And really, you know, woke it
+[1:34:07] Unknown Speaker(s): up, really shook
+[1:34:09] Ian Lurie: things up, I mean. And they still to this day, they refer to the adventurers, because they seem to have moved through the city pretty quickly. They refer to them as the Swifts. And now there's people that follow this. It's, it's an entire movement, or a rebellion, I dare say, against kazani Noctus called the Swifties. I I have no I have no pride left as a DM. I have just I have hit. I have struck a low, so low that, yeah, we
+[1:34:44] Unknown Speaker(s): got devil inspiration. What do we got? You've
+[1:34:47] Ian Lurie: got, you've got advantage on two roles in the the encounter with kasani Noctis, which
+[1:34:54] Unknown Speaker(s): will start, or you roll.
+[1:34:59] Ian Lurie: You can choose, okay, I so you come up to this tower, and it is not actually that massive. It's a very thin you'd estimate it's maybe 20 feet wide at the base, and you think it extends probably about 90 feet up in the air. So it's a very thin, kind of finely built tower, and actually very well constructed, made of marble or some other substance. It's truly well maintained. It's, you know, unlike everything around it, it actually has some color to it. It's, it kind of almost shines a little bit. And at the very top of the tower, you do see this blue light that you think probably indicates the presence of a portal around it, though, is this pretty forbidding wall, and there's an enormous gate, and the gate slowly pivots open as the shadar Kai walk up to it, it admits you all, as well as the rest of the force that's with you. As you all March inside. And inside, you see that the tower is set in the middle of this large, walled off area. And then around the base of the tower there's some smaller buildings. There's a stables, there's, you know, there's a whole variety of stuff. There's clearly an armory of some kind. And all around you, you know, there's not a lot of activity, but there's some activity. There's, you know, there's some ghouls like you saw in the sewers pushing carts of various sizes around. There are more shadar Kai walking around here, going on about various tasks. There are people carrying packages of something from one room, one building to the next. And then there are two guards at the base of the tower in front of the door. They also look like shadar Kai, but they are they are clothed in what almost looks like darkness, like it's cloth, but when it moves, it almost looks like their form is being shifted back and forth, like they're shrouded by something. It's not just clothing. They are shrouded by something. The two shatter Kai that are with you turn towards each other for a minute, and then they look back at you, and they say, as one, she will see you. Enter the enter through the front doors, and she is waiting for you.
+[1:37:37] Rikterr: Okay? Thank you.
+[1:37:40] Ian Lurie: They just look on impassively. That's what they do. You guys all go in, including the twins,
+[1:37:49] Unknown Speaker(s): yeah, okay.
+[1:37:54] Ian Lurie: You walk through the front door and everybody needs to give me a constitution, save DC 15, actually, sorry, a Dex, save DC 15. Sorry about that Korean.
+[1:38:12] Unknown Speaker(s): That's okay, because Korea actually got a natural 20, yeah,
+[1:38:15] Ian Lurie: but at minus, at minus six, you still fail, don't you? God damn it. Math,
+[1:38:27] Unknown Speaker(s): 18, okay,
+[1:38:29] Deserves an Arrow With My Name on it: try 19 two, sir, I got a 19 and echo got a 15,
+[1:38:39] Unknown Speaker(s): 16%
+[1:38:41] Ian Lurie: okay, you step through the door and there's this sudden lurching sensation. It's like disorienting, as if you just moved from one location to the next very as if the room around you moved very abruptly. Cregan, you stumble. You don't fall, but you do stumble, and the rest of you definitely feel it. It's not, you know, it's not mysterious. Kiki Says in your head, mossy, whoa, okay, that was weird. We are not where we started, and you are now in a room. It is. It's a pretty big room. It's gymnasium sized. It's a really large indoor space with no windows and no doors. You're standing in the middle of it. You're standing actually on a circle of some kind, and you put it together that you must have stepped through some kind of teleportation portal. Immediately in front of you
+[1:39:38] Unknown Speaker(s): is,
+[1:39:42] Ian Lurie: well, there's a few things. There's two shadow Kai, not the same ones that you saw before, and two vampire spawn with wings, similar to the ones that you saw in the city, and they are facing towards you in sort of a loose semi circle. Directly behind them is a tent, which is kind of weird inside an indoor space, but there is a tent there. The tent looks like, if you ever been to a Ren Faire, you know, there's the tents that people put up, the really elaborate, or if you ever been to an SCA event, right? There's the really elaborate, almost yurt style tents with huge curtains, and they're draped with with finery, and, you know, generally, have some kind of official colors on them. That's really what you're looking at. And they the two shadar Kai pulled the pull the door, you know, the cloth door open on the tent and motion you inside. I Okay,
+[1:40:45] Unknown Speaker(s): step in. Okay.
+[1:40:48] Ian Lurie: Once inside, I It's very quiet, very muffled in here, and the room is dimly lit by you think a series of torches, but you can't, it's not direct light. They're behind something, and then they're projecting against the walls. So it's hard to tell exactly what they are. The floor is covered in various kinds of furs and animal skins. The walls are hung with all kinds of art. There are shelves with all sorts of interesting little trinkets on them, things like that. There are six more shadar Kai, all standing at attention, three on each side, all armed and armored, and then directly in front of you, sitting on a small throne looking at you is and everybody give me a perception check.
+[1:41:50] Unknown Speaker(s): 3020, okay.
+[1:41:53] Rikterr: 22 again.
+[1:41:57] Unknown Speaker(s): Perception, 12 and 12, okay. Perception, yeah. 18. Okay,
+[1:42:04] Ian Lurie: you guys all look and your eyes are looking at Sorolla, and she's sitting there looking at you this kind of weird smile on her face. But then whoever rolled a 20 realizes this isn't Sorolla. This is another individual who looks like the negative of Sorolla, where, you know, Sorolla wears bright colors, and, you know, and is always perfectly made up, and, you know, always has the elaborate hairstyle of the ruling class of salmur, this person who matches Royals features almost perfectly, is wearing plain black, and it's very elegant. It's it's very tasteful. She's not wearing, you know, rags or anything, but plain black. She her fingernails are plain white. Her hair is cut extremely short, almost a buzz cut, but you still do a double take. You're like, oh my god, it's been Soraya the whole time. And anyone who rolled lower than a 20, you actually think this is soroya.
+[1:43:17] Unknown Speaker(s): I trusted you, boss man. What happened? He is devastated, and
+[1:43:27] Ian Lurie: then she opens her mouth, and you see fangs, and she speaks, and all of you realize this is not soroya demiarma. This is just someone who looks it's basically her doppelganger. She says, So you are the ones who have caused me so much, so much trouble.
+[1:43:54] Unknown Speaker(s): Rikker,
+[1:43:59] Rikterr: I mean, you're causing a little bit of trouble where we're from, so we figure to cause you a little bit of trouble in return. So you can see what it feels like.
+[1:44:13] Ian Lurie: She actually, she kind of, why don't give me a performance check there. Rikker, assuming you want this to be impactful in somewhere
+[1:44:24] Unknown Speaker(s): 15. Okay, actually, you
+[1:44:26] Rikterr: know what? I will use one of my advantages here, okay, oh, that's
+[1:44:31] Unknown Speaker(s): going to be a dirty 20.
+[1:44:33] Ian Lurie: Okay, that's good, because she rolled really well. But not that well. She for a minute, her eyes almost kind of smolder, and, you know, she she almost she looks and her eyes are just black. I mean, white, you know, white where they're supposed to be. But then her pupils and and Reed, you know, everything around them are just black. And she looks at you, and she lets out this kind of deep chuckle, and she says that that is fair. That is fair. I must I must say, it's a small disturbance in my plans, but not a huge one. Still, I don't like having my nose bloodied on my home on my home territory. So well done. Well, well, that's an accomplishment.
+[1:45:26] Rikterr: Thank you. And well done on stepping into our realm and murdering one of our leaders. Um, we'd like to politely ask you, if you wouldn't mind stopping because we, you know, don't really want the city and the leadership to be disturbed any further than it already is.
+[1:45:52] Unknown Speaker(s): She.
+[1:45:57] Ian Lurie: She looks at you and she says, you're going to have to make a better argument than that, because those leaders you talk about, they make me look and she kind of stands up, and you realize she's very tall. She's probably seven or eight feet tall. It's hard to tell because she wears a very long dress, so you can't really see where her feet are, but and she stretches out her arms, she says, they make me look friendly, benevolent and
+[1:46:33] Unknown Speaker(s): over the over the party line, you guys here. Hey, boss man, I don't think that's a royal.
+[1:46:46] Rikterr: Got it Craig and thank you, she almost fooled me, but thank you, I appreciate that insight. Out Loud, rikr just says, I have been a follower of leaders my whole life, and I've learned one valuable lesson that every leader, no matter how good or how bad, shades the truth. I have heard one side of the story. You say these leaders on our side make you look benevolent. Please. Enlighten my friends and I as to what you see that you need to eliminate them. Well,
+[1:47:34] Ian Lurie: I need to eliminate them in the interests of my business, but also they profit off of they profit from the pain and the torture of the souls that live in this place.
+[1:47:50] Unknown Speaker(s): Tell me about your business model.
+[1:47:54] Ian Lurie: My business interests and my business interests are mostly profit. That is why I'm here, profit and power. I with both. I am able to I'm sorry I couldn't hear
+[1:48:12] Unknown Speaker(s): we can negotiate some trade lines with you.
+[1:48:20] Deserves an Arrow With My Name on it: And as we have shown that we have the ability to increase the cost of your business, we can make it the friction that we bring to your business interests, can sharply increase the cost of doing business, regardless of the of the morality of individual leaders,
+[1:48:44] Ian Lurie: she, she kind of her, she actually laughs out loud. And one of you guys should make a let's see. I guess, mossy that would probably be you. You're the one who spoke up. You need to make a, either a persuasion or intimidation check.
+[1:49:12] Unknown Speaker(s): Okay, you're gonna need
+[1:49:13] Ian Lurie: to roll supernaturally high. I'm just, I'm just being honest with you. I rolled a natural 20. So
+[1:49:21] Unknown Speaker(s): sorry. What was it? Again? Persuasion
+[1:49:23] Ian Lurie: or intimidation.
+[1:49:29] Unknown Speaker(s): Got an 18? Okay, I want to take my advantage.
+[1:49:34] Ian Lurie: You want to, or you don't. I
+[1:49:36] Unknown Speaker(s): do. Okay? Natural, 20. Oh, nice.
+[1:49:43] Ian Lurie: Okay, what's the total? Okay,
+[1:49:47] Unknown Speaker(s): that is 23
+[1:49:49] Ian Lurie: okay, she got a 25 which I'm
+[1:49:55] Unknown Speaker(s): gonna use a thing. Okay, I can do this thing. Um, flash of genius,
+[1:50:02] Ian Lurie: yeah, you have to say you're going to do that ahead of time. You can't, I don't think he can use flash of genius just spontaneously. Let me look that could be important. Let's see
+[1:50:21] Unknown Speaker(s): about about six seconds after this conversation happens, guidance, Craig's gonna cast guidance on Mossy. Thank you, buddy. Oh no.
+[1:50:36] Ian Lurie: Flash of genius is something else. It doesn't really it's for, well, it's for ability
+[1:50:43] Unknown Speaker(s): checks. You're saving throws,
+[1:50:45] Ian Lurie: you can use your reaction to add plus one or minus one to a roll.
+[1:50:53] Unknown Speaker(s): Is this plus five for your based on your ability? It's based on my spell casting modifier.
+[1:51:02] Ian Lurie: It is a reaction. So, yeah, you can do it.
+[1:51:05] Unknown Speaker(s): Okay, I'm gonna do it.
+[1:51:09] Ian Lurie: Wow. You just beat the crime lord. Um, I mean, you are pretty damn smart. I
+[1:51:15] Unknown Speaker(s): mean crime, crime knows crime, yeah, yeah,
+[1:51:18] Ian Lurie: exactly.
+[1:51:19] Deserves an Arrow With My Name on it: He's her own crime lord.
+[1:51:23] Ian Lurie: Mossy is sort of a portable Crime Wave. Kasani says, monkey
+[1:51:29] Unknown Speaker(s): wrench and flares, right. Mossy
+[1:51:32] Ian Lurie: you you say what you say, and then Drach immediately, you say what you said. And she says, she kind of sits back down, and she says, continue
+[1:51:43] Unknown Speaker(s): guidance. Okay.
+[1:51:47] Ian Lurie: The problem is, guidance is actually casting a spell. Actually, no, go ahead. Go ahead and do it. Okay, you cast it. No, you cast it. And then, and then, kazani immediately looks to you and says, Don't do that. There will be no casting of spells in this room. But I keep telling people, so kazani says
+[1:52:23] Mossotov cocktail: this is where I reach in the bag of holding, and I take out Drax, big business model for the Bastion, and I show exactly how we can facilitate trade lines.
+[1:52:35] Ian Lurie: All right. Um, this will be a group check. I'm gonna We're and what, you know what? Actually, no, no dice. Just yet. Tell me what you tell her, and then we'll decide.
+[1:52:47] Unknown Speaker(s): Direct. Can you explain the business model, please?
+[1:52:53] Deserves an Arrow With My Name on it: Party line. Real quick. What does she consider? Like revenue, like souls?
+[1:53:00] Unknown Speaker(s): Okay, wait, yeah, let me start with that one. So let's define like, what is revenue to you? What is the value? And enriches your status.
+[1:53:10] Ian Lurie: She looks around the room at all the stuff, and then she looks at you and she says, material wealth, but influence is what I really seek.
+[1:53:23] Unknown Speaker(s): All of them were fantastic people to know. My God, have you heard of the sandwich we invented that shit? They're on a thing, yet they're a future day. So if it's gold track as a business model, completely mocked up for this one, how we can help increase your lines of profits?
+[1:53:54] Deserves an Arrow With My Name on it: Yeah, I go into, I go into, like a the Ben and Jerry's model, the the employee owned self sustaining distribution network of goods services and artisans.
+[1:54:17] Ian Lurie: She motions over one of the Shatter Kai and
+[1:54:20] Deserves an Arrow With My Name on it: I ask if she has, like, the I take, I take out, like, some chalk, like, can I draw on, on something?
+[1:54:28] Ian Lurie: No, like, she doesn't even change Facebook. She has a PowerPoint. She says, No. She says, I require
+[1:54:45] Unknown Speaker(s): a seat
+[1:54:47] Ian Lurie: on the council of Samir where I can place a proxy of my choosing who will vote the way I want them to vote. I need to be a party to all discussions by the Haddad combine, and I need to be allowed to trade in and out of a portal to and from Samir. In exchange, I will not introduce further chaos, commit further crimes, or introduce the drugs we've created here into Samir.
+[1:55:25] Unknown Speaker(s): It sounds good to me. Boss Man,
+[1:55:27] Deserves an Arrow With My Name on it: Hardline, they're trying to be Republicans, yeah, yeah, uh
+[1:55:35] Unknown Speaker(s): huh. I'm excited to see where because his makeup goes and what we can do is say we'll open a conversation. We'll take conversation. Oh no, no, no no.
+[1:55:56] Ian Lurie: We make this deal now
+[1:55:58] Unknown Speaker(s): this is a party line.
+[1:56:02] Speaker 1: I uh, she stopped it to the party line. Oh, shit.
+[1:56:05] Ian Lurie: Oh, sorry. She's like, No, no, no, yeah, no, continue.
+[1:56:11] Deserves an Arrow With My Name on it: So basically, the only thing we get is the is, the
+[1:56:17] Unknown Speaker(s): is the she'll stop
+[1:56:22] Deserves an Arrow With My Name on it: threatening us, like she's introduced the chaos. She's
+[1:56:25] Mossotov cocktail: the representative of the district. These people were not represented in the current rulings, and what's up above reflects down here. So it doesn't make sense, to a degree, to have that,
+[1:56:36] Deserves an Arrow With My Name on it: yeah, yeah. It makes sense.
+[1:56:41] Unknown Speaker(s): Sounds good to me, boss, man, we don't have the power to grant that. So how do we handle this? Well,
+[1:56:54] Deserves an Arrow With My Name on it: if we're going to sell it to soroya, she needs to understand and care about the the above actions affecting her, directs, I'll just come subjects.
+[1:57:12] Rikterr: We need proof if we're going to make this promise. Noctis needs to provide us proof, irrefutable proof that we can take back to story and say, This is what's happening, and there's already a seat open, we can quickly fill it, and this is the best for both worlds,
+[1:57:32] Unknown Speaker(s): for puppet disguise As the old guy, if they're worried about PR i
+[1:57:41] Deserves an Arrow With My Name on it: Hmm, will she abide this? This is, this is a, this is a like a, not a director, but like they, they make decisions as a group. Will she abide by the decisions of the combine? If the Combine votes against it, will she abide by that? And if not, does that constitute a breach of a breach of contract?
+[1:58:16] Rikterr: Yeah, let's have that put in the contract and the agreement, or whatever we're doing.
+[1:58:22] Ian Lurie: When you say abide by do you mean if the Combine says they don't want this agreement, then she still has to agree to keep her hands off the city? Or do you just mean, if she's, if she has a seat on the combine and she right out voted, she can't just, yeah, the
+[1:58:36] Deserves an Arrow With My Name on it: Combine votes for bike lanes, and she doesn't want bike lanes. Too bad. Got it. Sorry, got it.
+[1:58:45] Unknown Speaker(s): That's the Combine Bucha bike lanes.
+[1:58:56] Speaker 1: Do we add some? Hmm, hmm,
+[1:59:10] Unknown Speaker(s): I think
+[1:59:13] Deserves an Arrow With My Name on it: the only of the only suggest, the only other suggest that I would make is that her represent, that her nor her representative, can use arcane or divine means of manipulation.
+[1:59:34] Unknown Speaker(s): Yeah, I didn't. I've taken out paper.
+[1:59:39] Ian Lurie: Yeah, you guys have to remember this, because I don't,
+[1:59:44] Deserves an Arrow With My Name on it: yeah. And if we can guarantee things like this, if we can put down things like that, I think that ultimately soroya and the Combine would be reasonable,
+[2:00:00] Unknown Speaker(s): yeah, reasonably.
+[2:00:01] Deserves an Arrow With My Name on it: Or at least, or at least, I would even say that like within, within, within the within the rules and regulations of the Combine itself, she must adhere to the rules and regulations of the combine, okay, so,
+[2:00:18] Rikterr: so far, we have must abide by all rulings, even if they go against her, not use nefarious influence to try and gain more seats on the council.
+[2:00:33] Deserves an Arrow With My Name on it: I wouldn't say nefarious. We
+[2:00:35] Unknown Speaker(s): should have a focus that she has to represent what is in their best interest. It's just, I don't know her alignment, man, let's be really clear on these things.
+[2:00:49] Deserves an Arrow With My Name on it: Yeah. I mean, if she's going to be evil, like she would be lawful evil,
+[2:00:57] Ian Lurie: all right, lawful or neutral, probably not chaotic, she wouldn't be running this place, yeah, yeah,
+[2:01:02] Unknown Speaker(s): what is, what is Roy is title in some year, Grand Poobah,
+[2:01:14] Ian Lurie: not Grand Poobah. No, I have to look it up.
+[2:01:17] Unknown Speaker(s): A hat with horns. He has
+[2:01:20] Ian Lurie: a funny looking hat, yes.
+[2:01:22] Unknown Speaker(s): Okay, hold on, boss lady, uh,
+[2:01:37] Ian Lurie: let's just uh, she's a chancellor. That's it. The chancellor. Chancellor,
+[2:01:42] Sango Reed: uh, over the party line, you hear Sango say, What if we put in there that for a period of, say, five years, she has to report on any doings of
+[2:02:00] Unknown Speaker(s): the other combine members that the chancellor might need to be aware of. I mean, if they're all dirty, like, share the dirt, right? Yeah, yeah, it's on team. They're dirty. So these two might get along great, that's what I'm thinking. Never saying, Yeah, Hey, Boss Man, what if we what if we told her to make statues of us as part of this deal, and we could like be heroes of the Swifty revolution we could talk about later.
+[2:02:59] Deserves an Arrow With My Name on it: Nothing's better than government sake sanction statutes, right?
+[2:03:02] Unknown Speaker(s): That's right.
+[2:03:13] Deserves an Arrow With My Name on it: So to summarize, she abides by she abides by the ruling of the Council. She conforms to the rules and regulations of the ruling council of the Haddad, and is not allowed to use either arcane or divine methods to manipulate the outcome of the rulings of combine
+[2:03:39] Unknown Speaker(s): and she needs to coordinate with the chancellor information on the rest of The Combine doings and dealings. Yeah, yeah.
+[2:04:02] Deserves an Arrow With My Name on it: Do you think? Do you think Samaria would go go for that?
+[2:04:13] Unknown Speaker(s): You would probably go for it more she'd more likely go for it, knowing she was included in the sharing of the informations. Think about how powerful Sorolla is now, imagine two of them. I think alliance can actually do really good things. Yes.
+[2:04:35] Deserves an Arrow With My Name on it: How about we could host a summit between the two of them over drinks and our bar.
+[2:04:56] Unknown Speaker(s): Yeah. So that way facilitators, we
+[2:05:02] Deserves an Arrow With My Name on it: would facilitate this conversation.
+[2:05:04] Unknown Speaker(s): Wait, are you? Are you suggesting we use our position of power to draw on, uh, unwarranted attention and publicity to our own establishments for our own personal gain?
+[2:05:19] Deserves an Arrow With My Name on it: No, it's a neutral spot. We're facilitators, quiet. That's exactly
+[2:05:24] Unknown Speaker(s): what I was thinking. Yep, go on,
+[2:05:30] Deserves an Arrow With My Name on it: in which, because I would, I would imagine that saroy would given her experience in the matters, would have her own ideas, different than ours. But I think that if we, if they can, if they can agree and accept that the fact that that one the actions of one affects the other and the actions of and there's no lines of communication, so any negative reactions to the other place is counterproductive, and that they can get together. We facili, we facilitate that kind of like the soroya summit. Love it.
+[2:06:31] Unknown Speaker(s): Got an alliteration. I like it, yeah,
+[2:06:33] Deserves an Arrow With My Name on it: well, we shouldn't call the Sorolla summit because Noctis,
+[2:06:41] Unknown Speaker(s): yes, the Royal Nazi summit got you
+[2:06:51] Deserves an Arrow With My Name on it: naming aside. Do you think we should come back to Nocturne, Nocturnus and say this is ARD. Do you do you accept?
+[2:07:06] Rikterr: Yeah, we've been kind of leaving her as we've been talking in our brains for a while. She might be wondering what's going on. This
+[2:07:12] Ian Lurie: conversation happened very quickly. Yes.
+[2:07:15] Unknown Speaker(s): DM, do we know? Do we have any indication on whether saroya Noctis can leave this realm or or would a neutral site like what we're proposing be reasonable? I don't know.
+[2:07:39] Ian Lurie: It would probably have to be done by proxy, because if she left this you're not totally sure, but given what you understand and you've you've all figured this much out, but given what you understand of dread domains, if she leaves this place, it and probably she as well, there's a chance that it and she could both cease to exist. It's not guaranteed. It might be she continues to exist and this place goes away. But certainly the danger to this place, to Shadow Mirror, is extreme. Odds are something truly horrendous would happen here. So she probably won't want to leave. Well, some
+[2:08:19] Unknown Speaker(s): of these people used to be sore as citizens.
+[2:08:21] Ian Lurie: No, they lived. They actually lived somewhere very different. You're not sure why she looks just like Sorolla,
+[2:08:31] Unknown Speaker(s): but the people on this plane were banned here from they were
+[2:08:35] Ian Lurie: banned here. Yes, they were, they, yes, they were from, from the other continent. They lived right where the fall happened. When the fall happened, they were transported here.
+[2:08:51] Unknown Speaker(s): So all the people who are missing during the fall were reconnecting. Not
+[2:08:54] Ian Lurie: all of them, but some of them, millions and millions and millions of people died in the fall. This is, you know, a couple 1000, but a
+[2:09:08] Unknown Speaker(s): meeting of proxies would work, yeah,
+[2:09:11] Deserves an Arrow With My Name on it: are we? Are we ready to pitch? It All right?
+[2:09:18] Unknown Speaker(s): More often to pitch, I think Greg and bumps Richter in the back, pushes it forward,
+[2:09:30] Rikterr: Alright, so we've been talking, and we love your idea, but we can't do anything but promise that we can bring it to our friend in Sal Muir with the heft of the respect and relationship that we've built with her, and also saying that we believe that this is the best idea, we would also ask a couple of additions to this promise, just to make sure that we can bring a strength and the trust between all parties, that this is something that's going to be beneficial and no one's going to do anything bad to the other party afterwards. Does that sound good?
+[2:10:15] Ian Lurie: Depends on the terms of the deal.
+[2:10:18] Rikterr: Very fair. So if we can get you a seat on the council, you would have to promise that the person in that seat, when the votes are cast, whatever the ruling is, you guys are okay with that, even if that goes against what you desire. Is that amenable to you? She has a
+[2:10:39] Ian Lurie: gold goblet. It's quite large, even in her hands, she kind of swirls the contents around a little bit and looks at it, and then she takes a small sip, and she says, Yes, of course.
+[2:10:52] Rikterr: All right. Point to that we would ask not to use, as you asked our friend Craig in here, not to cast spells here, we would ask that you and your representative on the council not use any arcane or divine means to influence the vote for what you desire. Is that amenable to you?
+[2:11:14] Ian Lurie: She raises the goblet again, and she kind of tilts it both ways, and she says that, is agreeable to me, as long as it's agreeable to them as well. We
+[2:11:28] Rikterr: will impress upon our friends over there that the respect we're asking of you, that they show you that same respect as well. And we would also ask that our friend on the other side, if you are here, any of the council members doing anything bad, make sure to keep her abreast, because I think that you both together, working together, could make salmir and the Shadow Mirror something powerful together, and we want to preserve and support the balance between our two realms and make sure that everyone is thriving, everyone is succeeding, and everyone is benefiting from this new, fruitful relationship we're building. Is that amenable to you?
+[2:12:21] Ian Lurie: Bad? Is a very broad term, but if there's something to either of our disadvantage, of course we can share. And again, I would ask, and she takes the goblet again. And same gesture, I would ask that we that that go cut both ways. Of
+[2:12:36] Rikterr: course, we will make sure to take all this back, because again, we we love Samuel, and we have, we have built up,
+[2:12:49] Unknown Speaker(s): right? Hate that. I type that, I fucking hate that. I type that, go to your shade closet. I am in there. You just,
+[2:12:54] Ian Lurie: wow, yeah,
+[2:12:56] Unknown Speaker(s): just, you know what? I'm the fucking worst. I know you
+[2:12:59] Rikterr: are. You are go to your corner. Oh.
+[2:13:02] Ian Lurie: Sango is muted for the rest of the night. He's just
+[2:13:05] Rikterr: Sal Muir is my home, and I only want the best for it. And if you and what you wish to happen are the best for it, I wish that for some your so just taking this proposal back to our friends on the other side and pushing them to agree to this is that something you can agree to.
+[2:13:27] Ian Lurie: I don't have infinite patience, but yes,
+[2:13:31] Rikterr: we will be as quick as possible. There's also in our best interest to make sure that an answer happens as soon for everyone involved,
+[2:13:43] Sango Reed: and you hear your hear a little voice from from nowhere, say, we would also like to open a franchise sandwich shop here in town. I don't know if you know what a sandwich is, but it's pretty great. And I saw a corner shop down there that was empty, and that would make a great place for it, and it would be much boon for your town. The
+[2:14:13] Unknown Speaker(s): flavor. Just think it's, it's it's something. It's got a taste that you just until you haven't you just don't know what it's like. Oh, I take it as a pocket bacon. You take this that came from our our realm, so it still tastes good, I'm sure of it. And I hand her the bacon.
+[2:14:37] Ian Lurie: She kind of holds it with a bit of to taste distaste, given that she's a vampire, and she says, our economy here is a delicate thing, and
+[2:14:54] Unknown Speaker(s): we
+[2:14:58] Ian Lurie: There are certain macroeconomic issues and micro economic issues that could profoundly affect the ability of a new business that starts here to succeed, and it might also disturb the flow of goods and services around my city. So I have to respectfully decline Well, I
+[2:15:17] Sango Reed: appreciate your perspective there, but we're talking about one little, tiny corner sandwich shop, and no Tiny Corner sandwich shop has ever brought down the economy of a great nation like this one party
+[2:15:35] Rikterr: line Sango, a tiny corner sandwich Shop is about to bring down these delicate negotiations. What can I pay you to stop talking? Level it?
+[2:15:55] Ian Lurie: I think you must follow Keynes, Ian economics, I don't so I think it's best that we we table this discussion. I can't believe we turned my villain into a comic book character, but I think we should table this discussion, and we can circle the wagons around it at a future time. Sure,
+[2:16:15] Unknown Speaker(s): sure. Are we talking like grand table, coffee table, coffee table and table, what kind of table we're talking about? Oh, my God. She um,
+[2:16:35] Rikterr: when did Sango become Craig? And he
+[2:16:38] Ian Lurie: looks at you, and she says, Are you mocking me, old man? And her tones changed completely.
+[2:16:47] Unknown Speaker(s): No idiot. I'm sorry. He's an excitable idiot, and he's already it.
+[2:16:57] Rikterr: Understand, this is his first negotiations. My friend's a little nervous. His skills lie in a number of different areas, and this is not one of them. He's not mocking you. He means no trespass. He's doing the best he can, and it's been it's been a long time since he's had food other than the pocket bacon that our tabaxi friend here has kept with us so he's not his best self. We apologize. She
+[2:17:25] Ian Lurie: kind of leans forward a little, and she steeples her fingers. She says, I hope so, because one condition I want to add to this contract now is that there will be no business ventures from salmur or elsewhere on your plane set up in my city without my permission. That's
+[2:17:44] Unknown Speaker(s): absolutely fair. Make
+[2:17:46] Ian Lurie: that completely clear. This samure may be run by a a group with free trade and all of the other niceties that come with life on the prime, but here, this is my city, and I control it, and everything that happens here happens because of my say. So
+[2:18:07] Unknown Speaker(s): as with the other rules, this would be applied the same to yourself. Are you okay with that? Of course, wonderful. Do you have sometimes it's like, it's like, it's like Ghostbusters, you shouldn't cross the streams. And sometimes I sort of forget who's speaking in which brain it's coming out of. I mean, it makes sense if pregan was saying I still mess up for mushrooms.
+[2:18:42] Rikterr: Do you do you have someone who can draw up this contract on your side, something that we can take over to the other side? Have them look at it, start putting together a contract that both sides can talk over and agree to,
+[2:19:01] Ian Lurie: probably better that someone on your side do it.
+[2:19:05] Rikterr: Or I can very fair, very fair. We will. I have, I've taken some notes. Mossy, who is much better note taking has also taken that. So I'm sure we can take this over, have someone draw this up. We will have our proxy talk to your proxy, and we will hammer down an agreement that I'm sure both parties would love to have.
+[2:19:27] Deserves an Arrow With My Name on it: Party line. Should we, in order to impress our seriousness and ensure timely response, should we have two people go back to the prime and two people hang back here. Oh, what
+[2:19:41] Unknown Speaker(s): are you talking about? We all need a long rest. Jesus,
+[2:19:48] Rikterr: I am pretty full up. I'm happy to stay behind if we want to make sure to say hey, we're trustworthy people. Because, yeah, if we just say hey, oh yeah, we'll all come back like he'll dine in Dash, yeah,
+[2:20:03] Unknown Speaker(s): well, okay,
+[2:20:05] Deserves an Arrow With My Name on it: yeah, I'm Wait no
+[2:20:07] Unknown Speaker(s): finish that thought Ian, No, you're good,
+[2:20:12] Deserves an Arrow With My Name on it: yeah. Like, I'll stay until Y'all come back.
+[2:20:21] Rikterr: This is kind of
+[2:20:22] Deserves an Arrow With My Name on it: like a return of the judge. So,
+[2:20:24] Rikterr: wait, so, wait, wait, wait, wait, wait, so, Drac, are you staying just to try and bone Sorolla look alike?
+[2:20:29] Deserves an Arrow With My Name on it: No, she's okay, because you
+[2:20:32] Rikterr: would, because you were real quick to be like, yo. Should we leave someone here? That someone is me, listen.
+[2:20:37] Unknown Speaker(s): We should listen over the part of that we should all get out here. This is just, this is not a good place. This is just not we should. Is it going to start affecting your help? You stay longer? Drag, yes,
+[2:20:49] Deserves an Arrow With My Name on it: but if you guys come back quickly, that won't matter, but
+[2:20:52] Unknown Speaker(s): doesn't time work differently here now, like it could be years, months, days, the opportunity for everyone to leave. We should, yes, we should all get out of here. Okay, let's,
+[2:21:05] Rikterr: let's try, and I'll leave. And if she says she wants someone to stay, we have that in the back pocket.
+[2:21:10] Unknown Speaker(s): Okay, yes, we can totally leave. Craig, if he's fine. Reed,
+[2:21:19] Rikterr: alright. Um, Bush, I that. Um Bush, let him knock this. Is there a way that we can get out of here so we can reach our land and start putting this contract in play?
+[2:21:37] Ian Lurie: It is not trivial, but I we we do have a way to send you back. Yes,
+[2:21:45] Rikterr: alright, then we'd love to start our journey so we can get this going again sooner rather than later. Because, as you said, you are your patience does not last very long, and we don't want to tramp upon that patience. I'd like
+[2:21:57] Mossotov cocktail: to avoid a miscommunication timelines the way we know how to get through and back to requires next full moon is an alternative means, once we have this to pass it through.
+[2:22:12] Ian Lurie: She motions to one of the one of the Shatter Kai, who then leaves the room, says, I can provide something. It's not perfect, but it will let you send a message back to us here, perfect, but sending you back to to the prime will take it. Will take some effort. It is not entirely without risk, but we do have a way to do it.
+[2:22:42] Unknown Speaker(s): We survived fizzbang. I believe in you.
+[2:22:46] Ian Lurie: Ah, yes, the legendary fizzbang. She says no. She doesn't say that. Um, the shit that one shot, our chi comes back with a scroll tube. There's nothing in it, just an empty scroll tube. She says, this will this will suffice once you open it and close it again. Sorry, open it, put the message inside. When you close it, the message will be sent back here. Can this
+[2:23:19] Unknown Speaker(s): be stored in a bag of holding, yes, what's it called?
+[2:23:27] Ian Lurie: Just called a scroll of sending, scroll, case of sending, sorry, unless
+[2:23:33] Unknown Speaker(s): someone else wants to carry it.
+[2:23:37] Rikterr: Track will
+[2:23:40] Deserves an Arrow With My Name on it: get it, I will not put anything other than dear siroya
+[2:23:43] Rikterr: doppelganger. Hey, girl, how you doing?
+[2:23:48] Unknown Speaker(s): You up? Yes or no. What are you wearing?
+[2:23:58] Rikterr: All right? Um, well, on that note, we would love to start our journey back if there's nothing else we can do for you.
+[2:24:07] Ian Lurie: No, yep, all right, understand. I will just say this once, and I am not threatening, but my patience is not infinite. I can wait two weeks, but after that, I either need to resume my actions or have some form of agreement.
+[2:24:31] Unknown Speaker(s): Heard, received, all right?
+[2:24:42] Ian Lurie: She says, one, one more thing, if you had simply come to me with this before,
+[2:24:51] Unknown Speaker(s): we could have avoided
+[2:24:54] Ian Lurie: a great deal of bloodshed. But I, I know you people on the prime work, the way that they work.
+[2:25:02] Unknown Speaker(s): It has been interesting. We the baddies. She
+[2:25:08] Ian Lurie: then she says, and you were wondering,
+[2:25:13] Unknown Speaker(s): ask the arsonist.
+[2:25:16] Ian Lurie: You were wondering, oh yeah, that's a good point.
+[2:25:20] Unknown Speaker(s): I'd be two people
+[2:25:21] Ian Lurie: in robes. Come in, click. You know they screen cast her just everything about them. And she says, these two will conduct you home. Tabaxi, you asked what it was that the Haddad combine are doing that's so terrible.
+[2:25:48] Unknown Speaker(s): We didn't have the best introduction with them either. I'm sorry
+[2:25:51] Ian Lurie: we didn't
+[2:25:52] Unknown Speaker(s): have the best introduction with them either. Yeah. Well,
+[2:25:55] Ian Lurie: she says, ask yourself, how it is that sound mirror has continued to continue to exist in the wake of this worldwide famine and catastrophe that has consumed every city around it for hundreds of miles, the only other city that has survived of any size that survived is Aventine correct a lot about the Prime Material, by the way. So how has Samir survived all this? Just ask yourself that, and next time you see the combine, ask them or your friend saroya, ask her they did what they had to to to survive. I don't blame them for it, but it's hypocritical to come here and accuse me of somehow
+[2:26:53] Unknown Speaker(s): violating that city
+[2:26:57] Rikterr: fair. We heard what we heard from the sources. We heard them from, and believed what we heard without hearing your side. We apologize for a trespass and sure that this experience will make us better
+[2:27:15] Ian Lurie: on your way. Then she almost kind of, she doesn't quite do this, but you get the sense that she does that.
+[2:27:22] Rikterr: Rikter, even still, he just bows to her out of respect.
+[2:27:26] Ian Lurie: Rikter, you are very aware. And actually you can give me a separate give me a religion, check 19. You are in the presence of a creature that has a great deal of power here. You have no idea what she'd be like if she were on the Prime Material, but here she is. She has a lot of power. And she is not benevolent. She is in it for herself. She's in it to dominate and control. And yeah, she she is definitely the top of the food chain in this particular pocket universe. But that's the sense you get as you all turn to leave the two robed figures take you up a long series of stairs that the twins kind of struggle on, but they manage up to the very top of this tower. And at the top of the tower, there is an enormous mirror, similar to the one that you stepped through to get here in the first place. It's glowing a dull blue, and there are two dials on it, one on the right side and one on the bottom. And they converse to each other in a language none of you really understand, and you actually can't see them in their hoods, like all you see is the hoods and then these skinny, bony little fingers that go out and manipulate the dials. And you see as they twist the dials, they're trying to, it almost looks like they're they're focusing and zooming the mirror, and they focus it in, and it looks like it's now pointing at Samir, like the right part of the map. They then motion for you all. They're kind of motioning and pointing at a circle in front of the mirror. And they eventually, you know, get communicate to you guys that you need to stand in the circle. And you see now that the mirror is attached to the floor on a giant hinge. So the mirror kind of goes up. It's round. It's on this hinge. And you realize when it closes, it will slam down on this circle precisely. They begin casting it takes them about 15 minutes. During that time, there's kind of a sparking energy that mossy all your first stands up. It's like, it's like a lightning storm almost. It's like you ran on carpet for too long. But eventually they you can tell the spell is drawing to a close. They make a final motion. The mirror bends on its angles, on its hinge. It comes down over top of you, and you brace yourself. You feel like there's going to be an impact, but instead, the mirror comes down, and there's one instant, and I need everyone to give me a charisma check. Charisma save, sorry, charisma save.
+[2:30:48] Rikterr: Remember, everyone gets, everyone gets plus four.
+[2:30:53] Deserves an Arrow With My Name on it: Okay? Sarah 14, yeah. Echo, dirty 20. Track, 18.
+[2:31:08] Unknown Speaker(s): Stan goes, got a 11, maybe 10, okay? Creggan as a one,
+[2:31:21] Ian Lurie: okay? He
+[2:31:23] Unknown Speaker(s): got a 13, okay,
+[2:31:27] Rikterr: even though it is a charisma save where he excels. Rikter pooped,
+[2:31:32] Unknown Speaker(s): no, wait, use your advantage. Un poop. No, that's right, used them both. No, no, I Oh, we only we had that for a party. Yes,
+[2:31:41] Ian Lurie: that was for Yeah. Oh, yeah. He used them both. Oh, wait, no,
+[2:31:45] Unknown Speaker(s): no, you know what? No, wait, I'm gonna use my heroic inspiration. Okay,
+[2:31:54] Rikterr: all right, that is going to be a 30 you
+[2:31:59] Ian Lurie: saved you guys from a world of hurt, the likes of which I was going to enjoy so immensely, and I am now so disappointed.
+[2:32:06] Unknown Speaker(s): Cregyn could have rerolled his but being Craig, he decided not to Emmet. Gregg, that's
+[2:32:15] Ian Lurie: fine. You're okay now. So the mirror comes down, and you almost feel like you stand up abruptly, and you stand up in the middle of a square in the palace district of samure, and just suddenly, like, like, it's almost like a pop up book. Like, when you open a pop up book dimensions, it's that's almost what it feels like, and to people walking by, that's actually what it looks like. So a whole bunch of people jump back extremely rapidly and look very alarmed as these two dimensional figures spring out of the ground and then turn to three dimensions. But you are now standing back in selmur
+[2:32:59] Unknown Speaker(s): in the coolest visual. Thank you. I think mozzie's first reaction is, oh, my God, holy shit. That worked. Whoo.
+[2:33:11] Ian Lurie: I had a whole plan for if it didn't, let me tell you, there was a whole adventure that was going to
+[2:33:17] Rikterr: happen.
+[2:33:19] Unknown Speaker(s): Always, a lot of baddies on the reed man burn around dragons.
+[2:33:27] Rikterr: Oh yeah, with the negotiation, yep.
+[2:33:32] Ian Lurie: So you bring this idea to soroya,
+[2:33:35] Unknown Speaker(s): yep. So let's get mossy some rest. Yes,
+[2:33:39] Ian Lurie: yes,
+[2:33:42] Unknown Speaker(s): yes. Everybody's the rest
+[2:33:43] Ian Lurie: well, as soon as you guys, I mean, within, where do you guys go once you appear?
+[2:33:48] Deserves an Arrow With My Name on it: We had, we had quarters at the Capitol building,
+[2:33:51] Ian Lurie: yeah, so you go in there, as you you enter, you know, obviously there's quite a bit of in the crown district. Obviously there's quite a bit of activity when you show up at the gate and they let you in, you head over to your quarters, and as soon as soon as you get there, one of Sorolla is courtiers shows up at the door and knocks politely.
+[2:34:34] Unknown Speaker(s): Oh, my little friend, please come in.
+[2:34:38] Ian Lurie: The Chancellor would appreciate an opportunity to debrief with you.
+[2:34:48] Unknown Speaker(s): That sounds delightful.
+[2:34:53] Ian Lurie: Shall I tell her? You will attend in a few minutes. Sure we will arrange refreshments, of course. Oh, thank God. All right,
+[2:35:03] Unknown Speaker(s): snacky. So snacky,
+[2:35:07] Deserves an Arrow With My Name on it: we need coffee and pastries
+[2:35:09] Unknown Speaker(s): and bacon, because I don't like bacon. Start turning gray
+[2:35:14] Rikterr: beer. I would like at least two beers.
+[2:35:19] Ian Lurie: She he's gonna see what he can do. This, the list is getting longer, and he's starting to look a little bit
+[2:35:26] Unknown Speaker(s): panicked. Black Sea,
+[2:35:29] Deserves an Arrow With My Name on it: thank you. He'll
+[2:35:31] Ian Lurie: see what he can do. All right, so a few minutes later, you guys head out. You meet with saroya. We don't need to drag this out. There are, indeed, snacks and beverages. She is agreeable to all of it. She does want to meet with Kazan. He's proxy before she says anything. For certain, she is very cautious about obviously, you know, working with someone who undertook political assassination. But as she says, It's wouldn't be the first time. So you know something they probably need to she at least needs to talk before they go to costly war against an extra dimensional city and try to stop things that way, particularly when portals can apparently just pop up anywhere, including in the middle of a square in the palace District, which someone's going to have to explain to me at some point. She says, I suspect you all need rest. Oh, yes, I will let you all go do that. Where did you say this meeting would happen? Or have you said where this meeting would happen yet?
+[2:36:51] Deserves an Arrow With My Name on it: Well, we've one idea that we had was in a neutral space, in Aventine, in our secure Bastion. I I like
+[2:37:04] Ian Lurie: that kind of neutrality. She says with a smile, yes, that's agreeable. I will have my my scribes create this agreement between the cities, this treaty, send it to her, to this kazani Noctis, you said is her name?
+[2:37:29] Unknown Speaker(s): Yes, yes. We
+[2:37:34] Ian Lurie: will send it to her using the tube. She holds it up, says, and I will let you know when we hear a response once we do well, then it's just a matter for the diplomats. Yeah,
+[2:37:51] Rikterr: yeah. Ian, it's three days between some you're in Aventine, correct.
+[2:37:57] Unknown Speaker(s): Okay, if
+[2:37:58] Rikterr: I just wanted to make sure, I just want to make sure that we had time within the two. Yeah,
+[2:38:02] Ian Lurie: if you're hauling ass, is three days. If you're, you know, taking your time, it's maybe four or five. But either way, you have enough time by airship. Yeah, under no other circumstances would you be able to do the trip that fast. Yeah, yeah.
+[2:38:26] Rikterr: And if we have to, we have the teleport circle on the airship that if we had to do something, we could teleport directly there. But
+[2:38:33] Deserves an Arrow With My Name on it: yeah, that's right, yeah. And we got to make sure that, like, you know, we got to make sure that things, that things are secure. We got to make sure that there's food and drink like we've never had a summit before. No, you haven't. So it's like, I think tracks gonna study a little bit, like he may get this completely wrong. Like, like, what are diplomatic protocols? Like, what? What are the what are these high level people gonna expect? I mean,
+[2:39:05] Rikterr: for one you research
+[2:39:07] Deserves an Arrow With My Name on it: Pants,
+[2:39:08] Ian Lurie: pants, yeah,
+[2:39:09] Deserves an Arrow With My Name on it: pants. I'm pretty sure that's assumed below, not like Ritz crackers,
+[2:39:15] Ian Lurie: that's an team business casual is pants. So, there we go. There we go. I
+[2:39:23] Unknown Speaker(s): Yeah, yeah. So,
+[2:39:25] Rikterr: well, Julia, we just negotiated extra dimensional treaty.
+[2:39:29] Ian Lurie: You know, good job, guys. You took me from preparing to run a massive combat to preparing to run a massive trade negotiations between extra dimensional nations. I, I, you know, a lot has surprised me in the last few weeks that this you got me, you got me.
+[2:39:48] Deserves an Arrow With My Name on it: Our characters are growing up. Mm, hmm,
+[2:39:50] Ian Lurie: chaos. Chaos is real. Chaos is not always chaotic, and this is definitely chaos. So all right, think about whether you want to run out the scenario of this, of this meeting, or you want it to just happen off camera. I'm happy either way. Obviously it would be, you know, pretty role play heavy. I can, you know, I can make it interesting, definitely. But if you don't want to play through this, that is totally okay. Just let me know how you'd like to handle it.
+[2:40:24] Unknown Speaker(s): I mean, it sounds like some solid world building.
+[2:40:28] Ian Lurie: It'll Well, I mean, I'll do that with or without you guys. But there's, uh, there is some amazing world building. And if you want to directly participate, this would be your chance the
+[2:40:36] Deserves an Arrow With My Name on it: lean towards, yes. Okay,
+[2:40:40] Unknown Speaker(s): couple weeks think, hey, hey, boss man, cregn says to dry,
+[2:40:49] Deserves an Arrow With My Name on it: yeah,
+[2:40:56] Unknown Speaker(s): there's, there's not, there's no easy way to I Did I lose you? All right, so you, you, I uh, I could have toast. Maybe I'm a little fuss, but I could have almost got us out of there without having to do this treaty thing. And you keep bringing your kids on these adventures. Like, like, they're full grown adventurers and like,
+[2:42:02] Cregyn M'Adär: like, you have kids, but you understand what a gift that is like you keep putting them in harm's way, and I'm not seeing the reason for it. This is you had, you still have kids.
+[2:42:21] Unknown Speaker(s): Sango, you ran off on us like a dad getting a pack of smokes in the night.
+[2:42:26] Ian Lurie: Think this is cregy and not Sango, oh,
+[2:42:36] Deserves an Arrow With My Name on it: I mean, I look, I understand the difference between children and beasts, through which I have a natural
+[2:42:54] Unknown Speaker(s): affinity with
+[2:42:56] Deserves an Arrow With My Name on it: these are not like my children. I treat them as such. They are but, but through, but through the through the combination of natural forces and some divine energies, they're bound to me.
+[2:43:14] Unknown Speaker(s): Okay, so let me ask you this, if I could have got us out of there, and you would have had to leave one behind, would you be okay with that? No, I would. I would have said, they're your kids.
+[2:43:25] Cregyn M'Adär: Let's not mess around with that. Like you still have kids. I don't have kids. They're gone, like they get me taken away like that. You keep bringing them on these adventures, and they are like your little tag logs, your little baby Dino, Bjorn, things like this. I could have got us out of there, but we had too many.
+[2:43:53] Rikterr: Yeah, Reagan, if you had gotten us out of there without negotiating this truce, other people could have died, including other people's children. So I get why you want to get us out there, but not leaving was actually in our best interest at that point.
+[2:44:10] Unknown Speaker(s): Why are you putting your kids in harm's way?
+[2:44:16] Cregyn M'Adär: Like these are kids. You can't leave one behind. They're your kids. Mm, is you, you still have kids like if they're gone, you can't hold them in the morning, you can't tuck them in at night. You can't feed them dinner. They're gone. These are kids. I don't understand that these are kids.
+[2:44:49] Deserves an Arrow With My Name on it: So, so, so again, I I understand what you I understand what you're saying, and it is something that I struggle with as well. And this is not something that I forced them to do. This is something that they have bonded to me to to do.
+[2:45:22] Unknown Speaker(s): They love you and they will follow you anywhere.
+[2:45:24] Deserves an Arrow With My Name on it: And I would need to say,
+[2:45:28] Cregyn M'Adär: and you, you act like you got all the time in the world. You just You never know when that can change.
+[2:45:38] Deserves an Arrow With My Name on it: That's kind of what life is. It's change, and then the adaptation to that change, I know that I'm going to live a very long time. Good for you, and I'm going to lose a lot of friends. Do I forego making connections with other beings knowing that I might outlive them? No, I treat that time with them as fully and as expressly, as purposely as I possibly can, and that is my choice.
+[2:46:24] Unknown Speaker(s): They will follow you anywhere. They will follow all your choices.
+[2:46:36] Deserves an Arrow With My Name on it: Do you think that it is fair? I we have, we have. We have one of the good things about all of us being together for that long. We know histories. I is, and I this is what I choose to do. And if you think I, if I'm if you think that I am active, if I, if you think that I'm doing something wrong, if you think that I'm doing something harmful. Straight up, tell me if you think I'm wrong, straight up, tell me.
+[2:47:28] Unknown Speaker(s): Listen, they're your kids. It's not it's not for me to tell you what to do with your kids. But no, no, no, no,
+[2:47:39] Cregyn M'Adär: but I'm just telling you, I'm just telling you, we almost had to leave one behind that was a legitimate option. Like, that's not a situation that, and I know this, this is not a situation any parent ever wants to be in. Just, I just want you to think about that, because these decisions are high and they're they're life changing, and they last forever.
+[2:48:11] Deserves an Arrow With My Name on it: Yes, you're right.
+[2:48:14] Unknown Speaker(s): The only one to say,
+[2:48:17] Deserves an Arrow With My Name on it: and, and I also, I also need you to recognize the fact that from the point that they were eggs, there's one egg that I took care of that they were hatchlings, and to think of all of the time that I spent bonding with them, training and Protecting them, to the point when they could actually assist me in the hunt. I kept them out of harm's way until they were ready for the hunt. And again, like I know their hearts. I know their minds. They communicate to me. This is what they want. They were born to hunt. They were born to hunt with me,
+[2:49:14] Unknown Speaker(s): and
+[2:49:21] Deserves an Arrow With My Name on it: when they are gone, when I don't know if I'm going to go first or they're going to go first, the impact that they have made on all of Our lives will not be forgotten. That is
+[2:49:42] Unknown Speaker(s): it's well said, but tell their god you don't know how that feels.
+[2:49:52] Deserves an Arrow With My Name on it: You're right. I don't, and then I will adapt, because, as a person who understands nature, death is just as much a part of life. And if I, if I That's easy
+[2:50:11] Unknown Speaker(s): to say when you got 100 years ahead of you, yeah, yeah, I
+[2:50:19] Deserves an Arrow With My Name on it: recognize that. Yeah,
+[2:50:21] Unknown Speaker(s): Reagan, it sounds like you have so much displaced love. I'm sorry you lost your children. If you ever want to share a story, I'll keep their memories alive right here. I don't care. It. In a weird way, I know you could, mostly we can hug. He lets it happen.
+[2:50:59] Ian Lurie: Awkward hug between furry cat person and large, hard shelled turtle person.
+[2:51:08] Unknown Speaker(s): I will then take out the Pulaski and start passing it around.
+[2:51:15] Ian Lurie: Oh, so at the end of a somewhat Bizarre Adventure where you went to a whole other plane. You're now faced with managing a diplomatic summit at your Bastion that's two weeks from now in human time. So
+[2:51:40] Unknown Speaker(s): I will still join, but I will be,
+[2:51:42] Ian Lurie: Oh, that's right, you'll be, yes, you'll be really far away. And then the following week, I'm in Newfoundland, but then I'm back for the rest of the summer. So okay, we can, we can figure it out over the next week or so, because I can also run the game from Newfoundland if I need to, assuming I have decent Wi Fi, which, you know, I don't, I have no idea. I've never been there before. And yes, that was excellent. That was an excellent bit of role playing, guys. I just, I have to, I gotta. Hats off to everybody for that one. And cregy my fucking
+[2:52:21] Unknown Speaker(s): sandwich shop, yeah, well,
+[2:52:22] Ian Lurie: and Creggan, you get
+[2:52:25] Unknown Speaker(s): out of that terrifying battle somebody was gonna die.
+[2:52:30] Ian Lurie: Cregyn, you get an inspiration point,
+[2:52:33] Unknown Speaker(s): woohoo. But a save it for a deck save which I'll probably fail anyway, even when I get a natural 20 All right, cool, guys.
+[2:52:50] Ian Lurie: Thank you as always. That was fun.
+[2:52:52] Speaker 2: Everyone. Love you guys, great night. Bye.

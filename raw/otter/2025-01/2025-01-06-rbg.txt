@@ -1,0 +1,694 @@
+# Ian's Meeting Notes
+# Otter recording 2025/01/06 17:05:44 (2h 49m) id DVflof0j-LstOIdevyH_q1qTLe0
+# https://otter.ai/u/DVflof0j-LstOIdevyH_q1qTLe0
+# Speaker-attributed transcript, verbatim. Raw source for the card at /items/otter/2025-01/2025-01-06-rbg.md
+
+[0:03:57] Unknown Speaker(s): Ian Hey, there. Don't worry, I'm not going to change my screen name to track speak of wood.
+[0:04:13] Ian Lurie: Thank you, because I mean that would be just taunting grounds for immediate termination.
+[0:04:23] Unknown Speaker(s): Hey, I've already got this sunk cost fallacy in Drax, so I don't want to do anything stupid.
+[0:04:32] Ian Lurie: Now, I think I'd be totally justified from being honest. Yeah,
+[0:04:40] Unknown Speaker(s): and then I'm going to Reddit and do like RPG horror stories. My DM
+[0:04:48] Ian Lurie: murdered us because, because of one innuendo too many double entendre, I guess, on tondra, not innuendo.
+[0:04:59] Unknown Speaker(s): Oh, hey, I eating food like a ravenous goblin.
+[0:05:04] Ian Lurie: That's what I was, yeah, it's what I was doing till a moment ago. So
+[0:05:10] Unknown Speaker(s): it's good to see you all. It's been it's been a long time. It has
+[0:05:13] Ian Lurie: been a while. Yeah, one whole holiday. Ah.
+[0:05:25] Unknown Speaker(s): I just got done at the acupuncturist, and I am eating my white and Chipotle. Oh
+[0:05:30] Ian Lurie: no, oh god, that's one of my favorite sort of semi fast food meals, Chipotle. I just, it's just the best.
+[0:05:38] Unknown Speaker(s): Yeah, it's fast, but it's still food, like you can as a food, it will actually mold. It'll actually
+[0:05:47] Ian Lurie: what. It'll
+[0:05:49] Unknown Speaker(s): actually grow mold, not like McDonald's,
+[0:05:51] Ian Lurie: oh, mold as in the verb, yeah, yeah, yeah.
+[0:05:56] Unknown Speaker(s): They're also the only fast food company to donate all 100% of the donations for the Democratic Party.
+[0:06:02] Ian Lurie: Oh, nice.
+[0:06:06] Unknown Speaker(s): I'll talk less about them now, look, I'm in Colorado. Man, we're right by the OG one, you can't do that here. Well, you can, and people will laugh with you, but then they're still gonna eat it, I don't know.
+[0:06:21] Ian Lurie: Well, yeah, in Southern California. I don't know if Chipotle even has any restaurants down there, but it's, it's pretty good compared to a lot of Seattle Mexican food. If I'm being totally honest,
+[0:06:33] Unknown Speaker(s): you don't say Yeah, our town literally has six taco trucks on one street. I mean, Hillary warned us. Do you remember back when, like somebody said, if you vote for Hillary, there'll be a taco truck on every corner, because Mexicans are an invasive species, right? And I'm like, Oh, my God, I want a taco truck on every corner, yeah,
+[0:07:12] Ian Lurie: actually, and that is some of the best Mexican food you'll find in Seattle, yeah, and Phoenix
+[0:07:18] Unknown Speaker(s): the parking lot, and they will be empanadas, your enchiladas in a parking lot, and they will be the best ones of your life.
+[0:07:24] Ian Lurie: There's a taco truck parked at a gas station near here that, I mean, first of all, the gas stations ancient, but then the taco truck looks like it hasn't moved in years, which it probably hasn't and couldn't if it had to, but has the most amazing tacos. Don't know why? Don't know what their secret is. Don't want to know what their secret is, because that would ruin it. So I just go and eat tacos.
+[0:07:49] Unknown Speaker(s): There was a I place in Fayetteville that I would go to, and it was like some of the most up until I was in stationed in Thailand, the best Thai food I've ever had in my life, and I've been eating it for two years. And then one Sunday morning, the Raleigh news has this like section on restaurants that failed the cleanliness test. And it was that that Thai place you got, you got a C minus for, oh
+[0:08:20] Ian Lurie: God,
+[0:08:21] Unknown Speaker(s): right. I've
+[0:08:22] Ian Lurie: seen ones that just get a good score, right? And then you walk in, you're like, I don't know, yeah. And then
+[0:08:27] Unknown Speaker(s): you're like, you know what, I'm two years in, I'm not stopping. That's right. It's just all flavor now, yeah, they don't sterilize the grill. That's where all the flavor lives, right? Right? You want a place where, like, there's a young child from the family doing homework in front and, like, back? Yes, please to be yes. My favorite, one of my favorite restaurants around here, has Mama's meatloaf on the menu. Mama is in the back. Mama loves Hennessy.
+[0:09:01] Ian Lurie: All I ever ask is that no one's smoking over the grill. If they're not smoking over the grill, then I'm probably okay with it, but I don't want actual cigarette ash in my food. And yes,
+[0:09:12] Unknown Speaker(s): Waffle House is not as good now without the smoke. Yeah,
+[0:09:16] Ian Lurie: I don't know why. I
+[0:09:18] Unknown Speaker(s): can't explain it to you, but it's true. I
+[0:09:21] Ian Lurie: have to admit that I have never been to a waffle house. There aren't any here. The only neighborhoods I found them in were the only other time I saw them was driving from New Bern to Charlotte, and it was in a place where I didn't really, I wasn't sure if Jews were legal, so I just, we just kept right on driving.
+[0:09:43] Unknown Speaker(s): They're ish, the two, the two,
+[0:09:48] Ian Lurie: the two, oh my god, ATVs with Confederate flags on the back really made me think I shouldn't stop. So we just kept going.
+[0:09:56] Unknown Speaker(s): I fine. It's one three or more or, well, okay,
+[0:10:00] Ian Lurie: that's that's fair.
+[0:10:02] Unknown Speaker(s): Yeah, I'd never eaten at a Waffle House sober for the first five years in North Carolina, and then I had kids, and now it's I only eat. They're completely sober, and their pecan waffles are what happiness tastes like. Yep, and maybe it's pecan or pecan. No,
+[0:10:26] Speaker 1: look, I don't want it all. Can you just say pecan? Just pecans,
+[0:10:32] Ian Lurie: not pecans? No, I don't. I don't say pecans,
+[0:10:37] Unknown Speaker(s): pecans. Yeah, okay, I just made an empty hook a little y'all are terrible. So
+[0:10:49] Ian Lurie: yeah, it's been like four weeks. Sorry about that, guys, but here we are. James
+[0:10:53] Unknown Speaker(s): Jamar, super good to see you all, yeah,
+[0:10:55] Ian Lurie: yeah. Again,
+[0:10:57] Unknown Speaker(s): it's happy new year.
+[0:11:02] Ian Lurie: We're all still here. Yeah, exactly, yes, exactly, it was that close. So rewinding way back to last time we played, and you guys may have to fill in some blanks for me, but you mossy with
+[0:11:20] Unknown Speaker(s): a gun. Mossy
+[0:11:21] Ian Lurie: with a gun. I had a gun to
+[0:11:25] Unknown Speaker(s): the shirt. It's it's the shirt.
+[0:11:29] Ian Lurie: Look at JP shirt.
+[0:11:32] Unknown Speaker(s): Oh, that's awesome. Mossy with a gun. I thought last time I had a gun, and I was like, Oh no, yeah,
+[0:11:40] Ian Lurie: no, no, no, no. That was not part of the the recap. You had defeated thargar acts. You came back to Aventine, to a hero's welcome, as you well deserved, spent several you've been home now for several weeks, if not a couple months, almost, just kind of getting things in order, getting, you know, getting the initially, just getting your your home, back in order, and everything. But then Drach, you planted the seed that gave rise to the Bastion that sprang out of the ground in the middle of the high Ward, kind of just engulfing the two properties, covering the manor with roots, with like a protective cover of roots, and also giving rise to an entire Tavern on the other side. And when you went into the tavern, you discovered that there was a doorway that looked like it went outside, but instead opened into an entire extra dimensional space that will now be your Bastion. That's as far as you got there. You did receive a visit from the head of the HOA. Seemed like good enough little guy just trying to, you know, trying to manage all the egos in the neighborhood, and he's probably, you know, might be happy now that there's not a burnt out husk of a home on that other property, although there's probably gonna be people complaining that you're blocking their view. But you know, it's the way it goes. You went to a wedding that almost went horrifically wrong, and at the wedding, saw soroya demi Arma, who followed up on a request that you had received, saying that she would very much like it if you could go with her to to sell your and potentially help her out with a situation down there. And she hasn't provided a whole lot more information than that. You did get sense from her. It's, it's reasonably serious, you know, it's not life threatening, but she really needs some high powered help with it. And I'll, I'll leave it there, unless you have questions about other stuff that that went on. Ian,
+[0:14:07] Unknown Speaker(s): so we appreciated some Fay to go ahead and get richer out of a bad romance. Yes, well,
+[0:14:14] Ian Lurie: that was part of the wedding. Yep, that and you did get that resolved, you think somewhat to some extent, hopefully, the The Princess is now married, as far as anyone can tell to her, her Aladdin, Aladdin lover, so they're legal Now, which everyone's very happy about, including her dad. There is, you know, there was no real kind of diplomatic fallout from any of that, you know, that was not exactly a prank, sorry, Faye will be Faye. Yeah, Faye will be Faye. Not exactly a prank. But definitely, everyone's going to overlook it, because they can't really think of what else to do. I mean, really, what else are you going to do? Can't really declare war on the entire fame realm. So and fade is definitely not of mine to do that. I I think there's any other major important stuff you guys did rob your next door neighbors? Well, your neighbors down at the end of the street. It's a Dragonborn family.
+[0:15:36] Unknown Speaker(s): Those waffles are worth it. I stand by what
+[0:15:38] Ian Lurie: I who so far have not either they don't know or they have chosen not to make a big deal out of it. Could be both
+[0:15:49] Unknown Speaker(s): Mossy Richter Sango like I was out running errands during that time. Do I? Do we need to worry about this retribution, arson? No. Should I worry about getting some waffles, because we're really good and I'm gonna eat the next batch. I feel like you're not answering me on purpose. That made just a little bit more sense than what you just said,
+[0:16:17] Ian Lurie: but it doesn't surprise you. Okay.
+[0:16:19] Unknown Speaker(s): Okay, hold on, rikter, do I have anything to worry about?
+[0:16:28] Speaker 2: No, we were super quiet. Also, this really feels like a tomorrow problem, because today waffles, I
+[0:16:37] Unknown Speaker(s): am 100% okay with tomorrow problems. That is literally how I live my life. This is the problem for future tracking, yes.
+[0:16:45] Speaker 2: Plus, the guy was a complete and total douche bag to his employees. And you know, that's not my Get down. So I figure, even if he decides to knock on our door and see what's up, it's a win win situation for us. All
+[0:16:59] Unknown Speaker(s): right, I'm good with that, man. Okay, I've been
+[0:17:03] Speaker 2: reading up on Evan tin Ian laws, and I saw something I really liked. It was called, stand your ground. Come here, and they knock on our door. I'm
+[0:17:12] Unknown Speaker(s): not responsible for any of the traps, you know.
+[0:17:17] Ian Lurie: And also, he seemed like the kind of guy that would leave a really nasty remark on someone's thread posting and then block that person so they couldn't respond to their comments. That is some of the most epic douchebagger I've ever seen. So I just, I'm still giggling about it. He's on
+[0:17:35] Unknown Speaker(s): next door.
+[0:17:37] Ian Lurie: Is he really? No, no, yeah. I see what you're saying. Yes. Yeah,
+[0:17:41] Unknown Speaker(s): probably yes, too, though
+[0:17:42] Ian Lurie: he probably is too Yes, and it's
+[0:17:44] Unknown Speaker(s): so nice to play this game when I'm actually fucking awake. So yeah, awesome tells you that a waffle catch. And to be clear, Jack, there was no arson involved the other night. Okay, that is very true arson in a very, very, very long time. Okay, that's good, because generally, when we go do things, things catch on fire. You being a paid person, I don't know.
+[0:18:20] Ian Lurie: But back to the Ian brothers. They have some experience. Oh, that's right.
+[0:18:26] Unknown Speaker(s): So the other question I have is, what do we name all of this? Shut up. Sango, like, like, so we've got, we've got the lady in the room. What do we call our Bastion? Or what do we call our giant house? Because the damn it Sango, the damn it Sango. Happy house of hippies,
+[0:18:54] Ian Lurie: the Triple H
+[0:18:57] Unknown Speaker(s): Yes is yes when you say it's like I like, but that is also a very fun idea. But like the acronym there. So what could be a fun F, A, F, O, title, say, publicly. Oh, wow. I bet chap JP T would know now that wizard is banned here, sir, that's true. So So getting into a little bit specific, so that'd be fun. So remember when we talked to Roxy about her just general hesitation for being seen out in public. Rikter, does your tele does the teleportation circle in your house? Would that work for Roxy, would she be able to BAMF, over through your teleportation circle
+[0:20:07] Speaker 2: meta game. JP, you know more about this Bastion than I do. So if you want to give Jamar the answer and then
+[0:20:13] Unknown Speaker(s): have, I don't know. I honestly don't know, that's that's more of a subtle DM question, however, I will, I will drop the link, because one of the things we did, Ian, is we have our our team facilities and our individual facilities, okay?
+[0:20:30] Ian Lurie: And I'm
+[0:20:31] Unknown Speaker(s): going to drop the link, and one of the team facilities is a teleportation circle, okay?
+[0:20:40] Speaker 2: I know that we could make it go from our airship to here, which is what we really, really wanted, so that we could have quick access to Aventine instead of always having to wait for you. Know,
+[0:20:53] Ian Lurie: you do have to get someone to come and do build that circle for you. Yes, someone has to do all the casting to create it. So you do need to go hire someone, or talk to fend all or something. So just think so it's not there right now, you will need to get someone to set it up. So I'm just looking here at Team facilities. Yes, okay, you've got a permanent teleportation circle, so it won't cost you any extra to get it, because it's part of the bad part of the Bastion, but you will have to get, oh, there you go. Hire a friendly spellcaster for 14 days to cast a spell for you. So think about that, that teleportation circle, can, I believe, go to any other circle, as long as you know the sigil sequence, yeah,
+[0:21:49] Unknown Speaker(s): like Stargate, yeah,
+[0:21:51] Ian Lurie: is basically, yeah. Okay, hold on a second. Any creature we
+[0:21:56] Unknown Speaker(s): basically have, anyone our phone number, any
+[0:22:00] Ian Lurie: creature that enters the portal instantly appears within five feet of the destination circle, each circle includes a unique sigil sequence. When you first gain the ability to cast the spell, you learn the sigil sequences for two destinations turned by the DM now understand it does have to be a caster has to take you through. Someone with that spell has to take you through the teleportation circle.
+[0:22:26] Unknown Speaker(s): Oh, I could have this bang over for housewarming,
+[0:22:28] Ian Lurie: yeah? But a random person can't just walk into it and just show up somewhere else, yeah?
+[0:22:35] Unknown Speaker(s): That would be missile beards, vacuuming, just walkers back.
+[0:22:37] Ian Lurie: Yeah? Whoops, does
+[0:22:40] Unknown Speaker(s): uh, is fain doll? Know, teleportation, yeah, uh, well,
+[0:22:43] Ian Lurie: he's not very good at it, as you know, but, yeah, anyway,
+[0:22:50] Unknown Speaker(s): I say we hire this one out. Yeah. Wait, did I say fain doll? Is that his bag's real name? Yeah, that
+[0:22:56] Ian Lurie: is indeed his real name. Oh, what's the brother?
+[0:22:59] Unknown Speaker(s): I forgot what his real name was. What's the what's the brother that's on the ship?
+[0:23:06] Ian Lurie: He's not a caster, yeah.
+[0:23:10] Unknown Speaker(s): So, so, just so we know we have a it's called a menagerie. A Menagerie is our security system. I feel like JP Jack's got like, three of these. No, that's a Minaj, but Menagerie. So for the for the menagerie, it's our security system, and it can be four large or 16 small to medium creatures. These are the Bastion defenders. So you may have noticed some small, brown, adorable lumps on the on the grounds we have 16 capybaras as our as our defending, as our defenders.
+[0:23:56] Ian Lurie: Well, that immediately means no one will ever, ever, I don't know why my camera just stopped working, guys, that means no one will ever attack. Just
+[0:24:04] Unknown Speaker(s): you just guilted the DM into never. How do you think I'm keeping Kiki alive?
+[0:24:12] Ian Lurie: There we go. Um, interesting. See copy bar. Are your okay?
+[0:24:22] Unknown Speaker(s): I mean, how did they attack? So the way that it works is, like, there are a couple of dice rolls, and then, like, you could lose a couple, but then they come back. But depending on, like, how the rolls go, it's like you lost one build, one room in your building, or something like that. Okay, but I actually want to just mentally picture how copy bears attack, isn't it?
+[0:24:51] Ian Lurie: Now I have to name all the copy bar
+[0:24:54] Unknown Speaker(s): Oh, it's so hard for you,
+[0:24:55] Ian Lurie: I know, and I'm gonna have to do little stat blocks for them, even though I know that's not how it works, but Okay, so you're gonna have a menagerie. I'm kind
+[0:25:04] Unknown Speaker(s): of excited to meet the 916.
+[0:25:09] Ian Lurie: 16, yeah,
+[0:25:10] Unknown Speaker(s): 16, cup of error.
+[0:25:11] Ian Lurie: And then what if someone attacks? You basically make a role against the attack, not creature by creature, but it's basically a menagerie role. And then if you fail, you lose a chunk of the bastion. Yeah,
+[0:25:23] Unknown Speaker(s): right, yeah. So it doesn't matter what animal it is, but I also think it probably be terrifying to have like, four large drag themed animals
+[0:25:38] Ian Lurie: well. But also, I mean, if you don't know what oak Dara is. Let's face it, that thing comes lumbering up to you.
+[0:25:46] Unknown Speaker(s): Yeah, all 16 of them stop and they stare judgmentally well,
+[0:25:50] Ian Lurie: and then they flop over on their backs, begging for scratches. And unless you may successfully make a wisdom roll, you are then stuck there, at which point thistle beard and his friends come up and just bash your head in.
+[0:26:02] Unknown Speaker(s): Yeah,
+[0:26:03] Ian Lurie: yeah, yeah, okay.
+[0:26:04] Unknown Speaker(s): Copy some treats. So the we have a bunch of practical stuff, like a laboratory workshop and a smithy, so we can actually build stuff. And it just allows us to build stuff, but it doesn't actually change the rules on how stuff is built, right? Building stuff you can do this like crib style. Come on, give us the grand tour here. Oh, okay, so, so anyway, so guys, I've done a lot of work, and right now I'm so we go through the bar, we go through the lady in the room. We uh, and there's cat, scritch cat, and kind of what I'm seeing from this Demi plains,
+[0:26:44] Ian Lurie: I miss it. Ki, he
+[0:26:48] Unknown Speaker(s): is, like, missing the movie Encanto, yeah. Okay. You know, every one has their own, like, themed room, yeah, that's what's in my head. Love it. So, like, you go through the track door and it's all like, what? Nothing, yeah, it's all like Twilight in the forest kind of, kind of vibe. So in my area, we've got, to do hold on. So I've got the pub and I've got the sanctum. The Sanctum is a place of solace and healing. It is I can hire hirelings and to kind of help people, and for once a week, I get heal and recall word of recall, so I can basically BAM back to my sanctum. Once a week, we got the pub, and that's all I have. Mossy, you have the archive. It is a repository of valuable books, maps and other things that you study, lots of arcane, weird shit. It's kind of like the secret special room in a big library. I imagine. It's hidden behind the door from my library, absolutely hidden. It takes effort to get in, and only people that you can let in can go in. But the cool thing is, is that basically, you could cast legend lore, and when you study, you can get advantage in like so when you take the time to study, you get advantage in Arcana, history, investigation, nature and or religion, your regular library is like the big library. DM determines the three pieces of accurate unknown information about a topic.
+[0:28:57] Ian Lurie: So and by the way, you sold one of those to a dealer of like, random shit. So
+[0:29:05] Unknown Speaker(s): Bastion, yeah, we had a lot of debt. I don't know Sango also has a library, but I don't know how his is themed. Penguins library is circular and it is four stories tall. Each story is about 25 feet up to the next one. It's dimly lit, flickering, kind of candles on the wall. There's no ladder or stairs to get up from one level to the I'm
+[0:29:37] Ian Lurie: damn monks,
+[0:29:42] Unknown Speaker(s): but Sango manage is just fine, and the library is basically, it's all scrolls, not really book related. Top Level leads off to the side. Actually, there's a dome at the top where you could see out and you could see the stars. And then there's a door that goes around from the top to a to the like a bedroom area with a big wall of glass that he could see out and look out over the city of Aventine. That is awesome. I can almost see your next one being the the observatory, because that is an option. Mossy library is Forest themed, like there's shelves in the tree and there's hammocks.
+[0:30:31] Ian Lurie: I was picturing.
+[0:30:33] Unknown Speaker(s): I was picturing
+[0:30:33] Ian Lurie: like an enormous cat tree with books all over it,
+[0:30:36] Unknown Speaker(s): correct? You nailed it. Um, Sango also has a scriptorium where he can create scrolls copy non magical books, and he has a hireling that will make 50 copies of a thing, and he can craft spell scrolls from cleric or wizard spells level three and below. Can I get that, that guy to create 50 fanfic copies of test love? I mean, yes, guys, just I think she
+[0:31:15] Ian Lurie: she looks at you nervously and pushes her spectacles up and says, Do we have a Do we have copyright to that? I don't want to pirate anything.
+[0:31:24] Unknown Speaker(s): Well, they're on pirated the crew on the ship. We made them a library, and now they've been putting in their own puss gloves. They're a little sticky. Gotta keep the sailors happy.
+[0:31:35] Ian Lurie: I've refrained from making the sticky joke for months.
+[0:31:42] Unknown Speaker(s): But we don't have
+[0:31:43] Ian Lurie: to pay, we don't have to pay royalties or anything. She says,
+[0:31:48] Unknown Speaker(s): Oh, if we try to sell them, I think only if we get caught. Okay. Rikter has a trophy room. This has mementos mounted heads, trinkets, all the weird drugs. Gonna have a fit the dragon statue that we got from the Blue Dragon, like that really delicate, crystally statue, like that's in the trophy room. And game wise, we can actually use this to research like famous items, famous things. It's called, almost like a quest generator, and because it's also where rikter keeps his display of his collectible action figures, yes. Grabbing Funko Pops is the cutest little bobble heads. Yes. And then rikter has a meditation chamber, which is basically a closet, which he will be able to for himself, a fortified self. After meditating for seven days, he gets for the next week, he gets advantage on two kinds of saving throws, but he has to meditate for like, a week,
+[0:33:16] Ian Lurie: oh, a week straight, yeah, go in there, meditate and knock Damn,
+[0:33:21] Unknown Speaker(s): and then for the next week, you get advantage on two kinds of saving throws. So, yeah, the arcane study can make arcane focuses or books. The smithy can create weapons, armor and equipment. The workshop we can craft adventuring gear and uncommon magical items. The laboratory, things like poisons. And then we got teleportation circle out of the entry. So that is and then we got our storehouse, gardens, stables and greenhouse, which are our profit centers. So that is the bastion. Add an overview. We all got some cool stuff, and we all have some, like, actual in game benefits that we get from putting these together.
+[0:34:15] Ian Lurie: And just, you know, the pub is not yet ready to open. Are you just going to give? Give Roxy the job of getting the whole place put together. I think
+[0:34:28] Unknown Speaker(s): Why else did I sell potentially dangerous lore, if not for this? Well? So the two things about the pub is so Blanc and I are gonna, are working really, really hard to open the pub so long and I are having, like, design discussions and all the stuff. The cool thing about the pub is that it does two things that are really cool. One, it is a to do, to do i It's a research so the bartender can send out feelers to find people or information within a limited range. It's like, I need you to find this person. And then the pub specials, they have magical drinks, or drinks that confirm magical effects. Right now it has one magical drink. An upgraded pub will have two magical drinks. Some of them would be like, signature
+[0:35:23] Speaker 1: cocktail. Yes, what is it? Well,
+[0:35:27] Unknown Speaker(s): I haven't, I haven't figured it out yet. So that was one of the questions I like, Should we have a signature cocktail? Like one of the suggestions was a potion of reducing, like the enlarged reduced spell, so all of our patrons are just simply tiny until they're sober enough to go home. Right? Another, another, hey, Kai. Another idea was having a like a potion, like a like a like a beer of bless a blessed beer. So chug it and it's like the blessed spell
+[0:36:11] Ian Lurie: should get a lot of customers.
+[0:36:13] Unknown Speaker(s): I mean, we're in a tree. It feels like we should be like blessed bourbon. I like that. Plus just beer. Does anybody else imagine, like, one of the rooms is, like, of this pub is, like, sort of a hobbit hole related one? Oh, absolutely. That was my Oh, yeah. Like, I really was like, should I get to stage? Should I get a stage? The stage is basically useless. The theater, like in game effects, it's super useless, but it would be a lot of fun.
+[0:36:47] Ian Lurie: You might be able to grab Juan Tates from from the green slaad, get him to come up and perform.
+[0:36:53] Unknown Speaker(s): Oh no, once he got that, Sango lives here, he's not going to do that.
+[0:36:58] Ian Lurie: Yeah. Bear point. Bear point.
+[0:37:01] Unknown Speaker(s): Freaking on the drums. Okay,
+[0:37:03] Ian Lurie: so I'm gonna assume that blonde then is in charge of getting the place up and running like she's getting furniture. She's doing all that stuff. You guys are not gonna go do it.
+[0:37:14] Unknown Speaker(s): I will. Roxy needs and long needs. Yeah. 100% Yeah. Yeah. Just kind of match the thing, like carving things and just making sure, like, 90% of my work is really kind of making the pub ready during the downtime, cool.
+[0:37:40] Ian Lurie: All right, any other stuff you guys want to take care of in Aventine, not I'm going to fast forward to when you're supposed to meet so Roya,
+[0:37:52] Unknown Speaker(s): yeah, yeah, cool. I'm just trying to think, right, looking through stuff. No, I think we're good. Feel like there was something I can't remember it. So the the other thing is, is that I want to make sure that Rick, whoever needs it, generally Sango or rikter, if they want access to the sanctum, they can use it for like their religious practices.
+[0:38:31] Ian Lurie: I think rikter one. I think rikter wanted some portion of the Bastion set aside for a chapel to the Raven Queen. Am I correct about that, rikter, or was it just part of your room? Or
+[0:38:44] Speaker 2: I was going to make it part of the room, just because I know we had, right now such limited space, and we were trying to make sure that everyone got at least one single room, and if we had to overlap one of those single rooms, it became a common use.
+[0:38:56] Unknown Speaker(s): Mossy has so many craft rooms, I don't know if we need them all. Like, when am I realistically going to make us armor? We have badass armor. We can absolutely swap that for a proper travel on a golf sex call over there, Mossy is cool with it. She does Ravenclaw, Raven Queen, and then the she actually prefers multiple gods, to be honest. That makes it less weird to her. Yes,
+[0:39:23] Speaker 2: cool. Well, then let's discuss this more offline. Just because I need to get into the Bastion thing too. I just haven't, I just haven't wanted to. I need to get into it.
+[0:39:35] Ian Lurie: And everybody give me just roll D 20 for me.
+[0:39:38] Unknown Speaker(s): So my little cousin that had the baby also gifted me dice. These are sea glass looking ones, and they're nice. You wanna? You wanna roll this for me? Kai, seven,
+[0:39:52] Ian Lurie: 711.
+[0:39:56] Unknown Speaker(s): Oh, natural. 20.
+[0:39:59] Ian Lurie: James, sorry. What'd you get
+[0:40:01] Unknown Speaker(s): nine? Okay,
+[0:40:04] Ian Lurie: I guess. JP, JP, wins this one. So. JP, you're, you're going around, or, Drak, you're going around and you're trying to find, you're just sort of finding your way around, still right. And every now and then when you're in the Bastion itself, you do kind of take a wrong turn and you're heading to what you think is your room, and you turn left, and then you realize you're heading towards Mossy rooms, and that's not where you're supposed to go. So you turn right, and all of a sudden, you're standing in front of a door with something written on it. Do you read primordial?
+[0:40:35] Unknown Speaker(s): I don't think read.
+[0:40:37] Ian Lurie: There's some weird looking, I mean, not even letter looking things common,
+[0:40:42] Unknown Speaker(s): elvish or Sylvan, and under common? Yeah, no,
+[0:40:47] Ian Lurie: there's something kind of you think it's an inscription on the door. You're not sure. And it's just saying there doesn't appear to be any, any lock on it or anything like that. But it's just there with a weird, weird writing on it. I'm
+[0:41:04] Unknown Speaker(s): going to touch it, see if I can push.
+[0:41:08] Ian Lurie: You can't push, but nothing happens when you touch it. There's a doorknob and stuff on it. Oh, there's
+[0:41:14] Unknown Speaker(s): a doorknob. Yeah.
+[0:41:15] Ian Lurie: So you just pushed on the door that says pull you know, Midvale
+[0:41:19] Unknown Speaker(s): School for the gifted.
+[0:41:21] Ian Lurie: Yeah, yeah, exactly. No.
+[0:41:25] Unknown Speaker(s): I'm gonna try to open it for the door. Okay, the door knob, so
+[0:41:28] Ian Lurie: you pull it open, and at first you think there's just a really bright light or something on the other side, but then you realize you're just staring at this solid, marshmallowy mass on the other side of the door. It's just, it's just, when you open the door, it sort of goes thump out towards you, a little bit like there's a big inflatable pillow on the other side.
+[0:41:55] Unknown Speaker(s): I've heard about these things. I wonder if there any fawns in here. I'm gonna go through. Wait before I go through, I'm gonna send message to the party line. Go, Hey, I found a weird door. I'm walking through it, and then that's it.
+[0:42:18] Ian Lurie: Okay, you take a step forward, and why don't you roll me? Give me a Dex roll.
+[0:42:27] Unknown Speaker(s): You're right. 2727
+[0:42:31] Ian Lurie: you take a step forward, and you just sort of go boink as your face just bumps directly into what feels like this non sticky, marshmallowy mass, and then when you step back, you haven't gone forward at all, like, basically, you walked face first into a pillow, and then it just kind of pushed you back
+[0:42:52] Unknown Speaker(s): again. I think I need to say some magic words before I get through but I don't know. I don't know what these words are. Can anyone come over here and help me? Oh, you were serious. No, I am. This is the door that I don't know what it is. Okay. How do I get to you? To the best of my knowledge,
+[0:43:14] Ian Lurie: you all can find your way over there. I'm just gonna go, yeah. So when you push it just it just compresses a little bit and comes back out it is like pressing on, like a memory foam pillow. That's the best description. So Ian
+[0:43:31] Unknown Speaker(s): cregn speaks primordial. Oh, okay.
+[0:43:34] Ian Lurie: Well, you guys all get there. Cregn, you're the last one. Rikter, you get there and you see Drak there, kind of poking at this big pillowy thing. Mossy, you see the same thing. And then cregy, you walk up to it, and the doors open so you don't see the inscription, and you're just looking right. You have none of you ever seen anything remotely like this.
+[0:43:59] Unknown Speaker(s): Shut the door so that like, okay. Here are the words,
+[0:44:02] Ian Lurie: okay, so cregn, when you read it, it says, Not done yet.
+[0:44:12] Unknown Speaker(s): Does cregn actually tell us? Though, what does it say? Cregn? What's it say? Nothing, invisible. I can't think of anything funny fast enough. I just say what it says. I don't believe him inside. Check,
+[0:44:34] Ian Lurie: yeah, that's on brand. Okay.
+[0:44:37] Unknown Speaker(s): Come on little really, what does it say? What is your insight role? Hold on, 11. So wait, that makes 1217 so the Drax still doesn't believe him, and Mossy doesn't want to believe him, but realizes that he's still in the
+[0:45:01] Ian Lurie: truth. Rikter, do you speak primordial? I can't remember. No, okay.
+[0:45:12] Unknown Speaker(s): I just watched to see what Drak will do next.
+[0:45:16] Ian Lurie: So mechanically speaking for the group, when you decide to add on to the bastion and spend the money, this is where that will happen. Oh, cool.
+[0:45:25] Unknown Speaker(s): Oh, because this
+[0:45:27] Ian Lurie: is an extra dimensional space, so you can't just sort of build out right. There has to be a place you're you're going. So
+[0:45:35] Unknown Speaker(s): I still want to see what drag would do next, though. Now I'm in creg inside. I've actually step back, and I'm leaning up with cregn to watch. So, because I don't actually believe Cregyn, I'm going to take a running jump, like a running like I'm a, you know, Walter Payton. You sure you want, you sure you want to do that?
+[0:45:58] Ian Lurie: Kiki Says. Kiki Says, I'm so here for this. Why don't you give me a deck save with disadvantage, because you're flinging yourself into this floofy surface. I need
+[0:46:13] Unknown Speaker(s): to admit the video camera, okay, hold on, hold on. This is gonna be
+[0:46:18] Ian Lurie: Instagram gold. This is
+[0:46:19] Unknown Speaker(s): gonna be the save, yeah, okay, that's a 16, okay. So
+[0:46:27] Ian Lurie: he goes Drak, like, backs up and makes this running jump at the door, sort of, you know, does this kind of flying kick that you've seen him do so often and so perfectly, and when he hits the door, it just kind of goes, and he almost disappears, like you can just see the back of his head in the middle of the pillow, and then it goes, and he's spat back out down the hall. He does successfully land on his feet, but it's it's as if he jumped head first into a trampoline, a vertical
+[0:47:02] Unknown Speaker(s): but Sango heard, heard Mossy say something a minute ago. Any minor illusions? The act of Drak doing that again, and it plays on a loop. And the first time it's exactly like it the second time it's getting a little worse and like, the fourth time he, like, hits the wall, bounces off and lands on the floor, on his face. That was good. Anytime you want to see that happen again, there, Jack, just let me know I can recreate a point. Thank you. I I appreciate that. That was good. That's good. We learned today. We learned so
+[0:47:46] Ian Lurie: you guys head back out. You are supposed to meet soroya tomorrow morning. That's when you're scheduled to head for some year. Are there any supplies or anything you want to aside from the standard stuff, which Lysander will have all set for you anyway. So, oh,
+[0:48:04] Unknown Speaker(s): who wants to have a bomb making group tonight? Could be fun to make some improvised weapons before we head to Samir. So, so, because of the new rules, I can change my weapon expertise, I'm going to try out a crossbow or a heavy crossbow, because it has a push mastery, because I think I could push you like 20 feet or 10 feet. So I'm going to keep my dagger mastery, change it on the long rest, change it to my a heavy crossbow mastery, okay, all right, and I have a regular standard, non magical heavy crossbow. There did not seem to be enthusiasm in the class. Is family bomb time, not on the table. Oh, I'll low on gourd grenades. And I feel like we can make some some better things. Like, they're not really good at being destructive, but if they were good at being specialized doing a specific thing, like, what if I can make one that was just like, bright colors and was really loud and distracted? Or, you know, I have ideas, like, I thought about the disco disco bombs. Like, what if we made them bigger and actually make someone look where we want them to? I would love to be able to. I don't think we do it now, but maybe we could figure out how to put the spell fog cloud in a grenade. I don't know, smoking. I feel like we'd have to, like, get a scroll of it. Yeah, yeah. I like this idea. We know a guy who's got a scriptatorium, because Sango all fancy. Now, just take the take the gourd, put the scroll inside there.
+[0:50:06] Ian Lurie: Think about your specialization as an artificer, and what you can make with that specialization. So, yeah, out, you know, as an alchemist, yeah, you can make a gourd explosive of some kind. Um, you'll have to make a roll, yeah, and make sure you have the like
+[0:50:21] Unknown Speaker(s): I want to do now, give me thing here. Make essentially like a flash, bang, okay.
+[0:50:27] Ian Lurie: Why don't you give me a unless you know the rules for this, off top of your head, I'm going to say you do you make an artificer role. So that would be your for proficiency bonus doubled, plus intelligence I believe. Okay, hold on, I'll check to make sure, but
+[0:51:00] Unknown Speaker(s): I had a flashbang arrow once you had a what? Remember I had the flash, the flash, the flashbang arrow once, did you? Yes, we're underground. It was before the menopause, and it had, it didn't do any damage, but it had a condition of saving versus blind, okay, yeah. Like, I would rather use the blasting powder. I have to go ahead and make things like this. I think it's better as a support tool than it is, is damage? Yeah, mechanically, it was just as is this a condition safe? Okay?
+[0:51:50] Ian Lurie: So this role is just to make sure you build a proper container for it, so that it explodes when and how you want it to. Okay.
+[0:52:00] Unknown Speaker(s): That's the third 11 in a row, but that makes 36 oh, okay,
+[0:52:05] Ian Lurie: so yes, you make what you want. You're, you're reasonably certain this will work.
+[0:52:14] Unknown Speaker(s): Excellent. So I have, I have five. Hold on. Let me find out how much blasting better I have. Yo playing a clipped at your backseat. Is hard, but I repeat myself. Okay, I have files, and I don't know where they are in here.
+[0:52:45] Ian Lurie: Okay, why don't you just make a note and we'll figure it out after the game.
+[0:52:49] Unknown Speaker(s): Oh, I have five. Never mind. Search works wonders.
+[0:52:53] Ian Lurie: So you have five, what? Vials
+[0:52:56] Unknown Speaker(s): of blasting powder.
+[0:52:57] Ian Lurie: Okay, okay, so that's five bombs. Okay, all right, we'd like
+[0:53:03] Unknown Speaker(s): to make two of them for arrows for Drak, and then three of them is bombs. Okay,
+[0:53:12] Ian Lurie: that's a different role for the arrows. That's trickier because the gourd bombs are, you know, this big, but now you're trying to make something much smaller. So Ian do that role again for me with disadvantage.
+[0:53:27] Unknown Speaker(s): I'm helping her. Can I
+[0:53:31] Ian Lurie: No, you're not an out. You're not an alchemist. So,
+[0:53:33] Unknown Speaker(s): so 17, okay,
+[0:53:37] Ian Lurie: all right, you think you made them. They look like they'll work.
+[0:53:42] Unknown Speaker(s): Excellent. So direct, put two in yours and Ian, put three in mine. Or no wait, put one in mine, and then I'll pass out to Sango and rikter the other ones. I fine. Thanks again.
+[0:54:07] Ian Lurie: I'm sorry. What
+[0:54:08] Unknown Speaker(s): did you make? Mossy? It is a gourd. Flash, bang.
+[0:54:15] Ian Lurie: You have stats for that?
+[0:54:17] Unknown Speaker(s): Nope, but JP does from his arrow. It's literally, it's literally just causes a blindness saving throw to the casters, or, in your case, Mossy spell, DC. Okay, so that is a saving throw against do 18.
+[0:54:53] Ian Lurie: And I'll say that now that you're higher level, you can choose when you fire it or use it, whether it's going to be a save against blindness or deafness, you can do either one, since it is cool, can't do Both. They can do one or the other.
+[0:55:17] Unknown Speaker(s): Got it? Do you see it was a con save?
+[0:55:32] Ian Lurie: No, that would be a deck save, right? JP, we can, guys, we can figure this out. Okay, yeah, we don't need to do this right now. So we got Jamar and James are kind of stuck waiting for us. Okay, so the next morning, you guys head and it's been a while since you've been on, been on the bill and CIS content, but you head over to the wharf, and you know, you see the villains. Villains discontent has been, you know, Lysander and the crew had been very busy refitting it and getting it all put back together. And since it is has been six or eight weeks, it does look, looks like it's in very, very good shape.
+[0:56:19] Unknown Speaker(s): You guys,
+[0:56:22] Ian Lurie: when you get to the docs, soroy is already there with someone you've never met. Looks like a very long suffering assistant of hers, possibly, and four enormous trunks that you think must have been just for the wedding, you're not sure. And she's getting some folks to help her get them up onto the ship. She's doling out some tips to some nearby Urchins or something, and getting them to bring the stuff up to the ship. Ian do you all get on board or what are you? What are you up to? Okay, everybody, give me a perception check with disadvantage.
+[0:57:22] Unknown Speaker(s): Perception with disadvantage. 1316, 1421, oh, so very low. Yeah,
+[0:57:40] Ian Lurie: and James, you're talking about Sango.
+[0:57:45] Unknown Speaker(s): Yeah. Sango is 21 cregns, 12. Okay,
+[0:57:49] Ian Lurie: so rikter and Sango you, you get on the ship, and you look down, and you briefly think you may have seen a cloaked figure that was looking up at the ship pretty intently and then disappeared into the crowd. But you're not quite sure. It's a little hard to tell too, because you know, you guys are shepherding two nearly full grown Allosaurus onto the ship, which always gets a few people looking so you know, may have been someone looking, maybe not tough to tell for sure.
+[0:58:29] Speaker 2: Are you lying? Did anyone else see someone kind of suspicious looking at the ship?
+[0:58:39] Unknown Speaker(s): Yes, I'm right. Someone suspicious out of docs?
+[0:58:44] Speaker 2: I know foolish question, but just just humor me here.
+[0:58:48] Unknown Speaker(s): I didn't say anything. I was I was busy doing doc stuff. I was doing the doc stuff, battening things down and shoring up the main ropes. About bombs, yeah, I thought I saw something out over there. Maybe,
+[0:59:14] Speaker 2: um, okay, rikter is going to walk over to Sorolla and just sort of tell her and warn her. Hey, I think I I saw some. I don't want to cause a big alarm, but just, I don't know if you think anyone's following you, but just a heads up,
+[0:59:29] Ian Lurie: very possible. She says, what
+[0:59:33] Unknown Speaker(s): type of day is it? You said is around noon or so?
+[0:59:35] Ian Lurie: It's no it's morning. It's now, it's mid morning.
+[0:59:41] Unknown Speaker(s): Party line. Does she want us to go fuck with him? I think,
+[0:59:49] Speaker 2: I think the best would probably be to draw this person out. She's been super secretive so far, and I just told her, and she was very non plussed about it. So I think let's play along and see if we can draw this person out a little bit later. Okay,
+[1:00:09] Ian Lurie: okay, so once the once Soros gear is moved up onto the ship, and the twins are and this all takes, you know, this will take a couple hours, right to get everybody and everything up there. Once that's done, you're ready to go. It's pretty nice day. You know, you hear gulls and you see them flying around, making a pass to themselves. The crew is in a pretty good mood. They've been in shore for quite a while, and while it's fun for a little while. They would love to get out again. They're, you know, some of them are pretty much broke at this point, because that tends to be what happens when they're in shore. So you guys climb aboard, you don't see that mysterious person again, unless you do something deliberately to try and entice them into the open. Lysander calls to the crew to cast off. Go ahead,
+[1:01:13] Unknown Speaker(s): I would say, about a half hour before we're done, I'm gonna wander through the ship looking for anything suspicious, and then using detect magic to see if I can See anything. Okay, find anything. Just, you know,
+[1:01:42] Ian Lurie: give me, give me an investigation check. Give me a couple investigation checks, actually, because you're doing the whole shit.
+[1:01:53] Unknown Speaker(s): That's a natural 20 in the first one, okay, for 21 a 14 on the second Oh, and a 20 total on the third. Okay,
+[1:02:11] Ian Lurie: so you're going through the like the the the entire ship, the above decks is fine, crew quarters, all that stuff. There's nothing, you know, nothing that appears wrong. The large crew sleeping area you're going through there, and all the hammocks are hung, and there's all the, you know, all of their their gears kind of spread out along the wall. And you're walking along and you see something moving in one piece of gear. You're not sure. Couldn't quite tell what it is. You have to take magic up. You don't detect anything. But something's definitely moving.
+[1:02:52] Unknown Speaker(s): Party line, guys, I'm done in the cruise area, something, something looks a little maybe out of place down here. Somebody want to come back? Me up a little you
+[1:03:04] Ian Lurie: hear a little scratching sounds from you're not quite sure where it's coming from. You just know there's something making little scratching sounds in the in one big pile of gear. You haven't gotten close enough to figure out if there's one container or something that it's in. Yeah,
+[1:03:18] Unknown Speaker(s): I'll be right. I'll be right there on my way. Hey, before I run down to you, does this look like something that we need to get to? Roy off the ship? I don't know yet. Okay, I'd also over the party line cregns, like I'm busy. Richard, should we? Should we have one person stick to soroya and one person go down with Sango? I'll stay with Soraya. You go down Gotcha?
+[1:03:55] Ian Lurie: You guys get down there.
+[1:03:58] Unknown Speaker(s): Taking a look, taking a look. See, yeah, yeah. Right over here in this area, there's something about something moving, but I heard some description sounds, you know, drag. You're the beast lover. You might want to take a look at this crazy, yeah, yeah, yeah. I'll definitely take a look. Okay,
+[1:04:29] Ian Lurie: give me a purse. Give me a nature check.
+[1:04:35] Unknown Speaker(s): Oh, hold on. I Yeah, it's 14,
+[1:04:45] Ian Lurie: okay, um, you think that there's, like, there's a couple of back, a couple, there's a backpack, and there's a sleeping bag, and then next to it, there's a larger bag that may have something like a container inside of it, you're not sure, and that's definitely where the scratching noise is
+[1:05:04] Unknown Speaker(s): coming from. So it's just Sango and me. Okay, party line, no,
+[1:05:12] Ian Lurie: rikter is there. Oh, rikter is
+[1:05:14] Unknown Speaker(s): there. Okay, yeah, so party line, without going like, I'm gonna open this the scratches are coming from here in three, two, open it up.
+[1:05:28] Ian Lurie: So there's this hissing sound like and you look and in there is the most bizarre looking creature you've ever seen. It looks like a cat, except it has no fur on it whatsoever, none. So it's all this kind of wrinkly skin, and just it's a completely naked cat, and it kind of it looks at you for a minute. It looks suspicious. Its eyes are kind of narrowed because it's suddenly bright, and then it goes back to just giving itself
+[1:06:00] Unknown Speaker(s): a bath. Pocket, pocket bacon. Animal friendship.
+[1:06:06] Ian Lurie: Mari, it looks very happy. In fact, you're not sure you needed to cast animal friendship, but it just looks over at you. I
+[1:06:16] Unknown Speaker(s): kind of reach out and come on. I got more. It's a
+[1:06:22] Ian Lurie: little cage, by the way. It's in, oh, it's in a little cage. There's like a little bowl whole food. I should have said that, little food dish, little water dish. There's a little blankie in the corner, couple little toys.
+[1:06:34] Unknown Speaker(s): We have an animal smuggler on the ship. Wow. Or a couch ever I'm gonna cast speak with animals. How you doing, little buddy? Hey lady, I'm not sure what you what you doing, actively making effort to not know they are completely naked, having a bath. Okay, why are you any particular reason you're in this cage here?
+[1:07:10] Ian Lurie: Nice Guy, brought me from the big dry place, and so I'm here big dry place. Nice guy,
+[1:07:23] Unknown Speaker(s): you know, what did the, what did the nice guy look like?
+[1:07:28] Ian Lurie: You? Him? Actually, he just the, it just sort of looks at you. All goes, You smelled like, and then it describes like this incredibly elaborate combination of smells has smelled like this, which makes no sense to you whatsoever. You're just like,
+[1:08:00] Unknown Speaker(s): do you? Maybe we can find the guy that brought you on here and we can sure, okay, so we'll take the cage and we're gonna go around to the crew and okay, we can find out who see
+[1:08:16] Ian Lurie: you. Just you take the cage up above decks, and immediately one crew member goes and, like, starts trying to go and get busy doing something else,
+[1:08:29] Unknown Speaker(s): like party line. Hey, cregn, can you see that? See that that fella over there, and I just described him. Could you bring him down below so we can have a talk with him? Yeah, okay, whatever. So Craig and does get someone? He goes, Hey, let's get, I got some for you down below. So then we take the cage down there. And okay, just see your little friend.
+[1:09:14] Ian Lurie: So this is a half plane. You don't know their name off top your head, kind of for a halfling, kind of tall, very thin and wiry, again, for a for a halfling, they look really worried, like, really nervous. I said, yeah, yeah. This is, this is Sierra.
+[1:09:46] Unknown Speaker(s): What? What you doing with Sierra? Well, I just
+[1:09:52] Ian Lurie: please don't tell I know we're not supposed to have pets, but I just I saw him in a market, and he looked really sad, and I wasn't sure what they were gonna do with him, so I bought him, and he's really sweet. I mean, he hasn't grown any fur yet, and I'm not sure if that's normal or not. And Drak, you're absolutely certain that this particular kind of cat is known for not growing fur. This is a hairless cat. It will never grow fur unless something hideous happens or there's magic.
+[1:10:22] Unknown Speaker(s): Sango doesn't know that, so he's well a second when he asked the cat, do you grow for? You have any fear coming? What's for? Like, you see the top of my drag here his head. He's got that fluffy stuff up there.
+[1:10:35] Ian Lurie: Yeah.
+[1:10:37] Unknown Speaker(s): You know it's like, kind of like that. The fucks wrong with you? You're definitely a sailor cat, that's for sure. No, so I'm taking that to know,
+[1:10:50] Ian Lurie: oh, that's, and that's, that's my, that's my person, that's
+[1:10:54] Unknown Speaker(s): okay. He
+[1:10:55] Ian Lurie: the cat immediately, kind of reaches out, like with the, you know, the murder mitten kind of thing, like just stretches out, extends its claws.
+[1:11:06] Unknown Speaker(s): Okay, so you like this person? Yeah.
+[1:11:09] Ian Lurie: And there's immediate purring. And the halfling, whose name is Bramble, actually, Bramble immediately goes over and holds out his arms as kumiri starts Baby Talking to it. Okay? Cat curls up happily.
+[1:11:29] Unknown Speaker(s): So why aren't you allowed to have pets on the ship?
+[1:11:31] Ian Lurie: I don't know. Fen law says there's no pets on the ship. He said there's an exception for the twins, because they could eat us.
+[1:11:42] Unknown Speaker(s): That's true, but it also seems like a double standard, doesn't
+[1:11:46] Ian Lurie: it? They could eat us.
+[1:11:49] Unknown Speaker(s): Cats and Eric Coker don't always get along. True? Maybe we should ask his bags Brother, if we can clear this with him. Make a nice catio.
+[1:12:06] Ian Lurie: This whole ship is a catio. See ya. Thanks for the bacon.
+[1:12:17] Unknown Speaker(s): He says, Thanks, Jack. By the way, you like to bacon. Drax, a beast lover. He loves He loves beasts. You're a beast, by the way.
+[1:12:30] Ian Lurie: Good. I'll take that as a compliment. Okay,
+[1:12:35] Unknown Speaker(s): all right. Well, enjoy the rest of that bacon, and hopefully we can see you again sometime soon or not, whatever. Okay, bye, the drag you should probably talk to, you know, because I brother and see if this is okay.
+[1:12:58] Ian Lurie: We can, we can leave that for another time. But with it, with a natural 20, I had to give you something. So you had to find something. Okay. You guys get underway. Soroya is above Dex. She try
+[1:13:20] Unknown Speaker(s): and draw that dude out? Oh,
+[1:13:22] Ian Lurie: I don't know. Are you guys gonna try and draw that dude out?
+[1:13:28] Unknown Speaker(s): Just to fuck with him a little bit,
+[1:13:29] Ian Lurie: I said a few times, if you want to, you can, but to
+[1:13:33] Unknown Speaker(s): get back so I could propose,
+[1:13:37] Speaker 2: how long have we been flying away from the city. Well, you
+[1:13:41] Ian Lurie: haven't started yet, but it was a couple hours of you guys getting everything on the ship and, you know, getting the twins settled in and everything else. So you're about to leave. Okay,
+[1:13:50] Speaker 2: maybe, let's maybe, let's wait until we leave so there's not if they're on the ship, there's not a place to go, so that way we haven't been cornered. I
+[1:14:00] Unknown Speaker(s): was just saying we could stealth and take a look for them. You got a that would let us know if we see them outside, then you know they're not on the ship. Okay?
+[1:14:15] Ian Lurie: So you guys want to look on the wharf, not on the ship? Yeah, stealth
+[1:14:19] Unknown Speaker(s): around. Okay,
+[1:14:20] Ian Lurie: cool. Who's going
+[1:14:24] Unknown Speaker(s): team self, Team self. Sango, buddy, haven't had you in the field in a while. Your counterpart was a blank, you footed, motherfucker, but he was good at some shit, man. He really was good. He kept you alive long enough for me to find you guys again. So that's, that's, that's a good thing. Oh so stealthy time I will. I will keep my position near Sorolla, okay, same. Okay.
+[1:15:00] Ian Lurie: So you guys head down, back down to the dock. Um, what's the plan here? You're just going to sneak around and look for that person. I'm
+[1:15:08] Unknown Speaker(s): going to use the pass by the trace and exercise all my tabaxi stealthiness.
+[1:15:13] Ian Lurie: And where are you going?
+[1:15:17] Unknown Speaker(s): We're looking at like rikter, I imagine, has told us in detail what the person looked like and where he saw them all.
+[1:15:23] Speaker 2: Rikter didn't get a very good look, so I don't know what detail I could provide, because it was just kind of like and didn't know. So yeah,
+[1:15:29] Ian Lurie: yeah, you guys saw someone in a cloak
+[1:15:34] Unknown Speaker(s): who appeared to be pretty suspicious looking. He random person in a cloak, but
+[1:15:39] Ian Lurie: they did, but it did jump out at you by how they really appear to be studying the ship. But
+[1:15:46] Unknown Speaker(s): Mossy, why don't I just go walk around and you stealth around behind me and see if you can follow you? Yeah, yeah, just see if they come after, bear whatever and you catch anyone's eye? Yeah, I can do that. Yeah, okay, that's good still for me. I'm just going to take an old man stroll around the lock. Yeah?
+[1:16:09] Ian Lurie: Why don't you give me a charisma check?
+[1:16:14] Unknown Speaker(s): I got a plus zero in Christmas. Gonna be great. Let's see, I'm not proficient in deception, performance, straight charisma.
+[1:16:25] Ian Lurie: This is basically, this is basically just seeing if Fortune smiles, intimidation,
+[1:16:29] Unknown Speaker(s): no, none of the charisma based stuff I have any thing that's an eight, okay,
+[1:16:39] Ian Lurie: yeah, that's right. So with an eight you, you trip over a couple people, you, you piss off a couple people. Nothing serious happens. No weird, mysterious cloaked figure though, up on the ship. Rikter Drach, are you from sum year? No, but rikter is okay. Rikter soroya, she doesn't exactly take you aside. I mean, Drak is standing right there, but she starts talking to you, and she says, rikter, what do you what do you know of some year before the fall?
+[1:17:26] Speaker 2: Not much there. I don't know whether it's through trauma or whether I just haven't tried to think back, but a lot of my childhood memories up until about seven are just a blank, okay,
+[1:17:40] Ian Lurie: and just from the DM that means you, you know, you were pretty familiar with sort of the layout of the city, but you didn't really experience that much of it. And you're pretty sure that's what she's asking. And so she says, Well, just, just so you just to sort of set the stage for what we're heading for. Sound Muir was once run by a series of crime syndicates that were always fighting, always struggling against each other, and it never really, never really ended. And the fall, actually, in a horrible way, was a good thing, because it wiped out the gray elf leadership that was deliberately stoking this ongoing crime war. And with that, the Haddad combine, who you met a long time ago. And you remember, this is this weird, this weird group of figures that turned out to be shot arc, hi in a in a room, basically. And she says,
+[1:18:54] Unknown Speaker(s): I
+[1:18:56] Ian Lurie: something is going wrong with the balance of power in the city, and until everybody else is back, I don't want to say too much more until we're underway. I don't want to say too much more, but this, this is why I'm asking you all to come with me.
+[1:19:13] Speaker 2: Sounds good. How? How precarious is the situation right now?
+[1:19:22] Ian Lurie: Maybe we should wait till everybody's on the ship. It's precarious enough that I don't necessarily want to say too much until we are actually underway, because I don't want anyone to be able to get off this ship and say anything. And, you know, I don't know if the walls heaviers or not, but better not take any chances.
+[1:19:40] Speaker 2: Sounds good. Then Drak and I will continue to grip our weapons hard and protect you until we set sail.
+[1:19:47] Ian Lurie: And then Soros soroya turns to you and says, By the way, you may not remember this, but we met before the fall. And then she kind of turns away, looking over the railing the ship with a little smile on her face.
+[1:20:04] Unknown Speaker(s): Oh,
+[1:20:08] Speaker 2: yeah. I would also like to maybe talk about that when we're set sail.
+[1:20:18] Unknown Speaker(s): One eyebrow goes up. That's the deadly eyebrow. That's canonical now as drag pulls the bow, his eyebrow raises, yeah,
+[1:20:35] Speaker 2: there's the deadly eyebrow, and there's the wooing eyebrow. You
+[1:20:42] Ian Lurie: Yeah. I mean, don't get me wrong, for a 75 year old story is pretty hot, but probably not. You're You're not her type. Let's just put it that way. So you guys come back to the ship. You didn't really find anything Mossy. You know, there are plenty of pretty sketchy folks walking around, because it's the waterfront. You didn't find anyone paying any incredible attention to anything. Sango did manage to really piss a few people off. So it's entirely possible that whoever it was was scared away, but you don't think so? Well,
+[1:21:21] Unknown Speaker(s): I got to enjoy a good show twice. Yeah,
+[1:21:29] Ian Lurie: with that, the lines are cast off and the villains discontent is underway. You're going to head east for, you know, about a half a day, and then you're going to turn south. It's maybe a four or five day journey down to sell mirror, assuming, you know, weather conditions don't turn on you or anything like that. It's pretty much the perfect time of year to be traveling by air. And obviously, you know, you've wiped out most of the bad guys. There's not that much left to mess with you.
+[1:21:55] Speaker 2: Oh, one thing I just remembered were we waiting direct to drop the twins off at the stone step mountains. Did I get the name right?
+[1:22:04] Ian Lurie: Uh, the white sand step.
+[1:22:07] Unknown Speaker(s): God close. Samson and I was way off. Reagan's having an effect on you. Yay. Yo. I feel. I feel that based on what she said, this may be on the return trip, okay,
+[1:22:27] Speaker 2: because I just wanted to make sure that we didn't skip over that step. Because I just realized, as we're talking about the trip, that we've talked about doing that for you
+[1:22:34] Unknown Speaker(s): and spoken and training, which it sounds like you can get a couple days in. Yep, yep.
+[1:22:50] Ian Lurie: So once the ship gets underway, they do. She does. Soroya does say, you know, you Yeah, if, if you, if we have time, I would like for us all to meet now and talk about exactly what the reason that I need your help.
+[1:23:15] Speaker 2: We do that. Mossy, have you noticed anything? I know you went around stealthing. Have you noticed anything? Did you want to try and stealth one more time before we started getting into our chit chat? Oh,
+[1:23:30] Unknown Speaker(s): I would love to just Yeah, make a nice little stealth around the ship.
+[1:23:33] Ian Lurie: Around the ship. Okay, why don't you again? Give me a perception check.
+[1:23:42] Unknown Speaker(s): Natural 20 or a 26
+[1:23:46] Ian Lurie: so you perceive the shit out of everything. And as far as you can tell, there's nothing amiss. There's a little bit of contraband, you know, stuff like that, but certainly nothing unusual, nothing where you would look at it and say, oh, you know something's wrong here. Everything appears to be pretty normal.
+[1:24:09] Unknown Speaker(s): That report back, and that one guy has the first draft his new book. It's like toss globe. What's What are they calling this? Three of them, pretty cool. Yeah. Wait, what is Director other work? How'd you learn who taught you that? And I've learned it from you. Mossy left like little catnip nugs under people's pillows as she was snooping.
+[1:24:39] Speaker 2: All right, I think now we're ready to have our little chat. Okay?
+[1:24:44] Ian Lurie: So Lysander says he's going to have a he wants to serve a special meal. It's kind of traditional for the captain to host everybody in his cabin for a special meal the first night out. So he gets everything set up, and you all go in there and are enjoying a great meal. And Soro is there, and she says, I feel a little if I were someone to feel guilty, I'd feel a little guilty because I haven't told you the full scope of the problem that I'm bringing you into. But, yeah, I I'm I'm not concerned about
+[1:25:43] Unknown Speaker(s): Reagan says, in his dry humor, uh, don't worry. If we don't like it, we'll just throw you over the board.
+[1:25:50] Ian Lurie: That's fair. Totally fair. She just looks you dead and she's completely dead panic. She says, Absolutely. Um, she says, I was talking to rikter about this briefly before and Mossy, you may remember some of this too. I don't know when you left Samir, but before the fall, the city was a series of warring crime families, and the gray elves that ruled the city encouraged this. It helped them keep control of the city. But really, day to day, control the city was was these three families. With the fall the Grails were wiped out, and the power imbalance became so severe that one family, the Haddad combined, gained the upper hand and took over the city, and they have ruled the city ever since. And they are, they were a crime family. They certainly did their share of bad things, but they have kept the city under control and have seen to its growth and recovery since the fall. You know, as the chancellor, I'm not inclined to push back against that, so I have served as their liaison to the rest of the rest of praxia since the fall, and I help make sure that their will is carried out day to day in the city.
+[1:27:19] Unknown Speaker(s): Damn question with Steve's family, having been tinkerers, insomnia, or would they have known these families?
+[1:27:28] Ian Lurie: I mean, you know you were also a troublemaker. So you did know a bit about these families. You didn't know. I mean, you don't know the specific details of them. You do, you know, but because you were pretty young when you left. But yeah, I mean, there were three families. You didn't know the names of them or anything like that. You knew there was organized crime. You knew there were certain places you didn't go and there were certain people you did not steal from. You also know that the owners of the clever luck did pay a protection fee to one of those families pre fall, and you're not sure what they do now.
+[1:28:12] Unknown Speaker(s): Well, thank you so much.
+[1:28:16] Ian Lurie: She says no one had attempted to stop the Haddad combine or disturb them, as they've seen to the growth of the city, I have to tell you, they have been very good administrators of the city. They they have everything they have done has been, as far as I can tell, for the good of the city. And I do not tell anyone else this, but as cynical as I seem, I love samur, and I want it to flourish, and they, in my opinion, are the ones who have most helped it do that. Until recently, no one has attempted to stop them. Three days before you heard from me, one of the Haddad combined was killed, and I would say it was under suspicious circumstances, except it wasn't suspicious at all. They were clearly murdered. We can't quite figure out how. We're not sure exactly what happened. We just know that this and you guys know that the Haddad combined. There's eight of them, and they all refer to themselves as the Haddad. So she says, you know, the Haddad was killed when we found them. They were basically a dried husk, a desiccated corpse. We have put the on my instructions, my team has put the body aside. I would like your help figuring out who did this, why and how we stopped them. My fear is that where this might look like a very minor thing and pre fall, it probably would have been, I would have rolled my eyes and said, This is the kind of thing that happens when you have war and crime families. Now this is much closer to the assassination of a royal of royalty, also in the time leading up to the assassination. So for maybe two months before that, there was a long campaign of there were people handing out documents in the city suggesting that the Combine did not have the city's best interests at heart, that the Combine was stealing, that the Combine was crooked, that they were allowing people into the city that shouldn't be there, that they were deliberately playing different groups off of each other. Here's one of the and she pulls out a piece of paper and sets it down in front of you. The specifics of it aren't that important, but rikter and Mossy, because you're the two who most understand the dialect, this is basically suggesting that the Haddad combine is not interested in that it does not have the best interests of the city of salmon at heart, that they are bent on taking the wealth of the pity of the people within the city and using it for their own devices. And down at the bottom right corner of that printed that leaflet basically is an image, a very small image, of a black wing on a white background. And you're not, you know, it's not something you've really seen before. But she says this was these, 1000s of these were handed out in the city. There were some local religious leaders began preaching against the Haddad combine. None of that worked that well. The Combine clamped down on it, if I'm being honest, and I helped them shut down a lot of that, that disinformation. And it was a couple days after that that the Haddad was found dead, so I'm concerned. There's something more serious here.
+[1:32:32] Unknown Speaker(s): Black wing is up. Rikter, I don't want to sound goddess, but is that a you thing?
+[1:32:40] Speaker 2: I've literally been waiting for someone to be like, Hey, can I roll the check? DM,
+[1:32:49] Ian Lurie: yeah, give me a religion check. Awesome.
+[1:32:51] Speaker 2: I don't want to just know it when I don't know it, that would be a 15
+[1:33:01] Ian Lurie: you're pretty well versed in the symbols of religion. You know, a black wing on a gray background. Could be anything. You know, the Raven Queen. It's a very ornate pair of wings that are curved, right? So you're pretty sure it's not that. It might not even be a religious symbol. It might just be the symbol of an organization. It's hard to tell, but nothing jumps out of you. Would
+[1:33:26] Unknown Speaker(s): Drak be able to tell us what sort of creature that wing belongs to and the habitat that they live in?
+[1:33:32] Ian Lurie: You're pretty sure it's a Minecraft creature of some kind, because it's basically 10 blocks arranged in shape of a wing. So No, probably not Drak. You can give it a shot if you want. But
+[1:33:45] Unknown Speaker(s): is that a nature, I guess? All right, 13, yeah,
+[1:33:55] Ian Lurie: no, you're pretty sure it's some kind of Minecraft creature. It's a win,
+[1:33:59] Unknown Speaker(s): yeah, yeah, it's what people think of a wing as, yeah. Rikter
+[1:34:03] Speaker 2: tells Mossy, I don't think this is tied to the Raven Queen. If it is, it's a new sect that I haven't heard of. So I don't know if this is religion related. It could be, but not any that I know of. Ian Oh,
+[1:34:20] Speaker 1: I
+[1:34:24] Unknown Speaker(s): trust you. I mean, all your gods look the same to me. Very fair. Very fair. I once thought the same. And the sky falls on Mossy Ian, yes, sorry, no, go ahead, yeah.
+[1:34:51] Ian Lurie: The journey is extremely uneventful. You make excellent time. The weather is perfect, but on day three, you're flying over part of the blighted haunts, the part where the white sand step sort of starts to turn into jungle, which then turns into the blighted haunts. And you're looking and Drak for you in particular, it does not look right. It almost looks as if there was a horrendous forest fire that came tearing through here. And you can you think that because everything is growing back, like you can see shoots and everything, but it just looks like this entire area was just blasted by fire, and it's a pretty immense area, and you guys can all see it.
+[1:35:52] Unknown Speaker(s): Any indication of how long ago that fire would have happened, it
+[1:35:58] Ian Lurie: would have been, well, actually, everybody give me a nature check, um, with at disadvantage, because you're way up in the air.
+[1:36:04] Unknown Speaker(s): Yeah. And with the Royal
+[1:36:07] Ian Lurie: No, no, she has no idea. Okay, 917,
+[1:36:16] Unknown Speaker(s): 16, okay,
+[1:36:17] Ian Lurie: maybe three months ago, maybe four months. You know, that's how long it takes stuff to start growing again. Soroya says, I'm a city Earl, I don't
+[1:36:32] Unknown Speaker(s): this would have, would this have been when we were out across the water? Yes,
+[1:36:38] Ian Lurie: it definitely would have been right about that time. And as you fly over it, you know, Lysander has you up at about six or 7000 feet. As you fly over it, you start to think, okay, there's there's something familiar about this, and everybody give me, give me a straight up wisdom. Check.
+[1:37:16] Speaker 1: 22 I poop. Oh, no,
+[1:37:21] Ian Lurie: no, okay, 20
+[1:37:22] Unknown Speaker(s): and 22 Okay, great. Okay,
+[1:37:27] Ian Lurie: rikter and Mossy are gazing into each other's eyes so they have no idea what the hell is going on the other two of you. You look down and you're thinking for a minute and and by the way, Keurig is with you, unless you say no, because he loves doing his cartography thing. And just as you're starting to realize what you think this is, because this fire looks like it was in a perfect disc, he hands a sketch to you and says, I know what this is, and it is he because he sketched the pattern inside of it as well. Is a perfect pattern. He thinks it's probably about two miles wide of the life seal that agrona cracked during your fight.
+[1:38:21] Unknown Speaker(s): The life seal is in the tree, not
+[1:38:22] Ian Lurie: the life seal. Sorry. What was the other the one that she cracked was the
+[1:38:29] Unknown Speaker(s): the other seal, the fake
+[1:38:30] Ian Lurie: seal. Yeah, sorry, but Sorry. Didn't
+[1:38:35] Unknown Speaker(s): mean to be like, actually, no, no, no,
+[1:38:37] Ian Lurie: no, no. You're fine. That's all good. You're right. He says, This is what it looks like. So you're this. It matches that seal.
+[1:38:52] Unknown Speaker(s): And a grown up broke it when we were across the ocean, when you were
+[1:38:56] Ian Lurie: fighting, yeah, okay,
+[1:38:57] Unknown Speaker(s): it wasn't the one that she broke before heading over, no,
+[1:39:00] Ian Lurie: no. That was the one that caused magic to die and destroyed one of the ley lines. Or destroyed the ley line
+[1:39:09] Unknown Speaker(s): is this? Is the is the area that this is in? Does it correspond with the map that had the four hiding places of the seals. Give
+[1:39:22] Ian Lurie: me a perception check
+[1:39:25] Unknown Speaker(s): investigation in my notebook. Oh,
+[1:39:27] Ian Lurie: you do all right, fine.
+[1:39:28] Unknown Speaker(s): I've written that down. I made a map of that when we did it.
+[1:39:31] Ian Lurie: DM, looks annoyed, because you have to make it die, wrong?
+[1:39:35] Unknown Speaker(s): I'll just pull up. Yes,
+[1:39:36] Ian Lurie: it is the location of that seal.
+[1:39:40] Unknown Speaker(s): Okay, so when the seals are broken, a firestorm thing happens where they were stored. You're
+[1:39:50] Ian Lurie: pretty sure every time a seal was broken, something different happens. And this is the only the second one that got broken. So it's it's tough to tell for sure, but something bad happened, yes, yeah. And
+[1:40:03] Unknown Speaker(s): cregn, wife and crude visited the teeth where one was at was broken there, and it was, if I remember correctly, she said it was kind of a rubble demolished, damaged area, yeah, okay. So, and there was two of the four were broken. That's
+[1:40:33] Ian Lurie: right, okay.
+[1:40:34] Unknown Speaker(s): So these are the two, okay,
+[1:40:38] Ian Lurie: and you think back now and where that other seal was was directly on the lay line. So the destruction of the ley line from the shattering of the magic seal apparently did what it did. You don't know what this one did, except that it caused incredible damage.
+[1:40:59] Unknown Speaker(s): Ian do we you said it's about two miles wide. Can we fly over to or see the sort of the center of it? Yeah, what do we find there?
+[1:41:24] Ian Lurie: So you fly over the center of it, and Kirk is keeping track and kind of looking at this and figuring it out. And it takes you a while, but eventually the five of you, including Kirk, realized that that is the location of the flesh loom in a metaposes crypt. So it's not where the entrance was, it's where the loom was originally, where you had the fight with a menopause.
+[1:41:59] Unknown Speaker(s): There was a seal down there. We didn't know. Well,
+[1:42:01] Ian Lurie: no, I mean, the seal was down there, and agrona must have came in and grabbed it at some point. Remember, because she run, she went around the world grabbing all the seals.
+[1:42:20] Unknown Speaker(s): What was the room like, whether or the flush loom was that, was that the in the undead area city, kind of mini city area, oh, that was
+[1:42:29] Ian Lurie: in the crypt of a menopause. It was at the far end. It was where you had the kind of green glowing strands of force coming from a, you know, going to a central location that was being used to kind of weave necrotic energy into a metapos. At the center of it was an engine. The engine was no longer working when you were there, at least, it didn't seem to be working at full power whatever. And you had figured out at the time that whatever powered the engine was either damaged or gone,
+[1:43:05] Unknown Speaker(s): but she likely took it before we got there, or someone
+[1:43:08] Ian Lurie: else took it, and then she went and grabbed it or something.
+[1:43:12] Unknown Speaker(s): My all my years of gaming, like video games, I loot every damn inch of every damn dungeon, so I'm just sitting here thinking, Did we miss that thing?
+[1:43:25] Ian Lurie: You did not miss that thing? I'll tell you from it. I'll tell you the backstory is that the corona did not get it. A different set of treasure hunters grabbed it, and then she went years before, and then she went and killed the treasure hunters and took the who were like 90 years old at that point, and took the seal they had basically been puzzling for their entire lives as to what they could do to unlock the power of this thing that was clearly an incredibly powerful artifact, but would not respond to anything they did. It was driving them insane trying to figure out what to do with it. And then she showed up, killed them all and took
+[1:44:12] Unknown Speaker(s): it you died there. It's true, yeah,
+[1:44:18] Speaker 2: and thankfully was resurrected there and learned some lessons.
+[1:44:26] Unknown Speaker(s): Yeah, it's called an arc.
+[1:44:31] Speaker 2: The arc of the arc of the rikter ramble is strong and bends towards justice.
+[1:44:36] Unknown Speaker(s): Ooh, that's a good one. Stolen from MLK,
+[1:44:44] Ian Lurie: that would be why it was such a good
+[1:44:49] Unknown Speaker(s): one. All right, so, so devastation, but the world's still here, and with that, should we go check out a body? Yeah, I don't think that we need to stop and investigate this further, because I think the path that we're on is more pressing. This
+[1:45:10] Ian Lurie: was more of the DM wrapping up one particular thread that he had left dangling.
+[1:45:15] Unknown Speaker(s): The seal
+[1:45:15] Ian Lurie: had been broken, and no one really knew what had happened. So flora and fauna did suffer, but it all appears to be coming back.
+[1:45:24] Unknown Speaker(s): Oh, we could go plant a seed here. You could,
+[1:45:27] Ian Lurie: if you want to. Yeah,
+[1:45:30] Unknown Speaker(s): maybe on the way back.
+[1:45:33] Ian Lurie: So, another day, day and a half, and you arrive over some newer doing
+[1:45:37] Unknown Speaker(s): the spell cannon while we're making our way.
+[1:45:42] Ian Lurie: Oh, yeah. Who's doing it? I
+[1:45:44] Unknown Speaker(s): think we said Mossy this time. No, I did mine at the Crash Course
+[1:45:48] Speaker 2: you did yours. Oh, no, did you know it? Then I will do I will do it unless Sango you want to go.
+[1:45:54] Unknown Speaker(s): No, I'm good. Rikter will go. How many roles do I owe you, sir,
+[1:46:01] Ian Lurie: you owe me something here, four roles. Okay,
+[1:46:15] Unknown Speaker(s): there's no pluses, right? No, just straight up roles, okay, yeah, and
+[1:46:18] Ian Lurie: it's straight up. Sorry.
+[1:46:21] Unknown Speaker(s): 14, okay. Ian Sango and Drak some goggles,
+[1:46:28] Ian Lurie: just Yeah. Ki, he goes to the far end of the ship and hides again.
+[1:46:32] Unknown Speaker(s): 12. Kiki, he's smart. 18, okay, good.
+[1:46:40] Ian Lurie: You're not down into the right anymore. Well, that felt Nope, that didn't sound good.
+[1:46:49] Unknown Speaker(s): And 19, Oh,
+[1:46:50] Ian Lurie: all right. So you, um, you don't have any huge mishaps. There's a couple times when you're casting eldritch blast and you think maybe because elder splast is sort of on the edge of evocation magic. It's not like, you know, evocation, pure evocation, is blowing the shit out of things. Eldris is a little more surgical. So maybe you're not actually, you know, it's not quite as risky. But you cast in the first couple times it sort of fizzles, and Kiki kind of Snickers, actually, and Mossy head. She says, Tell him not to worry. It happens. Everybody his
+[1:47:29] Unknown Speaker(s): first time you jerk.
+[1:47:32] Ian Lurie: But then the second time, the third time, you actually get a pretty good blast out of it. And the third time, this jet of eldritch energy flies out the front of the ship. The entire ship shudders for a second. It hits a hillside about 10 miles away, and you can't see it perfectly, but basically, there's this little and all this rubble explodes out of the hillside, and there's some really pissed off birds. But other than that, no harm done. But it definitely worked. So you have figured out the eldritch the spell cannon,
+[1:48:06] Unknown Speaker(s): hell yeah. Mechanically, it's a intelligence based weapon.
+[1:48:13] Ian Lurie: Well, it's an evocation magic based weapon,
+[1:48:17] Unknown Speaker(s): okay, so like pluses for like pluses, yeah, so
+[1:48:20] Ian Lurie: when you fire it, it amplifies the range and the damage one d6 times. If you're not proficient with it, you plus one the multiplier. But there's a one in four chance that there's a back blast and it does extensive damage to the ship otherwise, yeah, casting a vacation magic on it with proficiency, you just cast it, and then every six rounds, you can fire a spell that way. There may be other risks to the ship. Sorry, but I lost
+[1:48:55] Unknown Speaker(s): an eyebrow in training, right?
+[1:48:58] Ian Lurie: And understand, animus never built anything like this before, so no one knows exactly what happens when it works. But so far, it's been pretty good, aside from the whole back blast and nearly destroying the ship a couple times. Okay, um, you guys fly in over some Europe. Now the one thing is, this is summertime. And summertime in some Europe is like summertime in Florida, hot, like stiflingly, horribly hot, at least for someone like me, it's like foul. Do not go there. Go directly to air conditioning as soon as I can. And the the the mist district, you know, which used to be sort of that out most outer ring. You can just see haze rising up over it in the heat and but you guys pull in over the the central ring. The Hang on, sorry,
+[1:50:04] Unknown Speaker(s): Rango, just like shaking his robes, trying to air out right,
+[1:50:08] Ian Lurie: right,
+[1:50:09] Unknown Speaker(s): but I don't have to wear that armor today. Who must be
+[1:50:13] Ian Lurie: Lysander. Lysander looks really happy, and you know, at some point, things were worked out with the cat, and the halfling is on deck with the cat, and the cat is like, so happy in the sun. But yeah, so it's you're you're pulling in, and unlike last time where you landed in the residences, which is the third ring out, you actually pull in directly over the crown District, which is right outside the palace. The palace is the center, the top most circle. The Crown district is the next, next one down. That is the wealthiest ring. This is what. That's where Soraya lives. And I'm sorry, valet, yes, valet parking. And you land and more at the one airship mortgage in the city, which is in the crown district. You walk off the ship soroya. There's a bunch of functionaries there to meet with soroya. You get that, that same kind of smell of flowers you had the last time you were here, that kind of vague smell of really good quality cooking meats, you know, nothing, nothing really, you know, there's none of the smell of kind of big city that you might get in the summer. In a big city, a lot of effort is put in here to try and keep this place, keep this place smelling better. Let's just say there's an incredibly heavy guard presence here, and this area is ringed by a fairly large set of walls.
+[1:52:01] Unknown Speaker(s): And on that note, Sango did pretty good on the airship this time, until we were landing, and then I rolled a natural one.
+[1:52:11] Ian Lurie: Oh, dear. Okay, yes. On that note, so Sango, you proceed to toss your lunch. It is entirely up to you where it lands. You feel it coming, though. It's not a surprise.
+[1:52:24] Unknown Speaker(s): He doesn't look he's just over the side, okay,
+[1:52:27] Ian Lurie: yeah, you guys see it. He starts looking really, really green, and then he just runs for the runs for the side.
+[1:52:40] Speaker 2: While we're landing, rikter goes to his room and changes out of a grown his armor into one of his fancy dresses, just because it's so bleed and hot that that armor is dumb to wear. Okay,
+[1:52:58] Ian Lurie: everybody else, good. You land, you more. You get off the ship. Soroya says that she'll arrange for quarters for you in the crown district. She would prefer that you stay up here while you're working on this. And says, give her a couple of hours, and then if you'd like to go see the body right after, right after dinner, when the sea starts to cool off, that's the ideal time to go.
+[1:53:25] Unknown Speaker(s): Well, can we leave you with euros? Though?
+[1:53:28] Ian Lurie: Yes, she says I can the best ones,
+[1:53:33] Unknown Speaker(s): canonical for this area, right? Was Euro?
+[1:53:36] Ian Lurie: Well, there's all sorts of delicacies. They have coffee, which they call cloth, which is unique no one else has that. There's euros, there's this fruit dish, the iced fruits, basically that no one else has on all of solidrie, especially now, and everything is very heavily spiced and flavored, because, you know, you are in this tropical climate where spices are, they grow well. They're easy to obtain. That's why trade to and from here is so valuable. We definitely gotta
+[1:54:12] Unknown Speaker(s): repay some more with all the food trucks. I Ooh, yeah. We need to buy, like, coffee, and then take it back and stock the pub.
+[1:54:31] Ian Lurie: And what, I'm sorry, stock
+[1:54:32] Unknown Speaker(s): the pub. Oh,
+[1:54:33] Ian Lurie: damn, that's yeah, okay, that's a good idea.
+[1:54:38] Speaker 2: And if Drak, I'm just saying. I see all your little notes establishing, like some sort of trade, where we don't have to always be the ones coming down here. We can have some sort of shift and everything, if we want to make money on it.
+[1:54:52] Unknown Speaker(s): Well, see that's okay out of game. I kind of see the storehouse, the Bastion thing, not like a storehouse, but it's the ship you that's how we manage the trade routes. And so I will buy coffee and spices and stuff like that, and then we could trade it back, and then turn that into the pub business. And
+[1:55:14] Ian Lurie: the coffee is actually called Miriam, but we can just call it coffee. There's just so you guys know, if you're, if you're thinking about this, I'm looking at my list, the big things here, the primary foods are fresh fruits, olives, cucumbers, you know, really lightly leavened bread, all sorts of different, yeah, you know, kind of meat prepared like you'd think, you know, to be wrapped up in bread and stuff like that, fish, the meat of various serpents, both, you know, very common. There is one particular liquor created from the local trees called varnat that is extremely strong. And if you remember last time, but two of you had an extreme mishap drinking var not. There are also drugs here, which are not found elsewhere, on solidria, because the climate doesn't really, you know, freezing cold climates are not good places to grow wheat. Basically, there are four kinds of drugs here. There's aurigar, which is a hallucinogen, and a lot of the upper and middle classes consume it. Here, it's sort of the party drug elf cap, which is a milder version of origa, which, again, you guys also had some experiences with last time, there's one called rack, which Mossy took. It's an extremely powerful psychotic and hallucinogenic when I
+[1:56:44] Unknown Speaker(s): take that, yes,
+[1:56:45] Ian Lurie: it's illegal on sound mirror. You took it when you were at the when you guys were helping out the salt Marin, and I believe you spent a fair amount of time, yeah, you were tripping balls for a while. And then there's another one called Mercy, which is a powerful sedative. It's used for medical procedures. And, you know, up in, in Aventine, most anesthesia is done magically. Here they've actually, you know, figured out how to do it chemically. So, so those are other things that, if you want to, you can begin to import. Just understand, you know, there may be consequences. I feel
+[1:57:25] Unknown Speaker(s): like we could be really profitable with coffee and spices. Maybe we maybe start there. Let's just make them
+[1:57:30] Ian Lurie: skip the drugs. Yeah, it's fair.
+[1:57:34] Unknown Speaker(s): Drugs like Vito Corleone, we don't mess with the heart, right? Yeah?
+[1:57:44] Ian Lurie: Yeah, by the way, elf cap is basically we just origa is really hash, if that makes sense. So before
+[1:57:52] Unknown Speaker(s): we leave, before we start this investigation. So before we start this investigation, is there any symbol or token or writ that we can have that will give us access to places we may need to get into, as in pursuit of this particular investigation, I'll
+[1:58:14] Ian Lurie: arrange for something and have it for you tomorrow. Appreciate it. If I seem unprepared at all. It's because I don't want anyone to know that we're prepared, because I have no idea who's really behind all of this. And you know, for all I know, it's another member of the combine.
+[1:58:33] Speaker 2: How many people outside of you and us and the Combine know about this? That's it. That's it. Okay? So the order of light has no idea, okay, because this seems something that horn would love to get involved in and try and be seen helping.
+[1:58:57] Ian Lurie: No, we have told no one the Haddad's servants know, but they have been confined to the Haddad's estate, and actually, we've been having them go about their routine, and not as far, so far, nothing's gotten out. If something did, I mean, it will right this many people knowing it's going to slip out eventually, but when it does, we'll know there's there will be consequences in the city.
+[1:59:27] Speaker 2: Okay, so at least we've got a head start on rumors flying, and the only people who know are us and whoever did it
+[1:59:37] Unknown Speaker(s): correct. Where are the other seven, seven members right now,
+[1:59:42] Ian Lurie: they are under heavy security in their own quarters, in their own estates, in the palace district, and then they are also in the meeting rooms when they are meeting, the Meeting chamber which you guys have been in. So Ian,
+[2:00:03] Unknown Speaker(s): All right, sounds good. Sorry, all in the same building. Then Are they in different estates? It's,
+[2:00:09] Ian Lurie: it's miniature estates in the palace district. So the palace district is the innermost ring. It's maybe. So
+[2:00:17] Unknown Speaker(s): it's like pool houses for a palace.
+[2:00:19] Ian Lurie: It's like three or four acres, and then each of them has a chunk of that. And then the palace sits at the center. And then, if you think about the crown district, is kind of the ministers and the lower level functionaries and the Chancellor, right? So if it was England, it's, you know, she's the prime minister. And then there's the minister of defense, whatever else, and they're all living in that crown district,
+[2:00:48] Unknown Speaker(s): excellent. So we have a couple hours until we're
+[2:00:52] Ian Lurie: she says, Get settled in your quarters. Ask the captain to you know, probably don't want to leave the the villains discontent here above the city. For too long, people may start to if it stays here, people may take notice.
+[2:01:16] Unknown Speaker(s): Yeah, so I Ian, yeah, just I would say, Should we send them back? I was going
+[2:01:34] Speaker 2: to say, do we want to load it up with some of the stuff that we want to take it back then send it back so we can get the bar, and the pub started a little bit faster.
+[2:01:46] Unknown Speaker(s): Yeah, so go ahead. So the way that the storehouse works the warehouse is that we spend money and then we get 50% of that back. Okay, so the max that we could spend is, I think, I think it's like, so we spend 5000 and then we get that 5000 back, plus 2500 Yeah. So amount of money? Yes, we do awesome. So that'll be a, there'll be a bank to pot a bank transfer, cool. And we will get funds towards the paying the ship debt, right? The ship debt is paid. Awesome, yeah. And so we buy 5000 gold worth of coffee spices and things like that, and then we send it back to Aventine for for sale. And then they deposit, then they come back and pick us up. That may or may not overlap cool, but we're generally resourceful. Yeah, you're for it cool. Slice
+[2:03:08] Ian Lurie: hander says, If you want, he will fly, they'll fly up, drop off the cargo and come back, which would be about two to three weeks.
+[2:03:15] Unknown Speaker(s): Yeah, that's about right. Do we have sending stones or some sort of means to communicate with the ship? Just message, okay, but cregns message is less reliable than, and I don't know, talk to a rocker, talk to cregn, talk to a rocker, talk to cregy.
+[2:03:44] Speaker 2: You know what I was as we were perusing one of the libraries, I saw this book. It's called jester sending for dummies. I think if we get a copy for cregn, it would really help them love
+[2:03:56] Unknown Speaker(s): it.
+[2:03:56] Ian Lurie: This is what the number 25 looks like. I Ian ask if they are pooping, arguably my favorite character in all of critical
+[2:04:13] Unknown Speaker(s): role. I want the
+[2:04:16] Ian Lurie: donut. Okay,
+[2:04:18] Unknown Speaker(s): donut. Key chains. More cosplayed as Jester. It was so much fun.
+[2:04:23] Ian Lurie: So you got actually, Okay, quick aside, it was her thing with the hag. That was when she became my favorite character.
+[2:04:29] Unknown Speaker(s): No, that was Marissa, when she rolled the command on the hag. No,
+[2:04:33] Ian Lurie: no. This was when she used the the cupcake with a special
+[2:04:40] Unknown Speaker(s): Yes, yeah.
+[2:04:41] Ian Lurie: It was absolute genius, and it was the most fantastic thing I've ever seen in a role playing game. So okay, so you guys take some time,
+[2:04:51] Unknown Speaker(s): no spoilers, but
+[2:04:53] Ian Lurie: sorry, sorry, my
+[2:04:55] Unknown Speaker(s): headphones were out. Yeah,
+[2:04:57] Ian Lurie: you get said it's, it's not a big, huge part of the campaign. It's just one of those moments you get settled into the into your quarters. You can go move around the city if you want to. That is totally up to you guys. Otherwise, I'll just fast forward to dusk and Soria sends functionary to bring you up to the palace district to view the body.
+[2:05:26] Speaker 2: I will say rikter is going to make sure to grab his arm and bring it to the to his quarters, and not leave it on the on the ship. Good. Good
+[2:05:33] Ian Lurie: idea. Okay, Drak
+[2:05:35] Unknown Speaker(s): is going to wear like a something semi fashionable, but not too fashionable, but, and that's going to be like just just robes, but it's over the leather armor, and that's the only armor that I wear. Okay, I'm guessing low cut with a chain. Nope. Elves don't have that hairy chest presence. Burt Reynolds?
+[2:06:03] Ian Lurie: And one thing you remember right away Mossy is that there are a lot of tabaxi here. By the way, this is a tabaxi, tabaxi heavy city. Okay, so the functionary comes and gets you. You walk up to the gates of the palace district. It is much tighter security than an Aventine. The functionary has to provide, has to identify themselves. They are you are all checked magically. You are all asked your business separately to make sure you all tell the same story. And then you're brought into the main grounds. At one corner of the grounds, there is a mortuary, and that is where they're keeping the body. And soroy is there. She takes you down into this cellar that's cooler than the rest of you know, then the city is just not quite as oppressive. It smells faintly of death. I mean, not, you know, not like undeath. It doesn't smell, it doesn't have that oppressive feel of the crypt of a menopause. Let's put it that way, like
+[2:07:22] Unknown Speaker(s): Reagan's armor when he finally went to clean it.
+[2:07:24] Ian Lurie: Things have died here. Yes, there have been dead things here. That's a good way of putting it. And in one corner, with two torches, kind of burning, two sort of oily torches burning low around it, there is a sheet covered body.
+[2:07:48] Unknown Speaker(s): Okay, you
+[2:07:50] Ian Lurie: guys walk over to it, I'm assuming, and the you're there's a cleric there, like a low level acolyte who pulls the sheet back and under you see a gray skinned figure, clearly elvish, and features the pointy ears, all of that hairless at least right now, longish nails, and you know, so a shadow. I mean, it's what you would expect, right? A grayish elf, a gray color, the gray skinned elf, but desiccated, as if all the moisture had been sucked out of the body.
+[2:08:44] Unknown Speaker(s): Mossy eyebrow goes up. I would love to make an Arcana check. I think Mossy is suspecting something is okay. Magically, mind here. Okay, I'm gonna give her guidance. So d4 does it make a difference if I pop my down?
+[2:09:10] Ian Lurie: Well, you can try it pop
+[2:09:12] Unknown Speaker(s): that down too. I uh, technically a 16, but still a natural one.
+[2:09:26] Ian Lurie: Um, you know, it's really humid here, and if you don't drink your water, it's entirely possible this could happen to you.
+[2:09:35] Unknown Speaker(s): I just passed that from he stroke while trying to bend over and look at the
+[2:09:39] Ian Lurie: body. Um,
+[2:09:41] Unknown Speaker(s): can I do a medicine check?
+[2:09:42] Ian Lurie: Yes, you can on
+[2:09:44] Unknown Speaker(s): me. I'm on the floor. Your second, actually, you're more danger than this guy is. All right? 22 okay.
+[2:10:02] Ian Lurie: You think this body does not look dehydrated? You think this body looks ex Sango naded?
+[2:10:14] Unknown Speaker(s): I share that information. I finally, can I do a other than vampires? Is there anything in nature that could do this, any fungus or,
+[2:10:34] Ian Lurie: I mean, there's lots of creatures that suck blood. I mean, you know, a really, really big mosquito. Sturges are another one.
+[2:10:48] Unknown Speaker(s): May I do a religion? Check, please. Yes, you may. Oh, nice. 23 okay,
+[2:10:58] Ian Lurie: you guys watch as rikter starts looking rather intently around the neck area of the body, and rikter, you're not sure just you got a bad feeling about this, something's something's not right here. But you don't see any bite marks on the neck, so you're not sure exactly what happened, and you should give me a give me a perception check. Rikter,
+[2:11:33] Unknown Speaker(s): oh, with advantage.
+[2:11:34] Ian Lurie: Okay,
+[2:11:36] Unknown Speaker(s): you are what you are. With advantage that's going to be a 19,
+[2:11:44] Ian Lurie: okay, you stand up abruptly, just as this body
+[2:11:52] Unknown Speaker(s): sits up, holy shit,
+[2:11:56] Ian Lurie: it just sits up straight. The the acolyte goes staggering backwards, even Sorolla looks really surprised and jumps back. It bears this incredible set of fangs and just leaps at you as the closest figure there lets out this echoing hiss that you hear reverberating through this entire chamber, and just leaps at you with its claws kind of outstretched towards you.
+[2:12:26] Speaker 2: I'm gonna go ahead and I'm so glad I took this. I'm gonna cast daylight. Oh, okay,
+[2:12:34] Ian Lurie: and everyone actually should roll initiative now that I say that everyone else is surprised, everyone except Rick, 23
+[2:12:41] Speaker 1: okay.
+[2:12:48] Unknown Speaker(s): Initiative is 1011, 11 and 11,
+[2:12:59] Ian Lurie: and I'm sorry 10 for you, rikter,
+[2:13:03] Unknown Speaker(s): yes, sir, okay,
+[2:13:04] Ian Lurie: cool. But rikter, you do go first. You actually go simultaneous with the creature.
+[2:13:11] Speaker 2: Nice. Okay, then, yeah, I'm gonna go ahead and cast a light. Okay. I
+[2:13:24] Unknown Speaker(s): I'm hoping that's God damn it.
+[2:13:38] Speaker 2: Yeah, I'm just hoping that that fucks up the vampire. Yeah, what kinds of vampires? So
+[2:13:42] Ian Lurie: you are, it is now confirmed for you. This thing lets out this, even this sort of shrieking cry. Immediately, its skin starts to its flesh starts to crisp and burn, and it tries to flinch back. But of course, the the light is everywhere, so it can't and it flails at you, trying to hit you, rolling a 17 misses,
+[2:14:10] Unknown Speaker(s): okay,
+[2:14:12] Ian Lurie: just slashes the air. Now, are you wearing your armor? Now? I'm
+[2:14:16] Unknown Speaker(s): wearing the fancy dress armor. That's
+[2:14:18] Ian Lurie: right, cool and it, it just kind of, you know, hisses and thrashes around. It tries to grab for you. So now, regular round of combat. We're gonna do this theater of the mind, Drak you go. And now this thing is kind of up. It has left off of the slab that it was on and is retreated to a corner of the room that's about 10 feet away. You can see the headstones of the various not the headstones like the big lockers, basically that they use in the mortuary and all the preparation tables and everything. It's kind of staggered up against those drawers and behind the preparation tables, hissing and trying to get away from the sunlight. It's like, you know, scratching at it and flailing at it, and it's just making that, that screaming, crying sound. Okay,
+[2:15:17] Unknown Speaker(s): so bonus action honors mark, get with my speed of 55 Can I close the distance and get right into me? Like, oh
+[2:15:24] Ian Lurie: yeah, it's only like, 15 feet away. Okay,
+[2:15:28] Unknown Speaker(s): all right, so I'm excited to see how this goes. I take out my Jaggers, okay, first attack that'd be a 19 that
+[2:15:41] Ian Lurie: hits, okay,
+[2:15:47] Unknown Speaker(s): there's a 15 points of damage, Okay, second dagger attack, 21 okay, that hits, that is 12 points of damage, okay.
+[2:16:03] Ian Lurie: And
+[2:16:05] Unknown Speaker(s): then for the third attack, which is my nick attack off the dagger, that would be a 17 to hit, okay. 18 down. Damage. Okay,
+[2:16:26] Ian Lurie: it looks awful. You basically, you hack and tie. You hack two limbs off of it. It's standing there now, or crouch there with no arms. You've cut an incredible gash through along its chest. It looks like it's at death's door again, death's revolving door, and it it's jaw kind of unhinges. And this thing is nasty looking, by the way. This is not like, you know, you've seen the Last Vampire you fought. Looked almost sort of superhuman. This thing looks subhuman. It is hideous. And his jaw kind of unhinges until its mouth is about 12 inches long. You hear this horrible kind of retching sound come from it. And you need to give me a DC, 16. Save if
+[2:17:16] Speaker 3: Is he close to me, theater of the mind, plus five for my first saving throw. Yes,
+[2:17:23] Ian Lurie: he would get a plus five. Okay,
+[2:17:24] Unknown Speaker(s): so you get the plus five to con save CO, con save plus five. Yeah, yes, sir,
+[2:17:35] Ian Lurie: 10. Okay, so it vomits out this cone of blood just just everywhere, letting out this horrible gurgling sound. You are covered from head to foot. You take 18 points of necrotic and cannot regain hit points for one minute,
+[2:17:58] Unknown Speaker(s): all right?
+[2:18:00] Ian Lurie: And now, actually, that was it for it, so now it is Sango. Turn
+[2:18:08] Unknown Speaker(s): Sango. What's the what's the light like in here?
+[2:18:13] Ian Lurie: It's sunlight. Now, that's right, because
+[2:18:15] Unknown Speaker(s): I catch daylight. That's right. That's right. Okay, I'm going to just throw a produce flame at it. Okay? 14
+[2:18:29] Ian Lurie: that misses just barely. It's because all the blood everywhere, you can't quite it just kind of goes. And I'm sorry, actually, Mossy, you should have gone before Sango. I'm assuming Mossy has a higher Dex than Sango, but what's
+[2:18:45] Unknown Speaker(s): your dex? Mossy plus three? No. Sango just got a higher decks.
+[2:18:50] Ian Lurie: Oh, okay, there you go. Yep, monks, man.
+[2:18:59] Unknown Speaker(s): Then that's all he's got. He's standing back.
+[2:19:02] Ian Lurie: Okay, Mossy, it's your turn. Okay,
+[2:19:05] Unknown Speaker(s): I'm assuming I've got some some friends engaged with it within five feet. Yeah, yeah. That means it's dagger time, baby. Cool. So Jack's
+[2:19:15] Ian Lurie: kind of standing there, like, it's like, this is my suit
+[2:19:21] Unknown Speaker(s): I literally just changed into this 10 minutes ago. That's a dirty 20 that hits you. I remember how many dice hit for sneak attack? I think it's four now I'm not sure.
+[2:19:49] Ian Lurie: Just do me a favor, roll a couple dice. Don't roll a zero, 16 points. Okay, your dagger strikes it in the chest and its jaw, if possible, distends even further. Its eyes kind of start to bug out, and from the chest outwards, it incinerates. It just bursts into flame, and you see the flames travel from the chest down the legs to the feet and up the head until there's nothing there. Your dagger clatters to the clatters to the ground, and Drak is standing there, just coated in blood.
+[2:20:31] Unknown Speaker(s): You didn't help me out. Jerk. Wait what? So Soros
+[2:20:42] Ian Lurie: says, turns to the acolyte and says, What the fuck was that vampire? The acolyte says, I'm sorry. I didn't we. I had no way of knowing. I
+[2:21:01] Unknown Speaker(s): can we inside check that Sure? 24 Yeah,
+[2:21:09] Ian Lurie: no, he's completely freaked.
+[2:21:17] Unknown Speaker(s): So we haven't killed a vampire in a while. This one seems to be different than the prior.
+[2:21:24] Ian Lurie: He actually killed a vampire like five months, four months ago. But, yeah, but yes, very different.
+[2:21:31] Unknown Speaker(s): Still him. It's still the fucking worst.
+[2:21:35] Ian Lurie: Yeah. Rikter. Rikter, if you want to do a religion check, you might know something about this form of vampire,
+[2:21:42] Speaker 3: religion, religion, religion, religion. That's going to be a 15. Okay,
+[2:21:49] Ian Lurie: there are certain types of vampires that are more closely linked to the Shadowfell. They're called Nosferatu. And the Nosferatu don't move among among the living as if they are mortals. They tend to be pretty hideous in appearance. They tend to be immensely strong, like much stronger than a typical vampire. They are far more sensitive to sunlight, but they do have other abilities that you don't know all of them, but you know, for example, they can regenerate,
+[2:22:39] Unknown Speaker(s): also highly flammable
+[2:22:40] Ian Lurie: and highly Well, yeah, most vampires are, but yes, these in particular,
+[2:22:48] Unknown Speaker(s): and you said the body just completely turned ash,
+[2:22:51] Ian Lurie: turn to ash. You did not know that they ever come this side of the barrier between the Shadowfell and the Prime Material.
+[2:23:05] Unknown Speaker(s): So we have the couple that got married, and the mother in law is from the Shadowfell, right?
+[2:23:18] Ian Lurie: She's from the Pharaoh,
+[2:23:20] Unknown Speaker(s): Pharaoh and Fay realm is adjacent to the shadow, right? Or no, I mean,
+[2:23:23] Ian Lurie: different, yeah. I mean, they're very different, but Okay,
+[2:23:27] Unknown Speaker(s): gotcha, they're not the same thing. No,
+[2:23:31] Ian Lurie: the shadow fell. Well, you don't know much about it, and the fey realm is a freaky weird place, like freaky weird and sort of a horrifying carnival kind of way
+[2:23:42] Unknown Speaker(s): children's books from the early 1900s Yes,
+[2:23:44] Ian Lurie: exactly, exactly the shadow fell. Is something else entirely.
+[2:23:53] Speaker 3: All right, I relay all that information amongst the party.
+[2:23:58] Unknown Speaker(s): Was there? Was there anything left of clothing, or did this individual have any they were new on the table. So can we see their clothes and stuff their
+[2:24:09] Ian Lurie: possessions, and their clothes are in one corner of the room. Soroy is very pale, but she's sort of getting things, getting herself, organizing everyone. She yells at the acolyte to get someone else down here to treat Drak, you know, she's starting to get things together a little bit the clothing, you know, very simple silk robe, you know, traditional head covering for one of the Haddad combine, the medallion that the haddads Wear, um, pair of boots
+[2:24:47] Unknown Speaker(s): detect magic. Okay,
+[2:24:50] Ian Lurie: nothing flares. Okay.
+[2:24:57] Unknown Speaker(s): I would like to please, thank you.
+[2:25:01] Ian Lurie: Um, you take a look around, there's nothing, nothing unusual. Oh,
+[2:25:06] Unknown Speaker(s): he's such a bummer,
+[2:25:11] Ian Lurie: and I'm sorry. Sango, the famous realm and the shadow fell are kind of related, because they are the flip side of each other. The it's it's not the ceiling and Unseelie Court. That's two parts of the fair realm, but the shadow fell. The shadow fell is the upside down. The fey realm is even more right side up than than the regular world. It's everything the favorite realm was everything amplified, the shadow fell. Is everything dampened? Dampened down?
+[2:26:00] Speaker 3: Uh rikter, last Roy, is there anyone that you know who could give us more information about the Shadowfell we might want to figure out where and how we can chase these creatures back to where they came from,
+[2:26:16] Unknown Speaker(s): and knowing is half the battle.
+[2:26:18] Ian Lurie: Um, the library's probably the best place to start. Oh, you know that the Yeah, you know that the library here is unparalleled across praxia. This place has the greatest library on the planet.
+[2:26:41] Unknown Speaker(s): Mossy, we've got a job for you. Link arms are skipping. Drak still take a look like like Zoolander. Take a little the trash cans filling up with these little just magically library, uh huh, precipitation. It doesn't smell like dried blood. Yeah,
+[2:27:17] Ian Lurie: it's pretty great. That was pretty gross. It got in your it got in your nostrils. Man,
+[2:27:21] Unknown Speaker(s): Nope, it's, it's, that was terrible. I've never seen that one before. That was new, and it reminds me of the the blood things on top of the Drak.
+[2:27:45] Ian Lurie: Oh, those big pustules. Yeah, yes,
+[2:27:47] Unknown Speaker(s): yeah, they tried launching dragons, my guy, I haven't done that since the last time when I died. You mean, you haven't done that since the last dragon Shut up.
+[2:28:03] Ian Lurie: No, that's not true, because he did not try to jump on Targa X, that's,
+[2:28:08] Unknown Speaker(s): that's right, yes, what happened with the piano? It was consensual.
+[2:28:15] Ian Lurie: 100% um rikter, you also, well, I won't, I won't. I don't want to railroad people.
+[2:28:30] Unknown Speaker(s): No, no, you were talking, sir. Keep going. Oh,
+[2:28:32] Ian Lurie: okay, all right, the Raven Queen has quite an influence over the Shadowfell. You are kind of a shadow fell adjacent at this point. Okay,
+[2:28:45] Speaker 3: so Mossy. If you wouldn't mind going to the library. I'm going to go to the temple of the Raven Queen to see if I can't get any information out of them and what they might be able to help me with,
+[2:29:01] Unknown Speaker(s): do I know that you're good at this? Do I know that you're like, VIP at the shadowville Club?
+[2:29:09] Speaker 3: I'm like, I got plus six religion baby. I'm good. He's
+[2:29:12] Unknown Speaker(s): got a members only armor. I got a plus five religion baby, and I'm an atheist. Greg bring up watching shit. Mossy, see you drop out. Mossy has
+[2:29:27] Ian Lurie: got a PhD in religious studies, just doesn't believe any of it. There's plenty of PhDs out there, like that. Meta gal
+[2:29:32] Unknown Speaker(s): been like, love that for you.
+[2:29:38] Ian Lurie: Okay, you Why don't we rikter, why don't we do your stuff first? Okay, and then if we don't get to it, we can do the library next time. Are
+[2:29:51] Unknown Speaker(s): we splitting up with them? Or what are we gonna do? Well, if I knew he was VIP, and be like, I want to see this shit. But I don't know that. I don't think so
+[2:30:05] Ian Lurie: you guys can all go together. That's fine. Yeah,
+[2:30:07] Speaker 3: we want so that way we can do one and then the other.
+[2:30:12] Unknown Speaker(s): Oh, yeah, no, we're gonna be there to support and or mock. Very fair. I would expect nothing less. Two things can be true at the same time.
+[2:30:21] Ian Lurie: I Okay, so you guys head for the closest temple. There is only one temple, the Raven Queen, in selmyor, and it is in the outer in the trade district, sorry, in the trade District, which is just outside the residences, which is just outside the crown, so you have to go two rings down. You head down through those two neighborhoods. On your way through the residences, you kind of you pass through a lot of the things that you you remember from last time, there's a lot of sort of lower cast children who are running around, and they have these little fly swatters, and they run up to you, and they kill a fly on you, and then they hold out their hand for money. So there's a bunch of them doing that. You walk by a playground and you hear this croaking, annoyed croaking sound, and you look and there's this, this feather dinosaur that's about seven feet long, and it's flapping its wings, and it's, it's, well, not flat, it doesn't have wings, but it's flapping its arms and kind of jumping around trying to get all these little kids off of it, because all the little kids keep jumping on it, and it clearly doesn't appreciate that. And the kids parents are like, no, come on, let's go. It's going to bite you. No, no, let's stop doing that. And as the sun goes down, people are setting out these long poles with baskets of fungi on them, and the fungi glows dimly in the light, so the whole place stays lit, and you make your way, God damn it, I just said it, yeah, through into the trade district, and the trade district is The world's largest shopping mall. It's just It's enormous, and there there's stores and shops, and it's not like the the bazaar in Aventine. It's solid, like it's built into the walls, the outer walls of this district, and it's just solid shops, and it's kind of a narrow road. This entire ring of the walls is only, like, maybe 50 yards wide, so, or, you know, 50 yards deep. So when you're walking along the Ring, you know there's maybe five yards of street, and then it's all shops to your right, if you're walking counterclockwise. So you walk along through the trade district, there's more of the kids kind of getting flies off of you. Occasionally they hit you in the head, but they're clearly doing their best. You walk past there's a some kind of spitted lizard that's being turned slowly, and it's it's cooking and spices or something smells kind of good, and there's a street merchant slicing bits off and putting them onto these long strips of bread for passers by. There is someone who attempts to sell you drugs. Anole steps out of an alley. Says, rack. Mercy. Rack. Mercy. Anybody
+[2:33:41] Unknown Speaker(s): else? Get up?
+[2:33:42] Ian Lurie: No, that's cheap stuff. All
+[2:33:44] Unknown Speaker(s): right, go to the
+[2:33:45] Ian Lurie: outer city. Anyone can get that.
+[2:33:51] Unknown Speaker(s): He kind
+[2:33:55] Ian Lurie: of looks at you Hey, and you arrive at the the gates of the temple of the Raven Queen. And
+[2:34:09] Unknown Speaker(s): it's a, sorry, go ahead. Oh, no, go ahead. It's a
+[2:34:13] Ian Lurie: fairly forbidden structure. It's, you know, it's not super tall, because this district is just, there's no tall buildings here, but it's three stories, and it has one it's domed, and on the top of the dome there's a small spire that point, you know, small spire that ends in a steeple. And it's kind of a it's wider than it is tall, and there's a narrow door that's closed, and because of the windows next to it, it looks like a mask that looks like the white mask of, you know someone, a white Dec ceremonial mask. This is the
+[2:34:55] Speaker 3: same temple that I came to to become an adherent of the Raven Queen. Okay, I just wanted to make sure. Yeah, all right, so, um, let's go and knock on the door.
+[2:35:07] Ian Lurie: The door just opens when you raise your hand to knock, and you walk inside. And it's uniformly dimly lit, so it's intentional. It's not, you know, weird bits of light filtering to different places. And there are some worshipers quietly moving about. There are two acolytes about the this main room, this main chamber, is probably about, well, it's about 50 to 60 feet long. It runs all the way up to the wall. You think, up to this, the wall of this ring, and there's pews on either side and a main a big aisle, and then down the aisle you see that same dice that you actually stood on when you received the blessing of the Raven Queen. And up there there is a cleric who's ministering to to two siblings. You're not sure what they're talking about, but it's pretty clear they're siblings right away. What would you like to do?
+[2:36:25] Speaker 3: Sort of signal say, hey, when you're done, can we have a moment?
+[2:36:32] Ian Lurie: One of the Acolytes comes over and says, Please, if you would.
+[2:36:38] Speaker 3: So this is going to sound like a weird request, but we're looking for information that could either help us get to the Shadowfell or help us track a creature that we believe came from the Shadowfell to this realm.
+[2:36:52] Ian Lurie: Oh, I understand. I am. If you could wait here, I'll get the high priestess when she's done ministering to to the flock, as it were, and she might be able to help you. That's how do they say it in the trade district above my pay grade, she kind of smiles, understand, thank you. She she looks at you for a moment. She says, It's good to see you here, Warrior,
+[2:37:23] Speaker 3: thank you. It's been a long journey, and it's nice to come back to these halls where it all began for me.
+[2:37:33] Ian Lurie: She she leaves for a moment and she comes back with a bowl with water and a very simple gray towel in it, and motions and you know that you, as a representative The Raven Queen, are supposed to wash your hands and your face before You meet with the High Priestess of the read,
+[2:38:03] Speaker 3: Ian rikter, wash hands and face, and for a second only Mossy sees this, because she's supercepted. You can see rikter start to go to clearing his ear, and then realize that he's in a nice place, and just kind of puts the cloth back in the bowl.
+[2:38:17] Ian Lurie: And the cloth that you're using, you know, has not been used as but is the funereal cloth used for Burial Rites of followers of the Raven
+[2:38:31] Unknown Speaker(s): Queen, not morbid at all. No,
+[2:38:32] Ian Lurie: no, the Raven Queens not morbid at all, not at all. Few minutes go by and then the The High Priestess comes over and says, rikter, is good to see you among us again. Good
+[2:38:47] Speaker 3: to see you again. Priestess again. This is going to sound a very strange request, but hear me out. We're seeking information that could either help us cross over to the Shadowfell, or could help us track a creature that be we believe came over from the Shadowfell to our realm.
+[2:39:09] Ian Lurie: She looks around and she motions to her office. She says, We should talk. She motions all of you, and says we should talk in my office. We're getting
+[2:39:18] Unknown Speaker(s): a lot of that lately.
+[2:39:19] Ian Lurie: Yeah. Right. She takes you all into her office. Her office is very simple. There's not much for me to describe. There is a statue of the Raven Queen, which is a woman with her hands like this, but pointed down, wearing that same white mask that the front of the building looks like, cloaked and heavily cloaked in black robes with two enormous Raven wings behind her. And you guys see that that matches the wings, match the wings on rikter shield and the tattoo that he has. You do have that as a tattoo? Right? Yes, yeah, okay, she says. And the ones
+[2:40:01] Unknown Speaker(s): he's broken out a couple of times, right? I haven't broken them out yet. Oh, but, but your head's at Yeah,
+[2:40:14] Ian Lurie: you? She says, I, Ian. I There are many kinds of creatures that can come from the shadow fell. I mean, the people that rule this city are such creatures, right? I mean, no one will confirm it, but I am reasonably certain they are shark high, what you're just what I'm assuming. You have reason to believe there's something more hostile moving among us. Yes, something
+[2:40:52] Speaker 3: that we believe is hunting and we would like to stop before it claims anyone. Well,
+[2:40:59] Ian Lurie: if it came here from the Shadowfell, you cannot simply move to the Shadowfell planar travel. None of that works. You have to have specific locations where the veil is thinner. There is nothing that I know of. But if the creature is here, I don't, I don't. Can you tell me? What do you know what kind of creature it is?
+[2:41:29] Speaker 3: This cannot leave this room, but we believe it is a type of vampire, or at least something that sucks the blood out of out of people,
+[2:41:41] Ian Lurie: and did it look like one of us? Did it look like something else?
+[2:41:48] Speaker 3: It looked like a human turned into dried meat?
+[2:41:54] Ian Lurie: Okay, there's a few possible creatures. I can tell you would probably would not have moved far from where it from, whatever, whatever gateway it moved through, because it probably can't go far in daylight. It probably had to avoid daylight. So if this creature is here hunting, the easiest way to find where it came from, would find the the easiest way to get to the shadow fell, if that's where you're going, is to follow it there. But you should know before you go to the shadow fell. It is a very dangerous and hostile environment for creatures not out the shadow fell.
+[2:42:39] Speaker 3: We figured that's why this was the first stop to gather as much information as we could. We're headed to the library, and from there we'll figure out we want to be as protected as possible before we venture into a realm that we've never really been to before. The
+[2:42:57] Ian Lurie: library will know more than I I only know I know from Scripture. I know what the Raven Queen has told us. The Raven Queen has told us, You do not go, Do not venture into her realm until you are dead, and then she will help you to your destination by way of the Shadowfell. The creatures that stay there, they become haunted. What
+[2:43:26] Unknown Speaker(s): about somebody that's been dead? Say once or twice, are they okay? Going,
+[2:43:32] Ian Lurie: I it's not a question I've really been asked very often. The Raven Queen does not she is a warrior against undeath, so she would definitely not appreciate that. But many an undead creature, many an undead creature lives in the Shadowfell and makes their home there. I
+[2:43:56] Unknown Speaker(s): think you're going to be fine about
+[2:43:58] Speaker 3: the Thank you. I'm well priestess again, thank you for your time and your information. I think it's time for us to unleash our resident tabaxi On the library and see what we can dig up
+[2:44:11] Ian Lurie: Excellent well, do let me know if I can help.
+[2:44:17] Speaker 3: Just as always, just pray for my friends, to the Raven Queen, ask her for protection for them. And that's all I can ask.
+[2:44:29] Unknown Speaker(s): That a curiosity is there, like a thin place around here that we could transfer over, that you know of one
+[2:44:36] Ian Lurie: place, a thin spot between now here in the veil. No, if I knew, I would tell you. That's why I said, Follow the creature, whatever came here. If you follow it back, it will, it will show you it is not going to it is not going to stay here. Being here is very difficult for it. Even the shad Kai struggle to be here that that's why the Haddad stay where they stay. They do not leave the palace.
+[2:45:15] Unknown Speaker(s): Well, I'm sorry, are we still here?
+[2:45:20] Speaker 3: Jesus Christ, thank you. We'll, we'll take our leave now and go to the course.
+[2:45:32] Ian Lurie: You guys move back out into the night and some of the, some of the, the kind of looming gloom passes from you as you walk out into the street, and you have learned a little bit about this Nosferatu and where it may have come from. And I think next time we play, you'll spend some time in the library before making your next taking your next big
+[2:46:00] Unknown Speaker(s): step as we're walking out. Sango holds back a little bit with Drak and say, Drak, Drak not. What do you think of this Mossy Oak rikter Shepherd? Thing is that, like a thing we have to worry about? Do we have to, like, to like, have a big brother conversation with rikter.
+[2:46:27] Ian Lurie: They're talking like a birds and,
+[2:46:30] Unknown Speaker(s): yeah, you know what I wouldn't worry about, like, you haven't been here for a while. Yeah, that's what I'm asking. Yeah, I like, I trust Mossy, I trust you aren't even here. Dad, how's your smokes? Dad, no, just like they're figuring out their way. You know, rikker stepped up, and Mossy is just as chaotic as ever, and they're happy. Just shit, man, we get somebody tries to kill us at least once or twice a month. They should be happy. Yeah, no, I totally agree. He seems like a pretty good pair with her. You know, I just wanted to know your thoughts on, you know how? You know we look out for each other, and Dave, we need to support you. Have a conversation with rikter about between you and me. I'm more worried about creaking. Oh, you know, I am so surprised you guys. Dude around unstable. Have you seen how clumsy he is, oh my god. First night I met him, he spilled a beer already, it was the worst. Don't get me wrong, competent motherfucker. He knows, he knows what he's doing, but he just like, you know, the tough shell to crack. Okay, yep, that's true. Well, you know, I think we'll get rid of him soon. So that's not, he won't be a big problem for too much longer, but he's almost completed the new hire orientation, so that's good. Does he get any benefits with that training is replaced.
+[2:48:14] Speaker 3: We're at day 89 of the 90 days. So if we get rid of him now, we don't have to give no benefits, right?
+[2:48:19] Ian Lurie: No severance, nothing. All of a
+[2:48:23] Unknown Speaker(s): sudden, when it's that was the most capitalist shit you've ever said it was. It's a Republican Raven cream, all right. No, yeah, we we need to keep him, because he manages the suggestion box like that's his passion project. It's true. He's working on one for the pub. I think, right, he needs to go through blonde, yeah, it would be very cregy and just to show up with a bunch of shit She didn't ask for.
+[2:48:56] Ian Lurie: Yeah, yeah. She'd have to have the stay in your lane talk with him.
+[2:49:03] Speaker 3: Shut up and dribble cregn. Shut up. Thank you. This was wonderful, wonderful time, man. Thanks
+[2:49:13] Ian Lurie: guys.
+[2:49:13] Unknown Speaker(s): Yeah, thank you so much. I got covered in a new bodily fluid.
+[2:49:21] Ian Lurie: You did. That's right, There's first time for everything. So, you've you've for you've had your first bloodbath.
+[2:49:29] Unknown Speaker(s): Check. Check. Alright guys are. Y'all take care.

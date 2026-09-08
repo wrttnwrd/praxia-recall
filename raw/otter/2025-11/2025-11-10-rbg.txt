@@ -1,0 +1,880 @@
+# Ian's Meeting Notes
+# Otter recording 2025/11/10 17:02:31 (2h 53m) id hwusOUjc9CdOtzBRX0EddqDyhfs
+# https://otter.ai/u/hwusOUjc9CdOtzBRX0EddqDyhfs
+# Speaker-attributed transcript, verbatim. Raw source for the card at /items/otter/2025-11/2025-11-10-rbg.md
+
+[0:00:00] Ian Lurie: For two of them, yeah, I think they're river otters, not not sea otters. Now that they aren't adorable, I actually prefer river otters.
+[0:00:14] Jamie Indigo: Ian's dandy beyond time to open, but because I don't have my personal one and chrome anymore at all.
+[0:00:31] Ian Lurie: So something else that this particular client is doing is they have all installed Atlas at work like they're pretty paranoid that they won't let me crawl their website and they won't use anything Google based, but they're all installing Atlas.
+[0:00:52] Jamie Indigo: Sweet Mother.
+[0:00:54] Ian Lurie: So I'm, I'm actually building a page with a hidden prompt in it, just to see, I mean, I'll tell them about it first, but I'm just curious to
+[0:01:03] Jamie Indigo: see 48 hours for people to jailbreak that thing.
+[0:01:08] Ian Lurie: Yeah, it's not ready yet.
+[0:01:14] Jamie Indigo: Okay, once more with six, seven. I Oh, come on, you dirty Harlem. Bitch that is my password. What are you talking about?
+[0:01:52] Ian Lurie: Outside the honor today of being temporarily blocked by Reddit because I was hitting their API too hard.
+[0:01:59] Unknown Speaker(s): Fun. Very proud of that.
+[0:02:22] Jamie Indigo: Okay, love this game. Why don't you recognize that any of my mother fucking passwords right now?
+[0:02:30] James Svoboda: Did you add the exclamation point at the end?
+[0:02:32] Ian Lurie: Is your caps lock on? I think about their annoying I can ask you,
+[0:02:39] James Svoboda: did you spell your password with 1s or two.
+[0:02:46] Jamie Indigo: Oh, it's because I bounced through so many browsers today. That's why it's being extra paranoid.
+[0:02:57] Ian Lurie: So has everyone here who wants to watch Critical Role campaign three, watched it.
+[0:03:04] Jamie Indigo: Not finished it.
+[0:03:05] Ian Lurie: Okay. Did you get to the big scene?
+[0:03:09] Jamie Indigo: Sam, yeah, yes, yeah,
+[0:03:12] Ian Lurie: it's only because I just watched it. And, you know, everybody's so sad, even even Matt. And I was like, Oh my God. And then you realize the context. And, yeah, okay, yeah, yeah.
+[0:03:27] James Svoboda: I think I watched that extra hard, yeah. I think I watched that episode pretty much like the week or two after it came out, and I didn't know Yeah,
+[0:03:35] Ian Lurie: nobody did yeah, yeah.
+[0:03:38] Jamie Indigo: I mean, it was a couple of months before you went and just say about, yeah, get your vaccine,
+[0:03:44] Ian Lurie: but he go to Han with him. That's awesome. I mean, take the big bad with you.
+[0:03:58] Jamar Ramos: But that is my password. What is happening right now? I think Sam, for me, has had two separate moments that one, and then campaign one, where they're fighting Becca, and he's been saving his last Ninth Level spell, yep. And like you can see right before he does it, he just looks at Liam and says, I'm sorry, and then does the counter spell, yeah. And then, and then you realize, like, oh shit, he had a wish spell, oh shit. So, like, we then get the awesome. There's some really cool awesomeness in campaign three, where it's like, it doesn't happen like that, where it's like, this thing, then seed something else. Like, that's why I no longer get mad at the dice, because, like, hey, there could be an even cooler story, because I rolled it's all then I roll a 20, like 20 cool and everything, but like a one, there's so much more you can do with that shit, not just me, but like, everyone can do shit that
+[0:05:00] Ian Lurie: every action has consequences.
+[0:05:03] Ian Lurie (he/him),Jamie Indigo: I reject your idea of consequences. Well,
+[0:05:06] Ian Lurie: okay, but that has consequences too.
+[0:05:09] James Svoboda: Yeah, really rolling a one is great and all, but if you ever rolled a negative two, Ooh,
+[0:05:18] Jamie Indigo: yes, when I played Lilith and she would get terrible dexterity rules.
+[0:05:30] Ian Lurie: I had a DM who ran a supers superhero campaign, and my character was an archer, and I fired and actually and rarely missed, but I did miss and the arrow embedded itself in a cliff face, and then, literally, six months later, another player fell off that cliff who had the lucky superpower and grabbed onto the arrow that was still embedded in the cliff face. I was like, dude, Hari, that is amazing. Okay, I just, you know, bow down.
+[0:06:07] Jamie Indigo: Okay, somehow my bolts get out of sync. I really, I gotta migrate. My last pass. Sucks, y'all. But I've been with this so long getting one password.
+[0:06:18] Ian Lurie: I One Password is lovely. I just, Yep,
+[0:06:23] Jamie Indigo: I got, I got that talking to you earlier, because I'm like, I know it's the one that's been hacked the most. What's up? I got two factor and everything. We're fine.
+[0:06:37] Speaker 1: Where's James? Is he? JB,
+[0:06:41] Ian Lurie: yeah. James is right there. JP, yes, that was bound to get me eventually. I mean, come on, Jamie, James, Jamar and JP, not, not cool,
+[0:06:58] Jamie Indigo: see, okay, yes, I will give you a verification code. Not only do I make it tricky, it's asserted through various two factors. So getting locked out of something means I may be 25 minutes late. Ian Okay, think I have successfully figured out all the things. Okay. Now let me log it, do it. There we go. Let me text JP,
+[0:08:26] Ian Lurie: and then who's the other person who may join us?
+[0:08:28] Jamie Indigo: George from Wix, okay,
+[0:08:42] James Svoboda: didn't JP say he might be a little late tonight.
+[0:08:44] Ian Lurie: I thought that was the that was last day party. But maybe we can give a few more minutes and then we can start with some of the legend lore stuff.
+[0:08:58] Jamie Indigo: Okay, let me pull up my notes that are in 12 different places.
+[0:09:21] Ian Lurie: D and D, D doo. Doo, doo, oh, thank you so much. My head. Bye.
+[0:09:50] Jamie Indigo: Question last thing in my notes says 15 minutes and then talks about orgo FOS, wand of fate. Is that in this game or not, I just randomly D and D something,
+[0:10:13] Ian Lurie: there is a wand of fate, okay, that I think you have awesome.
+[0:10:21] Jamie Indigo: Oh, I put it in there because I was going to put it in here for the inventory. But we got that when we beat the team who did right, yeah, yes, okay. Is it in the party inventory
+[0:10:36] Ian Lurie: you have to want to see yes. And the armor
+[0:10:42] Jamie Indigo: we have not identified the armory yet, correct? No,
+[0:10:47] Jamar Ramos: didn't we have what's his name identified? Yeah,
+[0:10:50] Ian Lurie: yeah, animus identified it.
+[0:10:55] Jamie Indigo: Can we pretend that I've been smelling a lot of toast?
+[0:11:02] Ian Lurie: I think I even, oh no, I haven't put it into D and D beyond yet. I was going to do that so you guys could, okay, I am remiss. I've been
+[0:11:12] Jamie Indigo: putting everything into the party imagery Bag of Holding, so that way.
+[0:11:17] Ian Lurie: Okay, let me look up the stats. If there's a combat tonight, you might Want to be winning. See that was
+[0:11:46] Jamie Indigo: we also have a bag of Colding now,
+[0:12:00] Ian Lurie: that's right, yeah. Sorry, go ahead.
+[0:12:03] James Svoboda: We also have that book tapping the fire within my journey from surf to Baron becoming handy at some point, I'm sure of it.
+[0:12:12] Ian Lurie: And some potions,
+[0:12:15] James Svoboda: gold, terror and charisma,
+[0:12:17] Ian Lurie: yeah and the Yeah, cursed terror of gold. The armor is plus two. Bronze skin, so it gives you fire resistance. It's half plate. It gives you fire resistance, and it does not impose disadvantages to stealth or Dex rolls.
+[0:12:41] James Svoboda: It's plus two. What
+[0:12:43] Ian Lurie: plus two? Molten bronze skin gives the wearer resistance to fire.
+[0:12:53] Jamie Indigo: Are you putting it in the inventory?
+[0:12:56] James Svoboda: I'm just making
+[0:12:57] Ian Lurie: notes here. I'm just going to paste it right into the chat. And then if someone wants to copy it, you can,
+[0:13:03] Jamie Indigo: I will. I will take it. Since I'm none of y'all have a tape, nope, nope.
+[0:13:12] Ian Lurie: And then the wand of fate
+[0:13:17] Jamie Indigo: that I have in the inventory,
+[0:13:18] Ian Lurie: okay, cool, because it apparently crashed out on on home brewery. So yeah, I'll dig it up later.
+[0:13:29] Jamie Indigo: I mean, the bag of holding I threw on our inventory is Z dash item, bag of gold and copy of that. They're all in there. So they're,
+[0:13:40] Ian Lurie: yeah, it's pretty the bag of clothing is pretty straightforward. I just thought it was
+[0:13:45] Jamie Indigo: kind of funny. Now we can put sandwiches on there.
+[0:13:50] Ian Lurie: Any pocket baking much longer.
+[0:13:52] Jamie Indigo: No one's been rolling for food poisoning. Okay, so this is the half plate, molten bronze skin, correct?
+[0:14:00] Ian Lurie: Yep, plus two, molten bronze skin. That's what it's called.
+[0:14:06] Jamie Indigo: I don't see a plus two version in here.
+[0:14:10] Ian Lurie: Yeah, I'm gonna, I will input one into DD, beyond, but for now, okay, it is plus two. Hey. JP, hello to equipment.
+[0:14:24] Jamie Indigo: Hi, Bobby. Hey, y'all,
+[0:14:28] JP Sherman: do you miss us first? Why is Jamar sitting so damn still?
+[0:14:37] Ian Lurie: It's his new he can move so slowly.
+[0:14:40] Jamie Indigo: He's so zen,
+[0:14:42] Jamar Ramos: didn't even notice eating business argument.
+[0:14:44] Ian Lurie: That's right, that's right. Okay. Should we wait a little longer or
+[0:15:10] JP Sherman: longer for?
+[0:15:11] Jamie Indigo: Oh, no, the guests? Yeah, no. George is gonna be a little bit late. He's had to walk his dog.
+[0:15:18] Ian Lurie: Okay, so you get so just quick, quickly going back to previously on. Yes, previously on, you all met the crew. There he is.
+[0:15:38] Unknown Speaker(s): Hello, George. Hello. You.
+[0:15:43] JP Sherman: Hey George. Hey George. I don't think I actually met you really only by reputation.
+[0:15:53] George Nguyen: Hi, yeah, I feel like I got on and there was like, no talk. I'm
+[0:15:59] Ian Lurie: like, Well, we had just, we had just, we were just in a lull, like, for one second there. Yeah, it was, you timed it imperfectly, perfectly, I don't know. Yeah,
+[0:16:08] George Nguyen: no one for that. Hi, I'm George, for those who don't know me, thank you for the accommodation. No problem. Know how to play D and D. And I just wanted to, like, see a played, and I'm gonna smoke weed and eat chips, and this is gonna be like, it's gonna be awesome. Look forward to
+[0:16:29] Ian Lurie: it. This is perfect, because this is a very serious group, and you will definitely get a good step by step walk through the finer arts of plenty, Dungeons and Dragons. My name is Ian. I'm a pathological liar. Yeah, I'm the DM which, for purposes to
+[0:16:46] George Nguyen: know that up front,
+[0:16:47] Ian Lurie: yeah, yeah, no, for purposes of Dungeons and Dragons, I am the for this game. I'm the person who sets the world and kind of helps the characters move through it. So I'm all the bad guys, and I'm all the good guys, an
+[0:17:03] Jamie Indigo: amazing Beholder named Roxy.
+[0:17:05] Ian Lurie: Yeah, yep, yep. Long story. Who else?
+[0:17:11] Jamie Indigo: Fairy Dragon named Kiki.
+[0:17:16] Ian Lurie: So see who else do you not know? Why don't you guys just introduce yourselves first, and then I'll
+[0:17:23] George Nguyen: I feel like I've met everyone, like vaguely, somehow on the internet I've never actually did with Yeah, buddy, except for Jamar and Jamie.
+[0:17:32] Ian Lurie: Okay, all right, cool. Yeah, same here, by the way, I don't think we've met in person, but I certainly I know who you are, so reaching
+[0:17:40] George Nguyen: back in time in the Search Engine Land,
+[0:17:42] Ian Lurie: right, right. Exactly, exactly, yes, exactly. Okay, so the quick, just the quick rundown, the previously on you guys had gone to this village called urdun to meet with a an old, orc Paladin named rogorem to learn about possible ways to get to Avernus. At the same time, you guys had some kind of weird multiple personality thing and ended up playing a group of sailors on a 1780s age of sale, American Constitution class frigate. You have no idea what the heck happened there. But that that day ended with the Albion, which is the freak, suddenly appearing in the middle of the bay outside of Verdun and basically laying waste to everything around it in just a case of very good or very bad timing, you're not sure. As you as the main party and George asino, this group, this adventuring party, is known as Notorious RBG. That's that. So if you ever hear me, hear me refer to RBG or Notorious RBG. That's the four players. These four characters together. Just to make it even more confusing, each of them are currently also playing a secondary character from a very different doctor, damn it, yeah, and I'll explain it.
+[0:19:07] Jamar Ramos: I'm so upset that Craig and left the party, because I'd love to see James have to play three fucking
+[0:19:15] Ian Lurie: Yeah, yeah, that would be truly horrible. Well, it's like being a DM, right?
+[0:19:20] George Nguyen: So does everybody get two turns?
+[0:19:24] Ian Lurie: Depends on the situation. I'll let it play out. Yes, yes. So notorious. RBG, shortly after the Albion appeared, spoke with other people in the city and discovered that they had had a very powerful magic item in the city called the astrolabe of three wishes. And someone used it to make a wish to defend the village, the city from some attacking Corsairs. And when they did that, it actually dragged the Albion, this age of sail, conventional Earth frigate, through from whatever universe it exists in, and planted it right in the middle of the bay, just as it was firing two broadsides in the middle of a battle during The Barbary pirates war. The resulting explosions basically took out every attacking ship, a decent chunk of the village, and an assortment of other horrendous Jamie, yeah, I think so I'd have to look that up. Okay, I'm not sure, but basically laid waste to everything around it. The other thing you quickly realize is that this age of sail frigate, they don't have magic. Right on our Earth, there's no magic. There's no flight yet at all at this point. So these ships are massive as a just comparison, you know, to you, a huge warship in in this world, on the planet of praxia, which is where this all takes place, is 200 tons. The Albion is 2200 tons. So when it pops into the bay and fires off all of its cannon, the destruction is unbelievable. You you actually go out there and try to pick up survivors or members of the Albion crew do, and they don't find anyone except one person. So last week or two weeks ago, no four weeks ago, you all met with the Albion crew, and the Albion crew met with you guys, which led to all sorts of weird stuff, because you were each playing two characters at once, realized pretty quickly that something very strange. The members of the crew of the Albion realized something very strange had happened, that they were definitely no longer where they were supposed to be. The crew started. Their crews started throwing around all sorts of bizarre theories. Because, you know, the truth is, at that point, people were still sailors, especially, were still pretty superstitious. So they didn't know if, you know, they were somewhere unknown, you know, and on the African continent, or, you know, something like that, they had no idea. And they just start throwing these theories around. And then they meet the orcs, and at that point they say, Okay, we are definitely not in Kansas. This is weird. And you guys all met and talked. You find out that the Albion, the ship, is currently run aground. It's stuck on a sandbar in the middle of the bay. You know that the Corsairs would not expect that small fleet to return to their island for another day and a half or so. So you've basically got two to three days to decide what to do next. The Corsairs have been visiting this city on and off very over the last few years, basically just extracting tribute from them, right? Getting food, getting water, getting treasure, and they when they showed up this time. This is, you know, this is when the fight broke out, and this is when the Albion appeared. So, where we left it last time was you guys were trying to decide what your next steps were. Are you going to try to help defend or doon? Are you going to go attack the blood Corsairs? Yourself, yourselves? Are you going to do something else at the same time? Mossy? Had, I think it was just mossy, but I'm not sure. Basically, had your your folks at your Bastion do a research project,
+[0:23:43] George Nguyen: yeah,
+[0:23:44] Ian Lurie: and you're trying to figure out. And George just, you know, there's a much larger story happening. Over all of this, they've earned, this is a very powerful group at this point, and they've earned the hatred of this extremely powerful deity who wants to just torture them as much as possible. And they're trying to figure out what to do about this. The Deities name is Tiamat, and it's you don't need to know too many specifics, but the Party is trying to figure out how they're going to deal with this. Being called Tiamat because they can't just keep going on merrily with their lives while this deity is trying to ruin their lives. At some point, Tiamat is going to win, so they have to go and somehow deal with her
+[0:24:31] George Nguyen: like a mother of dragons thing, isn't it? It
+[0:24:33] Ian Lurie: Tiamat is the mother of dragons. Yes, yes, yeah.
+[0:24:37] Jamie Indigo: Demon beast. Tricky, that one's are.
+[0:24:40] George Nguyen: Keep your explanation. I got
+[0:24:42] Ian Lurie: something. Oh,
+[0:24:45] George Nguyen: yeah. Oh,
+[0:24:47] Ian Lurie: perfect. Okay, okay. Very nice. The energy, very nice. Years. That is a serious like LARPing weapon there.
+[0:24:58] George Nguyen: That's Comic Con exclusive. I didn't go. I paid way too much money.
+[0:25:06] Ian Lurie: Honestly, getting that without going to Comic Con is a win. So, so you had your the team at your Bastion, at your fortress, do some research and figure out, is there? You know, first of all, what is it with Tiamat? Where is she really from? How do you kill her or stop her or do something else? And after a few days, your the group comes back to you, and I'll read this to you. You don't have to go and read it right now, but you should save that link that I pasted into the chat just you can look at it later. And this is the exact message they got when they finished the legend lore spell. The Queen of dragons has no home since the fall of the Dragon eyrie, as far as you know, and you do well, I'll let you do more research on she is bound to Avernus with the chains of Glen ear. But even they demand repair else she loose them and fly free. Know this you can destroy. You can strengthen her chains of glean air or destroy her. Her destruction might be akin to the fall of amoth. Slay her, and we know not where her soul will reside. Nowhere elsewhere would she be forever released or banished to whatever dark corner now holds the Eyrie to strengthen the chains of glanir braid the roots of mountains, the breath of fish, the sound of a cat's footfall and the kiss of the unloved, or ask the gods themselves.
+[0:26:50] Jamie Indigo: Look, I know you really wanted that poetry major to work out, and I appreciate all of your hard work the next time. If we could keep a little bit more factual,
+[0:26:58] Ian Lurie: he says, I wasn't a poetry major. I was a history major. But no legend lore is really annoying, because you get weird, obscure stuff like this
+[0:27:09] Ian Lurie (he/him),Jamie Indigo: some right now,
+[0:27:12] Ian Lurie: you are in your you're at the end inner dune. We'll just say this is sort of the end of the end of the day, of that second day. Okay, so things you do know from this, you know about the fall of amoth, right? That that was the, that was the catastrophe. That's, you know, that's the year zero. You're now in year seven of fall reckoning. That was year zero. You don't know too much about the rest of this, but it sounds like she's from a place called the dragon, Irie. I think it's Irie. I don't know if it's airy or Irie, but and you guys can give me a religion check on that one if you want to try and figure that out. So George, I don't know how much you know about D and D, but everything works on the prince principle of dice. And whenever I say roll a check, they're rolling a 20 sided die. It's this cool looking, little meteorite looking thing. And then they roll that and they add whatever bonus their character gives them. So what everybody get?
+[0:28:37] Jamar Ramos: A 10. A
+[0:28:38] Ian Lurie: 10. Aren't you like the religious person I
+[0:28:41] George Nguyen: know. So does one person roll on behalf of everyone playing?
+[0:28:44] Ian Lurie: Not, not in this case. So in this case, everybody's rolling against their own separate skill, a skill called religion, which is basically their memory, their you know, how much they learned in school or in life about the, you know, the gods and the various religions of this world.
+[0:29:05] Jamie Indigo: So I got an 18
+[0:29:06] JP Sherman: so Jamar and I are both god brothers, like, I'm a mind, very minor cleric, and Jamar is a Paladin of the Raven Queen, which is around the domain of death. My deity is around, uh, revenge and revenge and
+[0:29:32] Jamar Ramos: revenge on that. Punani,
+[0:29:34] Ian Lurie: yeah, drag score, let's, let's, uh, let's, let. Can we leave my holes out of this? We're just, yes, let's, let's let George ease into this. All right,
+[0:29:46] Jamie Indigo: so I got an 18. Am I the most religious right now? I'm the only non theist.
+[0:29:50] Ian Lurie: I believe Drach most.
+[0:29:52] JP Sherman: I got a 25
+[0:29:54] Ian Lurie (he/him),Jamie Indigo: Damn. Okay, 10.
+[0:29:56] Ian Lurie: I got a 10. Okay, drag. You know that the dragon's eerie was actually the elemental plane of dragons. It was where all dragons came from. It was destroyed, completely removed from existence at some point in the last, however, many years, certainly 1000s of years ago. So dragons now all reside on whatever planes they reside on. Most of them live on the prime material plane, right? This plane where, where you guys all live. There are a few exceptions, one of which is obviously Tiamat, because she is a prisoner in the first layer of the Nine Hells Avernus. So you know that much if everyone now wants to give me an Arcana check and George, that's another skill. And after this, why don't you all introduce your characters?
+[0:30:55] Unknown Speaker(s): Actually, dirty 20.
+[0:30:59] Ian Lurie: I think Jamar rolled a one. I'm not sure. Did you poop?
+[0:31:05] Jamar Ramos: No, I rolled a five, which my plus six means it's 11. I love how my plus is more than Darcy. I'm rolled what kind of nights it's gonna be.
+[0:31:15] James Svoboda: I got a five, 524,
+[0:31:19] Ian Lurie: okay, and I'm sorry. Jamie, 3020, 3020, okay, so Drac, again, you know that the chains of glean air are a legendary slash mythical magic item. It's these massive chains, literally, that scale up beyond normal, like scale up beyond the level of comprehension of people who walk on the prime material plane. They are infinitely strong, or almost infinitely strong, and are are purported to hold anything any creature that they bind, no matter what the creature or how it can move. So teleportation doesn't matter. Flight strength, none of that matters. It can actually hold them in place. And the sketch that you the pencil sketch you see on that, on the team, on and the chains of glean air page that I shared, if you want to look at it, those are the chains of glinia. And what you gather from this legend lore is that they are currently holding Tiamat in place. But after some 1000s of years, it may be that even those chains can't hold her, and they are starting to degrade and decline, which is why she tried to get to praxia before, and why she's trying now.
+[0:32:50] Jamar Ramos: But those chains haven't stopped her ability to curse us, because even though she's still locked up, we still have the curse on this right five fold brand.
+[0:33:04] Ian Lurie: You're not sure, because she hasn't done stuff like that, like there's no recorded history of her doing things like that in the last 1000 years, she hasn't really come to the Prime Material and fucked with anyone. She's been mostly stuck. She has sent her minions, right? She's, she is the queen of all chromatic dragons, so she has certainly sent them to do bad things, but she has not been able to exert her power directly over praxia.
+[0:33:37] Jamar Ramos: So we know that this is her mark, but we don't know if she's the one who marked us. Is that that works? Okay, yeah,
+[0:33:46] Ian Lurie: or if she may be maybe the the decay of the chains means she can do more now than she could do before. Cool.
+[0:33:55] JP Sherman: Thank you. So when we faced her previously, the the it was strictly because the door that closes, or like the door allowed her to do open it opens, allowed her to to, kind of, I guess, like in my head, like, stretch those bonds to the point where, like, she could cover somewhat, but she couldn't actually leave unless she grabbed the quintery, which would have, okay, yep, this is all making sense. She
+[0:34:30] Ian Lurie: needed you guys. She and it wasn't just the quintery, it was you guys. She needed you guys defeated or surrendered to her, which is what a grown up was trying to do. But, you know, all she did was managed to disintegrate Sango,
+[0:34:45] JP Sherman: and instead,
+[0:34:47] James Svoboda: we ran away. Oh, that was Craig. And that was crazy.
+[0:34:50] JP Sherman: Oh, Craig and die, yeah,
+[0:34:52] Jamie Indigo: okay, it's at this point moss. So mossy is a a tabaxi, so a feline humanoid with serval cat markings, kind of the personification of curiosity, killed. The cat was a rogue turned to an artificer. Still loves to stab things, but also is a big fan of arson, is going to reach into the bag of holding and take out the joke book that she got from Nick thim. So this guy, Nick thim, was a God who describes himself as a goblin, and joined us for a little bit of stabby. Stabby in another part of the campaign. Every now and again we we kind of pen pal, we talk. And he sent me a couple of funny jokes the other day, and I sent him a fun riddle and asked him, How is the TM at like a writing desk? Neither is from the Nine Hells. Do you know how to return to sender and Nick them? Actually gave some pretty good information on this. There once was a dragon menace. She had many heads in an attitude. So stop her forever. You need to be clever. Try prison, exile or servitude. So since we can't kill Tiamat, I feel like making Tiamat someone's bitch would be really fun. I'm just saying I'm
+[0:36:15] JP Sherman: thinking of like the Phantom Zone and stocks Superman.
+[0:36:23] Jamar Ramos: Until Superboy prime. Fuck that shit.
+[0:36:29] Ian Lurie: Yes, we are all nerds here. George just, you know that's, that's like the quick summary sheet of Mossy Oak, which is Jamie's character. She's basically a thief and a gadget person, so a rogue and an artificer. She's sneaky. She can steal stuff and she can blow shit up.
+[0:36:51] Jamie Indigo: I can roll 43 and stealth, yeah,
+[0:36:54] George Nguyen: which is really high, somewhere between cats the musical and puss in the boot. Puss in Boots is what I'm
+[0:37:01] Ian Lurie: with, a little cat woman thrown in. Yeah,
+[0:37:03] Jamie Indigo: yeah. More like gadget from chip and nail Rescue Rangers meet like Catwoman. That's four or five.
+[0:37:12] JP Sherman: That's good, definitely. That's very good. I'll go so Drake is His full name is Drak nev, but everyone calls him drag. He is a easy cleric, Ranger. He is a Beast Master, Ranger. And he has two he has two companions. They are they're twin, Allosaurus. One is back on the ranch, hanging out with with Kiki, who was injured, and so I've got the other Allosaurus, Sura, who's got more reddish color, and so she we fight together as a pair. My general style is I will murder you from a distance and I will murder you up close.
+[0:38:05] George Nguyen: They're not full size.
+[0:38:08] JP Sherman: They're bigger now. They're bigger now. Yeah, they're they're more adolescent. Because the way it happened was that, like I rescued its mom and its dad, and they gave me an egg and his thanks, and then I've protected that thing since egg formed to Young Link to now adolescence. Aren't
+[0:38:28] Jamie Indigo: you glad that I let those hours loose at the fancy dinner party?
+[0:38:32] JP Sherman: It changed the destiny that was the
+[0:38:33] Ian Lurie: very first game that we ever played together. Yes, who knew?
+[0:38:39] James Svoboda: And he used to have a Baby Bjorn, he would carry him around and yes,
+[0:38:44] George Nguyen: feel like the like meeting somebody who, who's telling me that they were gifted an egg by a set of dinosaur parents. I'd be like, you're dead, bro, you'd be dead. Like, there's no way this happened. I'm like, Man, this is the chosen one. All right, let's see this play out. He is
+[0:39:03] Ian Lurie: a ranger. He is,
+[0:39:06] JP Sherman: yeah, yeah. And he is also known for his his physical adventurousness, he he is. He does not have a gender or species. He
+[0:39:24] Ian Lurie: has, let's just, let's just, let's just, he has screwed his way through most of the animal kingdom on the planet, apraxia, we can just one night. Sentient, okay?
+[0:39:36] George Nguyen: Sentient standards, yeah, my
+[0:39:39] Jamar Ramos: character was murderized, and the night after this. MFR, had an orgy with the hotel we were in, yeah, which is
+[0:39:50] Ian Lurie: probably good place, Jamar, for you. Sorry, go ahead. JP, I didn't mean to
+[0:39:55] JP Sherman: cut you off, but the Goddess that I follow, she is the she is the goddess of thieves, the homeless, the downtrodden, the sex workers, but basically anyone who is just really looked down upon. And the benefit is, is that there's a whole network of like, you know, degenerates, like lovely degenerates. And but at the same time, like most of us, have a strong sense of justice. Of, you know, protecting protecting those who cannot protect themselves, that's my flavor of vengeance. And generally, he is, I would say that he is very susceptible to bad ideas from his friends,
+[0:40:43] James Svoboda: any, any certain friend in particular, all of you.
+[0:40:52] JP Sherman: But yeah, let's that's genuinely him. He's also very, I'd say, flamboyant, like he dresses in very bright colors, two or four for a ranger, at least,
+[0:41:06] James Svoboda: his hair is always blowing in the wind too. It's
+[0:41:09] Ian Lurie: always blowing in the wind, even if there is no wind.
+[0:41:11] Jamie Indigo: I have prestigious station I'm constantly looking after looking after my boy,
+[0:41:17] Ian Lurie: Jamar, why don't you go ahead?
+[0:41:20] Jamar Ramos: My character is heavy on the paladin with the sprinkle of Warlock in there just recently, even though recently is like two years ago, took the Raven Queen on as his deity. Like usually, Paladins have someone. But I wrote this character different, where he didn't take someone for a backstory thing. And so he finally, after the first time he died, but before the orgy, decided that he was going to give over his life to the Raven Queen, who is the closest you can like, not necessarily the goddess of death, but the goddess of that cycle, making sure that people die at the appropriate times and aren't brought back inappropriately. So basically, my thing is, if it's dead ceremony, let it pass. If it's undead, Killy, kill, stabby, stab. My guy used to be like a cop, but now he's chill. He still won't, he still won't steal from people who are good, but if there's an evil person and we need the thing that they have, he is happy to have sticky fingers or let mossy do it, because she's much better with the sticky fingers.
+[0:42:41] Jamie Indigo: I mean, mossy and Richter's first date was going and stealing from some douchebag neighbors.
+[0:42:45] Jamar Ramos: Yep, we stole some spice, some skirman James.
+[0:42:54] Ian Lurie: You want to go? Oh,
+[0:42:56] James Svoboda: I thought Richter, was you done? Richter? Oh
+[0:42:58] Ian Lurie: yeah, rich are y'all done? Oh yeah, okay,
+[0:43:02] James Svoboda: I'm playing Reed. Sangoma is Santa door. His friends call him Sango. He is his age I wrote down. Is well worn suntan leather. So if that tells you how old he is, he's tan with tattoos of green and black all over his arms and torso. He carries around a staff of flowers that every once in a while he will, you know, get a give out a little flower to somebody, make a little flower crown or something out of he's got a fiddle. He likes to play. He likes to punch people. Yeah, sometimes he's good. Sometimes not so good. Sometimes he gets pity coins from people for bad playing. He's got a he's got a staff. He likes to punch people. It's kind of it, right?
+[0:43:56] Ian Lurie: He's very good at it.
+[0:43:58] James Svoboda: Oh, he's got a and Mossy made him a cup of soup that never runs out of soup, and every once all you'll see him sipping on soup on the corner.
+[0:44:07] George Nguyen: This guy seems like he'd be the one involved in the award cheese,
+[0:44:13] Ian Lurie: but he's not. What he is is the guy who goes walking alone in the worst neighborhood in the city, and nobody fucks them, because they know that anyone who looks like that, who's walking alone, worst neighborhood in the city, not someone to be messed with. That's Sango. That's Sango, especially
+[0:44:29] James Svoboda: when he's in his bathroom that only comes down to just above his knees.
+[0:44:33] Unknown Speaker(s): He's definitely the naked guy in the gym,
+[0:44:38] JP Sherman: and he sold oregano to kids. Yes.
+[0:44:44] Ian Lurie: Oh, I think Richter was part of that too, wasn't he?
+[0:44:47] Jamar Ramos: Because that dude disrespected my girl, so I had to make sure that you don't do that anymore. We go ruin that drug
+[0:44:53] Ian Lurie: stuff. Yeah, and by the way, mossy and Richter are definitely an item in this group. They are a couple.
+[0:45:01] James Svoboda: They've been on like, one date. They've
+[0:45:03] Ian Lurie: been on one Yeah, that's true. They've only been on one
+[0:45:04] Jamie Indigo: day. I know when she killed this many people together, it kind of,
+[0:45:07] Ian Lurie: it's just, you know, thank you. Yeah, I was
+[0:45:09] Jamar Ramos: gonna say, every time she pulls out the stabby daggers and I pull out the AX, I consider that a date.
+[0:45:14] James Svoboda: Okay,
+[0:45:15] Ian Lurie: so there's been a lot to
+[0:45:16] Unknown Speaker(s): clarify that, yeah, the
+[0:45:20] Jamar Ramos: couple that kills together stays together, stays
+[0:45:22] Ian Lurie: together. Yes, absolutely. Okay, so you got that bit of legend lore, you know, you have some sense then of what the reason that you can't send her back to her home plane is because she no longer has a home plane. So do that information what you will at this point, it's early morning. Inter Dune, you guys can talk more about this. You can go out and see what's going on. Last that you met with the crew of the Albion, they were trying to figure out how they were going to get their ship unstuck. Unstuck. So you guys, this is that part. George, where we're we're all kind of dancing around trying to figure out what's going to happen tonight. So I will let you guys decide what's going to happen tonight.
+[0:46:21] JP Sherman: Refresh my memory on the orc leaders name shit.
+[0:46:28] Ian Lurie: No, that's not him. I just completely spaced it. Wow. How did that happen?
+[0:46:36] Ian Lurie (he/him),Jamar Ramos: Voda vodam was the orc Paladin that we talked to Yes.
+[0:46:44] Ian Lurie: And then voter's wife is Ian, who disappeared after using the astrolabe Yes.
+[0:46:55] JP Sherman: So after breakfast, I would like a meet up with her and talk about like, setting up the town defenses, because we know that we between one and two days we expect to fight and one like, I don't want to walk in going, I want to get like, I can help you. Do you like, do you want to, like, Can I help you, as opposed to, kind of, like, you know, we got this, okay, yeah, like, I don't want a white man's Savior does so,
+[0:47:35] Jamie Indigo: okay, so Erdogan, we're, it's, it's a little cove, right?
+[0:47:39] Ian Lurie: Yeah? So here, let me, I can pull that
+[0:47:43] Jamie Indigo: up. How far across is this bay?
+[0:47:48] Ian Lurie: It is about 300 yards across. 30
+[0:47:54] Jamie Indigo: yards. Okay,
+[0:47:55] Jamar Ramos: yeah, let me when you say the blood Corsairs are one day sail south. You're talking about ship or airship.
+[0:48:03] Ian Lurie: Ship, ships. Okay, yeah, remember airships really rare.
+[0:48:09] Jamie Indigo: Can we get the airship back to Urdu in time, before they got here?
+[0:48:13] Ian Lurie: Yeah, I think right outside the town. Yeah, it is,
+[0:48:18] Jamie Indigo: because if we get up in the I don't know if it's working. Ian, you tell me if we got in the Air Canada and Mossy, did I think I can do web through it, then we could basically stick them all in there like they're not moving until we talk this through,
+[0:48:34] Ian Lurie: assuming, you know. Okay, so let's take a step back. This is, this is the entire continent, right? This is the zoom in on urduen and the bay. And then the Albion is about halfway into this little bay. And is, is a ground there. The blood Corsairs are down here. And it's, it's still a, you know, three quarters of a day trip for the airship as well. You don't know anything about where they are. You don't know if they're if it's mountainous, if it's a beach, if it's a cave, you just, you don't know, no one's been there, and come back, right? So you could fly over there if you guys wanted to.
+[0:49:29] James Svoboda: And none of the none of the townsfolk have ever seen them with beasts or anything like that that could fly or swim or anything like that. I guess, I guess I'm gonna ask around.
+[0:49:47] Jamie Indigo: Okay, makes sense to do a recon team that takes the airship out and then a team that stays here and plans so
+[0:49:53] Ian Lurie: drag, I think you are going to go meet with Voda. So why don't we do that, and then we can come back to their So, George, this is one of the tricks for a dungeon master is I have to when everybody's doing different things, I have to keep track of it all. So that's part of what you'll hear me doing. There'll be some artificial pauses and stuff when I'm kind of like, okay, let's switch to this person. Let's switch to this person. So Jack, let's switch to you talking to Voda. Okay, so when you get there, yeah, she is sitting at the table in her dining room, which kind of doubles as the the central meeting place for the town. And actually, Samuel Cooper is there, the captain of the Albion. And they are both looking over a map, okay?
+[0:50:39] JP Sherman: Kind of walk in the captain, voter, my suit, my tactical services are available if we are expecting an attack from the Corsairs. I have experience, and I'm willing to help.
+[0:50:55] Ian Lurie: Voda says we were actually just starting to talk about that. I I am not a tactician, but obviously Captain Cooper is, and he says, but not used. I have no experience in this manner of battle.
+[0:51:15] JP Sherman: The captain said that, right, yes.
+[0:51:17] Ian Lurie: And the captain then says, I believe we can help as well. We can easily secure the bay. Except for one problem, we have no powder. The mayor has told me that you do have explosive powders here. I don't know if they will work in our cannon. Understood, we have ample shot, but in the attack and in our transit here, however that happened, we lost much of our powder. Our Marines have maybe four to five shots each. Our cannon have no shots at all.
+[0:51:54] JP Sherman: Understood, you know, if we can, if we can pull this off, well, you don't, you don't need powder. I'm sorry if we pull this off correctly, you won't even need powder, because one thing that you don't know about us yet is that we have access. We have our own ship, is a flying ship, and we can literally rain fiery hell onto the ground,
+[0:52:22] Ian Lurie: you guys actually did point to the ship. Okay, when, yeah, and that was when Captain, the captain, and not Obadiah and Silas both started kind of realizing that this was not, they were not in Kansas at this point.
+[0:52:45] JP Sherman: My So, from my suggestion, is that this bay, if the Corsairs are going to come, they're they're most likely to come through this bay, because this is probably the best way for them to enter this area. I hope to be able to put mossy on on our airship, in arming the cannon, our cannon, which will rain fire upon them, if we can get them, if we can get them into the bay with your ship, like I want to be able to preserve that ship and one it's more. He
+[0:53:23] Ian Lurie: raises a tanker. Just says, so do I. So I'm very glad to hear that.
+[0:53:26] JP Sherman: Right if you, if you have the cannons, you're going to become a big target, and then at that point, they will go after your ship burst. My hope is that they see the ship, and they see the big threat it possesses, and come closer to engage that ship, and then we flank them from the rear and burn them meanwhile, so we essentially go up the bay. Volda, do we? I've heard of some ports and rivers that have iron chains that go across the rivers, and they can either prevent ships from getting closer and prevent them from leaving. If there's some sort of tactical advantage, we can that you have there, we can essentially put them in a box and burn them.
+[0:54:30] Ian Lurie: We have not had the resources to create something like that. That's fair. And Captain Cooper says, with respect, I and I understand what you're saying. We're used to being a target, but also I am loath to go into battle without the ability to use any cannon. I trust you, though, so all I would ask is, I need my full complement of Marines on my ship, then, because we have to protect that ship, as far as I know, that ship is our only potential way home. We even know how to get home. But my main responsibility here is to get my crew back home intact and safe. And obviously, if I can protect these people in the process, so much the better. But understood,
+[0:55:18] JP Sherman: I think something I need to go, go back to my team, is if somebody can assist you find as much powder as we can, that would be helpful. The way that I'm looking at this is that I have the ability to hide underwater and create disruptions from there. Or the other option is, is that we can actually jump off of our ship and be airborne and using the elements of surprise against them, because the moment they're in that box, we can ride fire and then myself, Richter and Sango, if they, if they agree to this, essentially go airborne with them.
+[0:56:14] Ian Lurie: Wow. Richter jumping off of the airship again. Just
+[0:56:22] JP Sherman: no. Nevertheless, volde, I think my also, my intention is that if they get into the if we have to use your contingent of security. That means things have gotten pretty bad on our side, or at the very least, as they trickle up, it'll be easy to take care of them. Again, my goal is to protect the sailors on the ship the security or the the Orca security in the town use the element of surprise to rain fire upon the Corsairs and completely and totally destroy their ability to communicate, maneuver and retreat.
+[0:57:22] Ian Lurie: Um just the captain, says very well, but in that case, I need to get back to my cruise that we can refloat our ship. Because what I won't do is have us stuck on a sandbar with a battle going on around us. That is, that is the worst possible place for us to be okay, all right.
+[0:57:46] JP Sherman: My, one of my plans is right now is to use southern plants, or plant growth, use plant growth and use the underwater plants to start gripping, grasping, essentially turning water into difficult terrain. Okay?
+[0:58:03] Ian Lurie: At this point, if you guys want to, you can catch up with drag. He is very enthusiastically going over plans with the mayor and the captain about all the horrendous things he's going to do to the fleet, and you guys can weigh in as desired at this point, regorum also shows up. By the way,
+[0:58:27] Jamie Indigo: regorum is
+[0:58:29] Ian Lurie: the old orc Paladin. Thank you.
+[0:58:36] Jamie Indigo: Just kind of elbow regularly see him cooking. This man knows how to kill an enemy.
+[0:58:47] Ian Lurie: So, okay, Jack, go ahead. You can keep talking about the plan, and you guys can weigh in as desired.
+[0:58:52] Jamie Indigo: Did they ever come in on land unless Paul goes up? They
+[0:58:56] Ian Lurie: haven't done that yet. No, they also. They have many other ships of many different sizes. What they brought in this, what you saw was part of their fleet, but they were definitely some of their smaller ships and not that many of them.
+[0:59:16] JP Sherman: I would also imagine that they will have leaders among them, probably better equipped, better skilled, and probably having magical and or clerical support, yeah,
+[0:59:31] Jamie Indigo: but they're still flammable,
+[0:59:33] Ian Lurie: and they'll be cautious, because they're going to show up after their fleet apparently disappeared, right?
+[0:59:40] JP Sherman: And which I I can't, I don't think I want to risk exposing that we have the villains discontent on on a search, on a scouting mission.
+[0:59:57] Ian Lurie: George, the villains discontent is their airship. Okay, go ahead,
+[1:00:03] JP Sherman: because if they know we have that, they're going to change their tactics. So if we want to do some scouting, as as the Ranger, I volunteer, sir, and I can probably get there pretty quickly. Do Sango, I think this is something that you would excel at as well.
+[1:00:26] Ian Lurie: What, I'm sorry,
+[1:00:29] JP Sherman: got a scouting mission to the to the Corsairs. Yeah, okay, quick, quick, stealthy, like their count what they got and then come back
+[1:00:41] Ian Lurie: on the discontent.
+[1:00:43] JP Sherman: No, by themselves. How are
+[1:00:45] Jamie Indigo: you going to make it that quick?
+[1:00:49] James Svoboda: It's like a day by ship.
+[1:00:52] Ian Lurie: It's a day in the Yeah, in the equivalent of the North Atlantic. I just, I you can certainly okay. I'm sure you, you have a way. But just keep in mind that it is, it is a day's sale in the nautical equivalent of the North Atlantic. It is not, this is not hospitable waters.
+[1:01:09] Jamie Indigo: Okay, so the big things right now, we know we need to get the ship out of the bay right now it's in a compromised state. That needs to be done,
+[1:01:18] Ian Lurie: at least a float.
+[1:01:19] James Svoboda,Jamie Indigo: Be Ian's. We wanted to want to keep the villains discontent out of line of sight for them until, basically, we get a signal to come out and blast them. Are we going to play this? Okay,
+[1:01:31] JP Sherman: okay, I think, I think the Scottie mission would be nice to have, but not critical, and the fill in this content only comes out when we kind of got them in the box in the bay. Well, how
+[1:01:48] Jamie Indigo: are we going to build the box? He said, the change doesn't work,
+[1:01:51] JP Sherman: not observable.
+[1:01:52] Ian Lurie: James, you were going to you were going to
+[1:01:54] JP Sherman: say Oracle box.
+[1:01:56] Ian Lurie: Sango, you were going to say something,
+[1:02:01] James Svoboda: I'm sorry, direct. Can you specify what kind of box you're talking about?
+[1:02:07] JP Sherman: We were thinking about doing a scouting mission.
+[1:02:09] Ian Lurie: I should know better. I should know better.
+[1:02:13] James Svoboda: Hey, Massey, you're an artificer, and you can do like engineering type stuff, right? Yes, what can we use the villain's disconsent to help, help, help that ship get out of the stuck from the from the sand in the bay.
+[1:02:30] Jamie Indigo: You see a little spark in mossy's eyes, and she grabs her notebook and starts trying to figure out what kind of pulley and rig system she needs to get that thing. Where would you want it set. Can you point to that on the map?
+[1:02:43] James Svoboda: Yeah, we just need to get it floating right. Yeah.
+[1:02:46] Ian Lurie: You don't need to move the ship. It doesn't have to leave the bay. But the Captain has been very clear he does not want to be stuck on a unable to move if there's
+[1:02:56] Jamie Indigo: been a compromised spot in the bay at all, though, and it's kind of in the way. So if we just scooted over somewhere, then they would have to worry about it getting damaged. Yeah, hey, voda, where would be good to park a shit.
+[1:03:13] Ian Lurie: I The captain says, Trust me with that. I just need to be floated free of the sandbar. I know where my ship is safe and and where it can where we can defend ourselves.
+[1:03:32] Jamie Indigo: You guys want me to go get the ship out of the bay. I can do that. Ooh.
+[1:03:36] James Svoboda: Do you think I mean, that's a, that's a, that's a math thing that you can probably do it,
+[1:03:45] Jamie Indigo: yeah. What would that be? Ian,
+[1:03:47] Ian Lurie: what role? Just want
+[1:03:52] Jamie Indigo: to see if I can figure out a way to do it,
+[1:03:54] Ian Lurie: yeah, make it a straight up D 20 plus Intelligence plus proficiency bonus. Basically, it's your skill as an artificer, plus Intelligence plus proficient 22 Yeah, so you want to talk to the crew of the Albion, whoever's in charge of getting the ship unstuck. But do you think you can probably help them, depending on what exactly they're doing, like you can think, you know, lighten the ship as much as possible, get
+[1:04:23] Jamie Indigo: it the airship in a series of ropes and
+[1:04:26] Ian Lurie: just Ian, yeah, but you don't know how, like, it depends on how stuck the ship is. You don't know the weight of the ship. You don't know how deep the draft is. If you can talk to you can talk to the captain, you can talk to other people, and then they can you're sure that talking to members of the crew, you can figure it out and make it work. You're absolutely confident of that. What you can't do is design anything or just come up with a solution without actually having and
+[1:04:50] JP Sherman: why do I artifice?
+[1:04:53] Ian Lurie: No, you can artifice. You just need to know how big invented the X ray, the captain with a little prompting, or just hearing you talk about it says, you know, ship weighs this much. We're probably stuck about a foot into the mud on the the floor of the bay at high tide. So, you know, you immediately then figure out what you would need to do. You'd need, you know, a couple of ropes. You need to mount it, mount them in a certain way, so you don't pull the ship apart by accident. And you'd want to do it right around high tide so it has the best possible chance of floating. He'll lighten the ship as much as possible, waiting like pump all the water overboard and do all that. And it should be pretty should be pretty easy, because the ship wasn't damaged. It's just stuck in mud. It's not on rocks or anything.
+[1:05:51] Jamie Indigo: Okay, when we finish shocking here, I'll go with those.
+[1:05:58] Ian Lurie: Richter, did you have anything? Regorum, is there kind of standing next to you?
+[1:06:06] Jamar Ramos: I look at him and I say, Are you itching to get your ex back in the game?
+[1:06:17] Ian Lurie: I am. He kind of laughs. It's sort of this low rumbling sound says I am far too old for such things, but I admit I won't complain to see a battle again, liability than help at this point,
+[1:06:37] Jamar Ramos: if you can then do me the favor of making sure that any innocents who will not be fighting are safe and out of the way. And you would be our last line. I would truly appreciate you doing
+[1:06:50] Ian Lurie: that. Yes, we will get everyone up to the top of the top of the hill and as far from the bay as possible.
+[1:06:59] Jamar Ramos: Let's make sure that the Raven Queen doesn't have too much work to do at the end of this, at least on our side.
+[1:07:05] Ian Lurie: Let's make sure she's working with the right people, exactly.
+[1:07:10] Jamar Ramos: And he Richter just puts out his hand to shake his Yeah.
+[1:07:13] Ian Lurie: He returns the gesture. So with all that, it sounds like you guys want to scout. Where do you want to I'm very carefully not looking at the chat right now. What notes are being passed at the back of the class. What would you guys? So, what is your next step?
+[1:07:46] James Svoboda: So right about there a young human guy from the ship comes up. He was standing in the back of the room, and he comes up to Massey. He introduces himself as Levi and he says, I can get you some rope, ma'am.
+[1:08:05] Ian Lurie: So Levi walks up to you, and he actually has two small orc children, one wrapped around each leg, as he kind of comes dragging himself over to you, which
+[1:08:14] Jamie Indigo: is funny, because didn't Levi try and kill the elf earlier? Yeah, okay, you've repented. Mossy doesn't know this. She's just amused. Okay, we need rope, and I'll give him a list of supplies I need this many people, strong ones. I need this many people felt ones, a couple who don't mind getting money. Thank you.
+[1:08:37] James Svoboda: You got a buzz, man. Then he turns it.
+[1:08:42] Ian Lurie: Heads out. Um, yeah, Levi, you have done this many times. You have unstuck ships from sea bottoms. Many, many times, not this particular, not a ship this massive, but you sounds like mossy this weird cat woman knows what she's doing. And I'll just point out the orc children have not tried to kill you and your friends, which is why you have not tried to kill them, whereas that elf did try to kill you and your friends, which is why you definitely want to kill him.
+[1:09:10] Jamie Indigo: I guess, super prisoner. Prisoner. He can't moralize these things, yes, but maybe
+[1:09:21] James Svoboda: I still don't trust that guy.
+[1:09:23] Jamie Indigo: I don't know this Dr Jed knows this, because I think Dr Jed had to patch you up after he bitch slapped you.
+[1:09:36] Ian Lurie: Obadiah, you are down on the docks, and the captain basically gave you the job of seeing if you can find some powder, because everyone can tell you guys, don't worry about it. You don't need powder. But after you know you're a ship of war, you're used to going it completely alone in the middle of the ocean with no one around. There is no way in hell you want to go into this fight without powder. So you have asked around
+[1:10:06] JP Sherman: private Josiah will would would help. I'm sorry, Josiah would help.
+[1:10:14] Ian Lurie: Oh yeah, yes, absolutely. So the two of you are looking around to see if there's a source somewhere of powder.
+[1:10:19] Jamie Indigo: Where did Josiah live in? Death saves, okay,
+[1:10:26] Ian Lurie: he got healed. He
+[1:10:27] JP Sherman: got healed. Yeah,
+[1:10:28] Ian Lurie: it was a it was God's own miracle working its way on him. Thankfully, he wasn't awake to see who it was that was doing it. You so the two of you do find that there is a store of some black powder here in the town, not very much, but enough that you could at least test it if you wanted to. So you could test it in just one of the Marines rifles or something like that, if you'd like to give that a try.
+[1:10:58] JP Sherman: That's Obadiah, right, yeah.
+[1:11:01] Ian Lurie: All right. Ovid is the one who knows how to do this, like you know how to pour gunpowder into something, but you don't know how to actually turn it into a charge. And
+[1:11:10] JP Sherman: yes, yeah, just Yeah, hold on, I need to check his intelligence.
+[1:11:23] Ian Lurie: Obadiah is really, Obadiah is really the one who should be doing this.
+[1:11:26] JP Sherman: Not, yeah, no, I'm trying to feel like because I don't want to scare people when I shoot the rifle. But, and with a with an intelligence at 12, he's, he's generally thoughtful, okay, so he's not going to shoot it inside, just in the town square. Well, it's
+[1:11:45] Ian Lurie: not loaded yet, right? So Obadiah, you can give me a assuming you want to do this. This powder looks weird. It's much darker than the powder you're used to.
+[1:12:00] Rikterr/Obadiah: Obadiah is looking around at everyone and outside of what was it? Silas, there's not many people that he's gonna trust to do this, but himself,
+[1:12:11] Ian Lurie: yeah, no, no, you are the lead gunner on the ship. Like you know more about this stuff than anybody else. So you go to give me a just give me a D 20 roll. I'll tell you how it goes.
+[1:12:33] Unknown Speaker(s): 12. Oh, okay, cool. That's I too was surprised.
+[1:12:39] Ian Lurie: So you take some wadding. You put the powder into the rifle. It's not the normal way to load a rifle, but it should be good enough to test it, and you set the hammer back. If you want to let Josiah do it or, sorry, let Silas give it a shot. You certainly can. It's up to you.
+[1:13:00] Rikterr/Obadiah: Nope. Obadiah is gonna do it.
+[1:13:02] Ian Lurie: Okay, of course. So Obadiah, go ahead and pull the trigger.
+[1:13:12] Rikterr/Obadiah: So I'm take I'm gonna do the pistol range, weapon attack. I'm taking it. Yeah, okay. Oh, motherfucker,
+[1:13:25] Ian Lurie: you accidentally shot Silas in the leg. No,
+[1:13:29] Rikterr/Obadiah: would you roll? I roll the one? Oh, okay, I accidentally shot Silas in the
+[1:13:34] Ian Lurie: leg. So George, a one is the worst possible role. 20 is the best possible role. We have had more than our share of ones tonight so far. It actually turns out not to matter Obadiah, because when you pull the trigger, there's this kind of sound and the the ball kind of rolls slowly out of the barrel. And you realize, actually, give me a give me an intelligence role,
+[1:14:10] Sango / Levi - James Svoboda: four. Oh, no, okay,
+[1:14:12] Ian Lurie (he/him),Rikterr/Obadiah: I'll be right back. I'm gonna get some new dice, yeah,
+[1:14:15] Ian Lurie: did he
+[1:14:16] Mossy/Dr. Jed,Sango / Levi - James Svoboda: say he's gonna get some new diapers?
+[1:14:18] Ian Lurie: Yeah? Just microwave though. Yeah, that too, probably that too. Just microwave them. Okay, what you figure out is, regardless, it takes you a while, but you do figure it out this powder is not it's similar to the kind of black powder that people used on Earth, maybe 150 years before your time. So 150 years before the age of sale, it doesn't have enough of a substance in it called saltpeter, so it doesn't explode suddenly, enough. And you know what you need to do to make that, to make it work. You're just not quite sure, you know if that, if it exists here, you know, but you're sure that this powder will not work. Oh, I think you really did step away, hopefully not kidding.
+[1:15:21] Rikterr/Obadiah: Nope, I was not kidding. Oh,
+[1:15:23] Ian Lurie: okay, okay, I
+[1:15:25] Rikterr/Obadiah: tell everyone, yeah, this powder is not the right powder. And he asked, Do you guys know what saltpeter is? Who are you asking this? RBG crew.
+[1:15:42] Ian Lurie: So Mossy, Mossy, you know, being an alchemist, saltpeter is guano, okay?
+[1:15:51] Mossy/Dr. Jed: Reason I Bro, why do you ask
+[1:15:55] Rikterr/Obadiah: if you want us to help out in this battle, we're gonna need it. The powder that you guys have is not up to snuff for our guns. We need the saltpeter to give it that extra little push. The gun
+[1:16:09] Mossy/Dr. Jed: part was the important context there, because yes, how to get some but
+[1:16:14] Mossy/Dr. Jed,Rikterr/Obadiah: I'm sorry, I don't know what you guys know and what you guys don't know.
+[1:16:18] Mossy/Dr. Jed: I know that it comes from bat poop, and based on the map, I think there's probably some caves nearby where we can score some
+[1:16:24] Rikterr/Obadiah: I'm sorry, ma'am, what
+[1:16:29] Mossy/Dr. Jed: I know how to get the thing we have to go find where the bats live.
+[1:16:34] Rikterr/Obadiah: Okay, I'm walking into a cave and I'm getting back all this. I can't wait to get back home.
+[1:16:39] Mossy/Dr. Jed: You know, this isn't gonna be the weirdest thing that happens to you today.
+[1:16:43] Rikterr/Obadiah: I somehow believe you
+[1:16:48] Ian Lurie: Okay, let's switch now from Mossy and Obadiah to Drak and Sango. You are thinking about a scouting mission. I just want to give you a chance to kind of think that through. How you how do you want to do that? Are you going to try? Do you want to fill me in?
+[1:17:13] JP Sherman: Yeah. So Sango, I know that you are unnaturally fast and you have the ability to change your shape into something that is faster, like, can you change your shape into something that flies? No, no, okay. Can you change your face your shaping is something that swims? No, okay. All good information.
+[1:17:44] Sango / Levi - James Svoboda: I can, I can, I can make some more soup.
+[1:17:50] JP Sherman: Okay, how would that be? How does that work? I don't
+[1:17:56] JP Sherman,Sango / Levi - James Svoboda: know, but I like soup, so, okay,
+[1:18:01] JP Sherman: I need you to focus. Sango, do you want to, like, are we gonna do a scouting mission?
+[1:18:08] Sango / Levi - James Svoboda: Sure, okay,
+[1:18:11] JP Sherman: using the skills that you have available. Like, what would you need and how would you do it?
+[1:18:17] Sango / Levi - James Svoboda: That's a good question. What kind of scouting mission? Well,
+[1:18:23] JP Sherman: the blood Corsairs, they are on an island almost directly to the south, which means that the fastest way there is either flying or swimming, it is probably more, is definitely more than a day on foot, you have any Yes,
+[1:18:47] Ian Lurie: it is a problem.
+[1:18:53] JP Sherman: Yeah, so do you have with the skills that you have available is that? Is that something you can do?
+[1:19:01] Sango / Levi - James Svoboda: I could. I could turn it into a faster running animal, yes, not one that swims or flies, though, okay, but if we take the Villa's disconsent, we could fly there. We don't
+[1:19:15] JP Sherman: want to do that, because we don't want to give away the fact that we that we have that vehicle like the plan hinges upon there being some element of surprise, because we want the Corsairs to commit to the bay and then get hit from the back by the villain, by the villains discontent. I mean, if the sky mission is not is a no go, then, like, that's totally fine. I'm just trying to figure out how you do it.
+[1:19:46] Sango / Levi - James Svoboda: DM, do we have a map of this area?
+[1:19:49] Ian Lurie: Yeah, that's, that's what's on the screen, right now.
+[1:19:52] Sango / Levi - James Svoboda: Okay, no. I mean, like, uh, does Drak and Sango have a map? Yes, okay.
+[1:19:57] Ian Lurie: And, you know, like, blood Corsair Island is down here, right? Or Dune is up here. Or dune does have boats, right? They do have vessels. You could sail one of those, but it will take you a day or so, you know, at least a day to get there. Okay?
+[1:20:14] Sango / Levi - James Svoboda: And how long has it been since the Corsairs attacked and then fled?
+[1:20:20] Ian Lurie: A day. It's been a
+[1:20:21] Sango / Levi - James Svoboda: day. Okay, so, so they're probably back there now.
+[1:20:26] Ian Lurie: Um, where are you guys having this discussion?
+[1:20:30] Sango / Levi - James Svoboda: That's a good question.
+[1:20:31] Ian Lurie: Are you talking about it at voters house? So you guys are all planning this out together? Or Brunel, yes, okay, um,
+[1:20:42] Mossy/Dr. Jed: did rikter come with Mossy for the ship plan, or is he still there?
+[1:20:45] Ian Lurie: Uh, you guys are actually all still there. You've been talking to crew members and stuff. Obadiah came back to talk to you.
+[1:20:53] Mossy/Dr. Jed: Okay, I didn't know if I was in the field and had seen the pistol or any of that.
+[1:20:57] Ian Lurie: No. So, um, and I'm sorry. JP, you're playing Josiah or Silas I can't remember. I
+[1:21:04] JP Sherman: am Josiah. Josiah.
+[1:21:05] Ian Lurie: So Josiah, you're hearing all this, and actually Levi as well. You're, you think your your ships like you're the small skiffs and everything that you have on the Constitution or on the album, they must be really fast compared to most of the vessels here, because given the distance, you think, like the captain's gig, which is a very small sailboat that's carried on the album. You think, if you needed to, you guys could get to the island in maybe half a day and back again.
+[1:21:47] Sango / Levi - James Svoboda: Okay, that's better than us swimming, yeah.
+[1:21:49] Ian Lurie: So leave Levi, I will. But so remember, you're all playing two characters. So Levi, Levi and Josiah, you'll have to, you're gonna have to interject if you want that to Yeah.
+[1:22:00] JP Sherman: So Josiah is like as the good as the good Lord provides everything for us. We have boats that are nimble and fast and could probably reach what you're looking for a lot sooner, and you are all helping us. I like this is not easy, but we can show you like invite you on our boats.
+[1:22:35] Ian Lurie: The captain says you could take the cutter. She's fast.
+[1:22:42] Sango / Levi - James Svoboda: I like that I did. Dr, I like that idea.
+[1:22:47] JP Sherman: Jack's like, I'm over here, dude,
+[1:22:51] Ian Lurie: I'm never doing this again. Just the chaos is, is, yeah, it's powerful. Why
+[1:23:00] George Nguyen: is it that everyone's playing two characters?
+[1:23:03] Ian Lurie: Because I decided it would be fun to have this Napoleonic era of worship,
+[1:23:10] Mossy/Dr. Jed: because you did the fun thing. Yeah,
+[1:23:12] Ian Lurie: that that this regular sort of earth age of sale worship showing up in this DND world would be fun. So I decided to mix the two. And I thought it would be doubly fun to have all the players play a character on that ship in the series of events that led up to it being where it is now. But then everybody was like, that was really fun. We want to keep playing those characters. So now everybody's playing two characters. They were basically the characters they're playing from the ship are supposed they were supposed to be one offs
+[1:23:43] JP Sherman: until we all die. So it's like a
+[1:23:47] George Nguyen: really long, big inside joke
+[1:23:49] Ian Lurie: sort of coming that, yeah,
+[1:23:52] George Nguyen: yeah. I admire the commitment. Yeah.
+[1:23:55] Rikterr/Obadiah: This is what happens when your DM knows a lot about history and knows that his players will yes and almost anything that he says, y'all, we gonna do this.
+[1:24:04] Ian Lurie: Well, if I had really thought about the Yes, and I might not have done this, but yeah, you
+[1:24:10] Mossy/Dr. Jed: would say that about so many things in this campaign.
+[1:24:14] JP Sherman: So Josiah, Josiah is like, yeah, I can all go now and prep the cutter. Okay, Captain,
+[1:24:23] Ian Lurie: make toe, I'm
+[1:24:24] JP Sherman: just give so just, I was gonna look at Sango. Okay, it'll be prepped and ready to go in about an hour. Is that enough time that you need?
+[1:24:33] JP Sherman,Sango / Levi - James Svoboda: Yeah, yeah. I think so that sounds not a Yeah, yeah. Okay. And then Levi, turns to Josiah as he's leaving. Hey, make sure to get our red shirts. We need to take them on this adventure.
+[1:24:47] JP Sherman: Yeah, he reflexively salutes you, Sango.
+[1:24:52] Sango / Levi - James Svoboda: You can see the most awkward salute ish thing mimicry ever.
+[1:24:58] Mossy/Dr. Jed: Dr Jed in the back just doing a mental tally of how many bandages he still has on the ship.
+[1:25:05] JP Sherman: All right, Josiah takes off and readies the boat,
+[1:25:08] Ian Lurie: okay, all right, so switching back, Mossy, you're going to work on getting on floating the ship,
+[1:25:18] Mossy/Dr. Jed: yeah, with the ship set up and point them in the direction with some some assorted jars. Yeah, I'm gonna use some of the amber claw jars that I stole. We can fill them with bat guano.
+[1:25:30] Ian Lurie: Okay, and then rikter, what are you gonna do?
+[1:25:34] Rikterr/Obadiah: Rikters going to walk around with rugerim and just find all the non combatants and just explain that rub rooms going to be with them, that he's going to help protect them and take care of them, just so they have a calming presence, telling them where to be, so that when the firing starts, they're not casualties. They look
+[1:25:54] Ian Lurie: like they've been through this before. They take it very calmly. They say, you know when the alarm sounds, we we know where to go.
+[1:26:04] Rikterr/Obadiah: Hopefully, if we do our job right, this will be the last time you ever have to deal with that alarm.
+[1:26:13] JP Sherman: And then Drac is going to go to the tip of the tip of the bay, like, where the where the the southernmost point of the yep, right there. He is going to take out one of his ant plant links, the seed links, okay, and, and for the next eight hours, you know, his eyes are going to go white. He's going to he's going to be in the position. And the next eight hours, he's doing plant growth on the seedling.
+[1:26:51] Sango / Levi - James Svoboda: About About 30 minutes into that, Sango taps you on the shoulder. The boat's ready.
+[1:27:00] JP Sherman: I'm going to make a constitution role.
+[1:27:03] Ian Lurie: Well, I was just going to ask though, are you going? So you're not going on the scouting? No, okay, yeah. Okay, so George, this is what we call splitting the party. We got people going in every possible direction. I don't think I've seen it get quite like this in two or three years. So I just want you to know this is not normal. But continue. Drac, continue. I'm
+[1:27:26] Rikterr/Obadiah: just gonna say, when rikter says, split up the party, everyone jumps down his throat. When Drak says it, everyone's like, Oh my god. Dr, great idea.
+[1:27:35] Mossy/Dr. Jed: I thought we agreed on things they need to be done. But no, he's gotta go meditate in the
+[1:27:40] Ian Lurie: position. Okay, so. Dr, now you can make a constitution check to see if you're gonna have to start over again. It's only been 30 minutes,
+[1:27:46] JP Sherman: though, right, right. Okay, fine. Sometimes remember. Dr, a intelligence, not that high. It seems rude.
+[1:28:00] JP Sherman,Mossy/Dr. Jed: No, he's the pretty one. It's okay,
+[1:28:01] JP Sherman: all right, so, oh, wait, hold on, Constitution is a that's
+[1:28:13] Rikterr/Obadiah: a plus five from rikter.
+[1:28:15] Ian Lurie: Oh no, he's not within,
+[1:28:17] JP Sherman: yeah, not within, like, 10 feet.
+[1:28:19] Ian Lurie: Oh, you're not. Oh no. He went strolling. He went strolling like a house
+[1:28:22] Ian Lurie (he/him),Rikterr/Obadiah: fuck you. You're on your Nope.
+[1:28:27] JP Sherman: And sometimes I do just do that. So that's a 14 and a 12. Okay,
+[1:28:34] Ian Lurie: the spell is interrupted. You turn to Sango.
+[1:28:39] JP Sherman: I got I'm sorry, what did you say?
+[1:28:46] JP Sherman,Sango / Levi - James Svoboda: The cutter, the boat, the ship, the thing, it's ready. We can go now. Remember, we were gonna go on the scouting thing that you really wanted to do and talk me into when I was like, I can't turn into a dolphin. I can't fly. But we should do this thing anyway.
+[1:29:01] JP Sherman: Nope, you are, you are, right. I just got excited and forgot what I was doing.
+[1:29:05] Sango / Levi - James Svoboda: Well, that happens a lot with you
+[1:29:08] JP Sherman: back, and I'm gonna go with Sango. Almost got permission.
+[1:29:12] Ian Lurie (he/him),Rikterr/Obadiah: Okay, so, Ian, you thought tonight was gonna be boring.
+[1:29:16] Ian Lurie: I, you know, I just never know. So of the Albion crew who wants to sail on the cutter. Levi, you're kind of essential, because you're one of the few people on the on the Albion who knows how to sail a small boat on your own, so as a midshipman. So Levi, you would be one who else wants to go. The cutter can carry like 10 people. But ideally, if you're going for speed, it should carry maybe four,
+[1:29:44] Mossy/Dr. Jed: like the doctor should go,
+[1:29:46] JP Sherman: Yeah, but just, just as good. Oh,
+[1:29:49] Sango / Levi - James Svoboda: well, I think Josiah should go. Levi says, Josiah, buddy, we hardly ever get out on our own, like this. Maybe today, just me and you. We, we take these people and we, we get them where they need to go,
+[1:30:05] JP Sherman: Yeah, but I hate that guy at the point of years.
+[1:30:08] Sango / Levi - James Svoboda: Yeah, I will. He is a little nevermind.
+[1:30:11] JP Sherman: But what are we going to talk about like He's nothing like me?
+[1:30:14] Sango / Levi - James Svoboda: I know. But listen, sometimes you make the best friends, new friends on little voyages, little journeys. And maybe, maybe, just maybe, you're gonna make some new friends today, my
+[1:30:28] JP Sherman: friends, have you read Leviticus?
+[1:30:30] Sango / Levi - James Svoboda: Oh, what
+[1:30:33] JP Sherman: is that? Which? No, is that?
+[1:30:36] Sango / Levi - James Svoboda: Is that the one after Matthew or before
+[1:30:41] JP Sherman: Leviticus? The Bible, I
+[1:30:42] Sango / Levi - James Svoboda: know there's chapters and stuff in it.
+[1:30:48] JP Sherman: Y'all need set you need to get saved. All right, so Josiah will go, Okay,
+[1:30:56] Ian Lurie: Dr, were you gonna make an argument to
+[1:31:00] Mossy/Dr. Jed: go? We need a healer on this boat, and I am their healer. I am Dr.
+[1:31:05] Sango / Levi - James Svoboda: Jed, the Sango says we can heal, and we can take care of him.
+[1:31:13] JP Sherman: Josiah is like, come on, Doc, you should go, Doc, Doc, she should go. You should come with us. I don't trust that. Witchcraft, Bull, witchcraft,
+[1:31:28] Mossy/Dr. Jed: oh, are you going to be like this the whole trip?
+[1:31:32] JP Sherman: I'm like this every trip.
+[1:31:42] Rikterr/Obadiah: It's just what it was like playing with me as rikter in the beginning with the stick firmly up his asshole.
+[1:31:50] Mossy/Dr. Jed: I mean, I mean, you were pretty set in your ways.
+[1:31:53] Ian Lurie: There was, there was some of it.
+[1:31:55] Mossy/Dr. Jed: You were very holy, yep, so happy to have been such a terrible influence.
+[1:32:02] Ian Lurie: I Okay, so it's gonna be five of you on the cutter. Yeah,
+[1:32:06] Rikterr/Obadiah: yeah. Obadiah is gonna stay back because, number one, he's had enough of ships. Number two, he's looking at rikter of man holding a weapon armored. Same skin complexion is just, he's awed by the freedom he has, and wants to stay and maybe have a conversation. Okay,
+[1:32:27] Ian Lurie: all right, cool. That'll be a very awkward conversation, since they're both you, but I'm here for it.
+[1:32:34] Mossy/Dr. Jed: I have to go get poop with Obadiah. Mossy has to go get poop with Obadiah. Oh,
+[1:32:39] Rikterr/Obadiah: that's right. So then there's no weird conversation. He's just awed by rikter, and it's just yeah, and also, we'll stay back and go scoop poop.
+[1:32:47] Ian Lurie: Okay, so, okay,
+[1:32:48] Mossy/Dr. Jed: party line to rikter. Okay, staring at you a lot like I get it. I've seen you, but that's a lot
+[1:32:59] Rikterr/Obadiah: in seeing how he interacts with his crew. He's apart from them, and I think there's something that is different about us and our crew that maybe he's into. And it's not Drak this time, thank goodness
+[1:33:19] Mossy/Dr. Jed: it's not Dr yet.
+[1:33:23] Ian Lurie: Okay, so just for the state of your DMS sanity, we've got Mossy, Olga dia rikter scoop and rikter going to scoop back guano. We've got Sango Drac, Dr Jed Josiah and Levi going on the scouting mission. Yep. Okay, thank God. All right, I'm sorry. I'm supposed to be more professional than that. But
+[1:33:55] Rikterr/Obadiah: no, also, we did not know who was going where for a good five to 10 minutes.
+[1:34:00] Mossy/Dr. Jed: Yeah. So why can't you keep track of all of our personalities and splitting the party? Come on,
+[1:34:07] Ian Lurie: and even keep track of all the personalities in my own head. So, um, why don't we do the guano scooping mission first? Actually, no, let's do the scouting mission first. Sorry. Okay, so first thing is, you guys get on the cutter, and it is unlike any sailboat you've ever been on. It's pretty cool. It's this very kind of long, thin, oh, Kitty. Like, is that a kitten or just a very small cat?
+[1:34:39] George Nguyen: I was a small kitten. I gotta go. I gotta go. It's 940 okay. But thank you very much.
+[1:34:48] Ian Lurie: If you ever come again, we'll make sure there's a brawl so you can
+[1:34:52] George Nguyen: see, I would like to, like get more on the ground for because I feel like there's so many years of context that I'm missing out on. But thank you, and it was nice.
+[1:35:01] Ian Lurie: All right, good to
+[1:35:02] Ian Lurie (he/him),Rikterr/Obadiah: some good night. George,
+[1:35:04] George Nguyen: thank you. Bye.
+[1:35:10] Mossy/Dr. Jed: Tank, heard Katie.
+[1:35:12] Ian Lurie: He's never gonna, he's never gonna play dandy again. He thinks it's just some kind of horrendous, utter chaos. But anyway, the cutter is unlike any sale that you've been on before. It's very trim. It's very long boat that's not very wide, huge sales, and no oars to speak of. There's just two oars, but only one bank, and it's just it cannot, it clearly cannot be rowed anywhere you guys jump in, they pull up the sale, and the boat immediately takes off at you know, you think maybe 10 to 15 miles an hour. It's a little terrifying. Sango, you can give me a constitution, save immediately,
+[1:35:57] Ian Lurie (he/him),Sango / Levi - James Svoboda: because it's a natural 20.
+[1:35:58] Ian Lurie: Oh, all right, you're fine. Hey, Dr, why don't you give me one too? Just, just
+[1:36:02] Sango / Levi - James Svoboda: this soup really helps the stomach settle. Yeah,
+[1:36:05] George Nguyen: that's good soup.
+[1:36:08] JP Sherman: Constitution, got it. Here we go. That's Nate.
+[1:36:15] Ian Lurie: You feel pretty lousy. Actually, it's something about the soup. You look at the soup and you're not quite yarfing everywhere, but you're not feeling great. You're not feeling great
+[1:36:28] JP Sherman: lentils and pinto beans and corn.
+[1:36:32] Ian Lurie: Why don't you guys each just roll me A, D, 28, seven, two, okay, and if I wasn't making that clear, that's, um, that's the the crew members, not the not RPG. So Levi, you're handling the boat. You're making great time. Um, what you're having a tough time with is staying hidden. It's very hard to stay too stealthy in this boat, in these seas, like you're you're moving fast enough and it's foggy enough that you're not sure when you're going to come upon someone and you guys, Levi, give me a perception check. Actually, everyone, give me a perception check. RBG and crew members, both
+[1:37:30] Sango / Levi - James Svoboda: 17, okay.
+[1:37:35] JP Sherman: Dr, because of 31 Okay,
+[1:37:41] Mossy/Dr. Jed: I can't tell what Dr jed's modifier is, but I rolled an 18, okay.
+[1:37:46] JP Sherman: Josiah is a 17, okay.
+[1:37:52] Unknown Speaker(s): Sango 16, okay,
+[1:37:57] Ian Lurie: so dr, dr, you guys are sailing along and the wind dies down for a minute, and you think you hear voices very nearby.
+[1:38:10] JP Sherman: I'm going to make a just, kind of like to the Not, not what's his name, that I don't know, I don't know, but not just not Josiah, but Levi. Levi. Thank you.
+[1:38:30] Ian Lurie: You guys did this to yourselves. I'm just saying, okay, just when you do that, Levi, you feel two hands close around the back of your uniform, and you are yanked backwards off the stern of the boat into the water shit. Give me a strength check. You have a 10 string,
+[1:39:04] JP Sherman: 16. Okay, let's see
+[1:39:12] Ian Lurie: my turn so you kind of roll backwards off the boat. You get a hand up, and you grab the gunnel so that you're in the water, and there's something hanging on you trying to pull you deeper in, and it looks like a person, but with fins and gills, its hands are between its fingers. There's webbing and these long claws on its hands, its face is sort of halfway between what a fish might look like and a and a human. Obviously, this is not something you have seen before, and I can't pronounce the DND name of these creatures, but this is a Juan. Which are these basically OC demons and everyone should roll initiative, oh.
+[1:40:10] Mossy/Dr. Jed: Dr, Jed is not good at initiative, oh. Dr, Jed juice boxed. I you're on mute. JP,
+[1:40:29] JP Sherman: just saw I rolled a one. Dr, rolled a tent.
+[1:40:34] Ian Lurie: Okay, this is what they look like, by the way,
+[1:40:38] Sango / Levi - James Svoboda: the Sango got a 12. Levi got a 14, okay,
+[1:40:47] Ian Lurie: my guys go first. Someone could keep track of initiative for me, not me, because it's just too much for me to keep track of when we're not using a map. Okay, what are
+[1:41:01] Sango / Levi - James Svoboda: those numbers? Again?
+[1:41:04] Ian Lurie: My guys got an 18, okay,
+[1:41:11] Mossy/Dr. Jed: Jed got a three.
+[1:41:12] Sango / Levi - James Svoboda: Jed, Jed, Jed, Jed got
+[1:41:20] JP Sherman: a 10, and just saw I got a one.
+[1:41:24] Sango / Levi - James Svoboda: Josie got a one. Jack got a 10. Sango got 12. Could say Levi got a 14. Okay, Ian, you're up first.
+[1:41:40] Ian Lurie: Okay, so you guys see and curve the Albion you are, you could potentially shit yourselves at this point, because you see four of these creatures climb over like effortlessly leap onto the boat from the water, and they're dripping wet. They, as I said, they look like they look as much like fish as people. They're carrying these wicked looking hammers in their hands. And they leap up onto the ship, and they immediately start taking swipes at you guys, so let's see here. Well, Levi, you're safe because you're in the water right now. I mean safe, but Josiah, one of them, lashes out with a hammer and hits you once. You take you take 10 points from the hammer. Alright, that hits you way harder than you expected, given that this creature is slightly smaller than you see, dr, Jed, one of them jumps up at you and starts to swing at you, but you actually managed to kind of fall back and keep it away from you. Dr, dr, does a
+[1:43:30] JP Sherman: 20 hit, does not hit.
+[1:43:35] Ian Lurie: And Sango, you managed to duck out of the way. No problem. So now it is whoever's next in the initiative order.
+[1:43:45] Sango / Levi - James Svoboda: That is Levi.
+[1:43:47] Ian Lurie: Okay, Levi is in the water. You're holding on to the boat with one hand. This thing is pulling on your jacket with another. So you've got one hand free. You have your money. You know, you have all of your standard weapons. They are available.
+[1:44:04] Sango / Levi - James Svoboda: That's interesting. Let's see. I guess he's gonna try to break free, okay, from the grapple or whatever it's at. Okay? So we had a
+[1:44:20] Ian Lurie: contest of strength, okay? Or athletics. Actually, I think you have a, do you have athletics? No, no, never mind. Just, it's a contest of strength, yep,
+[1:44:34] Sango / Levi - James Svoboda: all right, just gonna try to that's a 12, okay?
+[1:44:38] Ian Lurie: This thing is really strong. It got a 15 tier 12 and just you cannot shake loose of it from Okay, Okay, who's next?
+[1:44:51] Sango / Levi - James Svoboda: Then that would be Sango. Are any of these creatures, heads above water?
+[1:44:59] Ian Lurie: Yeah, three of them are actually standing on the boat. Oh, okay. And then the one on Levi is below the water, okay.
+[1:45:10] Sango / Levi - James Svoboda: And Sango is going to say, he's going to use his tongue of the sun and moon so they can assuming, if they they're smart enough, they can understand him. He's gonna say, you guys don't want to do this. We could, we could work this out peacefully. So please stop. But then he's also going to cast and, you know, then he's gonna, what's he gonna do?
+[1:45:47] Mossy/Dr. Jed,Sango / Levi - James Svoboda: He is going to stop
+[1:45:49] Mossy/Dr. Jed: the boat and swim short.
+[1:45:50] Sango / Levi - James Svoboda: He's gonna Thorn whip Levi, okay. Are you fucking kidding me? You
+[1:46:04] Ian Lurie: you actually lash. Levi, you actually tear a small wound in his shoulder. Levi, you take one point of damage and you're like, What the You don't even know what the hell just happened.
+[1:46:17] JP Sherman: Star Man, they got you.
+[1:46:21] Ian Lurie: Drak, it's your turn.
+[1:46:23] JP Sherman: All right, for the three that I see,
+[1:46:27] Sango / Levi - James Svoboda: do I get any sort of persuasion thing on them to try to
+[1:46:30] Ian Lurie: they hiss something back at you in a language you don't understand,
+[1:46:34] Sango / Levi - James Svoboda: but I can't understand it because of my tongue of Sun and Moon.
+[1:46:37] Ian Lurie: Oh, you can, okay. One of them says we will hisses at you and says we will drag you into the deep and drown.
+[1:46:50] Unknown Speaker(s): You don't need to be like this, fellas.
+[1:47:00] Ian Lurie: K Drak.
+[1:47:02] JP Sherman: All right, I am going to cast Bane on all the three of them that I see, and that is a DC 18 charisma. Check,
+[1:47:12] Unknown Speaker(s): good boy.
+[1:47:15] Ian Lurie: Charisma is not our strong suit. They all fail completely,
+[1:47:24] JP Sherman: all right? And as my dual weapon feet or weapon style,
+[1:47:33] Ian Lurie: oh God, here we go.
+[1:47:34] JP Sherman: I'm no, this is simple. I'm just gonna stab one of them. Okay, okay, here we go with a dagger. Where's my dagger? There's my dagger. It's a 15 to hit.
+[1:47:53] Ian Lurie: That just hits.
+[1:47:55] JP Sherman: Okay, that will be i a nine points damage, okay, and then I'm done. All right,
+[1:48:12] Ian Lurie: I had felt that you dig a deep gash in its side.
+[1:48:18] Mossy/Dr. Jed: All right, Dr Jed is up. And Dr Jed is a naturalist, man of science. So looking at them and quickly going based on the morphology, can Jed pick out a weak point, like maybe those gills.
+[1:48:33] Ian Lurie: I mean, you know, the gills are clearly where they breathe, and for most creatures, you know, hitting them where they breathe definitely does bad things to them. So why don't you give me a see here? Give me a medicine check. Give an 11 medicine skill or plus 11 medicine skill, 21 Okay, I will give you advantage on your attack, because you kind of have a sense of where to hit it.
+[1:49:07] Mossy/Dr. Jed: Okay, okay, so with that, Dr, Jed is going to draw the pistol and try and shoot the one that's engaged with, I think. Dr, dr, the one
+[1:49:17] Ian Lurie: that he just stabbed.
+[1:49:20] Mossy/Dr. Jed: One of them has our friends. Oh,
+[1:49:22] Ian Lurie: no, that's the one that's in the water. You can but yes, you can definitely take a shot at it.
+[1:49:27] Mossy/Dr. Jed: No, I want one of this in the deck, so I'll go for the one that Dr just and I'm trying to shoot it in the gills. All
+[1:49:34] Ian Lurie: right, I have advantage on that. So that is a 22 all right, that is definitely a hit. Are you shooting the one that's on Dr rack, yes. Okay,
+[1:49:54] Mossy/Dr. Jed: that is eight points of damage. 10. Wait, no kidding, it is 8d. Eight plus, right?
+[1:50:03] Ian Lurie: That one does not look good now, yeah, that one, that one, has definitely seen better days.
+[1:50:09] Mossy/Dr. Jed: And I will yell out, go for the gills.
+[1:50:13] JP Sherman: Josiah. Josiah, like, this is the very first time like he is convinced that this is a demon from hell, and so he is literally screaming just and he's gonna take out a saber and just try to hit the one that Jack Just hit. Okay, okay, it's plus five. Here we go. And that's a nine
+[1:50:46] Ian Lurie: that does not hit.
+[1:50:47] JP Sherman: He slices air as is completely useless at this
+[1:50:53] Ian Lurie: point. What has happened to you guys? What? What is this? What? Anyway, it's these
+[1:51:00] JP Sherman: characters. They're bringing us down. It's the characters. We should just murder them, dump them over the water, and then we're well our lives. You're
+[1:51:08] Ian Lurie: well, on your way. All right, that's back to me. Speaking of that, Levi, give me a quick strength check,
+[1:51:17] JP Sherman: minus this underwater one. This is
+[1:51:20] Ian Lurie: Levi, yeah, okay, James, that's James. He's running back. I can see him
+[1:51:25] JP Sherman: scamper scary. That's a
+[1:51:28] Sango / Levi - James Svoboda: 10.
+[1:51:29] Ian Lurie: Okay, you are jerked loose from the boat and begin getting dragged underwater. The good news is you now have both hands free. So this, you know when it gets to you this round, you can do whatever you want to do. Have you tried browning? That is one logical Okay. Josiah to your doctor that the one on you hits you for 10 more points.
+[1:52:01] JP Sherman: Jesus, just
+[1:52:03] Ian Lurie: I'm rolling max damage every single time. In case you guys are
+[1:52:07] Ian Lurie (he/him),Mossy/Dr. Jed: wondering, this is the one that's pretty bloody, though, yeah,
+[1:52:10] Ian Lurie: I know. No, it's not that one. It's not that one. Another one. Sango makes a grab at you. Looks like it's going to try and yank you off the boat, but only gets a, sorry, a 16, which I'm sure misses, yeah, so it basically tries to grab you in a bear hug and just you dodge to the side, being the monk that you are. And then
+[1:52:58] Mossy/Dr. Jed: let's see here, the one that I hit is has speed reduced. Now I don't know if that's a factor.
+[1:53:06] Ian Lurie: That is definitely a factor. Yes, okay, my God, I'm not running so great either. Let's see here, Drac, you need to give me a wisdom, save
+[1:53:42] JP Sherman: 25 25
+[1:53:43] Ian Lurie: okay, you think someone just tried to cast a spell on you, but it has no impact whatsoever. Levi, it is now your turn. So this thing is pulling you deeper into the water. It is a very fast swimmer. You know, you need to do something, yeah, I'm gonna, right now,
+[1:54:05] Sango / Levi - James Svoboda: want to, like, I don't know, I guess maybe punch it in the gills. Okay, yeah, let's try that. It's a four, okay,
+[1:54:20] Ian Lurie: that definitely does not hit you're trying to hit it, but its skills are all leathery, and you're just like and you just can't seem to quite get a grip. So in one minute, you will start to drown, because you have a plus one con. I'm hold your breath for one minute, then drowning becomes a thing, so you're okay for the moment.
+[1:54:50] Sango / Levi - James Svoboda: Sango, how far down did Levi go on that turn?
+[1:54:55] Ian Lurie: He is about 10 feet under the surface of the water.
+[1:54:58] Sango / Levi - James Svoboda: Okay, can I still hit him with my thorn whip? Yeah. Let's try that
+[1:55:05] Mossy/Dr. Jed: just kills Levi, yeah,
+[1:55:07] Ian Lurie: just murders him.
+[1:55:11] Sango / Levi - James Svoboda: I think that hits. That is a it's a 20.
+[1:55:15] Ian Lurie: Okay, yep. So now, does the whip do damage? Yes, yes, yeah, okay,
+[1:55:20] Sango / Levi - James Svoboda: can I curtail how much damage it does? I
+[1:55:23] Ian Lurie: don't think so. No deadly Thorn. Someone roll the damage
+[1:55:28] Mossy/Dr. Jed: I cast
+[1:55:30] Sango / Levi - James Svoboda: Pothos, just heal them. If you die, they don't have thorns. Oh, that's, that's only nine. That's not bad,
+[1:55:39] Ian Lurie: okay, Levi, you're being dragged under the water. You've already taken a point all of a sudden, you feel this lashing pain around your middle, and there's something wrapped around you, and it's really tight. There's no way you can get it loose. Sango, I can you start pulling this turn, I think, or do you have to get to start?
+[1:55:58] JP Sherman,Sango / Levi - James Svoboda: It's an automatically, pull 10 feet closer to me. Oh,
+[1:56:03] Ian Lurie: okay, so Lee, you are pulled above the surface of the water the Juan that has you lose his grip on a shit roll, and you are pop tree boop. You're now bobbing about in the ocean bleeding badly.
+[1:56:30] Sango / Levi - James Svoboda: Could I use a bonus action to make like an unarmed strike, to try to grapple him,
+[1:56:45] Ian Lurie: to try to grapple Levi, now, you can't do a grapple as a bonus action. So, okay, no, okay, do you have, what you have left is a move or whatever you can do as a standard bonus action, yep,
+[1:57:16] Sango / Levi - James Svoboda: I am going to, I'm going to jump in the water, okay, and get myself between Levi and the creature down there. Okay, okay, so that I'm the first person he comes after All
+[1:57:31] JP Sherman: right. Cool, cool, cool. Why do my characters keep
+[1:57:36] Ian Lurie: jumping off the fucking ship? Yeah, right. Drac, it's your turn. Okay?
+[1:57:43] JP Sherman: So real quick, heads up, I've been playing Dr, dr, wrong, so he's not he doesn't
+[1:57:55] Sango / Levi - James Svoboda: see you don't really like boxes. What
+[1:58:03] JP Sherman: Oh, God, Jesus Christ. Okay, so he picks up a shield and does and does two attacks with a dagger. Okay, so first attack is the guy that I already hit. Um, which is that's a 27 to hit. That,
+[1:58:30] Ian Lurie: yeah, you hit, okay, and
+[1:58:35] JP Sherman: that is nine damage, okay. Now I'm going to take the Nick action or the Nick carp property. Yep, that was a 29 to hit.
+[1:58:50] Ian Lurie: Yeah, that that also hits. They have a 14 AC, so it's another
+[1:58:54] Mossy/Dr. Jed: called sashimi,
+[1:58:57] JP Sherman: and it's a nine to nine to hit. Or, sorry, nine damage,
+[1:59:01] Ian Lurie: okay, that one falls down dead, assuming you're hitting the one that you've been hitting all along. Yes, yeah. All right, so it's dead.
+[1:59:07] JP Sherman: Okay, I'm gonna switch my attention to the other one, though. That's on the boat, okay? And this is my second attack. All right.
+[1:59:14] Ian Lurie: There's two more on the boat, by the way.
+[1:59:17] JP Sherman: Okay, 22 to hit, all right. And that is eight damage, and that is end of my attacks. And then for No, I can't do that. Bonus action is, is Cure Wounds on Levi, okay, yep, nope, yep, nope.
+[1:59:51] Ian Lurie: Don't you have to touch to do Cure Wounds?
+[1:59:54] JP Sherman: What's the other one? What's the it's the
+[1:59:56] Ian Lurie: Healing Word. Healing
+[1:59:58] JP Sherman: Word, thank you. Healing Word as the bonus touch, okay? And that is nine points of healing,
+[2:00:09] Ian Lurie: okay, Levi, feels better, and
+[2:00:12] JP Sherman: I'm done with my exploits,
+[2:00:13] Ian Lurie: right? So Jed, you're sitting back there and you have just seen the dude with the pointy ears move so fast, like you didn't even really see it happen. You just heard this kind of and then all of a sudden, one of the creatures fell off the boat, and you are now standing there. You've got your all your various weapons, and can do what you want to do. There's two. Two of the creatures are left on the boat.
+[2:00:45] Mossy/Dr. Jed: I think Jed is going to look at that chaos and then just kind of slowly shuffled behind Drac as they reload.
+[2:00:56] Ian Lurie: Okay, okay, that's a, you know what? That's a perfectly legitimate tactic.
+[2:01:02] Mossy/Dr. Jed: There's nothing else to get through, no weapons. This is the only weapon this doctor has. I don't keep like, scalpels on my hip. No, I got nothing.
+[2:01:14] Ian Lurie: You have a pistol. It says right here, you got that. I
+[2:01:16] Ian Lurie (he/him),Mossy/Dr. Jed: have to reload it, and that's around
+[2:01:18] Ian Lurie: and a dagger. But you don't have to, and that's cool. You're a doctor, Jim, you're a doctor. You're not a security officer. You know, it's that's cool. Dagger.
+[2:01:27] Mossy/Dr. Jed: Okay, so I have a dagger, then I will try and stab that thing in the gills.
+[2:01:33] Ian Lurie: Okay,
+[2:01:39] Mossy/Dr. Jed: I do not.
+[2:01:40] Ian Lurie: Okay, that's fair. Josiah, what are you doing?
+[2:01:45] Mossy/Dr. Jed: I then back behind Dr,
+[2:01:50] JP Sherman: he is going to attack one of the fish dudes, and let's see this happen. 21 to hit. Oh,
+[2:02:03] Ian Lurie: you hit. Yes, a clean hit. You're hitting with your saber.
+[2:02:10] JP Sherman: My saber, yep, and that is eight points of damage. Okay, I'm
+[2:02:15] Ian Lurie: just gonna assume that's on the one that's already bleeding.
+[2:02:18] Unknown Speaker(s): Yes, yes. All right.
+[2:02:19] Ian Lurie: All right, back around to the top. The two remaining swan on the ship. Look at what just happened to their friend. And they say, Fuck that. We're out of here now they are that you get, you will get Opportunity Tax track. You'll get an opportunity attack on one of them, and then Josiah, you'll get an opportunity attack on the other one, but they go to dive overboard. They're done. I
+[2:02:49] Mossy/Dr. Jed: like to imagine you two are doing this in synchronicity too. You're realizing suddenly how much you have in common. My
+[2:02:55] Ian Lurie: CR one monsters are just like, What the fuck did we just get ourselves into here.
+[2:03:08] JP Sherman: Okay, cool. So, Dr, Ian's going to take the dagger opportunity. Jack, okay, and let's say 14 to hit that hits and damage. 12 points damage, wow.
+[2:03:34] Ian Lurie: Okay, you kill one as it tries to go overboard the one that was already hurt. It just, you, just, I, wow. Okay, all right. All right, so they jump overboard. The one that was still in the water also turns and swims away at incredible speed. You guys kind of rearrange yourselves on the cutter, which has come to a halt because, of course, Levi let go of the tiller, so the boat just came up into the wind and stopped, and you're getting all set to turn and sail again. And lucky for you, I rolled horrendously when in the in the mist and the rain, with the waves and everything you actually start to see as you get to the crest of some waves and down again, and then to the crest, you actually see that there are boats all around you. There's five or six, you think, larger warships that are passing you by, clearly heading towards, clearly heading towards, or doing at least five or six. Levi, I would like you to make a role. So you've just climbed out of the water. So I'll tell you what actually the three of you so Jed Josiah and Levi, all three of you roll me a D 20. This is going to be a group skill check to see if you can get the boat under control and keep from being spotted.
+[2:05:09] Sango / Levi - James Svoboda: Sango is going to cast guidance on Levi too. Okay,
+[2:05:13] JP Sherman: yes. So
+[2:05:19] Sango / Levi - James Svoboda: what kind of skill check was this?
+[2:05:20] Ian Lurie: Just give me a D 20. Okay.
+[2:05:24] Sango / Levi - James Svoboda: Guidance is a d4 right? Okay, so Levi got a 14. Sango got a 19. Okay, if it's assuming, well, Sango
+[2:05:37] Ian Lurie: can't help it's, this is just the sailors from the Albion. So, okay, Josiah, Jed, Levi, you three, need to give me those D 20 rolls. Okay, 13, okay, that's plenty. You guys are incredibly skilled sailors, particularly in this cutter, you sort of thread your way and you get a count. You think there might be as many as eight to 10 of these larger warships they are. You figure they may each displace about 200 tons. They're about a 10th the size of the Albion, okay, so big enough to be big enough to be scary, even for you guys smaller than the Z backs that you that you were fighting when you first came through to praxia.
+[2:06:33] JP Sherman: So we, if we can kind of speed up again, speed up. Make sure that is anyone else actively bleeding or hurt so healed Levi and Jed got popped or Josiah. Josiah got popped for 10, so I'm going to give him another heel.
+[2:06:56] Ian Lurie: I think Josiah got popped from 19, actually,
+[2:06:59] Mossy/Dr. Jed: yeah, Josiah got popped
+[2:07:00] Unknown Speaker(s): twice. Yeah,
+[2:07:03] JP Sherman: all right, so I'm gonna heal him up. Okay, there it is.
+[2:07:14] Sango / Levi - James Svoboda: And you healed Levi for 10, wasn't it?
+[2:07:16] JP Sherman: Yep, okay, and
+[2:07:18] Sango / Levi - James Svoboda: he's that good. He's fine,
+[2:07:19] JP Sherman: good. Josiah is up 10.
+[2:07:23] Ian Lurie: It was nine for Levi. Oh, nine. Thanks. Okay, so now, what are you guys gonna do? Levi, you know, the cutter is way faster than these warships. Just by looking at them, they are, they are wide, clearly built to be road as much as sailed. You figure they can do maybe five to eight miles an hour, and the cutter can do, you know, 10 to 14 and sail much closer to the wind. So if you want to just, if you want to just suggest to me what you want to do, that's fine. If you want to give me a skill check. And just say Levi is figuring this out, that is also fine.
+[2:08:11] Sango / Levi - James Svoboda: Yeah, Levi is trying to figure this out. But what is maybe more to the point of conversation with the group is, holy shit, they're they're heading to, they're heading back to the village sooner than we anticipated, like they're gonna be there, right?
+[2:08:34] Ian Lurie: No, remember, you're going 14 miles an hour. You were like, three quarters of the way to the island when you encountered them, so they are still a full day from from our dune.
+[2:08:50] Sango / Levi - James Svoboda: Okay, that's what I'm getting at, like they're heading towards or doing, yeah, and, you know, so, dr, are we? Should we turn this ship around? Should we go warn everybody? Yes, absolutely.
+[2:09:05] JP Sherman: 100% another question.
+[2:09:07] Sango / Levi - James Svoboda: Okay, so then Sango turns to the crew. Hey guys, we got to turn around. We got to get back and warn everybody what. How could we get there? Could we outpace these guys and get there first house? What are you guys feeling?
+[2:09:22] Ian Lurie: So first of all, all three crewmen from the Albion, what you're really feeling is, what the fuck What the fuck What the fuck What the fuck because you just got attacked by you don't even know what the hell those were, but a certain amount of instinct takes over. So Jed, you're checking everybody for wounds. Josiah, you're you know, praying to the Almighty God to have protected you from these monsters. Levi, not really you and Levi are talking about the best way to get around these ships and get back quicker. This is what cutters do. So what you're planning to do is you're going to sail away from them, like basically directly west, and then you're just going to shoot down south. You will. You figure you'll be back in or dune within three or four hours, and they'll still have another 12 before they can get there. So you should be able to beat them there by quite a bit. Yeah.
+[2:10:20] Sango / Levi - James Svoboda: So that's is that? Does that sound like a good idea to
+[2:10:26] Unknown Speaker(s): you? To Dr, yeah, okay,
+[2:10:28] Ian Lurie: so then you
+[2:10:29] Sango / Levi - James Svoboda: know you might even have time to get your big wood up once we get back there, you have your eight hours. Do you
+[2:10:34] JP Sherman: have any way to control water? No,
+[2:10:38] Mossy/Dr. Jed: is it a way to control wood
+[2:10:42] JP Sherman: trucks? Just Dr, in this, yeah,
+[2:10:44] Ian Lurie: this is like a Taylor Swift song now, okay, yeah,
+[2:10:46] JP Sherman: I mean you're making, you're making Josiah really nervous over here, dude,
+[2:10:51] Sango / Levi - James Svoboda: no, I can't control water.
+[2:10:53] JP Sherman: Okay, so I was thinking, if you had a way to, like, control water, like, you could push this along. But do that?
+[2:11:01] Ian Lurie: Um, no, but speaking of that, the three I'll be in crew members, you need to give me another D, 20 each.
+[2:11:11] Sango / Levi - James Svoboda: Sango will guide Levi again, 13, shit,
+[2:11:16] JP Sherman: 17, six,
+[2:11:20] Ian Lurie: okay, James, why don't you give me a d6,
+[2:11:27] Mossy/Dr. Jed: James, why don't you give me better rolls? Read,
+[2:11:35] Ian Lurie: three. Okay, no, that's okay. Then so you guys almost sail into a storm, and at the last minute realize, because two of you rolled Well, one of you didn't realize, oh, wait a minute, there's a storm coming, and the wind's gonna be blowing the wrong way if we get stuck in that. So you quickly steer around it. You actually sail through the fleet, but you're so fast that you that they don't see you coming. And then you you head back to Urdu. So we're going to stop there for you guys
+[2:12:09] Ian Lurie (he/him),Sango / Levi - James Svoboda: still through the fleet.
+[2:12:12] Ian Lurie: You, yeah, because of where the storm is, you basically come about, and you thread your way between all of the warships so quickly that they don't actually see because it's rough, the weather's bad, you know, you have Drac on board, and he can see things and hear things that other people can't. So you're able to navigate your way through. Okay, so it's a little dicey. You wouldn't want to do that again, but you do manage it. Yeah, oh, Sango throw us up. Good job Levi. Good job Sango contract to just to con save, just to make sure
+[2:12:56] JP Sherman: track. Oh, con, save, God, yeah, I
+[2:13:05] Ian Lurie: That's a sad you guys are both working over the side, and honestly, Levi and Josiah and Jed, you're all looking at each other like, yeah, okay, we feel, you know, maybe they're magical, but we don't puke everywhere.
+[2:13:21] Unknown Speaker(s): So Jed is still like, I got to shoot a fish monster in the gills? Yes, you did.
+[2:13:34] Ian Lurie: And you did realize that as creepy as these, those things were, they did take damage, like you could hurt,
+[2:13:41] Mossy/Dr. Jed: physically, squishy, scary, but squishy,
+[2:13:44] Ian Lurie: but somewhat squishy. Okay, so as
+[2:13:48] Sango / Levi - James Svoboda: far as party line goes, Are we close enough now,
+[2:13:52] Ian Lurie: you're too far away. Okay, yeah. Well,
+[2:13:54] Sango / Levi - James Svoboda: what's, what is sort of the range on that? Do we know about a
+[2:13:56] Ian Lurie: mile? About
+[2:13:58] Sango / Levi - James Svoboda: a mile, okay, and we would know that. So once we get inside of shore, we will, yeah,
+[2:14:03] Ian Lurie: once you get into the bay, you'll be able to signal them hear
+[2:14:08] Mossy/Dr. Jed: that tourist dad holding up a phone for bars, yeah,
+[2:14:11] JP Sherman: once we see the Land ho
+[2:14:15] Ian Lurie: or the Land Ho, but yes, all about the accent. Okay, so switching to Mossy and rikter and Obadiah, Mossy, you have one of the pistols, and if you would like to take a look at it, you can now, or you can just put it aside somewhere. I think you swiped it from the ship.
+[2:14:39] Mossy/Dr. Jed: Yeah, I did. I swiped it. I haven't seen one in action yet. I don't think I'm going to break it out. I will ask, as we're walking, ask Obadiah to explain how the pistol works. So you said the black powder we have doesn't have enough of the saltpeter in there for it to make a reaction, and then it it, what is what? How does it hurt people so?
+[2:15:11] Rikterr/Obadiah: And he pulls out, well, this is what goes in there and reacts with the powder. And when this shoots out, it shoots out at such a fast speed that that's what hurts people. And right now, what's it does is it doesn't have that boom that makes it go out fast enough so it just kind of is excused upon petering out.
+[2:15:38] Mossy/Dr. Jed: It seems like just about anybody could do a lot of damage with these things. She let everyone have them.
+[2:15:46] Rikterr/Obadiah: And you see Obadiah just he closes his eyes for a minute, stops walking, takes a deep breath and goes, yes, those guns do a lot of damage in the wrong hands, and he pats his gun, and he just says, but in the right hands, they do good damage.
+[2:16:12] Mossy/Dr. Jed: So have you met rikter yet? Because the first time he we met his his whole spiel to me was, you know about being lawful and being good? My immediate response was, Well, who gets to decide what that is? So who is getting to decide,
+[2:16:29] Rikterr/Obadiah: ma'am, where I come from, I'm what's unlawful. So for me, I bet
+[2:16:38] Mossy/Dr. Jed: you're fucking What
+[2:16:41] Rikterr/Obadiah: do you guys here have the concept of slavery?
+[2:16:46] Ian Lurie: Ouch, yes, you do. Um, it's not well, when the gray elves came from assiduya, hundreds of years ago, they took a lot of the races of solid Dr a slave. That's why the gray elves were thrown off the continent and why they are so disliked. But anyway, that's, that's what you know of slavery.
+[2:17:12] Mossy/Dr. Jed: Yeah, it was this thing that happened. And do they still have slaves? Or do we just kick them off?
+[2:17:17] Ian Lurie: You kicked them off. There are, you know, like
+[2:17:21] Mossy/Dr. Jed: that. It was horrible and awful. Like, that's still a thing where you are.
+[2:17:28] Rikterr/Obadiah: And he just, he just takes a beat. It's you can Mossy, even without, like, you can tell this is something that's hard for him to discuss. And he just says, Yes, and that's if you notice my glances at your friend, it's and he just points at his skin, and he says, he looks like me. And yet, I've seen the way that people look at him. I've seen the way that you and your friends look at him, and it's a way that very few people have ever looked at me, and so it's surprising to say the least.
+[2:18:06] Mossy/Dr. Jed: I'm going to tell you the best same thing I told my best friend in high school, you don't have to go back to that. You can stay here. I got a fold out couch here.
+[2:18:20] Rikterr/Obadiah: Yes, I could be free, but I see what you and your friends are able to do. And while I'm not safe where I come from, I fear that I would be less safe here, and so I'd like to go back and what little family I have can't fight and fend for themselves, and I need to be there to fight and fend for them. If and he looks around at you guys, I think you guys understand about fighting and fending for people who can't do it for themselves.
+[2:18:55] Mossy/Dr. Jed: Absolutely see. My concern, though, is what's your showing how to make here is a very powerful thing, and these fuckers are already dangerous enough being magic. So is it really for a greater good for us to introduce this in at this time, knowing that using it may inspire others to figure out and to know that it's capable to be made
+[2:19:25] Mossy/Dr. Jed,Rikterr/Obadiah: good. Not that I don't love a good hike to the bat poop caves, but I'm also trying to be a realist here and be a little bit more long sighted in this strategy.
+[2:19:34] Rikterr/Obadiah: That is a good point, but if we don't do this, you will have more people, including myself, that you will have to protect, and a whole big ship that won't be able to be used as a weapon, and we'll have to move that out of the way. If we do get this powder, then you have our personal guns and our ship's guns to help in this fight.
+[2:19:59] Ian Lurie: Obadiah, give me a give me an intelligence check. Oh,
+[2:20:04] Rikterr/Obadiah: I'm sorry, did Jamar say something out of turn? No, no, not at all, not at all. Sorry, I got lost. You play in the character, and I really no,
+[2:20:12] Ian Lurie: that's great. No, no, no, this is you're doing awesome. But this is a little bonus, because of how this is going,
+[2:20:20] Rikterr/Obadiah: that's going to be a dirty 20 Damn.
+[2:20:24] Ian Lurie: Okay. You realize two things right away. What she just said basically means people here don't know how to make this more explosive gunpowder. You know, it's pretty precise. So you could just make sure that no one learns how to do it. You don't know if that's possible, but you know, in theory, you could make the powder somewhere where no one else can watch. The other thing you realize, and this is a bit more of a stretch, but assuming you go home, home is not that safe right now, the ship needs to have powder because you could end up in a fight when you return to your home, and if you don't have powder, you're going down. So there's two things going on in your mind at that moment. And you actually sort of been, you know, you think about shit like this a lot, so you've been sort of thinking about this anyway, so those things kind of bubble up in your mind. So continue. Sorry with
+[2:21:24] Rikterr/Obadiah: no no would there be? Would Obadiah know, if there's anyone else on the ship that if he and Mossy reproduce this powder, if they would be able to discern how to make it just from it being around
+[2:21:42] Ian Lurie: me? Maybe, like two people on the ship, so like the captain, and then maybe Levi has one of the most educated people on the ship, so he may have studied enough chemistry to understand it. The issue is that it's a very precise balance, because if you put in the wrong amount of saltpeter, like it's the accelerant. If you put in too much, it just goes and blows the gun to pieces. If you put in too little, it doesn't have any effect at all. And it's, we're not talking like, you know, down to the drop, but it's, it's not a common it's not common knowledge,
+[2:22:18] Rikterr/Obadiah: okay, Obadiah, again, is going to stop walking and just look Mossy in the eye and says, I don't know you, but I feel I can trust you. So I will tell you the truth. I would not want to put this weapon in the hands of anyone on that ship, but I want to go home, and going home means protecting all those assholes, if that means that you and I work together and put a dangerous weapon in their hands for a temporary amount of time. That is a sacrifice that I'm willing to make, but I will promise you that I will do everything in my power to make sure that they can't duplicate it, not just because you're worried about it, but because I am too.
+[2:23:11] Ian Lurie: I mean, just realize that all you're going to do is make the kind of powder that your ship uses normally. So anyone on the ship getting getting their hands on it is
+[2:23:20] Rikterr/Obadiah: fine. I thought it was
+[2:23:22] Ian Lurie: like, Okay, what you know would be horrendously dangerous, potentially would be if people here on praxia got a hold of this, because then all of a sudden, basically, everyone's a wizard with fireball. Okay?
+[2:23:40] Mossy/Dr. Jed: Wizards doing stupid shit. I don't need orc children doing it too, but I think what we can do is work together,
+[2:23:49] Rikterr/Obadiah: you and
+[2:23:51] Mossy/Dr. Jed: trading fees with anyone doing stuff like that, but trust you, but we'll get that, and we'll get you enough to get home and through your through your fray.
+[2:24:00] Rikterr/Obadiah: Good, yeah, I guess I gotta save these guys. Hold on here all the while, while they're talking about this, rikter just hears him talk about slavery and how they're treating him, and he's just spinning his ax and just realizing, like
+[2:24:23] Ian Lurie: Obadiah does describe some of it, and I mean, you guys are fucking horrified, yeah, you know, the Grails and lots of races on praxia Do some pretty terrible shit. But we're talking like prisoners of war, indentured servitude. We're not talking ripping families to pieces. We're not, you know, so you're hearing Obadiah describe this. And part of you is like, you can't quite get your head around it.
+[2:24:51] Mossy/Dr. Jed: Yeah, Mossy and a rikter party line. We got to send him home with some squirrels.
+[2:24:57] Rikterr/Obadiah: Rikter says, back, if we ever find a way I would love to visit this world.
+[2:25:05] Ian Lurie: That would be a game. Holy shit.
+[2:25:08] Ian Lurie (he/him),Mossy/Dr. Jed: Oh god, I'm not gonna run Mossy running from Eric Trump.
+[2:25:12] Ian Lurie: Yeah, I'm not gonna run that because I can't do that kind of alternate history. But I'll let someone else. I'll let someone else do that one, because up next, you know, Hitler would be up next. And, yeah, I'm sorry. I
+[2:25:25] Ian Lurie (he/him),Mossy/Dr. Jed: was trying to keep it fun because, no, I don't want to, I don't want to have that session that's,
+[2:25:30] Ian Lurie: that's like a doctor who level, yeah, we'll just let that plot we're going to leave that plot hole alone. Okay, so Voda told you that there is a guano cave nearby. She says, no one's been in there in a while. And is, you know, it is dangerous, so you should be careful when you're there people who have gone in. They have had a few people go in and not come back out, not uncommon for a large cave, right? I
+[2:26:05] Mossy/Dr. Jed: don't have to go far in the best, yeah, that's far in, yeah, yeah.
+[2:26:09] Ian Lurie: Okay, so it's about a three hour hike to get there. You get there and it's, there's, it's in the sort of a foothill, you know, that's, it's a three hour hike away from the water, and you get to what's basically an isolated hill with that's kind of Rocky. There is a small cave entrance, you think it's probably about, you know, six feet high by five feet wide, very, very dark inside smells. It has that really strong kind of ammonia ish smell that you it's you know, that you know Obadiah, and also you Mossy immediately know that means there's guano in there, and rikter probably you too. I mean, you're not a big guano miner, but you know, it's everyone's dealt with it. You find your way in through this long kind of passage. Do you want to tell me a marching order, or anything like that? Or do you just want to kind of the passage is about it's just wide enough for one person, so you'll be going in single file.
+[2:27:30] Mossy/Dr. Jed: Just stealth in and grab it. Yeah,
+[2:27:32] Rikterr/Obadiah: rikter is going to tell Obadiah stay outside. Okay, so,
+[2:27:40] Ian Lurie: Mossy, you're going to go in and rikter, are you going to go with Mossy? With Mossy or,
+[2:27:44] Rikterr/Obadiah: well, Mossy, would you like accompaniment? Or you want me to? You think you got it?
+[2:27:50] Mossy/Dr. Jed: How? How far back do I need to go?
+[2:27:53] Ian Lurie: Well, you don't, you don't know. You know there's this little tunnel thing here, but you're not sure how far in you're gonna have to go to get there, okay?
+[2:28:02] Mossy/Dr. Jed: Dark Vision for something fate. Where is it? Does that make any difference in what I can see? I believe. Let's go in. Let's have another date night. You mean the bad poop caves? Grab his hand.
+[2:28:19] Ian Lurie: I think you have dark vision to 90 feet, right? Or 30 feet? Which one is it?
+[2:28:26] Mossy/Dr. Jed: That's what I'm for. It's not as far as you think it would be for to backseat.
+[2:28:33] Ian Lurie: Rikter, do you have any dark vision?
+[2:28:36] Mossy/Dr. Jed,Rikterr/Obadiah: You have gone? Yes, I do. I have dark vision, and I have the goggles. So I've got 120
+[2:28:41] Ian Lurie: feet 60. Cool. Okay, so yeah, when you kind of stick your head in, you see it's this tunnel that kind of twists and turns a lot. So you can see maybe 10 feet ahead, and then you go in a little bit, and you can see that it goes for another like 40 or 50 feet. And now it's really dark and very still. Um, you're kind of in past that, you know, you can no longer hear the outside. Obadiah are you're waiting outside?
+[2:29:10] Rikterr/Obadiah: Yep. Obadiah is outside.
+[2:29:12] Ian Lurie: Yeah, okay, Obadiah, you feel like that's probably the best course of action. Um, you guys get to a right hand turn in the tunnel, and you can see that up ahead, about 40 feet, it looks like it may open out to a wider chamber. There's no bat poop yet, no but you're still in this kind of really narrow, rocky tunnel. And you know that the bats would usually fly in and out through this. This is not, you know, they would generally be, they would have a nest or something. They'd be hanging from the ceiling or something somewhere. They wouldn't be in this
+[2:29:49] Mossy/Dr. Jed: for shingles. I am going to throw up past another trace on us by a Rogue's blessing.
+[2:29:55] Ian Lurie: Okay, why don't you all give me stealth checks then,
+[2:30:00] Mossy/Dr. Jed: and also notebook, I've been making little ticks on the map, on a map to be able to get back up. Oh,
+[2:30:07] Ian Lurie: okay, it's pretty, I mean, it's, it's, yeah, you got no problem with that. 36 Okay, rikter, how'd you do for stealth?
+[2:30:22] Rikterr/Obadiah: 17, I forgot to I was like, I don't have any bonuses. Yes, I do, thank goodness. Yeah,
+[2:30:27] Mossy/Dr. Jed: plus 10 is that with the plus 10?
+[2:30:30] Rikterr/Obadiah: That's with the plus 10 and my plus three on still, okay,
+[2:30:35] Ian Lurie: he's not a tabaxi.
+[2:30:37] Mossy/Dr. Jed: You're so cute and clunky.
+[2:30:39] Ian Lurie (he/him),Rikterr/Obadiah: Also, I also, thanks to a grown his armor I have, I'm back to rolling disadvantage.
+[2:30:44] Ian Lurie: That's right. Okay, so it does open out into this much bigger cave, and you can see reasonably well in here and there are sort of big The cave is about 90 feet wide. There's huge rocks and stalactites and Stalag stalactites and stalagmites, if I'm remembering right, and the floor is covered with large amounts of guano, incredible amounts. Actually, you think you could probably cut literally guano blocks off of this. And Obadiah told you how much you need to get. It's a fair amount, but you have no doubt you'll be able to get it
+[2:31:28] Mossy/Dr. Jed: thrown in the bag of holding. Okay,
+[2:31:30] Ian Lurie: so, Howard, are you cutting away at it? Are you chipping at it?
+[2:31:35] Mossy/Dr. Jed: Take dagger out. Just chip.
+[2:31:38] Ian Lurie: Okay, I'm
+[2:31:40] Mossy/Dr. Jed: assuming I don't have, actually, wait, no, I do have, I have Tinker's tools, so I might have a saw like blade in there, and I'll just
+[2:31:56] Ian Lurie: Mossy, what's your passive perception? Really fucking high.
+[2:32:02] Mossy/Dr. Jed: 121. Class investigations, 30.
+[2:32:05] George Nguyen: Okay,
+[2:32:09] Ian Lurie: so you're chipping away and working on the the guano rikter. Give me an actual perception check. Mossy is, you know, she's kind of focused, but you're kind of keeping an eye on things, and you also have the longer range, Dark Vision,
+[2:32:29] Rikterr/Obadiah: dirty 20, Okay.
+[2:32:36] Ian Lurie: You are Mossy. You're chipping away at the guano, and you feel something drip onto your arm, just like a
+[2:32:52] Mossy/Dr. Jed: Okay, I will look up from where it came.
+[2:32:55] Ian Lurie: Okay, um, give me a perception check
+[2:33:07] Mossy/Dr. Jed: 13, okay. Party line. Tell rikter Something just drooped on me.
+[2:33:19] Rikterr/Obadiah: Can you see what it is? Why
+[2:33:24] Ian Lurie: don't you give me another perception check? 20, natural, 20. Yeah, okay. Well, I will show you what you see just a second. This could be one of those times when splitting the party was well, I
+[2:34:03] Unknown Speaker(s): Hold on. What about zoom? Stop coming.
+[2:34:14] Ian Lurie: You see something that looks kind of like this? This? Gigantic bat creature, um, and yes, that is to scale, is hanging upside down from the ceiling, looking down at you. Is this okay, or is it too dark? I can No, no,
+[2:34:37] Ian Lurie (he/him),Mossy/Dr. Jed: this is okay, okay.
+[2:34:38] Ian Lurie: Um, so you're here, kind of chipping away at this guano. You feel something drip on your arm. You look up and you see hanging from there. The biggest fucking bat you have ever seen. This thing is probably the size of a motor home.
+[2:35:00] Ian Lurie (he/him),Mossy/Dr. Jed: The guano yet, or
+[2:35:02] Ian Lurie: you have chipped away a good amount of guano. Yeah, you've got a good quantity. And it's looking down at you, and it has all these like ridges all around its neck, and it lets out this low, guttural, kind of like weight. You expect a bat to let out this really high pitched sound, but it lets out this low gut, no no hold on guttural groaning kind of sound, and all of those little things on its neck kind of Stand up and and Spike out. And it is initiative.
+[2:35:41] Mossy/Dr. Jed: Is that an actual 20, this time, not a natural 20? No, no,
+[2:35:48] Rikterr/Obadiah: seven. All
+[2:35:49] Mossy/Dr. Jed: right, hold on. I want to see if I can do a thing is initiative, an ability check? No, okay,
+[2:36:04] Ian Lurie: love it. Okay, I got a 24 god damn it. So the the Ian's Nightwing, because I was actually this. This is my own little pet that I created. This on my own. He's beautiful. Let's out Larry, it like as those things expand, they then abruptly contract down, and it lets out this shrill, high pitched screaming sound. And Obadiah, you're outside, and you hear this screaming like rasping metal rubbing on on other rusted metal really loudly come echoing out of the tunnel. You guys need to both make dc 18 con saves.
+[2:36:53] Mossy/Dr. Jed: That's five Mossy. Levi boo,
+[2:37:03] Rikterr/Obadiah: oh. 24 Okay,
+[2:37:08] Mossy/Dr. Jed: hold on. No, yes, okay.
+[2:37:15] Ian Lurie: 21 Okay, um, so you each take 33 points of damage, 22 of that is psychic damage, 11 of that is Thunder damage,
+[2:37:30] Rikterr/Obadiah: Ow, I'm Sorry You said 33 Yeah, okay, cool. And then it
+[2:37:44] Ian Lurie: What, what, why? Might help. Fine. We'll just it's so big that, when I did that, it actually made the whole place. Oh, that's cool. Gargantuan beast. The entire cave shakes.
+[2:38:01] Mossy/Dr. Jed: Okay, yes, Ian, very cool.
+[2:38:02] Ian Lurie: Hey, I think it's cool. Okay, so it lands right over. Here it is. Now, your guys turn, okay,
+[2:38:15] Mossy/Dr. Jed: I'm gonna try and cast web. It's a deck. Save Wait, hold on, hold on. I just, I just learned I have a thing that I might want to save that. Sorry, a new class here this okay question, can I movement hide in that attack?
+[2:38:48] Ian Lurie: No, because it'll Well, it depends on how you do it, because it if they see you moving, and then they see you going to hiding, if you then attack from there, it's not really a surprise to them. Does that make sense? They can't. You can't really successfully hide, but you can't, if you can, if you can go somewhere without them seeing you move. Then, yes, but then once you attack from there, they will know you're there next round.
+[2:39:13] Mossy/Dr. Jed: Okay, so wait, I think I have a thing. Where is it? Okay? I have a bonus action of Misty step. All right, I want to use that bonus action and pop up somewhere where I'm hidden. Can I then attack from there?
+[2:39:38] Ian Lurie: Yeah, I would
+[2:39:40] Mossy/Dr. Jed: like to do that, please.
+[2:39:41] Ian Lurie: Okay, so where would you like to Misty step to?
+[2:39:46] Mossy/Dr. Jed: If I can be somewhere that's still within, like, 10 feet of rikter, I think over to the left there. There's that stalactite Can I like cling to the back of that?
+[2:39:56] Ian Lurie: How far can you go with Misty step? 30
+[2:40:00] Unknown Speaker(s): feet. Okay, so let's just see.
+[2:40:06] Mossy/Dr. Jed: And I have the tabaxi claws so I can hang on.
+[2:40:09] Ian Lurie: Yes, you can get there. Cool. I'm
+[2:40:12] Mossy/Dr. Jed: going to be pop up over there. And now, because I am a badass rogue, I'm going to use magical ambush and cast web on it, which means it has to make an 18 decks, but it has disadvantage.
+[2:40:25] Ian Lurie: Has disadvantage, okay, missing the natural 20, but it does save fuck.
+[2:40:41] JP Sherman: Well, boo, dexterous, and it
+[2:40:45] Ian Lurie: immediately turns towards you. Pissing, sorry.
+[2:40:51] Mossy/Dr. Jed: It senses where I am, yep,
+[2:40:54] Ian Lurie: because you went there, you were hidden. But then you attacked. Once you attack from there, it
+[2:40:59] Mossy/Dr. Jed: knows you're there, location on me or something. Well,
+[2:41:02] Ian Lurie: it is, but that doesn't, you know, it doesn't give it any special. It just means it can see in the dark, really, really well. Mostly, though, it just, it knows you're there because you attacked rikter. I think it's your turn.
+[2:41:17] Rikterr/Obadiah: Yes, yes. It is all right. Bonus action, I'm going to do hex blades. Curse on it. Okay, how far away from me is it? It is 50 feet. All right, so it's just gonna get pop pop pop right now with three eldritch blasts. So let's see. You know, fuck this. I'm gonna use computer dice because I'm rolling like shit. I'm so first hit is a 16 to hit,
+[2:42:09] Ian Lurie: okay, that misses, All right, next
+[2:42:14] Rikterr/Obadiah: one is a 23 to hit
+[2:42:16] Ian Lurie: that misses. Oh, fuck you.
+[2:42:23] Rikterr/Obadiah: Okay, yeah, all right, well, that was a waste of a goddamn term.
+[2:42:30] Ian Lurie: Oh no, he took your shot. You know, it's you got to do it. Okay,
+[2:42:41] JP Sherman: let's see here.
+[2:42:45] Ian Lurie: So for legendary action, I need you, rikter, to give me an intelligence save. You're muted. Can't hear you. No, I
+[2:43:05] Rikterr/Obadiah: was just muttering to myself. Oh, come on, intelligence. Oh, that's a 22
+[2:43:15] Ian Lurie: No, okay. You take 10 points of psychic damage. Now on its turn. Let's see here, it flies up to you, Mossy. Cool.
+[2:43:44] JP Sherman: Larry, no,
+[2:43:48] Ian Lurie: his name is not Larry.
+[2:43:50] Mossy/Dr. Jed: His name is Larry. He's gonna murder me. His name is Larry.
+[2:43:55] Ian Lurie: Okay, that's fair. And he's gonna bite you twice, the psionic bite. Getting a 20 and a 21
+[2:44:12] Mossy/Dr. Jed: I am going to think I have a thing for this. Yeah, I'm in a reaction shield, okay? And only take one of those, okay,
+[2:44:27] Ian Lurie: you take 15 piercing and 14 psychic, and you need to give me a DC, 18 intelligence, save,
+[2:44:40] Mossy/Dr. Jed: okay, 14, piercing and 15, psychic, correct, intelligence, save is a 27
+[2:44:54] Unknown Speaker(s): Okay, good, no problem.
+[2:44:58] Ian Lurie: I'm not sure. JP, if someone wants to check that spell, I think you're thinking a major armor, not shield, but, but I could be wrong, and then it will
+[2:45:12] Mossy/Dr. Jed: just one reaction. It's just me stopping,
+[2:45:15] Sango / Levi - James Svoboda: yeah, but I thought it stayed up till the beginning of your next
+[2:45:19] Rikterr/Obadiah: turn. Yeah, you get a plus five till, yeah, until the start of your next turn. You have plus five bonus to AC. Oh, okay, oh, wait,
+[2:45:30] Mossy/Dr. Jed: so if you're doing the first one, then I would also make the second one, okay, yeah.
+[2:45:34] Ian Lurie: Then you took, then you took no damage whatsoever. It looks annoyed and it flies away. I a good save. Good save. Okay, Mossy, it is now your turn. It is looking right at you. It looks irate. I mean,
+[2:45:53] Ian Lurie (he/him),Mossy/Dr. Jed: about this entryway right here? How wide is that?
+[2:45:58] Ian Lurie: Which one the tunnel? Yeah, it's about five feet wide,
+[2:46:02] Mossy/Dr. Jed: okay, and I have the stuff in my bag. You think you
+[2:46:07] Ian Lurie: have enough? Quantum, yeah, okay,
+[2:46:15] Mossy/Dr. Jed: okay. Rikter, you know the deal. I'm gonna follow me, right? Yep. Okay, fantastic. I am going to run out the hallway, and I'm going to hold a spell for web to close that thing once rikter is through. Okay,
+[2:46:39] Ian Lurie: so you're just going that far. Yep, okay, all right, and then legendary action for it, no, yeah, it's going to, oh yeah, this is okay. I'm just going to apologize in advance. It uses its psionic pulse, rikter, you must make a DC, 18 intelligence save cool.
+[2:47:25] Rikterr/Obadiah: Oh, my goodness, your boy rolled a Natty 20.
+[2:47:29] Ian Lurie: Okay, that's good. So, so
+[2:47:32] Ian Lurie (he/him),Rikterr/Obadiah: that's a 26 total,
+[2:47:38] Ian Lurie: you take no damage, and your speed is not halved next turn, because that would have sucked. All right, so do you just run for the hole? Or what are you doing?
+[2:47:50] Rikterr/Obadiah: Yep, I'm dashing for that thing. Run.
+[2:47:53] Mossy/Dr. Jed: Keep dash, and keep dashing. I'm the web's going up as soon as you're clear.
+[2:47:57] Ian Lurie: Okay, so you put up the web. I'm a angry, angry Sonic Night Wing.
+[2:48:08] Mossy/Dr. Jed: And it's about so it's a 20 foot cube, so it's just filling from that front and then deep back for the rest of the cube, right?
+[2:48:15] Ian Lurie: Yeah. What the Oh, my God, fine.
+[2:48:21] Mossy/Dr. Jed: Don't be grumpy, Larry,
+[2:48:25] Ian Lurie: it slams right into the opening of the cave. Can't get out. It's going to see you're gonna Oh no, it goes and then you put up the web so it flies down to here. Okay, here we go. Give me an intelligence save Mossy,
+[2:48:56] Ian Lurie (he/him),Mossy/Dr. Jed: watch five. Arsenal gonna help, because I drew boxed. Okay, wait, wait, wait, wait, okay, wait, intelligence, save and it's a plus five. So if I juice box and it's 12 and you gave me a plus five, it's 17, right? And what do I have to make?
+[2:49:11] Ian Lurie: You had to make, I believe in 18. Yeah, an 18. Flash
+[2:49:15] Mossy/Dr. Jed: of genius. I make it.
+[2:49:17] Ian Lurie: Can you use flash of genius on a
+[2:49:19] Mossy/Dr. Jed: saving throw? Ian's saving throw?
+[2:49:21] Ian Lurie: Well, that's good because then you didn't get the funnel min cast on you, so you can still cast spells, and you don't take 100 points of psychic damage. That would not have been good. Yeah, no, that would not have been good. All right, so you put up the web
+[2:49:36] Mossy/Dr. Jed: and we book in it,
+[2:49:38] Ian Lurie: yeah, as it's legendary action, it's going to try one more thing, because it can, but it's not going to do anything. It will, ah, you know, it's going to do a straight up mind run so rikter, give me a DC 18 intelligence save,
+[2:50:11] Rikterr/Obadiah: nope, 16,
+[2:50:13] Mossy/Dr. Jed: okay, lush, genius. I can use it five times for a long rest. I'm gonna use it
+[2:50:19] Ian Lurie: in one round.
+[2:50:22] Mossy/Dr. Jed: Oh, it's my reaction. I can't do for both of us. Then fuck,
+[2:50:26] Ian Lurie: trust me, you needed it more than although I will, okay, so strictly speaking, I just checked a natural one, and a saving throw means it's an automatic fail. Okay, so you wouldn't actually save Lucky for you, it's 753 and I don't want to keep us all here too late. But what should happen at this point? Actually, no, you know, we can do this. We can always come in next week, so you actually lose the ability to cast the spell.
+[2:50:59] Mossy/Dr. Jed: Also unconscious.
+[2:51:00] Ian Lurie: You're also unconscious. You are. You know, I'm sorry. I got that rule wrong, guys, I apologize. The Nightwing is right at the entrance. Can't fit in there. Rikter, you're standing there. When
+[2:51:23] Mossy/Dr. Jed: did he have to be able to see me to cast that on me? Yeah, but
+[2:51:29] Ian Lurie: he has echolocation, so And notice he's got line of sight to you, it would
+[2:51:33] Mossy/Dr. Jed: be obscured from the web. Yeah?
+[2:51:36] Ian Lurie: No, because you couldn't cast the web, because you couldn't cast the spell. He got to you first he was able to cast before you.
+[2:51:45] Mossy/Dr. Jed: I was holding a spell, though, it's fine. You were,
+[2:51:50] Ian Lurie: oh, I see what you're doing. Okay. Never mind then, never mind backing up again, rewinding three times. So rikter, you took a little bit of damage. The Web goes off, and you guys run like hell, and you hear very angry shrieking as the Nightwing goes back to tending its young and decides to leave you guys alone. All right, so you got enough guano you will be able to create the gunpowder that you need, Obadiah, you check it, and you're like, Wow, this is great. Hope that was too much.
+[2:52:26] Mossy/Dr. Jed: Yeah, super, great.
+[2:52:30] Ian Lurie: Obadiah, by the way, they come out, they're both bleeding from their ears.
+[2:52:36] Rikterr/Obadiah: See, that's why I don't go into dark places,
+[2:52:42] Mossy/Dr. Jed: to be fair, that was very words hurt now,
+[2:52:53] Ian Lurie: okay, all right, so next time, I'm Sorry it was so disorganized tonight, guys, but it was it was fun. I appreciate it. This was cool. Let's figure out what we're going to do next time. I think next time, if you want it to be, could be the defense of or Doom if that's what you want to do. So cool. All right. Awesome. I will talk to you guys, in a couple of weeks, you.
