@@ -10,13 +10,13 @@ held_by:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-09-08T21:03:52Z'
   method: read-and-extract
 sources:
 - id: source
   resource: file:///Users/i.lurie/praxia/_stories/RBG/The%20Five%20Fold%20Brand/Tiamat%27s%20revenge.md
   title: 'Original: _stories/RBG/The Five Fold Brand/Tiamat''s revenge.md'
-content_hash: 90eecc19763d9c32
+content_hash: 4aedeedc78e6b7cc
 evidence:
   founded_by: '''Unbeknownst to the players, Tiamat cursed them. They bear the Five
     Fold Brand... You feel a searing heat on your skin as a five-pointed brand appears
@@ -53,6 +53,13 @@ The room goes dark. You are all standing in an empty void beneath five malevolen
 You feel a searing heat on your skin as a five-pointed brand appears on your dream-self. Five colors: Red. Green. White. Blue. Black.
 
 At that moment, the nearest dragonfolk go mad and attack everyone EXCEPT the party.
+
+## Notes
+With Rikterr's sacrifice, the curse of the Fivefold Brand is gone. The party now has only four stars on their chests.
+
+So is Tiamat's incentive to keep RBG alive. 
+
+The dynamic has changed.
 
 ## Related
 **Founded by:** [Tiamat](../people/tiamat.md)

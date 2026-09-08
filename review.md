@@ -7,19 +7,19 @@ status: draft
 
 # Review
 
-**563 concepts, 1462 relations**, derived by reading 289 source files in `~/praxia`. Source frontmatter was a hint, not an import; every field here came from the text.
+**563 concepts, 1466 relations**, derived by reading 289 source files in `~/praxia`. Source frontmatter was a hint, not an import; every field here came from the text.
 
 `confidence: stated` = asserted in the prose. `inferred` = deduced — check these first.
 
 ## Open items
 
-* **4 inferred** — deduced rather than stated: [Tiamat](world/people/tiamat.md), [Ardmon Ignus Lacqui](world/people/ardmon-ignus-lacqui.md), [Cult of Callistra](world/groups/cult-of-callistra.md), [The Absolvers](world/groups/the-absolvers.md)
+* **5 inferred** — deduced rather than stated: [Tiamat](world/people/tiamat.md), [Vaxith, the Hand In The Dark](world/people/vaxith.md), [Ardmon Ignus Lacqui](world/people/ardmon-ignus-lacqui.md), [Cult of Callistra](world/groups/cult-of-callistra.md), [The Absolvers](world/groups/the-absolvers.md)
 * **12 sessions with no recap and no transcript** — no description was written rather than guessing from prep notes: Session 003 · Obsidian Wing · 3 Mar 2025, Session 004 · Obsidian Wing · 17 Mar 2025, Session 006 · Obsidian Wing · 31 Mar 2025, Session 010 · Fivefold Brand · 21 Jul 2025, Session 011 · Thargorax · 30 Oct 2023, Session 013 · Thargorax · 27 Nov 2023, Session 014 · Thargorax · 11 Dec 2023, Session 019 · Thargorax · 19 Feb 2024, Session 022 · Thargorax · 15 Apr 2024, Session 026 · Thargorax · 22 Jul 2024, Session 028 · Thargorax · 19 Aug 2024, Session 030 · Thargorax · 2 Sep 2024
 
 ## Settled
 
 * **439 concepts** are `stated` — asserted in the source text, with the sentence recorded in `evidence` wherever a relation needed defending.
-* **108 prep and reference files** are carried for coverage with no summary invented for them. Not a gap: the vault text is the content.
+* **107 prep and reference files** are carried for coverage with no summary invented for them. Not a gap: the vault text is the content.
 * Duplicate candidates, contradictions and unwritten entities: see [reconciliation.md](reconciliation.md).
 
 
@@ -1134,7 +1134,7 @@ Half-orc commander of the Absolvers, and a famous member of House Highfury; wear
   > 'Gart, commander of the Absolvers (half-orc w/ eye patch ala General Chang)'.
 
 #### [Ger'u'do Durtbourne](world/people/gerudo-durtbourne.md) · `npc` · stated
-Orphan of Salmuir raised by monks; Rikterr's estranged childhood friend, now of the Order of Light hunting the new Domain of Dread.
+Orphan of Salmuir raised by monks; Rikterr's estranged childhood friend, now of the Order of Light hunting the new Domain of Dread; has only recently learned of Rikterr's death.
 * **Family:** Rikterr, Schala Zeal
 * **Member of:** The Order Of Light
   > 'Ger'u'do is now a member of the Order Of Light tasked with investigating the new Domain Of Dread (Shadowmuir) alongside Nathan Dayspring.'
@@ -1667,11 +1667,14 @@ Lead cleric of the Temple of Helm; a muscular half-orc who takes the front line 
 * **Allies:** Corwin Dunsbane
 * **Located in:** Hull Ward
 
-#### [Vaxith, the Hand In The Dark](world/people/vaxith.md) · `npc` · stated
-An Abishai infused with the essence of a Shadow Dragon by Tiamat; has shadowed RBG since Urush Gul.
+#### [Vaxith, the Hand In The Dark](world/people/vaxith.md) · `npc` · inferred
+An Abishai infused with the essence of a Shadow Dragon by Tiamat; shadowed RBG since Urush Gûl and is now at Tiamat's side, planning to lead the next assault on them.
 * **Serves:** Tiamat
   > 'Infused with the essence of a Shadow Dragon by Tiamat.'
-* **Located in:** Avernus
+* **Located in:** Avernus, Tiamat's Lair
+  > INFERRED: 'Vaxith is now with Tiamat', and Tiamat is located in Tiamat's Lair. Avernus is kept alongside.
+* **Enemies:** Notorious RBG
+  > 'Vaxith is now with Tiamat, planning how he'll kill RBG. He will lead the next assault against them.' (Update section)
 
 #### [Veda](world/people/veda.md) · `deity` · stated
 First God of faith and divinity.
@@ -2409,9 +2412,12 @@ To access level 3 The City Of The Dead, the party has to either take the lift or
 Of the Inner Circle, only Ellechar ever visited the Chamber of Amenopophis.
 * **Part of:** The Plague Of The Flayed God
 
-#### [Tiamat's revenge](world/prep/tiamat-s-revenge.md) · `adventure-note` · unknown
-No prose in the source; carried for coverage.
-* **Part of:** The Heralds
+#### [Tiamat's revenge](world/prep/tiamat-s-revenge.md) · `adventure-note` · stated
+Synopsis of Tiamat's revenge in the Fivefold Brand arc: her curse on RBG, her plan to use them as her banner, and how she can be ended — with the Dagger of Amoth, not by damage in Avernus; Rikterr's sacrifice lifted the curse.
+* **Part of:** The Fivefold Brand (arc)
+  > frontmatter 'storyline: The Fivefold Brand'; the file sits under _stories/RBG/The Five Fold Brand/. The empty copy under The Heralds is left where it is (source is read-only).
+* **About:** Tiamat, The Dagger Of Amoth
+  > 'Simply doing damage won't kill Tiamat. She is not native to Avernus.' 'You have to use the Dagger Of Amoth - used to (ironically) slay Amoth.' 'With Rikterr's sacrifice, the curse of the Fivefold Brand is gone.'
 
 #### [_The Crypt](world/prep/the-crypt.md) · `adventure-note` · unknown
 The Crypt is a kind of gigantic undead engine, used to restore Amenopophis.

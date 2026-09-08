@@ -37,7 +37,7 @@
 * [The Letter For Sango](the-letter-for-sango.md) - Three missing members:
 * [The Lift And Stairs To Level 3](the-lift-and-stairs-to-level-3.md) - To access level 3 The City Of The Dead, the party has to either take the lift or the stairs in the Flayed Workshop.
 * [The Passage](the-passage.md) - Of the Inner Circle, only Ellechar ever visited the Chamber of Amenopophis.
-* [Tiamat's revenge](tiamat-s-revenge.md) - No prose in the source; carried for coverage.
+* [Tiamat's revenge](tiamat-s-revenge.md) - Synopsis of Tiamat's revenge in the Fivefold Brand arc: her curse on RBG, her plan to use them as her banner, and how she can be ended — with the Dagger of Amoth, not by damage in Avernus; Rikterr's sacrifice lifted the curse.
 * [_The Crypt](the-crypt.md) - The Crypt is a kind of gigantic undead engine, used to restore Amenopophis.
 * [_names](names.md) - No prose in the source; carried for coverage.
 * [aftermath: notes](aftermath-notes.md) - As the players fly away from The Engine, they see disintegrate as it towards the ground. It's as if, without Baragog's power keeping it alive, the ship is dissolving. Aft…

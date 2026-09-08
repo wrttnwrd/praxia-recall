@@ -7111,3 +7111,28 @@ concepts:
 
 - id: tower-of-obaris
   description: A half-collapsed necromantic tower leaning over the lip of the Gurges; its only living resident was the wizard Obaris, killed there by Notorious RBG on 15 Fading 07.
+
+# ══════════ 2026-09-08 ingest (third run): vault edits after the 14:01 build ══════════
+
+- id: vaxith
+  description: An Abishai infused with the essence of a Shadow Dragon by Tiamat; shadowed RBG since Urush Gûl and is now at Tiamat's side, planning to lead the next assault on them.
+  relations: {enemy_of: [notorious-rbg], located_in: [tiamats-lair]}
+  evidence:
+    enemy_of: "'Vaxith is now with Tiamat, planning how he'll kill RBG. He will lead the next assault against them.' (Update section)"
+    located_in: "INFERRED: 'Vaxith is now with Tiamat', and Tiamat is located in Tiamat's Lair. Avernus is kept alongside."
+  confidence: inferred
+
+- id: gerudo-durtbourne
+  description: Orphan of Salmuir raised by monks; Rikterr's estranged childhood friend, now of the Order of Light hunting the new Domain of Dread; has only recently learned of Rikterr's death.
+
+# The concept pointed at an empty file under The Heralds; the written note lives
+# under The Five Fold Brand. Repoint, move it into that storyline, and summarise.
+- id: tiamat-s-revenge
+  source: _stories/RBG/The Five Fold Brand/Tiamat's revenge.md
+  description: "Synopsis of Tiamat's revenge in the Fivefold Brand arc: her curse on RBG, her plan to use them as her banner, and how she can be ended — with the Dagger of Amoth, not by damage in Avernus; Rikterr's sacrifice lifted the curse."
+  remove_relations: {part_of: [the-heralds]}
+  relations: {part_of: [the-fivefold-brand], about: [tiamat, dagger-of-amoth]}
+  evidence:
+    part_of: "frontmatter 'storyline: The Fivefold Brand'; the file sits under _stories/RBG/The Five Fold Brand/. The empty copy under The Heralds is left where it is (source is read-only)."
+    about: "'Simply doing damage won't kill Tiamat. She is not native to Avernus.' 'You have to use the Dagger Of Amoth - used to (ironically) slay Amoth.' 'With Rikterr's sacrifice, the curse of the Fivefold Brand is gone.'"
+  confidence: stated

@@ -2,7 +2,8 @@
 type: npc
 title: Ger'u'do Durtbourne
 description: Orphan of Salmuir raised by monks; Rikterr's estranged childhood friend,
-  now of the Order of Light hunting the new Domain of Dread.
+  now of the Order of Light hunting the new Domain of Dread; has only recently learned
+  of Rikterr's death.
 praxian_date: 2 Highsun 07 FR
 praxian_date_basis: first_seen
 species: half-orc
@@ -20,7 +21,7 @@ located_in:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T21:01:15Z'
+  at: '2026-09-08T21:03:52Z'
   method: read-and-extract
 sources:
 - id: source

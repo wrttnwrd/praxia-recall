@@ -54,7 +54,7 @@
 * [Gallias](gallias.md) - Fey Eladrin, Summer since breaking with his parents; married Fidelia Azari at Midsummer 07.
 * [Gargra Longblade](gargra-longblade.md) - Bandit leader who transformed into a green slaad and was killed by Marta Valtova; now stuffed behind the bar.
 * [Gart](gart.md) - Half-orc commander of the Absolvers, and a famous member of House Highfury; wears an eye patch.
-* [Ger'u'do Durtbourne](gerudo-durtbourne.md) - Orphan of Salmuir raised by monks; Rikterr's estranged childhood friend, now of the Order of Light hunting the new Domain of Dread.
+* [Ger'u'do Durtbourne](gerudo-durtbourne.md) - Orphan of Salmuir raised by monks; Rikterr's estranged childhood friend, now of the Order of Light hunting the new Domain of Dread; has only recently learned of Rikterr's death.
 * [Ghorza Rockfang](ghorza-rockfang.md) - New shaman leader of the orc clans around Dirion; has united them and presents a major danger to the region.
 * [Glenn LaRana](glenn-larana.md) - Broke into Janus's hideout meaning to kill him and rescued Schala Zeal instead.
 * [Godtfred Frey](godtfred-frey.md) - Dirion's stables owner — in fact a deep scion enslaved to Sycorax, careful to cover his tracks.
@@ -142,7 +142,7 @@
 * [Tyr](tyr.md) - God to whom the Horns of the Order of Light are pledged; tribute is a severed hand.
 * [Urush Gûl](urush-gul.md) - An ancient red dragon sworn to Tiamat, ordered to weaken RBG but not kill them; he gave them the Searing Brand and crippled the Discontent.
 * [Valana](valana.md) - Lead cleric of the Temple of Helm; a muscular half-orc who takes the front line and delegates the politics.
-* [Vaxith, the Hand In The Dark](vaxith.md) - An Abishai infused with the essence of a Shadow Dragon by Tiamat; has shadowed RBG since Urush Gul.
+* [Vaxith, the Hand In The Dark](vaxith.md) - An Abishai infused with the essence of a Shadow Dragon by Tiamat; shadowed RBG since Urush Gûl and is now at Tiamat's side, planning to lead the next assault on them.
 * [Veda](veda.md) - First God of faith and divinity.
 * [Vek Azar](vek-azar.md) - Powerful necromancer who leads Fel House; short of temper, protective of her power, and not evil.
 * [Veles](veles.md) - Duke of the Summer Court; Gallias's father.

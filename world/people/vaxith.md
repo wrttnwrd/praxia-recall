@@ -1,8 +1,9 @@
 ---
 type: npc
 title: Vaxith, the Hand In The Dark
-description: An Abishai infused with the essence of a Shadow Dragon by Tiamat; has
-  shadowed RBG since Urush Gul.
+description: An Abishai infused with the essence of a Shadow Dragon by Tiamat; shadowed
+  RBG since Urush Gûl and is now at Tiamat's side, planning to lead the next assault
+  on them.
 praxian_date: 23 Leaffall 07 FR
 praxian_date_basis: first_seen
 alignment: lawful-evil
@@ -10,10 +11,13 @@ serves:
 - Tiamat
 located_in:
 - Avernus
+- Tiamat's Lair
+enemy_of:
+- Notorious RBG
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T21:01:15Z'
+  at: '2026-09-08T21:03:52Z'
   method: read-and-extract
 sources:
 - id: source
@@ -22,7 +26,11 @@ sources:
 content_hash: d30efb0c5f7355bc
 evidence:
   serves: '''Infused with the essence of a Shadow Dragon by Tiamat.'''
-confidence: stated
+  enemy_of: '''Vaxith is now with Tiamat, planning how he''ll kill RBG. He will lead
+    the next assault against them.'' (Update section)'
+  located_in: 'INFERRED: ''Vaxith is now with Tiamat'', and Tiamat is located in Tiamat''s
+    Lair. Avernus is kept alongside.'
+confidence: inferred
 ---
 
 _Medium Fiend (Abishai), Lawful Evil_
@@ -95,4 +103,5 @@ He will lead the next assault against them.
 
 ## Related
 **Serves:** [Tiamat](../people/tiamat.md)
-**Located in:** [Avernus](../places/avernus.md)
+**Located in:** [Avernus](../places/avernus.md), [Tiamat's Lair](../places/tiamats-lair.md)
+**Enemies:** [Notorious RBG](../groups/notorious-rbg.md)
