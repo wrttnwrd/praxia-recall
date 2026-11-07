@@ -18,13 +18,13 @@ ally_of:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:43:53Z'
   method: read-and-extract
 sources:
 - id: source
-  resource: file:///Users/i.lurie/praxia/_sourcebooks/aventine/The%20Wave%20Serpent.md
-  title: 'Original: _sourcebooks/aventine/The Wave Serpent.md'
-content_hash: 9949a9128d051b0a
+  resource: file:///Users/i.lurie/praxia/_sourcebooks/places/aventine/The%20Wave%20Serpent.md
+  title: 'Original: _sourcebooks/places/aventine/The Wave Serpent.md'
+content_hash: 8694e64be4b2e0b0
 evidence:
   ally_of: 'frontmatter `allies: [Villain''s Discontent, The Kestrel, Notorious RBG]`'
 confidence: stated

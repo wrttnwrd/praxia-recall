@@ -11,12 +11,12 @@ contains:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:43:53Z'
   method: read-and-extract
 sources:
 - id: source
-  resource: file:///Users/i.lurie/praxia/_sourcebooks/silidria.md
-  title: 'Original: _sourcebooks/silidria.md'
+  resource: file:///Users/i.lurie/praxia/_sourcebooks/places/silidria.md
+  title: 'Original: _sourcebooks/places/silidria.md'
 content_hash: b6aa4b3b3b6bbcd6
 confidence: stated
 ---

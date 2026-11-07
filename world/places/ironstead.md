@@ -12,13 +12,13 @@ staffed_by:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:43:53Z'
   method: read-and-extract
 sources:
 - id: source
-  resource: file:///Users/i.lurie/praxia/_sourcebooks/pois/Ironstead.md
-  title: 'Original: _sourcebooks/pois/Ironstead.md'
-content_hash: 2a4c58553e228ca4
+  resource: file:///Users/i.lurie/praxia/_sourcebooks/places/pois/Ironstead.md
+  title: 'Original: _sourcebooks/places/pois/Ironstead.md'
+content_hash: 4d74aedd7dd63245
 evidence:
   staffed_by: '''you are now speaking to Zheilhurd (Zayal-herd) Oregazer in the library''
     (session 012)'

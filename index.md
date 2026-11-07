@@ -14,13 +14,13 @@ okf_version: "0.2"
 
 * [events](world/events/) - 11 concept(s)
 * [groups](world/groups/) - 36 concept(s)
-* [lore](world/lore/) - 32 concept(s)
-* [maps](world/maps/) - 69 concept(s)
+* [lore](world/lore/) - 34 concept(s)
+* [maps](world/maps/) - 70 concept(s)
 * [people](world/people/) - 158 concept(s)
 * [places](world/places/) - 86 concept(s)
-* [prep](world/prep/) - 83 concept(s)
-* [rules](world/rules/) - 4 concept(s)
-* [sessions](world/sessions/) - 62 concept(s)
+* [prep](world/prep/) - 85 concept(s)
+* [rules](world/rules/) - 5 concept(s)
+* [sessions](world/sessions/) - 63 concept(s)
 * [things](world/things/) - 17 concept(s)
 * [vehicles](world/vehicles/) - 5 concept(s)
-* [transcripts](items/otter/) - 39 concept(s), Otter session recordings
+* [transcripts](items/otter/) - 41 concept(s), Otter session recordings

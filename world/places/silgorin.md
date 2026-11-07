@@ -14,13 +14,13 @@ succeeds:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:43:53Z'
   method: read-and-extract
 sources:
 - id: source
-  resource: file:///Users/i.lurie/praxia/_sourcebooks/pois/Silgorin.md
-  title: 'Original: _sourcebooks/pois/Silgorin.md'
-content_hash: 9be58c65690d40d1
+  resource: file:///Users/i.lurie/praxia/_sourcebooks/places/pois/Silgorin.md
+  title: 'Original: _sourcebooks/places/pois/Silgorin.md'
+content_hash: cf802c5502d449b9
 evidence:
   succeeds: '''It is all that remains of the original city of Silgorin, high seat
     of the Temple of Amoth, now known as Silgorin Below.'''

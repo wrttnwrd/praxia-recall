@@ -10,12 +10,12 @@ occurred_at:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:43:53Z'
   method: read-and-extract
 sources:
 - id: source
-  resource: file:///Users/i.lurie/praxia/_sourcebooks/The%20Fall.md
-  title: 'Original: _sourcebooks/The Fall.md'
+  resource: file:///Users/i.lurie/praxia/_sourcebooks/arcana/The%20Fall.md
+  title: 'Original: _sourcebooks/arcana/The Fall.md'
 content_hash: a96d94013beec4d0
 evidence:
   occurred_at: 'The calendar''s epoch: year 0 is The Fall. Amoth''s death and impact.'

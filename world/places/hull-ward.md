@@ -22,12 +22,12 @@ contains:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:43:53Z'
   method: read-and-extract
 sources:
 - id: source
-  resource: file:///Users/i.lurie/praxia/_sourcebooks/aventine/Hull%20Ward.md
-  title: 'Original: _sourcebooks/aventine/Hull Ward.md'
+  resource: file:///Users/i.lurie/praxia/_sourcebooks/places/aventine/Hull%20Ward.md
+  title: 'Original: _sourcebooks/places/aventine/Hull Ward.md'
 content_hash: 10d8c2cde4f77724
 evidence:
   located_in: '''Hull Ward is the oldest neighborhood in Aventine.'''

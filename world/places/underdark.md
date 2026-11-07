@@ -14,12 +14,12 @@ contains:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:43:53Z'
   method: read-and-extract
 sources:
 - id: source
-  resource: file:///Users/i.lurie/praxia/_sourcebooks/Underdark/Underdark.md
-  title: 'Original: _sourcebooks/Underdark/Underdark.md'
+  resource: file:///Users/i.lurie/praxia/_sourcebooks/places/Underdark/Underdark.md
+  title: 'Original: _sourcebooks/places/Underdark/Underdark.md'
 content_hash: ac317bbece802218
 confidence: stated
 ---

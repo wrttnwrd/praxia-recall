@@ -12,13 +12,13 @@ owned_by:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:43:53Z'
   method: read-and-extract
 sources:
 - id: source
-  resource: file:///Users/i.lurie/praxia/_sourcebooks/pois/The%20Vaults.md
-  title: 'Original: _sourcebooks/pois/The Vaults.md'
-content_hash: dcc69a1db4c9b40f
+  resource: file:///Users/i.lurie/praxia/_sourcebooks/places/pois/The%20Vaults.md
+  title: 'Original: _sourcebooks/places/pois/The Vaults.md'
+content_hash: 27d07561b5907f02
 evidence:
   owned_by: '''Players decided to go speak to G''ul, not realizing that the vaults
     they wanted to break into were actually his, and part of his business.'' (session

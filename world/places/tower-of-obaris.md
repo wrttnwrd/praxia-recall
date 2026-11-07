@@ -13,13 +13,13 @@ owned_by:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:43:53Z'
   method: read-and-extract
 sources:
 - id: source
-  resource: file:///Users/i.lurie/praxia/_sourcebooks/pois/The%20Tower%20Of%20Obaris.md
-  title: 'Original: _sourcebooks/pois/The Tower Of Obaris.md'
-content_hash: 7f6e6dabc6a4d02a
+  resource: file:///Users/i.lurie/praxia/_sourcebooks/places/pois/The%20Tower%20Of%20Obaris.md
+  title: 'Original: _sourcebooks/places/pois/The Tower Of Obaris.md'
+content_hash: 0f4a85c728c652f7
 confidence: stated
 ---
 

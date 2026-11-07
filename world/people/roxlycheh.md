@@ -18,12 +18,12 @@ ally_of:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:43:53Z'
   method: read-and-extract
 sources:
 - id: source
-  resource: file:///Users/i.lurie/praxia/_sourcebooks/aventine/people/Roxlycheh.md
-  title: 'Original: _sourcebooks/aventine/people/Roxlycheh.md'
+  resource: file:///Users/i.lurie/praxia/_sourcebooks/places/aventine/people/Roxlycheh.md
+  title: 'Original: _sourcebooks/places/aventine/people/Roxlycheh.md'
 content_hash: b7715295f4570e5c
 confidence: stated
 ---

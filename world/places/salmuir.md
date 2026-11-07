@@ -18,13 +18,13 @@ base_of:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:43:53Z'
   method: read-and-extract
 sources:
 - id: source
-  resource: file:///Users/i.lurie/praxia/_sourcebooks/Shamharan/Salmuir.md
-  title: 'Original: _sourcebooks/Shamharan/Salmuir.md'
-content_hash: f41c2fc559b09df8
+  resource: file:///Users/i.lurie/praxia/_sourcebooks/places/Shamharan/Salmuir.md
+  title: 'Original: _sourcebooks/places/Shamharan/Salmuir.md'
+content_hash: c853e2461a9fc9eb
 evidence:
   ruled_by: '''After the fall of the grey elf ruling powers, a little-known group
     known only as The Haddad Combine has taken over.'''

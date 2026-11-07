@@ -7,13 +7,13 @@ description: A d20 table of encounters tuned for a party of 4 PCs at tier 3. Mix
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:43:53Z'
   method: read-and-extract
 sources:
 - id: source
-  resource: file:///Users/i.lurie/praxia/_sourcebooks/pois/Silgorin%20Below%20-%20Random%20Encounters.md
-  title: 'Original: _sourcebooks/pois/Silgorin Below - Random Encounters.md'
-content_hash: 9bc51bc4c9b3e311
+  resource: file:///Users/i.lurie/praxia/_sourcebooks/places/pois/Silgorin%20Below%20-%20Random%20Encounters.md
+  title: 'Original: _sourcebooks/places/pois/Silgorin Below - Random Encounters.md'
+content_hash: b118b3a339848cf0
 confidence: unknown
 ---
 

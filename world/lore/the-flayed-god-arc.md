@@ -12,13 +12,13 @@ participants:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:35:14Z'
   method: read-and-extract
 sources:
 - id: source
   resource: file:///Users/i.lurie/praxia/_stories/RBG/the-flayed-god/00%20The%20Plague%20Of%20The%20Flayed%20God.md
   title: 'Original: _stories/RBG/the-flayed-god/00 The Plague Of The Flayed God.md'
-content_hash: b4a1257132604645
+content_hash: ce143fce009bfea4
 confidence: stated
 ---
 

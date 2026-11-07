@@ -6,12 +6,12 @@ description: Ship carries a captain, XO, gunner, 3 able hands and 3 regular crew
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:43:53Z'
   method: read-and-extract
 sources:
 - id: source
-  resource: file:///Users/i.lurie/praxia/_sourcebooks/aventine/The%20Villain%27s%20Discontent/Crew.md
-  title: 'Original: _sourcebooks/aventine/The Villain''s Discontent/Crew.md'
+  resource: file:///Users/i.lurie/praxia/_sourcebooks/places/aventine/The%20Villain%27s%20Discontent/Crew.md
+  title: 'Original: _sourcebooks/places/aventine/The Villain''s Discontent/Crew.md'
 content_hash: 270d02611c03e796
 confidence: unknown
 ---

@@ -10,7 +10,7 @@
 * [Amoth](amoth.md) - A Second God, slain by Asmodeus; his death caused The Fall, and his impact scarred Essedria.
 * [Angus Bloodstone](angus-bloodstone.md) - A famous member of House Highfury and one of Marta's Marauders; bought The Brimming Tankard with his share of the slaad's control gem.
 * [Ardmon Ignus Lacqui](ardmon-ignus-lacqui.md) - A rakshasa of the Plane of Fire, nearly immune to magic; RBG destroyed his salamanders and drove him off, winning his quarters.
-* [Arkhan The Cruel](arkhan-the-cruel.md) - Guardian of Tiamat's Lair, bearer of the Hand of Vecna, working to break the Chains of Gleynir.
+* [Arkhan The Cruel](arkhan-the-cruel.md) - Tiamat's champion, holed up in his tower in Avernus trying to use the Hand of Vecna to free her; with Krull he works to master the Hand and install the Eye, but he is too afraid of Vecna taking his soul to wear it. His tower — a maze of passages, traps and undead — is the only way into Tiamat's chamber short of flying in.
 * [Armak Rockfist](armak-rockfist.md) - Dwarf who owns The Green Slaad in all but name; de facto leader of Marta's Marauders after Marta died.
 * [Artemis Hasp](artemis-hasp.md) - Gnome tinkerer wizard, owner of The Mekanikum, once of Marta's Marauders; keeps a Strongarm automaton named Crunch.
 * [Artemis Killgrave](artemis-killgrave.md) - First officer of The Wave Serpent; a half-elf fighter.
@@ -140,7 +140,7 @@
 * [Twig](twig.md) - Mossy's best friend from Salmuir, possibly aboard the Bluestrike merchant vessel Snapjaw.
 * [Tymora](tymora.md) - The god Irene Cordova plans to pledge to when she takes her oath.
 * [Tyr](tyr.md) - God to whom the Horns of the Order of Light are pledged; tribute is a severed hand.
-* [Urush Gûl](urush-gul.md) - An ancient red dragon sworn to Tiamat, ordered to weaken RBG but not kill them; he gave them the Searing Brand and crippled the Discontent.
+* [Urush Gûl](urush-gul.md) - An ancient red dragon sworn to Tiamat; once ordered only to weaken RBG, he gave them the Searing Brand and crippled the Discontent. Tiamat punished him for that boon — acid burns along his flanks and wings, now at half his hit points — and ordered him to hunt the party down and kill them or not return.
 * [Valana](valana.md) - Lead cleric of the Temple of Helm; a muscular half-orc who takes the front line and delegates the politics.
 * [Vaxith, the Hand In The Dark](vaxith.md) - An Abishai infused with the essence of a Shadow Dragon by Tiamat; shadowed RBG since Urush Gûl and is now at Tiamat's side, planning to lead the next assault on them.
 * [Veda](veda.md) - First God of faith and divinity.

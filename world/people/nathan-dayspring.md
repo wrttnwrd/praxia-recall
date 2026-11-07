@@ -21,13 +21,13 @@ based_in:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:35:14Z'
   method: read-and-extract
 sources:
 - id: source
   resource: file:///Users/i.lurie/praxia/_sourcebooks/people/Nathan%20Dayspring.md
   title: 'Original: _sourcebooks/people/Nathan Dayspring.md'
-content_hash: 403cf2957de93d56
+content_hash: 8a4f160be6c1d612
 evidence:
   mentor_of: '''Trained Rikterr... Was the one who made sure Rikterr didn''t have
     to swear allegiance to a deity before taking his oath: "you are way too young

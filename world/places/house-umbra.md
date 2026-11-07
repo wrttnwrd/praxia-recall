@@ -17,12 +17,12 @@ guarded_by:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:43:53Z'
   method: read-and-extract
 sources:
 - id: source
-  resource: file:///Users/i.lurie/praxia/_sourcebooks/aventine/House%20Umbra.md
-  title: 'Original: _sourcebooks/aventine/House Umbra.md'
+  resource: file:///Users/i.lurie/praxia/_sourcebooks/places/aventine/House%20Umbra.md
+  title: 'Original: _sourcebooks/places/aventine/House Umbra.md'
 content_hash: dd1a8a373977bbac
 evidence:
   led_by: '''his good friend, Hexxam, true leader of House Umbra'' (session 005)'

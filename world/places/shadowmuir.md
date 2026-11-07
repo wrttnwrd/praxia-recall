@@ -12,13 +12,13 @@ base_of:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:43:53Z'
   method: read-and-extract
 sources:
 - id: source
-  resource: file:///Users/i.lurie/praxia/_sourcebooks/pois/Shadowmuir.md
-  title: 'Original: _sourcebooks/pois/Shadowmuir.md'
-content_hash: 223f3d1cd9738c12
+  resource: file:///Users/i.lurie/praxia/_sourcebooks/places/pois/Shadowmuir.md
+  title: 'Original: _sourcebooks/places/pois/Shadowmuir.md'
+content_hash: 2e9f215615e9e7f8
 confidence: stated
 ---
 

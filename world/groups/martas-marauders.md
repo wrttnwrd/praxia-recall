@@ -20,13 +20,13 @@ enemy_of:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:43:53Z'
   method: read-and-extract
 sources:
 - id: source
-  resource: file:///Users/i.lurie/praxia/_sourcebooks/aventine/greenslaad/Marta%27s%20Marauders.md
-  title: 'Original: _sourcebooks/aventine/greenslaad/Marta''s Marauders.md'
-content_hash: b74b3ec409389f83
+  resource: file:///Users/i.lurie/praxia/_sourcebooks/places/aventine/greenslaad/Marta%27s%20Marauders.md
+  title: 'Original: _sourcebooks/places/aventine/greenslaad/Marta''s Marauders.md'
+content_hash: c17c60b31cc154ca
 evidence:
   had_member: '''Led by Marta Valtova... the Marauders included: Angus Bloodstone,
     Armak Rockfist, Oriana Valtova, Artemis Hasp'''

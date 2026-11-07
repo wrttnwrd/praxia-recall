@@ -11,12 +11,12 @@ ally_of:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:43:53Z'
   method: read-and-extract
 sources:
 - id: source
-  resource: file:///Users/i.lurie/praxia/_sourcebooks/whitesand-steppes/Fannor.md
-  title: 'Original: _sourcebooks/whitesand-steppes/Fannor.md'
+  resource: file:///Users/i.lurie/praxia/_sourcebooks/places/whitesand-steppes/Fannor.md
+  title: 'Original: _sourcebooks/places/whitesand-steppes/Fannor.md'
 content_hash: e25c0517e55a3c08
 confidence: stated
 ---

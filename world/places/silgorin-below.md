@@ -13,13 +13,13 @@ serves:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:43:53Z'
   method: read-and-extract
 sources:
 - id: source
-  resource: file:///Users/i.lurie/praxia/_sourcebooks/pois/Silgorin%20Below.md
-  title: 'Original: _sourcebooks/pois/Silgorin Below.md'
-content_hash: 9d21bfce52c56a22
+  resource: file:///Users/i.lurie/praxia/_sourcebooks/places/pois/Silgorin%20Below.md
+  title: 'Original: _sourcebooks/places/pois/Silgorin Below.md'
+content_hash: f2f1ff450a7b48a8
 confidence: stated
 ---
 

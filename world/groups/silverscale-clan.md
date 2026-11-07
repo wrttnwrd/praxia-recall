@@ -22,13 +22,13 @@ has_member:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:43:53Z'
   method: read-and-extract
 sources:
 - id: source
-  resource: file:///Users/i.lurie/praxia/_sourcebooks/whitesand-steppes/The%20Silver%20Scale%20Clan.md
-  title: 'Original: _sourcebooks/whitesand-steppes/The Silver Scale Clan.md'
-content_hash: c0c5a5f10f27c36e
+  resource: file:///Users/i.lurie/praxia/_sourcebooks/places/whitesand-steppes/The%20Silver%20Scale%20Clan.md
+  title: 'Original: _sourcebooks/places/whitesand-steppes/The Silver Scale Clan.md'
+content_hash: c696096983610541
 evidence:
   has_member: '''Notables: Wyvern Rider Fannor and his steed, T''Cheh''; ''Neomak
     is one of three were creatures in the Silverscale Clan.'''

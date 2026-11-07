@@ -14,13 +14,13 @@ contains:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:43:53Z'
   method: read-and-extract
 sources:
 - id: source
-  resource: file:///Users/i.lurie/praxia/_sourcebooks/Underdark/The%20Whispering%20Abyss.md
-  title: 'Original: _sourcebooks/Underdark/The Whispering Abyss.md'
-content_hash: 6587dd2a1bcbc58c
+  resource: file:///Users/i.lurie/praxia/_sourcebooks/places/Underdark/The%20Whispering%20Abyss.md
+  title: 'Original: _sourcebooks/places/Underdark/The Whispering Abyss.md'
+content_hash: fa8f544123983383
 confidence: stated
 ---
 

@@ -25,12 +25,12 @@ site_of:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:43:53Z'
   method: read-and-extract
 sources:
 - id: source
-  resource: file:///Users/i.lurie/praxia/_sourcebooks/Shamharan/Porth%20Mor.md
-  title: 'Original: _sourcebooks/Shamharan/Porth Mor.md'
+  resource: file:///Users/i.lurie/praxia/_sourcebooks/places/Shamharan/Porth%20Mor.md
+  title: 'Original: _sourcebooks/places/Shamharan/Porth Mor.md'
 content_hash: 2fe040b053ada3a0
 evidence:
   site_of: The Arcane seal was 'located near Porthmoor' and Agrona cracked it 'outside

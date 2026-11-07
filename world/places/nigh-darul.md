@@ -16,13 +16,13 @@ ally_of:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:43:53Z'
   method: read-and-extract
 sources:
 - id: source
-  resource: file:///Users/i.lurie/praxia/_sourcebooks/pois/Nigh%20Darul.md
-  title: 'Original: _sourcebooks/pois/Nigh Darul.md'
-content_hash: 3966e7023e312149
+  resource: file:///Users/i.lurie/praxia/_sourcebooks/places/pois/Nigh%20Darul.md
+  title: 'Original: _sourcebooks/places/pois/Nigh Darul.md'
+content_hash: 8ff8432b3f2f54ff
 confidence: stated
 ---
 

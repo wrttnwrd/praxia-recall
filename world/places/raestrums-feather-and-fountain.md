@@ -8,13 +8,13 @@ located_in:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:43:53Z'
   method: read-and-extract
 sources:
 - id: source
-  resource: file:///Users/i.lurie/praxia/_sourcebooks/aventine/raestrums-feather-and-fountain.md
-  title: 'Original: _sourcebooks/aventine/raestrums-feather-and-fountain.md'
-content_hash: dd871e556213a5f9
+  resource: file:///Users/i.lurie/praxia/_sourcebooks/places/aventine/raestrums-feather-and-fountain.md
+  title: 'Original: _sourcebooks/places/aventine/raestrums-feather-and-fountain.md'
+content_hash: 42e5849faaa84f86
 evidence:
   located_in: 'Listed among Aventine''s `landmarks:` in the city sourcebook. Author:
     ''a location in Aventine, not lore''.'

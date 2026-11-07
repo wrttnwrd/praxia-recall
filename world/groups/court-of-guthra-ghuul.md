@@ -16,13 +16,13 @@ guards:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:43:53Z'
   method: read-and-extract
 sources:
 - id: source
-  resource: file:///Users/i.lurie/praxia/_sourcebooks/aventine/Court%20Of%20Guthra%20Ghuul.md
-  title: 'Original: _sourcebooks/aventine/Court Of Guthra Ghuul.md'
-content_hash: 85c90ebde6058cd9
+  resource: file:///Users/i.lurie/praxia/_sourcebooks/places/aventine/Court%20Of%20Guthra%20Ghuul.md
+  title: 'Original: _sourcebooks/places/aventine/Court Of Guthra Ghuul.md'
+content_hash: 4dc3d6d60048efe0
 evidence:
   guards: '''He now intends to use the warrens to protect House Umbra, the Temple
     of Helm, and other key locations in the city.'''

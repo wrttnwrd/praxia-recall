@@ -19,6 +19,7 @@
 * [Flayed Workshop](flayed-workshop.md) - This is the largest workshop on the upper level. When the Crypt was locked, the maddened workers set upon each other. Now, they're dwarven wights, working for [Ammsu](htt…
 * [Game notes](game-notes.md) - Start Location: The Chambers Of The Inner Circle
 * [Getting To Avernus](getting-to-avernus.md) - The most obvious solutions would be:
+* [Hunted Across Avernus](avernus-hunt.md) - Prep for the chase to Arkhan's Tower: Tiamat's hunting parties — two lone orthon hunters, four abishai tracking teams, one red-abishai strike team sent to capture the party for Tiamat, and the wounded Urush Gûl at half hit points — with detection thresholds for each, a d12 Avernus weather table (fire wind, blood rain, ichor rain, heat, bone storm, earthquake, eruptions of blood, lava and ichor), and a point-crawl map. The teams converge, talk within half a mile, and are smart.
 * [Menkarr](menkarr.md) - Menkarr's office lies just off the first hallway on first floor work areas.
 * [Post-Amenopophis Downtime](post-amenopophis-downtime.md) - 1. Go visit Erzohd Baendi
 * [Post-Thargorax](post-thargorax.md) - Drak realizes the danger of the world finding out about the stone. He doesn't want to hide them but wants to make sure the people of Nova Zuros control their destinies.
@@ -32,8 +33,9 @@
 * [The Chamber Of Amenopophis](the-chamber-of-amenopophis.md) - This chamber is the focal point of all of the energy harvested by the Crypt. Thousands of souls have been ground into mortar to reconstruct the Flayed God.
 * [The Chambers Of The Inner Circle](the-chambers-of-the-inner-circle.md) - Four of Amenopophis's most trusted.
 * [The City Of The Dead](the-city-of-the-dead.md) - The "city" is a giant cave filled with crypts, graves, and the tools and equipment necessary to harvest flesh and souls for the Flayed God.
+* [The Closing Act](the-closing-act.md) - GM plan for the end of the Fivefold Brand arc: Tiamat, furious at losing the Brand and her best chance to escape the Nine Hells, bends everything toward destroying RBG while pressing her servants toward a darker ritual against the Chains of Gleynir; Arkhan and Krull work to master the Hand and Eye of Vecna in Arkhan's Tower, a dungeon crawl of traps and undead that is the only way into Tiamat's chamber short of flying in, and that leads to the final confrontation — once the party survives the Avernus Hunt.
 * [The Curse Of The Flayed God](the-curse-of-the-flayed-god.md) - **Curse Of The Flayed God**. The cursed target can't regain hit points, and its hit point maximum decreases by 10 (3d6) for every 24 hours that elapse. As the curse progr…
-* [The Five Fold Brand: Notes](the-five-fold-brand-notes.md) - Scarab Of Shelter
+* [The Five Fold Brand: Notes](the-five-fold-brand-notes.md) - Players will find scraps of the map to make up for the fact that they've lost their guide.
 * [The Letter For Sango](the-letter-for-sango.md) - Three missing members:
 * [The Lift And Stairs To Level 3](the-lift-and-stairs-to-level-3.md) - To access level 3 The City Of The Dead, the party has to either take the lift or the stairs in the Flayed Workshop.
 * [The Passage](the-passage.md) - Of the Inner Circle, only Ellechar ever visited the Chamber of Amenopophis.

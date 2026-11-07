@@ -9,13 +9,13 @@ about:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:35:14Z'
   method: read-and-extract
 sources:
 - id: source
   resource: file:///Users/i.lurie/praxia/_stories/RBG/_Reread%20Every%20Time.md
   title: 'Original: _stories/RBG/_Reread Every Time.md'
-content_hash: de586d8918d7c623
+content_hash: e564fc50c8a383dc
 confidence: stated
 ---
 

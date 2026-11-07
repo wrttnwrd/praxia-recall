@@ -21,13 +21,13 @@ member_of:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:35:14Z'
   method: read-and-extract
 sources:
 - id: source
   resource: file:///Users/i.lurie/praxia/_sourcebooks/people/Saroya%20Demiarma.md
   title: 'Original: _sourcebooks/people/Saroya Demiarma.md'
-content_hash: 4376d35c89780337
+content_hash: db8e58f9fbabcef9
 evidence:
   leads: '''She is the Chancellor of Salmuir and acts as the liaison between the Haddad
     Combine and the rest of Silidria, wields immense power.'''

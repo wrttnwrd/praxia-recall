@@ -13,12 +13,12 @@ enemy_of:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:43:53Z'
   method: read-and-extract
 sources:
 - id: source
-  resource: file:///Users/i.lurie/praxia/_sourcebooks/aventine/people/Iric.md
-  title: 'Original: _sourcebooks/aventine/people/Iric.md'
+  resource: file:///Users/i.lurie/praxia/_sourcebooks/places/aventine/people/Iric.md
+  title: 'Original: _sourcebooks/places/aventine/people/Iric.md'
 content_hash: 8803cc1ed8c9c3ca
 evidence:
   ally_of: '''They met w/ Iric, who used powerful scrying magic to locate Elidan.''

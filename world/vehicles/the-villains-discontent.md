@@ -21,12 +21,12 @@ ally_of:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:43:53Z'
   method: read-and-extract
 sources:
 - id: source
-  resource: file:///Users/i.lurie/praxia/_sourcebooks/aventine/The%20Villain%27s%20Discontent/The%20Villain%27s%20Discontent.md
-  title: 'Original: _sourcebooks/aventine/The Villain''s Discontent/The Villain''s
+  resource: file:///Users/i.lurie/praxia/_sourcebooks/places/aventine/The%20Villain%27s%20Discontent/The%20Villain%27s%20Discontent.md
+  title: 'Original: _sourcebooks/places/aventine/The Villain''s Discontent/The Villain''s
     Discontent.md'
 content_hash: 0f7e3e148054c894
 evidence:

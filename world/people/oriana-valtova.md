@@ -24,13 +24,13 @@ ally_of:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:43:53Z'
   method: read-and-extract
 sources:
 - id: source
-  resource: file:///Users/i.lurie/praxia/_sourcebooks/aventine/people/Oriana%20Valtova.md
-  title: 'Original: _sourcebooks/aventine/people/Oriana Valtova.md'
-content_hash: 06826cdcfc603122
+  resource: file:///Users/i.lurie/praxia/_sourcebooks/places/aventine/people/Oriana%20Valtova.md
+  title: 'Original: _sourcebooks/places/aventine/people/Oriana Valtova.md'
+content_hash: f847f9890f8f95de
 evidence:
   captains: '''Oriana Tiefling captain of the Marta''s Fury (aka The Kestrel).'''
   family_of: '''Marta Valtova''s adopted daughter, protege of Grimshaw Shadowplank.'''

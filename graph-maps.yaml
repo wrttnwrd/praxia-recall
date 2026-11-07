@@ -3,6 +3,17 @@
 # hold markdown only, so `resource` points at the untouched original and
 # `thumbnail` at a 1200px copy in assets/.
 concepts:
+- id: map-avernus-hunt-point-crawl
+  kind: maps
+  type: map
+  title: 'Map: Avernus Hunt point crawl'
+  description: 'Map: Avernus Hunt point crawl — 0.6 MB original in the source vault.'
+  resource: file:///Users/i.lurie/praxia/_sourcebooks/attachments/Pasted%20image%2020260918141425.png
+  thumbnail: /assets/maps/map-avernus-hunt-point-crawl.jpg
+  confidence: stated
+  relations:
+    depicts:
+    - avernus-hunt
 - id: map-ironstead
   kind: maps
   type: map

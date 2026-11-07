@@ -20,13 +20,13 @@ seeks:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:35:14Z'
   method: read-and-extract
 sources:
 - id: source
   resource: file:///Users/i.lurie/praxia/_sourcebooks/organizations/The%20Obsidian%20Wing.md
   title: 'Original: _sourcebooks/organizations/The Obsidian Wing.md'
-content_hash: 52c8c82928b53cd0
+content_hash: 7a8e2cc6573cc9d3
 evidence:
   led_by: '''The head of The Obsidian Wing is a vampire named Kozani Noctis who is
     the mirror to Saroya Demiarma. She took power 0 FR'''

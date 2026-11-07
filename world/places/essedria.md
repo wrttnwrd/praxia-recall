@@ -14,20 +14,20 @@ contains:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:43:53Z'
   method: read-and-extract
 sources:
 - id: source
-  resource: file:///Users/i.lurie/praxia/_sourcebooks/aventine/Essedria.md
-  title: 'Original: _sourcebooks/aventine/Essedria.md'
+  resource: file:///Users/i.lurie/praxia/_sourcebooks/places/Essedria.md
+  title: 'Original: _sourcebooks/places/Essedria.md'
+content_hash: 01a767377c6f2cfc
 evidence:
   located_in: '''a graveyard of blackened trees... flung hundreds of miles in the
     ejecta of Amoth''s impact'' (session 020)'
 confidence: stated
 ---
 
-*No prose in the source; this concept was written from references elsewhere.*
-
+Rivers: Helgoril - primary river bisecting the Eastern portion of the continent. Remarkable because it now flows backwards, from the ocean inland, because of the Fall.
 
 ## Related
 **Located in:** [Praxia](../places/praxia.md)

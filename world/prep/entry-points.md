@@ -9,13 +9,13 @@ part_of:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:35:14Z'
   method: read-and-extract
 sources:
 - id: source
   resource: file:///Users/i.lurie/praxia/_stories/RBG/Tharogax/Entry%20Points.md
   title: 'Original: _stories/RBG/Tharogax/Entry Points.md'
-content_hash: dc9b0f1b1ee91b91
+content_hash: 0cc863ee927ee136
 confidence: unknown
 ---
 

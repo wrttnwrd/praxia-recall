@@ -9,13 +9,13 @@ located_in:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:43:53Z'
   method: read-and-extract
 sources:
 - id: source
-  resource: file:///Users/i.lurie/praxia/_sourcebooks/pois/The%20Undercity.md
-  title: 'Original: _sourcebooks/pois/The Undercity.md'
-content_hash: a1e5b6813f28564a
+  resource: file:///Users/i.lurie/praxia/_sourcebooks/places/pois/The%20Undercity.md
+  title: 'Original: _sourcebooks/places/pois/The Undercity.md'
+content_hash: 3d9768daf2f6c219
 confidence: stated
 ---
 

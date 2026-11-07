@@ -762,3 +762,9 @@ concepts:
 - id: 061-09-07-2026-rbg
   praxian_date: 6 The Rotting 07 FR
   praxian_date_basis: occurred
+- id: the-wandering-emporium
+  praxian_date: 6 The Rotting 07 FR
+  praxian_date_basis: first_seen
+- id: 062-10-05-2026-rbg
+  praxian_date: 8 The Rotting 07 FR
+  praxian_date_basis: occurred

@@ -3,6 +3,8 @@ type: poi
 title: The Wandering Emporium
 description: A travelling emporium in Avernus run by Ardmon Ignus Lacqui, who took
   it over after Notorious RBG destroyed him and shut down TEMU.
+praxian_date: 6 The Rotting 07 FR
+praxian_date_basis: first_seen
 located_in:
 - Avernus
 owned_by:
@@ -10,12 +12,12 @@ owned_by:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:43:53Z'
   method: read-and-extract
 sources:
 - id: source
-  resource: file:///Users/i.lurie/praxia/_sourcebooks/pois/The%20Wandering%20Emporium.md
-  title: 'Original: _sourcebooks/pois/The Wandering Emporium.md'
+  resource: file:///Users/i.lurie/praxia/_sourcebooks/places/pois/The%20Wandering%20Emporium.md
+  title: 'Original: _sourcebooks/places/pois/The Wandering Emporium.md'
 content_hash: e7c64eb14fcbfd05
 evidence:
   located_in: '''A traveling emporium in Avernus, run by Ardmon Ignus Lacqui.'''

@@ -19,12 +19,12 @@ located_in:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:43:53Z'
   method: read-and-extract
 sources:
 - id: source
-  resource: file:///Users/i.lurie/praxia/_sourcebooks/aventine/people/Valana.md
-  title: 'Original: _sourcebooks/aventine/people/Valana.md'
+  resource: file:///Users/i.lurie/praxia/_sourcebooks/places/aventine/people/Valana.md
+  title: 'Original: _sourcebooks/places/aventine/people/Valana.md'
 content_hash: 4e979f460e2db94c
 evidence:
   leads: '''Lead cleric of the Temple of Helm'''

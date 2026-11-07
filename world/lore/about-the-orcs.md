@@ -7,12 +7,12 @@ description: The orcs are NOT BRUTES. They had complex cities and culture that w
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:43:53Z'
   method: read-and-extract
 sources:
 - id: source
-  resource: file:///Users/i.lurie/praxia/_sourcebooks/about-the-orcs.md
-  title: 'Original: _sourcebooks/about-the-orcs.md'
+  resource: file:///Users/i.lurie/praxia/_sourcebooks/creatures/about-the-orcs.md
+  title: 'Original: _sourcebooks/creatures/about-the-orcs.md'
 content_hash: 923ec85024511a2f
 confidence: unknown
 ---

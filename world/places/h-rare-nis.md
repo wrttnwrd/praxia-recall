@@ -17,12 +17,12 @@ contains:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:43:53Z'
   method: read-and-extract
 sources:
 - id: source
-  resource: file:///Users/i.lurie/praxia/_sourcebooks/hrarenis/H%27Rare%20Nis.md
-  title: 'Original: _sourcebooks/hrarenis/H''Rare Nis.md'
+  resource: file:///Users/i.lurie/praxia/_sourcebooks/places/hrarenis/H%27Rare%20Nis.md
+  title: 'Original: _sourcebooks/places/hrarenis/H''Rare Nis.md'
 content_hash: 6c0e65f1c5e57ce1
 evidence:
   enemy_of: 'Aventine''s frontmatter lists `enemies: [Tiamat, Hrare Nis]`.'

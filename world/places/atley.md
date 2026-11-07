@@ -16,13 +16,13 @@ ruled_by:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:43:53Z'
   method: read-and-extract
 sources:
 - id: source
-  resource: file:///Users/i.lurie/praxia/_sourcebooks/pois/Atley.md
-  title: 'Original: _sourcebooks/pois/Atley.md'
-content_hash: 549f96a0cd589cee
+  resource: file:///Users/i.lurie/praxia/_sourcebooks/places/pois/Atley.md
+  title: 'Original: _sourcebooks/places/pois/Atley.md'
+content_hash: dd2a8d05118f8a4b
 evidence:
   located_in: '''Small community on Nova Zuros.'''
   ruled_by: '''From here, Elgonna Hand (another bugbear) manages the affairs of the

@@ -20,13 +20,13 @@ serves:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:35:14Z'
   method: read-and-extract
 sources:
 - id: source
   resource: file:///Users/i.lurie/praxia/_sourcebooks/organizations/The%20Haddad%20Combine.md
   title: 'Original: _sourcebooks/organizations/The Haddad Combine.md'
-content_hash: 0c4cfb1cd3c13be5
+content_hash: 1807a843546c4a7f
 evidence:
   serves: '''Turns out the Haddad Combine is a group of 8 Raven Queen followers (Shadar
     Kai). They quietly replaced the grey elves and seek to loosen the hold of the

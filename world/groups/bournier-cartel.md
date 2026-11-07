@@ -23,13 +23,13 @@ owns:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:35:14Z'
   method: read-and-extract
 sources:
 - id: source
   resource: file:///Users/i.lurie/praxia/_sourcebooks/organizations/Bournier%20Cartel/Bournier%20Cartel.md
   title: 'Original: _sourcebooks/organizations/Bournier Cartel/Bournier Cartel.md'
-content_hash: 763e0087b3efa2b5
+content_hash: cf193b5c6322a783
 evidence:
   has_member: '''Conversation with Sandren and Whipping Sound at Uppercuts''; ''The
     Bourniers have in their possession three soul coins'''

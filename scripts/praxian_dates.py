@@ -71,7 +71,14 @@ def fm_of(rel):
     if not p.exists():
         return {}
     m = re.match(r"\A---\n(.*?)\n---\n", p.read_text(errors="replace"), re.S)
-    fm = (yaml.safe_load(m.group(1)) or {}) if m else {}
+    if not m:
+        return {}
+    try:
+        fm = yaml.safe_load(m.group(1)) or {}
+    except yaml.YAMLError:
+        # Templates and half-written notes carry frontmatter that is not YAML
+        # (e.g. `name: {{title}}`). Treat them as having no frontmatter.
+        return {}
     return fm if isinstance(fm, dict) else {}
 
 def body_of(rel):

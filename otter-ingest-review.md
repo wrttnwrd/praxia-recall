@@ -8,7 +8,7 @@ generated: { by: recall/claude-fable-5-1, at: 2026-09-08T13:11:07-07:00 }
 
 # Otter ingest review
 
-39 recordings from Otter were ingested on 2026-09-08 as `transcript` concepts under `items/otter/`, with verbatim text under `raw/otter/`. Cards were drafted from Otter's machine summaries, play content only; the transcripts were saved but not read in full, so every card is `status: draft`, `confidence: inferred`. Nothing is marked verified.
+39 recordings from Otter were ingested on 2026-09-08 as `transcript` concepts, and two more (21 Sep and 5 Oct 2026) on 2026-11-07, under `items/otter/`, with verbatim text under `raw/otter/`. Cards were drafted from Otter's machine summaries, play content only; the transcripts were saved but not read in full, so every card is `status: draft`, `confidence: inferred`. Nothing is marked verified.
 
 ## How matching worked
 
@@ -57,6 +57,8 @@ A recording is linked (`about:`) to the session concept whose ID carries the sam
 | [2026-07-13-rbg](/items/otter/2026-07/2026-07-13-rbg.md) | 3h | exact | [059-07-13-2026-rbg](/world/sessions/059-07-13-2026-rbg.md) |
 | [2026-08-17-rbg](/items/otter/2026-08/2026-08-17-rbg.md) | 2h 55m | exact | [060-08-17-2026-rbg](/world/sessions/060-08-17-2026-rbg.md) |
 | [2026-09-07-rbg](/items/otter/2026-09/2026-09-07-rbg.md) | 3h 4m | exact | [061-09-07-2026-rbg](/world/sessions/061-09-07-2026-rbg.md) |
+| [2026-09-21-rbg](/items/otter/2026-09/2026-09-21-rbg.md) | 2h 23m | none | — |
+| [2026-10-05-rbg](/items/otter/2026-10/2026-10-05-rbg.md) | 2h 59m | exact | [062-10-05-2026-rbg](/world/sessions/062-10-05-2026-rbg.md) |
 
 ## No session concept on the recording's date
 
@@ -70,6 +72,7 @@ These sessions were played and recorded but have no note in the vault. Writing t
 - 2026-02-11 (1h 2m): [2026-02-11-rbg](/items/otter/2026-02/2026-02-11-rbg.md) — Solo interlude for Drak: captive in Urush Gûl's crater, the dragon's terms, and release under scrying.
 - 2026-04-13 (3h 2m): [2026-04-13-rbg](/items/otter/2026-04/2026-04-13-rbg.md) — Robbing the necromancer Obaris: bone hands, a brain in a jar, a six-second kill, and a library of loot.
 - 2026-06-08 (2h 54m): [2026-06-08-rbg](/items/otter/2026-06/2026-06-08-rbg.md) — A skull-eyed tree and its blights, a soul contract naming Vanity Luck, a standoff with Anthraxis, and the party takes roles to move civilians through the fighting.
+- 2026-09-21 (2h 23m): [2026-09-21-rbg](/items/otter/2026-09/2026-09-21-rbg.md) — Bitter guides the party out of Bel's forge; orthon sniper killed, Urush Gûl decoyed, the Wandering Emporium sighted, Bitter killed by a bone storm, abishai dive in. The 028 note's 'Recap (9/21)' section describes this night.
 
 ## Judgment calls
 
@@ -80,3 +83,5 @@ These sessions were played and recorded but have no note in the vault. Writing t
 - Two nights (2024-08-05, 2024-09-16) were recorded in two parts; each part is its own concept, both linked to the same session.
 - 2026-02-11 is a one-player interlude (Drak captive) rather than a full session.
 - 2026-07-13: the recording also contains a real-world discussion about a player leaving the group. Excluded from the card by rule; it is in the raw transcript.
+- 2026-09-21: no note of its own, but the 7 Sep note carries a 'Recap (9/21)' section. Left unlinked by the date rule; the card's Related block points at that recap. Only two Otter speaker labels were names on this recording; the rest were 'Speaker N' and are not listed as participants.
+- 2026-10-05: a hand-pasted Otter export of the same recording had been committed to `raw/otter/2026-10/` earlier on 2026-11-07 in Otter's web format. It was replaced with the MCP transcript in the bundle's timestamped format so every raw file reads the same; the previous version is in git history.

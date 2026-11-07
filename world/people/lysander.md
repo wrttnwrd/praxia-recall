@@ -16,13 +16,13 @@ ally_of:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:43:53Z'
   method: read-and-extract
 sources:
 - id: source
-  resource: file:///Users/i.lurie/praxia/_sourcebooks/aventine/people/Lysander.md
-  title: 'Original: _sourcebooks/aventine/people/Lysander.md'
-content_hash: a342e6f0a7bae415
+  resource: file:///Users/i.lurie/praxia/_sourcebooks/places/aventine/people/Lysander.md
+  title: 'Original: _sourcebooks/places/aventine/people/Lysander.md'
+content_hash: 85beb08f1020d8eb
 evidence:
   captains: '''Aarococra captain of The Villain''s Discontent.''; Crew.md: ''# Captain
     / Lysander Stormchaser / Aaracokra / Cocky as hell'''

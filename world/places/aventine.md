@@ -33,13 +33,13 @@ enemy_of:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:43:53Z'
   method: read-and-extract
 sources:
 - id: source
-  resource: file:///Users/i.lurie/praxia/_sourcebooks/aventine/Aventine.md
-  title: 'Original: _sourcebooks/aventine/Aventine.md'
-content_hash: 279255bca706943b
+  resource: file:///Users/i.lurie/praxia/_sourcebooks/places/aventine/Aventine.md
+  title: 'Original: _sourcebooks/places/aventine/Aventine.md'
+content_hash: 7c86f04d335e02a6
 evidence:
   founded_by: 'Author: ''Aventine was founded in -400 FR.'' The sourcebook frontmatter
     (`established: -400 fr`) is correct; the body''s ''-300 FR'' is an error. RESOLVED.'

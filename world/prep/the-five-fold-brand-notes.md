@@ -1,21 +1,26 @@
 ---
 type: adventure-note
 title: 'The Five Fold Brand: Notes'
-description: Scarab Of Shelter
+description: Players will find scraps of the map to make up for the fact that they've
+  lost their guide.
 part_of:
 - The Fivefold Brand (arc)
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:35:14Z'
   method: read-and-extract
 sources:
 - id: source
   resource: file:///Users/i.lurie/praxia/_stories/RBG/The%20Five%20Fold%20Brand/Notes.md
   title: 'Original: _stories/RBG/The Five Fold Brand/Notes.md'
-content_hash: 6aa07cfbb9997b75
+content_hash: 48663ab886325759
 confidence: unknown
 ---
+
+## 10/02/2026
+
+Players will find scraps of the map to make up for the fact that they've lost their guide.
 
 ## 1/05/2026
 

@@ -12,13 +12,14 @@ guarded_by:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:43:53Z'
   method: read-and-extract
 sources:
 - id: source
-  resource: file:///Users/i.lurie/praxia/_sourcebooks/Shamharan/The%20Blighted%20Haunts/The%20Blighted%20Haunts.md
-  title: 'Original: _sourcebooks/Shamharan/The Blighted Haunts/The Blighted Haunts.md'
-content_hash: 74851f9d2a2a4196
+  resource: file:///Users/i.lurie/praxia/_sourcebooks/places/Shamharan/The%20Blighted%20Haunts/The%20Blighted%20Haunts.md
+  title: 'Original: _sourcebooks/places/Shamharan/The Blighted Haunts/The Blighted
+    Haunts.md'
+content_hash: 8a2d2144cd459f40
 evidence:
   guarded_by: '''The Haunts are under the effects of The Blight Of Amenopophis, or
     The Blight. These are regional effects created by Amenopophis''s long residence

@@ -10,12 +10,12 @@ ally_of:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:43:53Z'
   method: read-and-extract
 sources:
 - id: source
-  resource: file:///Users/i.lurie/praxia/_sourcebooks/Oars-Rest/oars-rest.md
-  title: 'Original: _sourcebooks/Oars-Rest/oars-rest.md'
+  resource: file:///Users/i.lurie/praxia/_sourcebooks/places/Oars-Rest/oars-rest.md
+  title: 'Original: _sourcebooks/places/Oars-Rest/oars-rest.md'
 content_hash: 09654f96aace488f
 evidence:
   ally_of: 'Aventine''s frontmatter lists `allies: [... Oar''s Rest]`; ''Blong owns

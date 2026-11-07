@@ -14,13 +14,13 @@ enemy_of:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:35:14Z'
   method: read-and-extract
 sources:
 - id: source
   resource: file:///Users/i.lurie/praxia/_sourcebooks/organizations/The%20Mireborn.md
   title: 'Original: _sourcebooks/organizations/The Mireborn.md'
-content_hash: 4272761e8fba6362
+content_hash: 3e1b77b1b213bfad
 evidence:
   led_by: '''Their fortunes turned when an unusually intelligent fomorian - Raban
     - entered a pact with the Unseelie Court. Given warlock-like psionic powers, Raban

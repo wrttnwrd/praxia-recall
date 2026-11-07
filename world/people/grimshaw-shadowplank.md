@@ -11,13 +11,13 @@ mentor_of:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:43:53Z'
   method: read-and-extract
 sources:
 - id: source
-  resource: file:///Users/i.lurie/praxia/_sourcebooks/aventine/people/grimshaw%20shadowplank.md
-  title: 'Original: _sourcebooks/aventine/people/grimshaw shadowplank.md'
-content_hash: ac3f6e25e7ad79a9
+  resource: file:///Users/i.lurie/praxia/_sourcebooks/places/aventine/people/grimshaw%20shadowplank.md
+  title: 'Original: _sourcebooks/places/aventine/people/grimshaw shadowplank.md'
+content_hash: c49e17c19d8ecf66
 evidence:
   captains: The source file is a single Dataview inline field naming the Wave Serpent
     as what he captains, corroborated by 'Grimshaw Shadowplank - Captain. Foul-mouthed,

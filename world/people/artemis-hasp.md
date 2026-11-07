@@ -21,13 +21,13 @@ rival_of:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:43:53Z'
   method: read-and-extract
 sources:
 - id: source
-  resource: file:///Users/i.lurie/praxia/_sourcebooks/aventine/people/Artemis%20Hasp.md
-  title: 'Original: _sourcebooks/aventine/people/Artemis Hasp.md'
-content_hash: e559ca22d5226d6e
+  resource: file:///Users/i.lurie/praxia/_sourcebooks/places/aventine/people/Artemis%20Hasp.md
+  title: 'Original: _sourcebooks/places/aventine/people/Artemis Hasp.md'
+content_hash: 23c7185a36f10469
 evidence:
   owns: '''he''s the owner of The Mekanikum'''
   member_of: 'House Drace ''Famous members: Artemis Hasp'' (Aventine sourcebook)'

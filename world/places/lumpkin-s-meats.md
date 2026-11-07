@@ -15,12 +15,12 @@ owns:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:43:53Z'
   method: read-and-extract
 sources:
 - id: source
-  resource: file:///Users/i.lurie/praxia/_sourcebooks/aventine/Lumpkin%27s%20Meats.md
-  title: 'Original: _sourcebooks/aventine/Lumpkin''s Meats.md'
+  resource: file:///Users/i.lurie/praxia/_sourcebooks/places/aventine/Lumpkin%27s%20Meats.md
+  title: 'Original: _sourcebooks/places/aventine/Lumpkin''s Meats.md'
 content_hash: 3efce00c74fab0d3
 evidence:
   owned_by: '''His family has run the old butcher shop for generations.'' Named as

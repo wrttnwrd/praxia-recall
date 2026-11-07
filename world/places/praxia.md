@@ -11,13 +11,13 @@ contains:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:43:53Z'
   method: read-and-extract
 sources:
 - id: source
-  resource: file:///Users/i.lurie/praxia/_sourcebooks/praxia.md
-  title: 'Original: _sourcebooks/praxia.md'
-content_hash: 173a6672fdbbb724
+  resource: file:///Users/i.lurie/praxia/_sourcebooks/places/praxia.md
+  title: 'Original: _sourcebooks/places/praxia.md'
+content_hash: 61dba580732a3e2d
 confidence: stated
 ---
 
@@ -47,7 +47,11 @@ Weeks are 7 days long. Months are 4 weeks. There are 10 months.
 !Pasted image 20221016173923.png
 
 
+### Moons
+Two moons:
 
+Midra: The Mother. The size of Earth's moon, has tidal influence
+Septra: The child. A small asteroid trapped in orbit
 
 
 

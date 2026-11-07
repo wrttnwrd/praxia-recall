@@ -15,13 +15,13 @@ ally_of:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:35:14Z'
   method: read-and-extract
 sources:
 - id: source
   resource: file:///Users/i.lurie/praxia/_stories/RBG/Urdun/The%20Blood%20Corsairs.md
   title: 'Original: _stories/RBG/Urdun/The Blood Corsairs.md'
-content_hash: 379004072b706f5d
+content_hash: bd74cf1c4c2efac0
 confidence: stated
 ---
 

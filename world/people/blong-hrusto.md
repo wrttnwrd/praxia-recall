@@ -19,13 +19,13 @@ ally_of:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:43:53Z'
   method: read-and-extract
 sources:
 - id: source
-  resource: file:///Users/i.lurie/praxia/_sourcebooks/aventine/people/Blong%20Hrusto.md
-  title: 'Original: _sourcebooks/aventine/people/Blong Hrusto.md'
-content_hash: c60d8b8962934c48
+  resource: file:///Users/i.lurie/praxia/_sourcebooks/places/aventine/people/Blong%20Hrusto.md
+  title: 'Original: _sourcebooks/places/aventine/people/Blong Hrusto.md'
+content_hash: 31072cd81bf4397b
 evidence:
   works_at: '''Blong Hrusto is the Giff manager and bartender of the Green Slaad'';
     ''Blong has recently become the manager of Notorious RBG''s bar at Wyldwood.'''

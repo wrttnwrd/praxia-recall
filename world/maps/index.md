@@ -4,6 +4,7 @@
 * [Map: Aventine](map-aventine.md) - Map: Aventine — 2.5 MB original in the source vault.
 * [Map: Aventine (aventine)](map-aventine-aventine.md) - Map: Aventine (aventine) — 3.3 MB original in the source vault.
 * [Map: Avernus](map-avernus.md) - Map: Avernus — 5.2 MB original in the source vault.
+* [Map: Avernus Hunt point crawl](map-avernus-hunt-point-crawl.md) - Map: Avernus Hunt point crawl — 0.6 MB original in the source vault.
 * [Map: Bournier observatory](map-bournier-observatory.md) - Map: Bournier observatory — 7.0 MB original in the source vault.
 * [Map: Bridge](map-bridge.md) - Map: Bridge — 0.8 MB original in the source vault.
 * [Map: Cauldron](map-cauldron.md) - Map: Cauldron — 13.2 MB original in the source vault.

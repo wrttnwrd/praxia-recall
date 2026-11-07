@@ -16,13 +16,13 @@ about:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:35:14Z'
   method: read-and-extract
 sources:
 - id: source
   resource: file:///Users/i.lurie/praxia/_sourcebooks/arcana/The%20Tome%20Of%20The%20First%20Gods.md
   title: 'Original: _sourcebooks/arcana/The Tome Of The First Gods.md'
-content_hash: cb92ccbb6618a4cd
+content_hash: de17603abf76e5d7
 evidence:
   held_by: '''You left the Tome with Hexxam at House Umbra.'' (session 018)'
 confidence: stated

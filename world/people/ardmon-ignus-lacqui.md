@@ -13,13 +13,13 @@ located_in:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:43:53Z'
   method: read-and-extract
 evidence:
-  located_in: INFERRED from 'A traveling emporium in Avernus, run by Ardmon Ignus
-    Lacqui.' His earlier recorded location is the Elemental Plane of Fire; both are
-    kept.
-confidence: inferred
+  located_in: 'No longer inferred: 028 note, Recap (9/21): ''You saw the Wandering
+    Emporium, led by none other than Ardman Lacqui, the Rakshasa you fought on the
+    Plane of Fire'' — seen on the surface of Avernus.'
+confidence: stated
 ---
 
 *No prose in the source; this concept was written from references elsewhere.*

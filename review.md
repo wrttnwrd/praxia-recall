@@ -7,18 +7,18 @@ status: draft
 
 # Review
 
-**563 concepts, 1466 relations**, derived by reading 289 source files in `~/praxia`. Source frontmatter was a hint, not an import; every field here came from the text.
+**570 concepts, 1502 relations**, derived by reading 295 source files in `~/praxia`. Source frontmatter was a hint, not an import; every field here came from the text.
 
 `confidence: stated` = asserted in the prose. `inferred` = deduced — check these first.
 
 ## Open items
 
-* **5 inferred** — deduced rather than stated: [Tiamat](world/people/tiamat.md), [Vaxith, the Hand In The Dark](world/people/vaxith.md), [Ardmon Ignus Lacqui](world/people/ardmon-ignus-lacqui.md), [Cult of Callistra](world/groups/cult-of-callistra.md), [The Absolvers](world/groups/the-absolvers.md)
+* **4 inferred** — deduced rather than stated: [Tiamat](world/people/tiamat.md), [Vaxith, the Hand In The Dark](world/people/vaxith.md), [Cult of Callistra](world/groups/cult-of-callistra.md), [The Absolvers](world/groups/the-absolvers.md)
 * **12 sessions with no recap and no transcript** — no description was written rather than guessing from prep notes: Session 003 · Obsidian Wing · 3 Mar 2025, Session 004 · Obsidian Wing · 17 Mar 2025, Session 006 · Obsidian Wing · 31 Mar 2025, Session 010 · Fivefold Brand · 21 Jul 2025, Session 011 · Thargorax · 30 Oct 2023, Session 013 · Thargorax · 27 Nov 2023, Session 014 · Thargorax · 11 Dec 2023, Session 019 · Thargorax · 19 Feb 2024, Session 022 · Thargorax · 15 Apr 2024, Session 026 · Thargorax · 22 Jul 2024, Session 028 · Thargorax · 19 Aug 2024, Session 030 · Thargorax · 2 Sep 2024
 
 ## Settled
 
-* **439 concepts** are `stated` — asserted in the source text, with the sentence recorded in `evidence` wherever a relation needed defending.
+* **447 concepts** are `stated` — asserted in the source text, with the sentence recorded in `evidence` wherever a relation needed defending.
 * **107 prep and reference files** are carried for coverage with no summary invented for them. Not a gap: the vault text is the content.
 * Duplicate candidates, contradictions and unwritten entities: see [reconciliation.md](reconciliation.md).
 
@@ -27,9 +27,12 @@ status: draft
 
 They appear as plain text and become links the moment someone writes the page.
 
+* Bitterness (2 references)
 * Bel (1 reference)
 * Antipathy (1 reference)
-* Bitterness (1 reference)
+* Yeenoghu (1 reference)
+* Krull (1 reference)
+* Hand Of Vecna (1 reference)
 
 ## Reverse index
 
@@ -424,10 +427,15 @@ A small clan of wolf-worshipping barbarians living outside the Druidfel, led by 
   > 'A small clan of wolf-worshipping barbarians who live outside the Druidfel. They're led by Nora, a 3rd-level human barbarian.'
 * **Located in:** The Druidfel
 
-### lore — 32
+### lore — 34
 
 #### [Corsair Raider Unit](world/lore/corsair-raider-unit.md) · `reference` · unknown
 _Large humanoid war unit (CE)_
+
+#### [Gritch (fiction)](world/lore/gritch-on-the-rooftops.md) · `reference` · stated
+Short fiction: at dawn in the rain, Gritch chases a flamboyantly dressed archer across the slick rooftops of Hull Ward. The vault types it `fiction`, a type this bundle does not have; filed as reference.
+* **About:** Gritch, Hull Ward, Aventine
+  > 'Hull Ward greeted the new day with its usual riot of roosters... Gritch sprinted, boots gripping the slick tile as she lept from one rooftop to the next.'
 
 #### [NPC Directory](world/lore/npc-directory.md) · `reference` · unknown
 TABLE WITHOUT ID file.link AS "Name", alignment, city, organization
@@ -479,6 +487,11 @@ Jazelle's campaign to end traditional magic by reviving the Lor Manádh, and the
 * **About:** Jazelle, The Lor Manádh, The Cult Of Eight, House Umbra
 * **Participants:** Notorious RBG
 
+#### [The Fall (fiction)](world/lore/the-fall-of-silgorin-fiction.md) · `reference` · stated
+Short fiction, not the 0 FR cataclysm: on the basalt quay beneath Silgorin as the chain drags the city toward the Styx, Rikterr refuses to walk past one more battle and attacks the chain devils while Mossy and Sango try to keep the party moving toward Tiamat.
+* **About:** Silgorin, Rikterr, Mossy, Sango, Avernus, The Fall of the Chain
+  > 'The city of Silgorin was doomed. A cold iron chain, each link the size of an elephant, dangled from the city as it floated impossibly in the cindered sky of Avernus... Rikterr roared, hewing down the offender and hacking the arm off another.'
+
 #### [The Fivefold Brand (arc)](world/lore/the-fivefold-brand.md) · `storyline` · stated
 The current arc — Tiamat's curse on RBG, the road to Avernus, and the fall of the chain.
 * **About:** Tiamat, Notorious RBG, The Fivefold Brand (curse)
@@ -521,13 +534,13 @@ Currently moored next to the Kestrel and Wave Serpent. She's ready for the playe
 All travel is slow: 18 miles/day, 2 miles/hour. Travel past 8 hours causes 1 pt of exhaustion.
 
 #### [What is the government's relationship with magic and powerful spellcasters in your world?](world/lore/what-is-the-government-s-relationship-with-magic-and-powerfu.md) · `adventure-note` · unknown
-In your world, is magic regulated by the government? My master created a world in which wizards are highly controlled over which spells can be taught in schools and depen…
+Clipping on how a fantasy government treats magic and powerful spellcasters. The source file (`Clippings/…`) was removed from the vault in the 2 Oct 2026 reorganization; the concept is kept so nothing that points at it breaks, but it has no prose.
 
 #### [about-the-orcs](world/lore/about-the-orcs.md) · `reference` · unknown
 The orcs are NOT BRUTES. They had complex cities and culture that was decimated by the Fall. Most have fled to the western coast. Some remained at Magara, near the Wailin…
 
 #### [claude.md](world/lore/claude-md.md) · `adventure-note` · unknown
-This is a collection of markdown files and other files for a fictional gaming world. They are in an Obsidian valut. Your job here is to help me maintain these files.
+This is a collection of markdown files and other files for a fictional gaming world. They are in an Obsidian vault. Your job here is to help me maintain these files.
 
 #### [dirion: NPCs](world/lore/dirion-npcs.md) · `reference` · unknown
 Alpip Copperpipe: Gnome inventor and tinkerer, next door to the blacksmith’s
@@ -545,7 +558,7 @@ Amara - High druid of the Glade, keeper of the Druidfel
 Half-elf rogue, lawful neutral
 * **Part of:** The Leaning Leg (campaign, 25 BR)
 
-### maps — 69
+### maps — 70
 
 #### [Map: Amenopophis door](world/maps/map-amenopophis-door.md) · `map` · stated
 Map: Amenopophis door — 2.5 MB original in the source vault.
@@ -562,6 +575,10 @@ Map: Aventine (aventine) — 3.3 MB original in the source vault.
 #### [Map: Avernus](world/maps/map-avernus.md) · `map` · stated
 Map: Avernus — 5.2 MB original in the source vault.
 * **Depicts:** Avernus
+
+#### [Map: Avernus Hunt point crawl](world/maps/map-avernus-hunt-point-crawl.md) · `map` · stated
+Map: Avernus Hunt point crawl — 0.6 MB original in the source vault.
+* **Depicts:** Hunted Across Avernus
 
 #### [Map: Bournier observatory](world/maps/map-bournier-observatory.md) · `map` · stated
 Map: Bournier observatory — 7.0 MB original in the source vault.
@@ -878,15 +895,16 @@ A famous member of House Highfury and one of Marta's Marauders; bought The Brimm
 * **Owns:** The Brimming Tankard
   > 'Angus Bloodstone owns The Brimming Tankard' (Marta's Marauders).
 
-#### [Ardmon Ignus Lacqui](world/people/ardmon-ignus-lacqui.md) · `npc` · inferred
+#### [Ardmon Ignus Lacqui](world/people/ardmon-ignus-lacqui.md) · `npc` · stated
 A rakshasa of the Plane of Fire, nearly immune to magic; RBG destroyed his salamanders and drove him off, winning his quarters.
 * **Enemies:** Notorious RBG
 * **Located in:** The Elemental Plane Of Fire, Avernus
-  > INFERRED from 'A traveling emporium in Avernus, run by Ardmon Ignus Lacqui.' His earlier recorded location is the Elemental Plane of Fire; both are kept.
+  > No longer inferred: 028 note, Recap (9/21): 'You saw the Wandering Emporium, led by none other than Ardman Lacqui, the Rakshasa you fought on the Plane of Fire' — seen on the surface of Avernus.
 
 #### [Arkhan The Cruel](world/people/arkhan-the-cruel.md) · `npc` · stated
-Guardian of Tiamat's Lair, bearer of the Hand of Vecna, working to break the Chains of Gleynir.
+Tiamat's champion, holed up in his tower in Avernus trying to use the Hand of Vecna to free her; with Krull he works to master the Hand and install the Eye, but he is too afraid of Vecna taking his soul to wear it. His tower — a maze of passages, traps and undead — is the only way into Tiamat's chamber short of flying in.
 * **Serves:** Tiamat
+  > The Closing Act: 'trying to use the Hand Of Vecna to free Tiamat. This has been a pet project of his for a long time. Now he's the focal point of Tiamat's impatience and frustration.'
 * **Seeks:** The Chains Of Gleynir
 * **Located in:** Tiamat's Lair
 
@@ -1652,7 +1670,7 @@ God to whom the Horns of the Order of Light are pledged; tribute is a severed ha
 * **Served by:** Alphonse Horn, Halcyon Horn
 
 #### [Urush Gûl](world/people/urush-gul.md) · `npc` · stated
-An ancient red dragon sworn to Tiamat, ordered to weaken RBG but not kill them; he gave them the Searing Brand and crippled the Discontent.
+An ancient red dragon sworn to Tiamat; once ordered only to weaken RBG, he gave them the Searing Brand and crippled the Discontent. Tiamat punished him for that boon — acid burns along his flanks and wings, now at half his hit points — and ordered him to hunt the party down and kill them or not return.
 * **Serves:** Tiamat
   > 'Urush has been tasked by Tiamat to do one thing: Weaken the party.' — but 'Urush Gûl prefers having humanoids and others to serve him. If Tiamat wins, his life becomes... boring.'
 * **Enemies:** Notorious RBG
@@ -2264,7 +2282,7 @@ Site of Notorious RBG's bar, now managed by Blong Hrusto.
   > 'Blong has recently become the manager of Notorious RBG's bar at Wyldwood.'
 * **Owned by:** Notorious RBG
 
-### prep — 83
+### prep — 85
 
 #### [01-dinner-with-the-bourniers](world/prep/01-dinner-with-the-bourniers.md) · `adventure-note` · unknown
 Guess who's coming to dinner?
@@ -2342,6 +2360,13 @@ Start Location: The Chambers Of The Inner Circle
 The most obvious solutions would be:
 * **Part of:** The Fivefold Brand (arc)
 
+#### [Hunted Across Avernus](world/prep/avernus-hunt.md) · `adventure-note` · stated
+*Also:* Avernus Hunt
+Prep for the chase to Arkhan's Tower: Tiamat's hunting parties — two lone orthon hunters, four abishai tracking teams, one red-abishai strike team sent to capture the party for Tiamat, and the wounded Urush Gûl at half hit points — with detection thresholds for each, a d12 Avernus weather table (fire wind, blood rain, ichor rain, heat, bone storm, earthquake, eruptions of blood, lava and ichor), and a point-crawl map. The teams converge, talk within half a mile, and are smart.
+* **Part of:** The Fivefold Brand (arc)
+  > frontmatter 'storyline: The Fivefold Brand'.
+* **About:** Tiamat, Avernus, Urush Gûl, Notorious RBG, Arkhan The Cruel
+
 #### [Menkarr](world/prep/menkarr.md) · `adventure-note` · unknown
 Menkarr's office lies just off the first hallway on first floor work areas.
 * **Part of:** The Plague Of The Flayed God
@@ -2392,12 +2417,18 @@ Four of Amenopophis's most trusted.
 The "city" is a giant cave filled with crypts, graves, and the tools and equipment necessary to harvest flesh and souls for the Flayed God.
 * **Part of:** The Plague Of The Flayed God
 
+#### [The Closing Act](world/prep/the-closing-act.md) · `adventure-note` · stated
+GM plan for the end of the Fivefold Brand arc: Tiamat, furious at losing the Brand and her best chance to escape the Nine Hells, bends everything toward destroying RBG while pressing her servants toward a darker ritual against the Chains of Gleynir; Arkhan and Krull work to master the Hand and Eye of Vecna in Arkhan's Tower, a dungeon crawl of traps and undead that is the only way into Tiamat's chamber short of flying in, and that leads to the final confrontation — once the party survives the Avernus Hunt.
+* **Part of:** The Fivefold Brand (arc)
+  > INFERRED from location: the file sits under _stories/RBG/The Five Fold Brand/ and has no frontmatter.
+* **About:** Tiamat, Arkhan The Cruel, The Quinary, The Chains Of Gleynir, Notorious RBG, Hunted Across Avernus, Krull, Hand Of Vecna, Bitterness
+
 #### [The Curse Of The Flayed God](world/prep/the-curse-of-the-flayed-god.md) · `adventure-note` · unknown
 **Curse Of The Flayed God**. The cursed target can't regain hit points, and its hit point maximum decreases by 10 (3d6) for every 24 hours that elapse. As the curse progr…
 * **Part of:** The Plague Of The Flayed God
 
 #### [The Five Fold Brand: Notes](world/prep/the-five-fold-brand-notes.md) · `adventure-note` · unknown
-Scarab Of Shelter
+Players will find scraps of the map to make up for the fact that they've lost their guide.
 * **Part of:** The Fivefold Brand (arc)
 
 #### [The Letter For Sango](world/prep/the-letter-for-sango.md) · `adventure-note` · unknown
@@ -2595,10 +2626,13 @@ Fresh from their victory over The Engine, RBG heads back to the city.
 #### [xmasgame: notes](world/prep/xmasgame-notes.md) · `adventure-note` · unknown
 Nate is trying to create an outrageous statistically perfect fighter so have lots of ranged attacks and magic that goes after intelligence/charisma
 
-### rules — 4
+### rules — 5
 
 #### [Crafting For Non Crafters](world/rules/crafting-for-non-crafters.md) · `rule` · unknown
 Making arrows: Must have the materials; no proficiency bonus; can't make a magic arrow
+
+#### [Hexploration](world/rules/hexploration.md) · `rule` · stated
+A hexcrawl ruleset for 5th Edition kept with the random rules: 24-mile world hexes and 3-mile regional hexes, travel speeds and terrain modifiers, navigation checks and getting lost, the wilderness day and forced marches, downtime activities and jobs, permanent injuries in place of death, and excursion resting. Third-party text copied into the vault, not Praxia lore.
 
 #### [Lexicon](world/rules/lexicon.md) · `glossary` · unknown
 Rivers: *il - Ibril, Silil
@@ -2609,7 +2643,7 @@ No prose in the source; carried for coverage.
 #### [prize-money](world/rules/prize-money.md) · `rule` · unknown
 Ship's captains are sometimes called upon to defend Aventine from pirates and opposing nations. When this happens, the captains may be compensated using "prize money" - a…
 
-### sessions — 62
+### sessions — 63
 
 #### [7 Stormclaw 23](world/sessions/7-stormclaw-23.md) · `session` · stated
 RBG tried to help Grekka with her crime problem. Turns out it was Panovar Flynt, trying to get extra protection money/make a move of his own. He used his underling, Glevel, to hire The Onion Brothers. RBG caught the Brothers in the act, found out wha
@@ -2660,7 +2694,7 @@ Elissa Bournier is found tortured and murdered by Agrona Sef, who tracked the so
 
 #### [Session 004 · Obsidian Wing · 17 Mar 2025](world/sessions/036-03-17-2025-rbg.md) · `session` · unknown
 *Also:* 004_03_17_2025_RBG
-Dante and Dumas's club. See [Cinderhaven](_sourcebooks/pois/Shadowmuir#Cinderhaven)
+Dante and Dumas's club. See [Cinderhaven](_sourcebooks/places/pois/Shadowmuir.md#Cinderhaven)
 * **Part of:** Reign Of The Obsidian Wing
 
 #### [Session 004 · Thargorax · 8 May 2023](world/sessions/005-05-08-2023-rbg.md) · `session` · stated
@@ -2955,15 +2989,23 @@ The party fights barghests; Drak plants the tree; Dura is taken by Morwenna.
 
 #### [Session 028 · Fivefold Brand · 7 Sep 2026](world/sessions/061-09-07-2026-rbg.md) · `session` · stated
 *Also:* 028_09_07_2026_RBG
-Plan: with the Fivefold Brand curse broken, Zariel orders Tiamat to end RBG. Abishai attack at the start; if it goes badly, Bel's devils intervene and the ice devil Antipathy invites the party to Bel's forge, where Bel offers a guide, the imp Bitterness, to Arkhan's Tower and a shortcut to Tiamat's Monument, in exchange for the party striking at the dragon queen.
+Recap: Tiamat's abishai, hands-off until now, attack RBG; the ice devil Antipathy then brings the party to Bel's forge, where the former archduke of Avernus explains that Zariel has ordered Tiamat to kill them for freeing Silgorin Below and breaking the Five Fold Brand, and offers his imp Bitterness as guide to Arkhan's Tower, the only safe way into Tiamat's Monument, plus an outside assault when they strike. The same note carries the 21 Sep recap: a bone storm kills Bitterness, the party kills an orthon tracker, evades the wounded Urush Gûl, sees Ardman Lacqui's Wandering Emporium, and is finally spotted by an abishai hunting party.
 * **Part of:** The Fivefold Brand (arc)
-* **About:** Zariel, Tiamat, Arkhan The Cruel, Silgorin Below, Vaxith, the Hand In The Dark, Avernus, Bel, Antipathy, Bitterness
+* **About:** Zariel, Tiamat, Arkhan The Cruel, Silgorin Below, Vaxith, the Hand In The Dark, Avernus, Bel, Antipathy, Bitterness, Urush Gûl, Ardmon Ignus Lacqui, The Wandering Emporium, Tiamat's Lair
+  > Recap (9/21) names Urush Ghûl, the Wandering Emporium and Ardman Lacqui; Recap (9/07) names Silgorin Below; both recaps say the party is 'sneaking your way towards Tiamat's Lair'.
 
 #### [Session 028 · Thargorax · 19 Aug 2024](world/sessions/030-08-19-2024-rbg.md) · `session` · unknown
 *Also:* 028_08_19_2024_RBG
 * **Part of:** The Thargorax Arc
 * **Participants:** Drak, Mossy, Cregyn, Rikterr, Notorious RBG
 * **About:** 
+
+#### [Session 029 · Fivefold Brand · 5 Oct 2026](world/sessions/062-10-05-2026-rbg.md) · `session` · stated
+*Also:* 029_10_05_2026_RBG
+Plan only, no recap in the note: the fight with the abishai tracking team that spotted the party on 21 Sep, then the hunt across Avernus — a watchtower held by two narzugon whose white abishai flies straight to Tiamat, a herd of gnoll demoniacs in Yeenoghu's service, and a raider drive-by on Tormentors driven by madcaps. What was played is in the 5 Oct Otter transcript.
+* **Part of:** The Fivefold Brand (arc)
+* **About:** Tiamat, Avernus, Hunted Across Avernus, Tiamat's revenge, Yeenoghu
+  > 'See the random rules.' and the links to Random Events, 028 (Last Game) and Tiamat's Revenge; 'TT 1' read as tracking team 1 from Avernus Hunt.
 
 #### [Session 029 · Thargorax · 2 Sep 2024](world/sessions/031-09-02-2024-rbg.md) · `session` · stated
 *Also:* 029_09_02_2024_RBG

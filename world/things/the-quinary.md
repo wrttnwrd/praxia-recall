@@ -19,13 +19,13 @@ sought_by:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:35:14Z'
   method: read-and-extract
 sources:
 - id: source
   resource: file:///Users/i.lurie/praxia/_sourcebooks/arcana/The%20Quinary.md
   title: 'Original: _sourcebooks/arcana/The Quinary.md'
-content_hash: dbacec038b5130a3
+content_hash: 65814d9a6834b6d4
 evidence:
   has_part: '''Recipes for these items once created by the avatars of each Founding.
     Once four items exist, the others gain power.'' The Eye That Sees is tagged (Mist);

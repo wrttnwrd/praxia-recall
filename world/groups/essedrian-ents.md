@@ -14,13 +14,13 @@ ally_of:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:35:14Z'
   method: read-and-extract
 sources:
 - id: source
   resource: file:///Users/i.lurie/praxia/_sourcebooks/organizations/The%20Essedrian%20Ents.md
   title: 'Original: _sourcebooks/organizations/The Essedrian Ents.md'
-content_hash: 1d3a5e48dc96bfa3
+content_hash: 8b399c43f4a33869
 confidence: stated
 ---
 

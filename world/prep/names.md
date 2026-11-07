@@ -5,13 +5,13 @@ description: No prose in the source; carried for coverage.
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:35:14Z'
   method: read-and-extract
 sources:
 - id: source
   resource: file:///Users/i.lurie/praxia/_stories/RBG/_names.md
   title: 'Original: _stories/RBG/_names.md'
-content_hash: d67ff656c2602a7d
+content_hash: d5ef56b4b99cf196
 confidence: unknown
 ---
 

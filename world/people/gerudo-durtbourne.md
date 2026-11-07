@@ -21,13 +21,13 @@ located_in:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T21:03:52Z'
+  at: '2026-11-07T17:35:14Z'
   method: read-and-extract
 sources:
 - id: source
   resource: file:///Users/i.lurie/praxia/_sourcebooks/people/Ger%E2%80%99u%E2%80%99do%20Durtbourne.md
   title: 'Original: _sourcebooks/people/Ger’u’do Durtbourne.md'
-content_hash: 424f2fe35dc83fc9
+content_hash: e4a50046ab4d9355
 evidence:
   member_of: '''Ger''u''do is now a member of the Order Of Light tasked with investigating
     the new Domain Of Dread (Shadowmuir) alongside Nathan Dayspring.'''

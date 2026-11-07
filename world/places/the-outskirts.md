@@ -9,13 +9,13 @@ located_in:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:35:14Z'
   method: read-and-extract
 sources:
 - id: source
   resource: file:///Users/i.lurie/praxia/_sourcebooks/pre-fall/The%20Outskirts.md
   title: 'Original: _sourcebooks/pre-fall/The Outskirts.md'
-content_hash: b0b24d85b87a6bc9
+content_hash: eb5fce779514ddbc
 confidence: stated
 ---
 

@@ -14,13 +14,13 @@ contains:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:43:53Z'
   method: read-and-extract
 sources:
 - id: source
-  resource: file:///Users/i.lurie/praxia/_sourcebooks/Shamharan/Shamharan.md
-  title: 'Original: _sourcebooks/Shamharan/Shamharan.md'
-content_hash: 73a4922f1abe2bca
+  resource: file:///Users/i.lurie/praxia/_sourcebooks/places/Shamharan/Shamharan.md
+  title: 'Original: _sourcebooks/places/Shamharan/Shamharan.md'
+content_hash: 01d1b0854494655a
 confidence: stated
 ---
 

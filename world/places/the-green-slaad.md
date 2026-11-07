@@ -22,13 +22,13 @@ succeeds:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:43:53Z'
   method: read-and-extract
 sources:
 - id: source
-  resource: file:///Users/i.lurie/praxia/_sourcebooks/aventine/greenslaad/The%20Green%20Slaad.md
-  title: 'Original: _sourcebooks/aventine/greenslaad/The Green Slaad.md'
-content_hash: 52fc8fd8730234fc
+  resource: file:///Users/i.lurie/praxia/_sourcebooks/places/aventine/greenslaad/The%20Green%20Slaad.md
+  title: 'Original: _sourcebooks/places/aventine/greenslaad/The Green Slaad.md'
+content_hash: b43f7acfacd56493
 evidence:
   located_in: '''The Green Slaad is the largest tavern in Hull Ward (and the only
     inn...)'''

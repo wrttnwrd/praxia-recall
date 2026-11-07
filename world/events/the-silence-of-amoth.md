@@ -17,13 +17,13 @@ site_of:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:35:14Z'
   method: read-and-extract
 sources:
 - id: source
   resource: file:///Users/i.lurie/praxia/_stories/RBG/The%20Five%20Fold%20Brand/The%20Silence%20Of%20Amoth.md
   title: 'Original: _stories/RBG/The Five Fold Brand/The Silence Of Amoth.md'
-content_hash: 4eaee4464bda49a6
+content_hash: 21d6af28521f9af9
 evidence:
   occurred_at: '''The cosmic shock of the murder tears a hole between this city and
     Avernus. The city is dragged through it. Most of Silgorin — every street, every
@@ -43,7 +43,7 @@ What Veyrin hears in his god's voice is *grief, then panic, then a thinning sile
 
 Tonight, while the players are inside the temple, **Amoth dies**. The cosmic shock of the murder tears a hole between this city and [avernus](/world/places/avernus.md). **The city is dragged through it.** Most of Silgorin — every street, every house, every soul — is gone in a single moment. Only the **Temple of Amoth** and a few buildings on the highest part of the bluff are spared, left perched on the basalt rim of a vast new crater that opens directly onto the Nine Hells.
 
-The Helgoril, no longer flowing out of springs that no longer exist, will reverse over the next hours and begin pouring **east-to-west** down into the crater. That crater becomes the-gurges. The surviving rim — the temple plus the few buildings — becomes the founding of [silgorin](/world/places/silgorin.md).
+The Helgoril, no longer flowing out of springs that no longer exist, will reverse over the next hours and begin pouring **east-to-west** down into the crater. That crater becomes the-gurges. The surviving rim — the temple plus the few buildings — becomes the founding of [Silgorin](/world/places/silgorin.md).
 
 **Your players are about to become founders of Silgorin.** They will not understand this tonight. The session ends with them on the rim, looking down.
 
@@ -63,11 +63,11 @@ If the party drags their feet, Aellis reminds them this is the kind of case that
 
 ## Setting (lightweight)
 
-Silgorin sits high on a stone bluff at the **headwaters of the Helgoril**, in the highlands of [essedria](/world/places/essedria.md) — far up the river from the lowlands and far west of the Sedruth Sea. The Helgoril emerges from springs in the rocks just below the city, gathers itself in a series of cold pools, and then begins its long eastward run to the ocean. The city is lit by **the Companion** — a captive sun hanging above the upper city. The **Hellriders** patrol the high ground; the **Black Helms** keep order in the streets (**the party serves in the Black Helms** — see Hook). **High Observer Thavius Kreeg** is the senior religious figure in the city (he runs the Hall of the Companion), but the **Temple of Amoth** is older and operates parallel to him. (DM aside: Kreeg is secretly a follower of Asmodeus. He will be **conspicuously calm** if the players cross his path tonight, even pleased. He knows what's coming.)
+Silgorin sits high on a stone bluff at the **headwaters of the Helgoril**, in the highlands of [Essedria](/world/places/essedria.md) — far up the river from the lowlands and far west of the Sedruth Sea. The Helgoril emerges from springs in the rocks just below the city, gathers itself in a series of cold pools, and then begins its long eastward run to the ocean. The city is lit by **the Companion** — a captive sun hanging above the upper city. The **Hellriders** patrol the high ground; the **Black Helms** keep order in the streets (**the party serves in the Black Helms** — see Hook). **High Observer Thavius Kreeg** is the senior religious figure in the city (he runs the Hall of the Companion), but the **Temple of Amoth** is older and operates parallel to him. (DM aside: Kreeg is secretly a follower of Asmodeus. He will be **conspicuously calm** if the players cross his path tonight, even pleased. He knows what's coming.)
 
 The Temple of Amoth occupies a tiered building of pale stone in **Highshelf**, near the cliff edge **overlooking the Helgoril valley**. Its great bronze doors face the rising sun. Above its inner sanctum hangs an **eternal flame** in a hammered-gold reliquary.
 
-> **DM note on geography (DM-only)**: this city is built directly above the place where Amoth's worship is most concentrated on the planet. Tonight, when Amoth dies, the cosmic shock will tear a hole between this site and [avernus](/world/places/avernus.md). **The city is going to be dragged through.** What will be left on the rim of the resulting crater — the **Temple of Amoth** and a few surrounding buildings — is what your players will recognize, in another campaign someday, as the founding of [silgorin](/world/places/silgorin.md). The Helgoril, no longer flowing out of springs that no longer exist, will reverse and pour east-to-west into the new crater, which will become the-gurges. **Do not foreshadow this.** The players should believe, like everyone else in the city, that they are simply solving a murder.
+> **DM note on geography (DM-only)**: this city is built directly above the place where Amoth's worship is most concentrated on the planet. Tonight, when Amoth dies, the cosmic shock will tear a hole between this site and [avernus](/world/places/avernus.md). **The city is going to be dragged through.** What will be left on the rim of the resulting crater — the **Temple of Amoth** and a few surrounding buildings — is what your players will recognize, in another campaign someday, as the founding of [Silgorin](/world/places/silgorin.md). The Helgoril, no longer flowing out of springs that no longer exist, will reverse and pour east-to-west into the new crater, which will become the-gurges. **Do not foreshadow this.** The players should believe, like everyone else in the city, that they are simply solving a murder.
 
 ## The Cast
 
@@ -325,7 +325,7 @@ The party is alive. Almost no one else they met today is.
 - **Behind, west**: the springs that were the headwaters of the Helgoril are dry. Within hours the river will reverse. Within a day the first water will arrive *up* the empty channel from somewhere far to the east, and pour into the pit. **The Gurges is being born.**
 - **East, far away**: a glow on the horizon. The body that crossed the sky struck somewhere out there. The party will not, in this lifetime, learn what was there before it.
 
-The party are now, accidentally, the founding survivors of what will be **[silgorin](/world/places/silgorin.md)**. They do not know this. They know only that the city is gone and the temple is somehow still standing.
+The party are now, accidentally, the founding survivors of what will be **[Silgorin](/world/places/silgorin.md)**. They do not know this. They know only that the city is gone and the temple is somehow still standing.
 
 End the session here. Whatever they choose to do next is the start of a different campaign.
 
@@ -339,17 +339,17 @@ The 50 gp commendation Aellis promised will never be paid. Aellis is dead. The H
 - **The temple's authority** by default — they were the only law-keepers admitted by name in Veyrin's letter, and the letter is the only surviving administrative document in the city. The acolytes will defer to them.
 - **Inspiration** for any player who tried to talk Veyrin down with empathy rather than force.
 
-Material rewards do not really apply. **They are now founders of [silgorin](/world/places/silgorin.md).** That is the reward and the cost.
+Material rewards do not really apply. **They are now founders of [Silgorin](/world/places/silgorin.md).** That is the reward and the cost.
 
 ## Hooks for future sessions
 
-- **The party are founders of [silgorin](/world/places/silgorin.md).** Not in the historical-record sense — in the literal sense. They are among the first ~40 mortals on the rim of what will, in 7 objective years (50 subjective; time runs strangely here from the moment the pit opens), become the elf-and-devil city of Silgorin. The first elves will arrive within weeks, the first devils within days. The Twin Councils that govern the place by the time of the notorious-rbg campaign — the **Ivory Chorus** of containment-elves and the **Brazen Compact** of contract-devils — do not yet exist. The party can choose to leave (overland; west; the route is brutal but possible), or stay and shape what Silgorin becomes.
-- **The Black Helms as an institution survives in four people.** As lawkeepers in a city of forty traumatized survivors, the party will be naturally pulled toward leadership — they are the only members of any organized civic authority left on the rim. Whatever Silgorin's future governance looks like (the modern Twin Councils, per [silgorin](/world/places/silgorin.md), do not include an obvious peacekeeping arm), the seed of it is whatever the party decides to do over the next days. The order can fade, transform into something Silgorin needs, or — interesting — be the neutral third party between the Ivory Chorus and the Brazen Compact when those councils form.
-- **The Temple of Amoth still stands.** Amoth is dead. The temple is the most sacred building in Silgorin and the only one of its kind on the rim. What the survivors decide to do with it — keep it as a memorial, repurpose it, seal it — defines the early religious character of the city. (See [silgorin](/world/places/silgorin.md): by the modern era there's a Temple of Fenmarel Mestarine, an Altar to Asmodeus, and the Tortured Soul tavern. None of those exist yet. The bones of one of them might be the Temple of Amoth.)
+- **The party are founders of [Silgorin](/world/places/silgorin.md).** Not in the historical-record sense — in the literal sense. They are among the first ~40 mortals on the rim of what will, in 7 objective years (50 subjective; time runs strangely here from the moment the pit opens), become the elf-and-devil city of Silgorin. The first elves will arrive within weeks, the first devils within days. The Twin Councils that govern the place by the time of the notorious-rbg campaign — the **Ivory Chorus** of containment-elves and the **Brazen Compact** of contract-devils — do not yet exist. The party can choose to leave (overland; west; the route is brutal but possible), or stay and shape what Silgorin becomes.
+- **The Black Helms as an institution survives in four people.** As lawkeepers in a city of forty traumatized survivors, the party will be naturally pulled toward leadership — they are the only members of any organized civic authority left on the rim. Whatever Silgorin's future governance looks like (the modern Twin Councils, per [Silgorin](/world/places/silgorin.md), do not include an obvious peacekeeping arm), the seed of it is whatever the party decides to do over the next days. The order can fade, transform into something Silgorin needs, or — interesting — be the neutral third party between the Ivory Chorus and the Brazen Compact when those councils form.
+- **The Temple of Amoth still stands.** Amoth is dead. The temple is the most sacred building in Silgorin and the only one of its kind on the rim. What the survivors decide to do with it — keep it as a memorial, repurpose it, seal it — defines the early religious character of the city. (See [Silgorin](/world/places/silgorin.md): by the modern era there's a Temple of Fenmarel Mestarine, an Altar to Asmodeus, and the Tortured Soul tavern. None of those exist yet. The bones of one of them might be the Temple of Amoth.)
 - **The Helgoril is reversing.** The party will see it begin within hours. By dawn, water will be running up the empty channel from the east. Within a day, the first water reaches the pit and begins to fall. Within a week, the falls are full. **They are watching the-gurges being born.**
 - **Veyrin's journal** is in evidence. Pages near the end describe a "great red wyrm" descending and a "second sun blackening." A perceptive player will recognize the wyrm reference if they ever encounter [tiamat](/world/people/tiamat.md) or the Thargorax aspect. (Veyrin was hearing more than just Amoth dying. He was hearing what comes next.)
 - **The pit goes to [avernus](/world/places/avernus.md).** Far below, the geometry of the Bronze Citadel is visible. Within days, the first **Merrenoloths** will appear on the cliff face, looking up. Within weeks, the first devils will climb out — beginning the elven/infernal coexistence that defines Silgorin. The party may be the first mortals to negotiate with them.
-- **Time is starting to warp.** Per [silgorin](/world/places/silgorin.md), time at the rim runs roughly 7× faster than objective Praxian time. The party should notice — slightly — that the sun feels like it's moving wrong; that a conversation that took ten minutes outside felt like an hour to them; that their hair grows faster overnight. By the next session this should be unmistakable.
+- **Time is starting to warp.** Per [Silgorin](/world/places/silgorin.md), time at the rim runs roughly 7× faster than objective Praxian time. The party should notice — slightly — that the sun feels like it's moving wrong; that a conversation that took ten minutes outside felt like an hour to them; that their hair grows faster overnight. By the next session this should be unmistakable.
 - **Far to the east**: the impact site (per the-fall, "just East of the Spine of the World"). They will likely never get there in person. The wave from the impact is racing west up the Helgoril channel toward them — but it has nowhere to go now except into the pit. Every village, ferry, and trading post along what was the lower river is going to be erased. If the players had contacts downriver, the news will not arrive (no one is left to bring it).
 - **Down the Helgoril and out across The Gap**, on a continent the players have never heard of, in a city built on cliffs called [Aventine](/world/places/aventine.md), a different wave is racing inland. They will never know about it. But it is racing.
 
@@ -363,7 +363,7 @@ Material rewards do not really apply. **They are now founders of [silgorin](/wor
 - **If a player is a cleric**, give them a scene at the moment of The Fall:
   - **Cleric of any non-Asmodean god**: feels their own god flinch. A wave of grief from elsewhere. Spells still work. Foundation just shifted.
   - **Cleric of Asmodeus**: spell save DC goes **+2** for the rest of the night. Their patron is gorging. They will know exactly what just happened and exactly who did it. Their face is theirs to play.
-  - **Cleric of the Raven Queen**: a pull — they are wanted in [salmuir](/world/places/salmuir.md), or wherever their order is. Something is being put in motion that they will be needed for. (Setup for the-haddad-combine / future arcs, if the DM wants the seed.)
+  - **Cleric of the Raven Queen**: a pull — they are wanted in [Salmuir](/world/places/salmuir.md), or wherever their order is. Something is being put in motion that they will be needed for. (Setup for the-haddad-combine / future arcs, if the DM wants the seed.)
   - **Cleric of Amoth**: total loss of powers. Mind-wrenching. They make a **DC 15 WIS save** or join Veyrin in catatonia for the rest of the session. On a save, they can act, but they have no spells. (This will be brutal for the player. Talk to them before the session if they're playing this character.)
 
 ## Source for the Fall
@@ -379,7 +379,7 @@ Veyrin is one of those holy warriors. He did not lose his powers cleanly — he 
 
 This scenario is also the **founding moment** of two specific places in the wiki:
 
-- [silgorin](/world/places/silgorin.md) — the city of elves and devils on the rim of the-gurges. The wiki page describes Silgorin as "only 7 objective years old" and "formed right after the-fall." This session is hour zero of those 7 years. The temple, the few surviving buildings, and the party are what's there.
+- [Silgorin](/world/places/silgorin.md) — the city of elves and devils on the rim of the-gurges. The wiki page describes Silgorin as "only 7 objective years old" and "formed right after the-fall." This session is hour zero of those 7 years. The temple, the few surviving buildings, and the party are what's there.
 - the-gurges — the catastrophic waterfall where the Helgoril (now reversed, flowing east-to-west) plunges into the River Styx. The wiki describes it as the crater carved by The Fall. This session is the carving.
 
 Cross-link both pages from your campaign notes — the players are now living through what those pages describe as ancient history.

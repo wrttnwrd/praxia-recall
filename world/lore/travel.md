@@ -8,12 +8,13 @@ praxian_date_basis: first_seen
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:43:53Z'
   method: read-and-extract
 sources:
 - id: source
-  resource: file:///Users/i.lurie/praxia/_sourcebooks/Shamharan/The%20Blighted%20Haunts/Effects%20And%20Environment/Travel.md
-  title: 'Original: _sourcebooks/Shamharan/The Blighted Haunts/Effects And Environment/Travel.md'
+  resource: file:///Users/i.lurie/praxia/_sourcebooks/places/Shamharan/The%20Blighted%20Haunts/Effects%20And%20Environment/Travel.md
+  title: 'Original: _sourcebooks/places/Shamharan/The Blighted Haunts/Effects And
+    Environment/Travel.md'
 content_hash: f036d50b6f9cad64
 confidence: unknown
 ---

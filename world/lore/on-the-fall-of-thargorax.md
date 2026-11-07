@@ -15,13 +15,13 @@ located_in:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:35:14Z'
   method: read-and-extract
 sources:
 - id: source
   resource: file:///Users/i.lurie/praxia/_sourcebooks/arcana/On%20The%20Fall%20of%20Thargorax.md
   title: 'Original: _sourcebooks/arcana/On The Fall of Thargorax.md'
-content_hash: 7046a9dbc8546219
+content_hash: 9f7ccaf6d88dd6fd
 evidence:
   about: '''A relatively minor Later God, she nevertheless spent a great deal of time
     walking Praxia in various forms... at least fifty sightings... She led the recruitment

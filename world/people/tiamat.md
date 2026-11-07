@@ -27,13 +27,13 @@ serves:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:35:14Z'
   method: read-and-extract
 sources:
 - id: source
   resource: file:///Users/i.lurie/praxia/_sourcebooks/arcana/Tiamat.md
   title: 'Original: _sourcebooks/arcana/Tiamat.md'
-content_hash: 0da0e10128f172b4
+content_hash: 8b7231749a901c89
 evidence:
   imprisoned_in: '''She is bound to Avernus with the Chains Of Gleynir, but even they
     demand repair else she loose them and fly free.'''

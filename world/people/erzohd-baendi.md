@@ -10,12 +10,12 @@ located_in:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:43:53Z'
   method: read-and-extract
 sources:
 - id: source
-  resource: file:///Users/i.lurie/praxia/_sourcebooks/aventine/people/Erzohd%20Baendi.md
-  title: 'Original: _sourcebooks/aventine/people/Erzohd Baendi.md'
+  resource: file:///Users/i.lurie/praxia/_sourcebooks/places/aventine/people/Erzohd%20Baendi.md
+  title: 'Original: _sourcebooks/places/aventine/people/Erzohd Baendi.md'
 content_hash: 1113d248dfadce65
 confidence: stated
 ---

@@ -18,8 +18,14 @@ SRC = Path(yaml.safe_load((B / "graph.yaml").read_text(encoding="utf-8"))["sourc
 OUT = B / "assets" / "maps"
 CAP = 1200
 
+# Images outside the map folders that are still maps (vault-relative paths),
+# and display names for files whose own name says nothing.
+EXTRA = ["_sourcebooks/attachments/Pasted image 20260918141425.png"]
+NAMES = {"Pasted image 20260918141425.png": "Avernus Hunt point crawl"}
+
 # filename fragment -> concept id(s) the map depicts
 DEPICTS = [
+    ("20260918141425", ["avernus-hunt"]),
     ("cryptofamenopophis", ["the-crypt-of-amenopophis"]), ("thecrypt", ["the-crypt-of-amenopophis"]),
     ("crypt-3-loom", ["the-crypt-of-amenopophis"]), ("amenopophis-door", ["the-crypt-of-amenopophis"]),
     ("notorious-manor", ["rbg-bastion"]), ("bournier-observatory", ["aventine"]),
@@ -43,7 +49,8 @@ def main():
     files = [p for p in SRC.rglob("*")
              if p.is_file() and p.suffix.lower() in (".png", ".jpg", ".jpeg")
              and ".obsidian" not in str(p)
-             and re.search(r"(/maps?/|themaps|_pro-maps|/_aventine/|/_shamharan/)", str(p))]
+             and (re.search(r"(/maps?/|themaps|_pro-maps|/_aventine/|/_shamharan/)", str(p))
+                  or str(p.relative_to(SRC)) in EXTRA)]
 
     # the vault keeps two copies of the Deven Rue set; keep one, record the other
     seen, entries, dupes = {}, [], collections.defaultdict(list)
@@ -57,10 +64,11 @@ def main():
     # ids are the filename, disambiguated by parent folder only when two maps
     # share a name. Truncating a full path collided 12 crypt maps onto one id.
     ids, taken = {}, set()
+    stem_of = lambda p: NAMES.get(p.name, p.stem)
     for p in sorted(seen.values()):
-        base = "map-" + slug(p.stem)
+        base = "map-" + slug(stem_of(p))
         if base in taken:
-            base = "map-" + slug(f"{p.parent.name}-{p.stem}")
+            base = "map-" + slug(f"{p.parent.name}-{stem_of(p)}")
         n = 2
         while base in taken:
             base = f"map-{slug(p.parent.name)}-{slug(p.stem)}-{n}"; n += 1
@@ -78,12 +86,12 @@ def main():
             made += 1
         depicts = next(([d for d in ids] for frag, ids in DEPICTS
                         if frag in str(rel).lower()), [])
-        pretty = re.sub(r"[-_]+", " ", p.stem).strip()
+        pretty = re.sub(r"[-_]+", " ", stem_of(p)).strip()
         pretty = pretty[:1].upper() + pretty[1:]
         # "Map:" prefix keeps a map's title distinct from the place it depicts —
         # otherwise the Aventine map and the city of Aventine collide.
         title = f"Map: {pretty}"
-        if cid != "map-" + slug(p.stem):
+        if cid != "map-" + slug(stem_of(p)):
             title += f" ({p.parent.name.lstrip('_')})"
         mb = p.stat().st_size / 1048576
         e = {"id": cid, "kind": "maps", "type": "map", "title": title,

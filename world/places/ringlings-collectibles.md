@@ -13,12 +13,12 @@ staffed_by:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:43:53Z'
   method: read-and-extract
 sources:
 - id: source
-  resource: file:///Users/i.lurie/praxia/_sourcebooks/aventine/Ringling%27s%20Collectibles.md
-  title: 'Original: _sourcebooks/aventine/Ringling''s Collectibles.md'
+  resource: file:///Users/i.lurie/praxia/_sourcebooks/places/aventine/Ringling%27s%20Collectibles.md
+  title: 'Original: _sourcebooks/places/aventine/Ringling''s Collectibles.md'
 content_hash: 8de3a26c68606273
 evidence:
   staffed_by: '''Run by Marceline, a tall, wispy half-elf nerd.'''

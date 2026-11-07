@@ -15,12 +15,12 @@ located_in:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:43:53Z'
   method: read-and-extract
 sources:
 - id: source
-  resource: file:///Users/i.lurie/praxia/_sourcebooks/aventine/people/Kaelen%20Varrus.md
-  title: 'Original: _sourcebooks/aventine/people/Kaelen Varrus.md'
+  resource: file:///Users/i.lurie/praxia/_sourcebooks/places/aventine/people/Kaelen%20Varrus.md
+  title: 'Original: _sourcebooks/places/aventine/people/Kaelen Varrus.md'
 content_hash: 51c2e25781ba5f76
 evidence:
   member_of: 'This page already carries a hand-built JSON-LD block: `memberOf: organization:AventineGuard`,

@@ -19,13 +19,13 @@ based_in:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:35:14Z'
   method: read-and-extract
 sources:
 - id: source
   resource: file:///Users/i.lurie/praxia/_sourcebooks/organizations/Order%20Of%20Helm.md
   title: 'Original: _sourcebooks/organizations/Order Of Helm.md'
-content_hash: 44cece1b57e7c06c
+content_hash: b2137993328f30ae
 evidence:
   ally_of: 'frontmatter `ally of: [Order Of Light, Silverscale Clan, Court of Aventine]`'
 confidence: stated

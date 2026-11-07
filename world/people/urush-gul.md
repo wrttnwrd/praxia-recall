@@ -1,8 +1,10 @@
 ---
 type: npc
 title: Urush Gûl
-description: An ancient red dragon sworn to Tiamat, ordered to weaken RBG but not
-  kill them; he gave them the Searing Brand and crippled the Discontent.
+description: An ancient red dragon sworn to Tiamat; once ordered only to weaken RBG,
+  he gave them the Searing Brand and crippled the Discontent. Tiamat punished him
+  for that boon — acid burns along his flanks and wings, now at half his hit points
+  — and ordered him to hunt the party down and kill them or not return.
 praxian_date: 23 Leaffall 07 FR
 praxian_date_basis: first_seen
 serves:
@@ -14,17 +16,23 @@ participated_in:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-07T17:43:53Z'
   method: read-and-extract
 sources:
 - id: source
   resource: file:///Users/i.lurie/praxia/_stories/RBG/The%20Five%20Fold%20Brand/Urush-G%C7%94l.md
   title: 'Original: _stories/RBG/The Five Fold Brand/Urush-Gǔl.md'
-content_hash: d46a6f2bf311f4bd
+content_hash: 1bf91dc181bc995c
 evidence:
   serves: '''Urush has been tasked by Tiamat to do one thing: Weaken the party.''
     — but ''Urush Gûl prefers having humanoids and others to serve him. If Tiamat
     wins, his life becomes... boring.'''
+  description: '028 note, Recap (9/21): ''Tiamat took her rage and frustration out
+    on Urush when she found out he gave you a boon. He''s now been ordered to find
+    and kill you or not return.'' Avernus Hunt: ''Punished by Tiamat for his betrayal,
+    Gûl is now tasked with hunting down and killing the party... Note that Gûl is
+    at half hp right now... burn marks along his flanks and wings where the dragon
+    queen sprayed him with acid.'''
 confidence: stated
 ---
 
