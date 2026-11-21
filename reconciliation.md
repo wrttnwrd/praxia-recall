@@ -7,7 +7,7 @@ status: draft
 
 # Reconciliation
 
-570 concepts. Run after every batch; it reports rather than merges.
+571 concepts. Run after every batch; it reports rather than merges.
 
 ## Same name, different concept
 
@@ -51,13 +51,17 @@ These change over the vault's 2018-2026 span; the graph records when.
 * **Tasha Quan** — 25 BR — Hull Ward boss; -5 FR — leads House Belos
 * **The Seals** — 07 Flowering 07 — two seals in lead boxes with RBG; Arcane destroyed; Life destroyed
 
-## Named but unwritten (6)
+## Named but unwritten (10)
 
 Referenced by a relation but having no concept; they render as plain text.
 
 * Bitterness (2)
+* The Darking Way (2)
 * Bel (1)
 * Antipathy (1)
 * Yeenoghu (1)
+* Bazett (1)
+* Shumroth (1)
+* Mordenkainen (1)
 * Krull (1)
 * Hand Of Vecna (1)

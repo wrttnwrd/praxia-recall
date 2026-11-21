@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "46e214adb41952e5",
+        "id": "bb728957e89b630c",
         "type": "tabs",
         "children": [
           {
-            "id": "6dfb96355d41754c",
+            "id": "55a356208fea41dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "world/sessions/060-08-17-2026-rbg.md",
+                "file": "world/lore/corsair-raider-unit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "060-08-17-2026-rbg"
+              "title": "corsair-raider-unit"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "world/sessions/060-08-17-2026-rbg.md",
+                "file": "world/places/aventine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +110,20 @@
               },
               "icon": "links-coming-in",
               "title": "Backlinks"
+            }
+          },
+          {
+            "id": "6dfb96355d41754c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "world/places/aventine.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "aventine"
             }
           },
           {
@@ -161,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "world/sessions/060-08-17-2026-rbg.md",
+                "file": "world/places/aventine.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -170,12 +184,12 @@
               "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 668.03515625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,6 +204,11 @@
   },
   "active": "6dfb96355d41754c",
   "lastOpenFiles": [
+    "world/sessions/063-11-09-2026-rbg.md",
+    "world/lore/corsair-raider-unit.md",
+    "world/lore/claude-md.md",
+    "world/places/index.md",
+    "world/sessions/060-08-17-2026-rbg.md",
     "world/maps/index.md",
     "world/prep/index.md",
     "world/rules/index.md",
@@ -200,7 +219,6 @@
     "world/vehicles/index.md",
     "world/groups/index.md",
     "world/people/index.md",
-    "world/places/index.md",
     "world/maps/map-underdark.md",
     "world/maps/map-undercity.md",
     "world/maps/map-undercity-vaults.md",
@@ -212,10 +230,6 @@
     "world/maps/map-silidria-w-urdun.md",
     "world/maps/map-silidria-silidria-map-by-deven-rue.md",
     "world/maps/map-silidria-map-by-deven-rue.md",
-    "world/maps/map-silidria-map-by-deven-rue-without-text.md",
-    "world/maps/map-silidria-map-by-deven-rue-vtt-ready.md",
-    "world/maps/map-silidria-map-by-deven-rue-vtt-ready-without-text.md",
-    "world/maps/map-silidria-map-by-deven-rue-vtt-ready-compressed.md",
     "world/maps",
     "world/prep",
     "assets/maps/map-thecave.jpg",

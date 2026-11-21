@@ -2,7 +2,7 @@
 
 * [Soul coins](soul-coins.md) - Coins minted from the souls of those too useless or untrustworthy to keep; fitted into the back of a Seal, one cracks it.
 * [The Astrolabe Of Three Wishes](astrolabe-of-three-wishes.md) - A platinum astrolabe that casts Wish when correctly configured; once spent, it is an ordinary astrolabe forever.
-* [The Chains Of Gleynir](chains-of-gleynir.md) - What binds Tiamat to Avernus; they demand repair, and Arkhan The Cruel works to break them.
+* [The Chains Of Gleynir](chains-of-gleynir.md) - What binds Tiamat to Avernus; ancient artifacts of great power that demand repair. Arkhan The Cruel works to break them, and only reality-altering magic can strengthen them.
 * [The Dagger Of Amoth](dagger-of-amoth.md) - The blade used to slay Amoth — the only thing that can permanently kill Tiamat.
 * [The Door That Opens](the-door-that-opens.md) - The Quinary piece the Hag must weave; without it the Gate cannot be opened wide enough for Thargorax's horde.
 * [The Eye That Sees](the-eye-that-sees.md) - Golden goggles of Mist granting darkvision, protection from blinding, and truesight; its sacrifice power is Foresight at the cost of half maximum HP.

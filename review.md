@@ -7,7 +7,7 @@ status: draft
 
 # Review
 
-**570 concepts, 1502 relations**, derived by reading 295 source files in `~/praxia`. Source frontmatter was a hint, not an import; every field here came from the text.
+**571 concepts, 1522 relations**, derived by reading 296 source files in `~/praxia`. Source frontmatter was a hint, not an import; every field here came from the text.
 
 `confidence: stated` = asserted in the prose. `inferred` = deduced — check these first.
 
@@ -18,7 +18,7 @@ status: draft
 
 ## Settled
 
-* **447 concepts** are `stated` — asserted in the source text, with the sentence recorded in `evidence` wherever a relation needed defending.
+* **448 concepts** are `stated` — asserted in the source text, with the sentence recorded in `evidence` wherever a relation needed defending.
 * **107 prep and reference files** are carried for coverage with no summary invented for them. Not a gap: the vault text is the content.
 * Duplicate candidates, contradictions and unwritten entities: see [reconciliation.md](reconciliation.md).
 
@@ -28,9 +28,13 @@ status: draft
 They appear as plain text and become links the moment someone writes the page.
 
 * Bitterness (2 references)
+* The Darking Way (2 references)
 * Bel (1 reference)
 * Antipathy (1 reference)
 * Yeenoghu (1 reference)
+* Bazett (1 reference)
+* Shumroth (1 reference)
+* Mordenkainen (1 reference)
 * Krull (1 reference)
 * Hand Of Vecna (1 reference)
 
@@ -1670,11 +1674,14 @@ God to whom the Horns of the Order of Light are pledged; tribute is a severed ha
 * **Served by:** Alphonse Horn, Halcyon Horn
 
 #### [Urush Gûl](world/people/urush-gul.md) · `npc` · stated
-An ancient red dragon sworn to Tiamat; once ordered only to weaken RBG, he gave them the Searing Brand and crippled the Discontent. Tiamat punished him for that boon — acid burns along his flanks and wings, now at half his hit points — and ordered him to hunt the party down and kill them or not return.
+An ancient red dragon sworn to Tiamat; once ordered only to weaken RBG, he gave them the Searing Brand and crippled the Discontent. Tiamat punished him for that boon and ordered him to hunt the party down and kill them or not return. He caught them in castle ruins on Avernus and Notorious RBG killed him there, on 11 Rotting 07 by his own note (the session note gives 10 The Rotting 07).
 * **Serves:** Tiamat
   > 'Urush has been tasked by Tiamat to do one thing: Weaken the party.' — but 'Urush Gûl prefers having humanoids and others to serve him. If Tiamat wins, his life becomes... boring.'
 * **Enemies:** Notorious RBG
-* **Took part in:** The Bargain with Urush Gûl
+  > 029 note, Recap: 'Right then, Urush Gûl caught you. The ancient red dragon, scarred by his confrontation with Tiamat and enraged at the party, swooped in and attacked.'
+* **Took part in:** The Bargain with Urush Gûl, Session 030 · Fivefold Brand · 9 Nov 2026
+* **Killed by:** Notorious RBG
+  > 'Killed by RBG on 11 Rotting 07' (Urush-Gǔl.md, first line); 030 note, Recap: 'defeating and killing the ancient red dragon after a long, drawn-out battle'.
 
 #### [Valana](world/people/valana.md) · `npc` · stated
 Lead cleric of the Temple of Helm; a muscular half-orc who takes the front line and delegates the politics.
@@ -2643,7 +2650,7 @@ No prose in the source; carried for coverage.
 #### [prize-money](world/rules/prize-money.md) · `rule` · unknown
 Ship's captains are sometimes called upon to defend Aventine from pirates and opposing nations. When this happens, the captains may be compensated using "prize money" - a…
 
-### sessions — 63
+### sessions — 64
 
 #### [7 Stormclaw 23](world/sessions/7-stormclaw-23.md) · `session` · stated
 RBG tried to help Grekka with her crime problem. Turns out it was Panovar Flynt, trying to get extra protection money/make a move of his own. He used his underling, Glevel, to hire The Onion Brothers. RBG caught the Brothers in the act, found out wha
@@ -3002,10 +3009,10 @@ Recap: Tiamat's abishai, hands-off until now, attack RBG; the ice devil Antipath
 
 #### [Session 029 · Fivefold Brand · 5 Oct 2026](world/sessions/062-10-05-2026-rbg.md) · `session` · stated
 *Also:* 029_10_05_2026_RBG
-Plan only, no recap in the note: the fight with the abishai tracking team that spotted the party on 21 Sep, then the hunt across Avernus — a watchtower held by two narzugon whose white abishai flies straight to Tiamat, a herd of gnoll demoniacs in Yeenoghu's service, and a raider drive-by on Tormentors driven by madcaps. What was played is in the 5 Oct Otter transcript.
+Recap: after the fight with an abishai hunting party, Cregyn's Divine Intervention lights up Tiamat's Monument and Arkhan's Tower (white beams), two dangers (red: a watchtower and an unidentified site) and Bazett, a somewhat-batty ultroloth whom Mordenkainen caged over a lake of demon ichor 250 years ago. Freed, Bazett says only reality-altering magic can strengthen the Chains of Gleynir and agrees to guide the party to the Tower, but not into it; they choose the Darking Way, a neglected tunnel under the Styx. Urush Gûl then catches them, his fire useless against their immunity, and they hide in castle ruins planning how to bring him down. The note's plan (watchtower narzugon, gnoll demoniacs of Yeenoghu, a raider drive-by) is above the recap.
 * **Part of:** The Fivefold Brand (arc)
-* **About:** Tiamat, Avernus, Hunted Across Avernus, Tiamat's revenge, Yeenoghu
-  > 'See the random rules.' and the links to Random Events, 028 (Last Game) and Tiamat's Revenge; 'TT 1' read as tracking team 1 from Avernus Hunt.
+* **About:** Tiamat, Avernus, Hunted Across Avernus, Tiamat's revenge, Yeenoghu, Urush Gûl, Arkhan The Cruel, The Chains Of Gleynir, Tiamat's Lair, The Hand That Strikes, The Searing Brand, Cregyn, Bazett, Shumroth, Mordenkainen, The Darking Way
+  > Recap: 'The only way to strengthen the Chains Of Gleynir is some form of reality-altering magic'; 'The Hand That Strikes would kill Gûl but exacts a high price'; 'your invulnerability to fire (ironically a boon Gûl granted)'; 'the Tower presents the easiest way past the swarms of Abishai and dragons guarding the Monument and into Tiamat's chamber'. Bazett, Shumroth ('apparently a demon lord... subjected to a steady drip from the River Styx'), Mordenkainen and the Darking Way have no notes of their own; named but unwritten.
 
 #### [Session 029 · Thargorax · 2 Sep 2024](world/sessions/031-09-02-2024-rbg.md) · `session` · stated
 *Also:* 029_09_02_2024_RBG
@@ -3013,6 +3020,14 @@ The party defeats Morwenna.
 * **Part of:** The Thargorax Arc
 * **Participants:** Drak, Mossy, Cregyn, Rikterr, Notorious RBG
 * **About:** Morwenna, Notorious RBG
+
+#### [Session 030 · Fivefold Brand · 9 Nov 2026](world/sessions/063-11-09-2026-rbg.md) · `session` · stated
+*Also:* 030_11_09_2026_RBG
+Recap only: RBG faces Urush Gûl and kills the ancient red dragon after a long, drawn-out battle, then heads for an underground passage that leads past the watchtowers, under the River Styx and right up to Arkhan's Tower. The round-by-round fight is in the 9 Nov Otter transcript.
+* **Part of:** The Fivefold Brand (arc)
+  > frontmatter 'storyline: The Fivefold Brand'.
+* **About:** Urush Gûl, Notorious RBG, Arkhan The Cruel, Avernus, Tiamat's revenge, The Darking Way
+  > The recap names Urush Gûl and Arkhan's Tower and links Tiamat's Revenge; the 'underground passage... under the River Styx' is read as the Darking Way named in the 029 recap. Avernus from the storyline, not the text.
 
 #### [Session 030 · Thargorax · 2 Sep 2024](world/sessions/032-09-30-2024-rbg.md) · `session` · unknown
 *Also:* 030_09_30_2024_RBG
@@ -3031,7 +3046,7 @@ Coins minted from the souls of those too useless or untrustworthy to keep; fitte
 A platinum astrolabe that casts Wish when correctly configured; once spent, it is an ordinary astrolabe forever.
 
 #### [The Chains Of Gleynir](world/things/chains-of-gleynir.md) · `arcana` · stated
-What binds Tiamat to Avernus; they demand repair, and Arkhan The Cruel works to break them.
+What binds Tiamat to Avernus; ancient artifacts of great power that demand repair. Arkhan The Cruel works to break them, and only reality-altering magic can strengthen them.
 * **Imprisons:** Tiamat
 * **Sought by:** Arkhan The Cruel
   > 'There are powerful guardians over Tiamat's Lair, including one with the Hand Of Vecna. He - Arkhan The Cruel - is the one who works to break the Chains Of Gleynir' (session 027)
@@ -3098,6 +3113,7 @@ Four seals woven by Mist along the Ley Line, holding chaos, arcanum, naturum and
 #### [The Searing Brand](world/things/the-searing-brand.md) · `arcana` · stated
 Urush Gûl's boon granting immunity to fire damage, for an unspecified price.
 * **Held by:** Notorious RBG
+  > 029 note, Recap: 'your invulnerability to fire (ironically a boon Gûl granted) nullifies one of his most potent weapons'.
 * **Founded by:** Urush Gûl
 
 #### [The Stygian Gate](world/things/the-stygian-gate.md) · `arcana` · stated

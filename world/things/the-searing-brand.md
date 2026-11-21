@@ -12,8 +12,11 @@ founded_by:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-09-08T20:50:58Z'
+  at: '2026-11-21T22:05:43Z'
   method: read-and-extract
+evidence:
+  held_by: '029 note, Recap: ''your invulnerability to fire (ironically a boon Gûl
+    granted) nullifies one of his most potent weapons''.'
 confidence: stated
 ---
 

@@ -140,7 +140,7 @@
 * [Twig](twig.md) - Mossy's best friend from Salmuir, possibly aboard the Bluestrike merchant vessel Snapjaw.
 * [Tymora](tymora.md) - The god Irene Cordova plans to pledge to when she takes her oath.
 * [Tyr](tyr.md) - God to whom the Horns of the Order of Light are pledged; tribute is a severed hand.
-* [Urush Gûl](urush-gul.md) - An ancient red dragon sworn to Tiamat; once ordered only to weaken RBG, he gave them the Searing Brand and crippled the Discontent. Tiamat punished him for that boon — acid burns along his flanks and wings, now at half his hit points — and ordered him to hunt the party down and kill them or not return.
+* [Urush Gûl](urush-gul.md) - An ancient red dragon sworn to Tiamat; once ordered only to weaken RBG, he gave them the Searing Brand and crippled the Discontent. Tiamat punished him for that boon and ordered him to hunt the party down and kill them or not return. He caught them in castle ruins on Avernus and Notorious RBG killed him there, on 11 Rotting 07 by his own note (the session note gives 10 The Rotting 07).
 * [Valana](valana.md) - Lead cleric of the Temple of Helm; a muscular half-orc who takes the front line and delegates the politics.
 * [Vaxith, the Hand In The Dark](vaxith.md) - An Abishai infused with the essence of a Shadow Dragon by Tiamat; shadowed RBG since Urush Gûl and is now at Tiamat's side, planning to lead the next assault on them.
 * [Veda](veda.md) - First God of faith and divinity.

@@ -8,7 +8,7 @@ generated: { by: recall/claude-fable-5-1, at: 2026-09-08T13:11:07-07:00 }
 
 # Otter ingest review
 
-39 recordings from Otter were ingested on 2026-09-08 as `transcript` concepts, and two more (21 Sep and 5 Oct 2026) on 2026-11-07, under `items/otter/`, with verbatim text under `raw/otter/`. Cards were drafted from Otter's machine summaries, play content only; the transcripts were saved but not read in full, so every card is `status: draft`, `confidence: inferred`. Nothing is marked verified.
+39 recordings from Otter were ingested on 2026-09-08 as `transcript` concepts, two more (21 Sep and 5 Oct 2026) on 2026-11-07, and one more (9 Nov 2026) on 2026-11-21, under `items/otter/`, with verbatim text under `raw/otter/`. Cards were drafted from Otter's machine summaries, play content only; the transcripts were saved but not read in full, so every card is `status: draft`, `confidence: inferred`. The 5 Oct and 9 Nov 2026 cards are the exceptions: both were written from a full read of the transcript, and are still drafts. Nothing is marked verified.
 
 ## How matching worked
 
@@ -59,6 +59,7 @@ A recording is linked (`about:`) to the session concept whose ID carries the sam
 | [2026-09-07-rbg](/items/otter/2026-09/2026-09-07-rbg.md) | 3h 4m | exact | [061-09-07-2026-rbg](/world/sessions/061-09-07-2026-rbg.md) |
 | [2026-09-21-rbg](/items/otter/2026-09/2026-09-21-rbg.md) | 2h 23m | none | — |
 | [2026-10-05-rbg](/items/otter/2026-10/2026-10-05-rbg.md) | 2h 59m | exact | [062-10-05-2026-rbg](/world/sessions/062-10-05-2026-rbg.md) |
+| [2026-11-09-rbg](/items/otter/2026-11/2026-11-09-rbg.md) | 3h 7m | exact | [063-11-09-2026-rbg](/world/sessions/063-11-09-2026-rbg.md) |
 
 ## No session concept on the recording's date
 
@@ -85,3 +86,6 @@ These sessions were played and recorded but have no note in the vault. Writing t
 - 2026-07-13: the recording also contains a real-world discussion about a player leaving the group. Excluded from the card by rule; it is in the raw transcript.
 - 2026-09-21: no note of its own, but the 7 Sep note carries a 'Recap (9/21)' section. Left unlinked by the date rule; the card's Related block points at that recap. Only two Otter speaker labels were names on this recording; the rest were 'Speaker N' and are not listed as participants.
 - 2026-10-05: a hand-pasted Otter export of the same recording had been committed to `raw/otter/2026-10/` earlier on 2026-11-07 in Otter's web format. It was replaced with the MCP transcript in the bundle's timestamped format so every raw file reads the same; the previous version is in git history.
+- 2026-11-09: the user had committed a hand-saved Otter export of this recording (transcript and summary, titled 'D&D Combat_ Battle with Urush Ghoul') to `raw/otter/2026-11/` on 2026-11-21. As with 5 Oct, both files were replaced by one MCP transcript in the bundle's timestamped format; the hand-saved versions are in git history. The export's header dates the recording 10 Nov; Otter's own start time is 9 Nov 16:59, which matches the game night, so 9 Nov is used.
+- 2026-11-09: the DM calls Bazett an arcanaloth in this recording; the vault's 029 recap says ultroloth. The card follows the vault and records the discrepancy in `evidence`.
+- 2026-11-09: first ingested unlinked; the session note `030_11_09_2026_RBG.md` and the 'Killed by RBG' line on Urush Gûl's note were added to the vault later the same day, and the card was linked on the second run. Urush Gûl's note dates his death 11 Rotting 07; the session note's game date is 10 The Rotting 07. Both are recorded; which is right is the user's call.

@@ -3,8 +3,9 @@ type: npc
 title: Urush Gûl
 description: An ancient red dragon sworn to Tiamat; once ordered only to weaken RBG,
   he gave them the Searing Brand and crippled the Discontent. Tiamat punished him
-  for that boon — acid burns along his flanks and wings, now at half his hit points
-  — and ordered him to hunt the party down and kill them or not return.
+  for that boon and ordered him to hunt the party down and kill them or not return.
+  He caught them in castle ruins on Avernus and Notorious RBG killed him there, on
+  11 Rotting 07 by his own note (the session note gives 10 The Rotting 07).
 praxian_date: 23 Leaffall 07 FR
 praxian_date_basis: first_seen
 serves:
@@ -13,28 +14,36 @@ enemy_of:
 - Notorious RBG
 participated_in:
 - The Bargain with Urush Gûl
+- Session 030 · Fivefold Brand · 9 Nov 2026
+killed_by:
+- Notorious RBG
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-11-07T17:43:53Z'
+  at: '2026-11-21T22:14:07Z'
   method: read-and-extract
 sources:
 - id: source
   resource: file:///Users/i.lurie/praxia/_stories/RBG/The%20Five%20Fold%20Brand/Urush-G%C7%94l.md
   title: 'Original: _stories/RBG/The Five Fold Brand/Urush-Gǔl.md'
-content_hash: 1bf91dc181bc995c
+content_hash: ee6e05bc92cc67ba
 evidence:
   serves: '''Urush has been tasked by Tiamat to do one thing: Weaken the party.''
     — but ''Urush Gûl prefers having humanoids and others to serve him. If Tiamat
     wins, his life becomes... boring.'''
-  description: '028 note, Recap (9/21): ''Tiamat took her rage and frustration out
-    on Urush when she found out he gave you a boon. He''s now been ordered to find
-    and kill you or not return.'' Avernus Hunt: ''Punished by Tiamat for his betrayal,
-    Gûl is now tasked with hunting down and killing the party... Note that Gûl is
-    at half hp right now... burn marks along his flanks and wings where the dragon
-    queen sprayed him with acid.'''
+  description: 'Adds to the earlier evidence: Urush-Gǔl.md says ''11 Rotting 07'';
+    030_11_09_2026_RBG.md frontmatter says ''game_date: 10 The Rotting 07''. Both
+    dates are kept; the source disagrees with itself by one day.'
+  enemy_of: '029 note, Recap: ''Right then, Urush Gûl caught you. The ancient red
+    dragon, scarred by his confrontation with Tiamat and enraged at the party, swooped
+    in and attacked.'''
+  killed_by: '''Killed by RBG on 11 Rotting 07'' (Urush-Gǔl.md, first line); 030 note,
+    Recap: ''defeating and killing the ancient red dragon after a long, drawn-out
+    battle''.'
 confidence: stated
 ---
+
+*Killed by RBG on 11 Rotting 07*
 
 Urush-Gul is an ancient red dragon w/ the following changes:
 
@@ -93,4 +102,5 @@ Party gets immunity to fire damage, but gets -2 to all saves while w/in 100 mile
 ## Related
 **Serves:** [Tiamat](../people/tiamat.md)
 **Enemies:** [Notorious RBG](../groups/notorious-rbg.md)
-**Took part in:** [The Bargain with Urush Gûl](../events/the-bargain-with-urush-gul.md)
+**Took part in:** [The Bargain with Urush Gûl](../events/the-bargain-with-urush-gul.md), [Session 030 · Fivefold Brand · 9 Nov 2026](../sessions/063-11-09-2026-rbg.md)
+**Killed by:** [Notorious RBG](../groups/notorious-rbg.md)

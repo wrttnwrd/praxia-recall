@@ -20,7 +20,7 @@ okf_version: "0.2"
 * [places](world/places/) - 86 concept(s)
 * [prep](world/prep/) - 85 concept(s)
 * [rules](world/rules/) - 5 concept(s)
-* [sessions](world/sessions/) - 63 concept(s)
+* [sessions](world/sessions/) - 64 concept(s)
 * [things](world/things/) - 17 concept(s)
 * [vehicles](world/vehicles/) - 5 concept(s)
-* [transcripts](items/otter/) - 41 concept(s), Otter session recordings
+* [transcripts](items/otter/) - 42 concept(s), Otter session recordings
