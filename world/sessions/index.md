@@ -64,3 +64,4 @@
 * [Session 029 · Thargorax · 2 Sep 2024](031-09-02-2024-rbg.md) - The party defeats Morwenna.
 * [Session 030 · Fivefold Brand · 9 Nov 2026](063-11-09-2026-rbg.md) - Recap only: RBG faces Urush Gûl and kills the ancient red dragon after a long, drawn-out battle, then heads for an underground passage that leads past the watchtowers, under the River Styx and right up to Arkhan's Tower. The round-by-round fight is in the 9 Nov Otter transcript.
 * [Session 030 · Thargorax · 2 Sep 2024](032-09-30-2024-rbg.md)
+* [Session 031 · Fivefold Brand · 23 Nov 2026](064-11-23-2026-rbg.md) - Stub for an upcoming game, no recap or plan yet: the note says only that the session takes place in Qorgeth's Labyrinth, on 12 The Rotting 07.

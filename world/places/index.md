@@ -2,7 +2,7 @@
 
 * [Atley](atley.md) - A dwindling town on Nova Zuros, steadily diminished by Morwenna's feedings; most of it now abandoned.
 * [Aventine](aventine.md) - City-state of 500,000 plus 15,000 elven refugees, founded -400 FR by Ahmad Azari; seat of the seven houses.
-* [Avernus](avernus.md) - The layer of the Nine Hells closest to the Prime Material, ruled by the fallen angel Zariel; entered by the Fields of Bone portal or by sailing the Helgoril down into the Styx.
+* [Avernus](avernus.md) - The layer of the Nine Hells closest to the Prime Material, ruled by the fallen angel Zariel; entered by the Fields of Bone portal or by sailing the Helgoril down into the Styx. Qorgeth's Labyrinth tunnels under the Styx in its upper-left corner.
 * [Axiat](axiat.md) - Aventine's government district — the Palace, the central hospital, the guard, and the University.
 * [Bedlam's Faire](bedlams-faire.md) - A faire whose proprietor, the hag Essie Darksinger, is also its prisoner.
 * [Camadan](camadan.md) - The kingdom containing Aventine; ruled from the city by the Azari princes.
@@ -26,6 +26,7 @@
 * [Oar's Rest](oars-rest.md) - A settlement counted among Aventine's allies; Blong Hrusto kept a bar here before moving to the city.
 * [Porthmoor](porthmoor.md) - Tortle shipbuilding village of 2,500 at the southern tip of Silidria, renowned for its durable small ships and its citrus pies; site of the Arcane seal.
 * [Praxia](praxia.md) - The world. Its calendar resets at The Fall, dividing history into BR and FR.
+* [Qorgeth's Labyrinth](qorgeths-labyrinth.md) - A tunnel complex in the upper-left corner of Avernus, formerly the Darking Way, that passes under the River Styx and comes up beside Arkhan's Tower. The demon lord Qorgeth's Suffragans built it around a portal to his realm, meaning to move a demonic army by worm; the worms multiplied, collapsed tunnels and nested near the exit ramp. Its Styx-laden mud, ten Demonic Worms, Suffragan patrols, lost wanderers and cave-ins are the hazards; the note carries a 13-area key.
 * [Raestrums Feather And Fountain](raestrums-feather-and-fountain.md) - A landmark of Aventine, named among the city's principal sites.
 * [Renney's Remedies](rennys-remedies.md) - Purveyor of potions and salves in Hull Ward.
 * [Ringling's Collectibles](ringlings-collectibles.md) - Magic items, scrolls and sundries in Hull Ward; a 5% chance any given item is stolen.

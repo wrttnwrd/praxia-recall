@@ -4,8 +4,8 @@ title: Urush Gûl
 description: An ancient red dragon sworn to Tiamat; once ordered only to weaken RBG,
   he gave them the Searing Brand and crippled the Discontent. Tiamat punished him
   for that boon and ordered him to hunt the party down and kill them or not return.
-  He caught them in castle ruins on Avernus and Notorious RBG killed him there, on
-  11 Rotting 07 by his own note (the session note gives 10 The Rotting 07).
+  He caught them in castle ruins on Avernus and Notorious RBG killed him there on
+  11 The Rotting 07.
 praxian_date: 23 Leaffall 07 FR
 praxian_date_basis: first_seen
 serves:
@@ -20,7 +20,7 @@ killed_by:
 status: draft
 generated:
   by: recall/claude-opus-5
-  at: '2026-11-21T22:14:07Z'
+  at: '2026-11-22T22:47:15Z'
   method: read-and-extract
 sources:
 - id: source
@@ -31,9 +31,8 @@ evidence:
   serves: '''Urush has been tasked by Tiamat to do one thing: Weaken the party.''
     — but ''Urush Gûl prefers having humanoids and others to serve him. If Tiamat
     wins, his life becomes... boring.'''
-  description: 'Adds to the earlier evidence: Urush-Gǔl.md says ''11 Rotting 07'';
-    030_11_09_2026_RBG.md frontmatter says ''game_date: 10 The Rotting 07''. Both
-    dates are kept; the source disagrees with itself by one day.'
+  description: The 030 note's game_date now reads '11 The Rotting 07', matching 'Killed
+    by RBG on 11 Rotting 07'; the earlier one-day disagreement is resolved.
   enemy_of: '029 note, Recap: ''Right then, Urush Gûl caught you. The ancient red
     dragon, scarred by his confrontation with Tiamat and enraged at the party, swooped
     in and attacked.'''

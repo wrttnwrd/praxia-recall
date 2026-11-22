@@ -26,6 +26,7 @@ NAMES = {"Pasted image 20260918141425.png": "Avernus Hunt point crawl"}
 # filename fragment -> concept id(s) the map depicts
 DEPICTS = [
     ("20260918141425", ["avernus-hunt"]),
+    ("qorgeth", ["qorgeths-labyrinth"]),
     ("cryptofamenopophis", ["the-crypt-of-amenopophis"]), ("thecrypt", ["the-crypt-of-amenopophis"]),
     ("crypt-3-loom", ["the-crypt-of-amenopophis"]), ("amenopophis-door", ["the-crypt-of-amenopophis"]),
     ("notorious-manor", ["rbg-bastion"]), ("bournier-observatory", ["aventine"]),

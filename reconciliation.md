@@ -7,7 +7,7 @@ status: draft
 
 # Reconciliation
 
-571 concepts. Run after every batch; it reports rather than merges.
+574 concepts. Run after every batch; it reports rather than merges.
 
 ## Same name, different concept
 
@@ -28,6 +28,7 @@ Checked once, recorded here so they stop reappearing as open items. Numeric-vari
 * **Map: Map pharos lores** (`map-map-pharos-lores`) vs **Map: Map pharos lores 2** (`map-map-pharos-lores-2`)
 * **Map: Notorious manor 1st floor** (`map-notorious-manor-1st-floor`) vs **Map: Notorious manor 2nd floor** (`map-notorious-manor-2nd-floor`)
 * **Map: Praxia all runes** (`map-praxia-all-runes`) vs **Praxia all runes** (`praxia-all-runes`)
+* **Map: Qorgethslabryinth** (`map-qorgethslabryinth`) vs **Qorgeth's Labyrinth** (`qorgeths-labyrinth`)
 * **Map: Silgorin below** (`map-silgorin-below`) vs **Silgorin Below** (`silgorin-below`)
 
 ## Type and folder agreement
@@ -56,7 +57,6 @@ These change over the vault's 2018-2026 span; the graph records when.
 Referenced by a relation but having no concept; they render as plain text.
 
 * Bitterness (2)
-* The Darking Way (2)
 * Bel (1)
 * Antipathy (1)
 * Yeenoghu (1)
@@ -65,3 +65,4 @@ Referenced by a relation but having no concept; they render as plain text.
 * Mordenkainen (1)
 * Krull (1)
 * Hand Of Vecna (1)
+* Qorgeth (1)

@@ -7613,3 +7613,106 @@ concepts:
       frontmatter says ''game_date: 10 The Rotting 07''. Both dates are kept; the source disagrees with
       itself by one day.'
   confidence: stated
+
+# ══════════ 2026-11-22 ingest: vault edits since 21 Nov ══════════
+# New notes qorgeths-labryinth.md (POI + map) and 031_11_23_2026_RBG (stub); Avernus.md gained a
+# Qorgeth's Labyrinth section and landmark; 030 note's game_date corrected from 10 to 11 The Rotting 07.
+
+- id: qorgeths-labyrinth
+  kind: places
+  type: poi
+  title: Qorgeth's Labyrinth
+  aka:
+  - The Darking Way
+  - qorgeths-labryinth
+  source: _sourcebooks/places/pois/qorgeths-labryinth.md
+  date: '2026-11-21'
+  description: A tunnel complex in the upper-left corner of Avernus, formerly the Darking Way, that passes
+    under the River Styx and comes up beside Arkhan's Tower. The demon lord Qorgeth's Suffragans built
+    it around a portal to his realm, meaning to move a demonic army by worm; the worms multiplied,
+    collapsed tunnels and nested near the exit ramp. Its Styx-laden mud, ten Demonic Worms, Suffragan
+    patrols, lost wanderers and cave-ins are the hazards; the note carries a 13-area key.
+  relations:
+    located_in:
+    - avernus
+    founded_by:
+    - Qorgeth
+  evidence:
+    located_in: '''Qorgeth''s Labyrinth is a tunnel complex in the upper-left corner of Avernus. It passes
+      under the River Styx, and its exit ramp (area 9) comes out right next to Arkhan''s Tower. It was
+      formerly known as the Darking Way.'''
+    founded_by: '''The demon lord Qorgeth launched an incursion into Avernus, using his Suffragans to
+      build a complex around a portal to his realm.'' Qorgeth, the Suffragans and the Demonic Worms have
+      no notes of their own; named but unwritten.'
+    description: '''The worms multiplied, collapsed part of the tunnels, and set up a nest near the exit
+      ramp''; ''Any creature not immune to the effects that spends more than two rounds in the mud is
+      affected as if it were in the River itself''; ''There are ten Demonic Worms in the labyrinth''; ''Arkhan
+      knows of the place but assumes it''s no threat, because Qorgeth and Tiamat are loosely allied.'''
+  confidence: stated
+- id: avernus
+  description: The layer of the Nine Hells closest to the Prime Material, ruled by the fallen angel Zariel;
+    entered by the Fields of Bone portal or by sailing the Helgoril down into the Styx. Qorgeth's Labyrinth
+    tunnels under the Styx in its upper-left corner.
+  relations:
+    contains:
+    - qorgeths-labyrinth
+  evidence:
+    contains: 'Avernus.md frontmatter ''landmarks: ... Qorgeth''s Labyrinth''; ''A worm-infested tunnel
+      complex in the upper-left corner of Avernus''.'
+- id: 063-11-09-2026-rbg
+  praxian_date: 11 The Rotting 07 FR
+  praxian_date_basis: occurred
+  evidence:
+    praxian_date: '030 note frontmatter, corrected in the vault on 21 Nov: ''game_date: 11 The Rotting
+      07'' (was 10). Now agrees with Urush-Gǔl.md.'
+- id: urush-gul
+  description: An ancient red dragon sworn to Tiamat; once ordered only to weaken RBG, he gave them the
+    Searing Brand and crippled the Discontent. Tiamat punished him for that boon and ordered him to hunt
+    the party down and kill them or not return. He caught them in castle ruins on Avernus and Notorious
+    RBG killed him there on 11 The Rotting 07.
+  evidence:
+    description: 'The 030 note''s game_date now reads ''11 The Rotting 07'', matching ''Killed by RBG on
+      11 Rotting 07''; the earlier one-day disagreement is resolved.'
+- id: 064-11-23-2026-rbg
+  kind: sessions
+  type: session
+  title: Session 031 · Fivefold Brand · 23 Nov 2026
+  aka:
+  - 031_11_23_2026_RBG
+  source: _stories/RBG/The Five Fold Brand/031_11_23_2026_RBG.md
+  description: 'Stub for an upcoming game, no recap or plan yet: the note says only that the session takes
+    place in Qorgeth''s Labyrinth, on 12 The Rotting 07.'
+  date: '2026-11-23'
+  praxian_date: 12 The Rotting 07 FR
+  praxian_date_basis: occurred
+  relations:
+    part_of:
+    - the-fivefold-brand
+    about:
+    - qorgeths-labyrinth
+    - notorious-rbg
+    - tiamat-s-revenge
+  evidence:
+    description: '''This session takes place in Qorgeth''s Labryinth.'' The Recap heading is empty.'
+    praxian_date: 'frontmatter ''game_date: 12The Rotting 07'' (no space after the day; read as 12 The
+      Rotting 07).'
+    part_of: 'frontmatter ''storyline: The Fivefold Brand''.'
+    about: 'Links qorgeths-labryinth and Tiamat''s Revenge; ''party: Notorious RBG''.'
+  confidence: stated
+# The Darking Way now has a note (Qorgeth's Labyrinth); link the two sessions that named it.
+- id: 062-10-05-2026-rbg
+  relations:
+    about:
+    - qorgeths-labyrinth
+- id: 063-11-09-2026-rbg
+  relations:
+    about:
+    - qorgeths-labyrinth
+- id: 062-10-05-2026-rbg
+  remove_relations:
+    about:
+    - The Darking Way
+- id: 063-11-09-2026-rbg
+  remove_relations:
+    about:
+    - The Darking Way

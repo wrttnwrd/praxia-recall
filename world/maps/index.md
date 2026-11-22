@@ -50,6 +50,7 @@
 * [Map: Praxia just map](map-praxia-just-map.md) - Map: Praxia just map — 1.9 MB original in the source vault.
 * [Map: Praxia old](map-praxia-old.md) - Map: Praxia old — 1.2 MB original in the source vault.
 * [Map: Praxia underdark](map-praxia-underdark.md) - Map: Praxia underdark — 2.1 MB original in the source vault.
+* [Map: Qorgethslabryinth](map-qorgethslabryinth.md) - Map: Qorgethslabryinth — 2.4 MB original in the source vault.
 * [Map: Scan](map-scan.md) - Map: Scan — 0.2 MB original in the source vault.
 * [Map: Shadowmir](map-shadowmir.md) - Map: Shadowmir — 3.2 MB original in the source vault.
 * [Map: Silgorin below](map-silgorin-below.md) - Map: Silgorin below — 7.4 MB original in the source vault.

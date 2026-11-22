@@ -7,7 +7,7 @@ status: draft
 
 # Review
 
-**571 concepts, 1522 relations**, derived by reading 296 source files in `~/praxia`. Source frontmatter was a hint, not an import; every field here came from the text.
+**574 concepts, 1530 relations**, derived by reading 298 source files in `~/praxia`. Source frontmatter was a hint, not an import; every field here came from the text.
 
 `confidence: stated` = asserted in the prose. `inferred` = deduced — check these first.
 
@@ -18,7 +18,7 @@ status: draft
 
 ## Settled
 
-* **448 concepts** are `stated` — asserted in the source text, with the sentence recorded in `evidence` wherever a relation needed defending.
+* **451 concepts** are `stated` — asserted in the source text, with the sentence recorded in `evidence` wherever a relation needed defending.
 * **107 prep and reference files** are carried for coverage with no summary invented for them. Not a gap: the vault text is the content.
 * Duplicate candidates, contradictions and unwritten entities: see [reconciliation.md](reconciliation.md).
 
@@ -28,7 +28,6 @@ status: draft
 They appear as plain text and become links the moment someone writes the page.
 
 * Bitterness (2 references)
-* The Darking Way (2 references)
 * Bel (1 reference)
 * Antipathy (1 reference)
 * Yeenoghu (1 reference)
@@ -37,6 +36,7 @@ They appear as plain text and become links the moment someone writes the page.
 * Mordenkainen (1 reference)
 * Krull (1 reference)
 * Hand Of Vecna (1 reference)
+* Qorgeth (1 reference)
 
 ## Reverse index
 
@@ -94,7 +94,7 @@ Each relation is stored once; these are the questions the other direction answer
 
 * **Atley** ← Hale's Ales, The Church Of Amoth (Atley)
 * **Aventine** ← Armak Rockfist, Axiat, Bataar Highfury, Erzohd Baendi, Faendal, House Umbra, Hull Ward, Kaelen Varrus, Keyleth, Merchant Ward, Osdryn Bluestrike, Parwairt, Raestrums Feather And Fountain, Sword's Cross, Taelian, The Docks, The High Ward, The Naphtha Caves, The Temple District, The Underground, The Zuppek Bazaar, Uppercuts, Xavis
-* **Avernus** ← Ardmon Ignus Lacqui, Drakith, Grandma Valar, Morugal, The Dock Of Fallen Cities, The Wandering Emporium, Tiamat's Lair, Vaxith, the Hand In The Dark, Vyrassinth the Whispercoil
+* **Avernus** ← Ardmon Ignus Lacqui, Drakith, Grandma Valar, Morugal, Qorgeth's Labyrinth, The Dock Of Fallen Cities, The Wandering Emporium, Tiamat's Lair, Vaxith, the Hand In The Dark, Vyrassinth the Whispercoil
 * **Axiat** ← The Brimming Tankard, The Palace, The University Of Aventine
 * **Bedlam's Faire** ← Essie Darksinger
 * **Camadan** ← Aventine, Dirion, The Mining Camp, The Xorn Cave
@@ -562,7 +562,7 @@ Amara - High druid of the Glade, keeper of the Druidfel
 Half-elf rogue, lawful neutral
 * **Part of:** The Leaning Leg (campaign, 25 BR)
 
-### maps — 70
+### maps — 71
 
 #### [Map: Amenopophis door](world/maps/map-amenopophis-door.md) · `map` · stated
 Map: Amenopophis door — 2.5 MB original in the source vault.
@@ -761,6 +761,10 @@ Map: Praxia old — 1.2 MB original in the source vault.
 #### [Map: Praxia underdark](world/maps/map-praxia-underdark.md) · `map` · stated
 Map: Praxia underdark — 2.1 MB original in the source vault.
 * **Depicts:** The Underdark
+
+#### [Map: Qorgethslabryinth](world/maps/map-qorgethslabryinth.md) · `map` · stated
+Map: Qorgethslabryinth — 2.4 MB original in the source vault.
+* **Depicts:** Qorgeth's Labyrinth
 
 #### [Map: Scan](world/maps/map-scan.md) · `map` · stated
 Map: Scan — 0.2 MB original in the source vault.
@@ -1674,7 +1678,7 @@ God to whom the Horns of the Order of Light are pledged; tribute is a severed ha
 * **Served by:** Alphonse Horn, Halcyon Horn
 
 #### [Urush Gûl](world/people/urush-gul.md) · `npc` · stated
-An ancient red dragon sworn to Tiamat; once ordered only to weaken RBG, he gave them the Searing Brand and crippled the Discontent. Tiamat punished him for that boon and ordered him to hunt the party down and kill them or not return. He caught them in castle ruins on Avernus and Notorious RBG killed him there, on 11 Rotting 07 by his own note (the session note gives 10 The Rotting 07).
+An ancient red dragon sworn to Tiamat; once ordered only to weaken RBG, he gave them the Searing Brand and crippled the Discontent. Tiamat punished him for that boon and ordered him to hunt the party down and kill them or not return. He caught them in castle ruins on Avernus and Notorious RBG killed him there on 11 The Rotting 07.
 * **Serves:** Tiamat
   > 'Urush has been tasked by Tiamat to do one thing: Weaken the party.' — but 'Urush Gûl prefers having humanoids and others to serve him. If Tiamat wins, his life becomes... boring.'
 * **Enemies:** Notorious RBG
@@ -1779,7 +1783,7 @@ Librarian of Ironstead, who showed RBG the -2000 FR woodcut of the five heroes.
 Commander of Urdun's 200-strong militia.
 * **Leads:** Urdun
 
-### places — 86
+### places — 87
 
 #### [Atley](world/places/atley.md) · `poi` · stated
 A dwindling town on Nova Zuros, steadily diminished by Morwenna's feedings; most of it now abandoned.
@@ -1801,11 +1805,12 @@ City-state of 500,000 plus 15,000 elven refugees, founded -400 FR by Ahmad Azari
   > frontmatter `enemies: [Tiamat, Hrare Nis]`
 
 #### [Avernus](world/places/avernus.md) · `plane` · stated
-The layer of the Nine Hells closest to the Prime Material, ruled by the fallen angel Zariel; entered by the Fields of Bone portal or by sailing the Helgoril down into the Styx.
+The layer of the Nine Hells closest to the Prime Material, ruled by the fallen angel Zariel; entered by the Fields of Bone portal or by sailing the Helgoril down into the Styx. Qorgeth's Labyrinth tunnels under the Styx in its upper-left corner.
 * **Imprisons:** Thargorax, Tiamat
   > 'She has been imprisoned on Avernus for two millennia.'
 * **Ruled by:** Zariel
-* **Contains:** Tiamat's Lair, The Dock Of Fallen Cities
+* **Contains:** Tiamat's Lair, The Dock Of Fallen Cities, Qorgeth's Labyrinth
+  > Avernus.md frontmatter 'landmarks: ... Qorgeth's Labyrinth'; 'A worm-infested tunnel complex in the upper-left corner of Avernus'.
 
 #### [Axiat](world/places/axiat.md) · `district` · stated
 Aventine's government district — the Palace, the central hospital, the guard, and the University.
@@ -1957,6 +1962,14 @@ Tortle shipbuilding village of 2,500 at the southern tip of Silidria, renowned f
 #### [Praxia](world/places/praxia.md) · `world` · stated
 The world. Its calendar resets at The Fall, dividing history into BR and FR.
 * **Contains:** Silidria, Essedria
+
+#### [Qorgeth's Labyrinth](world/places/qorgeths-labyrinth.md) · `poi` · stated
+*Also:* The Darking Way, qorgeths-labryinth
+A tunnel complex in the upper-left corner of Avernus, formerly the Darking Way, that passes under the River Styx and comes up beside Arkhan's Tower. The demon lord Qorgeth's Suffragans built it around a portal to his realm, meaning to move a demonic army by worm; the worms multiplied, collapsed tunnels and nested near the exit ramp. Its Styx-laden mud, ten Demonic Worms, Suffragan patrols, lost wanderers and cave-ins are the hazards; the note carries a 13-area key.
+* **Located in:** Avernus
+  > 'Qorgeth's Labyrinth is a tunnel complex in the upper-left corner of Avernus. It passes under the River Styx, and its exit ramp (area 9) comes out right next to Arkhan's Tower. It was formerly known as the Darking Way.'
+* **Founded by:** Qorgeth
+  > 'The demon lord Qorgeth launched an incursion into Avernus, using his Suffragans to build a complex around a portal to his realm.' Qorgeth, the Suffragans and the Demonic Worms have no notes of their own; named but unwritten.
 
 #### [Raestrums Feather And Fountain](world/places/raestrums-feather-and-fountain.md) · `poi` · stated
 A landmark of Aventine, named among the city's principal sites.
@@ -2650,7 +2663,7 @@ No prose in the source; carried for coverage.
 #### [prize-money](world/rules/prize-money.md) · `rule` · unknown
 Ship's captains are sometimes called upon to defend Aventine from pirates and opposing nations. When this happens, the captains may be compensated using "prize money" - a…
 
-### sessions — 64
+### sessions — 65
 
 #### [7 Stormclaw 23](world/sessions/7-stormclaw-23.md) · `session` · stated
 RBG tried to help Grekka with her crime problem. Turns out it was Panovar Flynt, trying to get extra protection money/make a move of his own. He used his underling, Glevel, to hire The Onion Brothers. RBG caught the Brothers in the act, found out wha
@@ -3011,7 +3024,7 @@ Recap: Tiamat's abishai, hands-off until now, attack RBG; the ice devil Antipath
 *Also:* 029_10_05_2026_RBG
 Recap: after the fight with an abishai hunting party, Cregyn's Divine Intervention lights up Tiamat's Monument and Arkhan's Tower (white beams), two dangers (red: a watchtower and an unidentified site) and Bazett, a somewhat-batty ultroloth whom Mordenkainen caged over a lake of demon ichor 250 years ago. Freed, Bazett says only reality-altering magic can strengthen the Chains of Gleynir and agrees to guide the party to the Tower, but not into it; they choose the Darking Way, a neglected tunnel under the Styx. Urush Gûl then catches them, his fire useless against their immunity, and they hide in castle ruins planning how to bring him down. The note's plan (watchtower narzugon, gnoll demoniacs of Yeenoghu, a raider drive-by) is above the recap.
 * **Part of:** The Fivefold Brand (arc)
-* **About:** Tiamat, Avernus, Hunted Across Avernus, Tiamat's revenge, Yeenoghu, Urush Gûl, Arkhan The Cruel, The Chains Of Gleynir, Tiamat's Lair, The Hand That Strikes, The Searing Brand, Cregyn, Bazett, Shumroth, Mordenkainen, The Darking Way
+* **About:** Tiamat, Avernus, Hunted Across Avernus, Tiamat's revenge, Yeenoghu, Urush Gûl, Arkhan The Cruel, The Chains Of Gleynir, Tiamat's Lair, The Hand That Strikes, The Searing Brand, Cregyn, Bazett, Shumroth, Mordenkainen, Qorgeth's Labyrinth
   > Recap: 'The only way to strengthen the Chains Of Gleynir is some form of reality-altering magic'; 'The Hand That Strikes would kill Gûl but exacts a high price'; 'your invulnerability to fire (ironically a boon Gûl granted)'; 'the Tower presents the easiest way past the swarms of Abishai and dragons guarding the Monument and into Tiamat's chamber'. Bazett, Shumroth ('apparently a demon lord... subjected to a steady drip from the River Styx'), Mordenkainen and the Darking Way have no notes of their own; named but unwritten.
 
 #### [Session 029 · Thargorax · 2 Sep 2024](world/sessions/031-09-02-2024-rbg.md) · `session` · stated
@@ -3026,7 +3039,7 @@ The party defeats Morwenna.
 Recap only: RBG faces Urush Gûl and kills the ancient red dragon after a long, drawn-out battle, then heads for an underground passage that leads past the watchtowers, under the River Styx and right up to Arkhan's Tower. The round-by-round fight is in the 9 Nov Otter transcript.
 * **Part of:** The Fivefold Brand (arc)
   > frontmatter 'storyline: The Fivefold Brand'.
-* **About:** Urush Gûl, Notorious RBG, Arkhan The Cruel, Avernus, Tiamat's revenge, The Darking Way
+* **About:** Urush Gûl, Notorious RBG, Arkhan The Cruel, Avernus, Tiamat's revenge, Qorgeth's Labyrinth
   > The recap names Urush Gûl and Arkhan's Tower and links Tiamat's Revenge; the 'underground passage... under the River Styx' is read as the Darking Way named in the 029 recap. Avernus from the storyline, not the text.
 
 #### [Session 030 · Thargorax · 2 Sep 2024](world/sessions/032-09-30-2024-rbg.md) · `session` · unknown
@@ -3034,6 +3047,14 @@ Recap only: RBG faces Urush Gûl and kills the ancient red dragon after a long, 
 * **Part of:** The Thargorax Arc
 * **Participants:** Drak, Mossy, Cregyn, Rikterr, Sango, Notorious RBG
 * **About:** 
+
+#### [Session 031 · Fivefold Brand · 23 Nov 2026](world/sessions/064-11-23-2026-rbg.md) · `session` · stated
+*Also:* 031_11_23_2026_RBG
+Stub for an upcoming game, no recap or plan yet: the note says only that the session takes place in Qorgeth's Labyrinth, on 12 The Rotting 07.
+* **Part of:** The Fivefold Brand (arc)
+  > frontmatter 'storyline: The Fivefold Brand'.
+* **About:** Qorgeth's Labyrinth, Notorious RBG, Tiamat's revenge
+  > Links qorgeths-labryinth and Tiamat's Revenge; 'party: Notorious RBG'.
 
 ### things — 17
 

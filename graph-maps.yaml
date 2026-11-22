@@ -549,6 +549,17 @@ concepts:
   relations:
     depicts:
     - underdark
+- id: map-qorgethslabryinth
+  kind: maps
+  type: map
+  title: 'Map: Qorgethslabryinth'
+  description: 'Map: Qorgethslabryinth — 2.4 MB original in the source vault.'
+  resource: file:///Users/i.lurie/praxia/_sourcebooks/maps/qorgethslabryinth.png
+  thumbnail: /assets/maps/map-qorgethslabryinth.jpg
+  confidence: stated
+  relations:
+    depicts:
+    - qorgeths-labyrinth
 - id: map-shadowmir
   kind: maps
   type: map
